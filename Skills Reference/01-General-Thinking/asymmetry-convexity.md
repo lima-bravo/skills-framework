@@ -43,9 +43,9 @@ A startup's investment in attending a major industry conference is asymmetric: t
 
 ## Connections
 
-→ **Margin of Safety** — asymmetry thinking and margin of safety are complementary: both protect against the downside while keeping upside accessible.
-→ **Two-Way Doors** — reversible decisions are structurally asymmetric: the downside is limited (you can reverse); the upside is the potential gain from trying.
-→ **Probabilistic Thinking** — asymmetry analysis requires explicit probability-and-magnitude estimation, not just probability alone.
+→ [**Margin of Safety**](../02-Systems/margin-of-safety.md) — asymmetry thinking and margin of safety are complementary: both protect against the downside while keeping upside accessible.
+→ [**Two-Way Doors**](two-way-doors.md) — reversible decisions are structurally asymmetric: the downside is limited (you can reverse); the upside is the potential gain from trying.
+→ [**Probabilistic Thinking**](probabilistic-thinking.md) — asymmetry analysis requires explicit probability-and-magnitude estimation, not just probability alone.
 
 ---
 

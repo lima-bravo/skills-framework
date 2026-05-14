@@ -43,9 +43,9 @@ A security team is allocating their budget. They've just experienced a phishing 
 
 ## Connections
 
-→ **Confirmation Bias** — both biases filter information through existing beliefs and experience; availability contributes to confirmation (the vivid examples that come to mind are usually consistent with existing beliefs).
-→ **Probabilistic Thinking** — the antidote to availability bias is explicit base-rate reasoning.
-→ **Anchoring** — recent vivid events anchor subsequent probability estimates.
+→ [**Confirmation Bias**](confirmation-bias.md) — both biases filter information through existing beliefs and experience; availability contributes to confirmation (the vivid examples that come to mind are usually consistent with existing beliefs).
+→ [**Probabilistic Thinking**](../01-General-Thinking/probabilistic-thinking.md) — the antidote to availability bias is explicit base-rate reasoning.
+→ [**Anchoring**](anchoring.md) — recent vivid events anchor subsequent probability estimates.
 
 ---
 

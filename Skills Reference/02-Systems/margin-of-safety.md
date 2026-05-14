@@ -43,9 +43,9 @@ A startup plans to raise 18 months of runway. Their model shows they'll reach pr
 
 ## Connections
 
-→ **Probabilistic Thinking** — margin of safety is the practical application of probabilistic thinking to plan design.
-→ **Inversion** — inversion identifies what could go wrong; margin of safety is the structural response.
-→ **Irreducibility** — some systems cannot be simplified without losing the properties you need; margin of safety is especially important in those cases.
+→ [**Probabilistic Thinking**](../01-General-Thinking/probabilistic-thinking.md) — margin of safety is the practical application of probabilistic thinking to plan design.
+→ [**Inversion**](../01-General-Thinking/inversion.md) — inversion identifies what could go wrong; margin of safety is the structural response.
+→ [**Irreducibility**](irreducibility.md) — some systems cannot be simplified without losing the properties you need; margin of safety is especially important in those cases.
 
 ---
 

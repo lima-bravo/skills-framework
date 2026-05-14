@@ -42,9 +42,9 @@ A school introduces a motivational intervention for students who scored exceptio
 
 ## Connections
 
-→ **Probabilistic Thinking** — regression to the mean is a statistical property that should inform probability estimates about future performance.
-→ **Anchoring** — recent extreme performance anchors expectations in a way that regression to the mean will frustrate.
-→ **Availability Bias** — vivid recent extreme outcomes are over-available and lead to over-attribution of the extreme performance to stable underlying causes.
+→ [**Probabilistic Thinking**](../01-General-Thinking/probabilistic-thinking.md) — regression to the mean is a statistical property that should inform probability estimates about future performance.
+→ [**Anchoring**](../05-Psychology/anchoring.md) — recent extreme performance anchors expectations in a way that regression to the mean will frustrate.
+→ [**Availability Bias**](../05-Psychology/availability-bias.md) — vivid recent extreme outcomes are over-available and lead to over-attribution of the extreme performance to stable underlying causes.
 
 ---
 

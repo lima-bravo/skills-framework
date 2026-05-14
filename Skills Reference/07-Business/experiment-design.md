@@ -43,9 +43,9 @@ An e-commerce team is testing whether a new checkout flow improves conversion. T
 
 ## Connections
 
-→ **Build-Measure-Learn** — experiment design disciplines the "measure" step of the BML cycle.
-→ **Probabilistic Thinking** — statistical significance and power are applications of probabilistic thinking to experiment design.
-→ **Confirmation Bias** — rigorous experiment design is the structural antidote to confirmation bias in analysis.
+→ [**Build-Measure-Learn**](../06-Startups/build-measure-learn.md) — experiment design disciplines the "measure" step of the BML cycle.
+→ [**Probabilistic Thinking**](../01-General-Thinking/probabilistic-thinking.md) — statistical significance and power are applications of probabilistic thinking to experiment design.
+→ [**Confirmation Bias**](../05-Psychology/confirmation-bias.md) — rigorous experiment design is the structural antidote to confirmation bias in analysis.
 
 ---
 

@@ -47,9 +47,9 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 
 ## Connections
 
-→ **Inversion** — first principles tells you what should be true; inversion tells you what would have to be true for the current answer to be wrong. Run both together.
-→ **Map-Territory** — first principles is a method for cleaning the map. If your map contains inherited assumptions, it may not reflect the territory.
-→ **Circle of Competence** — first principles reasoning in domains where you lack deep knowledge risks confident wrongness. Know where your bedrock is actually solid.
+→ [**Inversion**](inversion.md) — first principles tells you what should be true; inversion tells you what would have to be true for the current answer to be wrong. Run both together.
+→ [**Map-Territory**](map-territory.md) — first principles is a method for cleaning the map. If your map contains inherited assumptions, it may not reflect the territory.
+→ [**Circle of Competence**](circle-of-competence.md) — first principles reasoning in domains where you lack deep knowledge risks confident wrongness. Know where your bedrock is actually solid.
 
 ---
 

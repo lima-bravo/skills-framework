@@ -43,9 +43,9 @@ A startup's customer support is handled personally by the founders — every ema
 
 ## Connections
 
-→ **Bottlenecks** — scale transitions almost always involve discovering a new bottleneck that was invisible at smaller scale.
-→ **Diminishing Returns** — a common scale dynamic: early growth is supralinear, later growth hits diminishing returns.
-→ **Critical Mass** — some scale effects only activate above a critical threshold; below it, they don't exist at all.
+→ [**Bottlenecks**](bottlenecks.md) — scale transitions almost always involve discovering a new bottleneck that was invisible at smaller scale.
+→ [**Diminishing Returns**](diminishing-returns.md) — a common scale dynamic: early growth is supralinear, later growth hits diminishing returns.
+→ [**Critical Mass**](critical-mass.md) — some scale effects only activate above a critical threshold; below it, they don't exist at all.
 
 ---
 

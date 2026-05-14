@@ -43,9 +43,9 @@ Dropbox's famous explainer video is a canonical Build-Measure-Learn example. Bef
 
 ## Connections
 
-→ **MVP** — the "minimum" in Build-Measure-Learn is operationalized as an MVP.
-→ **Product-Market Fit** — Build-Measure-Learn is the process for discovering and validating PMF.
-→ **Experiment Design** — the formal rigor of experiment design disciplines the "measure" phase.
+→ [**MVP**](mvp.md) — the "minimum" in Build-Measure-Learn is operationalized as an MVP.
+→ [**Product-Market Fit**](product-market-fit.md) — Build-Measure-Learn is the process for discovering and validating PMF.
+→ [**Experiment Design**](../07-Business/experiment-design.md) — the formal rigor of experiment design disciplines the "measure" phase.
 
 ---
 

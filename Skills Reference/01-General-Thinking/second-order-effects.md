@@ -45,9 +45,9 @@ A city decides to build a new urban highway to reduce commute times (first-order
 
 ## Connections
 
-→ **Feedback Loops** — second-order thinking identifies the chains; feedback loop analysis describes when those chains circle back.
-→ **Incentives** — the most reliable second-order effects come from tracing how incentives shift after the first-order outcome.
-→ **Emergence** — second-order effects in complex systems often produce emergent properties that no single causal chain predicted.
+→ [**Feedback Loops**](../02-Systems/feedback-loops.md) — second-order thinking identifies the chains; feedback loop analysis describes when those chains circle back.
+→ [**Incentives**](../05-Psychology/incentives.md) — the most reliable second-order effects come from tracing how incentives shift after the first-order outcome.
+→ [**Emergence**](../02-Systems/emergence.md) — second-order effects in complex systems often produce emergent properties that no single causal chain predicted.
 
 ---
 

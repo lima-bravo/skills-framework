@@ -42,9 +42,9 @@ A team is planning a new market entry. They list their assumptions and find 35. 
 
 ## Connections
 
-→ **Business Model Canvas** — the canvas is the source document from which assumptions are extracted.
-→ **MVP** — the MVP is the cheapest device for testing the most critical assumptions.
-→ **Experiment Design** — assumption mapping defines what to test; experiment design defines how to test it validly.
+→ [**Business Model Canvas**](business-model-canvas.md) — the canvas is the source document from which assumptions are extracted.
+→ [**MVP**](../06-Startups/mvp.md) — the MVP is the cheapest device for testing the most critical assumptions.
+→ [**Experiment Design**](experiment-design.md) — assumption mapping defines what to test; experiment design defines how to test it validly.
 
 ---
 

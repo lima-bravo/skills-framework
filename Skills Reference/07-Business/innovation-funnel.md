@@ -42,9 +42,9 @@ A FMCG company runs an annual innovation sprint: 200 ideas entered, 50 developed
 
 ## Connections
 
-→ **Build-Measure-Learn** — each stage of the funnel is a BML cycle.
-→ **Assumption Mapping** — each stage tests specific assumptions before advancing.
-→ **Portfolio Map** — the portfolio map shows the aggregate distribution of bets across stages.
+→ [**Build-Measure-Learn**](../06-Startups/build-measure-learn.md) — each stage of the funnel is a BML cycle.
+→ [**Assumption Mapping**](assumption-mapping.md) — each stage tests specific assumptions before advancing.
+→ [**Portfolio Map**](portfolio-map.md) — the portfolio map shows the aggregate distribution of bets across stages.
 
 ---
 

@@ -45,9 +45,9 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 
 ## Connections
 
-→ **Bottlenecks** — the bottleneck is often the point where a balancing loop operates; remove it and reinforcing loops can operate freely.
-→ **Second-order Effects** — second-order effects are often feedback loop dynamics: the effect of an action circles back in ways that weren't anticipated.
-→ **Equilibrium** — the stable state of a system is determined by where its feedback loops balance.
+→ [**Bottlenecks**](bottlenecks.md) — the bottleneck is often the point where a balancing loop operates; remove it and reinforcing loops can operate freely.
+→ [**Second-order Effects**](../01-General-Thinking/second-order-effects.md) — second-order effects are often feedback loop dynamics: the effect of an action circles back in ways that weren't anticipated.
+→ [**Equilibrium**](equilibrium.md) — the stable state of a system is determined by where its feedback loops balance.
 
 ---
 

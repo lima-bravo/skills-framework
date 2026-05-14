@@ -42,9 +42,9 @@ A startup surveys customers who have been active in the last 30 days about their
 
 ## Connections
 
-→ **Randomness** — sampling quality determines how much of the variation you observe is signal vs. noise.
-→ **Probabilistic Thinking** — valid probability estimates require valid sampling.
-→ **Confirmation Bias** — convenience sampling often produces confirmation bias at the data collection stage.
+→ [**Randomness**](randomness.md) — sampling quality determines how much of the variation you observe is signal vs. noise.
+→ [**Probabilistic Thinking**](../01-General-Thinking/probabilistic-thinking.md) — valid probability estimates require valid sampling.
+→ [**Confirmation Bias**](../05-Psychology/confirmation-bias.md) — convenience sampling often produces confirmation bias at the data collection stage.
 
 ---
 

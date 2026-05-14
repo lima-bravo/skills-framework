@@ -42,9 +42,9 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 
 ## Connections
 
-→ **Critical Mass** — network effects only activate above the critical mass threshold.
-→ **Viral Growth** — the growth mechanism that most efficiently reaches critical mass.
-→ **Defensibility** — network effects are the strongest source of defensibility in digital markets.
+→ [**Critical Mass**](../02-Systems/critical-mass.md) — network effects only activate above the critical mass threshold.
+→ [**Viral Growth**](viral-growth.md) — the growth mechanism that most efficiently reaches critical mass.
+→ [**Defensibility**](defensibility.md) — network effects are the strongest source of defensibility in digital markets.
 
 ---
 

@@ -43,9 +43,9 @@ A startup's product team is deciding whether to deprecate a feature used by 8% o
 
 ## Connections
 
-→ **Sunk Cost** — sunk cost fallacy is loss aversion applied to past investment.
-→ **Anchoring** — the reference point determines which domain (gain or loss) a decision is experienced in.
-→ **Inversion** — explicitly stating what is at risk (loss framing) is an application of inversion.
+→ [**Sunk Cost**](sunk-cost.md) — sunk cost fallacy is loss aversion applied to past investment.
+→ [**Anchoring**](anchoring.md) — the reference point determines which domain (gain or loss) a decision is experienced in.
+→ [**Inversion**](../01-General-Thinking/inversion.md) — explicitly stating what is at risk (loss framing) is an application of inversion.
 
 ---
 

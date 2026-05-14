@@ -45,9 +45,9 @@ A successful SaaS founder raises a fund and begins making angel investments. Her
 
 ## Connections
 
-→ **First Principles** — first principles reasoning requires you to know which of your foundations are actually solid. Outside your circle, you cannot reliably identify first principles.
-→ **Dunning-Kruger** — the psychological mechanism that makes circle self-assessment hard; understanding one reinforces the other.
-→ **Probabilistic Thinking** — within your circle, probability estimates are more reliable. Outside it, confidence intervals should widen dramatically.
+→ [**First Principles**](first-principles.md) — first principles reasoning requires you to know which of your foundations are actually solid. Outside your circle, you cannot reliably identify first principles.
+→ [**Dunning-Kruger**](../05-Psychology/dunning-kruger.md) — the psychological mechanism that makes circle self-assessment hard; understanding one reinforces the other.
+→ [**Probabilistic Thinking**](probabilistic-thinking.md) — within your circle, probability estimates are more reliable. Outside it, confidence intervals should widen dramatically.
 
 ---
 

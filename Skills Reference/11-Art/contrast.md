@@ -42,9 +42,9 @@ A consulting firm's presentations suffer from slide decks with 40 uniformly form
 
 ## Connections
 
-→ **Framing** — contrast is often used to establish the frame (current state vs. desired state, problem vs. solution).
-→ **Audience** — what constitutes meaningful contrast depends on the audience's context and knowledge.
-→ **Rhythm** — contrast is the mechanism that creates variety within rhythm; the two work together.
+→ [**Framing**](framing.md) — contrast is often used to establish the frame (current state vs. desired state, problem vs. solution).
+→ [**Audience**](audience.md) — what constitutes meaningful contrast depends on the audience's context and knowledge.
+→ [**Rhythm**](rhythm.md) — contrast is the mechanism that creates variety within rhythm; the two work together.
 
 ---
 

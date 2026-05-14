@@ -43,9 +43,9 @@ Stripe entered the payments market dominated by established processors (PayPal, 
 
 ## Connections
 
-→ **Defensibility** — monopoly position must be defended; defensibility describes the mechanisms.
-→ **Creative Destruction** — monopolies are destroyed by new entrants competing on new dimensions.
-→ **Network Effects** — the most powerful monopoly-creating force in digital markets.
+→ [**Defensibility**](../09-Network-Effects/defensibility.md) — monopoly position must be defended; defensibility describes the mechanisms.
+→ [**Creative Destruction**](creative-destruction.md) — monopolies are destroyed by new entrants competing on new dimensions.
+→ [**Network Effects**](../09-Network-Effects/network-effects.md) — the most powerful monopoly-creating force in digital markets.
 
 ---
 

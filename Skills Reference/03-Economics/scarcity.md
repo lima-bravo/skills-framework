@@ -43,9 +43,9 @@ A Series B startup has raized successfully and has 24 months of runway. Capital 
 
 ## Connections
 
-→ **Trade-offs** — trade-offs only exist because of scarcity; unlimited resources eliminate most trade-offs.
-→ **Bottlenecks** — the bottleneck is the point of maximum scarcity in a process.
-→ **Opportunity Cost** — the economic concept that measures the cost of scarcity decisions.
+→ [**Trade-offs**](trade-offs.md) — trade-offs only exist because of scarcity; unlimited resources eliminate most trade-offs.
+→ [**Bottlenecks**](../02-Systems/bottlenecks.md) — the bottleneck is the point of maximum scarcity in a process.
+→ [**Opportunity Cost**](trade-offs.md) — the economic concept that measures the cost of scarcity decisions.
 
 ---
 

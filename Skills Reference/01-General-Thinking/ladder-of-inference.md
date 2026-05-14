@@ -43,9 +43,9 @@ A manager concludes that an employee "doesn't care about quality." Walking back 
 
 ## Connections
 
-→ **Map-Territory** — the ladder is a map of how maps (beliefs and conclusions) are built from territory (data). Errors in the climb produce maps that don't reflect territory.
-→ **Confirmation Bias** — the reflexive loop of the ladder is confirmation bias operating structurally.
-→ **Socratic Thinking** — Socratic questioning walks back down the ladder, questioning each inference.
+→ [**Map-Territory**](map-territory.md) — the ladder is a map of how maps (beliefs and conclusions) are built from territory (data). Errors in the climb produce maps that don't reflect territory.
+→ [**Confirmation Bias**](../05-Psychology/confirmation-bias.md) — the reflexive loop of the ladder is confirmation bias operating structurally.
+→ [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning walks back down the ladder, questioning each inference.
 
 ---
 

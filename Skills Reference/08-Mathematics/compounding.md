@@ -43,9 +43,9 @@ Amazon's flywheel is the most celebrated corporate compounding engine: lower pri
 
 ## Connections
 
-→ **Feedback Loops** — compounding is driven by reinforcing feedback loops; they are the same phenomenon.
-→ **Diminishing Returns** — the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy.
-→ **Margin of Safety** — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
+→ [**Feedback Loops**](../02-Systems/feedback-loops.md) — compounding is driven by reinforcing feedback loops; they are the same phenomenon.
+→ [**Diminishing Returns**](../02-Systems/diminishing-returns.md) — the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy.
+→ [**Margin of Safety**](../02-Systems/margin-of-safety.md) — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
 
 ---
 

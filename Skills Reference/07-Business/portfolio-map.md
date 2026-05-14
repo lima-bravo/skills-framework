@@ -42,9 +42,9 @@ Google's resource allocation explicitly accounts for the 70-20-10 rule: 70% of r
 
 ## Connections
 
-→ **Innovation Funnel** — the funnel produces the pipeline from which portfolio bets are drawn.
-→ **Diminishing Returns** — H1 returns diminish; H2 and H3 investments are hedges against that diminishment.
-→ **Creative Destruction** — H3 is the organization's hedge against being destroyed by external creative destruction.
+→ [**Innovation Funnel**](innovation-funnel.md) — the funnel produces the pipeline from which portfolio bets are drawn.
+→ [**Diminishing Returns**](../02-Systems/diminishing-returns.md) — H1 returns diminish; H2 and H3 investments are hedges against that diminishment.
+→ [**Creative Destruction**](../03-Economics/creative-destruction.md) — H3 is the organization's hedge against being destroyed by external creative destruction.
 
 ---
 

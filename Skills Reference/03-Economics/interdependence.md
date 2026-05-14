@@ -45,9 +45,9 @@ A large software company reorganizes into product squads, each responsible for a
 
 ## Connections
 
-→ **Second-order Effects** — interdependence is the mechanism by which second-order effects propagate through systems.
-→ **Feedback Loops** — interdependent systems have more feedback loops, more of which are invisible.
-→ **Emergence** — complex system behavior that appears emergent is often the result of untracked interdependencies.
+→ [**Second-order Effects**](../01-General-Thinking/second-order-effects.md) — interdependence is the mechanism by which second-order effects propagate through systems.
+→ [**Feedback Loops**](../02-Systems/feedback-loops.md) — interdependent systems have more feedback loops, more of which are invisible.
+→ [**Emergence**](../02-Systems/emergence.md) — complex system behavior that appears emergent is often the result of untracked interdependencies.
 
 ---
 

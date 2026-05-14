@@ -43,9 +43,9 @@ A company is about to launch a new pricing model. Pre-mortem: "It is Q4 and the 
 
 ## Connections
 
-→ **Inversion** — the pre-mortem is inversion operationalized as a group process.
-→ **Assumption Mapping** — failure causes in a pre-mortem often correspond to critical assumptions that weren't tested.
-→ **Margin of Safety** — pre-mortems identify the specific risks that margin of safety should buffer against.
+→ [**Inversion**](inversion.md) — the pre-mortem is inversion operationalized as a group process.
+→ [**Assumption Mapping**](../07-Business/assumption-mapping.md) — failure causes in a pre-mortem often correspond to critical assumptions that weren't tested.
+→ [**Margin of Safety**](../02-Systems/margin-of-safety.md) — pre-mortems identify the specific risks that margin of safety should buffer against.
 
 ---
 

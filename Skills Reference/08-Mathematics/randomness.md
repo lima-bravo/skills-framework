@@ -42,9 +42,9 @@ A startup's weekly active users fluctuate: 1,200 → 1,050 → 1,350 → 1,100 �
 
 ## Connections
 
-→ **Probabilistic Thinking** — probabilistic thinking is the framework for reasoning about domains with significant randomness.
-→ **Regression to the Mean** — regression to the mean is a specific, predictable form of randomness.
-→ **Sampling** — the quality of signals depends on sample size; small samples are dominated by randomness.
+→ [**Probabilistic Thinking**](../01-General-Thinking/probabilistic-thinking.md) — probabilistic thinking is the framework for reasoning about domains with significant randomness.
+→ [**Regression to the Mean**](regression-to-the-mean.md) — regression to the mean is a specific, predictable form of randomness.
+→ [**Sampling**](sampling.md) — the quality of signals depends on sample size; small samples are dominated by randomness.
 
 ---
 

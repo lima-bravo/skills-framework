@@ -43,9 +43,9 @@ A founder is raizing a Series A. The first VC she meets opens with "we're thinki
 
 ## Connections
 
-→ **Relativity** — anchoring is the mechanism by which reference frames are installed; relativity is the general principle.
-→ **Loss Aversion** — anchors work partly by framing deviations as losses (below anchor) or gains (above anchor).
-→ **Probabilistic Thinking** — the antidote to anchoring is independent base-rate analysis before exposure to anchors.
+→ [**Relativity**](../04-Physics-and-Chemistry/relativity.md) — anchoring is the mechanism by which reference frames are installed; relativity is the general principle.
+→ [**Loss Aversion**](loss-aversion.md) — anchors work partly by framing deviations as losses (below anchor) or gains (above anchor).
+→ [**Probabilistic Thinking**](../01-General-Thinking/probabilistic-thinking.md) — the antidote to anchoring is independent base-rate analysis before exposure to anchors.
 
 ---
 

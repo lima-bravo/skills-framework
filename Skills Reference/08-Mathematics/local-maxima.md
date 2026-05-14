@@ -42,9 +42,9 @@ A law firm has a highly profitable and well-optimized practice serving mid-marke
 
 ## Connections
 
-→ **Optimization** — local maxima are the primary failure mode of optimization algorithms.
-→ **Diminishing Returns** — diminishing returns is the signature of approaching a local maximum.
-→ **Creative Destruction** — large-scale local maxima (industry structures) are escaped by creative destruction, not incremental improvement.
+→ [**Optimization**](../03-Economics/optimization.md) — local maxima are the primary failure mode of optimization algorithms.
+→ [**Diminishing Returns**](../02-Systems/diminishing-returns.md) — diminishing returns is the signature of approaching a local maximum.
+→ [**Creative Destruction**](../03-Economics/creative-destruction.md) — large-scale local maxima (industry structures) are escaped by creative destruction, not incremental improvement.
 
 ---
 

@@ -43,9 +43,9 @@ Jeff Bezos's "two-pizza team" rule emerged from a thought experiment: if coordin
 
 ## Connections
 
-→ **First Principles** — thought experiments often use first principles reasoning to work out the implications of basic laws.
-→ **Inversion** — the pre-mortem is a thought experiment in inversion: imagine the failure state and reason backward.
-→ **Second-order Effects** — thought experiments are ideal for tracing second-order chains in controlled, simplified form before applying the reasoning to real systems.
+→ [**First Principles**](first-principles.md) — thought experiments often use first principles reasoning to work out the implications of basic laws.
+→ [**Inversion**](inversion.md) — the pre-mortem is a thought experiment in inversion: imagine the failure state and reason backward.
+→ [**Second-order Effects**](second-order-effects.md) — thought experiments are ideal for tracing second-order chains in controlled, simplified form before applying the reasoning to real systems.
 
 ---
 

@@ -43,9 +43,9 @@ Zappos founder Nick Swinmurn wanted to test whether people would buy shoes onlin
 
 ## Connections
 
-→ **Build-Measure-Learn** — the MVP is the "build" artefact in each BML cycle.
-→ **Assumption Mapping** — assumption mapping identifies which assumptions the MVP should test.
-→ **Customer Development** — customer development generates the hypotheses that the MVP tests.
+→ [**Build-Measure-Learn**](build-measure-learn.md) — the MVP is the "build" artefact in each BML cycle.
+→ [**Assumption Mapping**](../07-Business/assumption-mapping.md) — assumption mapping identifies which assumptions the MVP should test.
+→ [**Customer Development**](customer-development.md) — customer development generates the hypotheses that the MVP tests.
 
 ---
 

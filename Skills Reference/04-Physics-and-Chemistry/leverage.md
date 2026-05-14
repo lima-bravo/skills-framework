@@ -43,9 +43,9 @@ A founder spends the first year of her company answering customer support person
 
 ## Connections
 
-→ **Bottlenecks** — applying leverage to bottlenecks produces the highest system-wide return.
-→ **Scale** — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
-→ **Algorithms** — code and algorithms are the highest-leverage form of knowledge work.
+→ [**Bottlenecks**](../02-Systems/bottlenecks.md) — applying leverage to bottlenecks produces the highest system-wide return.
+→ [**Scale**](../02-Systems/scale.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
+→ [**Algorithms**](../02-Systems/algorithms.md) — code and algorithms are the highest-leverage form of knowledge work.
 
 ---
 

@@ -43,9 +43,9 @@ The 2000-2001 dot-com bubble followed the classic structure. The displacement: t
 
 ## Connections
 
-→ **Feedback Loops** — bubble dynamics are driven by reinforcing feedback loops (rizing prices attract more buyers, which drives prices higher).
-→ **Regression to the Mean** — asset prices that have deviated far from intrinsic value tend to revert; bubbles are extreme cases.
-→ **Incentives** — understanding the incentives of capital allocators, analysts, and media during bubble phases explains why they persist beyond what fundamental analysis would suggest.
+→ [**Feedback Loops**](../02-Systems/feedback-loops.md) — bubble dynamics are driven by reinforcing feedback loops (rizing prices attract more buyers, which drives prices higher).
+→ [**Regression to the Mean**](../08-Mathematics/regression-to-the-mean.md) — asset prices that have deviated far from intrinsic value tend to revert; bubbles are extreme cases.
+→ [**Incentives**](../05-Psychology/incentives.md) — understanding the incentives of capital allocators, analysts, and media during bubble phases explains why they persist beyond what fundamental analysis would suggest.
 
 ---
 

@@ -43,9 +43,9 @@ A Slack workspace creates a single all-company channel. Initially, it contains v
 
 ## Connections
 
-→ **Incentives** — Gresham's Law is driven by incentive differentials; change the incentives and the dynamic changes.
-→ **Efficiency** — Gresham's Law is a market efficiency failure when quality is not priced.
-→ **Availability Bias** — information that is more available (because it's cheap to produce) gets more attention, driving out slower, more careful analysis.
+→ [**Incentives**](../05-Psychology/incentives.md) — Gresham's Law is driven by incentive differentials; change the incentives and the dynamic changes.
+→ [**Efficiency**](efficiency.md) — Gresham's Law is a market efficiency failure when quality is not priced.
+→ [**Availability Bias**](../05-Psychology/availability-bias.md) — information that is more available (because it's cheap to produce) gets more attention, driving out slower, more careful analysis.
 
 ---
 

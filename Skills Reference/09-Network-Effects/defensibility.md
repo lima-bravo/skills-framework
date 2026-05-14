@@ -42,9 +42,9 @@ Amazon's defensibility is often described as its logistics network. But the actu
 
 ## Connections
 
-→ **Network Effects** — the strongest defensibility moat in digital markets.
-→ **Monopoly vs. Competition** — defensibility is the mechanism that converts temporary competitive advantage into a monopoly-adjacent position.
-→ **Compounding** — defensibility enables the compounding of competitive advantage; without it, advantage decays.
+→ [**Network Effects**](network-effects.md) — the strongest defensibility moat in digital markets.
+→ [**Monopoly vs. Competition**](../03-Economics/monopoly-vs-competition.md) — defensibility is the mechanism that converts temporary competitive advantage into a monopoly-adjacent position.
+→ [**Compounding**](../08-Mathematics/compounding.md) — defensibility enables the compounding of competitive advantage; without it, advantage decays.
 
 ---
 

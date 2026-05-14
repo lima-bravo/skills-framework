@@ -43,9 +43,9 @@ An engineering team's deployment process requires: code review (necessary), inte
 
 ## Connections
 
-→ **Activation Energy** — activation energy is the specific friction at the start of a process; reducing it is often the highest-leverage friction intervention.
-→ **Leverage** — low-friction systems produce higher leverage; friction reduces the multiple.
-→ **Inertia** — friction in the context of directional change is the energy cost of overcoming inertia.
+→ [**Activation Energy**](activation-energy.md) — activation energy is the specific friction at the start of a process; reducing it is often the highest-leverage friction intervention.
+→ [**Leverage**](leverage.md) — low-friction systems produce higher leverage; friction reduces the multiple.
+→ [**Inertia**](inertia.md) — friction in the context of directional change is the energy cost of overcoming inertia.
 
 ---
 

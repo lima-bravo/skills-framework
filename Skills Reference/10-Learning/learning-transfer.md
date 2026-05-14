@@ -43,9 +43,9 @@ A former military officer joins a startup as COO. Her military training: clear m
 
 ## Connections
 
-→ **Model Chaining** — learning transfer is how models from different domains become available for chaining.
-→ **T-shaped** — the horizontal bar enables learning transfer across domains.
-→ **First Principles** — the abstraction step in learning transfer often requires first-principles thinking to identify what the transferable principle actually is.
+→ [**Model Chaining**](model-chaining.md) — learning transfer is how models from different domains become available for chaining.
+→ [**T-shaped**](t-shaped.md) — the horizontal bar enables learning transfer across domains.
+→ [**First Principles**](../01-General-Thinking/first-principles.md) — the abstraction step in learning transfer often requires first-principles thinking to identify what the transferable principle actually is.
 
 ---
 

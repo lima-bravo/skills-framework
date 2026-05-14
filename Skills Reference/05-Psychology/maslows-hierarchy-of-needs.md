@@ -42,9 +42,9 @@ A company introduces a purpose-driven culture program with a compelling mission,
 
 ## Connections
 
-→ **Incentives** — Maslow provides the structural framework for understanding which incentives correspond to which motivational needs.
-→ **ERG Theory** — Alderfer's ERG is a simplified, less strictly hierarchical refinement of Maslow.
-→ **Psychological Safety** — organizational psychological safety corresponds to Maslow's safety level applied to the team context.
+→ [**Incentives**](incentives.md) — Maslow provides the structural framework for understanding which incentives correspond to which motivational needs.
+→ [**ERG Theory**](erg-theory.md) — Alderfer's ERG is a simplified, less strictly hierarchical refinement of Maslow.
+→ [**Psychological Safety**](psychological-safety.md) — organizational psychological safety corresponds to Maslow's safety level applied to the team context.
 
 ---
 

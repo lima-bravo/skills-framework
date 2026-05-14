@@ -42,8 +42,8 @@ A company is experiencing high customer churn despite strong product reviews. Mo
 
 ## Connections
 
-→ **First Principles** — model chains are built from principled building blocks, not arbitrary combinations.
-→ **Pre-built Chains** — the pre-built chains in this framework are curated model chains for specific recurring decisions.
+→ [**First Principles**](../01-General-Thinking/first-principles.md) — model chains are built from principled building blocks, not arbitrary combinations.
+→ [**Pre-built Chains**](pre-built-chains.md) — the pre-built chains in this framework are curated model chains for specific recurring decisions.
 
 ---
 

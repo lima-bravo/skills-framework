@@ -43,9 +43,9 @@ Reddit's early growth strategy was to create fake accounts and post content them
 
 ## Connections
 
-→ **Network Effects** — network effects describe the dynamics above critical mass.
-→ **Feedback Loops** — the self-reinforcing dynamic above critical mass is a reinforcing feedback loop.
-→ **Viral Growth** — viral coefficient above 1 is the mechanism by which critical mass, once approached, is crossed.
+→ [**Network Effects**](../09-Network-Effects/network-effects.md) — network effects describe the dynamics above critical mass.
+→ [**Feedback Loops**](feedback-loops.md) — the self-reinforcing dynamic above critical mass is a reinforcing feedback loop.
+→ [**Viral Growth**](../09-Network-Effects/viral-growth.md) — viral coefficient above 1 is the mechanism by which critical mass, once approached, is crossed.
 
 ---
 

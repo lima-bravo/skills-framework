@@ -45,9 +45,9 @@ A B2B SaaS company reports 92% annual gross retention — excellent by industry 
 
 ## Connections
 
-→ **Compounding** — churn is the subtrahend in the compounding equation; reducing churn dramatically changes the long-run trajectory.
-→ **Feedback Loops** — high churn can trigger a reinforcing negative loop (fewer users → less word of mouth → higher CAC → less investment in product → more churn).
-→ **Bottlenecks** — in a growth system, churn is often the binding constraint that limits net growth despite strong acquisition.
+→ [**Compounding**](../08-Mathematics/compounding.md) — churn is the subtrahend in the compounding equation; reducing churn dramatically changes the long-run trajectory.
+→ [**Feedback Loops**](feedback-loops.md) — high churn can trigger a reinforcing negative loop (fewer users → less word of mouth → higher CAC → less investment in product → more churn).
+→ [**Bottlenecks**](bottlenecks.md) — in a growth system, churn is often the binding constraint that limits net growth despite strong acquisition.
 
 ---
 

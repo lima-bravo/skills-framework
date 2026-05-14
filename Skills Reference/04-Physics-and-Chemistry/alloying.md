@@ -43,9 +43,9 @@ A consulting firm combines strategy expertise (good at defining what to do) with
 
 ## Connections
 
-→ **Emergence** — alloy properties are emergent: they arise from the combination and cannot be predicted from components alone.
-→ **Specialization** — alloying is the counterpoint: specialization goes deep in one element; alloying finds value in the right combination of specialized elements.
-→ **T-shaped** — the individual-level alloy: deep expertise in one area combined with breadth provides properties (contextual judgment + specialist depth) neither alone produces.
+→ [**Emergence**](../02-Systems/emergence.md) — alloy properties are emergent: they arise from the combination and cannot be predicted from components alone.
+→ [**Specialization**](../03-Economics/specialization.md) — alloying is the counterpoint: specialization goes deep in one element; alloying finds value in the right combination of specialized elements.
+→ [**T-shaped**](../10-Learning/t-shaped.md) — the individual-level alloy: deep expertise in one area combined with breadth provides properties (contextual judgment + specialist depth) neither alone produces.
 
 ---
 

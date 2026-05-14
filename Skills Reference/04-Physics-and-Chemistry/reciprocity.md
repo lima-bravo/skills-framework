@@ -43,9 +43,9 @@ A venture partner makes ten introductions to potential customers for a startup f
 
 ## Connections
 
-→ **Incentives** — reciprocity is a social incentive structure that operates even in the absence of formal incentive systems.
-→ **Trust** — reciprocity and trust are deeply connected; consistent reciprocation over time builds trust.
-→ **Network Effects** — reciprocal networks (where giving to one member benefits others) are more valuable than transactional ones.
+→ [**Incentives**](../05-Psychology/incentives.md) — reciprocity is a social incentive structure that operates even in the absence of formal incentive systems.
+→ [**Trust**](../05-Psychology/trust.md) — reciprocity and trust are deeply connected; consistent reciprocation over time builds trust.
+→ [**Network Effects**](../09-Network-Effects/network-effects.md) — reciprocal networks (where giving to one member benefits others) are more valuable than transactional ones.
 
 ---
 

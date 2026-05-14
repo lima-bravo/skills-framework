@@ -45,9 +45,9 @@ A management team wants to shift from a hierarchical to a flat decision-making c
 
 ## Connections
 
-→ **Feedback Loops** — equilibrium is maintained by balancing feedback loops; it is disrupted by reinforcing ones.
-→ **Activation Energy** — shifting between equilibria requires an energy input to overcome the barrier between them.
-→ **Creative Destruction** — industry equilibria are periodically disrupted; understanding the mechanism of disruption is the creative destruction mental model.
+→ [**Feedback Loops**](feedback-loops.md) — equilibrium is maintained by balancing feedback loops; it is disrupted by reinforcing ones.
+→ [**Activation Energy**](../04-Physics-and-Chemistry/activation-energy.md) — shifting between equilibria requires an energy input to overcome the barrier between them.
+→ [**Creative Destruction**](../03-Economics/creative-destruction.md) — industry equilibria are periodically disrupted; understanding the mechanism of disruption is the creative destruction mental model.
 
 ---
 

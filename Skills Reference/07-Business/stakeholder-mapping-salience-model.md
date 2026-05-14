@@ -43,9 +43,9 @@ A logistics company plans to build a new sorting facility in a mid-sized town. I
 
 ## Connections
 
-→ **Incentives** — stakeholder salience is determined partly by incentive alignment. High-power stakeholders whose incentives are aligned need less intensive management than those whose incentives are misaligned.
-→ **Second-order Effects** — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates. The map is the tool for anticipating this.
-→ **Interdependence** — stakeholders are nodes in an interdependence web; the salience model helps prioritize which dependencies to manage most actively.
+→ [**Incentives**](../05-Psychology/incentives.md) — stakeholder salience is determined partly by incentive alignment. High-power stakeholders whose incentives are aligned need less intensive management than those whose incentives are misaligned.
+→ [**Second-order Effects**](../01-General-Thinking/second-order-effects.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates. The map is the tool for anticipating this.
+→ [**Interdependence**](../03-Economics/interdependence.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritize which dependencies to manage most actively.
 
 ---
 

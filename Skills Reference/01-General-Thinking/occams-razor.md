@@ -45,9 +45,9 @@ A startup's north-star metric drops 15% over two weeks. The team generates three
 
 ## Connections
 
-→ **First Principles** — both strip away unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations.
-→ **Probabilistic Thinking** — when explanations are roughly equally probable, Occam provides the tiebreaker.
-→ **Confirmation Bias** — complex explanations are often motivated; Occam is a check on that motivation.
+→ [**First Principles**](first-principles.md) — both strip away unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations.
+→ [**Probabilistic Thinking**](probabilistic-thinking.md) — when explanations are roughly equally probable, Occam provides the tiebreaker.
+→ [**Confirmation Bias**](../05-Psychology/confirmation-bias.md) — complex explanations are often motivated; Occam is a check on that motivation.
 
 ---
 

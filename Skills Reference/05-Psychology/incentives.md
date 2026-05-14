@@ -43,9 +43,9 @@ A software company introduces a bug bounty program: developers find and report b
 
 ## Connections
 
-→ **Second-order Effects** — incentive systems produce second-order effects that are often the opposite of the intended first-order effect.
-→ **Gresham's Law** — Gresham's Law is incentive dynamics applied to market competition between quality tiers.
-→ **Feedback Loops** — incentives create feedback loops; the loop structure determines whether the incentive produces the intended long-run outcome.
+→ [**Second-order Effects**](../01-General-Thinking/second-order-effects.md) — incentive systems produce second-order effects that are often the opposite of the intended first-order effect.
+→ [**Gresham's Law**](../03-Economics/greshams-law.md) — Gresham's Law is incentive dynamics applied to market competition between quality tiers.
+→ [**Feedback Loops**](../02-Systems/feedback-loops.md) — incentives create feedback loops; the loop structure determines whether the incentive produces the intended long-run outcome.
 
 ---
 

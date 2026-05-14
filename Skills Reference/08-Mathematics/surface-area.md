@@ -42,9 +42,9 @@ An author publishes a book on a technical topic. The book is the expansion of su
 
 ## Connections
 
-→ **Network Effects** — surface area determines the surface over which network effects can operate.
-→ **Leverage** — high surface area creates high leverage for opportunities; each public artefact multiplies the inbound.
-→ **Margin of Safety** — high surface area increases vulnerability; margin of safety provides buffer.
+→ [**Network Effects**](../09-Network-Effects/network-effects.md) — surface area determines the surface over which network effects can operate.
+→ [**Leverage**](../04-Physics-and-Chemistry/leverage.md) — high surface area creates high leverage for opportunities; each public artefact multiplies the inbound.
+→ [**Margin of Safety**](../02-Systems/margin-of-safety.md) — high surface area increases vulnerability; margin of safety provides buffer.
 
 ---
 

@@ -45,9 +45,9 @@ A consultancy builds a unified pricing model for a client, arguing that the curr
 
 ## Connections
 
-→ **Emergence** — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
-→ **Algorithms** — irreducible systems are those that resist algorithmic shortcuts; for them, simulation or direct evolution is the only reliable approach.
-→ **Map-Territory** — an irreducible system resists accurate mapping; the practitioner must hold the map loosely.
+→ [**Emergence**](emergence.md) — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
+→ [**Algorithms**](algorithms.md) — irreducible systems are those that resist algorithmic shortcuts; for them, simulation or direct evolution is the only reliable approach.
+→ [**Map-Territory**](../01-General-Thinking/map-territory.md) — an irreducible system resists accurate mapping; the practitioner must hold the map loosely.
 
 ---
 

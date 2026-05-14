@@ -43,9 +43,9 @@ A marketing team has been investing in content and SEO for three years. The firs
 
 ## Connections
 
-→ **Optimization** — optimization explicitly works with marginal returns, finding the allocation that maximizes total output.
-→ **Local Maxima** — diminishing returns are the mechanism by which you get trapped on local maxima.
-→ **Compounding** — compounding is the opposite dynamic; understanding both helps identify which type of curve you're on.
+→ [**Optimization**](../03-Economics/optimization.md) — optimization explicitly works with marginal returns, finding the allocation that maximizes total output.
+→ [**Local Maxima**](../08-Mathematics/local-maxima.md) — diminishing returns are the mechanism by which you get trapped on local maxima.
+→ [**Compounding**](../08-Mathematics/compounding.md) — compounding is the opposite dynamic; understanding both helps identify which type of curve you're on.
 
 ---
 

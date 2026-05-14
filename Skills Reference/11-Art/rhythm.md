@@ -43,9 +43,9 @@ A keynote speaker is preparing a 20-minute talk. Rhythm design: Open with a prov
 
 ## Connections
 
-→ **Contrast** — rhythm works through contrast: the variation within the pattern is contrast; the pattern itself is rhythm.
-→ **Audience** — the right rhythm for any work depends on the audience's attention span, familiarity with the content, and context.
-→ **Framing** — the opening rhythm establishes the frame; a carefully designed opening sets the pace and tone for everything that follows.
+→ [**Contrast**](contrast.md) — rhythm works through contrast: the variation within the pattern is contrast; the pattern itself is rhythm.
+→ [**Audience**](audience.md) — the right rhythm for any work depends on the audience's attention span, familiarity with the content, and context.
+→ [**Framing**](framing.md) — the opening rhythm establishes the frame; a carefully designed opening sets the pace and tone for everything that follows.
 
 ---
 

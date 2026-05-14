@@ -43,9 +43,9 @@ A company wants engineers to write more documentation. They mandate it, incentiv
 
 ## Connections
 
-→ **Friction** — activation energy is the specific form of friction at the start of a process.
-→ **Catalysts** — the chemical mechanism for reducing activation energy; organizations have analogous catalysts.
-→ **Inertia** — activation energy is required to overcome inertia; they are related but distinct.
+→ [**Friction**](friction.md) — activation energy is the specific form of friction at the start of a process.
+→ [**Catalysts**](catalysts.md) — the chemical mechanism for reducing activation energy; organizations have analogous catalysts.
+→ [**Inertia**](inertia.md) — activation energy is required to overcome inertia; they are related but distinct.
 
 ---
 

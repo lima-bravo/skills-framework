@@ -42,9 +42,9 @@ A product team is designing onboarding for a B2B analytics tool. Their default a
 
 ## Connections
 
-→ **Customer Development** — customer development generates the empirical data that makes audience models accurate.
-→ **Value Prop Canvas** — the customer profile side is the audience model for product design.
-→ **Framing** — how information is framed should be calibrated to the specific audience model.
+→ [**Customer Development**](../06-Startups/customer-development.md) — customer development generates the empirical data that makes audience models accurate.
+→ [**Value Prop Canvas**](../07-Business/value-prop-canvas.md) — the customer profile side is the audience model for product design.
+→ [**Framing**](framing.md) — how information is framed should be calibrated to the specific audience model.
 
 ---
 

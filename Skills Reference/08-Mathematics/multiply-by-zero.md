@@ -42,9 +42,9 @@ A SaaS company has excellent product-market fit, a talented team, and strong uni
 
 ## Connections
 
-→ **Bottlenecks** — the zero factor is often a system bottleneck taken to its extreme.
-→ **First Principles** — identifying zeros requires asking what is genuinely necessary vs. merely valuable.
-→ **Margin of Safety** — zeros are the risks that margin of safety is most important for protecting against.
+→ [**Bottlenecks**](../02-Systems/bottlenecks.md) — the zero factor is often a system bottleneck taken to its extreme.
+→ [**First Principles**](../01-General-Thinking/first-principles.md) — identifying zeros requires asking what is genuinely necessary vs. merely valuable.
+→ [**Margin of Safety**](../02-Systems/margin-of-safety.md) — zeros are the risks that margin of safety is most important for protecting against.
 
 ---
 

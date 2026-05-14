@@ -43,9 +43,9 @@ A product team has three months before a major launch. They can ship a feature-c
 
 ## Connections
 
-→ **Scarcity** — trade-offs exist because scarcity makes it impossible to have everything; remove scarcity and the trade-off dissolves.
-→ **Optimization** — optimization is the formal approach to finding the best point on the trade-off frontier.
-→ **Opportunity Cost** — the economic concept that formalizes the cost of trade-offs.
+→ [**Scarcity**](scarcity.md) — trade-offs exist because scarcity makes it impossible to have everything; remove scarcity and the trade-off dissolves.
+→ [**Optimization**](optimization.md) — optimization is the formal approach to finding the best point on the trade-off frontier.
+→ [**Opportunity Cost**](trade-offs.md) — the economic concept that formalizes the cost of trade-offs.
 
 ---
 

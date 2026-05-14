@@ -45,9 +45,9 @@ Amazon's decision to build AWS illustrates comparative advantage analysis at the
 
 ## Connections
 
-→ **Trade-offs** — specialization requires trading away activities you could do yourself; this is the fundamental trade-off.
-→ **T-shaped** — the learning model that operationalizes specialization at the individual level.
-→ **Monopoly vs. Competition** — extreme specialization can create a monopoly position in a narrow domain.
+→ [**Trade-offs**](trade-offs.md) — specialization requires trading away activities you could do yourself; this is the fundamental trade-off.
+→ [**T-shaped**](../10-Learning/t-shaped.md) — the learning model that operationalizes specialization at the individual level.
+→ [**Monopoly vs. Competition**](monopoly-vs-competition.md) — extreme specialization can create a monopoly position in a narrow domain.
 
 ---
 

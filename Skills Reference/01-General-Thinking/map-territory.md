@@ -45,9 +45,9 @@ A retail chain builds an inventory optimization model that performs excellently 
 
 ## Connections
 
-→ **First Principles** — a method for building better maps from scratch.
-→ **Probabilistic Thinking** — maps should carry explicit confidence levels; treating map outputs as certain is the core failure mode.
-→ **Emergence** — emergent phenomena are definitionally hard to represent on maps because they arise from interactions the map does not capture.
+→ [**First Principles**](first-principles.md) — a method for building better maps from scratch.
+→ [**Probabilistic Thinking**](probabilistic-thinking.md) — maps should carry explicit confidence levels; treating map outputs as certain is the core failure mode.
+→ [**Emergence**](../02-Systems/emergence.md) — emergent phenomena are definitionally hard to represent on maps because they arise from interactions the map does not capture.
 
 ---
 

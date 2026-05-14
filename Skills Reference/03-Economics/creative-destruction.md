@@ -45,9 +45,9 @@ Kodak invented the digital camera in 1975 and buried the invention because it th
 
 ## Connections
 
-→ **Monopoly vs. Competition** — monopoly positions are the primary targets of creative destruction.
-→ **S-curves** (see Compounding/Learning) — creative destruction describes the jump between S-curves.
-→ **Second-order Effects** — the full impact of creative destruction on industries, workers, and communities takes years to unfold.
+→ [**Monopoly vs. Competition**](monopoly-vs-competition.md) — monopoly positions are the primary targets of creative destruction.
+→ [**S-curves**](../02-Systems/s-curves.md) (see Compounding/Learning) — creative destruction describes the jump between S-curves.
+→ [**Second-order Effects**](../01-General-Thinking/second-order-effects.md) — the full impact of creative destruction on industries, workers, and communities takes years to unfold.
 
 ---
 

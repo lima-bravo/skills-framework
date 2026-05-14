@@ -45,9 +45,9 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 
 ## Connections
 
-→ **Circle of Competence** — probability estimates are only as good as your underlying knowledge. Outside your circle, confidence intervals should be much wider.
-→ **Regression to the Mean** — understanding that extreme outcomes tend toward average is a structural input to probabilistic thinking.
-→ **Margin of Safety** — once you have a probability distribution on outcomes, margin of safety tells you how much buffer to hold.
+→ [**Circle of Competence**](circle-of-competence.md) — probability estimates are only as good as your underlying knowledge. Outside your circle, confidence intervals should be much wider.
+→ [**Regression to the Mean**](../08-Mathematics/regression-to-the-mean.md) — understanding that extreme outcomes tend toward average is a structural input to probabilistic thinking.
+→ [**Margin of Safety**](../02-Systems/margin-of-safety.md) — once you have a probability distribution on outcomes, margin of safety tells you how much buffer to hold.
 
 ---
 

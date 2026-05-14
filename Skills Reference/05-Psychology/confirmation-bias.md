@@ -43,9 +43,9 @@ A product manager is convinced a feature she has championed will improve retenti
 
 ## Connections
 
-→ **Inversion** — inversion is the active practice of disconfirmation, which is the direct antidote to confirmation bias.
-→ **Map-Territory** — confirmation bias prevents the map from updating when the territory changes.
-→ **Dunning-Kruger** — low competence correlates with high confidence and high confirmation bias; the combination is dangerous.
+→ [**Inversion**](../01-General-Thinking/inversion.md) — inversion is the active practice of disconfirmation, which is the direct antidote to confirmation bias.
+→ [**Map-Territory**](../01-General-Thinking/map-territory.md) — confirmation bias prevents the map from updating when the territory changes.
+→ [**Dunning-Kruger**](dunning-kruger.md) — low competence correlates with high confidence and high confirmation bias; the combination is dangerous.
 
 ---
 

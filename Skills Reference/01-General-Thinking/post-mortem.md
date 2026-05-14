@@ -43,9 +43,9 @@ Amazon's culture of written post-mortems after production incidents includes a s
 
 ## Connections
 
-→ **Pre-mortem** — the bookends: the pre-mortem imagines future failure; the post-mortem analyses actual failure. A mature team practices both.
-→ **Feedback Loops** — the post-mortem closes the feedback loop: action → outcome → learning → updated action.
-→ **Five-Hour Rule** — post-mortems are one of the most efficient uses of deliberate learning time because they are grounded in direct organizational experience.
+→ [**Pre-mortem**](pre-mortem.md) — the bookends: the pre-mortem imagines future failure; the post-mortem analyses actual failure. A mature team practices both.
+→ [**Feedback Loops**](../02-Systems/feedback-loops.md) — the post-mortem closes the feedback loop: action → outcome → learning → updated action.
+→ [**Five-Hour Rule**](../10-Learning/five-hour-rule.md) — post-mortems are one of the most efficient uses of deliberate learning time because they are grounded in direct organizational experience.
 
 ---
 

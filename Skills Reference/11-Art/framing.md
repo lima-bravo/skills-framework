@@ -43,9 +43,9 @@ A CFO needs to present a £2M cost overrun to the board. Two frames: Frame 1: "W
 
 ## Connections
 
-→ **Loss Aversion** — framing as loss vs. gain activates loss aversion differentially; the practitioner chooses frames accordingly.
-→ **Anchoring** — a frame sets the anchor; all subsequent content is evaluated relative to it.
-→ **Audience** — the right frame for a given content depends entirely on who the audience is.
+→ [**Loss Aversion**](../05-Psychology/loss-aversion.md) — framing as loss vs. gain activates loss aversion differentially; the practitioner chooses frames accordingly.
+→ [**Anchoring**](../05-Psychology/anchoring.md) — a frame sets the anchor; all subsequent content is evaluated relative to it.
+→ [**Audience**](audience.md) — the right frame for a given content depends entirely on who the audience is.
 
 ---
 

@@ -42,9 +42,9 @@ In consumer mobile apps, feature velocity has become a Red Queen race: every app
 
 ## Connections
 
-→ **Equilibrium** — Red Queen dynamics maintain a competitive equilibrium; all parties move, none advance relative to each other.
-→ **Creative Destruction** — escape from Red Queen races comes through creative destruction: a new product or model that redefines the competitive dimension before others have adapted.
-→ **Diminishing Returns** — the Red Queen race is a case of industry-wide diminishing returns: each party's investment produces less and less competitive improvement as all parties invest simultaneously.
+→ [**Equilibrium**](equilibrium.md) — Red Queen dynamics maintain a competitive equilibrium; all parties move, none advance relative to each other.
+→ [**Creative Destruction**](../03-Economics/creative-destruction.md) — escape from Red Queen races comes through creative destruction: a new product or model that redefines the competitive dimension before others have adapted.
+→ [**Diminishing Returns**](diminishing-returns.md) — the Red Queen race is a case of industry-wide diminishing returns: each party's investment produces less and less competitive improvement as all parties invest simultaneously.
 
 ---
 

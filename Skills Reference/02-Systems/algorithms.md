@@ -45,9 +45,9 @@ A law firm handling high-volume contract review introduces an NLP algorithm to f
 
 ## Connections
 
-→ **Bottlenecks** — algorithms are often deployed to relieve bottlenecks in high-frequency decision processes.
-→ **Optimization** — algorithms are the mechanisms through which optimization is operationalized.
-→ **Map-Territory** — an algorithm is a map of a decision process; the territory includes cases the map was not designed for.
+→ [**Bottlenecks**](bottlenecks.md) — algorithms are often deployed to relieve bottlenecks in high-frequency decision processes.
+→ [**Optimization**](../03-Economics/optimization.md) — algorithms are the mechanisms through which optimization is operationalized.
+→ [**Map-Territory**](../01-General-Thinking/map-territory.md) — an algorithm is a map of a decision process; the territory includes cases the map was not designed for.
 
 ---
 

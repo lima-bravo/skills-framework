@@ -45,9 +45,9 @@ The founders of Airbnb validated their core hypothesis by manually creating list
 
 ## Connections
 
-→ **MVP** — customer development generates the hypotheses that the MVP tests.
-→ **Product-Market Fit** — customer development is the process of discovering the conditions under which PMF is achievable.
-→ **Assumption Mapping** — customer development produces evidence that validates or invalidates assumptions on the map.
+→ [**MVP**](mvp.md) — customer development generates the hypotheses that the MVP tests.
+→ [**Product-Market Fit**](product-market-fit.md) — customer development is the process of discovering the conditions under which PMF is achievable.
+→ [**Assumption Mapping**](../07-Business/assumption-mapping.md) — customer development produces evidence that validates or invalidates assumptions on the map.
 
 ---
 

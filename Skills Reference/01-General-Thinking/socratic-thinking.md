@@ -45,9 +45,9 @@ A product team claims "users want more features." Socratic examination: "Which u
 
 ## Connections
 
-→ **First Principles** — Socratic questioning strips away imprecision; First Principles strips away assumptions. Together, they constitute a complete belief-examination process.
-→ **Confirmation Bias** — Socratic thinking is the antidote: it actively seeks the weakness in a belief rather than confirming it.
-→ **Ladder of Inference** — Socratic questioning walks back down the ladder from belief to raw data.
+→ [**First Principles**](first-principles.md) — Socratic questioning strips away imprecision; First Principles strips away assumptions. Together, they constitute a complete belief-examination process.
+→ [**Confirmation Bias**](../05-Psychology/confirmation-bias.md) — Socratic thinking is the antidote: it actively seeks the weakness in a belief rather than confirming it.
+→ [**Ladder of Inference**](ladder-of-inference.md) — Socratic questioning walks back down the ladder from belief to raw data.
 
 ---
 

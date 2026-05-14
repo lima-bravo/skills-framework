@@ -43,9 +43,9 @@ Slack's early users were internal at Stewart Butterfield's game company Glitch. 
 
 ## Connections
 
-→ **Build-Measure-Learn** — the loop used to discover PMF efficiently.
-→ **Customer Development** — the process of understanding whether the market pull exists before building.
-→ **Feedback Loops** — PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth.
+→ [**Build-Measure-Learn**](build-measure-learn.md) — the loop used to discover PMF efficiently.
+→ [**Customer Development**](customer-development.md) — the process of understanding whether the market pull exists before building.
+→ [**Feedback Loops**](../02-Systems/feedback-loops.md) — PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth.
 
 ---
 

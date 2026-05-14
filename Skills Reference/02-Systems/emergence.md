@@ -45,9 +45,9 @@ A company redesigns its physical office to improve collaboration — open plan, 
 
 ## Connections
 
-→ **Feedback Loops** — emergence often arises from feedback dynamics that aren't visible at the component level.
-→ **Critical Mass** — many emergent phenomena require a critical mass of interactions before they materialize.
-→ **Map-Territory** — emergent properties are particularly hard to represent on maps because they only exist at the system level.
+→ [**Feedback Loops**](feedback-loops.md) — emergence often arises from feedback dynamics that aren't visible at the component level.
+→ [**Critical Mass**](critical-mass.md) — many emergent phenomena require a critical mass of interactions before they materialize.
+→ [**Map-Territory**](../01-General-Thinking/map-territory.md) — emergent properties are particularly hard to represent on maps because they only exist at the system level.
 
 ---
 

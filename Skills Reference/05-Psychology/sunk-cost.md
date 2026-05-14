@@ -43,9 +43,9 @@ A company has spent £2M and two years building a B2B product that has found no 
 
 ## Connections
 
-→ **Loss Aversion** — sunk cost fallacy is driven by loss aversion: abandoning the project makes the prior loss "real."
-→ **Inversion** — "if I were starting fresh today" is an inversion of the current position; it removes the sunk cost framing.
-→ **Opportunity Cost** — sunk cost blindness prevents people from seeing the opportunity cost of continuing a failing investment.
+→ [**Loss Aversion**](loss-aversion.md) — sunk cost fallacy is driven by loss aversion: abandoning the project makes the prior loss "real."
+→ [**Inversion**](../01-General-Thinking/inversion.md) — "if I were starting fresh today" is an inversion of the current position; it removes the sunk cost framing.
+→ [**Opportunity Cost**](../03-Economics/trade-offs.md) — sunk cost blindness prevents people from seeing the opportunity cost of continuing a failing investment.
 
 ---
 

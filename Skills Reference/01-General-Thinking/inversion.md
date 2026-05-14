@@ -45,9 +45,9 @@ A team is designing a new onboarding flow for a SaaS product. Forward thinking g
 
 ## Connections
 
-→ **Second-order Effects** — inversion exposes first-order failure; second-order thinking asks what happens after the failure cascades.
-→ **Confirmation Bias** — inversion is the structural antidote to confirmation bias: you are explicitly seeking disconfirmation.
-→ **Margin of Safety** — inversion identifies what can go wrong; margin of safety quantifies how much buffer to hold against it.
+→ [**Second-order Effects**](second-order-effects.md) — inversion exposes first-order failure; second-order thinking asks what happens after the failure cascades.
+→ [**Confirmation Bias**](../05-Psychology/confirmation-bias.md) — inversion is the structural antidote to confirmation bias: you are explicitly seeking disconfirmation.
+→ [**Margin of Safety**](../02-Systems/margin-of-safety.md) — inversion identifies what can go wrong; margin of safety quantifies how much buffer to hold against it.
 
 ---
 

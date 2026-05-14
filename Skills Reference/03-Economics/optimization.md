@@ -45,9 +45,9 @@ A growth team is optimizing email campaign performance. They define the objectiv
 
 ## Connections
 
-→ **Trade-offs** — multi-objective optimization makes trade-offs explicit and quantified.
-→ **Local Maxima** — the systematic failure mode of optimization.
-→ **Algorithms** — optimization algorithms are the computational tools for solving formal optimization problems.
+→ [**Trade-offs**](trade-offs.md) — multi-objective optimization makes trade-offs explicit and quantified.
+→ [**Local Maxima**](../08-Mathematics/local-maxima.md) — the systematic failure mode of optimization.
+→ [**Algorithms**](../02-Systems/algorithms.md) — optimization algorithms are the computational tools for solving formal optimization problems.
 
 ---
 

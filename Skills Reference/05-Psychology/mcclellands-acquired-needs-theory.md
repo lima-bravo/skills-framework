@@ -42,9 +42,9 @@ A startup's two founders are diagnostically different: one is high-nAch (driven 
 
 ## Connections
 
-→ **Incentives** — McClelland's theory maps directly to incentive design: different dominant needs require different incentive structures.
-→ **Maslow's Hierarchy** — Maslow describes universal motivational needs by level; McClelland describes individual variation in dominant needs.
-→ **Max-Neef's Fundamental Human Needs** — a broader non-hierarchical complement that includes existential and relational dimensions McClelland doesn't address.
+→ [**Incentives**](incentives.md) — McClelland's theory maps directly to incentive design: different dominant needs require different incentive structures.
+→ [**Maslow's Hierarchy**](maslows-hierarchy-of-needs.md) — Maslow describes universal motivational needs by level; McClelland describes individual variation in dominant needs.
+→ [**Max-Neef's Fundamental Human Needs**](max-neefs-fundamental-human-needs.md) — a broader non-hierarchical complement that includes existential and relational dimensions McClelland doesn't address.
 
 ---
 

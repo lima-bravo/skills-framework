@@ -45,9 +45,9 @@ A company decides to shift from annual to quarterly planning cycles. The change 
 
 ## Connections
 
-→ **Equilibrium** — inertia is the mechanism that maintains equilibrium; disrupting equilibrium requires overcoming inertia.
-→ **Activation Energy** — the energy required to overcome inertia and initiate change.
-→ **Feedback Loops** — existing feedback loops embody and perpetuate inertia; changing direction often requires redesigning feedback loops.
+→ [**Equilibrium**](../02-Systems/equilibrium.md) — inertia is the mechanism that maintains equilibrium; disrupting equilibrium requires overcoming inertia.
+→ [**Activation Energy**](activation-energy.md) — the energy required to overcome inertia and initiate change.
+→ [**Feedback Loops**](../02-Systems/feedback-loops.md) — existing feedback loops embody and perpetuate inertia; changing direction often requires redesigning feedback loops.
 
 ---
 

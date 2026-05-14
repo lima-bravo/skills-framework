@@ -43,9 +43,9 @@ A startup builds an internal developer platform: a standardized toolchain, deplo
 
 ## Connections
 
-→ **Leverage** — a catalyst creates leverage; the reusable mechanism produces disproportionate output.
-→ **Activation Energy** — catalysts work by lowering activation energy.
-→ **Bottlenecks** — catalysts are most valuable when applied to bottlenecks.
+→ [**Leverage**](leverage.md) — a catalyst creates leverage; the reusable mechanism produces disproportionate output.
+→ [**Activation Energy**](activation-energy.md) — catalysts work by lowering activation energy.
+→ [**Bottlenecks**](../02-Systems/bottlenecks.md) — catalysts are most valuable when applied to bottlenecks.
 
 ---
 

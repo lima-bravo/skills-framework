@@ -43,9 +43,9 @@ A Series A startup is hiring quickly, shipping features at pace, and growing hea
 
 ## Connections
 
-→ **Bottlenecks** — bottlenecks reduce speed; directional confusion reduces velocity even at full speed.
-→ **Build-Measure-Learn** — the startup loop designed to maintain directional alignment while moving at speed.
-→ **Inertia** — organizations in motion tend to maintain direction; changing direction requires deliberate force.
+→ [**Bottlenecks**](../02-Systems/bottlenecks.md) — bottlenecks reduce speed; directional confusion reduces velocity even at full speed.
+→ [**Build-Measure-Learn**](../06-Startups/build-measure-learn.md) — the startup loop designed to maintain directional alignment while moving at speed.
+→ [**Inertia**](inertia.md) — organizations in motion tend to maintain direction; changing direction requires deliberate force.
 
 ---
 

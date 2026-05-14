@@ -42,9 +42,9 @@ A team building project management software maps the customer side for their pri
 
 ## Connections
 
-→ **Customer Development** — the customer development process generates the evidence for the customer profile.
-→ **Jobs to be Done** — the conceptual framework underlying the Jobs column.
-→ **Product-Market Fit** — fit in the canvas is the same as PMF: the product matches the market.
+→ [**Customer Development**](../06-Startups/customer-development.md) — the customer development process generates the evidence for the customer profile.
+→ [**Jobs to be Done**](../06-Startups/jobs-to-be-done.md) — the conceptual framework underlying the Jobs column.
+→ [**Product-Market Fit**](../06-Startups/product-market-fit.md) — fit in the canvas is the same as PMF: the product matches the market.
 
 ---
 

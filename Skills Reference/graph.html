@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Skills Connection Graph</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0F172A;--surface:#1E293B;--border:#334155;
+  --text:#F1F5F9;--muted:#94A3B8;--accent:#3B82F6;
+}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;height:100vh;display:flex;flex-direction:column;overflow:hidden}
+
+/* header */
+header{display:flex;align-items:center;gap:.8rem;padding:.55rem 1.1rem;background:var(--surface);border-bottom:1px solid var(--border);flex-shrink:0;flex-wrap:wrap}
+.back-btn{display:inline-flex;align-items:center;gap:.3rem;color:var(--muted);font-size:.75rem;font-weight:600;text-decoration:none;letter-spacing:.04em;border:1px solid var(--border);border-radius:999px;padding:.3rem .8rem;transition:color .15s,border-color .15s}
+.back-btn:hover{color:var(--text);border-color:var(--muted)}
+h1{font-size:.9rem;font-weight:700;letter-spacing:.03em;margin-right:auto}
+#search{padding:.35rem .8rem;background:var(--bg);border:1px solid var(--border);border-radius:999px;color:var(--text);font-size:.8rem;width:190px;outline:none;transition:border-color .15s}
+#search:focus{border-color:var(--accent)}
+#search::placeholder{color:var(--muted)}
+.hbtn{padding:.3rem .8rem;background:transparent;border:1px solid var(--border);border-radius:999px;color:var(--muted);font-size:.74rem;font-weight:600;cursor:pointer;letter-spacing:.04em;transition:all .15s}
+.hbtn:hover{color:var(--text);border-color:var(--muted)}
+.hbtn.on{background:var(--accent);border-color:var(--accent);color:#fff}
+#stats{font-size:.74rem;color:var(--muted)}
+
+/* legend */
+#legend{display:flex;gap:.4rem;flex-wrap:wrap;padding:.4rem 1.1rem;background:var(--surface);border-bottom:1px solid var(--border);flex-shrink:0}
+.leg{display:inline-flex;align-items:center;gap:.28rem;font-size:.67rem;color:var(--muted);cursor:pointer;padding:.13rem .38rem;border-radius:4px;transition:background .1s;user-select:none}
+.leg:hover{background:var(--border);color:var(--text)}
+.leg.off{opacity:.25}
+.leg-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+
+/* layout */
+.main{flex:1;display:flex;overflow:hidden;position:relative}
+#canvas{flex:1;overflow:hidden;position:relative}
+svg{display:block;width:100%;height:100%}
+
+/* graph elements */
+.link{stroke:#94A3B8;stroke-opacity:.45;stroke-width:1.4;fill:none}
+.link.hi{stroke-opacity:.9;stroke-width:2.2}
+.link.dim{stroke-opacity:.04}
+.node-circle{stroke:#0F172A;stroke-width:1.5;cursor:pointer}
+.node-circle.hi{stroke:#fff;stroke-width:2.5}
+.node-circle.dim{opacity:.12}
+.node-label{font-size:9px;fill:#E2E8F0;pointer-events:none;text-anchor:middle;
+  paint-order:stroke;stroke:#0F172A;stroke-width:3px;stroke-linejoin:round;opacity:0}
+.node-label.vis{opacity:1}
+
+/* tooltip */
+#tt{position:fixed;pointer-events:none;z-index:30;background:var(--surface);
+  border:1px solid var(--border);border-radius:8px;padding:.55rem .85rem;
+  max-width:230px;box-shadow:0 4px 20px rgba(0,0,0,.6);font-size:.77rem;
+  line-height:1.4;display:none}
+.tt-name{font-weight:700;color:var(--text);margin-bottom:.18rem}
+.tt-cat{font-size:.67rem;font-weight:700;margin-bottom:.28rem;letter-spacing:.04em}
+.tt-tag{color:var(--muted)}
+
+/* panel */
+#panel{width:0;flex-shrink:0;background:var(--surface);border-left:1px solid var(--border);
+  overflow:hidden;transition:width .2s ease;display:flex;flex-direction:column;position:relative}
+#panel.open{width:270px;overflow-y:auto}
+.pi{padding:1.1rem}
+.pc{position:sticky;top:.6rem;float:right;background:var(--border);border:none;border-radius:50%;
+  width:24px;height:24px;cursor:pointer;color:var(--muted);font-size:.85rem;
+  display:inline-flex;align-items:center;justify-content:center;transition:background .15s}
+.pc:hover{background:var(--accent);color:#fff}
+.p-bar{height:4px;border-radius:2px;margin-bottom:.9rem}
+.p-cat{font-size:.65rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-bottom:.25rem}
+.p-name{font-size:1.05rem;font-weight:800;margin-bottom:.35rem}
+.p-tag{font-size:.78rem;color:var(--muted);margin-bottom:.9rem;line-height:1.4}
+.p-sec{font-size:.64rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:.9rem 0 .35rem}
+.conn-list{list-style:none;display:flex;flex-direction:column;gap:.25rem}
+.conn-item{font-size:.76rem;padding:.3rem .55rem;border-radius:5px;border:1px solid var(--border);
+  cursor:pointer;display:flex;align-items:center;gap:.45rem;transition:background .1s}
+.conn-item:hover{background:var(--border)}
+.c-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.c-arr{font-size:.7rem;color:var(--muted);margin-left:auto}
+.deck-link{display:inline-flex;align-items:center;gap:.3rem;margin-top:1rem;
+  font-size:.71rem;color:var(--accent);text-decoration:none;
+  border:1px solid var(--accent);border-radius:5px;padding:.3rem .65rem;transition:background .15s}
+.deck-link:hover{background:var(--accent);color:#fff}
+</style>
+</head>
+<body>
+<header>
+  <a href="index.html" class="back-btn">← Card Deck</a>
+  <h1>Skills Connection Graph</h1>
+  <span id="stats">114 skills &middot; 345 connections</span>
+  <input id="search" type="search" placeholder="Search skills&hellip;" autocomplete="off">
+  <button class="hbtn" id="lblbtn">Labels</button>
+  <button class="hbtn" id="resetbtn">Reset view</button>
+</header>
+<div id="legend"></div>
+<div class="main">
+  <div id="canvas"><svg id="svg"></svg></div>
+  <div id="panel">
+    <div class="pi" id="pi">
+      <button class="pc" id="pclose">&#x2715;</button>
+      <div class="p-bar" id="pbar"></div>
+      <div class="p-cat" id="pcat"></div>
+      <div class="p-name" id="pname"></div>
+      <div class="p-tag" id="ptag"></div>
+      <div class="p-sec">Connections</div>
+      <ul class="conn-list" id="clist"></ul>
+      <a class="deck-link" id="dlink" href="index.html">Open in Card Deck &rarr;</a>
+    </div>
+  </div>
+</div>
+<div id="tt"><div class="tt-name" id="tt-name"></div><div class="tt-cat" id="tt-cat"></div><div class="tt-tag" id="tt-tag"></div></div>
+
+<script>
+const GRAPH = {"nodes": [{"id": 0, "name": "First Principles", "category": "General Thinking", "color": "#3B82F6", "tagline": "Strip to fundamentals"}, {"id": 1, "name": "Inversion", "category": "General Thinking", "color": "#3B82F6", "tagline": "Flip the question"}, {"id": 2, "name": "Second-Order Effects", "category": "General Thinking", "color": "#3B82F6", "tagline": "What happens after what happens"}, {"id": 3, "name": "Occam's Razor", "category": "General Thinking", "color": "#3B82F6", "tagline": "Prefer simpler explanations"}, {"id": 4, "name": "Hanlon's Razor", "category": "General Thinking", "color": "#3B82F6", "tagline": "Attribute to incompetence before malice"}, {"id": 5, "name": "Circle of Competence", "category": "General Thinking", "color": "#3B82F6", "tagline": "Know the edge of what you know"}, {"id": 6, "name": "Map-Territory", "category": "General Thinking", "color": "#3B82F6", "tagline": "The model is not the reality"}, {"id": 7, "name": "Probabilistic Thinking", "category": "General Thinking", "color": "#3B82F6", "tagline": "Think in distributions, not outcomes"}, {"id": 8, "name": "Thought Experiment", "category": "General Thinking", "color": "#3B82F6", "tagline": "Reason through the impossible to illuminate the actual"}, {"id": 9, "name": "Socratic Thinking", "category": "General Thinking", "color": "#3B82F6", "tagline": "Question your way to clarity"}, {"id": 10, "name": "Pre-mortem", "category": "General Thinking", "color": "#3B82F6", "tagline": "Imagine failure before it happens"}, {"id": 11, "name": "Post-mortem", "category": "General Thinking", "color": "#3B82F6", "tagline": "Learn structurally from what happened"}, {"id": 12, "name": "Asymmetry / Convexity", "category": "General Thinking", "color": "#3B82F6", "tagline": "Seek positions where upside exceeds downside"}, {"id": 13, "name": "De Bono's Six Thinking Hats", "category": "General Thinking", "color": "#3B82F6", "tagline": "Separate modes of thinking to think better together"}, {"id": 14, "name": "Ladder of Inference", "category": "General Thinking", "color": "#3B82F6", "tagline": "Understand the gap between data and belief"}, {"id": 15, "name": "Regret Minimization Framework", "category": "General Thinking", "color": "#3B82F6", "tagline": "Choose the path you would least regret at 80"}, {"id": 16, "name": "Two-Way Doors", "category": "General Thinking", "color": "#3B82F6", "tagline": "Reversible decisions deserve speed; irreversible ones deserve deliberation"}, {"id": 17, "name": "Feedback Loops", "category": "Systems", "color": "#0D9488", "tagline": "Outputs that become inputs"}, {"id": 18, "name": "Bottlenecks", "category": "Systems", "color": "#0D9488", "tagline": "The constraint that governs throughput"}, {"id": 19, "name": "Emergence", "category": "Systems", "color": "#0D9488", "tagline": "Behavior that arises from interaction"}, {"id": 20, "name": "Equilibrium", "category": "Systems", "color": "#0D9488", "tagline": "Systems tend toward balance"}, {"id": 21, "name": "Scale", "category": "Systems", "color": "#0D9488", "tagline": "Behavior changes as size changes"}, {"id": 22, "name": "Critical Mass", "category": "Systems", "color": "#0D9488", "tagline": "The threshold where dynamics change"}, {"id": 23, "name": "Diminishing Returns", "category": "Systems", "color": "#0D9488", "tagline": "Each additional unit yields less"}, {"id": 24, "name": "Margin of Safety", "category": "Systems", "color": "#0D9488", "tagline": "Build in buffer for what you can't know"}, {"id": 25, "name": "Churn", "category": "Systems", "color": "#0D9488", "tagline": "The rate at which a system loses what it gains"}, {"id": 26, "name": "Algorithms", "category": "Systems", "color": "#0D9488", "tagline": "Systematic procedures for solving problems"}, {"id": 27, "name": "Irreducibility", "category": "Systems", "color": "#0D9488", "tagline": "Some complexity cannot be simplified away"}, {"id": 28, "name": "Conway's Law", "category": "Systems", "color": "#0D9488", "tagline": "Systems mirror the communication structures that build them"}, {"id": 29, "name": "Red Queen Dilemma", "category": "Systems", "color": "#0D9488", "tagline": "You must keep running just to stay in the same place"}, {"id": 30, "name": "Trade-offs", "category": "Economics", "color": "#16A34A", "tagline": "Every choice forecloses others"}, {"id": 31, "name": "Scarcity", "category": "Economics", "color": "#16A34A", "tagline": "Resources are finite; wants are not"}, {"id": 32, "name": "Specialization", "category": "Economics", "color": "#16A34A", "tagline": "Do what you do best; trade for the rest"}, {"id": 33, "name": "Optimization", "category": "Economics", "color": "#16A34A", "tagline": "Find the best among the available options"}, {"id": 34, "name": "Monopoly vs. Competition", "category": "Economics", "color": "#16A34A", "tagline": "Market structure determines strategy"}, {"id": 35, "name": "Efficiency", "category": "Economics", "color": "#16A34A", "tagline": "Output per unit of input"}, {"id": 36, "name": "Debt", "category": "Economics", "color": "#16A34A", "tagline": "Borrowing against future capacity"}, {"id": 37, "name": "Creative Destruction", "category": "Economics", "color": "#16A34A", "tagline": "New things displace old things structurally"}, {"id": 38, "name": "Bubbles", "category": "Economics", "color": "#16A34A", "tagline": "When price detaches from value"}, {"id": 39, "name": "Interdependence", "category": "Economics", "color": "#16A34A", "tagline": "Systems are more connected than they appear"}, {"id": 40, "name": "Gresham's Law", "category": "Economics", "color": "#16A34A", "tagline": "Bad drives out good when forced to coexist at the same price"}, {"id": 41, "name": "Leverage", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "Multiply force through mechanism"}, {"id": 42, "name": "Velocity", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "Speed and direction together"}, {"id": 43, "name": "Inertia", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "Objects in motion (or rest) resist change"}, {"id": 44, "name": "Friction", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "Resistance that slows progress"}, {"id": 45, "name": "Activation Energy", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "The threshold that must be crossed to initiate a process"}, {"id": 46, "name": "Thermodynamics", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "Energy transforms but never disappears — and entropy always increases"}, {"id": 47, "name": "Catalysts", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "Lower the barrier without being consumed"}, {"id": 48, "name": "Alloying", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "Combining creates properties neither element has alone"}, {"id": 49, "name": "Reciprocity", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "Exchange creates obligation"}, {"id": 50, "name": "Relativity", "category": "Physics & Chemistry", "color": "#EA580C", "tagline": "Measurement depends on the reference frame"}, {"id": 51, "name": "Incentives", "category": "Psychology", "color": "#9333EA", "tagline": "Behavior follows reward structures"}, {"id": 52, "name": "Loss Aversion", "category": "Psychology", "color": "#9333EA", "tagline": "Losses hurt more than equivalent gains feel good"}, {"id": 53, "name": "Sunk Cost", "category": "Psychology", "color": "#9333EA", "tagline": "Past investment should not drive future decisions"}, {"id": 54, "name": "Anchoring", "category": "Psychology", "color": "#9333EA", "tagline": "The first number shapes all subsequent judgments"}, {"id": 55, "name": "Confirmation Bias", "category": "Psychology", "color": "#9333EA", "tagline": "We seek evidence that confirms what we believe"}, {"id": 56, "name": "Availability Bias", "category": "Psychology", "color": "#9333EA", "tagline": "What comes to mind easily seems more likely"}, {"id": 57, "name": "Dunning-Kruger", "category": "Psychology", "color": "#9333EA", "tagline": "Low competence produces high confidence; high competence produces appropriate humility"}, {"id": 58, "name": "Maslow's Hierarchy of Needs", "category": "Psychology", "color": "#9333EA", "tagline": "Unmet lower needs dominate; met needs cease to motivate"}, {"id": 59, "name": "McClelland's Acquired Needs Theory", "category": "Psychology", "color": "#9333EA", "tagline": "People are primarily driven by achievement, power, or affiliation"}, {"id": 60, "name": "Max-Neef's Fundamental Human Needs", "category": "Psychology", "color": "#9333EA", "tagline": "Nine irreducible needs that apply equally to all humans"}, {"id": 61, "name": "ERG Theory", "category": "Psychology", "color": "#9333EA", "tagline": "Three needs, no strict hierarchy, and frustration-regression"}, {"id": 62, "name": "Product-Market Fit", "category": "Startups", "color": "#DC2626", "tagline": "The product satisfies a strong market need"}, {"id": 63, "name": "Build-Measure-Learn", "category": "Startups", "color": "#DC2626", "tagline": "Validated learning in minimum iterations"}, {"id": 64, "name": "MVP", "category": "Startups", "color": "#DC2626", "tagline": "The minimum viable product generates maximum learning"}, {"id": 65, "name": "Pivot or Persevere", "category": "Startups", "color": "#DC2626", "tagline": "Structured decision when the current approach isn't working"}, {"id": 66, "name": "Customer Development", "category": "Startups", "color": "#DC2626", "tagline": "Discover real needs before building solutions"}, {"id": 67, "name": "Innovation Accounting", "category": "Startups", "color": "#DC2626", "tagline": "Measure progress toward validated learning"}, {"id": 68, "name": "Business Model Canvas", "category": "Business", "color": "#475569", "tagline": "Map the structure of value creation and capture"}, {"id": 69, "name": "Value Prop Canvas", "category": "Business", "color": "#475569", "tagline": "Match the product to the job to be done"}, {"id": 70, "name": "Innovation Funnel", "category": "Business", "color": "#475569", "tagline": "Stage-gate the progression from idea to impact"}, {"id": 71, "name": "Portfolio Map", "category": "Business", "color": "#475569", "tagline": "Manage a balanced set of bets across horizons"}, {"id": 72, "name": "Experiment Design", "category": "Business", "color": "#475569", "tagline": "Structure tests to generate valid learning"}, {"id": 73, "name": "Assumption Mapping", "category": "Business", "color": "#475569", "tagline": "Surface and prioritize the beliefs a plan depends on"}, {"id": 74, "name": "Stakeholder Mapping (Salience Model)", "category": "Business", "color": "#475569", "tagline": "Know who matters, how much, and why"}, {"id": 75, "name": "Compounding", "category": "Mathematics", "color": "#4F46E5", "tagline": "Small, consistent gains produce exponential outcomes"}, {"id": 76, "name": "Local Maxima", "category": "Mathematics", "color": "#4F46E5", "tagline": "The trap of the nearest peak"}, {"id": 77, "name": "Regression to the Mean", "category": "Mathematics", "color": "#4F46E5", "tagline": "Extreme outcomes tend to moderate over time"}, {"id": 78, "name": "Randomness", "category": "Mathematics", "color": "#4F46E5", "tagline": "Many outcomes are noise, not signal"}, {"id": 79, "name": "Sampling", "category": "Mathematics", "color": "#4F46E5", "tagline": "How to draw valid inferences from incomplete information"}, {"id": 80, "name": "Surface Area", "category": "Mathematics", "color": "#4F46E5", "tagline": "More interfaces mean more potential for both gain and risk"}, {"id": 81, "name": "Multiply by Zero", "category": "Mathematics", "color": "#4F46E5", "tagline": "A zero factor nullifies every other factor"}, {"id": 82, "name": "Network Effects", "category": "Network Effects", "color": "#CA8A04", "tagline": "Value increases with every additional participant"}, {"id": 83, "name": "Viral Growth", "category": "Network Effects", "color": "#CA8A04", "tagline": "Users generate users"}, {"id": 84, "name": "Marketplace", "category": "Network Effects", "color": "#CA8A04", "tagline": "Platforms that match supply and demand"}, {"id": 85, "name": "Defensibility", "category": "Network Effects", "color": "#CA8A04", "tagline": "The ability to maintain competitive advantage"}, {"id": 86, "name": "Model Chaining", "category": "Learning", "color": "#059669", "tagline": "Combine multiple mental models to understand complex situations"}, {"id": 87, "name": "T-Shaped", "category": "Learning", "color": "#059669", "tagline": "Deep expertise in one area; useful breadth in many"}, {"id": 88, "name": "Five-Hour Rule", "category": "Learning", "color": "#059669", "tagline": "Dedicate five hours per week to deliberate learning"}, {"id": 89, "name": "Learning Transfer", "category": "Learning", "color": "#059669", "tagline": "Apply insights from one domain to another"}, {"id": 90, "name": "Audience", "category": "Art", "color": "#DB2777", "tagline": "Design for a specific person, not everyone"}, {"id": 91, "name": "Framing", "category": "Art", "color": "#DB2777", "tagline": "The frame shapes how the content is received"}, {"id": 92, "name": "Contrast", "category": "Art", "color": "#DB2777", "tagline": "Meaning emerges from difference"}, {"id": 93, "name": "Rhythm", "category": "Art", "color": "#DB2777", "tagline": "Pattern and variation create flow"}, {"id": 94, "name": "Pricing Decision", "category": "Pre-built Chains", "color": "#B45309", "tagline": ""}, {"id": 95, "name": "Market Entry", "category": "Pre-built Chains", "color": "#B45309", "tagline": ""}, {"id": 96, "name": "Hiring Decision", "category": "Pre-built Chains", "color": "#B45309", "tagline": ""}, {"id": 97, "name": "Product Launch", "category": "Pre-built Chains", "color": "#B45309", "tagline": ""}, {"id": 98, "name": "Investment Decision", "category": "Pre-built Chains", "color": "#B45309", "tagline": ""}, {"id": 99, "name": "Should I Quit", "category": "Pre-built Chains", "color": "#B45309", "tagline": ""}, {"id": 100, "name": "Life Decision", "category": "Pre-built Chains", "color": "#B45309", "tagline": ""}, {"id": 101, "name": "Trust", "category": "Psychology", "color": "#9333EA", "tagline": "The willingness to be vulnerable to another's actions, based on the expectation they will act in your interest."}, {"id": 102, "name": "S-Curves", "category": "Systems", "color": "#0D9488", "tagline": "Growth that starts slow, accelerates, then decelerates as it approaches a ceiling — the universal pattern of adoption, learning, and development."}, {"id": 103, "name": "Jobs to Be Done", "category": "Startups", "color": "#DC2626", "tagline": "People don't buy products — they hire them to do a job in their life."}, {"id": 104, "name": "Psychological Safety", "category": "Psychology", "color": "#9333EA", "tagline": "The shared belief that a team is safe for interpersonal risk-taking — speaking up, admitting mistakes, and challenging assumptions without fear of punishment."}, {"id": 105, "name": "Pre-built Chains", "category": "Learning", "color": "#059669", "tagline": "Structured multi-step reasoning protocols that sequence mental models in optimal order for recurring high-stakes decision types."}, {"id": 106, "name": "Analogical Reasoning", "category": "General Thinking", "color": "#3B82F6", "tagline": "Recognizing structural similarities between different domains and importing solutions, mechanisms, or frameworks from one to solve problems in another."}, {"id": 107, "name": "Divergent and Convergent Thinking", "category": "General Thinking", "color": "#3B82F6", "tagline": "The two fundamental cognitive modes of innovation — generating many varied possibilities without judgment, then evaluating and selecting among them — which must be applied in sequence, not simultaneously."}, {"id": 108, "name": "Exploration vs. Exploitation", "category": "Systems", "color": "#0D9488", "tagline": "The fundamental organizational tension between refining what you know (exploitation) and discovering what you don't (exploration) — too much of either destroys long-term performance."}, {"id": 109, "name": "Adjacent Possible", "category": "Systems", "color": "#0D9488", "tagline": "At any moment, innovation can only move into the space of possibilities adjacent to what currently exists — each step opens new doors, but you cannot skip rooms."}, {"id": 110, "name": "Design Thinking", "category": "Startups", "color": "#DC2626", "tagline": "A human-centered innovation process — empathize, define, ideate, prototype, test — that insists on understanding people's actual experience before generating solutions."}, {"id": 111, "name": "Crossing the Chasm", "category": "Startups", "color": "#DC2626", "tagline": "The gap between early adopters who buy on vision and the early majority who buy on proven results — and why the strategies that win the first group fail with the second."}, {"id": 112, "name": "Disruptive Innovation", "category": "Business", "color": "#475569", "tagline": "How entrants using simpler, cheaper technology serve overlooked customers and then improve until they displace incumbents — and why rational incumbents consistently fail to respond in time."}, {"id": 113, "name": "Three Horizons", "category": "Business", "color": "#475569", "tagline": "Managing innovation investment across three time horizons simultaneously — optimizing the core, building emerging businesses, and creating future options — each requiring a fundamentally different management logic."}], "links": [{"source": 0, "target": 1}, {"source": 0, "target": 6}, {"source": 0, "target": 5}, {"source": 1, "target": 2}, {"source": 1, "target": 55}, {"source": 1, "target": 24}, {"source": 2, "target": 17}, {"source": 2, "target": 51}, {"source": 2, "target": 19}, {"source": 3, "target": 0}, {"source": 3, "target": 7}, {"source": 3, "target": 55}, {"source": 4, "target": 51}, {"source": 4, "target": 55}, {"source": 4, "target": 5}, {"source": 5, "target": 0}, {"source": 5, "target": 57}, {"source": 5, "target": 7}, {"source": 6, "target": 0}, {"source": 6, "target": 7}, {"source": 6, "target": 19}, {"source": 7, "target": 5}, {"source": 7, "target": 77}, {"source": 7, "target": 24}, {"source": 8, "target": 0}, {"source": 8, "target": 1}, {"source": 8, "target": 2}, {"source": 9, "target": 0}, {"source": 9, "target": 55}, {"source": 9, "target": 14}, {"source": 10, "target": 1}, {"source": 10, "target": 73}, {"source": 10, "target": 24}, {"source": 11, "target": 10}, {"source": 11, "target": 17}, {"source": 11, "target": 88}, {"source": 12, "target": 24}, {"source": 12, "target": 16}, {"source": 12, "target": 7}, {"source": 13, "target": 55}, {"source": 13, "target": 10}, {"source": 13, "target": 91}, {"source": 14, "target": 6}, {"source": 14, "target": 55}, {"source": 14, "target": 9}, {"source": 15, "target": 1}, {"source": 15, "target": 12}, {"source": 15, "target": 16}, {"source": 16, "target": 24}, {"source": 16, "target": 12}, {"source": 16, "target": 15}, {"source": 17, "target": 18}, {"source": 17, "target": 2}, {"source": 17, "target": 20}, {"source": 18, "target": 17}, {"source": 18, "target": 26}, {"source": 18, "target": 21}, {"source": 19, "target": 17}, {"source": 19, "target": 22}, {"source": 19, "target": 6}, {"source": 20, "target": 17}, {"source": 20, "target": 45}, {"source": 20, "target": 37}, {"source": 21, "target": 18}, {"source": 21, "target": 23}, {"source": 21, "target": 22}, {"source": 22, "target": 82}, {"source": 22, "target": 17}, {"source": 22, "target": 83}, {"source": 23, "target": 33}, {"source": 23, "target": 76}, {"source": 23, "target": 75}, {"source": 24, "target": 7}, {"source": 24, "target": 1}, {"source": 24, "target": 27}, {"source": 25, "target": 75}, {"source": 25, "target": 17}, {"source": 25, "target": 18}, {"source": 26, "target": 18}, {"source": 26, "target": 33}, {"source": 26, "target": 6}, {"source": 27, "target": 19}, {"source": 27, "target": 26}, {"source": 27, "target": 6}, {"source": 28, "target": 18}, {"source": 28, "target": 19}, {"source": 28, "target": 39}, {"source": 29, "target": 20}, {"source": 29, "target": 37}, {"source": 29, "target": 23}, {"source": 30, "target": 31}, {"source": 30, "target": 33}, {"source": 30, "target": 30}, {"source": 31, "target": 30}, {"source": 31, "target": 18}, {"source": 31, "target": 30}, {"source": 32, "target": 30}, {"source": 32, "target": 87}, {"source": 32, "target": 34}, {"source": 33, "target": 30}, {"source": 33, "target": 76}, {"source": 33, "target": 26}, {"source": 34, "target": 85}, {"source": 34, "target": 37}, {"source": 34, "target": 82}, {"source": 35, "target": 18}, {"source": 35, "target": 23}, {"source": 35, "target": 30}, {"source": 36, "target": 75}, {"source": 36, "target": 24}, {"source": 36, "target": 30}, {"source": 37, "target": 34}, {"source": 37, "target": 102}, {"source": 37, "target": 2}, {"source": 38, "target": 17}, {"source": 38, "target": 77}, {"source": 38, "target": 51}, {"source": 39, "target": 2}, {"source": 39, "target": 17}, {"source": 39, "target": 19}, {"source": 40, "target": 51}, {"source": 40, "target": 35}, {"source": 40, "target": 56}, {"source": 41, "target": 18}, {"source": 41, "target": 21}, {"source": 41, "target": 26}, {"source": 42, "target": 18}, {"source": 42, "target": 63}, {"source": 42, "target": 43}, {"source": 43, "target": 20}, {"source": 43, "target": 45}, {"source": 43, "target": 17}, {"source": 44, "target": 45}, {"source": 44, "target": 41}, {"source": 44, "target": 43}, {"source": 45, "target": 44}, {"source": 45, "target": 47}, {"source": 45, "target": 43}, {"source": 46, "target": 17}, {"source": 46, "target": 24}, {"source": 46, "target": 25}, {"source": 47, "target": 41}, {"source": 47, "target": 45}, {"source": 47, "target": 18}, {"source": 48, "target": 19}, {"source": 48, "target": 32}, {"source": 48, "target": 87}, {"source": 49, "target": 51}, {"source": 49, "target": 101}, {"source": 49, "target": 82}, {"source": 50, "target": 54}, {"source": 50, "target": 7}, {"source": 50, "target": 6}, {"source": 51, "target": 2}, {"source": 51, "target": 40}, {"source": 51, "target": 17}, {"source": 52, "target": 53}, {"source": 52, "target": 54}, {"source": 52, "target": 1}, {"source": 53, "target": 52}, {"source": 53, "target": 1}, {"source": 53, "target": 30}, {"source": 54, "target": 50}, {"source": 54, "target": 52}, {"source": 54, "target": 7}, {"source": 55, "target": 1}, {"source": 55, "target": 6}, {"source": 55, "target": 57}, {"source": 56, "target": 55}, {"source": 56, "target": 7}, {"source": 56, "target": 54}, {"source": 57, "target": 5}, {"source": 57, "target": 55}, {"source": 57, "target": 7}, {"source": 58, "target": 51}, {"source": 58, "target": 61}, {"source": 58, "target": 104}, {"source": 59, "target": 51}, {"source": 59, "target": 58}, {"source": 59, "target": 60}, {"source": 60, "target": 59}, {"source": 60, "target": 58}, {"source": 60, "target": 51}, {"source": 61, "target": 58}, {"source": 61, "target": 51}, {"source": 61, "target": 59}, {"source": 62, "target": 63}, {"source": 62, "target": 66}, {"source": 62, "target": 17}, {"source": 63, "target": 64}, {"source": 63, "target": 62}, {"source": 63, "target": 72}, {"source": 64, "target": 63}, {"source": 64, "target": 73}, {"source": 64, "target": 66}, {"source": 65, "target": 63}, {"source": 65, "target": 53}, {"source": 65, "target": 62}, {"source": 66, "target": 64}, {"source": 66, "target": 62}, {"source": 66, "target": 73}, {"source": 67, "target": 63}, {"source": 67, "target": 62}, {"source": 67, "target": 72}, {"source": 68, "target": 69}, {"source": 68, "target": 73}, {"source": 68, "target": 62}, {"source": 69, "target": 66}, {"source": 69, "target": 103}, {"source": 69, "target": 62}, {"source": 70, "target": 63}, {"source": 70, "target": 73}, {"source": 70, "target": 71}, {"source": 71, "target": 70}, {"source": 71, "target": 23}, {"source": 71, "target": 37}, {"source": 72, "target": 63}, {"source": 72, "target": 7}, {"source": 72, "target": 55}, {"source": 73, "target": 68}, {"source": 73, "target": 64}, {"source": 73, "target": 72}, {"source": 74, "target": 51}, {"source": 74, "target": 2}, {"source": 74, "target": 39}, {"source": 75, "target": 17}, {"source": 75, "target": 23}, {"source": 75, "target": 24}, {"source": 76, "target": 33}, {"source": 76, "target": 23}, {"source": 76, "target": 37}, {"source": 77, "target": 7}, {"source": 77, "target": 54}, {"source": 77, "target": 56}, {"source": 78, "target": 7}, {"source": 78, "target": 77}, {"source": 78, "target": 79}, {"source": 79, "target": 78}, {"source": 79, "target": 7}, {"source": 79, "target": 55}, {"source": 80, "target": 82}, {"source": 80, "target": 41}, {"source": 80, "target": 24}, {"source": 81, "target": 18}, {"source": 81, "target": 0}, {"source": 81, "target": 24}, {"source": 82, "target": 22}, {"source": 82, "target": 83}, {"source": 82, "target": 85}, {"source": 83, "target": 82}, {"source": 83, "target": 22}, {"source": 83, "target": 75}, {"source": 84, "target": 82}, {"source": 84, "target": 22}, {"source": 84, "target": 101}, {"source": 85, "target": 82}, {"source": 85, "target": 34}, {"source": 85, "target": 75}, {"source": 86, "target": 0}, {"source": 86, "target": 105}, {"source": 87, "target": 86}, {"source": 87, "target": 32}, {"source": 87, "target": 48}, {"source": 88, "target": 75}, {"source": 88, "target": 87}, {"source": 88, "target": 86}, {"source": 89, "target": 86}, {"source": 89, "target": 87}, {"source": 89, "target": 0}, {"source": 90, "target": 66}, {"source": 90, "target": 69}, {"source": 90, "target": 91}, {"source": 91, "target": 52}, {"source": 91, "target": 54}, {"source": 91, "target": 90}, {"source": 92, "target": 91}, {"source": 92, "target": 90}, {"source": 92, "target": 93}, {"source": 93, "target": 92}, {"source": 93, "target": 90}, {"source": 93, "target": 91}, {"source": 101, "target": 51}, {"source": 101, "target": 49}, {"source": 101, "target": 104}, {"source": 101, "target": 52}, {"source": 102, "target": 37}, {"source": 102, "target": 22}, {"source": 102, "target": 75}, {"source": 102, "target": 23}, {"source": 102, "target": 82}, {"source": 103, "target": 66}, {"source": 103, "target": 69}, {"source": 103, "target": 62}, {"source": 103, "target": 63}, {"source": 103, "target": 0}, {"source": 104, "target": 101}, {"source": 104, "target": 51}, {"source": 104, "target": 17}, {"source": 104, "target": 57}, {"source": 104, "target": 58}, {"source": 105, "target": 86}, {"source": 105, "target": 0}, {"source": 105, "target": 1}, {"source": 105, "target": 55}, {"source": 105, "target": 16}, {"source": 106, "target": 0}, {"source": 106, "target": 8}, {"source": 106, "target": 107}, {"source": 106, "target": 89}, {"source": 106, "target": 109}, {"source": 107, "target": 110}, {"source": 107, "target": 13}, {"source": 107, "target": 106}, {"source": 107, "target": 55}, {"source": 107, "target": 1}, {"source": 108, "target": 113}, {"source": 108, "target": 112}, {"source": 108, "target": 76}, {"source": 108, "target": 102}, {"source": 108, "target": 17}, {"source": 109, "target": 102}, {"source": 109, "target": 108}, {"source": 109, "target": 106}, {"source": 109, "target": 112}, {"source": 109, "target": 75}, {"source": 110, "target": 103}, {"source": 110, "target": 66}, {"source": 110, "target": 107}, {"source": 110, "target": 73}, {"source": 110, "target": 63}, {"source": 111, "target": 102}, {"source": 111, "target": 62}, {"source": 111, "target": 112}, {"source": 111, "target": 82}, {"source": 111, "target": 22}, {"source": 112, "target": 108}, {"source": 112, "target": 102}, {"source": 112, "target": 103}, {"source": 112, "target": 68}, {"source": 112, "target": 111}, {"source": 113, "target": 108}, {"source": 113, "target": 71}, {"source": 113, "target": 112}, {"source": 113, "target": 102}, {"source": 113, "target": 16}]};
+const CAT_COLORS = {"General Thinking": "#3B82F6", "Systems": "#0D9488", "Economics": "#16A34A", "Physics & Chemistry": "#EA580C", "Psychology": "#9333EA", "Startups": "#DC2626", "Business": "#475569", "Mathematics": "#4F46E5", "Network Effects": "#CA8A04", "Learning": "#059669", "Art": "#DB2777", "Pre-built Chains": "#B45309"};
+
+// ── Pre-compute degree ────────────────────────────────────────────────────────
+const deg = {};
+GRAPH.nodes.forEach(n => deg[n.id] = 0);
+GRAPH.links.forEach(l => { deg[l.source] = (deg[l.source]||0)+1; deg[l.target] = (deg[l.target]||0)+1; });
+const maxDeg = Math.max(1, ...Object.values(deg));
+const nr = id => 5 + (deg[id]||0) / maxDeg * 13;
+
+// ── State ─────────────────────────────────────────────────────────────────────
+let showLbls = false, selNode = null, searchQ = '';
+const activeCats = new Set(Object.keys(CAT_COLORS));
+
+// ── SVG / zoom ────────────────────────────────────────────────────────────────
+const svg   = d3.select('#svg');
+const W     = () => document.getElementById('canvas').clientWidth  || 800;
+const H     = () => document.getElementById('canvas').clientHeight || 600;
+const zoomG = svg.append('g');
+const lG    = zoomG.append('g');   // links layer
+const nG    = zoomG.append('g');   // nodes layer
+
+const zoom = d3.zoom().scaleExtent([.05, 10])
+  .on('zoom', e => zoomG.attr('transform', e.transform));
+svg.call(zoom).on('dblclick.zoom', null);
+
+function fitView(dur) {
+  svg.transition().duration(dur||0)
+    .call(zoom.transform,
+      d3.zoomIdentity.translate(W()/2, H()/2).scale(0.82));
+}
+
+// ── Simulation ────────────────────────────────────────────────────────────────
+const nodes = GRAPH.nodes.map(d => ({...d}));
+const links = GRAPH.links.map(d => ({...d}));
+
+const sim = d3.forceSimulation(nodes)
+  .force('link',    d3.forceLink(links).id(d => d.id).distance(60).strength(0.3))
+  .force('charge',  d3.forceManyBody().strength(d => -180 - nr(d.id)*10))
+  .force('center',  d3.forceCenter(0, 0))
+  .force('collide', d3.forceCollide().radius(d => nr(d.id) + 4))
+  .alphaDecay(0.03);
+
+// ── Draw links ────────────────────────────────────────────────────────────────
+const linkSel = lG.selectAll('line').data(links).join('line').attr('class','link');
+
+// ── Draw nodes ────────────────────────────────────────────────────────────────
+const nodeG = nG.selectAll('g').data(nodes).join('g')
+  .call(d3.drag()
+    .on('start', (e,d) => { if(!e.active) sim.alphaTarget(.3).restart(); d.fx=d.x; d.fy=d.y; })
+    .on('drag',  (e,d) => { d.fx=e.x; d.fy=e.y; })
+    .on('end',   (e,d) => { if(!e.active) sim.alphaTarget(0); d.fx=null; d.fy=null; }));
+
+const circles = nodeG.append('circle').attr('class','node-circle')
+  .attr('r', d => nr(d.id)).attr('fill', d => d.color)
+  .on('mouseenter', showTT).on('mousemove', moveTT).on('mouseleave', hideTT)
+  .on('click', (e,d) => { e.stopPropagation(); pickNode(d); });
+
+const labels = nodeG.append('text').attr('class','node-label')
+  .text(d => d.name.length > 17 ? d.name.slice(0,16)+'…' : d.name)
+  .attr('dy', d => nr(d.id) + 11);
+
+// ── Tick ──────────────────────────────────────────────────────────────────────
+sim.on('tick', () => {
+  linkSel
+    .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+    .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+  nodeG.attr('transform', d => `translate(${d.x},${d.y})`);
+});
+
+sim.on('end', () => fitView(600));
+// Also fit once early so the graph is immediately visible during simulation
+setTimeout(() => fitView(400), 300);
+
+// ── Legend ────────────────────────────────────────────────────────────────────
+const legEl = document.getElementById('legend');
+Object.entries(CAT_COLORS).forEach(([cat, col]) => {
+  const el = document.createElement('div');
+  el.className = 'leg'; el.dataset.cat = cat;
+  el.innerHTML = `<span class="leg-dot" style="background:${col}"></span>${cat}`;
+  el.addEventListener('click', () => {
+    if(activeCats.has(cat) && activeCats.size > 1) activeCats.delete(cat);
+    else activeCats.add(cat);
+    el.classList.toggle('off', !activeCats.has(cat));
+    applyVis();
+  });
+  legEl.appendChild(el);
+});
+
+// ── Visibility ────────────────────────────────────────────────────────────────
+function applyVis() {
+  const q = searchQ.toLowerCase();
+  const hits = new Set();
+  if(q) nodes.forEach(n => { if(n.name.toLowerCase().includes(q)||n.tagline.toLowerCase().includes(q)) hits.add(n.id); });
+  const connSet = selNode ? getConnSet(selNode) : null;
+
+  circles
+    .classed('hi',  d => selNode ? (d.id===selNode.id || connSet.has(d.id)) : (q && hits.has(d.id)))
+    .classed('dim', d => {
+      if(!activeCats.has(d.category)) return true;
+      if(q && !hits.has(d.id)) return true;
+      if(selNode && d.id!==selNode.id && !connSet.has(d.id)) return true;
+      return false;
+    });
+  labels.classed('vis', d => showLbls && activeCats.has(d.category) && (!q||hits.has(d.id)) && (!selNode||d.id===selNode.id||connSet?.has(d.id)));
+  linkSel
+    .classed('hi',  d => selNode && ((d.source.id??d.source)===selNode.id||(d.target.id??d.target)===selNode.id))
+    .classed('dim', d => {
+      const s = d.source.id??d.source, t = d.target.id??d.target;
+      if(!activeCats.has(nodes.find(n=>n.id===s)?.category)) return true;
+      if(!activeCats.has(nodes.find(n=>n.id===t)?.category)) return true;
+      if(q && !hits.has(s) && !hits.has(t)) return true;
+      if(selNode && s!==selNode.id && t!==selNode.id) return true;
+      return false;
+    });
+}
+
+// ── Search ────────────────────────────────────────────────────────────────────
+document.getElementById('search').addEventListener('input', e => { searchQ=e.target.value; applyVis(); });
+
+// ── Labels ────────────────────────────────────────────────────────────────────
+document.getElementById('lblbtn').addEventListener('click', function(){
+  showLbls = !showLbls; this.classList.toggle('on',showLbls); applyVis();
+});
+
+// ── Reset ─────────────────────────────────────────────────────────────────────
+document.getElementById('resetbtn').addEventListener('click', () => fitView(500));
+
+// ── Tooltip ───────────────────────────────────────────────────────────────────
+const ttEl = document.getElementById('tt');
+function showTT(e,d) {
+  document.getElementById('tt-name').textContent = d.name;
+  const tc = document.getElementById('tt-cat');
+  tc.style.color = d.color; tc.textContent = d.category;
+  document.getElementById('tt-tag').textContent = d.tagline||'';
+  ttEl.style.display='block'; moveTT(e);
+}
+function moveTT(e) {
+  let x=e.clientX+14, y=e.clientY-10;
+  if(x+ttEl.offsetWidth>window.innerWidth) x=e.clientX-ttEl.offsetWidth-14;
+  if(y+ttEl.offsetHeight>window.innerHeight) y=e.clientY-ttEl.offsetHeight;
+  ttEl.style.left=x+'px'; ttEl.style.top=y+'px';
+}
+function hideTT() { ttEl.style.display='none'; }
+
+// ── Panel ─────────────────────────────────────────────────────────────────────
+const nodeById = {};
+nodes.forEach(n => nodeById[n.id]=n);
+
+function getConnSet(d) {
+  const s = new Set();
+  links.forEach(l => {
+    const src=l.source.id??l.source, tgt=l.target.id??l.target;
+    if(src===d.id) s.add(tgt);
+    if(tgt===d.id) s.add(src);
+  });
+  return s;
+}
+
+function pickNode(d) {
+  selNode = d;
+  const panel = document.getElementById('panel');
+  document.getElementById('pbar').style.background = d.color;
+  const pc = document.getElementById('pcat');
+  pc.style.color = d.color; pc.textContent = d.category;
+  document.getElementById('pname').textContent = d.name;
+  document.getElementById('ptag').textContent  = d.tagline||'';
+  document.getElementById('dlink').href = 'index.html';
+
+  const connSet = getConnSet(d);
+  const list = document.getElementById('clist');
+  list.innerHTML='';
+
+  const out = [], inc = [];
+  links.forEach(l => {
+    const src=l.source.id??l.source, tgt=l.target.id??l.target;
+    if(src===d.id && nodeById[tgt]) out.push({n:nodeById[tgt],dir:'→'});
+    else if(tgt===d.id && nodeById[src]) inc.push({n:nodeById[src],dir:'←'});
+  });
+  const merged = new Map();
+  out.forEach(x => merged.set(x.n.id, {...x}));
+  inc.forEach(x => { if(merged.has(x.n.id)) merged.get(x.n.id).dir='⇄'; else merged.set(x.n.id,{...x}); });
+
+  if(!merged.size) {
+    list.innerHTML='<li style="color:var(--muted);font-size:.76rem;padding:.25rem 0">No connections</li>';
+  } else {
+    [...merged.values()].sort((a,b)=>a.n.name.localeCompare(b.n.name)).forEach(({n,dir}) => {
+      const li=document.createElement('li'); li.className='conn-item';
+      li.innerHTML=`<span class="c-dot" style="background:${n.color}"></span><span style="flex:1">${n.name}</span><span class="c-arr">${dir}</span>`;
+      li.addEventListener('click', ()=>pickNode(n));
+      list.appendChild(li);
+    });
+  }
+
+  panel.classList.add('open');
+  applyVis();
+}
+
+document.getElementById('pclose').addEventListener('click', () => {
+  selNode=null;
+  document.getElementById('panel').classList.remove('open');
+  applyVis();
+});
+svg.on('click', () => {
+  if(selNode){ selNode=null; document.getElementById('panel').classList.remove('open'); applyVis(); }
+});
+</script>
+</body>
+</html>

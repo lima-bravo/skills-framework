@@ -42,9 +42,9 @@ Airbnb's early chicken-and-egg solution: the founders craigslist-scraped attract
 
 ## Connections
 
-→ **Network Effects** — marketplace value grows through cross-side network effects.
-→ **Critical Mass** — marketplace liquidity is the specific form of critical mass for marketplace models.
-→ **Trust** — marketplace trust infrastructure is the mechanism that makes transactions between strangers possible.
+→ [**Network Effects**](network-effects.md) — marketplace value grows through cross-side network effects.
+→ [**Critical Mass**](../02-Systems/critical-mass.md) — marketplace liquidity is the specific form of critical mass for marketplace models.
+→ [**Trust**](../05-Psychology/trust.md) — marketplace trust infrastructure is the mechanism that makes transactions between strangers possible.
 
 ---
 
