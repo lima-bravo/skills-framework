@@ -24,7 +24,7 @@ The framework has three layers, each suited to different moments:
 
 **The card deck (`index.html`)** is your working surface. Open it when facing a decision or problem. Search by keyword, filter by category, and expand a card to read the mental model and heuristics. This is the layer you use in the moment.
 
-**The individual skill files (`01-General-Thinking/`, `02-Systems/`, etc.)** are your deep-dive layer. When a skill feels relevant but half-understood, open the full file. Read the definition, the failure modes, and the worked example. These are the files you annotate and return to.
+**The individual skill files (`General-Thinking/`, `Systems/`, etc.)** are your deep-dive layer. When a skill feels relevant but half-understood, open the full file. Read the definition, the failure modes, and the worked example. These are the files you annotate and return to.
 
 **The master document (`Skills Framework.md`)** is the full compendium — best for sequential study of a whole category, or for searching across the entire framework with your text editor's find function.
 

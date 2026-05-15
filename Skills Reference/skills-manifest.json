@@ -15,787 +15,787 @@
     "Leadership": "#1E40AF"
   },
   "skills": {
-    "01-General-Thinking/first-principles.md": {
+    "General-Thinking/first-principles.md": {
       "id": 0,
       "name": "First Principles",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/inversion.md": {
+    "General-Thinking/inversion.md": {
       "id": 1,
       "name": "Inversion",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/second-order-effects.md": {
+    "General-Thinking/second-order-effects.md": {
       "id": 2,
       "name": "Second-Order Effects",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/occams-razor.md": {
+    "General-Thinking/occams-razor.md": {
       "id": 3,
       "name": "Occam's Razor",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/hanlons-razor.md": {
+    "General-Thinking/hanlons-razor.md": {
       "id": 4,
       "name": "Hanlon's Razor",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/circle-of-competence.md": {
+    "General-Thinking/circle-of-competence.md": {
       "id": 5,
       "name": "Circle of Competence",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/map-territory.md": {
+    "General-Thinking/map-territory.md": {
       "id": 6,
       "name": "Map-Territory",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/probabilistic-thinking.md": {
+    "General-Thinking/probabilistic-thinking.md": {
       "id": 7,
       "name": "Probabilistic Thinking",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/thought-experiment.md": {
+    "General-Thinking/thought-experiment.md": {
       "id": 8,
       "name": "Thought Experiment",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/socratic-thinking.md": {
+    "General-Thinking/socratic-thinking.md": {
       "id": 9,
       "name": "Socratic Thinking",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/pre-mortem.md": {
+    "General-Thinking/pre-mortem.md": {
       "id": 10,
       "name": "Pre-mortem",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/post-mortem.md": {
+    "General-Thinking/post-mortem.md": {
       "id": 11,
       "name": "Post-mortem",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/asymmetry-convexity.md": {
+    "General-Thinking/asymmetry-convexity.md": {
       "id": 12,
       "name": "Asymmetry / Convexity",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/de-bonos-six-thinking-hats.md": {
+    "General-Thinking/de-bonos-six-thinking-hats.md": {
       "id": 13,
       "name": "De Bono's Six Thinking Hats",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/ladder-of-inference.md": {
+    "General-Thinking/ladder-of-inference.md": {
       "id": 14,
       "name": "Ladder of Inference",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/regret-minimization-framework.md": {
+    "General-Thinking/regret-minimization-framework.md": {
       "id": 15,
       "name": "Regret Minimization Framework",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/two-way-doors.md": {
+    "General-Thinking/two-way-doors.md": {
       "id": 16,
       "name": "Two-Way Doors",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "02-Systems/feedback-loops.md": {
+    "Systems/feedback-loops.md": {
       "id": 17,
       "name": "Feedback Loops",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/bottlenecks.md": {
+    "Systems/bottlenecks.md": {
       "id": 18,
       "name": "Bottlenecks",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/emergence.md": {
+    "Systems/emergence.md": {
       "id": 19,
       "name": "Emergence",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/equilibrium.md": {
+    "Systems/equilibrium.md": {
       "id": 20,
       "name": "Equilibrium",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/scale.md": {
+    "Systems/scale.md": {
       "id": 21,
       "name": "Scale",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/critical-mass.md": {
+    "Systems/critical-mass.md": {
       "id": 22,
       "name": "Critical Mass",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/diminishing-returns.md": {
+    "Systems/diminishing-returns.md": {
       "id": 23,
       "name": "Diminishing Returns",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/margin-of-safety.md": {
+    "Systems/margin-of-safety.md": {
       "id": 24,
       "name": "Margin of Safety",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/churn.md": {
+    "Systems/churn.md": {
       "id": 25,
       "name": "Churn",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/algorithms.md": {
+    "Systems/algorithms.md": {
       "id": 26,
       "name": "Algorithms",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/irreducibility.md": {
+    "Systems/irreducibility.md": {
       "id": 27,
       "name": "Irreducibility",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/conways-law.md": {
+    "Systems/conways-law.md": {
       "id": 28,
       "name": "Conway's Law",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/red-queen-dilemma.md": {
+    "Systems/red-queen-dilemma.md": {
       "id": 29,
       "name": "Red Queen Dilemma",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "03-Economics/trade-offs.md": {
+    "Economics/trade-offs.md": {
       "id": 30,
       "name": "Trade-offs",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/scarcity.md": {
+    "Economics/scarcity.md": {
       "id": 31,
       "name": "Scarcity",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/specialization.md": {
+    "Economics/specialization.md": {
       "id": 32,
       "name": "Specialization",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/optimization.md": {
+    "Economics/optimization.md": {
       "id": 33,
       "name": "Optimization",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/monopoly-vs-competition.md": {
+    "Economics/monopoly-vs-competition.md": {
       "id": 34,
       "name": "Monopoly vs. Competition",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/efficiency.md": {
+    "Economics/efficiency.md": {
       "id": 35,
       "name": "Efficiency",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/debt.md": {
+    "Economics/debt.md": {
       "id": 36,
       "name": "Debt",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/creative-destruction.md": {
+    "Economics/creative-destruction.md": {
       "id": 37,
       "name": "Creative Destruction",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/bubbles.md": {
+    "Economics/bubbles.md": {
       "id": 38,
       "name": "Bubbles",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/interdependence.md": {
+    "Economics/interdependence.md": {
       "id": 39,
       "name": "Interdependence",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "03-Economics/greshams-law.md": {
+    "Economics/greshams-law.md": {
       "id": 40,
       "name": "Gresham's Law",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "04-Physics-and-Chemistry/leverage.md": {
+    "Physics-and-Chemistry/leverage.md": {
       "id": 41,
       "name": "Leverage",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "04-Physics-and-Chemistry/velocity.md": {
+    "Physics-and-Chemistry/velocity.md": {
       "id": 42,
       "name": "Velocity",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "04-Physics-and-Chemistry/inertia.md": {
+    "Physics-and-Chemistry/inertia.md": {
       "id": 43,
       "name": "Inertia",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "04-Physics-and-Chemistry/friction.md": {
+    "Physics-and-Chemistry/friction.md": {
       "id": 44,
       "name": "Friction",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "04-Physics-and-Chemistry/activation-energy.md": {
+    "Physics-and-Chemistry/activation-energy.md": {
       "id": 45,
       "name": "Activation Energy",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "04-Physics-and-Chemistry/thermodynamics.md": {
+    "Physics-and-Chemistry/thermodynamics.md": {
       "id": 46,
       "name": "Thermodynamics",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "04-Physics-and-Chemistry/catalysts.md": {
+    "Physics-and-Chemistry/catalysts.md": {
       "id": 47,
       "name": "Catalysts",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "04-Physics-and-Chemistry/alloying.md": {
+    "Physics-and-Chemistry/alloying.md": {
       "id": 48,
       "name": "Alloying",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "04-Physics-and-Chemistry/reciprocity.md": {
+    "Physics-and-Chemistry/reciprocity.md": {
       "id": 49,
       "name": "Reciprocity",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "04-Physics-and-Chemistry/relativity.md": {
+    "Physics-and-Chemistry/relativity.md": {
       "id": 50,
       "name": "Relativity",
       "category": "Physics & Chemistry",
       "color": "#EA580C"
     },
-    "05-Psychology/incentives.md": {
+    "Psychology/incentives.md": {
       "id": 51,
       "name": "Incentives",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/loss-aversion.md": {
+    "Psychology/loss-aversion.md": {
       "id": 52,
       "name": "Loss Aversion",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/sunk-cost.md": {
+    "Psychology/sunk-cost.md": {
       "id": 53,
       "name": "Sunk Cost",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/anchoring.md": {
+    "Psychology/anchoring.md": {
       "id": 54,
       "name": "Anchoring",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/confirmation-bias.md": {
+    "Psychology/confirmation-bias.md": {
       "id": 55,
       "name": "Confirmation Bias",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/availability-bias.md": {
+    "Psychology/availability-bias.md": {
       "id": 56,
       "name": "Availability Bias",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/dunning-kruger.md": {
+    "Psychology/dunning-kruger.md": {
       "id": 57,
       "name": "Dunning-Kruger",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/maslows-hierarchy-of-needs.md": {
+    "Psychology/maslows-hierarchy-of-needs.md": {
       "id": 58,
       "name": "Maslow's Hierarchy of Needs",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/mcclellands-acquired-needs-theory.md": {
+    "Psychology/mcclellands-acquired-needs-theory.md": {
       "id": 59,
       "name": "McClelland's Acquired Needs Theory",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/max-neefs-fundamental-human-needs.md": {
+    "Psychology/max-neefs-fundamental-human-needs.md": {
       "id": 60,
       "name": "Max-Neef's Fundamental Human Needs",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "05-Psychology/erg-theory.md": {
+    "Psychology/erg-theory.md": {
       "id": 61,
       "name": "ERG Theory",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "06-Startups/product-market-fit.md": {
+    "Startups/product-market-fit.md": {
       "id": 62,
       "name": "Product-Market Fit",
       "category": "Startups",
       "color": "#DC2626"
     },
-    "06-Startups/build-measure-learn.md": {
+    "Startups/build-measure-learn.md": {
       "id": 63,
       "name": "Build-Measure-Learn",
       "category": "Startups",
       "color": "#DC2626"
     },
-    "06-Startups/mvp.md": {
+    "Startups/mvp.md": {
       "id": 64,
       "name": "MVP",
       "category": "Startups",
       "color": "#DC2626"
     },
-    "06-Startups/pivot-or-persevere.md": {
+    "Startups/pivot-or-persevere.md": {
       "id": 65,
       "name": "Pivot or Persevere",
       "category": "Startups",
       "color": "#DC2626"
     },
-    "06-Startups/customer-development.md": {
+    "Startups/customer-development.md": {
       "id": 66,
       "name": "Customer Development",
       "category": "Startups",
       "color": "#DC2626"
     },
-    "06-Startups/innovation-accounting.md": {
+    "Startups/innovation-accounting.md": {
       "id": 67,
       "name": "Innovation Accounting",
       "category": "Startups",
       "color": "#DC2626"
     },
-    "07-Business/business-model-canvas.md": {
+    "Business/business-model-canvas.md": {
       "id": 68,
       "name": "Business Model Canvas",
       "category": "Business",
       "color": "#475569"
     },
-    "07-Business/value-prop-canvas.md": {
+    "Business/value-prop-canvas.md": {
       "id": 69,
       "name": "Value Prop Canvas",
       "category": "Business",
       "color": "#475569"
     },
-    "07-Business/innovation-funnel.md": {
+    "Business/innovation-funnel.md": {
       "id": 70,
       "name": "Innovation Funnel",
       "category": "Business",
       "color": "#475569"
     },
-    "07-Business/portfolio-map.md": {
+    "Business/portfolio-map.md": {
       "id": 71,
       "name": "Portfolio Map",
       "category": "Business",
       "color": "#475569"
     },
-    "07-Business/experiment-design.md": {
+    "Business/experiment-design.md": {
       "id": 72,
       "name": "Experiment Design",
       "category": "Business",
       "color": "#475569"
     },
-    "07-Business/assumption-mapping.md": {
+    "Business/assumption-mapping.md": {
       "id": 73,
       "name": "Assumption Mapping",
       "category": "Business",
       "color": "#475569"
     },
-    "07-Business/stakeholder-mapping-salience-model.md": {
+    "Business/stakeholder-mapping-salience-model.md": {
       "id": 74,
       "name": "Stakeholder Mapping (Salience Model)",
       "category": "Business",
       "color": "#475569"
     },
-    "08-Mathematics/compounding.md": {
+    "Mathematics/compounding.md": {
       "id": 75,
       "name": "Compounding",
       "category": "Mathematics",
       "color": "#4F46E5"
     },
-    "08-Mathematics/local-maxima.md": {
+    "Mathematics/local-maxima.md": {
       "id": 76,
       "name": "Local Maxima",
       "category": "Mathematics",
       "color": "#4F46E5"
     },
-    "08-Mathematics/regression-to-the-mean.md": {
+    "Mathematics/regression-to-the-mean.md": {
       "id": 77,
       "name": "Regression to the Mean",
       "category": "Mathematics",
       "color": "#4F46E5"
     },
-    "08-Mathematics/randomness.md": {
+    "Mathematics/randomness.md": {
       "id": 78,
       "name": "Randomness",
       "category": "Mathematics",
       "color": "#4F46E5"
     },
-    "08-Mathematics/sampling.md": {
+    "Mathematics/sampling.md": {
       "id": 79,
       "name": "Sampling",
       "category": "Mathematics",
       "color": "#4F46E5"
     },
-    "08-Mathematics/surface-area.md": {
+    "Mathematics/surface-area.md": {
       "id": 80,
       "name": "Surface Area",
       "category": "Mathematics",
       "color": "#4F46E5"
     },
-    "08-Mathematics/multiply-by-zero.md": {
+    "Mathematics/multiply-by-zero.md": {
       "id": 81,
       "name": "Multiply by Zero",
       "category": "Mathematics",
       "color": "#4F46E5"
     },
-    "09-Network-Effects/network-effects.md": {
+    "Network-Effects/network-effects.md": {
       "id": 82,
       "name": "Network Effects",
       "category": "Network Effects",
       "color": "#CA8A04"
     },
-    "09-Network-Effects/viral-growth.md": {
+    "Network-Effects/viral-growth.md": {
       "id": 83,
       "name": "Viral Growth",
       "category": "Network Effects",
       "color": "#CA8A04"
     },
-    "09-Network-Effects/marketplace.md": {
+    "Network-Effects/marketplace.md": {
       "id": 84,
       "name": "Marketplace",
       "category": "Network Effects",
       "color": "#CA8A04"
     },
-    "09-Network-Effects/defensibility.md": {
+    "Network-Effects/defensibility.md": {
       "id": 85,
       "name": "Defensibility",
       "category": "Network Effects",
       "color": "#CA8A04"
     },
-    "10-Learning/model-chaining.md": {
+    "Learning/model-chaining.md": {
       "id": 86,
       "name": "Model Chaining",
       "category": "Learning",
       "color": "#059669"
     },
-    "10-Learning/t-shaped.md": {
+    "Learning/t-shaped.md": {
       "id": 87,
       "name": "T-Shaped",
       "category": "Learning",
       "color": "#059669"
     },
-    "10-Learning/five-hour-rule.md": {
+    "Learning/five-hour-rule.md": {
       "id": 88,
       "name": "Five-Hour Rule",
       "category": "Learning",
       "color": "#059669"
     },
-    "10-Learning/learning-transfer.md": {
+    "Learning/learning-transfer.md": {
       "id": 89,
       "name": "Learning Transfer",
       "category": "Learning",
       "color": "#059669"
     },
-    "11-Art/audience.md": {
+    "Art/audience.md": {
       "id": 90,
       "name": "Audience",
       "category": "Art",
       "color": "#DB2777"
     },
-    "11-Art/framing.md": {
+    "Art/framing.md": {
       "id": 91,
       "name": "Framing",
       "category": "Art",
       "color": "#DB2777"
     },
-    "11-Art/contrast.md": {
+    "Art/contrast.md": {
       "id": 92,
       "name": "Contrast",
       "category": "Art",
       "color": "#DB2777"
     },
-    "11-Art/rhythm.md": {
+    "Art/rhythm.md": {
       "id": 93,
       "name": "Rhythm",
       "category": "Art",
       "color": "#DB2777"
     },
-    "12-Pre-built-Chains/pricing-decision.md": {
+    "Pre-built-Chains/pricing-decision.md": {
       "id": 94,
       "name": "Pricing Decision",
       "category": "Pre-built Chains",
       "color": "#B45309"
     },
-    "12-Pre-built-Chains/market-entry.md": {
+    "Pre-built-Chains/market-entry.md": {
       "id": 95,
       "name": "Market Entry",
       "category": "Pre-built Chains",
       "color": "#B45309"
     },
-    "12-Pre-built-Chains/hiring-decision.md": {
+    "Pre-built-Chains/hiring-decision.md": {
       "id": 96,
       "name": "Hiring Decision",
       "category": "Pre-built Chains",
       "color": "#B45309"
     },
-    "12-Pre-built-Chains/product-launch.md": {
+    "Pre-built-Chains/product-launch.md": {
       "id": 97,
       "name": "Product Launch",
       "category": "Pre-built Chains",
       "color": "#B45309"
     },
-    "12-Pre-built-Chains/investment-decision.md": {
+    "Pre-built-Chains/investment-decision.md": {
       "id": 98,
       "name": "Investment Decision",
       "category": "Pre-built Chains",
       "color": "#B45309"
     },
-    "12-Pre-built-Chains/should-i-quit.md": {
+    "Pre-built-Chains/should-i-quit.md": {
       "id": 99,
       "name": "Should I Quit",
       "category": "Pre-built Chains",
       "color": "#B45309"
     },
-    "12-Pre-built-Chains/life-decision.md": {
+    "Pre-built-Chains/life-decision.md": {
       "id": 100,
       "name": "Life Decision",
       "category": "Pre-built Chains",
       "color": "#B45309"
     },
-    "05-Psychology/trust.md": {
+    "Psychology/trust.md": {
       "id": 101,
       "name": "Trust",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "02-Systems/s-curves.md": {
+    "Systems/s-curves.md": {
       "id": 102,
       "name": "S-Curves",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "06-Startups/jobs-to-be-done.md": {
+    "Startups/jobs-to-be-done.md": {
       "id": 103,
       "name": "Jobs to Be Done",
       "category": "Startups",
       "color": "#DC2626"
     },
-    "05-Psychology/psychological-safety.md": {
+    "Psychology/psychological-safety.md": {
       "id": 104,
       "name": "Psychological Safety",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "10-Learning/pre-built-chains.md": {
+    "Learning/pre-built-chains.md": {
       "id": 105,
       "name": "Pre-built Chains",
       "category": "Learning",
       "color": "#059669"
     },
-    "01-General-Thinking/analogical-reasoning.md": {
+    "General-Thinking/analogical-reasoning.md": {
       "id": 106,
       "name": "Analogical Reasoning",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "01-General-Thinking/divergent-and-convergent-thinking.md": {
+    "General-Thinking/divergent-and-convergent-thinking.md": {
       "id": 107,
       "name": "Divergent and Convergent Thinking",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "02-Systems/exploration-vs-exploitation.md": {
+    "Systems/exploration-vs-exploitation.md": {
       "id": 108,
       "name": "Exploration vs. Exploitation",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "02-Systems/adjacent-possible.md": {
+    "Systems/adjacent-possible.md": {
       "id": 109,
       "name": "Adjacent Possible",
       "category": "Systems",
       "color": "#0D9488"
     },
-    "06-Startups/design-thinking.md": {
+    "Startups/design-thinking.md": {
       "id": 110,
       "name": "Design Thinking",
       "category": "Startups",
       "color": "#DC2626"
     },
-    "06-Startups/crossing-the-chasm.md": {
+    "Startups/crossing-the-chasm.md": {
       "id": 111,
       "name": "Crossing the Chasm",
       "category": "Startups",
       "color": "#DC2626"
     },
-    "07-Business/disruptive-innovation.md": {
+    "Business/disruptive-innovation.md": {
       "id": 112,
       "name": "Disruptive Innovation",
       "category": "Business",
       "color": "#475569"
     },
-    "07-Business/three-horizons.md": {
+    "Business/three-horizons.md": {
       "id": 113,
       "name": "Three Horizons",
       "category": "Business",
       "color": "#475569"
     },
-    "10-Learning/deep-work.md": {
+    "Learning/deep-work.md": {
       "id": 114,
       "name": "Deep Work / Cognitive Capacity",
       "category": "Learning",
       "color": "#059669"
     },
-    "05-Psychology/planning-fallacy.md": {
+    "Psychology/planning-fallacy.md": {
       "id": 115,
       "name": "Planning Fallacy",
       "category": "Psychology",
       "color": "#9333EA"
     },
-    "07-Business/makers-schedule.md": {
+    "Business/makers-schedule.md": {
       "id": 116,
       "name": "Maker's Schedule vs. Manager's Schedule",
       "category": "Business",
       "color": "#475569"
     },
-    "12-Pre-built-Chains/capacity-planning.md": {
+    "Pre-built-Chains/capacity-planning.md": {
       "id": 117,
       "name": "Capacity Planning",
       "category": "Pre-built Chains",
       "color": "#B45309"
     },
-    "11-Leadership/mission-command.md": {
+    "Leadership/mission-command.md": {
       "id": 118,
       "name": "Mission Command",
       "category": "Leadership",
       "color": "#1E40AF"
     },
-    "11-Leadership/ooda-loop.md": {
+    "Leadership/ooda-loop.md": {
       "id": 119,
       "name": "OODA Loop",
       "category": "Leadership",
       "color": "#1E40AF"
     },
-    "04-Economics/goodharts-law.md": {
+    "Economics/goodharts-law.md": {
       "id": 120,
       "name": "Goodhart's Law",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "04-Economics/principal-agent-problem.md": {
+    "Economics/principal-agent-problem.md": {
       "id": 121,
-      "name": "Principal\u2013Agent Problem",
+      "name": "Principal–Agent Problem",
       "category": "Economics",
       "color": "#16A34A"
     },
-    "01-General-Thinking/cynefin-framework.md": {
+    "General-Thinking/cynefin-framework.md": {
       "id": 122,
       "name": "Cynefin Framework",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "07-Business/scenario-planning.md": {
+    "Business/scenario-planning.md": {
       "id": 123,
       "name": "Scenario Planning",
       "category": "Business",
       "color": "#475569"
     },
-    "11-Leadership/organizational-culture.md": {
+    "Leadership/organizational-culture.md": {
       "id": 124,
       "name": "Organizational Culture",
       "category": "Leadership",
       "color": "#1E40AF"
     },
-    "11-Leadership/change-management.md": {
+    "Leadership/change-management.md": {
       "id": 125,
       "name": "Change Management",
       "category": "Leadership",
       "color": "#1E40AF"
     },
-    "11-Leadership/risk-management.md": {
+    "Leadership/risk-management.md": {
       "id": 126,
       "name": "Risk Management",
       "category": "Leadership",
       "color": "#1E40AF"
     },
-    "07-Business/raci-framework.md": {
+    "Business/raci-framework.md": {
       "id": 127,
       "name": "RACI Framework",
       "category": "Business",
       "color": "#475569"
     },
-    "01-General-Thinking/theory-of-change.md": {
+    "General-Thinking/theory-of-change.md": {
       "id": 128,
       "name": "Theory of Change",
       "category": "General Thinking",
       "color": "#3B82F6"
     },
-    "11-Leadership/board-governance.md": {
+    "Leadership/board-governance.md": {
       "id": 129,
       "name": "Board Governance",
       "category": "Leadership",
       "color": "#1E40AF"
     },
-    "12-Pre-built-Chains/transformation.md": {
+    "Pre-built-Chains/transformation.md": {
       "id": 130,
       "name": "Transformation Chain",
       "category": "Pre-built Chains",
@@ -826,7 +826,7 @@
       ]
     },
     {
-      "title": "A Theory of Human Motivation \u2014 Psychological Review Vol. 50",
+      "title": "A Theory of Human Motivation — Psychological Review Vol. 50",
       "authorYear": "Abraham H. Maslow (1943)",
       "skills": [
         {
@@ -1055,7 +1055,7 @@
     },
     {
       "title": "Clear and Simple as the Truth",
-      "authorYear": "Francis-No\u00ebl Thomas & Mark Turner (1994)",
+      "authorYear": "Francis-Noël Thomas & Mark Turner (1994)",
       "skills": [
         {
           "id": 93,
@@ -1180,7 +1180,7 @@
     },
     {
       "title": "Daring Greatly",
-      "authorYear": "Bren\u00e9 Brown (2012)",
+      "authorYear": "Brené Brown (2012)",
       "skills": [
         {
           "id": 104,
@@ -1250,7 +1250,7 @@
     },
     {
       "title": "Discourse on the Method",
-      "authorYear": "Ren\u00e9 Descartes (1637)",
+      "authorYear": "René Descartes (1637)",
       "skills": [
         {
           "id": 0,
@@ -1288,7 +1288,7 @@
     },
     {
       "title": "Elements of Pure Economics",
-      "authorYear": "L\u00e9on Walras (1874)",
+      "authorYear": "Léon Walras (1874)",
       "skills": [
         {
           "id": 20,
@@ -1320,7 +1320,7 @@
       ]
     },
     {
-      "title": "Exploration and Exploitation in Organizational Learning \u2014 Organization Science Vol. 2",
+      "title": "Exploration and Exploitation in Organizational Learning — Organization Science Vol. 2",
       "authorYear": "James G. March (1991)",
       "skills": [
         {
@@ -1386,7 +1386,7 @@
       ]
     },
     {
-      "title": "G\u00f6del, Escher, Bach: An Eternal Golden Braid",
+      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
       "authorYear": "Douglas R. Hofstadter (1979)",
       "skills": [
         {
@@ -1436,7 +1436,7 @@
     },
     {
       "title": "How to Solve It",
-      "authorYear": "George P\u00f3lya (1945)",
+      "authorYear": "George Pólya (1945)",
       "skills": [
         {
           "id": 76,
@@ -1555,7 +1555,7 @@
       ]
     },
     {
-      "title": "Judgment under Uncertainty: Heuristics and Biases \u2014 Science Vol. 185",
+      "title": "Judgment under Uncertainty: Heuristics and Biases — Science Vol. 185",
       "authorYear": "Daniel Kahneman & Amos Tversky (1974)",
       "skills": [
         {
@@ -1653,7 +1653,7 @@
       "skills": [
         {
           "id": 120,
-          "name": "Goodhart\u2019s Law",
+          "name": "Goodhart’s Law",
           "color": "#16A34A"
         }
       ]
@@ -1884,7 +1884,7 @@
         },
         {
           "id": 121,
-          "name": "Principal\u2013Agent Problem",
+          "name": "Principal–Agent Problem",
           "color": "#16A34A"
         }
       ]
@@ -2304,7 +2304,7 @@
       ]
     },
     {
-      "title": "The Cost of Interrupted Work: More Speed and Stress \u2014 CHI Proceedings",
+      "title": "The Cost of Interrupted Work: More Speed and Stress — CHI Proceedings",
       "authorYear": "Gloria Mark, Daniela Gudith & Ulrich Klocke (2008)",
       "skills": [
         {
@@ -2537,7 +2537,7 @@
       "skills": [
         {
           "id": 121,
-          "name": "Principal\u2013Agent Problem",
+          "name": "Principal–Agent Problem",
           "color": "#16A34A"
         }
       ]
@@ -2900,7 +2900,7 @@
     },
     {
       "title": "The Strategy and Tactics of Pricing",
-      "authorYear": "Thomas T. Nagle & Georg M\u00fcller (2018)",
+      "authorYear": "Thomas T. Nagle & Georg Müller (2018)",
       "skills": [
         {
           "id": 94,
@@ -2926,7 +2926,7 @@
       "skills": [
         {
           "id": 120,
-          "name": "Goodhart\u2019s Law",
+          "name": "Goodhart’s Law",
           "color": "#16A34A"
         }
       ]
@@ -3083,7 +3083,7 @@
       ]
     },
     {
-      "title": "Toward a Theory of Stakeholder Identification and Salience \u2014 AMR Vol. 22 No. 4",
+      "title": "Toward a Theory of Stakeholder Identification and Salience — AMR Vol. 22 No. 4",
       "authorYear": "R.K. Mitchell, B.R. Agle & D.J. Wood (1997)",
       "skills": [
         {
