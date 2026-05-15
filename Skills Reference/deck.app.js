@@ -3,6 +3,18 @@ const CAT_COLORS = {"General Thinking": "#3B82F6", "Systems": "#0D9488", "Econom
 let activecat = 'all', query = '';
 const CAT_ORDER = Object.keys(CAT_COLORS);
 
+function categoryIndex(category) {
+  const i = CAT_ORDER.indexOf(category);
+  return i === -1 ? CAT_ORDER.length : i;
+}
+
+/** Category order (framework), then name within category — keeps peers together in the grid. */
+function compareSkills(a, b) {
+  const byCat = categoryIndex(a.category) - categoryIndex(b.category);
+  if (byCat !== 0) return byCat;
+  return a.name.localeCompare(b.name, undefined, { sensitivity: 'base' });
+}
+
 function debounce(fn, ms) {
   let t;
   return (...args) => {
@@ -59,7 +71,7 @@ function render() {
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
   const stats = document.getElementById('stats');
-  const fs = filtered();
+  const fs = filtered().sort(compareSkills);
 
   document.querySelectorAll('.fbtn').forEach(b => {
     b.classList.toggle('active', b.dataset.cat === activecat);

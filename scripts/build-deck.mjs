@@ -174,7 +174,15 @@ function main() {
       searchText: [meta.name, tagline, preview].join(' ').toLowerCase(),
     });
   }
-  skills.sort((a, b) => a.id - b.id);
+  const catOrder = Object.keys(manifest.categories);
+  skills.sort((a, b) => {
+    const ai = catOrder.indexOf(a.category);
+    const bi = catOrder.indexOf(b.category);
+    const ca = ai === -1 ? catOrder.length : ai;
+    const cb = bi === -1 ? catOrder.length : bi;
+    if (ca !== cb) return ca - cb;
+    return a.name.localeCompare(b.name, undefined, { sensitivity: 'base' });
+  });
 
   if (!template.includes('__SKILLS_JSON__')) {
     throw new Error('deck.template.html missing __SKILLS_JSON__ placeholder');
