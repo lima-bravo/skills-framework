@@ -1,0 +1,8 @@
+{
+  "name": "skills-framework",
+  "private": true,
+  "description": "Disciplined skillset reference deck and framework",
+  "scripts": {
+    "build:deck": "node scripts/build-deck.mjs"
+  }
+}

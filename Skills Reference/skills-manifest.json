@@ -1,0 +1,3228 @@
+{
+  "categories": {
+    "General Thinking": "#3B82F6",
+    "Systems": "#0D9488",
+    "Economics": "#16A34A",
+    "Physics & Chemistry": "#EA580C",
+    "Psychology": "#9333EA",
+    "Startups": "#DC2626",
+    "Business": "#475569",
+    "Mathematics": "#4F46E5",
+    "Network Effects": "#CA8A04",
+    "Learning": "#059669",
+    "Art": "#DB2777",
+    "Pre-built Chains": "#B45309",
+    "Leadership": "#1E40AF"
+  },
+  "skills": {
+    "01-General-Thinking/first-principles.md": {
+      "id": 0,
+      "name": "First Principles",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/inversion.md": {
+      "id": 1,
+      "name": "Inversion",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/second-order-effects.md": {
+      "id": 2,
+      "name": "Second-Order Effects",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/occams-razor.md": {
+      "id": 3,
+      "name": "Occam's Razor",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/hanlons-razor.md": {
+      "id": 4,
+      "name": "Hanlon's Razor",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/circle-of-competence.md": {
+      "id": 5,
+      "name": "Circle of Competence",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/map-territory.md": {
+      "id": 6,
+      "name": "Map-Territory",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/probabilistic-thinking.md": {
+      "id": 7,
+      "name": "Probabilistic Thinking",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/thought-experiment.md": {
+      "id": 8,
+      "name": "Thought Experiment",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/socratic-thinking.md": {
+      "id": 9,
+      "name": "Socratic Thinking",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/pre-mortem.md": {
+      "id": 10,
+      "name": "Pre-mortem",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/post-mortem.md": {
+      "id": 11,
+      "name": "Post-mortem",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/asymmetry-convexity.md": {
+      "id": 12,
+      "name": "Asymmetry / Convexity",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/de-bonos-six-thinking-hats.md": {
+      "id": 13,
+      "name": "De Bono's Six Thinking Hats",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/ladder-of-inference.md": {
+      "id": 14,
+      "name": "Ladder of Inference",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/regret-minimization-framework.md": {
+      "id": 15,
+      "name": "Regret Minimization Framework",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/two-way-doors.md": {
+      "id": 16,
+      "name": "Two-Way Doors",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "02-Systems/feedback-loops.md": {
+      "id": 17,
+      "name": "Feedback Loops",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/bottlenecks.md": {
+      "id": 18,
+      "name": "Bottlenecks",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/emergence.md": {
+      "id": 19,
+      "name": "Emergence",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/equilibrium.md": {
+      "id": 20,
+      "name": "Equilibrium",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/scale.md": {
+      "id": 21,
+      "name": "Scale",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/critical-mass.md": {
+      "id": 22,
+      "name": "Critical Mass",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/diminishing-returns.md": {
+      "id": 23,
+      "name": "Diminishing Returns",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/margin-of-safety.md": {
+      "id": 24,
+      "name": "Margin of Safety",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/churn.md": {
+      "id": 25,
+      "name": "Churn",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/algorithms.md": {
+      "id": 26,
+      "name": "Algorithms",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/irreducibility.md": {
+      "id": 27,
+      "name": "Irreducibility",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/conways-law.md": {
+      "id": 28,
+      "name": "Conway's Law",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/red-queen-dilemma.md": {
+      "id": 29,
+      "name": "Red Queen Dilemma",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "03-Economics/trade-offs.md": {
+      "id": 30,
+      "name": "Trade-offs",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/scarcity.md": {
+      "id": 31,
+      "name": "Scarcity",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/specialization.md": {
+      "id": 32,
+      "name": "Specialization",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/optimization.md": {
+      "id": 33,
+      "name": "Optimization",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/monopoly-vs-competition.md": {
+      "id": 34,
+      "name": "Monopoly vs. Competition",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/efficiency.md": {
+      "id": 35,
+      "name": "Efficiency",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/debt.md": {
+      "id": 36,
+      "name": "Debt",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/creative-destruction.md": {
+      "id": 37,
+      "name": "Creative Destruction",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/bubbles.md": {
+      "id": 38,
+      "name": "Bubbles",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/interdependence.md": {
+      "id": 39,
+      "name": "Interdependence",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "03-Economics/greshams-law.md": {
+      "id": 40,
+      "name": "Gresham's Law",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "04-Physics-and-Chemistry/leverage.md": {
+      "id": 41,
+      "name": "Leverage",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "04-Physics-and-Chemistry/velocity.md": {
+      "id": 42,
+      "name": "Velocity",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "04-Physics-and-Chemistry/inertia.md": {
+      "id": 43,
+      "name": "Inertia",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "04-Physics-and-Chemistry/friction.md": {
+      "id": 44,
+      "name": "Friction",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "04-Physics-and-Chemistry/activation-energy.md": {
+      "id": 45,
+      "name": "Activation Energy",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "04-Physics-and-Chemistry/thermodynamics.md": {
+      "id": 46,
+      "name": "Thermodynamics",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "04-Physics-and-Chemistry/catalysts.md": {
+      "id": 47,
+      "name": "Catalysts",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "04-Physics-and-Chemistry/alloying.md": {
+      "id": 48,
+      "name": "Alloying",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "04-Physics-and-Chemistry/reciprocity.md": {
+      "id": 49,
+      "name": "Reciprocity",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "04-Physics-and-Chemistry/relativity.md": {
+      "id": 50,
+      "name": "Relativity",
+      "category": "Physics & Chemistry",
+      "color": "#EA580C"
+    },
+    "05-Psychology/incentives.md": {
+      "id": 51,
+      "name": "Incentives",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/loss-aversion.md": {
+      "id": 52,
+      "name": "Loss Aversion",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/sunk-cost.md": {
+      "id": 53,
+      "name": "Sunk Cost",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/anchoring.md": {
+      "id": 54,
+      "name": "Anchoring",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/confirmation-bias.md": {
+      "id": 55,
+      "name": "Confirmation Bias",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/availability-bias.md": {
+      "id": 56,
+      "name": "Availability Bias",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/dunning-kruger.md": {
+      "id": 57,
+      "name": "Dunning-Kruger",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/maslows-hierarchy-of-needs.md": {
+      "id": 58,
+      "name": "Maslow's Hierarchy of Needs",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/mcclellands-acquired-needs-theory.md": {
+      "id": 59,
+      "name": "McClelland's Acquired Needs Theory",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/max-neefs-fundamental-human-needs.md": {
+      "id": 60,
+      "name": "Max-Neef's Fundamental Human Needs",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "05-Psychology/erg-theory.md": {
+      "id": 61,
+      "name": "ERG Theory",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "06-Startups/product-market-fit.md": {
+      "id": 62,
+      "name": "Product-Market Fit",
+      "category": "Startups",
+      "color": "#DC2626"
+    },
+    "06-Startups/build-measure-learn.md": {
+      "id": 63,
+      "name": "Build-Measure-Learn",
+      "category": "Startups",
+      "color": "#DC2626"
+    },
+    "06-Startups/mvp.md": {
+      "id": 64,
+      "name": "MVP",
+      "category": "Startups",
+      "color": "#DC2626"
+    },
+    "06-Startups/pivot-or-persevere.md": {
+      "id": 65,
+      "name": "Pivot or Persevere",
+      "category": "Startups",
+      "color": "#DC2626"
+    },
+    "06-Startups/customer-development.md": {
+      "id": 66,
+      "name": "Customer Development",
+      "category": "Startups",
+      "color": "#DC2626"
+    },
+    "06-Startups/innovation-accounting.md": {
+      "id": 67,
+      "name": "Innovation Accounting",
+      "category": "Startups",
+      "color": "#DC2626"
+    },
+    "07-Business/business-model-canvas.md": {
+      "id": 68,
+      "name": "Business Model Canvas",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "07-Business/value-prop-canvas.md": {
+      "id": 69,
+      "name": "Value Prop Canvas",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "07-Business/innovation-funnel.md": {
+      "id": 70,
+      "name": "Innovation Funnel",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "07-Business/portfolio-map.md": {
+      "id": 71,
+      "name": "Portfolio Map",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "07-Business/experiment-design.md": {
+      "id": 72,
+      "name": "Experiment Design",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "07-Business/assumption-mapping.md": {
+      "id": 73,
+      "name": "Assumption Mapping",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "07-Business/stakeholder-mapping-salience-model.md": {
+      "id": 74,
+      "name": "Stakeholder Mapping (Salience Model)",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "08-Mathematics/compounding.md": {
+      "id": 75,
+      "name": "Compounding",
+      "category": "Mathematics",
+      "color": "#4F46E5"
+    },
+    "08-Mathematics/local-maxima.md": {
+      "id": 76,
+      "name": "Local Maxima",
+      "category": "Mathematics",
+      "color": "#4F46E5"
+    },
+    "08-Mathematics/regression-to-the-mean.md": {
+      "id": 77,
+      "name": "Regression to the Mean",
+      "category": "Mathematics",
+      "color": "#4F46E5"
+    },
+    "08-Mathematics/randomness.md": {
+      "id": 78,
+      "name": "Randomness",
+      "category": "Mathematics",
+      "color": "#4F46E5"
+    },
+    "08-Mathematics/sampling.md": {
+      "id": 79,
+      "name": "Sampling",
+      "category": "Mathematics",
+      "color": "#4F46E5"
+    },
+    "08-Mathematics/surface-area.md": {
+      "id": 80,
+      "name": "Surface Area",
+      "category": "Mathematics",
+      "color": "#4F46E5"
+    },
+    "08-Mathematics/multiply-by-zero.md": {
+      "id": 81,
+      "name": "Multiply by Zero",
+      "category": "Mathematics",
+      "color": "#4F46E5"
+    },
+    "09-Network-Effects/network-effects.md": {
+      "id": 82,
+      "name": "Network Effects",
+      "category": "Network Effects",
+      "color": "#CA8A04"
+    },
+    "09-Network-Effects/viral-growth.md": {
+      "id": 83,
+      "name": "Viral Growth",
+      "category": "Network Effects",
+      "color": "#CA8A04"
+    },
+    "09-Network-Effects/marketplace.md": {
+      "id": 84,
+      "name": "Marketplace",
+      "category": "Network Effects",
+      "color": "#CA8A04"
+    },
+    "09-Network-Effects/defensibility.md": {
+      "id": 85,
+      "name": "Defensibility",
+      "category": "Network Effects",
+      "color": "#CA8A04"
+    },
+    "10-Learning/model-chaining.md": {
+      "id": 86,
+      "name": "Model Chaining",
+      "category": "Learning",
+      "color": "#059669"
+    },
+    "10-Learning/t-shaped.md": {
+      "id": 87,
+      "name": "T-Shaped",
+      "category": "Learning",
+      "color": "#059669"
+    },
+    "10-Learning/five-hour-rule.md": {
+      "id": 88,
+      "name": "Five-Hour Rule",
+      "category": "Learning",
+      "color": "#059669"
+    },
+    "10-Learning/learning-transfer.md": {
+      "id": 89,
+      "name": "Learning Transfer",
+      "category": "Learning",
+      "color": "#059669"
+    },
+    "11-Art/audience.md": {
+      "id": 90,
+      "name": "Audience",
+      "category": "Art",
+      "color": "#DB2777"
+    },
+    "11-Art/framing.md": {
+      "id": 91,
+      "name": "Framing",
+      "category": "Art",
+      "color": "#DB2777"
+    },
+    "11-Art/contrast.md": {
+      "id": 92,
+      "name": "Contrast",
+      "category": "Art",
+      "color": "#DB2777"
+    },
+    "11-Art/rhythm.md": {
+      "id": 93,
+      "name": "Rhythm",
+      "category": "Art",
+      "color": "#DB2777"
+    },
+    "12-Pre-built-Chains/pricing-decision.md": {
+      "id": 94,
+      "name": "Pricing Decision",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "12-Pre-built-Chains/market-entry.md": {
+      "id": 95,
+      "name": "Market Entry",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "12-Pre-built-Chains/hiring-decision.md": {
+      "id": 96,
+      "name": "Hiring Decision",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "12-Pre-built-Chains/product-launch.md": {
+      "id": 97,
+      "name": "Product Launch",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "12-Pre-built-Chains/investment-decision.md": {
+      "id": 98,
+      "name": "Investment Decision",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "12-Pre-built-Chains/should-i-quit.md": {
+      "id": 99,
+      "name": "Should I Quit",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "12-Pre-built-Chains/life-decision.md": {
+      "id": 100,
+      "name": "Life Decision",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "05-Psychology/trust.md": {
+      "id": 101,
+      "name": "Trust",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "02-Systems/s-curves.md": {
+      "id": 102,
+      "name": "S-Curves",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "06-Startups/jobs-to-be-done.md": {
+      "id": 103,
+      "name": "Jobs to Be Done",
+      "category": "Startups",
+      "color": "#DC2626"
+    },
+    "05-Psychology/psychological-safety.md": {
+      "id": 104,
+      "name": "Psychological Safety",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "10-Learning/pre-built-chains.md": {
+      "id": 105,
+      "name": "Pre-built Chains",
+      "category": "Learning",
+      "color": "#059669"
+    },
+    "01-General-Thinking/analogical-reasoning.md": {
+      "id": 106,
+      "name": "Analogical Reasoning",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "01-General-Thinking/divergent-and-convergent-thinking.md": {
+      "id": 107,
+      "name": "Divergent and Convergent Thinking",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "02-Systems/exploration-vs-exploitation.md": {
+      "id": 108,
+      "name": "Exploration vs. Exploitation",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "02-Systems/adjacent-possible.md": {
+      "id": 109,
+      "name": "Adjacent Possible",
+      "category": "Systems",
+      "color": "#0D9488"
+    },
+    "06-Startups/design-thinking.md": {
+      "id": 110,
+      "name": "Design Thinking",
+      "category": "Startups",
+      "color": "#DC2626"
+    },
+    "06-Startups/crossing-the-chasm.md": {
+      "id": 111,
+      "name": "Crossing the Chasm",
+      "category": "Startups",
+      "color": "#DC2626"
+    },
+    "07-Business/disruptive-innovation.md": {
+      "id": 112,
+      "name": "Disruptive Innovation",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "07-Business/three-horizons.md": {
+      "id": 113,
+      "name": "Three Horizons",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "10-Learning/deep-work.md": {
+      "id": 114,
+      "name": "Deep Work / Cognitive Capacity",
+      "category": "Learning",
+      "color": "#059669"
+    },
+    "05-Psychology/planning-fallacy.md": {
+      "id": 115,
+      "name": "Planning Fallacy",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "07-Business/makers-schedule.md": {
+      "id": 116,
+      "name": "Maker's Schedule vs. Manager's Schedule",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "12-Pre-built-Chains/capacity-planning.md": {
+      "id": 117,
+      "name": "Capacity Planning",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "11-Leadership/mission-command.md": {
+      "id": 118,
+      "name": "Mission Command",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "11-Leadership/ooda-loop.md": {
+      "id": 119,
+      "name": "OODA Loop",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "04-Economics/goodharts-law.md": {
+      "id": 120,
+      "name": "Goodhart's Law",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "04-Economics/principal-agent-problem.md": {
+      "id": 121,
+      "name": "Principal\u2013Agent Problem",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "01-General-Thinking/cynefin-framework.md": {
+      "id": 122,
+      "name": "Cynefin Framework",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "07-Business/scenario-planning.md": {
+      "id": 123,
+      "name": "Scenario Planning",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "11-Leadership/organizational-culture.md": {
+      "id": 124,
+      "name": "Organizational Culture",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "11-Leadership/change-management.md": {
+      "id": 125,
+      "name": "Change Management",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "11-Leadership/risk-management.md": {
+      "id": 126,
+      "name": "Risk Management",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "07-Business/raci-framework.md": {
+      "id": 127,
+      "name": "RACI Framework",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "01-General-Thinking/theory-of-change.md": {
+      "id": 128,
+      "name": "Theory of Change",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "11-Leadership/board-governance.md": {
+      "id": 129,
+      "name": "Board Governance",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "12-Pre-built-Chains/transformation.md": {
+      "id": 130,
+      "name": "Transformation Chain",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    }
+  },
+  "refs": [
+    {
+      "title": "A Beautiful Mind",
+      "authorYear": "Sylvia Nasar (1998)",
+      "skills": [
+        {
+          "id": 20,
+          "name": "Equilibrium",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "A Mathematical Theory of Communication",
+      "authorYear": "Claude E. Shannon (1948)",
+      "skills": [
+        {
+          "id": 46,
+          "name": "Thermodynamics",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "A Theory of Human Motivation \u2014 Psychological Review Vol. 50",
+      "authorYear": "Abraham H. Maslow (1943)",
+      "skills": [
+        {
+          "id": 58,
+          "name": "Maslow's Hierarchy of Needs",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "A Whack on the Side of the Head",
+      "authorYear": "Roger von Oech (1983)",
+      "skills": [
+        {
+          "id": 107,
+          "name": "Divergent and Convergent Thinking",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Accelerate: The Science of Lean Software and DevOps",
+      "authorYear": "N. Forsgren, J. Humble & G. Kim (2018)",
+      "skills": [
+        {
+          "id": 28,
+          "name": "Conway's Law",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Against the Gods: The Remarkable Story of Risk",
+      "authorYear": "Peter L. Bernstein (1996)",
+      "skills": [
+        {
+          "id": 7,
+          "name": "Probabilistic Thinking",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Algorithms to Live By",
+      "authorYear": "Brian Christian & Tom Griffiths (2016)",
+      "skills": [
+        {
+          "id": 26,
+          "name": "Algorithms",
+          "color": "#0D9488"
+        },
+        {
+          "id": 108,
+          "name": "Exploration vs. Exploitation",
+          "color": "#0D9488"
+        },
+        {
+          "id": 76,
+          "name": "Local Maxima",
+          "color": "#4F46E5"
+        },
+        {
+          "id": 33,
+          "name": "Optimization",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "An Essay on the Nature and Significance of Economic Science",
+      "authorYear": "Lionel Robbins (1932)",
+      "skills": [
+        {
+          "id": 31,
+          "name": "Scarcity",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "An Essay on the Principle of Population",
+      "authorYear": "Thomas Robert Malthus (1798)",
+      "skills": [
+        {
+          "id": 31,
+          "name": "Scarcity",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "An Everyone Culture",
+      "authorYear": "Robert Kegan & Lisa Laskow Lahey, 2016",
+      "skills": [
+        {
+          "id": 124,
+          "name": "Organizational Culture",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "Antifragile",
+      "authorYear": "Nassim Nicholas Taleb (2012)",
+      "skills": [
+        {
+          "id": 12,
+          "name": "Asymmetry / Convexity",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 80,
+          "name": "Surface Area",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "Art and Visual Perception",
+      "authorYear": "Rudolf Arnheim (1954)",
+      "skills": [
+        {
+          "id": 92,
+          "name": "Contrast",
+          "color": "#DB2777"
+        }
+      ]
+    },
+    {
+      "title": "Basic Economics",
+      "authorYear": "Thomas Sowell (2000)",
+      "skills": [
+        {
+          "id": 30,
+          "name": "Trade-offs",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Being Wrong: Adventures in the Margin of Error",
+      "authorYear": "Kathryn Schulz (2010)",
+      "skills": [
+        {
+          "id": 57,
+          "name": "Dunning-Kruger",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Bowling Alone",
+      "authorYear": "Robert D. Putnam (2000)",
+      "skills": [
+        {
+          "id": 101,
+          "name": "Trust",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "boyd: The Fighter Pilot Who Changed the Art of War",
+      "authorYear": "Robert Coram, 2002",
+      "skills": [
+        {
+          "id": 119,
+          "name": "OODA Loop",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "Business Model Generation",
+      "authorYear": "Alexander Osterwalder & Yves Pigneur (2010)",
+      "skills": [
+        {
+          "id": 68,
+          "name": "Business Model Canvas",
+          "color": "#475569"
+        },
+        {
+          "id": 69,
+          "name": "Value Prop Canvas",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Capitalism, Socialism and Democracy",
+      "authorYear": "Joseph A. Schumpeter (1942)",
+      "skills": [
+        {
+          "id": 37,
+          "name": "Creative Destruction",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Certain to Win",
+      "authorYear": "Chet Richards, 2004",
+      "skills": [
+        {
+          "id": 119,
+          "name": "OODA Loop",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "Change by Design",
+      "authorYear": "Tim Brown (2009)",
+      "skills": [
+        {
+          "id": 110,
+          "name": "Design Thinking",
+          "color": "#DC2626"
+        },
+        {
+          "id": 87,
+          "name": "T-Shaped",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
+      "title": "Clear and Simple as the Truth",
+      "authorYear": "Francis-No\u00ebl Thomas & Mark Turner (1994)",
+      "skills": [
+        {
+          "id": 93,
+          "name": "Rhythm",
+          "color": "#DB2777"
+        }
+      ]
+    },
+    {
+      "title": "Competing Against Luck",
+      "authorYear": "C.M. Christensen, T. Hall, K. Dillon & D.S. Duncan (2016)",
+      "skills": [
+        {
+          "id": 103,
+          "name": "Jobs to Be Done",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "Competition Demystified",
+      "authorYear": "Bruce Greenwald & Judd Kahn (2005)",
+      "skills": [
+        {
+          "id": 34,
+          "name": "Monopoly vs. Competition",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Competitive Advantage",
+      "authorYear": "Michael E. Porter (1985)",
+      "skills": [
+        {
+          "id": 85,
+          "name": "Defensibility",
+          "color": "#CA8A04"
+        }
+      ]
+    },
+    {
+      "title": "Competitive Strategy",
+      "authorYear": "Michael E. Porter (1980)",
+      "skills": [
+        {
+          "id": 95,
+          "name": "Market Entry",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "Complex Adaptive Systems",
+      "authorYear": "John H. Miller & Scott E. Page (2007)",
+      "skills": [
+        {
+          "id": 19,
+          "name": "Emergence",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Creative Confidence",
+      "authorYear": "Tom Kelley & David Kelley (2013)",
+      "skills": [
+        {
+          "id": 110,
+          "name": "Design Thinking",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "Crossing the Chasm",
+      "authorYear": "Geoffrey A. Moore (1991)",
+      "skills": [
+        {
+          "id": 25,
+          "name": "Churn",
+          "color": "#0D9488"
+        },
+        {
+          "id": 111,
+          "name": "Crossing the Chasm",
+          "color": "#DC2626"
+        },
+        {
+          "id": 95,
+          "name": "Market Entry",
+          "color": "#B45309"
+        },
+        {
+          "id": 97,
+          "name": "Product Launch",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "Cybernetics",
+      "authorYear": "Norbert Wiener (1948)",
+      "skills": [
+        {
+          "id": 17,
+          "name": "Feedback Loops",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Cynefin: Weaving Sense-Making into the Fabric of Our World",
+      "authorYear": "Dave Snowden et al., 2020",
+      "skills": [
+        {
+          "id": 122,
+          "name": "Cynefin Framework",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Daring Greatly",
+      "authorYear": "Bren\u00e9 Brown (2012)",
+      "skills": [
+        {
+          "id": 104,
+          "name": "Psychological Safety",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Deep Work",
+      "authorYear": "Cal Newport (2016)",
+      "skills": [
+        {
+          "id": 88,
+          "name": "Five-Hour Rule",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
+      "title": "Deep Work: Rules for Focused Success in a Distracted World",
+      "authorYear": "Cal Newport (2016)",
+      "skills": [
+        {
+          "id": 114,
+          "name": "Deep Work / Cognitive Capacity",
+          "color": "#059669"
+        },
+        {
+          "id": 116,
+          "name": "Maker's Schedule vs. Manager's Schedule",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Diffusion of Innovations",
+      "authorYear": "Everett M. Rogers (1962; 5th ed. 2003)",
+      "skills": [
+        {
+          "id": 22,
+          "name": "Critical Mass",
+          "color": "#0D9488"
+        },
+        {
+          "id": 111,
+          "name": "Crossing the Chasm",
+          "color": "#DC2626"
+        },
+        {
+          "id": 102,
+          "name": "S-Curves",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Disciplined Entrepreneurship",
+      "authorYear": "Bill Aulet (2013)",
+      "skills": [
+        {
+          "id": 65,
+          "name": "Pivot or Persevere",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "Discourse on the Method",
+      "authorYear": "Ren\u00e9 Descartes (1637)",
+      "skills": [
+        {
+          "id": 0,
+          "name": "First Principles",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Economics",
+      "authorYear": "Paul A. Samuelson (1948)",
+      "skills": [
+        {
+          "id": 23,
+          "name": "Diminishing Returns",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Einstein: His Life and Universe",
+      "authorYear": "Walter Isaacson (2007)",
+      "skills": [
+        {
+          "id": 50,
+          "name": "Relativity",
+          "color": "#EA580C"
+        },
+        {
+          "id": 8,
+          "name": "Thought Experiment",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Elements of Pure Economics",
+      "authorYear": "L\u00e9on Walras (1874)",
+      "skills": [
+        {
+          "id": 20,
+          "name": "Equilibrium",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Emergence: The Connected Lives of Ants, Brains, Cities, and Software",
+      "authorYear": "Steven Johnson (2001)",
+      "skills": [
+        {
+          "id": 19,
+          "name": "Emergence",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Existence, Relatedness, and Growth: Human Needs in Organizational Settings",
+      "authorYear": "Clayton P. Alderfer (1972)",
+      "skills": [
+        {
+          "id": 61,
+          "name": "ERG Theory",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Exploration and Exploitation in Organizational Learning \u2014 Organization Science Vol. 2",
+      "authorYear": "James G. March (1991)",
+      "skills": [
+        {
+          "id": 108,
+          "name": "Exploration vs. Exploitation",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Fooled by Randomness",
+      "authorYear": "Nassim Nicholas Taleb (2001)",
+      "skills": [
+        {
+          "id": 78,
+          "name": "Randomness",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "Frame Analysis",
+      "authorYear": "Erving Goffman (1974)",
+      "skills": [
+        {
+          "id": 91,
+          "name": "Framing",
+          "color": "#DB2777"
+        }
+      ]
+    },
+    {
+      "title": "Freakonomics",
+      "authorYear": "Steven D. Levitt & Stephen J. Dubner (2005)",
+      "skills": [
+        {
+          "id": 51,
+          "name": "Incentives",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Good Strategy Bad Strategy",
+      "authorYear": "Richard Rumelt (2011)",
+      "skills": [
+        {
+          "id": 71,
+          "name": "Portfolio Map",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Good to Great",
+      "authorYear": "Jim Collins (2001)",
+      "skills": [
+        {
+          "id": 81,
+          "name": "Multiply by Zero",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "G\u00f6del, Escher, Bach: An Eternal Golden Braid",
+      "authorYear": "Douglas R. Hofstadter (1979)",
+      "skills": [
+        {
+          "id": 27,
+          "name": "Irreducibility",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Hooked: How to Build Habit-Forming Products",
+      "authorYear": "Nir Eyal (2014)",
+      "skills": [
+        {
+          "id": 44,
+          "name": "Friction",
+          "color": "#EA580C"
+        },
+        {
+          "id": 83,
+          "name": "Viral Growth",
+          "color": "#CA8A04"
+        }
+      ]
+    },
+    {
+      "title": "How Innovation Works",
+      "authorYear": "Matt Ridley (2020)",
+      "skills": [
+        {
+          "id": 47,
+          "name": "Catalysts",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "How to Lie with Statistics",
+      "authorYear": "Darrell Huff (1954)",
+      "skills": [
+        {
+          "id": 79,
+          "name": "Sampling",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "How to Solve It",
+      "authorYear": "George P\u00f3lya (1945)",
+      "skills": [
+        {
+          "id": 76,
+          "name": "Local Maxima",
+          "color": "#4F46E5"
+        },
+        {
+          "id": 33,
+          "name": "Optimization",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "How Will You Measure Your Life?",
+      "authorYear": "Clayton M. Christensen, J. Allworth & K. Dillon (2012)",
+      "skills": [
+        {
+          "id": 100,
+          "name": "Life Decision",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "Human Motivation",
+      "authorYear": "David C. McClelland (1987)",
+      "skills": [
+        {
+          "id": 59,
+          "name": "McClelland's Acquired Needs Theory",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Human Scale Development: Conception, Application and Further Reflections",
+      "authorYear": "Manfred A. Max-Neef (1991)",
+      "skills": [
+        {
+          "id": 60,
+          "name": "Max-Neef's Fundamental Human Needs",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Influence: The Psychology of Persuasion",
+      "authorYear": "Robert B. Cialdini (1984)",
+      "skills": [
+        {
+          "id": 49,
+          "name": "Reciprocity",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "Innovation: The Attacker's Advantage",
+      "authorYear": "Richard N. Foster (1986)",
+      "skills": [
+        {
+          "id": 102,
+          "name": "S-Curves",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Inside the Tornado",
+      "authorYear": "Geoffrey A. Moore (1995)",
+      "skills": [
+        {
+          "id": 111,
+          "name": "Crossing the Chasm",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "Invent and Wander: The Collected Writings of Jeff Bezos",
+      "authorYear": "Jeff Bezos, ed. Walter Isaacson (2021)",
+      "skills": [
+        {
+          "id": 15,
+          "name": "Regret Minimization Framework",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 16,
+          "name": "Two-Way Doors",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Irrational Exuberance",
+      "authorYear": "Robert J. Shiller (2000)",
+      "skills": [
+        {
+          "id": 38,
+          "name": "Bubbles",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Jobs to Be Done: Theory to Practice",
+      "authorYear": "Anthony W. Ulwick (2016)",
+      "skills": [
+        {
+          "id": 103,
+          "name": "Jobs to Be Done",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "Judgment under Uncertainty: Heuristics and Biases \u2014 Science Vol. 185",
+      "authorYear": "Daniel Kahneman & Amos Tversky (1974)",
+      "skills": [
+        {
+          "id": 115,
+          "name": "Planning Fallacy",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Lateral Thinking",
+      "authorYear": "Edward de Bono (1970)",
+      "skills": [
+        {
+          "id": 13,
+          "name": "De Bono's Six Thinking Hats",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Made to Stick",
+      "authorYear": "Chip Heath & Dan Heath (2007)",
+      "skills": [
+        {
+          "id": 90,
+          "name": "Audience",
+          "color": "#DB2777"
+        },
+        {
+          "id": 92,
+          "name": "Contrast",
+          "color": "#DB2777"
+        }
+      ]
+    },
+    {
+      "title": "Make It Stick: The Science of Successful Learning",
+      "authorYear": "P.C. Brown, H.L. Roediger III & M.A. McDaniel (2014)",
+      "skills": [
+        {
+          "id": 89,
+          "name": "Learning Transfer",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
+      "title": "Maker's Schedule, Manager's Schedule",
+      "authorYear": "Paul Graham (paulgraham.com, July 2009)",
+      "skills": [
+        {
+          "id": 116,
+          "name": "Maker's Schedule vs. Manager's Schedule",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Manias, Panics, and Crashes",
+      "authorYear": "Charles P. Kindleberger (1978)",
+      "skills": [
+        {
+          "id": 38,
+          "name": "Bubbles",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Mastery",
+      "authorYear": "Robert Greene (2012)",
+      "skills": [
+        {
+          "id": 88,
+          "name": "Five-Hour Rule",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
+      "title": "Measure What Matters",
+      "authorYear": "John Doerr (2018)",
+      "skills": [
+        {
+          "id": 67,
+          "name": "Innovation Accounting",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "Measuring and Managing Performance in Organizations",
+      "authorYear": "Robert Austin, 1996",
+      "skills": [
+        {
+          "id": 120,
+          "name": "Goodhart\u2019s Law",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Megaprojects and Risk: An Anatomy of Ambition",
+      "authorYear": "Bent Flyvbjerg, Nils Bruzelius & Werner Rothengatter (2003)",
+      "skills": [
+        {
+          "id": 115,
+          "name": "Planning Fallacy",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Mental Leaps: Analogy in Creative Thought",
+      "authorYear": "Keith J. Holyoak & Paul Thagard (1995)",
+      "skills": [
+        {
+          "id": 106,
+          "name": "Analogical Reasoning",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Misbehaving: The Making of Behavioral Economics",
+      "authorYear": "Richard H. Thaler (2015)",
+      "skills": [
+        {
+          "id": 52,
+          "name": "Loss Aversion",
+          "color": "#9333EA"
+        },
+        {
+          "id": 53,
+          "name": "Sunk Cost",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Moltke on the Art of War: Selected Writings",
+      "authorYear": "Helmuth von Moltke / Daniel Hughes ed., 1993",
+      "skills": [
+        {
+          "id": 118,
+          "name": "Mission Command",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "Money: The Unauthorized Biography",
+      "authorYear": "Felix Martin (2013)",
+      "skills": [
+        {
+          "id": 40,
+          "name": "Gresham's Law",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Motivation and Personality",
+      "authorYear": "Abraham H. Maslow (1954)",
+      "skills": [
+        {
+          "id": 58,
+          "name": "Maslow's Hierarchy of Needs",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Nudge",
+      "authorYear": "Richard H. Thaler & Cass R. Sunstein (2008)",
+      "skills": [
+        {
+          "id": 44,
+          "name": "Friction",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "Only the Paranoid Survive",
+      "authorYear": "Andrew S. Grove (1996)",
+      "skills": [
+        {
+          "id": 29,
+          "name": "Red Queen Dilemma",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Organizational Culture and Leadership",
+      "authorYear": "Edgar Schein, 1985 (5th ed. 2017)",
+      "skills": [
+        {
+          "id": 124,
+          "name": "Organizational Culture",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "Overcoming Organizational Defenses",
+      "authorYear": "Chris Argyris (1990)",
+      "skills": [
+        {
+          "id": 14,
+          "name": "Ladder of Inference",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Perspectives on Experience",
+      "authorYear": "Boston Consulting Group (1968)",
+      "skills": [
+        {
+          "id": 71,
+          "name": "Portfolio Map",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Platform Revolution",
+      "authorYear": "G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016)",
+      "skills": [
+        {
+          "id": 84,
+          "name": "Marketplace",
+          "color": "#CA8A04"
+        },
+        {
+          "id": 82,
+          "name": "Network Effects",
+          "color": "#CA8A04"
+        }
+      ]
+    },
+    {
+      "title": "Poor Charlie's Almanack",
+      "authorYear": "Charlie Munger, ed. Peter Kaufman (2005)",
+      "skills": [
+        {
+          "id": 5,
+          "name": "Circle of Competence",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 0,
+          "name": "First Principles",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 51,
+          "name": "Incentives",
+          "color": "#9333EA"
+        },
+        {
+          "id": 1,
+          "name": "Inversion",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 98,
+          "name": "Investment Decision",
+          "color": "#B45309"
+        },
+        {
+          "id": 41,
+          "name": "Leverage",
+          "color": "#EA580C"
+        },
+        {
+          "id": 86,
+          "name": "Model Chaining",
+          "color": "#059669"
+        },
+        {
+          "id": 105,
+          "name": "Pre-built Chains",
+          "color": "#059669"
+        },
+        {
+          "id": 2,
+          "name": "Second-Order Effects",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Positioning: The Battle for Your Mind",
+      "authorYear": "Al Ries & Jack Trout (1981)",
+      "skills": [
+        {
+          "id": 97,
+          "name": "Product Launch",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "Power and Interdependence",
+      "authorYear": "Robert O. Keohane & Joseph S. Nye (1977)",
+      "skills": [
+        {
+          "id": 39,
+          "name": "Interdependence",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Predictably Irrational",
+      "authorYear": "Dan Ariely (2008)",
+      "skills": [
+        {
+          "id": 54,
+          "name": "Anchoring",
+          "color": "#9333EA"
+        },
+        {
+          "id": 121,
+          "name": "Principal\u2013Agent Problem",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Presuasion",
+      "authorYear": "Robert B. Cialdini (2016)",
+      "skills": [
+        {
+          "id": 49,
+          "name": "Reciprocity",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "Priceless: The Myth of Fair Value",
+      "authorYear": "William Poundstone (2010)",
+      "skills": [
+        {
+          "id": 94,
+          "name": "Pricing Decision",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "Principia Mathematica",
+      "authorYear": "Isaac Newton (1687)",
+      "skills": [
+        {
+          "id": 43,
+          "name": "Inertia",
+          "color": "#EA580C"
+        },
+        {
+          "id": 42,
+          "name": "Velocity",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "Principles of Political Economy and Taxation",
+      "authorYear": "David Ricardo (1817)",
+      "skills": [
+        {
+          "id": 23,
+          "name": "Diminishing Returns",
+          "color": "#0D9488"
+        },
+        {
+          "id": 32,
+          "name": "Specialization",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Range: Why Generalists Triumph in a Specialized World",
+      "authorYear": "David Epstein (2019)",
+      "skills": [
+        {
+          "id": 87,
+          "name": "T-Shaped",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
+      "title": "Relativity: The Special and the General Theory",
+      "authorYear": "Albert Einstein (1916)",
+      "skills": [
+        {
+          "id": 50,
+          "name": "Relativity",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "Rhetoric",
+      "authorYear": "Aristotle (c. 350 BC)",
+      "skills": [
+        {
+          "id": 90,
+          "name": "Audience",
+          "color": "#DB2777"
+        }
+      ]
+    },
+    {
+      "title": "Running Lean",
+      "authorYear": "Ash Maurya (2012)",
+      "skills": [
+        {
+          "id": 63,
+          "name": "Build-Measure-Learn",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "Scale",
+      "authorYear": "Geoffrey West (2017)",
+      "skills": [
+        {
+          "id": 21,
+          "name": "Scale",
+          "color": "#0D9488"
+        },
+        {
+          "id": 80,
+          "name": "Surface Area",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "Scenarios: The Art of Strategic Conversation",
+      "authorYear": "Kees van der Heijden, 1996",
+      "skills": [
+        {
+          "id": 123,
+          "name": "Scenario Planning",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Science and Sanity",
+      "authorYear": "Alfred Korzybski (1933)",
+      "skills": [
+        {
+          "id": 6,
+          "name": "Map-Territory",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Security Analysis",
+      "authorYear": "Benjamin Graham & David L. Dodd (1934)",
+      "skills": [
+        {
+          "id": 24,
+          "name": "Margin of Safety",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Site Reliability Engineering",
+      "authorYear": "B. Beyer, C. Jones, J. Petoff & N.R. Murphy (2016)",
+      "skills": [
+        {
+          "id": 11,
+          "name": "Post-mortem",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Six Thinking Hats",
+      "authorYear": "Edward de Bono (1985)",
+      "skills": [
+        {
+          "id": 13,
+          "name": "De Bono's Six Thinking Hats",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Socratic Seminars in the Block",
+      "authorYear": "Wanda H. Ball & Pam Brewer (1996)",
+      "skills": [
+        {
+          "id": 9,
+          "name": "Socratic Thinking",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Sources of Power: How People Make Decisions",
+      "authorYear": "Gary Klein (1998)",
+      "skills": [
+        {
+          "id": 10,
+          "name": "Pre-mortem",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Stabilizing an Unstable Economy",
+      "authorYear": "Hyman P. Minsky (1986)",
+      "skills": [
+        {
+          "id": 36,
+          "name": "Debt",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Strategic Management: A Stakeholder Approach",
+      "authorYear": "R. Edward Freeman (1984)",
+      "skills": [
+        {
+          "id": 74,
+          "name": "Stakeholder Mapping (Salience Model)",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Stuff Matters",
+      "authorYear": "Mark Miodownik (2013)",
+      "skills": [
+        {
+          "id": 48,
+          "name": "Alloying",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "Switch: How to Change Things When Change Is Hard",
+      "authorYear": "Chip Heath & Dan Heath (2010)",
+      "skills": [
+        {
+          "id": 45,
+          "name": "Activation Energy",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "Testing Business Ideas",
+      "authorYear": "David J. Bland & Alexander Osterwalder (2019)",
+      "skills": [
+        {
+          "id": 73,
+          "name": "Assumption Mapping",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Achieving Society",
+      "authorYear": "David C. McClelland (1961)",
+      "skills": [
+        {
+          "id": 59,
+          "name": "McClelland's Acquired Needs Theory",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "The Alchemy of Growth",
+      "authorYear": "Mehrdad Baghai, Stephen Coley & David White (1999)",
+      "skills": [
+        {
+          "id": 113,
+          "name": "Three Horizons",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Analogical Mind",
+      "authorYear": "D. Gentner, K.J. Holyoak & B.N. Kokinov, eds. (2001)",
+      "skills": [
+        {
+          "id": 106,
+          "name": "Analogical Reasoning",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Art of Action",
+      "authorYear": "Stephen Bungay, 2011",
+      "skills": [
+        {
+          "id": 118,
+          "name": "Mission Command",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "The Art of Computer Programming (Vol. 1)",
+      "authorYear": "Donald E. Knuth (1968)",
+      "skills": [
+        {
+          "id": 26,
+          "name": "Algorithms",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Art of Maneuver",
+      "authorYear": "Robert Leonhard, 1991",
+      "skills": [
+        {
+          "id": 119,
+          "name": "OODA Loop",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "The Art of the Long View",
+      "authorYear": "Peter Schwartz, 1991",
+      "skills": [
+        {
+          "id": 123,
+          "name": "Scenario Planning",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Art of Thinking Clearly",
+      "authorYear": "Rolf Dobelli (2011)",
+      "skills": [
+        {
+          "id": 56,
+          "name": "Availability Bias",
+          "color": "#9333EA"
+        },
+        {
+          "id": 4,
+          "name": "Hanlon's Razor",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 1,
+          "name": "Inversion",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Ascent of Money",
+      "authorYear": "Niall Ferguson (2008)",
+      "skills": [
+        {
+          "id": 40,
+          "name": "Gresham's Law",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "The Black Swan",
+      "authorYear": "Nassim Nicholas Taleb (2007)",
+      "skills": [
+        {
+          "id": 12,
+          "name": "Asymmetry / Convexity",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 6,
+          "name": "Map-Territory",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Cambridge Handbook of Expertise and Expert Performance",
+      "authorYear": "K. Anders Ericsson et al., eds. (2006)",
+      "skills": [
+        {
+          "id": 114,
+          "name": "Deep Work / Cognitive Capacity",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
+      "title": "The Cold Start Problem",
+      "authorYear": "Andrew Chen (2021)",
+      "skills": [
+        {
+          "id": 84,
+          "name": "Marketplace",
+          "color": "#CA8A04"
+        },
+        {
+          "id": 82,
+          "name": "Network Effects",
+          "color": "#CA8A04"
+        },
+        {
+          "id": 83,
+          "name": "Viral Growth",
+          "color": "#CA8A04"
+        }
+      ]
+    },
+    {
+      "title": "The Corporate Culture Survival Guide",
+      "authorYear": "Edgar Schein, 1999",
+      "skills": [
+        {
+          "id": 124,
+          "name": "Organizational Culture",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "The Cost of Interrupted Work: More Speed and Stress \u2014 CHI Proceedings",
+      "authorYear": "Gloria Mark, Daniela Gudith & Ulrich Klocke (2008)",
+      "skills": [
+        {
+          "id": 116,
+          "name": "Maker's Schedule vs. Manager's Schedule",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Creative Mind: Myths and Mechanisms",
+      "authorYear": "Margaret A. Boden (2004)",
+      "skills": [
+        {
+          "id": 107,
+          "name": "Divergent and Convergent Thinking",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Demon-Haunted World",
+      "authorYear": "Carl Sagan (1996)",
+      "skills": [
+        {
+          "id": 3,
+          "name": "Occam's Razor",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Design of Everyday Things",
+      "authorYear": "Don Norman (1988; revised 2013)",
+      "skills": [
+        {
+          "id": 110,
+          "name": "Design Thinking",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "The Design of Experiments",
+      "authorYear": "Ronald A. Fisher (1935)",
+      "skills": [
+        {
+          "id": 72,
+          "name": "Experiment Design",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Dip: A Little Book That Teaches You When to Quit",
+      "authorYear": "Seth Godin (2007)",
+      "skills": [
+        {
+          "id": 99,
+          "name": "Should I Quit",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "The Drunkard's Walk: How Randomness Rules Our Lives",
+      "authorYear": "Leonard Mlodinow (2008)",
+      "skills": [
+        {
+          "id": 78,
+          "name": "Randomness",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "The Elements of Style",
+      "authorYear": "William Strunk Jr. & E.B. White (1959)",
+      "skills": [
+        {
+          "id": 93,
+          "name": "Rhythm",
+          "color": "#DB2777"
+        }
+      ]
+    },
+    {
+      "title": "The Emperor's New Mind",
+      "authorYear": "Roger Penrose (1989)",
+      "skills": [
+        {
+          "id": 27,
+          "name": "Irreducibility",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Essays of Warren Buffett",
+      "authorYear": "Warren Buffett, ed. Lawrence Cunningham (1997)",
+      "skills": [
+        {
+          "id": 5,
+          "name": "Circle of Competence",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Everything Store",
+      "authorYear": "Brad Stone (2013)",
+      "skills": [
+        {
+          "id": 15,
+          "name": "Regret Minimization Framework",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Fearless Organization",
+      "authorYear": "Amy C. Edmondson (2018)",
+      "skills": [
+        {
+          "id": 104,
+          "name": "Psychological Safety",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "The Feynman Lectures on Physics",
+      "authorYear": "R.P. Feynman, R.B. Leighton & M. Sands (1963)",
+      "skills": [
+        {
+          "id": 45,
+          "name": "Activation Energy",
+          "color": "#EA580C"
+        },
+        {
+          "id": 0,
+          "name": "First Principles",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 41,
+          "name": "Leverage",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "The Fifth Discipline",
+      "authorYear": "Peter M. Senge (1990)",
+      "skills": [
+        {
+          "id": 14,
+          "name": "Ladder of Inference",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 122,
+          "name": "Cynefin Framework",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Five Dysfunctions of a Team",
+      "authorYear": "Patrick Lencioni (2002)",
+      "skills": [
+        {
+          "id": 81,
+          "name": "Multiply by Zero",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "The Four Steps to the Epiphany",
+      "authorYear": "Steve Blank (2003)",
+      "skills": [
+        {
+          "id": 66,
+          "name": "Customer Development",
+          "color": "#DC2626"
+        },
+        {
+          "id": 64,
+          "name": "MVP",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "The Goal",
+      "authorYear": "Eliyahu M. Goldratt & Jeff Cox (1984)",
+      "skills": [
+        {
+          "id": 18,
+          "name": "Bottlenecks",
+          "color": "#0D9488"
+        },
+        {
+          "id": 35,
+          "name": "Efficiency",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "The Great Mental Models Vol. 1",
+      "authorYear": "Shane Parrish (2019)",
+      "skills": [
+        {
+          "id": 86,
+          "name": "Model Chaining",
+          "color": "#059669"
+        },
+        {
+          "id": 105,
+          "name": "Pre-built Chains",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
+      "title": "The Handbook of Organizational Economics",
+      "authorYear": "Gibbons & Roberts eds., 2013",
+      "skills": [
+        {
+          "id": 121,
+          "name": "Principal\u2013Agent Problem",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "The Hard Thing About Hard Things",
+      "authorYear": "Ben Horowitz (2014)",
+      "skills": [
+        {
+          "id": 11,
+          "name": "Post-mortem",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Innovator's Dilemma",
+      "authorYear": "Clayton M. Christensen (1997)",
+      "skills": [
+        {
+          "id": 47,
+          "name": "Catalysts",
+          "color": "#EA580C"
+        },
+        {
+          "id": 37,
+          "name": "Creative Destruction",
+          "color": "#16A34A"
+        },
+        {
+          "id": 112,
+          "name": "Disruptive Innovation",
+          "color": "#475569"
+        },
+        {
+          "id": 70,
+          "name": "Innovation Funnel",
+          "color": "#475569"
+        },
+        {
+          "id": 103,
+          "name": "Jobs to Be Done",
+          "color": "#DC2626"
+        },
+        {
+          "id": 102,
+          "name": "S-Curves",
+          "color": "#0D9488"
+        },
+        {
+          "id": 113,
+          "name": "Three Horizons",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Innovator's Solution",
+      "authorYear": "Clayton M. Christensen & Michael E. Raynor (2003)",
+      "skills": [
+        {
+          "id": 112,
+          "name": "Disruptive Innovation",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Intelligence Trap",
+      "authorYear": "David Robson (2019)",
+      "skills": [
+        {
+          "id": 55,
+          "name": "Confirmation Bias",
+          "color": "#9333EA"
+        },
+        {
+          "id": 57,
+          "name": "Dunning-Kruger",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "The Intelligent Investor",
+      "authorYear": "Benjamin Graham (1949)",
+      "skills": [
+        {
+          "id": 98,
+          "name": "Investment Decision",
+          "color": "#B45309"
+        },
+        {
+          "id": 24,
+          "name": "Margin of Safety",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Knowledge",
+      "authorYear": "Lewis Dartnell (2014)",
+      "skills": [
+        {
+          "id": 48,
+          "name": "Alloying",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "The Lady Tasting Tea: How Statistics Revolutionized Science",
+      "authorYear": "David Salsburg (2001)",
+      "skills": [
+        {
+          "id": 79,
+          "name": "Sampling",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "The Laws of Thermodynamics: A Very Short Introduction",
+      "authorYear": "Peter Atkins (2010)",
+      "skills": [
+        {
+          "id": 46,
+          "name": "Thermodynamics",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "The Lean Startup",
+      "authorYear": "Eric Ries (2011)",
+      "skills": [
+        {
+          "id": 73,
+          "name": "Assumption Mapping",
+          "color": "#475569"
+        },
+        {
+          "id": 63,
+          "name": "Build-Measure-Learn",
+          "color": "#DC2626"
+        },
+        {
+          "id": 25,
+          "name": "Churn",
+          "color": "#0D9488"
+        },
+        {
+          "id": 67,
+          "name": "Innovation Accounting",
+          "color": "#DC2626"
+        },
+        {
+          "id": 64,
+          "name": "MVP",
+          "color": "#DC2626"
+        },
+        {
+          "id": 65,
+          "name": "Pivot or Persevere",
+          "color": "#DC2626"
+        },
+        {
+          "id": 62,
+          "name": "Product-Market Fit",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "The Little Book That Builds Wealth",
+      "authorYear": "Pat Dorsey (2008)",
+      "skills": [
+        {
+          "id": 85,
+          "name": "Defensibility",
+          "color": "#CA8A04"
+        }
+      ]
+    },
+    {
+      "title": "The Living Company",
+      "authorYear": "Arie de Geus, 1997",
+      "skills": [
+        {
+          "id": 123,
+          "name": "Scenario Planning",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Logic of Scientific Discovery",
+      "authorYear": "Karl Popper (1934)",
+      "skills": [
+        {
+          "id": 3,
+          "name": "Occam's Razor",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Long Tail",
+      "authorYear": "Chris Anderson (2006)",
+      "skills": [
+        {
+          "id": 21,
+          "name": "Scale",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Mismeasure of Man",
+      "authorYear": "Stephen Jay Gould (1981)",
+      "skills": [
+        {
+          "id": 77,
+          "name": "Regression to the Mean",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "The Most Important Thing",
+      "authorYear": "Howard Marks (2011)",
+      "skills": [
+        {
+          "id": 2,
+          "name": "Second-Order Effects",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Mythical Man-Month",
+      "authorYear": "Frederick P. Brooks Jr. (1975)",
+      "skills": [
+        {
+          "id": 28,
+          "name": "Conway's Law",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Origins of Order",
+      "authorYear": "Stuart A. Kauffman (1993)",
+      "skills": [
+        {
+          "id": 109,
+          "name": "Adjacent Possible",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Phoenix Project",
+      "authorYear": "Gene Kim, Kevin Behr & George Spafford (2013)",
+      "skills": [
+        {
+          "id": 18,
+          "name": "Bottlenecks",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Principles of Scientific Management",
+      "authorYear": "Frederick Winslow Taylor (1911)",
+      "skills": [
+        {
+          "id": 35,
+          "name": "Efficiency",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "The Psychology of Money",
+      "authorYear": "Morgan Housel (2020)",
+      "skills": [
+        {
+          "id": 75,
+          "name": "Compounding",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "The Red Queen: Sex and the Evolution of Human Nature",
+      "authorYear": "Matt Ridley (1993)",
+      "skills": [
+        {
+          "id": 29,
+          "name": "Red Queen Dilemma",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Republic",
+      "authorYear": "Plato (trans. Benjamin Jowett, c. 380 BC)",
+      "skills": [
+        {
+          "id": 9,
+          "name": "Socratic Thinking",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Signal and the Noise",
+      "authorYear": "Nate Silver (2012)",
+      "skills": [
+        {
+          "id": 7,
+          "name": "Probabilistic Thinking",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Snowball: Warren Buffett and the Business of Life",
+      "authorYear": "Alice Schroeder (2008)",
+      "skills": [
+        {
+          "id": 75,
+          "name": "Compounding",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "The Speed of Trust",
+      "authorYear": "Stephen M. R. Covey & Rebecca R. Merrill (2006)",
+      "skills": [
+        {
+          "id": 101,
+          "name": "Trust",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "The Startup Owner's Manual",
+      "authorYear": "Steve Blank & Bob Dorf (2012)",
+      "skills": [
+        {
+          "id": 66,
+          "name": "Customer Development",
+          "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "The Strategy and Tactics of Pricing",
+      "authorYear": "Thomas T. Nagle & Georg M\u00fcller (2018)",
+      "skills": [
+        {
+          "id": 94,
+          "name": "Pricing Decision",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "The Tipping Point",
+      "authorYear": "Malcolm Gladwell (2000)",
+      "skills": [
+        {
+          "id": 22,
+          "name": "Critical Mass",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Tyranny of Metrics",
+      "authorYear": "Jerry Z. Muller, 2018",
+      "skills": [
+        {
+          "id": 120,
+          "name": "Goodhart\u2019s Law",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "The Wealth of Nations",
+      "authorYear": "Adam Smith (1776)",
+      "skills": [
+        {
+          "id": 39,
+          "name": "Interdependence",
+          "color": "#16A34A"
+        },
+        {
+          "id": 32,
+          "name": "Specialization",
+          "color": "#16A34A"
+        },
+        {
+          "id": 30,
+          "name": "Trade-offs",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Thinking in Bets",
+      "authorYear": "Annie Duke (2018)",
+      "skills": [
+        {
+          "id": 100,
+          "name": "Life Decision",
+          "color": "#B45309"
+        },
+        {
+          "id": 7,
+          "name": "Probabilistic Thinking",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 99,
+          "name": "Should I Quit",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "Thinking in Systems",
+      "authorYear": "Donella H. Meadows (2008)",
+      "skills": [
+        {
+          "id": 17,
+          "name": "Feedback Loops",
+          "color": "#0D9488"
+        },
+        {
+          "id": 2,
+          "name": "Second-Order Effects",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 42,
+          "name": "Velocity",
+          "color": "#EA580C"
+        }
+      ]
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "authorYear": "Daniel Kahneman (2011)",
+      "skills": [
+        {
+          "id": 54,
+          "name": "Anchoring",
+          "color": "#9333EA"
+        },
+        {
+          "id": 56,
+          "name": "Availability Bias",
+          "color": "#9333EA"
+        },
+        {
+          "id": 55,
+          "name": "Confirmation Bias",
+          "color": "#9333EA"
+        },
+        {
+          "id": 114,
+          "name": "Deep Work / Cognitive Capacity",
+          "color": "#059669"
+        },
+        {
+          "id": 91,
+          "name": "Framing",
+          "color": "#DB2777"
+        },
+        {
+          "id": 4,
+          "name": "Hanlon's Razor",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 43,
+          "name": "Inertia",
+          "color": "#EA580C"
+        },
+        {
+          "id": 52,
+          "name": "Loss Aversion",
+          "color": "#9333EA"
+        },
+        {
+          "id": 115,
+          "name": "Planning Fallacy",
+          "color": "#9333EA"
+        },
+        {
+          "id": 10,
+          "name": "Pre-mortem",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 77,
+          "name": "Regression to the Mean",
+          "color": "#4F46E5"
+        },
+        {
+          "id": 53,
+          "name": "Sunk Cost",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Thirty Years that Shook Physics",
+      "authorYear": "George Gamow (1966)",
+      "skills": [
+        {
+          "id": 8,
+          "name": "Thought Experiment",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "This Time Is Different: Eight Centuries of Financial Folly",
+      "authorYear": "Carmen Reinhart & Kenneth Rogoff (2009)",
+      "skills": [
+        {
+          "id": 36,
+          "name": "Debt",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Toward a Theory of Stakeholder Identification and Salience \u2014 AMR Vol. 22 No. 4",
+      "authorYear": "R.K. Mitchell, B.R. Agle & D.J. Wood (1997)",
+      "skills": [
+        {
+          "id": 74,
+          "name": "Stakeholder Mapping (Salience Model)",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Transfer of Learning: Cognition, Instruction, and Reasoning",
+      "authorYear": "Robert E. Haskell (2001)",
+      "skills": [
+        {
+          "id": 89,
+          "name": "Learning Transfer",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
+      "title": "Trust: The Social Virtues and the Creation of Prosperity",
+      "authorYear": "Francis Fukuyama (1995)",
+      "skills": [
+        {
+          "id": 101,
+          "name": "Trust",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Trustworthy Online Controlled Experiments",
+      "authorYear": "Ron Kohavi, Diane Tang & Ya Xu (2020)",
+      "skills": [
+        {
+          "id": 72,
+          "name": "Experiment Design",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Turn the Ship Around!",
+      "authorYear": "L. David Marquet, 2013",
+      "skills": [
+        {
+          "id": 118,
+          "name": "Mission Command",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "Value Proposition Design",
+      "authorYear": "Alexander Osterwalder et al. (2014)",
+      "skills": [
+        {
+          "id": 68,
+          "name": "Business Model Canvas",
+          "color": "#475569"
+        },
+        {
+          "id": 69,
+          "name": "Value Prop Canvas",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Where Good Ideas Come From",
+      "authorYear": "Steven Johnson (2010)",
+      "skills": [
+        {
+          "id": 109,
+          "name": "Adjacent Possible",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Who: The A Method for Hiring",
+      "authorYear": "Geoff Smart & Randy Street (2008)",
+      "skills": [
+        {
+          "id": 96,
+          "name": "Hiring Decision",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "Winning at New Products",
+      "authorYear": "Robert G. Cooper (1986)",
+      "skills": [
+        {
+          "id": 70,
+          "name": "Innovation Funnel",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Work Rules!",
+      "authorYear": "Laszlo Bock (2015)",
+      "skills": [
+        {
+          "id": 96,
+          "name": "Hiring Decision",
+          "color": "#B45309"
+        }
+      ]
+    },
+    {
+      "title": "Working Backwards",
+      "authorYear": "Colin Bryar & Bill Carr (2021)",
+      "skills": [
+        {
+          "id": 16,
+          "name": "Two-Way Doors",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Zero to One",
+      "authorYear": "Peter Thiel & Blake Masters (2014)",
+      "skills": [
+        {
+          "id": 34,
+          "name": "Monopoly vs. Competition",
+          "color": "#16A34A"
+        },
+        {
+          "id": 62,
+          "name": "Product-Market Fit",
+          "color": "#DC2626"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Skills Framework — Reference Card Deck</title>
+<style>
+:root{
+  --bg:#F1F5F9;--card:#fff;--text:#1E293B;--sub:#64748B;--border:#E2E8F0;
+  --shadow:0 1px 3px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.05);
+  --hdr-bg:#1E293B;--hdr-muted:#94A3B8;
+  --surface-dark:#0F172A;--surface-dark-2:#1E293B;--border-dark:#334155;
+  --text-on-dark:#F1F5F9;--muted-on-dark:#64748B;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+#hdr{background:var(--hdr-bg);color:#fff;padding:1.25rem 1.5rem;display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;position:sticky;top:0;z-index:100;box-shadow:0 2px 8px rgba(0,0,0,.3);}
+#hdr h1{font-size:1.1rem;font-weight:700;letter-spacing:-.01em;white-space:nowrap;}
+#hdr span{color:var(--hdr-muted);font-size:.8rem;margin-left:.25rem;}
+#hdr-actions{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;}
+#search{flex:1;min-width:200px;padding:.55rem .9rem;border:none;border-radius:6px;font-size:.9rem;background:#334155;color:#fff;outline:none;}
+#search::placeholder{color:var(--hdr-muted);}
+#search:focus{background:#3B4F66;box-shadow:0 0 0 2px #3B82F6;}
+#stats{padding:.5rem 1.5rem;font-size:.78rem;color:var(--sub);background:#fff;border-bottom:1px solid var(--border);}
+#filters{padding:.75rem 1.25rem;display:flex;flex-wrap:wrap;gap:.4rem;background:#fff;border-bottom:1px solid var(--border);}
+.fbtn{padding:.3rem .75rem;border-radius:99px;border:1.5px solid var(--border);background:transparent;font-size:.75rem;font-weight:600;cursor:pointer;color:var(--sub);transition:background .15s,color .15s,border-color .15s;}
+.fbtn:hover{border-color:#94A3B8;color:var(--text);}
+.fbtn.active{color:#fff;border-color:transparent;}
+#grid{padding:1.25rem;display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:1rem;}
+.card{background:var(--card);border-radius:10px;box-shadow:var(--shadow);cursor:pointer;transition:transform .15s,box-shadow .15s;overflow:hidden;display:flex;flex-direction:column;border:1px solid var(--border);}
+.card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,.1),0 8px 24px rgba(0,0,0,.07);}
+.card-accent{height:4px;width:100%;}
+.card-body{padding:1rem 1.1rem;flex:1;display:flex;flex-direction:column;gap:.35rem;}
+.card-cat{font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;opacity:.85;}
+.card-name{font-size:.95rem;font-weight:700;line-height:1.25;color:var(--text);}
+.card-tagline{font-size:.78rem;font-style:italic;color:var(--sub);}
+.card-preview{font-size:.75rem;color:var(--sub);line-height:1.5;margin-top:.2rem;display:-webkit-box;-webkit-line-clamp:3;line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
+.card-footer{padding:.6rem 1.1rem;border-top:1px solid var(--border);display:flex;justify-content:space-between;align-items:center;}
+.card-chain-badge{font-size:.65rem;font-weight:700;background:#FEF3C7;color:#92400E;padding:.15rem .45rem;border-radius:99px;}
+.card-link{font-size:.7rem;color:#94A3B8;}
+#empty{display:none;grid-column:1/-1;text-align:center;padding:4rem 1rem;color:var(--sub);}
+#empty h2{font-size:1.1rem;margin-bottom:.5rem;}
+#overlay{display:none;position:fixed;inset:0;background:rgba(15,23,42,.65);z-index:200;overflow-y:auto;padding:1.5rem;}
+#overlay.open{display:flex;align-items:flex-start;justify-content:center;}
+#modal{background:#fff;border-radius:12px;width:100%;max-width:720px;position:relative;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,.3);}
+#modal-top{height:6px;width:100%;}
+#modal-inner{padding:1.75rem 2rem;}
+#modal-close{position:absolute;top:.9rem;right:1rem;background:none;border:none;font-size:1.4rem;cursor:pointer;color:#94A3B8;line-height:1;}
+#modal-close:hover{color:var(--text);}
+#modal-cat{font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-bottom:.4rem;}
+#modal-name{font-size:1.5rem;font-weight:800;line-height:1.2;margin-bottom:.2rem;}
+#modal-tagline{font-size:.9rem;font-style:italic;color:var(--sub);margin-bottom:1.25rem;}
+#modal-file{font-size:.72rem;color:#94A3B8;margin-bottom:1.25rem;}
+.ms-section{margin-bottom:1.25rem;}
+.ms-section h3{font-size:.7rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--sub);margin-bottom:.6rem;padding-bottom:.3rem;border-bottom:1px solid var(--border);}
+.ms-section p{font-size:.85rem;line-height:1.65;color:#334155;margin-bottom:.5rem;}
+.ms-section ul{margin:.3rem 0 .5rem 1.2rem;}
+.ms-section li{font-size:.85rem;line-height:1.6;color:#334155;margin-bottom:.25rem;}
+.ms-section p.connection{font-size:.83rem;color:#475569;padding:.2rem 0 .2rem .5rem;border-left:3px solid var(--border);margin:.2rem 0;}
+.skill-link{color:inherit;text-decoration:none;border-bottom:1px dotted currentColor;cursor:pointer;}
+.skill-link:hover strong{text-decoration:underline;}
+.skill-link strong{color:var(--accent,#3B82F6);}
+.graph-btn{display:inline-flex;align-items:center;gap:.35rem;padding:.4rem .9rem;background:var(--hdr-bg);color:var(--hdr-muted);border:1px solid var(--border-dark);border-radius:999px;font-size:.78rem;font-weight:600;text-decoration:none;letter-spacing:.04em;transition:background .15s,color .15s;}
+.graph-btn:hover{background:var(--border-dark);color:var(--text-on-dark);}
+#refs-overlay{position:fixed;inset:0;z-index:210;background:rgba(0,0,0,.65);display:none;align-items:center;justify-content:center;padding:1.5rem;}
+#refs-overlay.open{display:flex;}
+#refs-panel{background:var(--surface-dark);border:1px solid var(--border-dark);border-radius:14px;width:100%;max-width:860px;max-height:88vh;display:flex;flex-direction:column;box-shadow:0 20px 60px rgba(0,0,0,.7);}
+#refs-hdr{display:flex;align-items:center;gap:.75rem;padding:.9rem 1.2rem;border-bottom:1px solid var(--surface-dark-2);flex-shrink:0;}
+#refs-hdr h2{flex:1;font-size:1rem;font-weight:700;color:var(--text-on-dark);margin:0;}
+#refs-search{border:1px solid var(--border-dark);background:var(--surface-dark-2);color:var(--text-on-dark);border-radius:6px;padding:.3rem .65rem;font-size:.8rem;width:min(190px,100%);outline:none;}
+#refs-search:focus{border-color:#3B82F6;}
+#refs-search::placeholder{color:var(--muted-on-dark);}
+#refs-count{font-size:.72rem;color:var(--muted-on-dark);white-space:nowrap;}
+#refs-close{background:none;border:none;color:var(--muted-on-dark);font-size:1.15rem;cursor:pointer;padding:.15rem .35rem;border-radius:4px;line-height:1;}
+#refs-close:hover{background:var(--surface-dark-2);color:var(--text-on-dark);}
+#refs-body{overflow-y:auto;padding:.25rem 1.2rem 1.2rem;flex:1;}
+.ref-entry{border-bottom:1px solid var(--surface-dark-2);padding:.75rem 0;}
+.ref-entry:last-child{border-bottom:none;}
+.ref-title{font-style:italic;font-size:.88rem;font-weight:600;color:#E2E8F0;}
+.ref-author{font-size:.75rem;color:var(--muted-on-dark);margin:.1rem 0 .45rem;}
+.ref-skills{display:flex;flex-wrap:wrap;gap:.28rem;}
+.ref-skill-pill{display:inline-flex;align-items:center;font-size:.69rem;font-weight:500;padding:.16rem .5rem;border-radius:999px;cursor:pointer;border:1px solid transparent;transition:filter .12s;white-space:nowrap;}
+.ref-skill-pill:hover{filter:brightness(1.25);}
+#overlay::-webkit-scrollbar,#refs-body::-webkit-scrollbar{width:6px;}
+#overlay::-webkit-scrollbar-thumb,#refs-body::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:3px;}
+#refs-body::-webkit-scrollbar-thumb{background:var(--border-dark);}
+@media(max-width:600px){#modal-inner{padding:1.25rem;}#modal-name{font-size:1.2rem;}#grid{grid-template-columns:1fr;}}
+@media(prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
+</style>
+</head>
+<body>
+
+<div id="hdr">
+  <h1>Skills Framework <span>Reference Deck</span></h1>
+  <input id="search" type="search" placeholder="Search skills, concepts, descriptions…" autocomplete="off" aria-label="Search skills">
+  <div id="hdr-actions">
+    <a href="graph.html" class="graph-btn" title="View connection graph">⬡ Graph</a>
+    <button type="button" class="graph-btn" id="refs-btn" title="View all sources and references">📚 Sources</button>
+  </div>
+</div>
+<div id="stats"></div>
+<div id="filters"></div>
+<div id="grid"><div id="empty"><h2>No skills match your search</h2><p>Try different keywords or reset the filter</p></div></div>
+
+<div id="overlay" class="overlay" aria-hidden="true">
+  <div id="modal" role="dialog" aria-modal="true" aria-labelledby="modal-name" aria-hidden="true">
+    <div id="modal-top"></div>
+    <div id="modal-inner">
+      <button type="button" id="modal-close" aria-label="Close skill details">&#x2715;</button>
+      <div id="modal-cat"></div>
+      <div id="modal-name"></div>
+      <div id="modal-tagline"></div>
+      <div id="modal-file"></div>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+</div>
+
+<div id="refs-overlay" class="overlay" aria-hidden="true">
+  <div id="refs-panel" role="dialog" aria-modal="true" aria-labelledby="refs-title" aria-hidden="true">
+    <div id="refs-hdr">
+      <h2 id="refs-title">📚 Sources &amp; References</h2>
+      <input id="refs-search" type="search" placeholder="Filter by title, author or skill…" autocomplete="off" aria-label="Filter sources">
+      <span id="refs-count"></span>
+      <button type="button" id="refs-close" aria-label="Close sources panel">&#x2715;</button>
+    </div>
+    <div id="refs-body"></div>
+  </div>
+</div>
+
+<script>
+const SKILLS = __SKILLS_JSON__;
+const REFS_DATA = __REFS_DATA_JSON__;
+const CAT_COLORS = {"General Thinking": "#3B82F6", "Systems": "#0D9488", "Economics": "#16A34A", "Physics & Chemistry": "#EA580C", "Psychology": "#9333EA", "Startups": "#DC2626", "Business": "#475569", "Mathematics": "#4F46E5", "Network Effects": "#CA8A04", "Learning": "#059669", "Art": "#DB2777", "Pre-built Chains": "#B45309", "Leadership": "#1E40AF"};
+
+let activecat = 'all', query = '';
+const CAT_ORDER = Object.keys(CAT_COLORS);
+
+function debounce(fn, ms) {
+  let t;
+  return (...args) => {
+    clearTimeout(t);
+    t = setTimeout(() => fn(...args), ms);
+  };
+}
+
+function esc(s) {
+  return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+function topOverlay() {
+  const refs = document.getElementById('refs-overlay');
+  const modal = document.getElementById('overlay');
+  if (refs?.classList.contains('open')) return 'refs';
+  if (modal?.classList.contains('open')) return 'modal';
+  return null;
+}
+
+function buildFilters() {
+  const el = document.getElementById('filters');
+  el.replaceChildren();
+  const btn = (cat, label, color) => {
+    const b = document.createElement('button');
+    b.className = 'fbtn' + (cat === 'all' ? ' active' : '');
+    b.dataset.cat = cat;
+    b.textContent = label;
+    if (cat !== 'all' && color) b.style.color = color;
+    b.addEventListener('click', () => { activecat = cat; render(); });
+    el.appendChild(b);
+  };
+  const counts = {};
+  SKILLS.forEach(s => { counts[s.category] = (counts[s.category] || 0) + 1; });
+  btn('all', 'All  ' + SKILLS.length, null);
+  CAT_ORDER.forEach(c => {
+    if (counts[c]) {
+      btn(c, c.replace('Pre-built Chains', '⛓ Chains').replace('Physics & Chemistry', 'Physics/Chem'), CAT_COLORS[c]);
+    }
+  });
+}
+
+function filtered() {
+  const q = query.toLowerCase().trim();
+  return SKILLS.filter(s => {
+    if (activecat !== 'all' && s.category !== activecat) return false;
+    if (!q) return true;
+    const hay = s.searchText || [s.name, s.tagline, s.preview].join(' ').toLowerCase();
+    return hay.includes(q);
+  });
+}
+
+function render() {
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+  const stats = document.getElementById('stats');
+  const fs = filtered();
+
+  document.querySelectorAll('.fbtn').forEach(b => {
+    b.classList.toggle('active', b.dataset.cat === activecat);
+    if (b.dataset.cat !== 'all' && CAT_COLORS[b.dataset.cat]) {
+      b.style.background = b.classList.contains('active') ? CAT_COLORS[b.dataset.cat] : '';
+      b.style.color = b.classList.contains('active') ? '#fff' : CAT_COLORS[b.dataset.cat];
+      b.style.borderColor = b.classList.contains('active') ? CAT_COLORS[b.dataset.cat] : '';
+    } else if (b.dataset.cat === 'all') {
+      b.style.background = b.classList.contains('active') ? 'var(--hdr-bg)' : '';
+      b.style.color = b.classList.contains('active') ? '#fff' : '';
+      b.style.borderColor = b.classList.contains('active') ? 'var(--hdr-bg)' : '';
+    }
+  });
+
+  const catCount = CAT_ORDER.length;
+  stats.textContent = query
+    ? `${fs.length} skill${fs.length !== 1 ? 's' : ''} match "${query}"`
+    : `${fs.length} skill${fs.length !== 1 ? 's' : ''}${activecat !== 'all' ? ' in ' + activecat : ' across ' + catCount + ' categories'}`;
+
+  grid.querySelectorAll('.card').forEach(c => c.remove());
+  empty.style.display = fs.length ? 'none' : 'block';
+
+  const frag = document.createDocumentFragment();
+  fs.forEach(s => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    const isChain = s.category === 'Pre-built Chains';
+    card.innerHTML = `
+      <div class="card-accent" style="background:${s.color}"></div>
+      <div class="card-body">
+        <div class="card-cat" style="color:${s.color}">${esc(s.category)}</div>
+        <div class="card-name">${esc(s.name)}</div>
+        ${s.tagline ? `<div class="card-tagline">${esc(s.tagline)}</div>` : ''}
+        <div class="card-preview">${esc(s.preview)}</div>
+      </div>
+      <div class="card-footer">
+        ${isChain ? '<span class="card-chain-badge">⛓ Decision Chain</span>' : '<span></span>'}
+        <span class="card-link">click to expand →</span>
+      </div>`;
+    card.addEventListener('click', () => openModal(s));
+    frag.appendChild(card);
+  });
+  grid.appendChild(frag);
+}
+
+function openModal(s) {
+  const overlay = document.getElementById('overlay');
+  const modal = document.getElementById('modal');
+  document.getElementById('modal-top').style.background = s.color;
+  document.getElementById('modal-cat').style.color = s.color;
+  document.getElementById('modal-cat').textContent = s.category;
+  document.getElementById('modal-name').textContent = s.name;
+  document.getElementById('modal-tagline').textContent = s.tagline || '';
+  document.getElementById('modal-file').innerHTML =
+    `<a href="${esc(s.file)}" style="color:#94A3B8;font-size:.72rem">📄 Open deep-dive: ${esc(s.file)}</a>`;
+  document.getElementById('modal-body').innerHTML = s.modal;
+  overlay.classList.add('open');
+  overlay.setAttribute('aria-hidden', 'false');
+  modal.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+  document.getElementById('modal-close').focus();
+}
+
+function closeModal() {
+  const overlay = document.getElementById('overlay');
+  const modal = document.getElementById('modal');
+  overlay.classList.remove('open');
+  overlay.setAttribute('aria-hidden', 'true');
+  modal.setAttribute('aria-hidden', 'true');
+  if (topOverlay() === null) document.body.style.overflow = '';
+}
+
+function buildRefsPanel(filter) {
+  const q = (filter || '').toLowerCase();
+  const body = document.getElementById('refs-body');
+  const cnt = document.getElementById('refs-count');
+  const shown = q
+    ? REFS_DATA.filter(r =>
+        r.title.toLowerCase().includes(q) ||
+        r.authorYear.toLowerCase().includes(q) ||
+        r.skills.some(sk => sk.name.toLowerCase().includes(q)))
+    : REFS_DATA;
+  cnt.textContent = shown.length + ' source' + (shown.length !== 1 ? 's' : '');
+  body.innerHTML = shown.map(r => {
+    const pills = r.skills.map(sk =>
+      `<span class="ref-skill-pill" data-sid="${sk.id}"
+        style="background:${sk.color}1a;color:${sk.color};border-color:${sk.color}55"
+      >${esc(sk.name)}</span>`
+    ).join('');
+    return `<div class="ref-entry">
+      <div class="ref-title">${esc(r.title)}</div>
+      <div class="ref-author">${esc(r.authorYear)}</div>
+      <div class="ref-skills">${pills}</div>
+    </div>`;
+  }).join('');
+}
+
+function openRefs() {
+  buildRefsPanel('');
+  const overlay = document.getElementById('refs-overlay');
+  const panel = document.getElementById('refs-panel');
+  overlay.classList.add('open');
+  overlay.setAttribute('aria-hidden', 'false');
+  panel.setAttribute('aria-hidden', 'false');
+  document.body.style.overflow = 'hidden';
+  document.getElementById('refs-search').focus();
+}
+
+function closeRefs() {
+  const overlay = document.getElementById('refs-overlay');
+  const panel = document.getElementById('refs-panel');
+  overlay.classList.remove('open');
+  overlay.setAttribute('aria-hidden', 'true');
+  panel.setAttribute('aria-hidden', 'true');
+  if (topOverlay() === null) document.body.style.overflow = '';
+}
+
+document.getElementById('modal-close').addEventListener('click', closeModal);
+document.getElementById('overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('overlay')) closeModal();
+});
+
+document.getElementById('search').addEventListener('input', debounce(e => {
+  query = e.target.value;
+  render();
+}, 200));
+
+document.getElementById('refs-btn').addEventListener('click', openRefs);
+document.getElementById('refs-close').addEventListener('click', closeRefs);
+document.getElementById('refs-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('refs-overlay')) closeRefs();
+});
+document.getElementById('refs-search').addEventListener('input', debounce(e => {
+  buildRefsPanel(e.target.value);
+}, 200));
+
+document.addEventListener('keydown', e => {
+  if (e.key !== 'Escape') return;
+  const top = topOverlay();
+  if (top === 'refs') closeRefs();
+  else if (top === 'modal') closeModal();
+});
+
+document.getElementById('refs-panel').addEventListener('click', e => {
+  const pill = e.target.closest('.ref-skill-pill');
+  if (!pill) return;
+  const sid = parseInt(pill.dataset.sid, 10);
+  const skill = SKILLS.find(s => s.id === sid);
+  if (skill) { closeRefs(); openModal(skill); }
+});
+
+document.getElementById('modal-body').addEventListener('click', e => {
+  const link = e.target.closest('.skill-link');
+  if (!link) return;
+  e.preventDefault();
+  const sid = parseInt(link.dataset.id, 10);
+  const target = SKILLS.find(s => s.id === sid);
+  if (target) openModal(target);
+});
+
+buildFilters();
+render();
+
+</script>
+</body>
+</html>
