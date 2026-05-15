@@ -11,6 +11,8 @@
     "Network Effects": "#CA8A04",
     "Learning": "#059669",
     "Art": "#DB2777",
+    "Delivery & Flow": "#0891B2",
+    "Consulting Craft": "#7C3AED",
     "Pre-built Chains": "#B45309",
     "Leadership": "#1E40AF"
   },
@@ -800,6 +802,228 @@
       "name": "Transformation Chain",
       "category": "Pre-built Chains",
       "color": "#B45309"
+    },
+    "Delivery-and-Flow/littles-law.md": {
+      "id": 131,
+      "name": "Little's Law",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/wip-limits.md": {
+      "id": 132,
+      "name": "WIP Limits",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/flow-efficiency.md": {
+      "id": 133,
+      "name": "Flow Efficiency vs Resource Efficiency",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/lead-time-cycle-time.md": {
+      "id": 134,
+      "name": "Lead Time vs Cycle Time",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/queueing.md": {
+      "id": 135,
+      "name": "Queueing & Wait Time",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/batch-size-reduction.md": {
+      "id": 136,
+      "name": "Batch Size Reduction",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/cost-of-delay.md": {
+      "id": 137,
+      "name": "Cost of Delay",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/kanban-method.md": {
+      "id": 138,
+      "name": "Kanban Method",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/value-stream-mapping.md": {
+      "id": 139,
+      "name": "Value Stream Mapping",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/statistical-variability.md": {
+      "id": 140,
+      "name": "Statistical Variability",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/probabilistic-forecasting.md": {
+      "id": 141,
+      "name": "Probabilistic Forecasting",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/dora-metrics.md": {
+      "id": 142,
+      "name": "DORA Metrics",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/flow-metrics.md": {
+      "id": 143,
+      "name": "Flow Metrics",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/outcome-vs-output.md": {
+      "id": 144,
+      "name": "Outcome vs Output",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/a3-problem-solving.md": {
+      "id": 145,
+      "name": "A3 Problem Solving",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/pdca.md": {
+      "id": 146,
+      "name": "PDCA",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/gemba.md": {
+      "id": 147,
+      "name": "Gemba",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/attention-budget.md": {
+      "id": 148,
+      "name": "Attention Budget",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/context-switching.md": {
+      "id": 149,
+      "name": "Context-Switching Cost",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/cognitive-load-team.md": {
+      "id": 150,
+      "name": "Cognitive Load (Team)",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/one-thing.md": {
+      "id": 151,
+      "name": "Strategic Prioritization (“One Thing”)",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/okrs.md": {
+      "id": 152,
+      "name": "OKRs",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/kill-criteria.md": {
+      "id": 153,
+      "name": "Kill Criteria",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/team-topologies.md": {
+      "id": 154,
+      "name": "Team Topologies",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/inverse-conway.md": {
+      "id": 155,
+      "name": "Inverse Conway Maneuver",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/dependency-management.md": {
+      "id": 156,
+      "name": "Dependency Management",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/feature-factory.md": {
+      "id": 157,
+      "name": "Feature Factory vs Product Orientation",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/lean-portfolio.md": {
+      "id": 158,
+      "name": "Lean Portfolio Management",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/wsjf.md": {
+      "id": 159,
+      "name": "WSJF",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Delivery-and-Flow/reference-class-forecasting.md": {
+      "id": 160,
+      "name": "Reference Class Forecasting",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Consulting-Craft/hypothesis-driven.md": {
+      "id": 161,
+      "name": "Hypothesis-Driven Consulting",
+      "category": "Consulting Craft",
+      "color": "#7C3AED"
+    },
+    "Consulting-Craft/mece.md": {
+      "id": 162,
+      "name": "MECE",
+      "category": "Consulting Craft",
+      "color": "#7C3AED"
+    },
+    "Consulting-Craft/pyramid-principle.md": {
+      "id": 163,
+      "name": "Pyramid Principle",
+      "category": "Consulting Craft",
+      "color": "#7C3AED"
+    },
+    "Consulting-Craft/engagement-lifecycle.md": {
+      "id": 164,
+      "name": "Engagement Lifecycle",
+      "category": "Consulting Craft",
+      "color": "#7C3AED"
+    },
+    "Consulting-Craft/contracting-scope.md": {
+      "id": 165,
+      "name": "Contracting & Scope",
+      "category": "Consulting Craft",
+      "color": "#7C3AED"
+    },
+    "Business/kernel-of-strategy.md": {
+      "id": 166,
+      "name": "Kernel of Good Strategy",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Psychology/immunity-to-change.md": {
+      "id": 167,
+      "name": "Immunity to Change",
+      "category": "Psychology",
+      "color": "#9333EA"
     }
   },
   "refs": [
