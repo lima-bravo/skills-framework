@@ -47,7 +47,7 @@ An enterprise IT organization with 8 product teams is asked to "improve delivery
 → [**Lead Time vs Cycle Time**](lead-time-cycle-time.md) — DORA's "lead time for changes" is a specific cycle-time variant.
 → [**Flow Efficiency**](flow-efficiency.md) — short DORA lead times imply high flow efficiency.
 → [**Outcome vs Output**](outcome-vs-output.md) — DORA measures delivery capability; outcome measures the value it produces.
-→ [**Reliability vs Feature Velocity**](#) — DORA shows the two are complementary, not opposed.
+→ [**Trade-offs**](../Economics/trade-offs.md) — DORA's stability vs throughput pairing reframes the classic trade-off as falsely posed.
 → [**Conway's Law**](../Systems/conways-law.md) — DORA performance correlates with team-aligned-to-stream architecture.
 
 ---

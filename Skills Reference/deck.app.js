@@ -1,4 +1,6 @@
-const CAT_COLORS = {"General Thinking": "#3B82F6", "Systems": "#0D9488", "Economics": "#16A34A", "Physics & Chemistry": "#EA580C", "Psychology": "#9333EA", "Startups": "#DC2626", "Business": "#475569", "Mathematics": "#4F46E5", "Network Effects": "#CA8A04", "Learning": "#059669", "Art": "#DB2777", "Pre-built Chains": "#B45309", "Leadership": "#1E40AF"};
+// At runtime, deck.template.html replaces __CAT_COLORS_JSON__ with the manifest's categories object.
+// This file is a development reference; the inlined template is the source of truth for the built deck.
+const CAT_COLORS = {"General Thinking": "#3B82F6", "Systems": "#0D9488", "Economics": "#16A34A", "Physics & Chemistry": "#EA580C", "Psychology": "#9333EA", "Startups": "#DC2626", "Business": "#475569", "Mathematics": "#4F46E5", "Network Effects": "#CA8A04", "Learning": "#059669", "Art": "#DB2777", "Delivery & Flow": "#0891B2", "Consulting Craft": "#7C3AED", "Pre-built Chains": "#B45309", "Leadership": "#1E40AF"};
 
 let activecat = 'all', query = '';
 const CAT_ORDER = Object.keys(CAT_COLORS);

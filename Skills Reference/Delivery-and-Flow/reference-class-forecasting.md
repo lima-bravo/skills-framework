@@ -48,7 +48,7 @@ A regional bank plans a core banking modernization. The internal estimate is 24 
 → [**Probabilistic Forecasting**](probabilistic-forecasting.md) — the team-level analogue using a team's own history as reference class.
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — complementary technique: imagine failure, then forecast it.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — the buffer RCF justifies in scope, cost, and time.
-→ [**Outside View**](#) — the cognitive frame RCF operationalizes.
+→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — RCF is base-rate, outside-view probabilistic thinking applied to projects.
 
 ---
 

@@ -45,7 +45,7 @@ A 9-month transformation engagement for an insurer. Diagnose (weeks 1–6): valu
 ## Connections
 
 → [**Contracting & Scope**](contracting-scope.md) — the contract should match the engagement lifecycle, not just deliverables.
-→ [**Coaching Stance vs Expert Stance**](#) — the stance shifts across the lifecycle.
+→ [**Mission Command**](../Leadership/mission-command.md) — the coaching stance is mission command for the consultant–client relationship: set intent, withdraw, trust execution.
 → [**Theory of Change**](../Business/theory-of-change.md) — the design phase articulates the theory.
 → [**Change Management**](../Leadership/change-management.md) — design and deliver phases run change at the same time.
 → [**Hypothesis-Driven Consulting**](hypothesis-driven.md) — diagnosis runs on hypothesis-driven work.

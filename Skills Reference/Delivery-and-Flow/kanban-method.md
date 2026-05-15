@@ -48,7 +48,7 @@ A 14-person platform engineering team manages requests from five product groups.
 → [**Little's Law**](littles-law.md) — the arithmetic that explains why Kanban delivers shorter cycle times.
 → [**Flow Metrics**](flow-metrics.md) — Kanban produces the data; flow metrics interpret it.
 → [**Bottlenecks**](../Systems/bottlenecks.md) — Kanban makes constraints visible.
-→ [**Pull (vs Push)**](#) — Kanban is a pull system in practice.
+→ [**Feedback Loops**](../Systems/feedback-loops.md) — pull systems are balancing feedback loops; Kanban makes the loop visible.
 
 ---
 

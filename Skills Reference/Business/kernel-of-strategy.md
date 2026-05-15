@@ -47,7 +47,7 @@ A mid-market software firm's "strategy" is a slide deck of five priorities (grow
 → [**Strategic Prioritization**](../Delivery-and-Flow/one-thing.md) — coherent action requires the discipline of saying no.
 → [**Theory of Change**](theory-of-change.md) — the policy-action linkage expresses a theory.
 → [**Trade-offs**](../Economics/trade-offs.md) — strategy is the structured form of trade-off reasoning.
-→ [**Diagnosis (Rumelt)**](#) — the under-practiced first step.
+→ [**First Principles**](../General-Thinking/first-principles.md) — Rumelt's diagnosis is first-principles thinking applied to a strategic situation.
 → [**Portfolio Map**](portfolio-map.md) — the portfolio question follows the strategy question, not the reverse.
 
 ---

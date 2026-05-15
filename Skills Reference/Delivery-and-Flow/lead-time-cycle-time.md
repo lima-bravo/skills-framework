@@ -44,7 +44,7 @@ A regulatory team reports 6-day cycle time on policy reviews and is pressured to
 ## Connections
 
 → [**Little's Law**](littles-law.md) — both metrics fall out of L = λW; lead and cycle time differ by where you start the clock.
-→ [**Service Level Expectations**](#) — lead-time percentiles are the basis for forecast-able commitments.
+→ [**Probabilistic Forecasting**](probabilistic-forecasting.md) — percentile lead times are the substrate of commit-able service level expectations.
 → [**Statistical Variability**](statistical-variability.md) — variability of cycle time drives the gap between mean and 85th percentile.
 → [**DORA Metrics**](dora-metrics.md) — "lead time for changes" is the specific DORA variant for code delivery.
 

@@ -46,7 +46,7 @@ A payment-platform team of nine engineers owns five services, the on-call rotati
 
 → [**Team Topologies**](team-topologies.md) — the org-design model built around cognitive load.
 → [**Conway's Law**](../Systems/conways-law.md) — architecture and load are mutually determined.
-→ [**Platform Thinking**](#) — platforms exist to lower extraneous load for stream-aligned teams.
+→ [**Leverage**](../Physics-and-Chemistry/leverage.md) — internal platforms apply leverage by absorbing extraneous load for stream-aligned teams.
 → [**Attention Budget**](attention-budget.md) — the individual analogue.
 → [**Dependency Management**](dependency-management.md) — dependencies are a major source of extraneous load.
 

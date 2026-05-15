@@ -48,7 +48,7 @@ A 2500-person enterprise IT organization runs 28 simultaneous large initiatives 
 → [**WSJF**](wsjf.md) — the practical sequencing rule.
 → [**Flow Metrics**](flow-metrics.md) — the dashboard for portfolio health.
 → [**Kill Criteria**](kill-criteria.md) — the mechanism that prevents portfolio bloat.
-→ [**Beyond Budgeting**](#) — broader funding model in the same family.
+→ [**Innovation Funnel**](../Business/innovation-funnel.md) — stage-gate funding is the contrast LPM is designed to replace.
 
 ---
 

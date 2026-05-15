@@ -48,7 +48,7 @@ A 30-team delivery program runs quarterly big-room planning. Each quarter, ~40% 
 → [**Conway's Law**](../Systems/conways-law.md) — dependencies follow team boundaries.
 → [**Inverse Conway Maneuver**](inverse-conway.md) — deliberately reshape teams to remove dependencies.
 → [**Bottlenecks**](../Systems/bottlenecks.md) — high-fan-in teams are scaled-delivery bottlenecks.
-→ [**Platform Thinking**](#) — platforms are the canonical dependency-reduction lever.
+→ [**Leverage**](../Physics-and-Chemistry/leverage.md) — internal platforms are the leverage mechanism that reduces dependencies structurally.
 
 ---
 

@@ -47,7 +47,7 @@ A retailer's CFO asks why operating margin is down 3 points. A first analyst res
 → [**Hypothesis-Driven Consulting**](hypothesis-driven.md) — MECE provides the structure for sub-hypotheses.
 → [**Pyramid Principle**](pyramid-principle.md) — supporting points at each level should be MECE.
 → [**First Principles**](../General-Thinking/first-principles.md) — MECE problem statements often reveal the first principles structure.
-→ [**Issue Trees**](#) — a MECE issue tree is the working artifact of structured problem-solving.
+→ [**Socratic Thinking**](../General-Thinking/socratic-thinking.md) — issue trees decompose problems by structured questioning; MECE is the shape of good questions.
 → [**Trade-offs**](../Economics/trade-offs.md) — trade-off analysis requires MECE alternatives.
 
 ---

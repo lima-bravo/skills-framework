@@ -47,7 +47,7 @@ A 400-person fintech reorganization moves from a 30-team feature-matrix to a Tea
 → [**Conway's Law**](../Systems/conways-law.md) — Team Topologies is an applied Conway maneuver.
 → [**Inverse Conway Maneuver**](inverse-conway.md) — deliberately shaping teams to produce desired architecture.
 → [**Cognitive Load (Team)**](cognitive-load-team.md) — the constraint Team Topologies optimizes against.
-→ [**Platform Thinking**](#) — the discipline behind platform teams done well.
+→ [**Leverage**](../Physics-and-Chemistry/leverage.md) — platforms are force multipliers; the leverage card explains the underlying mechanism.
 → [**Dependency Management**](dependency-management.md) — interaction modes are dependency contracts.
 
 ---
