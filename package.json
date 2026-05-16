@@ -3,6 +3,8 @@
   "private": true,
   "description": "Disciplined skillset reference deck and framework",
   "scripts": {
-    "build:deck": "node scripts/build-deck.mjs"
+    "build:deck": "node scripts/build-deck.mjs",
+    "build:cowork": "node scripts/build-cowork-skills.mjs",
+    "validate:cowork": "node scripts/validate-cowork-skills.mjs"
   }
 }

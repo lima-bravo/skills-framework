@@ -1,0 +1,245 @@
+{
+  "version": "1.0.0",
+  "author": { "name": "Skills Framework" },
+  "plugins": [
+    {
+      "id": "disciplined-thinking",
+      "name": "disciplined-thinking",
+      "description": "Core mental models, decision chains, and task routing for structured executive analysis.",
+      "skills": [
+        "classify-consulting-task",
+        "apply-core-mental-models",
+        "pricing-decision",
+        "market-entry",
+        "hiring-decision",
+        "product-launch",
+        "investment-decision",
+        "should-i-quit",
+        "life-decision"
+      ]
+    },
+    {
+      "id": "delivery-and-flow",
+      "name": "delivery-and-flow",
+      "description": "Diagnose and improve delivery flow: value streams, WIP, metrics, org design, and portfolio prioritization.",
+      "skills": [
+        "diagnose-flow",
+        "set-wip-and-commitments",
+        "measure-delivery",
+        "design-org-for-flow",
+        "prioritize-under-scarcity",
+        "improve-delivery-flow",
+        "org-design-for-flow",
+        "capacity-planning",
+        "transformation"
+      ]
+    },
+    {
+      "id": "consulting-craft",
+      "name": "consulting-craft",
+      "description": "Executive problem structuring, communication, and consulting engagement discipline.",
+      "skills": [
+        "structure-executive-problem",
+        "executive-communication",
+        "consulting-engagement"
+      ]
+    }
+  ],
+  "chainDescriptionOverrides": {
+    "pricing-decision": "Runs an eight-step pricing decision chain from first principles through experiments and margin of safety. Use when setting or changing prices, packaging, or monetization.",
+    "market-entry": "Structured market entry analysis: opportunity, defensibility, assumptions, and entry mode. Use when entering a new market, segment, or geography.",
+    "hiring-decision": "Hiring decision chain: role outcomes, failure modes, evidence, and culture fit. Use for significant hires or role design.",
+    "product-launch": "Product or feature launch chain: assumptions, readiness, metrics, and failure modes. Use before launches or major releases.",
+    "investment-decision": "Capital allocation chain: thesis, downside, alternatives, and monitoring. Use for investments of money or strategic capacity.",
+    "should-i-quit": "Quit-or-stay decision chain separating signal from noise. Use when considering leaving a role, company, or project.",
+    "life-decision": "Major life decision chain with reversibility and probabilistic scenarios. Use for long-horizon personal or career choices.",
+    "capacity-planning": "Eight-step capacity planning chain before committing resources. Use when planning team or portfolio capacity.",
+    "transformation": "Organizational transformation readiness and sequencing chain. Use for large change programs.",
+    "improve-delivery-flow": "Eight-step flow improvement chain: VSM, bottlenecks, WIP, forecasting, metrics, PDCA. Use for slow delivery, missed dates, or flow reviews.",
+    "org-design-for-flow": "Org design diagnostic chain: value stream, team topologies, Conway, dependencies. Use when structure blocks flow."
+  },
+  "toolkits": [
+    {
+      "slug": "diagnose-flow",
+      "description": "Maps value stream, finds bottlenecks and queue delay, estimates cycle time from WIP and throughput. Use for slow delivery, missed dates, everyone busy, or executive lead-time questions.",
+      "sources": [
+        "Delivery-and-Flow/value-stream-mapping.md",
+        "Delivery-and-Flow/queueing.md",
+        "Delivery-and-Flow/flow-efficiency.md",
+        "Delivery-and-Flow/littles-law.md",
+        "Systems/bottlenecks.md"
+      ],
+      "deliverableSections": [
+        "Executive summary (3 bullets)",
+        "Current-state flow map (steps, wait times, handoffs)",
+        "Bottleneck hypothesis and evidence",
+        "Flow efficiency estimate and implication",
+        "Little's Law check (WIP, throughput, predicted cycle time)",
+        "Recommended next intervention"
+      ]
+    },
+    {
+      "slug": "set-wip-and-commitments",
+      "description": "Designs WIP limits, pull policies, and flow-based commitments. Use when starting kanban, breaking WIP limits, or defining lead-time promises.",
+      "sources": [
+        "Delivery-and-Flow/wip-limits.md",
+        "Delivery-and-Flow/kanban-method.md",
+        "Delivery-and-Flow/lead-time-cycle-time.md",
+        "Delivery-and-Flow/batch-size-reduction.md"
+      ],
+      "deliverableSections": [
+        "Current WIP and pain points",
+        "Proposed WIP limits per stage (with rationale)",
+        "Explicit pull and swarm policies",
+        "Lead time vs cycle time definitions for stakeholders",
+        "Rollout plan and expected trade-offs"
+      ]
+    },
+    {
+      "slug": "measure-delivery",
+      "description": "Defines delivery and flow metrics, variability, and probabilistic forecasts. Use for dashboards, predictability, SLA design, or executive reporting.",
+      "sources": [
+        "Delivery-and-Flow/dora-metrics.md",
+        "Delivery-and-Flow/flow-metrics.md",
+        "Delivery-and-Flow/statistical-variability.md",
+        "Delivery-and-Flow/probabilistic-forecasting.md",
+        "Delivery-and-Flow/reference-class-forecasting.md"
+      ],
+      "deliverableSections": [
+        "Metric set (definitions, owners, cadence)",
+        "Baseline and target percentiles (not averages only)",
+        "Forecast range with assumptions",
+        "Goodhart risks (how metrics could be gamed)",
+        "Review ritual recommendation"
+      ]
+    },
+    {
+      "slug": "design-org-for-flow",
+      "description": "Aligns teams and dependencies to value streams using team topologies and Conway. Use for reorgs, platform teams, or cross-team blocking work.",
+      "sources": [
+        "Delivery-and-Flow/team-topologies.md",
+        "Delivery-and-Flow/inverse-conway.md",
+        "Delivery-and-Flow/dependency-management.md",
+        "Delivery-and-Flow/feature-factory.md",
+        "Systems/conways-law.md"
+      ],
+      "deliverableSections": [
+        "Value stream and primary constraint",
+        "Current org vs desired topology",
+        "Dependency map (critical paths)",
+        "Inverse Conway moves (team changes to get desired flow)",
+        "Risks and transition sequencing"
+      ]
+    },
+    {
+      "slug": "prioritize-under-scarcity",
+      "description": "Prioritizes work under scarce capacity using cost of delay, WSJF, and kill criteria. Use for portfolio debates, roadmaps, or what to stop.",
+      "sources": [
+        "Delivery-and-Flow/cost-of-delay.md",
+        "Delivery-and-Flow/wsjf.md",
+        "Delivery-and-Flow/kill-criteria.md",
+        "Delivery-and-Flow/one-thing.md",
+        "Delivery-and-Flow/lean-portfolio.md",
+        "Delivery-and-Flow/outcome-vs-output.md"
+      ],
+      "deliverableSections": [
+        "Scarcity constraint (what is the real bottleneck)",
+        "Ranked initiatives with cost-of-delay rationale",
+        "What to stop or defer (kill criteria applied)",
+        "Single explicit focus recommendation",
+        "Governance check (funding, WIP at portfolio level)"
+      ]
+    },
+    {
+      "slug": "structure-executive-problem",
+      "description": "Structures ambiguous problems with MECE issue trees and hypothesis-driven consulting. Use for steering committees, problem statements, or issue trees.",
+      "sources": [
+        "Consulting-Craft/mece.md",
+        "Consulting-Craft/hypothesis-driven.md"
+      ],
+      "deliverableSections": [
+        "Problem statement (one sentence)",
+        "MECE issue tree (top level 3–5 branches)",
+        "Key hypotheses to test",
+        "Evidence plan per hypothesis",
+        "What would falsify the leading hypothesis"
+      ]
+    },
+    {
+      "slug": "executive-communication",
+      "description": "Produces answer-first executive communication using the pyramid principle. Use for board decks, exec memos, or steering updates.",
+      "sources": ["Consulting-Craft/pyramid-principle.md"],
+      "deliverableSections": [
+        "Governing thought (answer first)",
+        "Supporting arguments (MECE)",
+        "Evidence per argument",
+        "So-what and ask",
+        "Optional appendix structure"
+      ]
+    },
+    {
+      "slug": "consulting-engagement",
+      "description": "Frames consulting engagements: lifecycle, scope, and contracting. Use when scoping work, SOWs, or diagnose-design-deliver-detach.",
+      "sources": [
+        "Consulting-Craft/engagement-lifecycle.md",
+        "Consulting-Craft/contracting-scope.md"
+      ],
+      "deliverableSections": [
+        "Engagement phase and objective",
+        "Scope in / scope out",
+        "Success criteria and measures",
+        "Client vs consultant responsibilities",
+        "Exit and knowledge transfer criteria"
+      ]
+    },
+    {
+      "slug": "apply-core-mental-models",
+      "description": "Applies core mental models (first principles, inversion, incentives, bottlenecks, bias checks) to the user's situation. Use for ambiguous decisions, strategy, or when no specialized chain fits.",
+      "sources": [
+        "General-Thinking/first-principles.md",
+        "General-Thinking/inversion.md",
+        "General-Thinking/second-order-effects.md",
+        "Systems/feedback-loops.md",
+        "Psychology/incentives.md",
+        "General-Thinking/probabilistic-thinking.md",
+        "General-Thinking/map-territory.md",
+        "Psychology/sunk-cost.md",
+        "Psychology/confirmation-bias.md",
+        "Mathematics/compounding.md",
+        "Psychology/loss-aversion.md",
+        "Systems/bottlenecks.md"
+      ],
+      "branches": [
+        {
+          "label": "Decision under uncertainty",
+          "models": ["Probabilistic Thinking", "Inversion", "Margin of Safety"],
+          "lead": "General-Thinking/probabilistic-thinking.md"
+        },
+        {
+          "label": "System change",
+          "models": ["Feedback Loops", "Bottlenecks", "Incentives"],
+          "lead": "Systems/feedback-loops.md"
+        },
+        {
+          "label": "People and organization",
+          "models": ["Incentives", "Loss Aversion", "Confirmation Bias"],
+          "lead": "Psychology/incentives.md"
+        }
+      ],
+      "deliverableSections": [
+        "Situation summary",
+        "Primary model lens used and why",
+        "Analysis (3–5 insights)",
+        "Checking models applied",
+        "Recommended action and risks"
+      ]
+    }
+  ],
+  "routers": [
+    {
+      "slug": "classify-consulting-task",
+      "description": "Classifies the user's task and routes to the best chain or toolkit skill. Use at the start of ambiguous consulting, delivery, or executive requests.",
+      "disableModelInvocation": false
+    }
+  ]
+}

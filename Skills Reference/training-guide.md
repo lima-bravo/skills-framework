@@ -5,7 +5,7 @@
 
 ## What This Guide Is For
 
-You now have access to 101 mental models across 12 categories, organized three ways: a master reference document, a searchable card deck, and individual deep-dive files. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
+You now have access to **170 skills** across **15 categories** (159 mental-model cards plus 11 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`, categories 1–12), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
 
 It covers four things:
 
@@ -26,28 +26,33 @@ The framework has three layers, each suited to different moments:
 
 **The individual skill files (`General-Thinking/`, `Systems/`, etc.)** are your deep-dive layer. When a skill feels relevant but half-understood, open the full file. Read the definition, the failure modes, and the worked example. These are the files you annotate and return to.
 
-**The master document (`Skills Framework.md`)** is the full compendium — best for sequential study of a whole category, or for searching across the entire framework with your text editor's find function.
+**The master document (`Skills Framework.md`)** covers categories 1–12 in one file — best for sequential study of those categories, or for searching with your editor's find function. **Delivery & Flow**, **Consulting Craft**, and **Leadership** (categories 13–15) are in the card deck and per-skill markdown files only until merged into the master document.
 
-### The 12 categories and what they're for
+### The 15 categories and what they're for
 
 The categories are not arbitrary. They reflect different levels of abstraction and different types of problem:
 
-| Category | What it's for |
-|---|---|
-| General Thinking | Any problem; the foundational layer |
-| Systems | Understanding how things behave over time |
-| Economics | Resource allocation, incentives, markets |
-| Physics & Chemistry | Structural forces and mechanisms |
-| Psychology | Human behavior and bias |
-| Startups | New venture creation under uncertainty |
-| Business | Established organization management |
-| Mathematics | Quantitative and logical reasoning |
-| Network Effects | Platform and ecosystem strategy |
-| Learning | Building capability deliberately |
-| Art | Communication and creative expression |
-| Pre-built Chains | High-stakes recurring decisions |
+| Category | Skills | What it's for |
+|---|---|---|
+| General Thinking | 21 | Any problem; the foundational layer |
+| Systems | 16 | Understanding how things behave over time |
+| Economics | 13 | Resource allocation, incentives, markets |
+| Physics & Chemistry | 10 | Structural forces and mechanisms |
+| Psychology | 15 | Human behavior and bias |
+| Startups | 9 | New venture creation under uncertainty |
+| Business | 13 | Established organization management |
+| Mathematics | 7 | Quantitative and logical reasoning |
+| Network Effects | 4 | Platform and ecosystem strategy |
+| Learning | 6 | Building capability deliberately |
+| Art | 4 | Communication and creative expression |
+| Pre-built Chains | 11 | High-stakes recurring decisions (workflows, not single models) |
+| Delivery & Flow | 30 | Throughput, WIP, metrics, org design for flow |
+| Consulting Craft | 5 | Executive communication, engagement, problem structuring |
+| Leadership | 6 | Change, culture, governance, trust |
 
-When you don't know which category applies, start with General Thinking. It contains the foundational models that work across all other categories.
+*Skill counts match `skills-manifest.json` (170 total).*
+
+When you don't know which category applies, start with General Thinking. For delivery, prioritization, or organizational flow questions, filter **Delivery & Flow** or run a chain such as **Improve Delivery Flow**.
 
 ### The anatomy of a skill entry
 
@@ -83,7 +88,7 @@ Do not try to memorize the framework. Mental models become useful when they are 
 
 ### Prioritizing what to learn first
 
-With 101 skills, the question of where to start matters. A suggested learning sequence:
+With 170 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):
 
 **Tier 1 — Master these first** (12 skills). These are the highest-utility, most-used models. Most other skills build on them or are checked by them:
 
@@ -103,12 +108,13 @@ With 101 skills, the question of where to start matters. A suggested learning se
 **Tier 2 — Learn next** (20 skills). These are the skills you will reach for in most business and strategic contexts:
 
 - Mental models from each category's first half
-- All of the Pre-built Chains (these teach skill chaining by example)
+- All **11** Pre-built Chains (these teach skill chaining by example)
+- A starter set from **Delivery & Flow** if your work is executive delivery (e.g. Little's Law, WIP Limits, Lead Time vs Cycle Time, Team Topologies)
 - Margin of Safety, Asymmetry/Convexity, Two-Way Doors (decision quality)
 - Product-Market Fit, Customer Development, Build-Measure-Learn (if building products)
 - Maslow, Incentives, McClelland (if managing people)
 
-**Tier 3 — Build out over time** (remaining 69 skills). Study these as relevant problems arise. The card deck makes it easy to search by keyword when a situation calls for a specific model.
+**Tier 3 — Build out over time** (the rest of the deck). Study these as relevant problems arise. The card deck makes it easy to search by keyword when a situation calls for a specific model.
 
 ### The spaced repetition principle
 
@@ -188,7 +194,11 @@ Situation: You are deciding whether to launch a new pricing model that changes f
 
 ### What the chains are
 
-The 12 pre-built chains are curated skill sequences for seven recurring high-stakes decisions: Pricing, Market Entry, Hiring, Product Launch, Investment, Should I Quit, and Life Decision. They are not algorithms — they do not guarantee a conclusion. They are structured interrogation protocols that ensure the most important dimensions of each decision type are considered in the right order.
+The **11** pre-built chains are curated skill sequences for recurring high-stakes decisions. They are not algorithms — they do not guarantee a conclusion. They are structured interrogation protocols that ensure the most important dimensions of each decision type are considered in the right order.
+
+**Strategic / venture chains (7):** Pricing, Market Entry, Hiring, Product Launch, Investment, Should I Quit, Life Decision.
+
+**Flow / operating chains (4):** Capacity Planning, Transformation, Improve Delivery Flow, Org Design for Flow.
 
 ### How to run a chain
 
@@ -213,6 +223,10 @@ The 12 pre-built chains are curated skill sequences for seven recurring high-sta
 | Allocating significant capital (financial or strategic) | Investment Decision |
 | Considering leaving a role, company, or project | Should I Quit |
 | Any major life choice with long-term implications | Life Decision |
+| Pressure-testing a team or portfolio capacity plan | Capacity Planning |
+| Large-scale organizational change | Transformation |
+| Improving end-to-end delivery (lead time, WIP, metrics) | Improve Delivery Flow |
+| Diagnosing structure vs value stream / dependencies | Org Design for Flow |
 
 ---
 
@@ -268,7 +282,7 @@ Confirmation bias operating through the framework: you want to take a particular
 
 ### Paralysis through completeness
 
-Believing that every decision requires exhaustive model application before action. The framework has 101 skills; applying all of them to any given decision would take weeks. This is not the intent.
+Believing that every decision requires exhaustive model application before action. The framework has 170 skills; applying all of them to any given decision would take weeks. This is not the intent.
 
 **Fix**: Match the rigor of the analysis to the reversibility and stakes of the decision. Two-Way Doors gives you the principle: reversible decisions deserve quick analysis and fast action; irreversible ones deserve deeper analysis. Most decisions are more reversible than they feel.
 
@@ -310,8 +324,10 @@ All mental models are simplifications. The most dangerous failure mode of this e
 
 The single most effective first step is not to read more of the framework — it is to apply one model to one real situation today.
 
-Pick one model from Tier 1 (listed above). Open its card in the deck. Read the mental model paragraph. Then look at your calendar or your current project list and find one situation where it applies. Write two sentences about what it reveals. That is the practice. Do that 101 times, and the framework will be internalized.
+Pick one model from Tier 1 (listed above). Open its card in the deck. Read the mental model paragraph. Then look at your calendar or your current project list and find one situation where it applies. Write two sentences about what it reveals. That is the practice. Repeat across the deck over time until retrieval is automatic.
 
 ---
 
-*Skills Framework v1.1 · 101 skills across 12 categories*
+*Skills Framework v1.2 · 170 skills across 15 categories · canonical counts in `skills-manifest.json`*
+
+**Claude Cowork / Code:** The repo also builds **21 Agent Skills** (toolkits + chains + router) from the same markdown — run `npm run build:cowork` and install plugins from `dist/cowork/`. See the root `README.md`.

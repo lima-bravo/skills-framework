@@ -16,6 +16,8 @@ Each skill is written for active use, not passive reading. The structure for eve
 
 The **Pre-built Chains** at the end combine multiple skills into structured decision workflows for recurring high-stakes situations.
 
+**Scope of this document.** The full framework has **170 skills** in **15 categories** (see `Skills Reference/skills-manifest.json` and the card deck). This file contains the original **12 categories** (sections 1–12 below), including **seven** decision chains in section 12. The other **41 skills** — **Delivery & Flow** (30), **Consulting Craft** (5), **Leadership** (6) — and **four** additional chains (Capacity Planning, Transformation, Improve Delivery Flow, Org Design for Flow) live only under `Skills Reference/` and in the generated deck until merged here.
+
 ---
 
 ## Table of Contents
@@ -32,6 +34,8 @@ The **Pre-built Chains** at the end combine multiple skills into structured deci
 10. [Learning](#10-learning)
 11. [Art](#11-art)
 12. [Pre-built Chains](#12-pre-built-chains)
+
+*Categories 13–15 (not in this file): Delivery & Flow, Consulting Craft, Leadership — see `Skills Reference/<category>/` and [training-guide.md](Skills%20Reference/training-guide.md).*
 
 ---
 
@@ -4379,8 +4383,9 @@ Reversible decisions (moving cities, taking a new job) deserve less analysis and
 
 ---
 
-**Version:** 1.1 | **Last updated:** May 2026
-**Skills covered:** 101 across 12 categories
+**Version:** 1.2 | **Last updated:** May 2026
+**Full framework:** 170 skills across 15 categories (`Skills Reference/skills-manifest.json`, card deck)
+**This document:** categories 1–12 (original compendium); seven decision chains in section 12
 
 
 
