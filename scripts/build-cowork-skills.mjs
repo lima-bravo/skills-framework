@@ -278,6 +278,10 @@ function buildRouterBody(config) {
     ['Executive problem structure / issue tree', '/structure-executive-problem'],
     ['Executive memo or deck narrative', '/executive-communication'],
     ['Engagement scope or SOW', '/consulting-engagement'],
+    [
+      'Define what work is needed to build or deliver (outcome, scope, work tree)',
+      '/work-to-be-done',
+    ],
     ['General ambiguous decision', '/apply-core-mental-models'],
   ];
 

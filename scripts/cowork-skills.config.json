@@ -31,7 +31,8 @@
         "improve-delivery-flow",
         "org-design-for-flow",
         "capacity-planning",
-        "transformation"
+        "transformation",
+        "work-to-be-done"
       ]
     },
     {
@@ -56,7 +57,8 @@
     "capacity-planning": "Eight-step capacity planning chain before committing resources. Use when planning team or portfolio capacity.",
     "transformation": "Organizational transformation readiness and sequencing chain. Use for large change programs.",
     "improve-delivery-flow": "Eight-step flow improvement chain: VSM, bottlenecks, WIP, forecasting, metrics, PDCA. Use for slow delivery, missed dates, or flow reviews.",
-    "org-design-for-flow": "Org design diagnostic chain: value stream, team topologies, Conway, dependencies. Use when structure blocks flow."
+    "org-design-for-flow": "Org design diagnostic chain: value stream, team topologies, Conway, dependencies. Use when structure blocks flow.",
+    "work-to-be-done": "Ten-step chain from outcome through theory of change, MECE work tree, prioritization, and capacity check. Use when scoping what must be built or delivered before execution."
   },
   "toolkits": [
     {
