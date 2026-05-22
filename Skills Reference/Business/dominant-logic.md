@@ -1,7 +1,7 @@
 # Dominant Logic
 *How past success becomes future blindspot*
 
-**Category:** [Business](../index.html#business) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
 
 ---
 

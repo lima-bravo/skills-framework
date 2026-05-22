@@ -1,7 +1,7 @@
 # Design Thinking
 *A human-centered innovation process — empathize, define, ideate, prototype, test — that insists on understanding people's actual experience before generating solutions.*
 
-**Category:** [Startups](../index.html#6-startups) | **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
 
 ---
 

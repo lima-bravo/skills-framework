@@ -1,7 +1,7 @@
 # Three Horizons
 *Managing innovation investment across three time horizons simultaneously — optimizing the core, building emerging businesses, and creating future options — each requiring a fundamentally different management logic.*
 
-**Category:** [Business](../index.html#7-business) | **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
 
 ---
 

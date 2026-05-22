@@ -1,7 +1,7 @@
 # Disruptive Innovation
 *How entrants using simpler, cheaper technology serve overlooked customers and then improve until they displace incumbents — and why rational incumbents consistently fail to respond in time.*
 
-**Category:** [Business](../index.html#7-business) | **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
 
 ---
 

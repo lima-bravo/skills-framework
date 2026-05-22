@@ -1,7 +1,7 @@
 # Innovation Accounting
 *Measure progress toward validated learning*
 
-**Category:** [Startups](../index.html#startups) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
 
 ---
 

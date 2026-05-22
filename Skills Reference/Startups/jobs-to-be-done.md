@@ -1,7 +1,7 @@
 # Jobs to Be Done
 *People don't buy products — they hire them to do a job in their life.*
 
-**Category:** [Startups](../index.html#6-startups) | **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
 
 ---
 

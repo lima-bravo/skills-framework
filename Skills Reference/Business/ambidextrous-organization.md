@@ -1,7 +1,7 @@
 # Ambidextrous Organization
 *Run explore and exploit without one killing the other*
 
-**Category:** [Business](../index.html#business) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
 
 ---
 

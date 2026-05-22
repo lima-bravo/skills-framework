@@ -1,7 +1,7 @@
 # Crossing the Chasm
 *The gap between early adopters who buy on vision and the early majority who buy on proven results — and why the strategies that win the first group fail with the second.*
 
-**Category:** [Startups](../index.html#6-startups) | **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
 
 ---
 

@@ -5,8 +5,8 @@
     "Economics": "#16A34A",
     "Physics & Chemistry": "#EA580C",
     "Psychology": "#9333EA",
-    "Startups": "#DC2626",
     "Business": "#475569",
+    "Innovation & Entrepreneurship": "#DC2626",
     "Mathematics": "#4F46E5",
     "Network Effects": "#CA8A04",
     "Learning": "#059669",
@@ -14,7 +14,8 @@
     "Delivery & Flow": "#0891B2",
     "Consulting Craft": "#7C3AED",
     "Pre-built Chains": "#B45309",
-    "Leadership": "#1E40AF"
+    "Leadership": "#1E40AF",
+    "Applied AI": "#0369A1"
   },
   "skills": {
     "General-Thinking/first-principles.md": {
@@ -392,37 +393,37 @@
     "Startups/product-market-fit.md": {
       "id": 62,
       "name": "Product-Market Fit",
-      "category": "Startups",
+      "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
     },
     "Startups/build-measure-learn.md": {
       "id": 63,
       "name": "Build-Measure-Learn",
-      "category": "Startups",
+      "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
     },
     "Startups/mvp.md": {
       "id": 64,
       "name": "MVP",
-      "category": "Startups",
+      "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
     },
     "Startups/pivot-or-persevere.md": {
       "id": 65,
       "name": "Pivot or Persevere",
-      "category": "Startups",
+      "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
     },
     "Startups/customer-development.md": {
       "id": 66,
       "name": "Customer Development",
-      "category": "Startups",
+      "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
     },
     "Startups/innovation-accounting.md": {
       "id": 67,
       "name": "Innovation Accounting",
-      "category": "Startups",
+      "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
     },
     "Business/business-model-canvas.md": {
@@ -440,8 +441,8 @@
     "Business/innovation-funnel.md": {
       "id": 70,
       "name": "Innovation Funnel",
-      "category": "Business",
-      "color": "#475569"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Business/portfolio-map.md": {
       "id": 71,
@@ -638,7 +639,7 @@
     "Startups/jobs-to-be-done.md": {
       "id": 103,
       "name": "Jobs to Be Done",
-      "category": "Startups",
+      "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
     },
     "Psychology/psychological-safety.md": {
@@ -680,26 +681,26 @@
     "Startups/design-thinking.md": {
       "id": 110,
       "name": "Design Thinking",
-      "category": "Startups",
+      "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
     },
     "Startups/crossing-the-chasm.md": {
       "id": 111,
       "name": "Crossing the Chasm",
-      "category": "Startups",
+      "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
     },
     "Business/disruptive-innovation.md": {
       "id": 112,
       "name": "Disruptive Innovation",
-      "category": "Business",
-      "color": "#475569"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Business/three-horizons.md": {
       "id": 113,
       "name": "Three Horizons",
-      "category": "Business",
-      "color": "#475569"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Learning/deep-work.md": {
       "id": 114,
@@ -1052,32 +1053,32 @@
     "Business/ambidextrous-organization.md": {
       "id": 172,
       "name": "Ambidextrous Organization",
-      "category": "Business",
-      "color": "#10B981"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Business/dominant-logic.md": {
       "id": 173,
       "name": "Dominant Logic",
-      "category": "Business",
-      "color": "#10B981"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Business/open-innovation.md": {
       "id": 174,
       "name": "Open Innovation",
-      "category": "Business",
-      "color": "#10B981"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Startups/effectuation.md": {
       "id": 175,
       "name": "Effectuation",
-      "category": "Startups",
-      "color": "#F59E0B"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Business/organizational-slack.md": {
       "id": 176,
       "name": "Organizational Slack",
-      "category": "Business",
-      "color": "#10B981"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Pre-built-Chains/innovation-capability-diagnostic.md": {
       "id": 177,
@@ -1094,26 +1095,56 @@
     "Business/innovation-health-indicators.md": {
       "id": 179,
       "name": "Innovation Health Indicators",
-      "category": "Business",
-      "color": "#10B981"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Startups/opportunity-solution-trees.md": {
       "id": 180,
       "name": "Opportunity Solution Trees",
-      "category": "Startups",
-      "color": "#F59E0B"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Startups/pretotyping.md": {
       "id": 181,
       "name": "Pretotyping",
-      "category": "Startups",
-      "color": "#F59E0B"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
     },
     "Startups/continuous-discovery.md": {
       "id": 182,
       "name": "Continuous Discovery",
-      "category": "Startups",
-      "color": "#F59E0B"
+      "category": "Innovation & Entrepreneurship",
+      "color": "#DC2626"
+    },
+    "Applied-AI/ai-authority-boundaries.md": {
+      "id": 183,
+      "name": "AI Authority Boundaries",
+      "category": "Applied AI",
+      "color": "#0369A1"
+    },
+    "Applied-AI/minimal-capability-principle.md": {
+      "id": 184,
+      "name": "Minimal Capability Principle",
+      "category": "Applied AI",
+      "color": "#0369A1"
+    },
+    "Applied-AI/prompt-injection.md": {
+      "id": 185,
+      "name": "Prompt Injection",
+      "category": "Applied AI",
+      "color": "#0369A1"
+    },
+    "Pre-built-Chains/ai-agent-governance-design.md": {
+      "id": 186,
+      "name": "AI Agent Governance Design",
+      "category": "Pre-built Chains",
+      "color": "#7C3AED"
+    },
+    "Pre-built-Chains/ai-use-case-autonomy-assessment.md": {
+      "id": 187,
+      "name": "AI Use Case Autonomy Assessment",
+      "category": "Pre-built Chains",
+      "color": "#7C3AED"
     }
   },
   "refs": [
