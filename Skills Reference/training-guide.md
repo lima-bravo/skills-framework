@@ -5,7 +5,7 @@
 
 ## What This Guide Is For
 
-You now have access to **170 skills** across **15 categories** (159 mental-model cards plus 11 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`, categories 1–12), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
+You have access to **189 skills** across **16 categories** (173 mental-model cards plus 16 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
 
 It covers four things:
 
@@ -26,33 +26,42 @@ The framework has three layers, each suited to different moments:
 
 **The individual skill files (`General-Thinking/`, `Systems/`, etc.)** are your deep-dive layer. When a skill feels relevant but half-understood, open the full file. Read the definition, the failure modes, and the worked example. These are the files you annotate and return to.
 
-**The master document (`Skills Framework.md`)** covers categories 1–12 in one file — best for sequential study of those categories, or for searching with your editor's find function. **Delivery & Flow**, **Consulting Craft**, and **Leadership** (categories 13–15) are in the card deck and per-skill markdown files only until merged into the master document.
+**The master document (`Skills Framework.md`)** covers the core categories in one file — best for sequential study or for searching with your editor's find function.
 
-### The 15 categories and what they're for
+### The 16 categories and what they're for
 
 The categories are not arbitrary. They reflect different levels of abstraction and different types of problem:
 
 | Category | Skills | What it's for |
 |---|---|---|
-| General Thinking | 21 | Any problem; the foundational layer |
+| General Thinking | 23 | Any problem; the foundational layer |
 | Systems | 16 | Understanding how things behave over time |
 | Economics | 13 | Resource allocation, incentives, markets |
 | Physics & Chemistry | 10 | Structural forces and mechanisms |
 | Psychology | 15 | Human behavior and bias |
-| Startups | 9 | New venture creation under uncertainty |
-| Business | 13 | Established organization management |
+| Innovation & Entrepreneurship | 21 | New ventures, products, and innovation programs |
+| Business | 10 | Established organization management and strategy |
 | Mathematics | 7 | Quantitative and logical reasoning |
 | Network Effects | 4 | Platform and ecosystem strategy |
 | Learning | 6 | Building capability deliberately |
 | Art | 4 | Communication and creative expression |
-| Pre-built Chains | 11 | High-stakes recurring decisions (workflows, not single models) |
 | Delivery & Flow | 30 | Throughput, WIP, metrics, org design for flow |
-| Consulting Craft | 5 | Executive communication, engagement, problem structuring |
+| Consulting Craft | 5 | Problem structuring, executive communication, engagement management |
 | Leadership | 6 | Change, culture, governance, trust |
+| Applied AI | 3 | AI governance, authority boundaries, agentic system design |
+| Pre-built Chains | 16 | High-stakes recurring decisions and structured methodologies |
 
-*Skill counts match `skills-manifest.json` (170 total).*
+*Skill counts match `skills-manifest.json` (189 total).*
 
-When you don't know which category applies, start with General Thinking. For delivery, prioritization, or organizational flow questions, filter **Delivery & Flow** or run a chain such as **Improve Delivery Flow**.
+When you don't know which category applies, start with General Thinking. For delivery, prioritization, or organizational flow questions, filter **Delivery & Flow** or run a chain such as **Improve Delivery Flow**. For AI deployment and governance questions, go directly to **Applied AI** and the two AI chains.
+
+### The two types of content in the deck
+
+**Mental model cards** (173 cards across 15 categories) are standalone conceptual tools. Each one describes a pattern — how a specific class of situation tends to work — and gives you practitioner heuristics for applying it. You use them individually or chain them together.
+
+**Pre-built chains** (16 chains in the Pre-built Chains category) are structured multi-step workflows for specific recurring situations. They sequence multiple mental models in the right order. Use a chain when you are facing one of the situations it names — don't build your own chain from scratch for those situations.
+
+The distinction matters: if you are thinking about *whether* to enter a new market, reach for the **Market Entry** chain. If you are diagnosing *why* your team's delivery is slow, reach for **Improve Delivery Flow**. If you are evaluating an AI deployment proposal, reach for **AI Use Case Autonomy Assessment**. For everything else, start with individual cards.
 
 ### The anatomy of a skill entry
 
@@ -88,7 +97,7 @@ Do not try to memorize the framework. Mental models become useful when they are 
 
 ### Prioritizing what to learn first
 
-With 170 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):
+With 189 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):
 
 **Tier 1 — Master these first** (12 skills). These are the highest-utility, most-used models. Most other skills build on them or are checked by them:
 
@@ -107,12 +116,12 @@ With 170 skills, the question of where to start matters. A suggested learning se
 
 **Tier 2 — Learn next** (20 skills). These are the skills you will reach for in most business and strategic contexts:
 
-- Mental models from each category's first half
-- All **11** Pre-built Chains (these teach skill chaining by example)
-- A starter set from **Delivery & Flow** if your work is executive delivery (e.g. Little's Law, WIP Limits, Lead Time vs Cycle Time, Team Topologies)
+- All 16 Pre-built Chains (these teach skill chaining by example)
 - Margin of Safety, Asymmetry/Convexity, Two-Way Doors (decision quality)
-- Product-Market Fit, Customer Development, Build-Measure-Learn (if building products)
-- Maslow, Incentives, McClelland (if managing people)
+- Cynefin Framework, Causal Analysis, Pre-mortem (problem diagnosis)
+- Paradigm Shift, Dominant Logic (understanding why organizations and fields get stuck)
+- A starter set from **Delivery & Flow** if your work involves execution (Little's Law, WIP Limits, Lead Time vs Cycle Time, Team Topologies)
+- AI Authority Boundaries + the two AI chains if you're working on AI deployment
 
 **Tier 3 — Build out over time** (the rest of the deck). Study these as relevant problems arise. The card deck makes it easy to search by keyword when a situation calls for a specific model.
 
@@ -143,6 +152,7 @@ Before selecting models, classify the situation by the type of uncertainty it in
 - *Is this a human/organizational problem?* → Lead with Incentives, Loss Aversion, Maslow
 - *Is this a strategic market question?* → Lead with Monopoly vs. Competition, Network Effects, Creative Destruction
 - *Is this about a plan with high stakes?* → Lead with Inversion / Pre-mortem, Assumption Mapping
+- *Is this an AI deployment or governance question?* → Use the AI Use Case Autonomy Assessment chain directly
 
 **Step 2: Apply the primary model**
 
@@ -166,9 +176,17 @@ After a few weeks of use, you will develop your own intuitions about which model
 
 **People management cluster**: Incentives + Maslow + McClelland + ERG Theory + Loss Aversion + Reciprocity
 
-**Product development cluster**: Product-Market Fit + Build-Measure-Learn + MVP + Customer Development + Assumption Mapping + Value Prop Canvas
+**Product development cluster**: Product-Market Fit + Build-Measure-Learn + MVP + Customer Development + Assumption Mapping + Continuous Discovery + Opportunity Solution Trees
 
-**Communication cluster**: Audience + Framing + Contrast + Rhythm + Anchoring
+**Innovation program cluster**: Three Horizons + Ambidextrous Organization + Organizational Slack + Exploration vs. Exploitation + Innovation Health Indicators
+
+**Why things get stuck cluster**: Dominant Logic + Paradigm Shift + Immunity to Change + Confirmation Bias + Sunk Cost + Inertia
+
+**Communication cluster**: Audience + Framing + Contrast + Rhythm + Anchoring + Pyramid Principle
+
+**AI governance cluster**: AI Authority Boundaries + Minimal Capability Principle + Prompt Injection + Principal–Agent Problem + Two-Way Doors
+
+**Problem structuring cluster** (consulting): MECE + Pyramid Principle + Hypothesis-Driven Consulting + Causal Analysis + Assumption Mapping
 
 ### A chaining worked example
 
@@ -194,11 +212,36 @@ Situation: You are deciding whether to launch a new pricing model that changes f
 
 ### What the chains are
 
-The **11** pre-built chains are curated skill sequences for recurring high-stakes decisions. They are not algorithms — they do not guarantee a conclusion. They are structured interrogation protocols that ensure the most important dimensions of each decision type are considered in the right order.
+The **16** pre-built chains are curated skill sequences for recurring high-stakes situations. They are not algorithms — they do not guarantee a conclusion. They are structured interrogation protocols that ensure the most important dimensions of each situation are considered in the right order.
 
-**Strategic / venture chains (7):** Pricing, Market Entry, Hiring, Product Launch, Investment, Should I Quit, Life Decision.
+The chains fall into three types:
 
-**Flow / operating chains (4):** Capacity Planning, Transformation, Improve Delivery Flow, Org Design for Flow.
+**Decision chains** — for individual high-stakes choices. Run these yourself or with a small group before committing.
+
+**Diagnostic/design chains** — for organizational or systemic situations. These are structured methodologies, closer to a consulting engagement design than a personal decision tool. They produce a written output.
+
+**AI governance chains** — structured pre-deployment assessments for agentic AI systems. These should be run before any AI system goes into production at meaningful autonomy.
+
+### When to use which chain
+
+| Situation | Chain | Type |
+|---|---|---|
+| Setting or changing prices | Pricing Decision | Decision |
+| Entering a new market or geography | Market Entry | Decision |
+| Making a significant hire | Hiring Decision | Decision |
+| Launching a product, feature, or campaign | Product Launch | Decision |
+| Allocating significant capital (financial or strategic) | Investment Decision | Decision |
+| Considering leaving a role, company, or project | Should I Quit | Decision |
+| Any major life choice with long-term implications | Life Decision | Decision |
+| Pressure-testing a team or portfolio capacity plan | Capacity Planning | Decision |
+| Diagnosing what work a team should be doing | Work to Be Done | Diagnostic |
+| Improving end-to-end delivery (lead time, WIP, metrics) | Improve Delivery Flow | Diagnostic |
+| Diagnosing structure vs value stream / dependencies | Org Design for Flow | Diagnostic |
+| Large-scale organizational change | Transformation | Diagnostic |
+| Assessing whether an organization can innovate | Innovation Capability Diagnostic | Diagnostic |
+| Designing and launching an innovation program | Design and Launch an Innovation Program | Diagnostic |
+| Evaluating appropriate autonomy level for an AI use case | AI Use Case Autonomy Assessment | AI Governance |
+| Designing the governance architecture for an agentic system | AI Agent Governance Design | AI Governance |
 
 ### How to run a chain
 
@@ -211,22 +254,6 @@ The **11** pre-built chains are curated skill sequences for recurring high-stake
 **Identify which steps you lack evidence for**. If you cannot answer a step with evidence (only with hope or assumption), that step is a priority test — run an experiment, conduct an interview, or seek an expert before proceeding.
 
 **Run the chain with at least one other person for high-stakes decisions**. Cognitive biases (confirmation bias, loss aversion, sunk cost) are much harder to self-correct than to flag in another person's analysis. A second person running the same chain independently, then comparing answers, surfaces most of the important divergences.
-
-### When to use which chain
-
-| Situation | Chain |
-|---|---|
-| Setting or changing prices | Pricing Decision |
-| Entering a new market or geography | Market Entry |
-| Making a significant hire | Hiring Decision |
-| Launching a product, feature, or campaign | Product Launch |
-| Allocating significant capital (financial or strategic) | Investment Decision |
-| Considering leaving a role, company, or project | Should I Quit |
-| Any major life choice with long-term implications | Life Decision |
-| Pressure-testing a team or portfolio capacity plan | Capacity Planning |
-| Large-scale organizational change | Transformation |
-| Improving end-to-end delivery (lead time, WIP, metrics) | Improve Delivery Flow |
-| Diagnosing structure vs value stream / dependencies | Org Design for Flow |
 
 ---
 
@@ -247,14 +274,6 @@ Mental models become fast and automatic through practice under conditions that r
 **Weekly model card**: Once a week, pick one skill you have not studied recently. Read its full deep-dive file. Spend ten minutes writing a short application: "Where is this model operating in my current work? What would I do differently if I took it seriously?"
 
 **Chain practice**: Once a month, take a real decision you're currently facing and run the relevant pre-built chain. Document each step. At the end, identify the two or three insights that would not have emerged without the chain.
-
-### Learning cohort (if available)
-
-The framework benefits significantly from social learning. If you have colleagues also using it:
-
-**Weekly model discussion**: One person presents a skill — its mental model, its failure modes, and one real application they've observed or used in the past week. Ten minutes, rotating facilitator. The diversity of application contexts is where the richest learning happens.
-
-**Chain review**: When a team is facing a significant decision, run the relevant chain together as a group process. Assign each step as homework; come together to compare answers. Divergences in the answers to the same step are the most valuable moments — they reveal assumption differences that need to be resolved.
 
 ---
 
@@ -282,7 +301,7 @@ Confirmation bias operating through the framework: you want to take a particular
 
 ### Paralysis through completeness
 
-Believing that every decision requires exhaustive model application before action. The framework has 170 skills; applying all of them to any given decision would take weeks. This is not the intent.
+Believing that every decision requires exhaustive model application before action. The framework has 189 skills; applying all of them to any given decision would take weeks. This is not the intent.
 
 **Fix**: Match the rigor of the analysis to the reversibility and stakes of the decision. Two-Way Doors gives you the principle: reversible decisions deserve quick analysis and fast action; irreversible ones deserve deeper analysis. Most decisions are more reversible than they feel.
 
@@ -296,27 +315,93 @@ All mental models are simplifications. The most dangerous failure mode of this e
 
 ## Part 7 — Reference at a Glance
 
-### The most useful skills by situation type
+When you know roughly what kind of situation you're in but aren't sure which skill to start with, use this section as an entry point.
+
+### Thinking and deciding
 
 **You have a bad feeling about something but can't articulate it**: Inversion, Pre-mortem, Ladder of Inference
 
-**Things are moving slowly and you don't know why**: Bottlenecks, Activation Energy, Friction, Inertia
-
-**A team isn't working well**: Incentives, Conway's Law, Feedback Loops, Maslow, ERG Theory
-
-**You're trying to convince someone**: Framing, Anchoring, Reciprocity, Loss Aversion, Audience
-
-**A strategy isn't working as expected**: Second-Order Effects, Map-Territory, Assumption Mapping, Equilibrium
-
 **You need to make a decision quickly**: Two-Way Doors, Probabilistic Thinking, Occam's Razor, First Principles
 
-**You're building something new**: Build-Measure-Learn, MVP, Customer Development, Product-Market Fit
+**You're about to spend significant money or time**: Margin of Safety, Asymmetry/Convexity, Sunk Cost, Trade-offs
 
-**A metric is going the wrong way**: Feedback Loops, Churn, Regression to the Mean, Randomness, Sampling
+**A plan feels fragile but you can't say why**: Assumption Mapping, Pre-mortem, Second-Order Effects, Causal Analysis
 
-**You're thinking about the long term**: Compounding, Network Effects, Creative Destruction, Red Queen Dilemma
+**Two smart people disagree and can't resolve it**: Paradigm Shift (incommensurability), Map-Territory, Ladder of Inference, Cynefin Framework
 
-**You're about to spend significant money or time**: Margin of Safety, Asymmetry/Convexity, Sunk Cost, Opportunity Cost (Trade-offs)
+**You want to pressure-test your own reasoning**: Inversion, Confirmation Bias, Socratic Thinking, Probabilistic Thinking
+
+### Organizational and team problems
+
+**Things are moving slowly and you don't know why**: Bottlenecks, WIP Limits, Activation Energy, Friction, Inertia, Little's Law
+
+**A team isn't working well**: Incentives, Conway's Law, Feedback Loops, Psychological Safety, Trust
+
+**A strategy isn't working as expected**: Second-Order Effects, Map-Territory, Dominant Logic, Assumption Mapping, Paradigm Shift
+
+**You're trying to change something but hitting resistance**: Immunity to Change, Activation Energy, Loss Aversion, Inertia, Change Management
+
+**An organization keeps making the same mistakes**: Dominant Logic, Feedback Loops, Goodhart's Law, Organizational Culture
+
+**You're designing how a team or org should work**: Team Topologies, Conway's Law, Inverse Conway Maneuver, RACI Framework
+
+### Delivery and execution
+
+**A metric is going the wrong way**: Feedback Loops, Churn, Regression to the Mean, Randomness, Goodhart's Law
+
+**Work is piling up and not getting done**: WIP Limits, Little's Law, Bottlenecks, Batch Size Reduction, Queueing
+
+**You're trying to prioritize what to work on**: WSJF, Cost of Delay, OKRs, Kill Criteria, Two-Way Doors
+
+**You need to forecast how long something will take**: Reference Class Forecasting, Probabilistic Forecasting, Planning Fallacy, Statistical Variability
+
+**Your team is producing output but not outcomes**: Outcome vs Output, Feature Factory, Jobs to Be Done, OKRs
+
+### Innovation and new ventures
+
+**You're building something new**: Build-Measure-Learn, MVP, Customer Development, Product-Market Fit, Pretotyping
+
+**You're not sure what to build next**: Opportunity Solution Trees, Continuous Discovery, Jobs to Be Done, Adjacent Possible
+
+**You want to know if your organization can actually innovate**: Run the Innovation Capability Diagnostic chain
+
+**You're setting up an innovation program**: Run the Design and Launch an Innovation Program chain
+
+**An innovation initiative keeps getting blocked**: Ambidextrous Organization, Dominant Logic, Organizational Slack, Three Horizons, Exploration vs. Exploitation
+
+**You're thinking about the long term**: Compounding, Network Effects, Creative Destruction, S-Curves, Red Queen Dilemma, Three Horizons
+
+### Strategy and markets
+
+**You're trying to enter a new market**: Run the Market Entry chain
+
+**You're setting prices**: Run the Pricing Decision chain
+
+**You're thinking about competitive position**: Monopoly vs. Competition, Defensibility, Network Effects, Creative Destruction, Disruptive Innovation
+
+**You're evaluating a significant investment**: Run the Investment Decision chain
+
+**You're trying to understand why an incumbent can't see a new threat**: Paradigm Shift, Dominant Logic, Disruptive Innovation, Confirmation Bias
+
+### People and communication
+
+**You're trying to convince someone**: Framing, Anchoring, Reciprocity, Loss Aversion, Audience, Pyramid Principle
+
+**You're making a significant hire**: Run the Hiring Decision chain
+
+**You need to communicate a complex finding clearly**: Pyramid Principle, MECE, Audience, Contrast, Framing
+
+**You're structuring a complex problem for a client or executive**: Hypothesis-Driven Consulting, MECE, Pyramid Principle, Causal Analysis
+
+### AI and agentic systems
+
+**You're evaluating whether and how to deploy an AI system**: Run the AI Use Case Autonomy Assessment chain
+
+**You're designing governance for an agentic AI system**: Run the AI Agent Governance Design chain
+
+**You need to understand what can go wrong with autonomous agents**: AI Authority Boundaries, Prompt Injection, Minimal Capability Principle
+
+**You're thinking about where human oversight is required**: AI Authority Boundaries (six registers), Two-Way Doors, Principal–Agent Problem
 
 ---
 
@@ -328,6 +413,4 @@ Pick one model from Tier 1 (listed above). Open its card in the deck. Read the m
 
 ---
 
-*Skills Framework v1.2 · 170 skills across 15 categories · canonical counts in `skills-manifest.json`*
-
-**Claude Cowork / Code:** The repo also builds **21 Agent Skills** (toolkits + chains + router) from the same markdown — run `npm run build:cowork` and install plugins from `dist/cowork/`. See the root `README.md`.
+*Skills Framework · 189 skills across 16 categories · canonical counts in `skills-manifest.json`*
