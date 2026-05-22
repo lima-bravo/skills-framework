@@ -745,7 +745,7 @@
     },
     "Economics/principal-agent-problem.md": {
       "id": 121,
-      "name": "Principal–Agent Problem",
+      "name": "Principal\u2013Agent Problem",
       "category": "Economics",
       "color": "#16A34A"
     },
@@ -925,7 +925,7 @@
     },
     "Delivery-and-Flow/one-thing.md": {
       "id": 151,
-      "name": "Strategic Prioritization (“One Thing”)",
+      "name": "Strategic Prioritization (\u201cOne Thing\u201d)",
       "category": "Delivery & Flow",
       "color": "#0891B2"
     },
@@ -1042,6 +1042,78 @@
       "name": "Work to Be Done",
       "category": "Pre-built Chains",
       "color": "#B45309"
+    },
+    "General-Thinking/causal-analysis.md": {
+      "id": 171,
+      "name": "Causal Analysis",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "Business/ambidextrous-organization.md": {
+      "id": 172,
+      "name": "Ambidextrous Organization",
+      "category": "Business",
+      "color": "#10B981"
+    },
+    "Business/dominant-logic.md": {
+      "id": 173,
+      "name": "Dominant Logic",
+      "category": "Business",
+      "color": "#10B981"
+    },
+    "Business/open-innovation.md": {
+      "id": 174,
+      "name": "Open Innovation",
+      "category": "Business",
+      "color": "#10B981"
+    },
+    "Startups/effectuation.md": {
+      "id": 175,
+      "name": "Effectuation",
+      "category": "Startups",
+      "color": "#F59E0B"
+    },
+    "Business/organizational-slack.md": {
+      "id": 176,
+      "name": "Organizational Slack",
+      "category": "Business",
+      "color": "#10B981"
+    },
+    "Pre-built-Chains/innovation-capability-diagnostic.md": {
+      "id": 177,
+      "name": "Innovation Capability Diagnostic",
+      "category": "Pre-built Chains",
+      "color": "#8B5CF6"
+    },
+    "Pre-built-Chains/design-launch-innovation-program.md": {
+      "id": 178,
+      "name": "Design and Launch an Innovation Program",
+      "category": "Pre-built Chains",
+      "color": "#8B5CF6"
+    },
+    "Business/innovation-health-indicators.md": {
+      "id": 179,
+      "name": "Innovation Health Indicators",
+      "category": "Business",
+      "color": "#10B981"
+    },
+    "Startups/opportunity-solution-trees.md": {
+      "id": 180,
+      "name": "Opportunity Solution Trees",
+      "category": "Startups",
+      "color": "#F59E0B"
+    },
+    "Startups/pretotyping.md": {
+      "id": 181,
+      "name": "Pretotyping",
+      "category": "Startups",
+      "color": "#F59E0B"
+    },
+    "Startups/continuous-discovery.md": {
+      "id": 182,
+      "name": "Continuous Discovery",
+      "category": "Startups",
+      "color": "#F59E0B"
     }
   },
   "refs": [
@@ -1068,7 +1140,7 @@
       ]
     },
     {
-      "title": "A Theory of Human Motivation — Psychological Review Vol. 50",
+      "title": "A Theory of Human Motivation \u2014 Psychological Review Vol. 50",
       "authorYear": "Abraham H. Maslow (1943)",
       "skills": [
         {
@@ -1297,7 +1369,7 @@
     },
     {
       "title": "Clear and Simple as the Truth",
-      "authorYear": "Francis-Noël Thomas & Mark Turner (1994)",
+      "authorYear": "Francis-No\u00ebl Thomas & Mark Turner (1994)",
       "skills": [
         {
           "id": 93,
@@ -1422,7 +1494,7 @@
     },
     {
       "title": "Daring Greatly",
-      "authorYear": "Brené Brown (2012)",
+      "authorYear": "Bren\u00e9 Brown (2012)",
       "skills": [
         {
           "id": 104,
@@ -1492,7 +1564,7 @@
     },
     {
       "title": "Discourse on the Method",
-      "authorYear": "René Descartes (1637)",
+      "authorYear": "Ren\u00e9 Descartes (1637)",
       "skills": [
         {
           "id": 0,
@@ -1530,7 +1602,7 @@
     },
     {
       "title": "Elements of Pure Economics",
-      "authorYear": "Léon Walras (1874)",
+      "authorYear": "L\u00e9on Walras (1874)",
       "skills": [
         {
           "id": 20,
@@ -1562,7 +1634,7 @@
       ]
     },
     {
-      "title": "Exploration and Exploitation in Organizational Learning — Organization Science Vol. 2",
+      "title": "Exploration and Exploitation in Organizational Learning \u2014 Organization Science Vol. 2",
       "authorYear": "James G. March (1991)",
       "skills": [
         {
@@ -1628,7 +1700,7 @@
       ]
     },
     {
-      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "title": "G\u00f6del, Escher, Bach: An Eternal Golden Braid",
       "authorYear": "Douglas R. Hofstadter (1979)",
       "skills": [
         {
@@ -1678,7 +1750,7 @@
     },
     {
       "title": "How to Solve It",
-      "authorYear": "George Pólya (1945)",
+      "authorYear": "George P\u00f3lya (1945)",
       "skills": [
         {
           "id": 76,
@@ -1797,7 +1869,7 @@
       ]
     },
     {
-      "title": "Judgment under Uncertainty: Heuristics and Biases — Science Vol. 185",
+      "title": "Judgment under Uncertainty: Heuristics and Biases \u2014 Science Vol. 185",
       "authorYear": "Daniel Kahneman & Amos Tversky (1974)",
       "skills": [
         {
@@ -1895,7 +1967,7 @@
       "skills": [
         {
           "id": 120,
-          "name": "Goodhart’s Law",
+          "name": "Goodhart\u2019s Law",
           "color": "#16A34A"
         }
       ]
@@ -2126,7 +2198,7 @@
         },
         {
           "id": 121,
-          "name": "Principal–Agent Problem",
+          "name": "Principal\u2013Agent Problem",
           "color": "#16A34A"
         }
       ]
@@ -2546,7 +2618,7 @@
       ]
     },
     {
-      "title": "The Cost of Interrupted Work: More Speed and Stress — CHI Proceedings",
+      "title": "The Cost of Interrupted Work: More Speed and Stress \u2014 CHI Proceedings",
       "authorYear": "Gloria Mark, Daniela Gudith & Ulrich Klocke (2008)",
       "skills": [
         {
@@ -2779,7 +2851,7 @@
       "skills": [
         {
           "id": 121,
-          "name": "Principal–Agent Problem",
+          "name": "Principal\u2013Agent Problem",
           "color": "#16A34A"
         }
       ]
@@ -3142,7 +3214,7 @@
     },
     {
       "title": "The Strategy and Tactics of Pricing",
-      "authorYear": "Thomas T. Nagle & Georg Müller (2018)",
+      "authorYear": "Thomas T. Nagle & Georg M\u00fcller (2018)",
       "skills": [
         {
           "id": 94,
@@ -3168,7 +3240,7 @@
       "skills": [
         {
           "id": 120,
-          "name": "Goodhart’s Law",
+          "name": "Goodhart\u2019s Law",
           "color": "#16A34A"
         }
       ]
@@ -3325,7 +3397,7 @@
       ]
     },
     {
-      "title": "Toward a Theory of Stakeholder Identification and Salience — AMR Vol. 22 No. 4",
+      "title": "Toward a Theory of Stakeholder Identification and Salience \u2014 AMR Vol. 22 No. 4",
       "authorYear": "R.K. Mitchell, B.R. Agle & D.J. Wood (1997)",
       "skills": [
         {
