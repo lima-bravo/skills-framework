@@ -44,7 +44,8 @@ A team is planning a new market entry. They list their assumptions and find 35. 
 
 → [**Business Model Canvas**](business-model-canvas.md) — the canvas is the source document from which assumptions are extracted.
 → [**MVP**](../Startups/mvp.md) — the MVP is the cheapest device for testing the most critical assumptions.
-→ [**Experiment Design**](experiment-design.md) — assumption mapping defines what to test; experiment design defines how to test it validly.
+→ [**Experiment Ladder**](../Startups/experiment-ladder.md) — assumption mapping defines what to test; the Experiment Ladder selects which type of experiment is appropriate for each assumption class.
+→ [**Experiment Design**](experiment-design.md) — once the experiment type is selected, experiment design defines how to run it validly — hypothesis, success criteria, sample size.
 
 ---
 
