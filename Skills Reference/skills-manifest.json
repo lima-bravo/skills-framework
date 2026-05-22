@@ -1145,6 +1145,12 @@
       "name": "AI Use Case Autonomy Assessment",
       "category": "Pre-built Chains",
       "color": "#7C3AED"
+    },
+    "General-Thinking/paradigm-shift.md": {
+      "id": 188,
+      "name": "Paradigm Shift",
+      "category": "General Thinking",
+      "color": "#3B82F6"
     }
   },
   "refs": [
