@@ -95,6 +95,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   <h1>Skills Framework <span>Reference Deck</span></h1>
   <input id="search" type="search" placeholder="Search skills, concepts, descriptions…" autocomplete="off" aria-label="Search skills">
   <div id="hdr-actions">
+    <a href="situation-finder.html" class="graph-btn" title="Find skills by situation">⚡ Situation Finder</a>
     <a href="graph.html" class="graph-btn" title="View connection graph">⬡ Graph</a>
     <button type="button" class="graph-btn" id="refs-btn" title="View all sources and references">📚 Sources</button>
     <a href="training-guide.html" class="graph-btn" title="How to use this framework">📖 Guide</a>
@@ -358,6 +359,23 @@ document.getElementById('modal-body').addEventListener('click', e => {
 
 buildFilters();
 render();
+
+// Deep-link support: ?open=ID opens a skill modal on load
+// ?q=text pre-populates the search field
+(function() {
+  const params = new URLSearchParams(window.location.search);
+  const q = params.get('q');
+  const openId = params.get('open');
+  if (q) {
+    const inp = document.getElementById('search');
+    if (inp) { inp.value = q; render(); }
+  }
+  if (openId != null) {
+    const id = parseInt(openId, 10);
+    const skill = SKILLS.find(s => s.id === id);
+    if (skill) setTimeout(() => openModal(skill), 80);
+  }
+})();
 
 </script>
 </body>

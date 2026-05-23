@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Situation Finder — Skills Framework</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0F172A;--surface:#1E293B;--surface2:#263245;--border:#334155;
+  --text:#F1F5F9;--muted:#94A3B8;--accent:#3B82F6;--accent2:#60A5FA;
+  --pill-bg:#334155;--pill-hover:#3B4F66;
+}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh}
+
+/* ── header ── */
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:.6rem 1.25rem;display:flex;align-items:center;gap:.9rem;flex-wrap:wrap;position:sticky;top:0;z-index:20}
+.logo{font-size:.8rem;font-weight:700;letter-spacing:.04em;color:var(--muted);white-space:nowrap}
+.logo span{color:var(--text)}
+#search{flex:1;min-width:200px;max-width:420px;padding:.4rem .8rem;background:var(--bg);border:1px solid var(--border);border-radius:999px;color:var(--text);font-size:.83rem;outline:none;transition:border-color .15s}
+#search:focus{border-color:var(--accent)}
+#search::placeholder{color:var(--muted)}
+.nav-links{display:flex;gap:.5rem;margin-left:auto}
+.nav-btn{font-size:.72rem;font-weight:600;color:var(--muted);text-decoration:none;padding:.28rem .7rem;border:1px solid var(--border);border-radius:999px;letter-spacing:.04em;transition:color .15s,border-color .15s;white-space:nowrap}
+.nav-btn:hover{color:var(--text);border-color:var(--muted)}
+
+/* ── layout ── */
+main{max-width:1200px;margin:0 auto;padding:1.5rem 1.25rem 3rem}
+.intro{font-size:.82rem;color:var(--muted);margin-bottom:1.6rem;line-height:1.55;max-width:620px}
+.intro strong{color:var(--text)}
+
+/* ── sections ── */
+.section{margin-bottom:2rem}
+.section-label{font-size:.64rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:.75rem;padding-left:.1rem}
+
+/* ── situation grid ── */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:.65rem}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:.85rem 1rem;transition:border-color .15s}
+.card:hover{border-color:#475569}
+.card.hidden{display:none}
+.situation{font-size:.82rem;font-weight:600;color:var(--text);margin-bottom:.6rem;line-height:1.4}
+.skills{display:flex;flex-direction:column;gap:.35rem}
+
+/* ── skill pills ── */
+.pill{display:flex;flex-direction:column;padding:.42rem .65rem;background:var(--pill-bg);border-radius:7px;cursor:pointer;text-decoration:none;transition:background .12s,transform .1s;border:1px solid transparent}
+.pill:hover{background:var(--pill-hover);border-color:var(--border);transform:translateX(2px)}
+.pill-name{font-size:.77rem;font-weight:700;color:var(--accent2);line-height:1.2}
+.pill-tag{font-size:.68rem;color:var(--muted);margin-top:.15rem;line-height:1.35}
+.chain-pill{border-left:2px solid #B45309}
+.chain-pill .pill-name{color:#FCD34D}
+
+/* ── chain badge ── */
+.chain-badge{font-size:.58rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;background:#B45309;color:#fff;border-radius:3px;padding:.06rem .3rem;margin-left:.35rem;vertical-align:middle}
+
+/* ── empty state ── */
+#empty{display:none;text-align:center;padding:3rem 1rem;color:var(--muted)}
+#empty p{font-size:.85rem}
+
+/* ── responsive ── */
+@media(max-width:600px){
+  .grid{grid-template-columns:1fr}
+  .nav-links{display:none}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo"><span>Situation Finder</span> · Skills Framework</div>
+  <input id="search" type="search" placeholder="Describe your situation…" autocomplete="off">
+  <nav class="nav-links">
+    <a href="index.html" class="nav-btn">⊞ Card Deck</a>
+    <a href="graph.html" class="nav-btn">⬡ Graph</a>
+    <a href="training-guide.html" class="nav-btn">Guide</a>
+  </nav>
+</header>
+
+<main>
+  <p class="intro">Describe what you're facing and the relevant skills appear. Or browse by situation below. <strong>Click any skill</strong> to open the full card.</p>
+
+  <div id="sections"></div>
+  <div id="empty"><p>No situations match — try different keywords, or <a href="index.html" style="color:var(--accent)">search the full deck</a>.</p></div>
+</main>
+
+<script>
+// ── Skill data ────────────────────────────────────────────────────────────────
+// id, name, tagline (truncated for speed), chain flag
+const S = (id, name, tag, chain) => ({id, name, tag, chain:!!chain});
+const DECK = 'index.html';
+const link = s => s.chain ? `${DECK}?q=${encodeURIComponent(s.name)}` : `${DECK}?open=${s.id}`;
+
+// ── Situation map ─────────────────────────────────────────────────────────────
+const SECTIONS = [
+  {
+    label: 'Thinking & Deciding',
+    situations: [
+      { q: 'bad feeling something wrong can\'t articulate gut instinct',
+        label: 'You have a bad feeling you can\'t articulate',
+        skills: [S(1,'Inversion','Flip the question — what would have to be true for this to fail?'),
+                 S(10,'Pre-mortem','Imagine it\'s already failed — what went wrong?'),
+                 S(73,'Assumption Mapping','Surface and prioritise the beliefs the plan depends on')] },
+      { q: 'decision quickly fast urgent time pressure',
+        label: 'You need to make a decision quickly',
+        skills: [S(16,'Two-Way Doors','Reversible decisions deserve speed; irreversible ones deserve deliberation'),
+                 S(7,'Probabilistic Thinking','Think in distributions, not outcomes'),
+                 S(0,'First Principles','Strip away inherited assumptions, reason from the ground up')] },
+      { q: 'spending money time resource commit investment',
+        label: 'You\'re about to commit significant money or time',
+        skills: [S(53,'Sunk Cost','Past investment should not drive future decisions'),
+                 S(73,'Assumption Mapping','Surface and prioritise the beliefs the plan depends on'),
+                 S(10,'Pre-mortem','Imagine it\'s already failed — what went wrong?')] },
+      { q: 'plan fragile uncertain risk wrong assumption',
+        label: 'A plan feels fragile but you can\'t say why',
+        skills: [S(73,'Assumption Mapping','Surface and prioritise the beliefs the plan depends on'),
+                 S(2,'Second-Order Effects','What happens after what happens?'),
+                 S(10,'Pre-mortem','Imagine it\'s already failed — what went wrong?')] },
+      { q: 'pressure test reasoning bias blind spot challenge',
+        label: 'You want to challenge your own reasoning',
+        skills: [S(1,'Inversion','Flip the question — what would have to be true for this to fail?'),
+                 S(55,'Confirmation Bias','We seek evidence that confirms what we already believe'),
+                 S(7,'Probabilistic Thinking','Think in distributions, not outcomes')] },
+    ]
+  },
+  {
+    label: 'Teams & People',
+    situations: [
+      { q: 'slow moving stuck bottleneck not getting done throughput',
+        label: 'Things are moving slowly and you don\'t know why',
+        skills: [S(18,'Bottlenecks','The constraint that governs throughput — fix here, not elsewhere'),
+                 S(132,'WIP Limits','Explicit caps on in-progress work that pull rather than push'),
+                 S(17,'Feedback Loops','Outputs that become inputs — find where the signal is missing')] },
+      { q: 'team not working conflict tension trust collaboration',
+        label: 'A team isn\'t working well together',
+        skills: [S(104,'Psychological Safety','Safe to speak up, admit mistakes, challenge assumptions'),
+                 S(51,'Incentives','Behaviour follows reward structures — check the incentives first'),
+                 S(17,'Feedback Loops','Outputs that become inputs — find where the signal is missing')] },
+      { q: 'change resistance pushback stuck won\'t adopt',
+        label: 'You\'re trying to change something but hitting resistance',
+        skills: [S(167,'Immunity to Change','Why rational plans fail — hidden competing commitments'),
+                 S(52,'Loss Aversion','Losses hurt more than equivalent gains feel good'),
+                 S(125,'Change Management','Kotter\'s 8 steps: the human-side architecture of transformation')] },
+      { q: 'same mistakes repeat pattern not learning organisation',
+        label: 'The organisation keeps repeating the same mistakes',
+        skills: [S(173,'Dominant Logic','How past success becomes future blindspot'),
+                 S(124,'Organizational Culture','What people actually believe about authority, failure and trust'),
+                 S(17,'Feedback Loops','Outputs that become inputs — find where the signal is missing')] },
+      { q: 'design team structure org roles reporting Conway',
+        label: 'You\'re designing how a team or org should work',
+        skills: [S(154,'Team Topologies','Four team types and three interaction modes for fast flow'),
+                 S(28,'Conway\'s Law','Systems mirror the communication structures that build them'),
+                 S(127,'RACI Framework','One Accountable per activity — makes accountability visible')] },
+      { q: 'shared understanding brief misaligned execution project',
+        label: 'Your team loses shared understanding during a project',
+        skills: [S(194,'Leader\'s Intent','Purpose, key tasks, end state — guides judgment when the plan breaks'),
+                 S(195,'Brief-Back Protocols','Two checkpoints that close the gap between intent and execution'),
+                 S(118,'Mission Command','Communicate intent, not method — trust the person closest to the problem')] },
+      { q: 'purpose meaning why work matters motivation engagement',
+        label: 'People can\'t say why their work matters',
+        skills: [S(193,'Purpose Clarity','If your team can\'t say it in 30 seconds, that\'s a leadership diagnostic'),
+                 S(192,'Self-Determination Theory','Autonomy, competence, relatedness — the three conditions for intrinsic motivation'),
+                 S(118,'Mission Command','Communicate intent, not method — trust the person closest to the problem')] },
+      { q: 'meetings too many calendar waste time sync',
+        label: 'Meetings are consuming your team\'s calendar',
+        skills: [S(191,'Async-First Default','Default to writing; a meeting needs an affirmative case for real-time exchange'),
+                 S(190,'Three-Question Ritual','Three questions that close any meeting: decision, owner, who needs to know'),
+                 S(116,'Maker\'s Schedule vs. Manager\'s Schedule','One meeting in a maker\'s afternoon costs the whole block')] },
+    ]
+  },
+  {
+    label: 'Execution & Delivery',
+    situations: [
+      { q: 'metric wrong KPI number declining performance',
+        label: 'A metric is going the wrong way',
+        skills: [S(17,'Feedback Loops','Find where the system is amplifying the wrong signal'),
+                 S(2,'Second-Order Effects','What happens after what happens — trace the chain'),
+                 S(55,'Confirmation Bias','Check whether you\'re only looking at data that confirms the story')] },
+      { q: 'work piling up queue backlog not shipping',
+        label: 'Work is piling up and not getting shipped',
+        skills: [S(132,'WIP Limits','Explicit caps on in-progress work that pull rather than push'),
+                 S(18,'Bottlenecks','Fix the constraint — improvements elsewhere don\'t move throughput'),
+                 S(17,'Feedback Loops','Outputs that become inputs — find where flow is blocked')] },
+      { q: 'prioritise prioritization what to work on next',
+        label: 'You need to prioritise what to work on',
+        skills: [S(137,'Cost of Delay','The economic value of completing something one period sooner'),
+                 S(152,'OKRs','Outcome-anchored alignment — what matters and how you\'ll measure it'),
+                 S(16,'Two-Way Doors','Reversible decisions deserve speed; irreversible ones deserve deliberation')] },
+      { q: 'output outcomes busy not moving needle feature factory',
+        label: 'The team is busy but not moving the needle',
+        skills: [S(103,'Jobs to Be Done','People hire products to make progress in a moment of struggle'),
+                 S(152,'OKRs','Outcome-anchored alignment — are you measuring what matters?'),
+                 S(73,'Assumption Mapping','Surface and prioritise the beliefs the plan depends on')] },
+      { q: 'project off track derailed mid execution wrong direction',
+        label: 'A project has gone off track mid-execution',
+        skills: [S(197,'Tactical Pause','Deliberate halt: stop, gather, think, move — takes minutes, saves weeks'),
+                 S(119,'OODA Loop','Observe, Orient, Decide, Act — reset the decision cycle'),
+                 S(194,'Leader\'s Intent','Return to purpose and end state when the plan breaks')] },
+      { q: 'learning retrospective after project review lessons',
+        label: 'Teams aren\'t learning from completed projects',
+        skills: [S(196,'After-Action Review','Four questions, immediately after, by the people who did the work'),
+                 S(11,'Post-mortem','Structural learning from what happened — without blame'),
+                 S(17,'Feedback Loops','Outputs that become inputs — close the loop deliberately')] },
+      { q: 'launching project brief team kickoff shared understanding',
+        label: 'Launching a project and need shared understanding from the start',
+        skills: [S(0,'Mission Execution Protocol','6-step protocol: intent → brief-back → execute → pause → learn', true),
+                 S(194,'Leader\'s Intent','Purpose, key tasks, end state — brief before any plan'),
+                 S(195,'Brief-Back Protocols','Close the comprehension gap before resources are committed')] },
+    ]
+  },
+  {
+    label: 'Strategy & Markets',
+    situations: [
+      { q: 'new market enter expand geography segment',
+        label: 'You\'re considering entering a new market',
+        skills: [S(0,'Market Entry','Structured assessment across attractiveness, fit, and path to scale', true)] },
+      { q: 'pricing price strategy model change',
+        label: 'You need to set or change pricing',
+        skills: [S(0,'Pricing Decision','Full chain: value, cost floor, competitive ceiling, and customer psychology', true)] },
+      { q: 'competition competitive position moat advantage defend',
+        label: 'You\'re thinking about competitive position',
+        skills: [S(82,'Network Effects','Value increases with every additional participant — check if you have them'),
+                 S(173,'Dominant Logic','How past success becomes future blindspot for incumbents'),
+                 S(2,'Second-Order Effects','What does your move cause competitors and customers to do next?')] },
+      { q: 'incumbent threat disruption can\'t see blind spot',
+        label: 'An incumbent can\'t see an emerging threat',
+        skills: [S(173,'Dominant Logic','How past success becomes future blindspot'),
+                 S(55,'Confirmation Bias','We seek evidence that confirms what we already believe'),
+                 S(2,'Second-Order Effects','What happens after what happens?')] },
+      { q: 'long term future horizon compounding platform',
+        label: 'You\'re making long-term strategic decisions',
+        skills: [S(82,'Network Effects','Value increases with every additional participant'),
+                 S(113,'Three Horizons','Manage core, emerging, and future businesses simultaneously'),
+                 S(2,'Second-Order Effects','What happens after what happens?')] },
+    ]
+  },
+  {
+    label: 'Innovation',
+    situations: [
+      { q: 'building new product service startup validate',
+        label: 'You\'re building something new and need to validate it',
+        skills: [S(63,'Build-Measure-Learn','Validated learning in minimum iterations'),
+                 S(62,'Product-Market Fit','The product satisfies a strong market need — test before scaling'),
+                 S(103,'Jobs to Be Done','What progress is the customer trying to make?')] },
+      { q: 'what to build next roadmap discovery opportunity',
+        label: 'You\'re not sure what to build next',
+        skills: [S(103,'Jobs to Be Done','People hire products to make progress in a moment of struggle'),
+                 S(73,'Assumption Mapping','Surface and prioritise the beliefs the plan depends on')] },
+      { q: 'innovation capability can organization actually innovate',
+        label: 'You\'re unsure if your org can actually innovate',
+        skills: [S(0,'Innovation Capability Diagnostic','Structured assessment of innovation readiness across five dimensions', true)] },
+      { q: 'innovation program lab venture studio set up',
+        label: 'You\'re setting up an innovation programme',
+        skills: [S(0,'Design and Launch an Innovation Program','End-to-end chain: from diagnosis to operating model', true),
+                 S(113,'Three Horizons','Manage core, emerging, and future businesses simultaneously')] },
+    ]
+  },
+  {
+    label: 'Communication & Influence',
+    situations: [
+      { q: 'convince persuade stakeholder buy-in resistant',
+        label: 'You need to convince someone who is resistant',
+        skills: [S(52,'Loss Aversion','Losses hurt more than equivalent gains — frame around what they\'d lose'),
+                 S(51,'Incentives','Behaviour follows reward structures — align with what they care about'),
+                 S(104,'Psychological Safety','Create safety before expecting openness to change')] },
+      { q: 'communicate finding insight complex executive senior',
+        label: 'You need to communicate a complex finding clearly',
+        skills: [S(163,'Pyramid Principle','Answer first — then support, then evidence'),
+                 S(162,'MECE','Mutually Exclusive, Collectively Exhaustive — the structure of clear thinking'),
+                 S(91,'Framing','The frame shapes how the content is received')] },
+      { q: 'structure problem client consulting diagnosis',
+        label: 'You need to structure a complex problem for an executive',
+        skills: [S(162,'MECE','Mutually Exclusive, Collectively Exhaustive — no gaps, no overlaps'),
+                 S(163,'Pyramid Principle','Answer first — then support, then evidence'),
+                 S(73,'Assumption Mapping','Surface and prioritise the beliefs the plan depends on')] },
+      { q: 'hiring hire recruit significant role team',
+        label: 'You\'re making a significant hire',
+        skills: [S(0,'Hiring Decision','Structured chain: role design, evaluation, and decision criteria', true)] },
+    ]
+  },
+  {
+    label: 'AI & Agentic Systems',
+    situations: [
+      { q: 'deploy AI system autonomy assessment evaluate',
+        label: 'You\'re evaluating whether and how to deploy an AI system',
+        skills: [S(0,'AI Use Case Autonomy Assessment','Pre-deployment chain: authority, reversibility, and oversight design', true)] },
+      { q: 'AI governance design agentic architecture oversight',
+        label: 'You\'re designing governance for an agentic AI system',
+        skills: [S(0,'AI Agent Governance Design','Full governance architecture for autonomous AI systems', true)] },
+      { q: 'AI go wrong risk failure autonomous agent',
+        label: 'You need to understand what can go wrong with AI agents',
+        skills: [S(183,'AI Authority Boundaries','Where AI may not become a decision-maker — the six registers'),
+                 S(16,'Two-Way Doors','Reversible decisions deserve speed; irreversible ones require human oversight')] },
+    ]
+  },
+];
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function buildSections(query) {
+  const q = (query || '').toLowerCase().trim();
+  const container = document.getElementById('sections');
+  container.innerHTML = '';
+  let anyVisible = false;
+
+  SECTIONS.forEach(sec => {
+    const matchingSits = sec.situations.filter(sit => {
+      if (!q) return true;
+      const haystack = (sit.label + ' ' + sit.q + ' ' + sit.skills.map(s => s.name + ' ' + s.tag).join(' ')).toLowerCase();
+      return q.split(/\s+/).every(word => haystack.includes(word));
+    });
+    if (!matchingSits.length) return;
+    anyVisible = true;
+
+    const secEl = document.createElement('div');
+    secEl.className = 'section';
+    secEl.innerHTML = `<div class="section-label">${sec.label}</div>`;
+
+    const grid = document.createElement('div');
+    grid.className = 'grid';
+
+    matchingSits.forEach(sit => {
+      const card = document.createElement('div');
+      card.className = 'card';
+
+      const sitLabel = document.createElement('div');
+      sitLabel.className = 'situation';
+      sitLabel.textContent = sit.label;
+      card.appendChild(sitLabel);
+
+      const skillList = document.createElement('div');
+      skillList.className = 'skills';
+      sit.skills.forEach(sk => {
+        const a = document.createElement('a');
+        a.className = 'pill' + (sk.chain ? ' chain-pill' : '');
+        a.href = link(sk);
+        // For chains, open in same tab and search; for skills, open card directly
+        a.innerHTML = `<span class="pill-name">${sk.name}${sk.chain ? '<span class="chain-badge">chain</span>' : ''}</span><span class="pill-tag">${sk.tag}</span>`;
+        skillList.appendChild(a);
+      });
+      card.appendChild(skillList);
+      grid.appendChild(card);
+    });
+
+    secEl.appendChild(grid);
+    container.appendChild(secEl);
+  });
+
+  document.getElementById('empty').style.display = anyVisible ? 'none' : 'block';
+}
+
+// ── Search ────────────────────────────────────────────────────────────────────
+let debounceTimer;
+document.getElementById('search').addEventListener('input', e => {
+  clearTimeout(debounceTimer);
+  debounceTimer = setTimeout(() => buildSections(e.target.value), 120);
+});
+
+buildSections('');
+</script>
+</body>
+</html>

@@ -5,7 +5,7 @@
 
 ## What This Guide Is For
 
-You have access to **189 skills** across **16 categories** (173 mental-model cards plus 16 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
+You have access to **199 skills** across **16 categories** (182 mental-model cards plus 17 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
 
 It covers four things:
 
@@ -38,7 +38,7 @@ The categories are not arbitrary. They reflect different levels of abstraction a
 | Systems | 16 | Understanding how things behave over time |
 | Economics | 13 | Resource allocation, incentives, markets |
 | Physics & Chemistry | 10 | Structural forces and mechanisms |
-| Psychology | 15 | Human behavior and bias |
+| Psychology | 16 | Human behavior, bias, and motivation |
 | Innovation & Entrepreneurship | 21 | New ventures, products, and innovation programs |
 | Business | 10 | Established organization management and strategy |
 | Mathematics | 7 | Quantitative and logical reasoning |
@@ -47,19 +47,19 @@ The categories are not arbitrary. They reflect different levels of abstraction a
 | Art | 4 | Communication and creative expression |
 | Delivery & Flow | 30 | Throughput, WIP, metrics, org design for flow |
 | Consulting Craft | 5 | Problem structuring, executive communication, engagement management |
-| Leadership | 6 | Change, culture, governance, trust |
+| Leadership | 13 | Change, culture, governance, trust, operational execution, meeting discipline |
 | Applied AI | 3 | AI governance, authority boundaries, agentic system design |
-| Pre-built Chains | 16 | High-stakes recurring decisions and structured methodologies |
+| Pre-built Chains | 17 | High-stakes recurring decisions and structured methodologies |
 
-*Skill counts match `skills-manifest.json` (189 total).*
+*Skill counts match `skills-manifest.json` (199 total).*
 
 When you don't know which category applies, start with General Thinking. For delivery, prioritization, or organizational flow questions, filter **Delivery & Flow** or run a chain such as **Improve Delivery Flow**. For AI deployment and governance questions, go directly to **Applied AI** and the two AI chains.
 
 ### The two types of content in the deck
 
-**Mental model cards** (173 cards across 15 categories) are standalone conceptual tools. Each one describes a pattern — how a specific class of situation tends to work — and gives you practitioner heuristics for applying it. You use them individually or chain them together.
+**Mental model cards** (182 cards across 15 categories) are standalone conceptual tools. Each one describes a pattern — how a specific class of situation tends to work — and gives you practitioner heuristics for applying it. You use them individually or chain them together.
 
-**Pre-built chains** (16 chains in the Pre-built Chains category) are structured multi-step workflows for specific recurring situations. They sequence multiple mental models in the right order. Use a chain when you are facing one of the situations it names — don't build your own chain from scratch for those situations.
+**Pre-built chains** (17 chains in the Pre-built Chains category) are structured multi-step workflows for specific recurring situations. They sequence multiple mental models in the right order. Use a chain when you are facing one of the situations it names — don't build your own chain from scratch for those situations.
 
 The distinction matters: if you are thinking about *whether* to enter a new market, reach for the **Market Entry** chain. If you are diagnosing *why* your team's delivery is slow, reach for **Improve Delivery Flow**. If you are evaluating an AI deployment proposal, reach for **AI Use Case Autonomy Assessment**. For everything else, start with individual cards.
 
@@ -116,7 +116,7 @@ With 189 skills, the question of where to start matters. A suggested learning se
 
 **Tier 2 — Learn next** (20 skills). These are the skills you will reach for in most business and strategic contexts:
 
-- All 16 Pre-built Chains (these teach skill chaining by example)
+- All 17 Pre-built Chains (these teach skill chaining by example)
 - Margin of Safety, Asymmetry/Convexity, Two-Way Doors (decision quality)
 - Cynefin Framework, Causal Analysis, Pre-mortem (problem diagnosis)
 - Paradigm Shift, Dominant Logic (understanding why organizations and fields get stuck)
@@ -174,7 +174,7 @@ After a few weeks of use, you will develop your own intuitions about which model
 
 **Market strategy cluster**: Monopoly vs. Competition + Network Effects + Creative Destruction + Defensibility + Red Queen Dilemma
 
-**People management cluster**: Incentives + Maslow + McClelland + ERG Theory + Loss Aversion + Reciprocity
+**People management cluster**: Incentives + Maslow + McClelland + ERG Theory + Self-Determination Theory + Loss Aversion + Reciprocity + Purpose Clarity
 
 **Product development cluster**: Product-Market Fit + Build-Measure-Learn + MVP + Customer Development + Assumption Mapping + Continuous Discovery + Opportunity Solution Trees
 
@@ -185,6 +185,12 @@ After a few weeks of use, you will develop your own intuitions about which model
 **Communication cluster**: Audience + Framing + Contrast + Rhythm + Anchoring + Pyramid Principle
 
 **AI governance cluster**: AI Authority Boundaries + Minimal Capability Principle + Prompt Injection + Principal–Agent Problem + Two-Way Doors
+
+**Operational execution cluster**: Leader's Intent + Brief-Back Protocols + Mission Command + Tactical Pause + After-Action Review + OODA Loop
+
+**Meeting discipline cluster**: Async-First Default + Three-Question Ritual + Maker's Schedule + RACI Framework
+
+**Motivation and purpose cluster**: Self-Determination Theory + ERG Theory + Purpose Clarity + Psychological Safety + Incentives
 
 **Problem structuring cluster** (consulting): MECE + Pyramid Principle + Hypothesis-Driven Consulting + Causal Analysis + Assumption Mapping
 
@@ -212,7 +218,7 @@ Situation: You are deciding whether to launch a new pricing model that changes f
 
 ### What the chains are
 
-The **16** pre-built chains are curated skill sequences for recurring high-stakes situations. They are not algorithms — they do not guarantee a conclusion. They are structured interrogation protocols that ensure the most important dimensions of each situation are considered in the right order.
+The **17** pre-built chains are curated skill sequences for recurring high-stakes situations. They are not algorithms — they do not guarantee a conclusion. They are structured interrogation protocols that ensure the most important dimensions of each situation are considered in the right order.
 
 The chains fall into three types:
 
@@ -240,6 +246,7 @@ The chains fall into three types:
 | Large-scale organizational change | Transformation | Diagnostic |
 | Assessing whether an organization can innovate | Innovation Capability Diagnostic | Diagnostic |
 | Designing and launching an innovation program | Design and Launch an Innovation Program | Diagnostic |
+| Launching a project requiring shared understanding and adaptive execution | Mission Execution Protocol | Diagnostic |
 | Evaluating appropriate autonomy level for an AI use case | AI Use Case Autonomy Assessment | AI Governance |
 | Designing the governance architecture for an agentic system | AI Agent Governance Design | AI Governance |
 
@@ -345,6 +352,12 @@ When you know roughly what kind of situation you're in but aren't sure which ski
 
 **You're designing how a team or org should work**: Team Topologies, Conway's Law, Inverse Conway Maneuver, RACI Framework
 
+**Your team loses shared understanding during a project**: Leader's Intent, Brief-Back Protocols, Mission Command, Purpose Clarity
+
+**People on your team can't say why their work matters**: Purpose Clarity, Self-Determination Theory, Mission Command
+
+**Meetings are consuming your team's calendar**: Async-First Default, Three-Question Ritual, Maker's Schedule
+
 ### Delivery and execution
 
 **A metric is going the wrong way**: Feedback Loops, Churn, Regression to the Mean, Randomness, Goodhart's Law
@@ -356,6 +369,10 @@ When you know roughly what kind of situation you're in but aren't sure which ski
 **You need to forecast how long something will take**: Reference Class Forecasting, Probabilistic Forecasting, Planning Fallacy, Statistical Variability
 
 **Your team is producing output but not outcomes**: Outcome vs Output, Feature Factory, Jobs to Be Done, OKRs
+
+**A project has gone off track mid-execution**: Tactical Pause, OODA Loop, Leader's Intent
+
+**Teams aren't learning from completed projects**: After-Action Review, Post-mortem, Feedback Loops
 
 ### Innovation and new ventures
 
@@ -413,4 +430,4 @@ Pick one model from Tier 1 (listed above). Open its card in the deck. Read the m
 
 ---
 
-*Skills Framework · 189 skills across 16 categories · canonical counts in `skills-manifest.json`*
+*Skills Framework · 199 skills across 16 categories · canonical counts in `skills-manifest.json`*
