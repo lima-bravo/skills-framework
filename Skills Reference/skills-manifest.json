@@ -1169,6 +1169,48 @@
       "name": "Async-First Default",
       "category": "Leadership",
       "color": "#1E40AF"
+    },
+    "Psychology/self-determination-theory.md": {
+      "id": 192,
+      "name": "Self-Determination Theory",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Leadership/purpose-clarity.md": {
+      "id": 193,
+      "name": "Purpose Clarity",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "Leadership/leaders-intent.md": {
+      "id": 194,
+      "name": "Leader's Intent",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "Leadership/brief-back-protocols.md": {
+      "id": 195,
+      "name": "Brief-Back Protocols",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "Leadership/after-action-review.md": {
+      "id": 196,
+      "name": "After-Action Review",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "Leadership/tactical-pause.md": {
+      "id": 197,
+      "name": "Tactical Pause",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "Pre-built-Chains/mission-execution-protocol.md": {
+      "id": 198,
+      "name": "Mission Execution Protocol",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
     }
   },
   "refs": [
