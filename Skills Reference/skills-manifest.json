@@ -1157,6 +1157,18 @@
       "name": "Experiment Ladder",
       "category": "Innovation & Entrepreneurship",
       "color": "#DC2626"
+    },
+    "Leadership/three-question-ritual.md": {
+      "id": 190,
+      "name": "Three-Question Ritual",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "Leadership/async-first-default.md": {
+      "id": 191,
+      "name": "Async-First Default",
+      "category": "Leadership",
+      "color": "#1E40AF"
     }
   },
   "refs": [
