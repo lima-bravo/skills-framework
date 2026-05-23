@@ -1211,6 +1211,66 @@
       "name": "Mission Execution Protocol",
       "category": "Pre-built Chains",
       "color": "#B45309"
+    },
+    "Psychology/survivorship-bias.md": {
+      "id": 199,
+      "name": "Survivorship Bias",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Psychology/fundamental-attribution-error.md": {
+      "id": 200,
+      "name": "Fundamental Attribution Error",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Psychology/hindsight-bias.md": {
+      "id": 201,
+      "name": "Hindsight Bias",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Psychology/social-proof.md": {
+      "id": 202,
+      "name": "Social Proof",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Psychology/narrative-instinct.md": {
+      "id": 203,
+      "name": "Narrative Instinct",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Psychology/falsification.md": {
+      "id": 204,
+      "name": "Falsification",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Psychology/commitment-consistency-bias.md": {
+      "id": 205,
+      "name": "Commitment & Consistency Bias",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Psychology/base-rate-neglect.md": {
+      "id": 206,
+      "name": "Base Rate Neglect",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Psychology/srk-framework.md": {
+      "id": 207,
+      "name": "SRK Framework",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Systems/drift-to-failure.md": {
+      "id": 208,
+      "name": "Drift to Failure",
+      "category": "Systems",
+      "color": "#0D9488"
     }
   },
   "refs": [

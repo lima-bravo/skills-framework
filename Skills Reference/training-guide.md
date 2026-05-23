@@ -5,7 +5,7 @@
 
 ## What This Guide Is For
 
-You have access to **199 skills** across **16 categories** (182 mental-model cards plus 17 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
+You have access to **209 skills** across **16 categories** (192 mental-model cards plus 17 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
 
 It covers four things:
 
@@ -35,10 +35,10 @@ The categories are not arbitrary. They reflect different levels of abstraction a
 | Category | Skills | What it's for |
 |---|---|---|
 | General Thinking | 23 | Any problem; the foundational layer |
-| Systems | 16 | Understanding how things behave over time |
+| Systems | 17 | Understanding how things behave over time |
 | Economics | 13 | Resource allocation, incentives, markets |
 | Physics & Chemistry | 10 | Structural forces and mechanisms |
-| Psychology | 16 | Human behavior, bias, and motivation |
+| Psychology | 25 | Human behavior, bias, and motivation |
 | Innovation & Entrepreneurship | 21 | New ventures, products, and innovation programs |
 | Business | 10 | Established organization management and strategy |
 | Mathematics | 7 | Quantitative and logical reasoning |
@@ -51,13 +51,13 @@ The categories are not arbitrary. They reflect different levels of abstraction a
 | Applied AI | 3 | AI governance, authority boundaries, agentic system design |
 | Pre-built Chains | 17 | High-stakes recurring decisions and structured methodologies |
 
-*Skill counts match `skills-manifest.json` (199 total).*
+*Skill counts match `skills-manifest.json` (209 total).*
 
 When you don't know which category applies, start with General Thinking. For delivery, prioritization, or organizational flow questions, filter **Delivery & Flow** or run a chain such as **Improve Delivery Flow**. For AI deployment and governance questions, go directly to **Applied AI** and the two AI chains.
 
 ### The two types of content in the deck
 
-**Mental model cards** (182 cards across 15 categories) are standalone conceptual tools. Each one describes a pattern — how a specific class of situation tends to work — and gives you practitioner heuristics for applying it. You use them individually or chain them together.
+**Mental model cards** (192 cards across 15 categories) are standalone conceptual tools. Each one describes a pattern — how a specific class of situation tends to work — and gives you practitioner heuristics for applying it. You use them individually or chain them together.
 
 **Pre-built chains** (17 chains in the Pre-built Chains category) are structured multi-step workflows for specific recurring situations. They sequence multiple mental models in the right order. Use a chain when you are facing one of the situations it names — don't build your own chain from scratch for those situations.
 
@@ -97,7 +97,7 @@ Do not try to memorize the framework. Mental models become useful when they are 
 
 ### Prioritizing what to learn first
 
-With 189 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):
+With 209 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):
 
 **Tier 1 — Master these first** (12 skills). These are the highest-utility, most-used models. Most other skills build on them or are checked by them:
 
@@ -120,6 +120,9 @@ With 189 skills, the question of where to start matters. A suggested learning se
 - Margin of Safety, Asymmetry/Convexity, Two-Way Doors (decision quality)
 - Cynefin Framework, Causal Analysis, Pre-mortem (problem diagnosis)
 - Paradigm Shift, Dominant Logic (understanding why organizations and fields get stuck)
+- Survivorship Bias, Hindsight Bias, Fundamental Attribution Error (post-mortem quality and honest retrospection)
+- Drift to Failure (understanding how organizations degrade gradually without any single bad decision)
+- Falsification, Base Rate Neglect (calibrated reasoning and testing beliefs under pressure)
 - A starter set from **Delivery & Flow** if your work involves execution (Little's Law, WIP Limits, Lead Time vs Cycle Time, Team Topologies)
 - AI Authority Boundaries + the two AI chains if you're working on AI deployment
 
@@ -180,7 +183,15 @@ After a few weeks of use, you will develop your own intuitions about which model
 
 **Innovation program cluster**: Three Horizons + Ambidextrous Organization + Organizational Slack + Exploration vs. Exploitation + Innovation Health Indicators
 
-**Why things get stuck cluster**: Dominant Logic + Paradigm Shift + Immunity to Change + Confirmation Bias + Sunk Cost + Inertia
+**Why things get stuck cluster**: Dominant Logic + Paradigm Shift + Immunity to Change + Confirmation Bias + Sunk Cost + Inertia + Commitment & Consistency Bias
+
+**Cognitive bias cluster**: Confirmation Bias + Availability Bias + Hindsight Bias + Survivorship Bias + Fundamental Attribution Error + Narrative Instinct + Base Rate Neglect + Commitment & Consistency Bias
+
+**Post-mortem quality cluster**: After-Action Review + Hindsight Bias + Fundamental Attribution Error + SRK Framework + Survivorship Bias + Falsification + Narrative Instinct
+
+**Calibrated forecasting cluster**: Probabilistic Thinking + Base Rate Neglect + Reference Class Forecasting + Planning Fallacy + Falsification + Probabilistic Forecasting
+
+**System reliability and drift cluster**: Drift to Failure + SRK Framework + Goodhart's Law + Feedback Loops + Commitment & Consistency Bias + After-Action Review
 
 **Communication cluster**: Audience + Framing + Contrast + Rhythm + Anchoring + Pyramid Principle
 
@@ -308,7 +319,7 @@ Confirmation bias operating through the framework: you want to take a particular
 
 ### Paralysis through completeness
 
-Believing that every decision requires exhaustive model application before action. The framework has 189 skills; applying all of them to any given decision would take weeks. This is not the intent.
+Believing that every decision requires exhaustive model application before action. The framework has 209 skills; applying all of them to any given decision would take weeks. This is not the intent.
 
 **Fix**: Match the rigor of the analysis to the reversibility and stakes of the decision. Two-Way Doors gives you the principle: reversible decisions deserve quick analysis and fast action; irreversible ones deserve deeper analysis. Most decisions are more reversible than they feel.
 
@@ -336,7 +347,11 @@ When you know roughly what kind of situation you're in but aren't sure which ski
 
 **Two smart people disagree and can't resolve it**: Paradigm Shift (incommensurability), Map-Territory, Ladder of Inference, Cynefin Framework
 
-**You want to pressure-test your own reasoning**: Inversion, Confirmation Bias, Socratic Thinking, Probabilistic Thinking
+**You want to pressure-test your own reasoning**: Inversion, Confirmation Bias, Socratic Thinking, Probabilistic Thinking, Falsification
+
+**Your forecast or estimate needs to be well-calibrated**: Base Rate Neglect, Reference Class Forecasting, Probabilistic Thinking, Planning Fallacy
+
+**You're reflecting on a past decision and want to learn honestly from it**: Hindsight Bias, Fundamental Attribution Error, Survivorship Bias, Narrative Instinct, Falsification
 
 ### Organizational and team problems
 
@@ -348,9 +363,15 @@ When you know roughly what kind of situation you're in but aren't sure which ski
 
 **You're trying to change something but hitting resistance**: Immunity to Change, Activation Energy, Loss Aversion, Inertia, Change Management
 
-**An organization keeps making the same mistakes**: Dominant Logic, Feedback Loops, Goodhart's Law, Organizational Culture
+**An organization keeps making the same mistakes**: Dominant Logic, Feedback Loops, Goodhart's Law, Organizational Culture, SRK Framework, Drift to Failure
+
+**A long-successful system or process is quietly degrading**: Drift to Failure, Goodhart's Law, Commitment & Consistency Bias, Survivorship Bias
+
+**You're running a post-mortem and want it to produce real learning**: Hindsight Bias, Fundamental Attribution Error, SRK Framework, Survivorship Bias, Narrative Instinct, After-Action Review
 
 **You're designing how a team or org should work**: Team Topologies, Conway's Law, Inverse Conway Maneuver, RACI Framework
+
+**You're designing training, onboarding, or skill development**: SRK Framework, Learning Transfer, Five-Hour Rule, T-Shaped
 
 **Your team loses shared understanding during a project**: Leader's Intent, Brief-Back Protocols, Mission Command, Purpose Clarity
 
@@ -402,7 +423,9 @@ When you know roughly what kind of situation you're in but aren't sure which ski
 
 ### People and communication
 
-**You're trying to convince someone**: Framing, Anchoring, Reciprocity, Loss Aversion, Audience, Pyramid Principle
+**You're trying to convince someone**: Framing, Anchoring, Reciprocity, Loss Aversion, Social Proof, Audience, Pyramid Principle
+
+**You're trying to drive adoption of a new behaviour or practice**: Social Proof, Activation Energy, Commitment & Consistency Bias, Framing, Loss Aversion
 
 **You're making a significant hire**: Run the Hiring Decision chain
 
@@ -430,4 +453,4 @@ Pick one model from Tier 1 (listed above). Open its card in the deck. Read the m
 
 ---
 
-*Skills Framework · 199 skills across 16 categories · canonical counts in `skills-manifest.json`*
+*Skills Framework · 209 skills across 16 categories · canonical counts in `skills-manifest.json`*
