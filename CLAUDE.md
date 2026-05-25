@@ -66,6 +66,7 @@ The `_ai-index.md` is the machine-readable index of the framework. It becomes st
 5. Update `Skills Reference/_ai-index.md` — add the skill to its category section (update count), and add to the High-signal clusters table if warranted
 6. Update `Skills Reference/training-guide.md` counts and any relevant cluster sections
 7. Update the skill count in every file listed as **❌ manual (count)** in the build table below — these are not auto-rebuilt and will drift if skipped
+8. Register the new card's `## References` in `skills-manifest.json` under the top-level `refs` array (format: `{title, authorYear, skills: [{id, name, color}]}`). Check for existing entries first — update their `skills` array rather than creating a duplicate. After adding, run `npm run build` again and update the reference count in `README.md` (Sources & References panel line).
 
 **End of batch — once all planned cards for the session are complete:**
 
@@ -92,7 +93,7 @@ The reason for batching steps 7–8 is that both files are *views* that benefit 
 | `situation-finder.html` | ❌ manual — update by hand |
 | `quick-reference.html` | ❌ manual — update by hand |
 | `Skills Reference/skill-primer.md` | ❌ manual (count) — update "one of N" and footer line |
-| `README.md` | ❌ manual (count) — update intro paragraph and repo layout block |
+| `README.md` | ❌ manual (count) — update intro paragraph, repo layout block, and Sources & References count |
 | `CLAUDE.md` (this file) | ❌ manual (count) — update the opening paragraph |
 
 The graph picks up new `## Connections` entries automatically on rebuild — so adding backlinks to existing cards is reflected without any extra step beyond running `npm run build`.
