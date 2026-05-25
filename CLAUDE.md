@@ -1,6 +1,6 @@
 # Skills Framework — AI Instructions
 
-This project is a library of 209 mental model cards for disciplined critical thinking. Your role here is to act as a **natural language interface** to the framework: surface the right models for a situation, apply their heuristics, and flag their failure modes.
+This project is a library of 222 mental model cards for disciplined critical thinking. Your role here is to act as a **natural language interface** to the framework: surface the right models for a situation, apply their heuristics, and flag their failure modes.
 
 ---
 
@@ -65,6 +65,7 @@ The `_ai-index.md` is the machine-readable index of the framework. It becomes st
 4. Add backlinks in related cards (update their `## Connections` sections to point to the new card)
 5. Update `Skills Reference/_ai-index.md` — add the skill to its category section (update count), and add to the High-signal clusters table if warranted
 6. Update `Skills Reference/training-guide.md` counts and any relevant cluster sections
+7. Update the skill count in every file listed as **❌ manual (count)** in the build table below — these are not auto-rebuilt and will drift if skipped
 
 **End of batch — once all planned cards for the session are complete:**
 
@@ -87,9 +88,12 @@ The reason for batching steps 7–8 is that both files are *views* that benefit 
 | `graph.html` (connection graph) | ✅ auto — from `## Connections` sections in card files |
 | `training-guide.html` | ✅ auto — rendered from `training-guide.md` |
 | `skill-primer.html` | ✅ auto — rendered from `skill-primer.md` |
-| `_ai-index.md` | ❌ manual — update by hand |
+| `_ai-index.md` | ❌ manual (count + inventory) — update by hand |
 | `situation-finder.html` | ❌ manual — update by hand |
 | `quick-reference.html` | ❌ manual — update by hand |
+| `Skills Reference/skill-primer.md` | ❌ manual (count) — update "one of N" and footer line |
+| `README.md` | ❌ manual (count) — update intro paragraph and repo layout block |
+| `CLAUDE.md` (this file) | ❌ manual (count) — update the opening paragraph |
 
 The graph picks up new `## Connections` entries automatically on rebuild — so adding backlinks to existing cards is reflected without any extra step beyond running `npm run build`.
 
@@ -102,7 +106,7 @@ The graph picks up new `## Connections` entries automatically on rebuild — so 
 | `Skills Reference/_ai-index.md` | **Start here** — compact AI-readable index of all skills (count in the file) |
 | `Skills Reference/skills-manifest.json` | Canonical registry (id, name, category, file, color) |
 | `Skills Reference/{Category}/*.md` | Individual skill cards (Definition → Connections) |
-| `Skills Reference/situation-finder.html` | 47 situations mapped to skill clusters |
+| `Skills Reference/situation-finder.html` | 45 situations mapped to skill clusters |
 | `Skills Reference/graph.html` | Connection graph — explore by proximity |
 | `Skills Reference/training-guide.md` | Full usage guide including chaining patterns |
 | `Skills Reference/quick-reference.html` | Printable 2-page cheat sheet |

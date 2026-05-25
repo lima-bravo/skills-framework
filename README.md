@@ -1,6 +1,6 @@
 # Skills Framework
 
-A personal skills / mental-models framework with an offline **reference card deck** (`Skills Reference/index.html`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **170 skills** across **15 categories** (source of truth: `skills-manifest.json`).
+A personal skills / mental-models framework with an offline **reference card deck** (`Skills Reference/index.html`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **222 skills** across **16 categories** (source of truth: `skills-manifest.json`).
 
 ## Reference deck (single-file download)
 
@@ -8,7 +8,7 @@ Open [`Skills Reference/index.html`](Skills%20Reference/index.html) in any brows
 
 The deck includes:
 
-- Search and category filters across **170 skills**
+- Search and category filters across **222 skills**
 - Expandable skill modals with cross-links
 - **Sources & References** panel (**186** sources)
 
@@ -39,7 +39,7 @@ Requires Node.js 18+.
 
 ### Claude Cowork / Code skills
 
-The deck’s **170 reference cards** are not exported 1:1. `npm run build:cowork` generates **21 procedural skills** in three plugins under `dist/cowork/`:
+The deck’s **222 reference cards** are not exported 1:1. `npm run build:cowork` generates **21 procedural skills** in three plugins under `dist/cowork/`:
 
 | Plugin | Skills | Purpose |
 |--------|--------|---------|
@@ -71,9 +71,9 @@ Skills Reference/
   training-guide.md          # How to learn and apply the framework
   deck.template.html         # Deck shell (edit layout/CSS here)
   deck.app.js                # Deck behaviour
-  skills-manifest.json       # Canonical registry: ids, categories, refs (170 skills)
+  skills-manifest.json       # Canonical registry: ids, categories, refs (222 skills)
   reference-sections.json    # References block HTML per skill
-  **/*.md                    # Skill source files (all 15 categories)
+  **/*.md                    # Skill source files (all 16 categories)
   graph.html                 # Connection graph (separate page)
 scripts/
   build-deck.mjs             # Deck HTML build
