@@ -49,6 +49,7 @@ A mid-market software firm's "strategy" is a slide deck of five priorities (grow
 → [**Trade-offs**](../Economics/trade-offs.md) — strategy is the structured form of trade-off reasoning.
 → [**First Principles**](../General-Thinking/first-principles.md) — Rumelt's diagnosis is first-principles thinking applied to a strategic situation.
 → [**Portfolio Map**](portfolio-map.md) — the portfolio question follows the strategy question, not the reverse.
+→ [**Wardley Mapping**](wardley-mapping.md) — a Wardley Map is a tool for developing the diagnosis component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
 
 ---
 

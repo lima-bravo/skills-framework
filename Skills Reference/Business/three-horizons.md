@@ -50,6 +50,7 @@ Amazon's portfolio across the three horizons is a live case study. H1 is the e-c
 → [**Disruptive Innovation**](disruptive-innovation.md) — H3 is where disruptive threats and disruptive opportunities are most likely to emerge; managing H3 explicitly is the structural defense against being disrupted and the structural mechanism for disrupting others.
 → [**S-Curves**](../Systems/s-curves.md) — each horizon corresponds to a position on a different S-curve: H1 is the current curve's mature phase, H2 is the emerging curve's growth phase, H3 is the next curve's early phase.
 → [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — H3 investments are reversible (option value, limited commitment); H1 is irreversible (full commitment). Two-Way Doors logic explains why H3 decisions should be made faster and with less analysis than H1 decisions.
+→ [**Wardley Mapping**](wardley-mapping.md) — Three Horizons and Wardley Maps compose naturally: H1 maps to Commodity/Product, H2 to Custom, H3 to Genesis. The evolution axis tells you which horizon a component actually belongs to.
 
 ---
 

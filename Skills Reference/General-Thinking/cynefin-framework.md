@@ -22,6 +22,7 @@ The key distinction is **Complicated vs. Complex**. A complicated problem has ma
 
 ## Connections
 
+- **Empirical Process Control** — EPC is the correct governing mechanism for Complex-domain work; Cynefin tells you when to apply it
 - **Exploration vs. Exploitation** — clear/complicated domains favour exploitation; complex domains require exploration
 - **Experiment Design** — in Complex domains, safe-to-fail experiments replace analysis
 - **First Principles** — applicable in Clear and Complicated domains; less reliable in Complex

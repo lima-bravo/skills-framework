@@ -50,6 +50,7 @@ The emergence of the smartphone illustrates the sequential logic of the adjacent
 → [**Analogical Reasoning**](../General-Thinking/analogical-reasoning.md) — analogical reasoning expands the adjacent possible by making solutions developed in distant domains available to import, effectively opening new doors without passing through all intermediate rooms.
 → [**Disruptive Innovation**](../Business/disruptive-innovation.md) — disruption often begins at the adjacent possible of entrants, who are positioned (by lower cost structures and different customer focus) adjacent to innovations incumbents cannot reach.
 → [**Compounding**](../Mathematics/compounding.md) — each step through the adjacent possible compounds: entering a new room doesn't just solve today's problem, it opens new doors unavailable from the previous room. The value of early steps is partly the future steps they make accessible.
+→ [**Wardley Mapping**](../Business/wardley-mapping.md) — Wardley Maps reveal the adjacent possible in strategic terms: components at the Genesis/Custom boundary are where new moves become accessible; Commodity components are closed territory.
 
 ---
 

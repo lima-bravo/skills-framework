@@ -46,6 +46,7 @@ A platform engineering team's incident rate is rising. Plan: hypothesize that a 
 
 → [**A3**](a3-problem-solving.md) — A3 is the structured artifact of a PDCA cycle.
 → [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — the startup-domain restatement of PDCA.
+→ [**Empirical Process Control**](empirical-process-control.md) — PDCA is EPC operationalised; EPC is the governing theory that explains why PDCA works.
 → [**OODA Loop**](../Leadership/ooda-loop.md) — a faster, decision-making variant of the same discipline.
 → [**Post-mortem**](../General-Thinking/post-mortem.md) — a single PDCA Check applied to an incident.
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — the Plan-step discipline of imagining failure modes before acting.

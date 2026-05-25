@@ -5,7 +5,7 @@
 
 ## What This Guide Is For
 
-You have access to **209 skills** across **16 categories** (192 mental-model cards plus 17 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
+You have access to **211 skills** across **16 categories** (194 mental-model cards plus 17 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
 
 It covers four things:
 
@@ -18,13 +18,15 @@ It covers four things:
 
 ## Part 1 — Understanding the Structure
 
-### Three layers
+### Four layers
 
-The framework has three layers, each suited to different moments:
+The framework has four layers, each suited to different moments:
 
-**The card deck (`index.html`)** is your working surface. Open it when facing a decision or problem. Search by keyword, filter by category, and expand a card to read the mental model and heuristics. This is the layer you use in the moment.
+**The connection graph (`graph.html`)** is your discovery layer — the recommended first stop when you don't already know which skill you need. It shows all 211 skills as an interactive network, with edges representing documented connections between models. Click a node to see its connections; click a connected node to follow the thread. This layer is most valuable when the problem is open-ended, when you sense a concept is relevant but can't name it, or when you want to find the models that cluster around one you already know. The graph reveals which models work together in ways that a category list cannot.
 
-**The individual skill files (`General-Thinking/`, `Systems/`, etc.)** are your deep-dive layer. When a skill feels relevant but half-understood, open the full file. Read the definition, the failure modes, and the worked example. These are the files you annotate and return to.
+**The card deck (`index.html`)** is your working surface. Open it when you know roughly what you're looking for — search by keyword, filter by category, and expand a card to read the mental model and heuristics. Use it in the moment when facing a specific decision or problem.
+
+**The individual skill files (`General-Thinking/`, `Systems/`, etc.)** are your deep-dive layer. When a skill feels relevant but half-understood, open the full file. Read the definition, the failure modes, and the worked example. These are the files you return to when a model becomes important to your practice.
 
 **The master document (`Skills Framework.md`)** covers the core categories in one file — best for sequential study or for searching with your editor's find function.
 
@@ -39,21 +41,21 @@ The categories are not arbitrary. They reflect different levels of abstraction a
 | Economics | 13 | Resource allocation, incentives, markets |
 | Physics & Chemistry | 10 | Structural forces and mechanisms |
 | Psychology | 25 | Human behavior, bias, and motivation |
-| Innovation & Entrepreneurship | 21 | New ventures, products, and innovation programs |
-| Business | 10 | Established organization management and strategy |
+| Innovation & Entrepreneurship | 22 | New ventures, products, and innovation programs |
+| Business | 11 | Established organization management and strategy |
 | Mathematics | 7 | Quantitative and logical reasoning |
 | Network Effects | 4 | Platform and ecosystem strategy |
 | Learning | 6 | Building capability deliberately |
 | Art | 4 | Communication and creative expression |
-| Delivery & Flow | 30 | Throughput, WIP, metrics, org design for flow |
+| Delivery & Flow | 31 | Throughput, WIP, metrics, org design for flow |
 | Consulting Craft | 5 | Problem structuring, executive communication, engagement management |
 | Leadership | 13 | Change, culture, governance, trust, operational execution, meeting discipline |
 | Applied AI | 3 | AI governance, authority boundaries, agentic system design |
 | Pre-built Chains | 17 | High-stakes recurring decisions and structured methodologies |
 
-*Skill counts match `skills-manifest.json` (209 total).*
+*Skill counts match `skills-manifest.json` (211 total).*
 
-When you don't know which category applies, start with General Thinking. For delivery, prioritization, or organizational flow questions, filter **Delivery & Flow** or run a chain such as **Improve Delivery Flow**. For AI deployment and governance questions, go directly to **Applied AI** and the two AI chains.
+When you don't know which category applies, **start with the graph** (`graph.html`). Click any node that looks relevant and follow its connections — the proximity of models in the graph reflects how often they are applied together. If you already have a keyword or category in mind, the card deck search is faster. For delivery, prioritization, or organizational flow questions, filter **Delivery & Flow** or run a chain such as **Improve Delivery Flow**. For AI deployment and governance questions, go directly to **Applied AI** and the two AI chains.
 
 ### The two types of content in the deck
 
@@ -97,7 +99,7 @@ Do not try to memorize the framework. Mental models become useful when they are 
 
 ### Prioritizing what to learn first
 
-With 209 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):
+With 211 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):
 
 **Tier 1 — Master these first** (12 skills). These are the highest-utility, most-used models. Most other skills build on them or are checked by them:
 
@@ -319,7 +321,7 @@ Confirmation bias operating through the framework: you want to take a particular
 
 ### Paralysis through completeness
 
-Believing that every decision requires exhaustive model application before action. The framework has 209 skills; applying all of them to any given decision would take weeks. This is not the intent.
+Believing that every decision requires exhaustive model application before action. The framework has 211 skills; applying all of them to any given decision would take weeks. This is not the intent.
 
 **Fix**: Match the rigor of the analysis to the reversibility and stakes of the decision. Two-Way Doors gives you the principle: reversible decisions deserve quick analysis and fast action; irreversible ones deserve deeper analysis. Most decisions are more reversible than they feel.
 
@@ -453,4 +455,4 @@ Pick one model from Tier 1 (listed above). Open its card in the deck. Read the m
 
 ---
 
-*Skills Framework · 209 skills across 16 categories · canonical counts in `skills-manifest.json`*
+*Skills Framework · 211 skills across 16 categories · canonical counts in `skills-manifest.json`*

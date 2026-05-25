@@ -1271,6 +1271,18 @@
       "name": "Drift to Failure",
       "category": "Systems",
       "color": "#0D9488"
+    },
+    "Delivery-and-Flow/empirical-process-control.md": {
+      "id": 209,
+      "name": "Empirical Process Control",
+      "category": "Delivery & Flow",
+      "color": "#0891B2"
+    },
+    "Business/wardley-mapping.md": {
+      "id": 210,
+      "name": "Wardley Mapping",
+      "category": "Business",
+      "color": "#475569"
     }
   },
   "refs": [

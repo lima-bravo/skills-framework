@@ -46,6 +46,7 @@ Dropbox's famous explainer video is a canonical Build-Measure-Learn example. Bef
 → [**MVP**](mvp.md) — the "minimum" in Build-Measure-Learn is operationalized as an MVP.
 → [**Product-Market Fit**](product-market-fit.md) — Build-Measure-Learn is the process for discovering and validating PMF.
 → [**Experiment Design**](../Business/experiment-design.md) — the formal rigor of experiment design disciplines the "measure" phase.
+→ [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — Build-Measure-Learn is EPC applied to product hypotheses; EPC is the governing theory behind both.
 
 ---
 
