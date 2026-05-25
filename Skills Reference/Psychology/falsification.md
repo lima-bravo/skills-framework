@@ -48,6 +48,10 @@ The falsification-oriented redesign: run a controlled comparison, with explicitl
 - **Pre-Mortem** — applies falsification thinking prospectively: "what would have had to go wrong for this to fail?"
 - **Kill Criteria** — the organisational instrument of falsification; pre-specified conditions that would trigger exit or pivot
 - **Probabilistic Thinking** — falsification and probabilistic thinking together form the core of calibrated reasoning; probabilistic thinking quantifies uncertainty, falsification tests whether the model is structurally sound
+- **Calibration** — falsification is the habit that keeps calibration honest; a belief you won't test is a belief with unstated infinite confidence
+- **Observer Bias** — observer bias corrupts the measurement that falsification depends on; blinded evaluation ensures the test can actually disconfirm the hypothesis
+- **From Idea to Hypothesis** — falsification is Step 4 in this chain; restating assumptions as falsifiable predictions is the step most commonly skipped
+- **Crawl / Walk / Run** — the principle that makes every gate honest: results must be capable of disconfirming, not just confirming
 - **Survivorship Bias** — reporting only confirming outcomes is a common way that falsification fails in practice
 
 ## References

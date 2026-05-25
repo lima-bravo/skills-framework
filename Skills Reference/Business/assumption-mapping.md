@@ -46,6 +46,8 @@ A team is planning a new market entry. They list their assumptions and find 35. 
 → [**MVP**](../Startups/mvp.md) — the MVP is the cheapest device for testing the most critical assumptions.
 → [**Experiment Ladder**](../Startups/experiment-ladder.md) — assumption mapping defines what to test; the Experiment Ladder selects which type of experiment is appropriate for each assumption class.
 → [**Experiment Design**](experiment-design.md) — once the experiment type is selected, experiment design defines how to run it validly — hypothesis, success criteria, sample size.
+→ [**Observer Bias**](../Psychology/observer-bias.md) — the assumptions an evaluator holds about a candidate or option are the source of expectation that drives observer bias; surfacing assumptions before evaluation is the upstream intervention.
+→ [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — assumption mapping is Step 3 in this chain; the full sequence shows how to go from idea to a testable hypothesis with kill criteria
 
 ---
 

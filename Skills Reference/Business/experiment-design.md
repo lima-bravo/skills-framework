@@ -46,6 +46,8 @@ An e-commerce team is testing whether a new checkout flow improves conversion. T
 → [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — experiment design disciplines the "measure" step of the BML cycle.
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — statistical significance and power are applications of probabilistic thinking to experiment design.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — rigorous experiment design is the structural antidote to confirmation bias in analysis.
+→ [**Observer Bias**](../Psychology/observer-bias.md) — a control group is necessary but not sufficient; blinded evaluation ensures assessors cannot unconsciously align measurements with expectations.
+→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — experiment design disciplines every stage of this chain; the chain specifies what question to answer, experiment design specifies how to answer it validly
 
 ---
 

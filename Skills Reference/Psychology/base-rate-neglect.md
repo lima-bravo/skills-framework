@@ -51,6 +51,7 @@ Armed with the base rate, the team can ask the right question: what specific fea
 - **Survivorship Bias** — both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
 - **Falsification** — base rate anchoring is a form of outside-view challenge to inside-view narratives; both practices discipline against uncritical acceptance of the case in front of you
 - **Narrative Instinct** — the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
+- **Calibration** — base rate neglect is the most common source of overconfidence; good calibration requires anchoring on base rates before adjusting for specifics
 
 ## References
 

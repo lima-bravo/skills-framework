@@ -47,7 +47,8 @@ A successful SaaS founder raises a fund and begins making angel investments. Her
 
 → [**First Principles**](first-principles.md) — first principles reasoning requires you to know which of your foundations are actually solid. Outside your circle, you cannot reliably identify first principles.
 → [**Dunning-Kruger**](../Psychology/dunning-kruger.md) — the psychological mechanism that makes circle self-assessment hard; understanding one reinforces the other.
-→ [**Probabilistic Thinking**](probabilistic-thinking.md) — within your circle, probability estimates are more reliable. Outside it, confidence intervals should widen dramatically.
+→ [**Probabilistic Thinking**](probabilistic-thinking.md)
+→ [**Calibration**](calibration.md) — an honest circle of competence is the first input to good calibration; overconfident people draw their circles too large and their confidence intervals too narrow. — within your circle, probability estimates are more reliable. Outside it, confidence intervals should widen dramatically.
 
 ---
 

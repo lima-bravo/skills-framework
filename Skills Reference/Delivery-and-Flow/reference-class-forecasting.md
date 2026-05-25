@@ -49,6 +49,7 @@ A regional bank plans a core banking modernization. The internal estimate is 24 
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — complementary technique: imagine failure, then forecast it.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — the buffer RCF justifies in scope, cost, and time.
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — RCF is base-rate, outside-view probabilistic thinking applied to projects.
+→ [**Calibration**](../General-Thinking/calibration.md) — reference class forecasting is the operational technique for anchoring on base rates; calibration is why the technique produces better estimates than inside-view reasoning.
 
 ---
 

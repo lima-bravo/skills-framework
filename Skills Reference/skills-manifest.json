@@ -1283,6 +1283,30 @@
       "name": "Wardley Mapping",
       "category": "Business",
       "color": "#475569"
+    },
+    "General-Thinking/calibration.md": {
+      "id": 211,
+      "name": "Calibration",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "Psychology/observer-bias.md": {
+      "id": 212,
+      "name": "Observer Bias",
+      "category": "Psychology",
+      "color": "#9333EA"
+    },
+    "Pre-built-Chains/from-idea-to-hypothesis.md": {
+      "id": 213,
+      "name": "From Idea to Hypothesis",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "Pre-built-Chains/crawl-walk-run.md": {
+      "id": 214,
+      "name": "Crawl / Walk / Run",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
     }
   },
   "refs": [

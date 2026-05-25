@@ -52,6 +52,7 @@ The difference is not that one team was smarter or faster. It is that one team h
 - **Probabilistic Forecasting** — an empirical approach to "when will it be done?" that replaces false-precision plans with inspectable distributions.
 - **Drift to Failure** — organisations that disable inspection mechanisms lose the ability to detect drift before it reaches a boundary; EPC is the structural defence.
 - **Experiment Design** — formal structure for the adaptation step: when inspection reveals a gap, an experiment is the disciplined way to test the response before committing to it.
+- **Crawl / Walk / Run** — EPC is the governing principle for the run stage of this chain: transparency, inspection, and adaptation in real-world conditions
 - **Outcome vs Output** — EPC's inspection criterion should be outcome, not output; inspecting outputs produces locally optimised plans, not goal-achieving ones.
 
 ## References

@@ -38,8 +38,8 @@ A library of 209 mental models, each as a standalone markdown card. Cards follow
 
 Format: `id·Name` — file at `Category/filename.md`
 
-### General Thinking (23 skills) — #3B82F6
-`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift`
+### General Thinking (24 skills) — #3B82F6
+`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration`
 
 ### Systems (17 skills) — #0D9488
 `17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure`
@@ -50,8 +50,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Physics & Chemistry (10 skills) — #EA580C
 `41·Leverage` `42·Velocity` `43·Inertia` `44·Friction` `45·Activation Energy` `46·Thermodynamics` `47·Catalysts` `48·Alloying` `49·Reciprocity` `50·Relativity`
 
-### Psychology (25 skills) — #9333EA
-`51·Incentives` `52·Loss Aversion` `53·Sunk Cost` `54·Anchoring` `55·Confirmation Bias` `56·Availability Bias` `57·Dunning-Kruger` `58·Maslow's Hierarchy of Needs` `59·McClelland's Acquired Needs Theory` `60·Max-Neef's Fundamental Human Needs` `61·ERG Theory` `101·Trust` `104·Psychological Safety` `115·Planning Fallacy` `167·Immunity to Change` `192·Self-Determination Theory` `199·Survivorship Bias` `200·Fundamental Attribution Error` `201·Hindsight Bias` `202·Social Proof` `203·Narrative Instinct` `204·Falsification` `205·Commitment & Consistency Bias` `206·Base Rate Neglect` `207·SRK Framework`
+### Psychology (26 skills) — #9333EA
+`51·Incentives` `52·Loss Aversion` `53·Sunk Cost` `54·Anchoring` `55·Confirmation Bias` `56·Availability Bias` `57·Dunning-Kruger` `58·Maslow's Hierarchy of Needs` `59·McClelland's Acquired Needs Theory` `60·Max-Neef's Fundamental Human Needs` `61·ERG Theory` `101·Trust` `104·Psychological Safety` `115·Planning Fallacy` `167·Immunity to Change` `192·Self-Determination Theory` `199·Survivorship Bias` `200·Fundamental Attribution Error` `201·Hindsight Bias` `202·Social Proof` `203·Narrative Instinct` `204·Falsification` `205·Commitment & Consistency Bias` `206·Base Rate Neglect` `207·SRK Framework` `212·Observer Bias`
 
 ### Innovation & Entrepreneurship (22 skills) — #DC2626
 `62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder`
@@ -77,8 +77,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Consulting Craft (5 skills) — #7C3AED
 `161·Hypothesis-Driven Consulting` `162·MECE` `163·Pyramid Principle` `164·Engagement Lifecycle` `165·Contracting & Scope`
 
-### Pre-built Chains (17 skills) — #B45309
-`94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol`
+### Pre-built Chains (19 skills) — #B45309
+`94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run`
 
 ### Leadership (13 skills) — #1E40AF
 `118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause`
@@ -97,11 +97,15 @@ Format: `id·Name` — file at `Category/filename.md`
 | System is quietly degrading | 208·Drift to Failure → 120·Goodhart's Law → 197·Tactical Pause |
 | Forecast feels optimistic | 206·Base Rate Neglect → 160·Reference Class Forecasting → 115·Planning Fallacy |
 | Belief needs stress-testing | 204·Falsification → 55·Confirmation Bias → 7·Probabilistic Thinking |
+| Confidence levels need auditing | 211·Calibration → 7·Probabilistic Thinking → 5·Circle of Competence |
+| Evaluation at risk of bias | 212·Observer Bias → 72·Experiment Design → 204·Falsification |
 | Change resistance | 205·Commitment & Consistency Bias → 167·Immunity to Change → 125·Change Management |
 | Delivery flow broken | 18·Bottlenecks → 132·WIP Limits → 131·Little's Law → 133·Flow Efficiency |
 | Innovation programme | Chain 177 → Chain 178 → 113·Three Horizons |
+| Funnel idea needs a hypothesis | Chain 213·From Idea to Hypothesis → Chain 214·Crawl / Walk / Run |
+| Running a staged experiment | Chain 214·Crawl / Walk / Run — crawl (does it work?) → walk (well enough?) → run (real data?) |
 | AI deployment governance | Chain 187 → Chain 186 → 183·AI Authority Boundaries |
 
 ---
 
-*Skills Framework · 211 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 215 skills · 16 categories · `skills-manifest.json` is authoritative*

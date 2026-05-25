@@ -59,6 +59,7 @@ The military phrase is "learning at the speed of operations." The civilian equiv
 - **Feedback Loops** — the AAR is the mechanism that closes the organisational feedback loop between execution and planning; without it, the loop is open and learning does not compound
 - **Psychological Safety** — honest answers to questions 2 and 3 require an environment where admitting error is safe; an AAR run in a blame culture produces a sanitised account, not a useful one
 - **Mission Command** — the AAR is the learning infrastructure that makes Mission Command sustainable over time; teams that practice it develop the judgment and calibration that Mission Command requires
+- **Calibration** — the AAR generates the outcome data needed to improve calibration; without a learning cycle that compares predictions to results, calibration cannot develop
 
 ## References
 

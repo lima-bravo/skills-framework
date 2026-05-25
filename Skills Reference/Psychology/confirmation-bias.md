@@ -46,6 +46,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Inversion**](../General-Thinking/inversion.md) — inversion is the active practice of disconfirmation, which is the direct antidote to confirmation bias.
 → [**Map-Territory**](../General-Thinking/map-territory.md) — confirmation bias prevents the map from updating when the territory changes.
 → [**Dunning-Kruger**](dunning-kruger.md) — low competence correlates with high confidence and high confirmation bias; the combination is dangerous.
+→ [**Observer Bias**](observer-bias.md) — observer bias is confirmation bias operating at the point of measurement; blinding prevents expectation from shaping evidence rather than correcting it after the fact.
 
 ---
 
