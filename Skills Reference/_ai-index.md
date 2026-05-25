@@ -17,7 +17,7 @@ A library of 209 mental models, each as a standalone markdown card. Cards follow
 | `skills-manifest.json` | Canonical registry: all skills with id, name, category, file path, hex color |
 | `index.html` | Interactive card deck (browser). Deep-link: `index.html?open=ID` or `?q=text` |
 | `graph.html` | Connection graph — shows how models relate. Best discovery entry point. |
-| `situation-finder.html` | Situation-to-skill matcher. 47 situations → recommended skill clusters |
+| `situation-finder.html` | Situation-to-skill matcher. 45 situations → recommended skill clusters |
 | `training-guide.md` | How to use the framework: tiers, chaining, worked scenarios |
 | `skill-primer.md` | Short guide for first-time readers of a single card |
 | `{Category}/filename.md` | Individual skill cards — see inventory below |
@@ -26,7 +26,7 @@ A library of 209 mental models, each as a standalone markdown card. Cards follow
 
 ## How to use
 
-1. **For a specific situation:** Check `situation-finder.html` first — 47 common workplace situations mapped to skill clusters.
+1. **For a specific situation:** Check `situation-finder.html` first — 45 common workplace situations mapped to skill clusters.
 2. **For a topic or keyword:** Search `index.html?q=your+term` or grep the markdown files.
 3. **For a deep read:** Read a card's **Mental Model** paragraph first, then **Practitioner Heuristics**. Skip Definition if the concept is familiar.
 4. **For chaining models:** Use a Pre-built Chain card (ids 94–100, 117, 130, 168–170, 177–178, 186–187, 198) or consult `training-guide.md` for manual chaining patterns.
