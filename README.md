@@ -6,7 +6,7 @@ A personal skills / mental-models framework with an offline **reference card dec
 
 **If you have a specific problem or situation** → open [`Skills Reference/situation-finder.html`](Skills%20Reference/situation-finder.html). 45 first-person situations with keyword search, each mapped to 3–4 curated skills and relevant chains. This is the recommended entry point.
 
-**If you're scanning a business across multiple dimensions** → open `Skills Reference/executive-scan.html` *(coming soon)*. Eight business lenses (strategy, portfolio economics, delivery, culture, metric integrity, innovation, risk, AI exposure), each with starter skills and questions to ask.
+**If you're scanning a business across multiple dimensions** → open [`Skills Reference/executive-scan.html`](Skills%20Reference/executive-scan.html). Ten business lenses (strategy, portfolio economics, delivery, culture, metric integrity, innovation, incentives, risk, AI exposure, operating model), each with starter skills and diagnostic questions to ask.
 
 **If you've received a single skill card** → read [`Skills Reference/skill-primer.md`](Skills%20Reference/skill-primer.md) first. It explains how to get value from one card in ten minutes, without engaging the full framework.
 

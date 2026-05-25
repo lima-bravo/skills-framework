@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Executive Scan — Skills Framework</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0F172A;--surface:#1E293B;--surface2:#263245;--border:#334155;
+  --text:#F1F5F9;--muted:#94A3B8;--accent:#3B82F6;--accent2:#60A5FA;
+  --pill-bg:#334155;--pill-hover:#3B4F66;
+}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh}
+
+/* ── header ── */
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:.6rem 1.25rem;display:flex;align-items:center;gap:.9rem;flex-wrap:wrap;position:sticky;top:0;z-index:20}
+.logo{font-size:.8rem;font-weight:700;letter-spacing:.04em;color:var(--muted);white-space:nowrap}
+.logo span{color:var(--text)}
+#search{flex:1;min-width:180px;max-width:400px;padding:.4rem .8rem;background:var(--bg);border:1px solid var(--border);border-radius:999px;color:var(--text);font-size:.83rem;outline:none;transition:border-color .15s}
+#search:focus{border-color:var(--accent)}
+#search::placeholder{color:var(--muted)}
+.nav-links{display:flex;gap:.5rem;margin-left:auto}
+.nav-btn{font-size:.72rem;font-weight:600;color:var(--muted);text-decoration:none;padding:.28rem .7rem;border:1px solid var(--border);border-radius:999px;letter-spacing:.04em;transition:color .15s,border-color .15s;white-space:nowrap}
+.nav-btn:hover{color:var(--text);border-color:var(--muted)}
+
+/* ── layout ── */
+main{max-width:1280px;margin:0 auto;padding:1.5rem 1.25rem 3rem}
+.intro{font-size:.83rem;color:var(--muted);margin-bottom:1.6rem;line-height:1.6;max-width:700px}
+.intro strong{color:var(--text)}
+.intro a{color:var(--accent);text-decoration:none}
+.intro a:hover{text-decoration:underline}
+
+/* ── grid ── */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(520px,1fr));gap:1rem}
+
+/* ── dimension card ── */
+.dim-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;overflow:hidden;transition:border-color .15s}
+.dim-card:hover{border-color:#475569}
+.dim-card.hidden{display:none}
+
+.dim-header{padding:.75rem 1rem .65rem 1rem;border-bottom:1px solid var(--border)}
+.dim-meta{display:flex;align-items:baseline;gap:.55rem;margin-bottom:.25rem}
+.dim-number{font-size:.6rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;flex-shrink:0;opacity:.85}
+.dim-name{font-size:.92rem;font-weight:700;color:var(--text)}
+.dim-tagline{font-size:.75rem;color:var(--muted);font-style:italic;line-height:1.4}
+
+.dim-body{padding:.85rem 1rem 1rem}
+
+/* ── section labels ── */
+.section-label{font-size:.59rem;font-weight:800;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);margin-bottom:.45rem}
+
+/* ── skill pills ── */
+.skills{display:flex;flex-wrap:wrap;gap:.35rem;margin-bottom:1rem}
+.pill{display:inline-flex;flex-direction:column;padding:.38rem .62rem;background:var(--pill-bg);border-radius:6px;cursor:pointer;text-decoration:none;transition:background .12s,transform .1s;border:1px solid transparent;max-width:230px}
+.pill:hover{background:var(--pill-hover);border-color:var(--border);transform:translateY(-1px)}
+.pill-name{font-size:.74rem;font-weight:700;color:var(--accent2);line-height:1.2}
+.pill-tag{font-size:.64rem;color:var(--muted);margin-top:.12rem;line-height:1.35}
+.chain-pill{border-left:2px solid #B45309}
+.chain-pill .pill-name{color:#FCD34D}
+.chain-badge{font-size:.55rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;background:#B45309;color:#fff;border-radius:3px;padding:.05rem .28rem;margin-left:.3rem;vertical-align:middle}
+
+/* ── questions ── */
+.questions{list-style:none;display:flex;flex-direction:column;gap:.4rem}
+.questions li{font-size:.78rem;color:#CBD5E1;line-height:1.5;padding-left:.95rem;position:relative}
+.questions li::before{content:'→';position:absolute;left:0;color:var(--muted);font-size:.7rem;top:.05rem}
+
+/* ── overlap note ── */
+.overlap-note{margin-top:.8rem;padding:.42rem .7rem;background:rgba(217,119,6,.07);border-left:2px solid #D97706;border-radius:0 5px 5px 0;font-size:.69rem;color:#FDE68A;line-height:1.45}
+.overlap-note strong{color:#FCD34D}
+
+/* ── empty ── */
+#empty{display:none;text-align:center;padding:3rem 1rem;color:var(--muted)}
+#empty p{font-size:.85rem}
+
+/* ── responsive ── */
+@media(max-width:600px){
+  .grid{grid-template-columns:1fr}
+  .nav-links{display:none}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo"><span>Executive Scan</span> · Skills Framework</div>
+  <input id="search" type="search" placeholder="Filter by keyword…" autocomplete="off">
+  <nav class="nav-links">
+    <a href="situation-finder.html" class="nav-btn">⊙ Situation Finder</a>
+    <a href="index.html" class="nav-btn">⊞ Card Deck</a>
+    <a href="graph.html" class="nav-btn">⬡ Graph</a>
+    <a href="training-guide.html" class="nav-btn">Guide</a>
+  </nav>
+</header>
+
+<main>
+  <p class="intro">Ten lenses for scanning a business. Each dimension names what to look for, which mental models sharpen your view, and what to ask the people running each area. <strong>Use this when you don't yet know where to look.</strong> If you have a specific symptom already, <a href="situation-finder.html">Situation Finder</a> is faster.</p>
+
+  <div class="grid" id="grid"></div>
+  <div id="empty"><p>No dimensions match — try different keywords.</p></div>
+</main>
+
+<script>
+const DECK = 'index.html';
+const S = (id, name, tag) => ({id, name, tag, chain: false});
+const C = (id, name, tag) => ({id, name, tag, chain: true});
+const link = s => s.chain
+  ? `${DECK}?q=${encodeURIComponent(s.name)}`
+  : `${DECK}?open=${s.id}`;
+
+const DIMENSIONS = [
+  {
+    id: 1,
+    name: 'Strategy Coherence',
+    color: '#6366F1',
+    tagline: 'Is this actually a strategy, or a list of priorities?',
+    skills: [
+      S(166, 'Kernel of Good Strategy',
+        'Diagnosis + guiding policy + coherent actions: Rumelt\'s three-part test for a real strategy'),
+      S(210, 'Wardley Mapping',
+        'Map where each component sits on the evolution curve — is your claimed differentiation actually defensible?'),
+      S(0,   'First Principles',
+        'Strip inherited assumptions — what does the business actually know vs. believe about its position?'),
+    ],
+    chain: C(123, 'Scenario Planning',
+      'Model multiple plausible futures before committing to one strategic path'),
+    questions: [
+      'Can you state the strategy as a diagnosis plus guiding policy in one sentence?',
+      'What is the single assumption the strategy depends on — and when was it last stress-tested?',
+      'Which components of your competitive advantage are evolving toward commodity?',
+    ],
+    overlap: null,
+  },
+  {
+    id: 2,
+    name: 'Portfolio Economics',
+    color: '#16A34A',
+    tagline: 'Does each unit earn its keep — and is the investment split intentional?',
+    skills: [
+      S(216, 'Unit Economics',
+        'Does the model work per customer? LTV:CAC, payback period, contribution margin at the unit level'),
+      S(217, 'Value Creation and Capture',
+        'Creating value and keeping some of it are two different problems — check both separately'),
+      S(113, 'Three Horizons',
+        'Is investment actively spread across core, emerging, and future — or all piled into Horizon 1?'),
+    ],
+    chain: C(94, 'Pricing Decision',
+      'Full chain: value created, cost floor, competitive ceiling, customer psychology'),
+    questions: [
+      'Which business units are value creators vs. value consumers at the margin?',
+      'What is the investment split across the three horizons — and is it a deliberate choice?',
+      'Where is value being created for customers that the business is not capturing?',
+    ],
+    overlap: null,
+  },
+  {
+    id: 3,
+    name: 'Delivery & Throughput',
+    color: '#0891B2',
+    tagline: 'Is work flowing, or stalling at hidden chokepoints?',
+    skills: [
+      S(18,  'Bottlenecks',
+        'The single constraint that governs throughput — improvements elsewhere don\'t move the system'),
+      S(137, 'Cost of Delay',
+        'The economic cost of delivering one period later — makes the invisible cost of slowness visible'),
+      S(132, 'WIP Limits',
+        'Explicit caps on in-progress work that pull rather than push — the primary lever for faster flow'),
+    ],
+    chain: C(168, 'Improve Delivery Flow',
+      'Structured diagnostic: map the flow, find the constraint, reduce WIP, measure outcomes'),
+    questions: [
+      'Can the team name the single constraint on throughput right now?',
+      'Where does work spend the most time waiting rather than being actively worked on?',
+      'What is the ratio of in-progress work to work completed in the last month?',
+    ],
+    overlap: null,
+  },
+  {
+    id: 4,
+    name: 'Innovation Pipeline',
+    color: '#DC2626',
+    tagline: 'Is the organisation experimenting at the right rate — and killing the right things?',
+    skills: [
+      S(179, 'Innovation Health Indicators',
+        'Five dimensions of innovation readiness: portfolio balance, process discipline, people, culture, metrics'),
+      S(213, 'From Idea to Hypothesis',
+        'Convert ideas into falsifiable predictions with explicit kill conditions before committing experiment resource'),
+      S(113, 'Three Horizons',
+        'A healthy innovation portfolio has active bets in all three horizons, not just optimisation of the core'),
+    ],
+    chain: C(177, 'Innovation Capability Diagnostic',
+      'Structured readiness assessment across five innovation dimensions'),
+    questions: [
+      'When did the organisation last kill an initiative based on evidence rather than politics or attachment?',
+      'What fraction of investment sits in Horizon 3 — and is that fraction a deliberate choice?',
+      'How many hypotheses are in active experiment right now, with explicit kill criteria defined in advance?',
+    ],
+    overlap: null,
+  },
+  {
+    id: 5,
+    name: 'Metric Integrity',
+    color: '#3B82F6',
+    tagline: 'Are measures surfacing truth, or generating compliance theatre?',
+    skills: [
+      S(120, 'Goodhart\'s Law',
+        'When a measure becomes a target, it ceases to be a good measure — audit every headline KPI'),
+      S(144, 'Outcome vs Output',
+        'Activity metrics measure busyness; outcome metrics measure what the business actually needs'),
+      S(211, 'Calibration',
+        'Are forecasts reliable? Track whether confidence levels match actual outcomes systematically'),
+    ],
+    chain: null,
+    questions: [
+      'Which KPIs are most likely being gamed — optimised for the measure rather than the goal it was meant to proxy?',
+      'How often do forecasts match outcomes, and are misses investigated or explained away?',
+      'Which metrics haven\'t moved in years despite stated priority — and what does that signal?',
+    ],
+    overlap: 'Goodhart\'s Law also appears in <strong>Incentive Alignment (dimension 7)</strong>. The same mechanism — optimising for the measure rather than the goal — drives both metric gaming and incentive distortion. Review both dimensions together.',
+  },
+  {
+    id: 6,
+    name: 'Culture & Change Readiness',
+    color: '#9333EA',
+    tagline: 'Can the organisation actually execute the changes it announces?',
+    skills: [
+      S(104, 'Psychological Safety',
+        'Do people surface bad news early? Safety to speak up is the precondition for honest organisational information'),
+      S(167, 'Immunity to Change',
+        'Hidden competing commitments explain why rational plans fail — this is structural, not personal resistance'),
+      S(124, 'Organizational Culture',
+        'Culture is what the organisation rewards and tolerates, not what it states in values documents'),
+    ],
+    chain: C(130, 'Transformation Chain',
+      'End-to-end sequence for designing and executing large-scale organisational change'),
+    questions: [
+      'Does bad news arrive quickly and unpolished, or slowly and curated?',
+      'Which change initiatives have stalled — and what is the real, unstated reason?',
+      'Who are the informal opinion leaders — and are they inside or outside the change coalition?',
+    ],
+    overlap: null,
+  },
+  {
+    id: 7,
+    name: 'Incentive Alignment',
+    color: '#D97706',
+    tagline: 'Do reward structures drive the behaviour the strategy actually needs?',
+    skills: [
+      S(51,  'Incentives',
+        'Behaviour follows reward structures — check what is actually being incentivised, not what is intended'),
+      S(121, 'Principal–Agent Problem',
+        'Where do BU leader incentives diverge from group goals? The gap reliably predicts the behaviour you see'),
+      S(120, 'Goodhart\'s Law',
+        'Targets that become measures get optimised at the expense of the underlying goal'),
+    ],
+    chain: null,
+    questions: [
+      'What behaviours are incentive structures actually rewarding — and are those the behaviours the strategy needs?',
+      'Where do business unit leader incentives diverge most sharply from group-level goals?',
+      'Which targets are being consistently hit but feel hollow — and what does that signal?',
+    ],
+    overlap: 'Goodhart\'s Law also appears in <strong>Metric Integrity (dimension 5)</strong>. The same mechanism drives both metric gaming and incentive distortion. Review both dimensions together.',
+  },
+  {
+    id: 8,
+    name: 'Risk & Drift',
+    color: '#0D9488',
+    tagline: 'Are safety margins eroding in ways nobody is currently naming?',
+    skills: [
+      S(208, 'Drift to Failure',
+        'Systems migrate toward unsafe boundaries through accumulated reasonable decisions — visible only in hindsight'),
+      S(24,  'Margin of Safety',
+        'The buffer between current state and critical threshold — how much has been quietly eroded for efficiency?'),
+      S(2,   'Second-Order Effects',
+        'What happens after what happens? Trace the downstream consequences of current decisions and trade-offs'),
+    ],
+    chain: null,
+    questions: [
+      'What has been normalised in the last two years that would have alarmed leadership when it first appeared?',
+      'Where are operational buffers being squeezed — and what failure does that historically precede?',
+      'What is the next thing that could go seriously wrong that nobody is currently discussing?',
+    ],
+    overlap: null,
+  },
+  {
+    id: 9,
+    name: 'AI Exposure',
+    color: '#0369A1',
+    tagline: 'Where is AI making decisions — and is governance keeping pace with deployment?',
+    skills: [
+      S(183, 'AI Authority Boundaries',
+        'Six registers where AI may not be a decision-maker — map current deployments against each'),
+      S(184, 'Minimal Capability Principle',
+        'Deploy the minimum capability needed for the task — excess capability creates excess and hard-to-audit risk'),
+      S(212, 'Observer Bias',
+        'Evaluators who built the system are poorly placed to assess whether it works — structure in independence'),
+    ],
+    chain: C(187, 'AI Use Case Autonomy Assessment',
+      'Pre-deployment chain: authority, reversibility, oversight design, and escalation paths'),
+    questions: [
+      'Where is AI currently making — or materially influencing — decisions that humans used to make?',
+      'Which AI deployments have explicit reversal mechanisms if the system produces a bad outcome?',
+      'Where does the organisation have unmanaged AI exposure rather than governed AI capability?',
+    ],
+    overlap: null,
+  },
+  {
+    id: 10,
+    name: 'Operating Model Alignment',
+    color: '#475569',
+    tagline: 'Does the way the organisation is structured enable or impede the strategy?',
+    skills: [
+      S(28,  'Conway\'s Law',
+        'Systems — organisational ones included — mirror the communication structures that built them'),
+      S(154, 'Team Topologies',
+        'Four team types and three interaction modes: does your structure produce the flow the strategy requires?'),
+      S(127, 'RACI Framework',
+        'One Accountable per decision — where accountability is unclear, both speed and quality suffer'),
+    ],
+    chain: C(169, 'Org Design for Flow Diagnostic',
+      'Structured diagnostic: does the org design enable fast, independent delivery of strategic outcomes?'),
+    questions: [
+      'Where does the organisational structure create the most friction for executing the stated strategy?',
+      'Which decisions slow down most — and is it unclear ownership or unnecessary cross-team dependency?',
+      'Does the team topology match the architecture and capabilities the strategy requires?',
+    ],
+    overlap: null,
+  },
+];
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function buildCard(dim) {
+  const card = document.createElement('div');
+  card.className = 'dim-card';
+
+  // header
+  const hdr = document.createElement('div');
+  hdr.className = 'dim-header';
+  hdr.style.borderLeft = `3px solid ${dim.color}`;
+  const num = String(dim.id).padStart(2, '0');
+  hdr.innerHTML = `
+    <div class="dim-meta">
+      <span class="dim-number" style="color:${dim.color}">${num}</span>
+      <span class="dim-name">${dim.name}</span>
+    </div>
+    <div class="dim-tagline">${dim.tagline}</div>`;
+  card.appendChild(hdr);
+
+  // body
+  const body = document.createElement('div');
+  body.className = 'dim-body';
+
+  // starter skills
+  const sl = document.createElement('div');
+  sl.className = 'section-label';
+  sl.textContent = 'Starter skills';
+  body.appendChild(sl);
+
+  const skillsRow = document.createElement('div');
+  skillsRow.className = 'skills';
+  dim.skills.forEach(sk => {
+    const a = document.createElement('a');
+    a.className = 'pill';
+    a.href = link(sk);
+    a.innerHTML = `<span class="pill-name">${sk.name}</span><span class="pill-tag">${sk.tag}</span>`;
+    skillsRow.appendChild(a);
+  });
+  if (dim.chain) {
+    const a = document.createElement('a');
+    a.className = 'pill chain-pill';
+    a.href = link(dim.chain);
+    a.innerHTML = `<span class="pill-name">${dim.chain.name}<span class="chain-badge">chain</span></span><span class="pill-tag">${dim.chain.tag}</span>`;
+    skillsRow.appendChild(a);
+  }
+  body.appendChild(skillsRow);
+
+  // diagnostic questions
+  const ql = document.createElement('div');
+  ql.className = 'section-label';
+  ql.textContent = 'Diagnostic questions';
+  body.appendChild(ql);
+
+  const qlist = document.createElement('ul');
+  qlist.className = 'questions';
+  dim.questions.forEach(q => {
+    const li = document.createElement('li');
+    li.textContent = q;
+    qlist.appendChild(li);
+  });
+  body.appendChild(qlist);
+
+  // overlap note
+  if (dim.overlap) {
+    const note = document.createElement('div');
+    note.className = 'overlap-note';
+    note.innerHTML = dim.overlap;
+    body.appendChild(note);
+  }
+
+  card.appendChild(body);
+  return card;
+}
+
+function render(query) {
+  const q = (query || '').toLowerCase().trim();
+  const grid = document.getElementById('grid');
+  grid.innerHTML = '';
+  let any = false;
+
+  DIMENSIONS.forEach(dim => {
+    const haystack = [
+      dim.name, dim.tagline,
+      ...dim.skills.map(s => s.name + ' ' + s.tag),
+      dim.chain ? dim.chain.name + ' ' + dim.chain.tag : '',
+      ...dim.questions,
+      dim.overlap || '',
+    ].join(' ').toLowerCase();
+
+    const match = !q || q.split(/\s+/).every(w => haystack.includes(w));
+    if (match) {
+      any = true;
+      grid.appendChild(buildCard(dim));
+    }
+  });
+
+  document.getElementById('empty').style.display = any ? 'none' : 'block';
+}
+
+let timer;
+document.getElementById('search').addEventListener('input', e => {
+  clearTimeout(timer);
+  timer = setTimeout(() => render(e.target.value), 120);
+});
+
+render('');
+</script>
+</body>
+</html>

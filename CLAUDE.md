@@ -108,6 +108,7 @@ The graph picks up new `## Connections` entries automatically on rebuild — so 
 | `Skills Reference/skills-manifest.json` | Canonical registry (id, name, category, file, color) |
 | `Skills Reference/{Category}/*.md` | Individual skill cards (Definition → Connections) |
 | `Skills Reference/situation-finder.html` | 45 situations mapped to skill clusters |
+| `Skills Reference/executive-scan.html` | 10 business dimensions for scanning without a known symptom |
 | `Skills Reference/graph.html` | Connection graph — explore by proximity |
 | `Skills Reference/training-guide.md` | Full usage guide including chaining patterns |
 | `Skills Reference/quick-reference.html` | Printable 2-page cheat sheet |

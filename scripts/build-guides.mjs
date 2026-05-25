@@ -64,6 +64,7 @@ blockquote p{color:#1E3A5F;margin:0;}
 const NAV = (activePage) => `<div id="hdr">
   <h1>Skills Framework <span>Reference Deck</span></h1>
   <div id="hdr-nav">
+    <a href="executive-scan.html" class="nav-btn${activePage === 'exec' ? ' active' : ''}">⊛ Exec Scan</a>
     <a href="index.html" class="nav-btn${activePage === 'deck' ? ' active' : ''}">⊞ Card Deck</a>
     <a href="graph.html" class="nav-btn${activePage === 'graph' ? ' active' : ''}">⬡ Graph</a>
     <a href="training-guide.html" class="nav-btn${activePage === 'guide' ? ' active' : ''}">📖 Guide</a>
