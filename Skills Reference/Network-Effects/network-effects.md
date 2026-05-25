@@ -45,6 +45,7 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 → [**Critical Mass**](../Systems/critical-mass.md) — network effects only activate above the critical mass threshold.
 → [**Viral Growth**](viral-growth.md) — the growth mechanism that most efficiently reaches critical mass.
 → [**Defensibility**](defensibility.md) — network effects are the strongest source of defensibility in digital markets.
+→ [**Value Creation and Capture**](../Economics/value-creation-capture.md) — network effects are one of the most powerful value capture mechanisms: as the network grows, switching costs rise and the fraction of created value that can be retained increases.
 
 ---
 

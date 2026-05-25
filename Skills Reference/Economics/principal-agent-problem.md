@@ -18,6 +18,8 @@ Each mitigation has costs: incentive alignment introduces Goodhart's Law risk; m
 ## Connections
 
 - **Goodhart's Law** — the operational mechanism: the metrics principals use to monitor agents become gameable targets
+- **Power Mapping** — power gaps often correspond to principal-agent misalignments; mapping who actually decides versus who formally decides surfaces where the agency problem is structurally embedded
+- **Coalition Building** — coalition members are agents whose private incentives may not fully align with the coalition's stated purpose; the principal-agent lens predicts where fracture is most likely
 - **Incentives** — the primary tool for mitigation
 - **Cobra Effect** — classic principal-agent failure in a colonial governance context
 - **Ladder of Inference** — principals draw conclusions about agents from limited observable data

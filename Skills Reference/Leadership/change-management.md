@@ -14,6 +14,8 @@ Most transformations fail not because of flawed strategy but because of insuffic
 - **Organizational Culture** — Kotter's step 8 only succeeds when new behaviours reach the basic assumptions level
 - **Mission Command** — enlisting volunteers requires intent-based communication
 - **Stakeholder Mapping** — the guiding coalition is built from stakeholder analysis
+- **Coalition Building** — Kotter's guiding coalition is a coalition; this card operationalises how to assemble and sustain it
+- **Power Mapping** — identify who the real decision-makers and opinion leaders are before designing the guiding coalition
 - **Cynefin Framework** — change approach must match the domain type
 - **RACI Framework** — ambiguous accountability is a top cause of transformation failure
 

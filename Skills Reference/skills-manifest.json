@@ -1307,6 +1307,48 @@
       "name": "Crawl / Walk / Run",
       "category": "Pre-built Chains",
       "color": "#B45309"
+    },
+    "Economics/unit-economics.md": {
+      "id": 216,
+      "name": "Unit Economics",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "Economics/value-creation-capture.md": {
+      "id": 217,
+      "name": "Value Creation and Capture",
+      "category": "Economics",
+      "color": "#16A34A"
+    },
+    "Business/business-case-construction.md": {
+      "id": 218,
+      "name": "Business Case Construction",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Business/pricing-logic.md": {
+      "id": 219,
+      "name": "Pricing Logic",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Business/power-mapping.md": {
+      "id": 220,
+      "name": "Power Mapping",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Leadership/influence-without-authority.md": {
+      "id": 221,
+      "name": "Influence Without Authority",
+      "category": "Leadership",
+      "color": "#1E40AF"
+    },
+    "Leadership/coalition-building.md": {
+      "id": 222,
+      "name": "Coalition Building",
+      "category": "Leadership",
+      "color": "#1E40AF"
     }
   },
   "refs": [

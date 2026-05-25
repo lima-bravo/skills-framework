@@ -45,6 +45,7 @@ Kodak invented the digital camera in 1975 and buried the invention because it th
 
 ## Connections
 
+→ [**Value Creation and Capture**](value-creation-capture.md) — creative destruction reshifts the capture split: incumbents who were capturing significant value find that new entrants restructure who captures what.
 → [**Monopoly vs. Competition**](monopoly-vs-competition.md) — monopoly positions are the primary targets of creative destruction.
 → [**S-curves**](../Systems/s-curves.md) (see Compounding/Learning) — creative destruction describes the jump between S-curves.
 → [**Second-order Effects**](../General-Thinking/second-order-effects.md) — the full impact of creative destruction on industries, workers, and communities takes years to unfold.

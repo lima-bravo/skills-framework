@@ -43,6 +43,7 @@ A logistics company plans to build a new sorting facility in a mid-sized town. I
 
 ## Connections
 
+→ [**Power Mapping**](power-mapping.md) — stakeholder mapping analyses interests and salience; power mapping analyses influence structure. Use both: this card for prioritisation, power mapping for understanding how stakeholders relate to each other and who the real decision-makers are.
 → [**Incentives**](../Psychology/incentives.md) — stakeholder salience is determined partly by incentive alignment. High-power stakeholders whose incentives are aligned need less intensive management than those whose incentives are misaligned.
 → [**Second-order Effects**](../General-Thinking/second-order-effects.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates. The map is the tool for anticipating this.
 → [**Interdependence**](../Economics/interdependence.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritize which dependencies to manage most actively.

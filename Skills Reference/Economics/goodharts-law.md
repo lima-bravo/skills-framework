@@ -19,6 +19,7 @@ Hospital waiting-time targets cause patients to be held in ambulances outside th
 
 ## Connections
 
+- **Unit Economics** — CAC and LTV are the metrics most vulnerable to Goodhart's Law; organisations that target them directly distort the customer acquisition mix or inflate LTV projections
 - **Incentives** — Goodhart's Law is the failure mode of incentive systems
 - **Cobra Effect** — classic illustration: the bounty incentivised cobra breeding
 - **Principal-Agent Problem** — agents optimise what they're measured on, not necessarily what principals want

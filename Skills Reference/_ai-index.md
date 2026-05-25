@@ -44,8 +44,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Systems (17 skills) — #0D9488
 `17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure`
 
-### Economics (13 skills) — #16A34A
-`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem`
+### Economics (15 skills) — #16A34A
+`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture`
 
 ### Physics & Chemistry (10 skills) — #EA580C
 `41·Leverage` `42·Velocity` `43·Inertia` `44·Friction` `45·Activation Energy` `46·Thermodynamics` `47·Catalysts` `48·Alloying` `49·Reciprocity` `50·Relativity`
@@ -56,8 +56,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Innovation & Entrepreneurship (22 skills) — #DC2626
 `62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder`
 
-### Business (11 skills) — #475569
-`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping`
+### Business (14 skills) — #475569
+`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping`
 
 ### Mathematics (7 skills) — #4F46E5
 `75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero`
@@ -80,8 +80,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Pre-built Chains (19 skills) — #B45309
 `94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run`
 
-### Leadership (13 skills) — #1E40AF
-`118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause`
+### Leadership (15 skills) — #1E40AF
+`118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building`
 
 ### Applied AI (3 skills) — #0369A1
 `183·AI Authority Boundaries` `184·Minimal Capability Principle` `185·Prompt Injection`
@@ -103,9 +103,12 @@ Format: `id·Name` — file at `Category/filename.md`
 | Delivery flow broken | 18·Bottlenecks → 132·WIP Limits → 131·Little's Law → 133·Flow Efficiency |
 | Innovation programme | Chain 177 → Chain 178 → 113·Three Horizons |
 | Funnel idea needs a hypothesis | Chain 213·From Idea to Hypothesis → Chain 214·Crawl / Walk / Run |
+| Business case needs stress-testing | 218·Business Case Construction → 160·Reference Class Forecasting → 211·Calibration |
+| Need to move something without rank | 220·Power Mapping → 221·Influence Without Authority → 222·Coalition Building |
+| Pricing decision | 217·Value Creation and Capture → 219·Pricing Logic → Chain 94·Pricing Decision |
 | Running a staged experiment | Chain 214·Crawl / Walk / Run — crawl (does it work?) → walk (well enough?) → run (real data?) |
 | AI deployment governance | Chain 187 → Chain 186 → 183·AI Authority Boundaries |
 
 ---
 
-*Skills Framework · 215 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 222 skills · 16 categories · `skills-manifest.json` is authoritative*
