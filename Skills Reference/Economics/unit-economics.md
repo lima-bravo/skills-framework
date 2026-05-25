@@ -68,7 +68,7 @@ The SMB segment is marginally viable at best and is pulling the blended ratio do
 
 - Skok, D. (2010) "SaaS Metrics 2.0" — *For Entrepreneurs* blog. The definitive practitioner guide to SaaS unit economics.
 - Andreessen, M. (2011) "Product/Market Fit" — introduces the LTV:CAC framework in the venture context.
-- Blischok, T. (2018) *The Retail Revival* — unit economics applied to physical retail.
+- Stephens, D. (2013) *The Retail Revival* — unit economics applied to physical retail.
 - Horowitz, B. (2014) *The Hard Thing About Hard Things* — chapter on business model economics under pressure.
 
 ---

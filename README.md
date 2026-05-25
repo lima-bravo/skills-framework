@@ -2,6 +2,18 @@
 
 A personal skills / mental-models framework with an offline **reference card deck** (`Skills Reference/index.html`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **222 skills** across **16 categories** (source of truth: `skills-manifest.json`).
 
+## Where to start
+
+**If you have a specific problem or situation** → open [`Skills Reference/situation-finder.html`](Skills%20Reference/situation-finder.html). 45 first-person situations with keyword search, each mapped to 3–4 curated skills and relevant chains. This is the recommended entry point.
+
+**If you're scanning a business across multiple dimensions** → open `Skills Reference/executive-scan.html` *(coming soon)*. Eight business lenses (strategy, portfolio economics, delivery, culture, metric integrity, innovation, risk, AI exposure), each with starter skills and questions to ask.
+
+**If you've received a single skill card** → read [`Skills Reference/skill-primer.md`](Skills%20Reference/skill-primer.md) first. It explains how to get value from one card in ten minutes, without engaging the full framework.
+
+**If you want to explore connections between models** → [`Skills Reference/graph.html`](Skills%20Reference/graph.html) shows the full network. Best for practitioners who already know a few cards and want to discover adjacent models.
+
+---
+
 ## Reference deck (single-file download)
 
 Open [`Skills Reference/index.html`](Skills%20Reference/index.html) in any browser. No server required.
@@ -10,7 +22,7 @@ The deck includes:
 
 - Search and category filters across **222 skills**
 - Expandable skill modals with cross-links
-- **Sources & References** panel (**186** sources)
+- **Sources & References** panel (**205** sources)
 
 Related: [`Skills Reference/graph.html`](Skills%20Reference/graph.html) for the D3 connection graph.
 
