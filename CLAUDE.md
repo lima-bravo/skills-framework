@@ -76,8 +76,8 @@ Before finishing, always ask the user:
 
 Then, when confirmed:
 
-7. Update `Skills Reference/situation-finder.html` — for each new card, decide whether it maps to an existing situation (extend the skill list) or warrants a new situation entry. Not every card will qualify; use judgment.
-8. Update `Skills Reference/quick-reference.html` — update category counts on page 1 (always needed when a count changes), and add a tagline entry on page 2 if the card has a strong tagline worth memorising.
+7. Update `docs/situation-finder.html` — for each new card, decide whether it maps to an existing situation (extend the skill list) or warrants a new situation entry. Not every card will qualify; use judgment.
+8. Update `docs/quick-reference.html` — update category counts on page 1 (always needed when a count changes), and add a tagline entry on page 2 if the card has a strong tagline worth memorising.
 
 The reason for batching steps 7–8 is that both files are *views* that benefit from being rebuilt across a whole set of cards at once. The decisions involved — which situations does this card belong to? does this tagline earn a slot? — are better made with all new cards visible together rather than card by card.
 
@@ -85,13 +85,13 @@ The reason for batching steps 7–8 is that both files are *views* that benefit 
 
 | File | Rebuilt by `npm run build`? |
 |---|---|
-| `index.html` (card deck) | ✅ auto — from `skills-manifest.json` + card `.md` files |
-| `graph.html` (connection graph) | ✅ auto — from `## Connections` sections in card files |
-| `training-guide.html` | ✅ auto — rendered from `training-guide.md` |
-| `skill-primer.html` | ✅ auto — rendered from `skill-primer.md` |
-| `_ai-index.md` | ❌ manual (count + inventory) — update by hand |
-| `situation-finder.html` | ❌ manual — update by hand |
-| `quick-reference.html` | ❌ manual — update by hand |
+| `docs/deck.html` (card deck) | ✅ auto — from `skills-manifest.json` + card `.md` files |
+| `docs/graph.html` (connection graph) | ✅ auto — from `## Connections` sections in card files |
+| `docs/training-guide.html` | ✅ auto — rendered from `training-guide.md` |
+| `docs/skill-primer.html` | ✅ auto — rendered from `skill-primer.md` |
+| `Skills Reference/_ai-index.md` | ❌ manual (count + inventory) — update by hand |
+| `docs/situation-finder.html` | ❌ manual — update by hand |
+| `docs/quick-reference.html` | ❌ manual — update by hand |
 | `Skills Reference/skill-primer.md` | ❌ manual (count) — update "one of N" and footer line |
 | `README.md` | ❌ manual (count) — update intro paragraph, repo layout block, and Sources & References count |
 | `CLAUDE.md` (this file) | ❌ manual (count) — update the opening paragraph |
@@ -102,17 +102,33 @@ The graph picks up new `## Connections` entries automatically on rebuild — so 
 
 ## Key file map
 
+**Source files (edit these):**
+
 | Path | Contents |
 |---|---|
 | `Skills Reference/_ai-index.md` | **Start here** — compact AI-readable index of all skills (count in the file) |
 | `Skills Reference/skills-manifest.json` | Canonical registry (id, name, category, file, color) |
 | `Skills Reference/{Category}/*.md` | Individual skill cards (Definition → Connections) |
-| `Skills Reference/situation-finder.html` | 45 situations mapped to skill clusters |
-| `Skills Reference/executive-scan.html` | 10 business dimensions for scanning without a known symptom |
-| `Skills Reference/graph.html` | Connection graph — explore by proximity |
 | `Skills Reference/training-guide.md` | Full usage guide including chaining patterns |
-| `Skills Reference/quick-reference.html` | Printable 2-page cheat sheet |
 | `Skills Reference/skill-primer.md` | Short guide for first-time card readers |
+
+**Website files (published from `docs/`):**
+
+| Path | Contents |
+|---|---|
+| `docs/index.html` | Landing page — framework overview and entry points |
+| `docs/situation-finder.html` | 45 situations mapped to skill clusters — edit this file directly |
+| `docs/executive-scan.html` | 10 business dimensions for scanning without a known symptom — edit this file directly |
+| `docs/quick-reference.html` | Printable 2-page cheat sheet — edit this file directly |
+| `docs/deck.html` | Generated card deck — rebuilt by `npm run build:deck` |
+| `docs/graph.html` | Generated connection graph — rebuilt by `npm run build:graph` |
+| `docs/training-guide.html` | Generated from `Skills Reference/training-guide.md` |
+| `docs/skill-primer.html` | Generated from `Skills Reference/skill-primer.md` |
+
+**Other:**
+
+| Path | Contents |
+|---|---|
 | `Skills Framework.md` | Monolithic reference (pre-card-deck era; partial — 12 of 16 categories) |
 
 ---

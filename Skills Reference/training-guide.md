@@ -5,7 +5,7 @@
 
 ## What This Guide Is For
 
-You have access to **222 skills** across **16 categories** (203 mental-model cards plus 19 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`index.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
+You have access to **222 skills** across **16 categories** (203 mental-model cards plus 19 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`docs/deck.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
 
 It covers four things:
 
@@ -24,7 +24,7 @@ The framework has four layers, each suited to different moments:
 
 **The connection graph (`graph.html`)** is your discovery layer — the recommended first stop when you don't already know which skill you need. It shows all 222 skills as an interactive network, with edges representing documented connections between models. Click a node to see its connections; click a connected node to follow the thread. This layer is most valuable when the problem is open-ended, when you sense a concept is relevant but can't name it, or when you want to find the models that cluster around one you already know. The graph reveals which models work together in ways that a category list cannot.
 
-**The card deck (`index.html`)** is your working surface. Open it when you know roughly what you're looking for — search by keyword, filter by category, and expand a card to read the mental model and heuristics. Use it in the moment when facing a specific decision or problem.
+**The card deck (`docs/deck.html`)** is your working surface. Open it when you know roughly what you're looking for — search by keyword, filter by category, and expand a card to read the mental model and heuristics. Use it in the moment when facing a specific decision or problem.
 
 **The individual skill files (`General-Thinking/`, `Systems/`, etc.)** are your deep-dive layer. When a skill feels relevant but half-understood, open the full file. Read the definition, the failure modes, and the worked example. These are the files you return to when a model becomes important to your practice.
 

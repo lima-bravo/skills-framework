@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Build Skills Reference/index.html from markdown skill files.
+ * Build docs/deck.html from markdown skill files.
  * Stable ids: skills-manifest.json. Reference blocks: reference-sections.json
  * (until each skill has ## References in its .md).
  */
@@ -11,10 +11,14 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const REF_DIR = path.join(ROOT, 'Skills Reference');
+const DOCS_DIR = path.join(ROOT, 'docs');
 const TEMPLATE = path.join(REF_DIR, 'deck.template.html');
 const MANIFEST = path.join(REF_DIR, 'skills-manifest.json');
 const REF_SECTIONS = path.join(REF_DIR, 'reference-sections.json');
-const OUT = path.join(REF_DIR, 'index.html');
+const OUT = path.join(DOCS_DIR, 'deck.html');
+
+// Ensure docs/ exists
+fs.mkdirSync(DOCS_DIR, { recursive: true });
 
 function esc(s) {
   return String(s ?? '')

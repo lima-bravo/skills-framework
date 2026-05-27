@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Training Guide — Skills Framework</title>
+<style>
+:root{
+  --bg:#F1F5F9;--card:#fff;--text:#1E293B;--sub:#64748B;--border:#E2E8F0;
+  --hdr-bg:#1E293B;--hdr-muted:#94A3B8;
+  --surface-dark:#0F172A;--border-dark:#334155;--text-on-dark:#F1F5F9;
+  --accent:#3B82F6;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
+#hdr{background:var(--hdr-bg);color:#fff;padding:1.25rem 1.5rem;display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;position:sticky;top:0;z-index:100;box-shadow:0 2px 8px rgba(0,0,0,.3);}
+#hdr h1{font-size:1.1rem;font-weight:700;letter-spacing:-.01em;white-space:nowrap;}
+#hdr span{color:var(--hdr-muted);font-size:.8rem;margin-left:.25rem;}
+#hdr-nav{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-left:auto;}
+.nav-btn{display:inline-flex;align-items:center;gap:.35rem;padding:.4rem .9rem;background:var(--hdr-bg);color:var(--hdr-muted);border:1px solid var(--border-dark);border-radius:999px;font-size:.78rem;font-weight:600;text-decoration:none;letter-spacing:.04em;transition:background .15s,color .15s;cursor:pointer;}
+.nav-btn:hover{background:var(--border-dark);color:var(--text-on-dark);}
+.nav-btn.active{background:var(--accent);color:#fff;border-color:var(--accent);}
+#content{max-width:760px;margin:0 auto;padding:2.5rem 1.5rem 4rem;}
+h1.page-title{font-size:1.9rem;font-weight:800;line-height:1.2;margin-bottom:.4rem;color:var(--text);}
+.page-subtitle{font-size:1rem;font-style:italic;color:var(--sub);margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:2px solid var(--border);}
+h2{font-size:1.15rem;font-weight:800;color:var(--text);margin:2.25rem 0 .75rem;padding-bottom:.4rem;border-bottom:1px solid var(--border);}
+h3{font-size:.95rem;font-weight:700;color:var(--text);margin:1.5rem 0 .5rem;}
+h4{font-size:.85rem;font-weight:700;color:var(--sub);text-transform:uppercase;letter-spacing:.06em;margin:1.25rem 0 .4rem;}
+p{font-size:.92rem;line-height:1.75;color:#334155;margin-bottom:.85rem;}
+ul,ol{margin:.25rem 0 .85rem 1.4rem;}
+li{font-size:.92rem;line-height:1.7;color:#334155;margin-bottom:.3rem;}
+li p{margin-bottom:.2rem;}
+strong{color:var(--text);font-weight:700;}
+em{font-style:italic;}
+code{background:#E2E8F0;color:#1E293B;padding:.1rem .35rem;border-radius:3px;font-size:.82em;font-family:ui-monospace,monospace;}
+hr{border:none;border-top:1px solid var(--border);margin:2rem 0;}
+table{width:100%;border-collapse:collapse;margin:.5rem 0 1.25rem;font-size:.85rem;}
+th{background:#F8FAFC;text-align:left;padding:.55rem .75rem;font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--sub);border-bottom:2px solid var(--border);}
+td{padding:.5rem .75rem;border-bottom:1px solid var(--border);color:#334155;vertical-align:top;}
+tr:last-child td{border-bottom:none;}
+blockquote{border-left:3px solid var(--accent);padding:.4rem .9rem;background:#EFF6FF;border-radius:0 6px 6px 0;margin:.5rem 0 1rem;}
+blockquote p{color:#1E3A5F;margin:0;}
+.back-link{display:inline-flex;align-items:center;gap:.3rem;font-size:.8rem;color:var(--sub);text-decoration:none;margin-bottom:1.75rem;}
+.back-link:hover{color:var(--accent);}
+@media(max-width:600px){#content{padding:1.5rem 1rem 3rem;}h1.page-title{font-size:1.4rem;}}
+</style>
+</head>
+<body>
+<div id="hdr">
+  <h1>Skills Framework <span>Mental Models Reference</span></h1>
+  <div id="hdr-nav">
+    <a href="index.html" class="nav-btn">🏠 Home</a>
+    <a href="situation-finder.html" class="nav-btn">🔍 Situations</a>
+    <a href="deck.html" class="nav-btn">⊞ Card Deck</a>
+    <a href="executive-scan.html" class="nav-btn">⊛ Exec Scan</a>
+    <a href="graph.html" class="nav-btn">⬡ Graph</a>
+    <a href="training-guide.html" class="nav-btn active">📖 Guide</a>
+  </div>
+</div>
+<div id="content">
+<h1 class="page-title">Training Guide</h1>
+<p class="page-subtitle">Skill counts match `skills-manifest.json` (222 total).</p>
+<h2>How to Use the Skills Framework</h2>
+<h2>What This Guide Is For</h2>
+<p>You have access to <strong>222 skills</strong> across <strong>16 categories</strong> (203 mental-model cards plus 19 pre-built decision chains), organized three ways: a master reference document (<code>Skills Framework.md</code>), a searchable card deck (<code>docs/deck.html</code>), and individual deep-dive files under <code>Skills Reference/</code>. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.</p>
+<p>It covers four things:</p>
+<ol>
+<li>How the framework is structured and why</li>
+<li>How to learn individual skills</li>
+<li>How to chain skills together for complex problems</li>
+<li>How to build a daily practice that makes these models automatic</li>
+</ol>
+<h2>Part 1 — Understanding the Structure</h2>
+<h3>Four layers</h3>
+<p>The framework has four layers, each suited to different moments:</p>
+<p><strong>The connection graph (<code>graph.html</code>)</strong> is your discovery layer — the recommended first stop when you don't already know which skill you need. It shows all 222 skills as an interactive network, with edges representing documented connections between models. Click a node to see its connections; click a connected node to follow the thread. This layer is most valuable when the problem is open-ended, when you sense a concept is relevant but can't name it, or when you want to find the models that cluster around one you already know. The graph reveals which models work together in ways that a category list cannot.</p>
+<p><strong>The card deck (<code>docs/deck.html</code>)</strong> is your working surface. Open it when you know roughly what you're looking for — search by keyword, filter by category, and expand a card to read the mental model and heuristics. Use it in the moment when facing a specific decision or problem.</p>
+<p><strong>The individual skill files (<code>General-Thinking/</code>, <code>Systems/</code>, etc.)</strong> are your deep-dive layer. When a skill feels relevant but half-understood, open the full file. Read the definition, the failure modes, and the worked example. These are the files you return to when a model becomes important to your practice.</p>
+<p><strong>The master document (<code>Skills Framework.md</code>)</strong> covers the core categories in one file — best for sequential study or for searching with your editor's find function.</p>
+<h3>The 16 categories and what they're for</h3>
+<p>The categories are not arbitrary. They reflect different levels of abstraction and different types of problem:</p>
+<table><thead><tr>
+<th>Category</th>
+<th>Skills</th>
+<th>What it's for</th>
+</tr></thead><tbody>
+<tr>
+<td>General Thinking</td>
+<td>24</td>
+<td>Any problem; the foundational layer</td>
+</tr>
+<tr>
+<td>Systems</td>
+<td>17</td>
+<td>Understanding how things behave over time</td>
+</tr>
+<tr>
+<td>Economics</td>
+<td>15</td>
+<td>Resource allocation, incentives, markets</td>
+</tr>
+<tr>
+<td>Physics & Chemistry</td>
+<td>10</td>
+<td>Structural forces and mechanisms</td>
+</tr>
+<tr>
+<td>Psychology</td>
+<td>26</td>
+<td>Human behavior, bias, and motivation</td>
+</tr>
+<tr>
+<td>Innovation & Entrepreneurship</td>
+<td>22</td>
+<td>New ventures, products, and innovation programs</td>
+</tr>
+<tr>
+<td>Business</td>
+<td>14</td>
+<td>Established organization management and strategy</td>
+</tr>
+<tr>
+<td>Mathematics</td>
+<td>7</td>
+<td>Quantitative and logical reasoning</td>
+</tr>
+<tr>
+<td>Network Effects</td>
+<td>4</td>
+<td>Platform and ecosystem strategy</td>
+</tr>
+<tr>
+<td>Learning</td>
+<td>6</td>
+<td>Building capability deliberately</td>
+</tr>
+<tr>
+<td>Art</td>
+<td>4</td>
+<td>Communication and creative expression</td>
+</tr>
+<tr>
+<td>Delivery & Flow</td>
+<td>31</td>
+<td>Throughput, WIP, metrics, org design for flow</td>
+</tr>
+<tr>
+<td>Consulting Craft</td>
+<td>5</td>
+<td>Problem structuring, executive communication, engagement management</td>
+</tr>
+<tr>
+<td>Leadership</td>
+<td>15</td>
+<td>Change, culture, governance, trust, operational execution, meeting discipline</td>
+</tr>
+<tr>
+<td>Applied AI</td>
+<td>3</td>
+<td>AI governance, authority boundaries, agentic system design</td>
+</tr>
+<tr>
+<td>Pre-built Chains</td>
+<td>19</td>
+<td>High-stakes recurring decisions and structured methodologies</td>
+</tr>
+</tbody></table>
+<p><em>Skill counts match <code>skills-manifest.json</code> (222 total).</em></p>
+<p>When you don't know which category applies, <strong>start with the graph</strong> (<code>graph.html</code>). Click any node that looks relevant and follow its connections — the proximity of models in the graph reflects how often they are applied together. If you already have a keyword or category in mind, the card deck search is faster. For delivery, prioritization, or organizational flow questions, filter <strong>Delivery & Flow</strong> or run a chain such as <strong>Improve Delivery Flow</strong>. For AI deployment and governance questions, go directly to <strong>Applied AI</strong> and the two AI chains.</p>
+<h3>The two types of content in the deck</h3>
+<p><strong>Mental model cards</strong> (192 cards across 15 categories) are standalone conceptual tools. Each one describes a pattern — how a specific class of situation tends to work — and gives you practitioner heuristics for applying it. You use them individually or chain them together.</p>
+<p><strong>Pre-built chains</strong> (17 chains in the Pre-built Chains category) are structured multi-step workflows for specific recurring situations. They sequence multiple mental models in the right order. Use a chain when you are facing one of the situations it names — don't build your own chain from scratch for those situations.</p>
+<p>The distinction matters: if you are thinking about <em>whether</em> to enter a new market, reach for the <strong>Market Entry</strong> chain. If you are diagnosing <em>why</em> your team's delivery is slow, reach for <strong>Improve Delivery Flow</strong>. If you are evaluating an AI deployment proposal, reach for <strong>AI Use Case Autonomy Assessment</strong>. For everything else, start with individual cards.</p>
+<h3>The anatomy of a skill entry</h3>
+<p>Every skill has six components. Learn to use each one differently:</p>
+<p><strong>Definition</strong> — Read this when you're learning the skill for the first time, or when you need to explain it to someone else.</p>
+<p><strong>Mental Model</strong> — This is the core: one paragraph describing how an experienced practitioner holds this concept in their mind. Read this carefully. If you understand only one part of a skill, understand this part.</p>
+<p><strong>Practitioner Heuristics</strong> — These are actionable rules. Once you understand the mental model, these are what you actually do. Read them before entering a situation where the skill applies, and return to them afterward to check how you did.</p>
+<p><strong>Common Failure Modes</strong> — Read these <em>before</em> you apply a skill for the first time. Knowing how smart people misapply a model is often more valuable than knowing how to apply it well.</p>
+<p><strong>Worked Example</strong> — Read when the definition feels abstract. The example makes the skill concrete. If you're struggling to see how a model applies to your situation, look for structural parallels in the worked example.</p>
+<p><strong>Connections</strong> — Read when you have a rich enough understanding of the framework to chain models together. The connections section points you to the skills that amplify or check this one.</p>
+<h2>Part 2 — Learning Individual Skills</h2>
+<h3>The acquisition sequence</h3>
+<p>Do not try to memorize the framework. Mental models become useful when they are internalized as intuitions, not stored as definitions. The sequence for acquiring any skill:</p>
+<p><strong>Step 1: Read the mental model</strong> (5 minutes). Just this paragraph. Ask: what is the core insight? If you cannot state it in one sentence, read it again.</p>
+<p><strong>Step 2: Apply it to a past situation</strong> (10 minutes). Think of a real decision or problem from your experience — professional or personal — where this model was relevant. How would applying it have changed the analysis? Write a few sentences. This step connects the abstract to the personal.</p>
+<p><strong>Step 3: Watch for it in the coming week</strong>. Once you have a model in your head, you will begin to see it operating in your environment — in a meeting, in a news story, in a conversation. When you notice it, name it explicitly: "That's a sunk cost trap." "That's a feedback loop." This is the integration phase.</p>
+<p><strong>Step 4: Teach it</strong> (optional, high-leverage). Explaining a model to someone else forces you to find the gaps in your understanding. If you can explain the model clearly enough that the other person immediately applies it to their own situation, you have internalized it.</p>
+<h3>Prioritizing what to learn first</h3>
+<p>With 222 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):</p>
+<p><strong>Tier 1 — Master these first</strong> (12 skills). These are the highest-utility, most-used models. Most other skills build on them or are checked by them:</p>
+<ul>
+<li>First Principles</li>
+<li>Inversion</li>
+<li>Second-Order Effects</li>
+<li>Feedback Loops</li>
+<li>Incentives</li>
+<li>Probabilistic Thinking</li>
+<li>Map-Territory</li>
+<li>Sunk Cost</li>
+<li>Confirmation Bias</li>
+<li>Compounding</li>
+<li>Loss Aversion</li>
+<li>Bottlenecks</li>
+</ul>
+<p><strong>Tier 2 — Learn next</strong> (20 skills). These are the skills you will reach for in most business and strategic contexts:</p>
+<ul>
+<li>All 17 Pre-built Chains (these teach skill chaining by example)</li>
+<li>Margin of Safety, Asymmetry/Convexity, Two-Way Doors (decision quality)</li>
+<li>Cynefin Framework, Causal Analysis, Pre-mortem (problem diagnosis)</li>
+<li>Paradigm Shift, Dominant Logic (understanding why organizations and fields get stuck)</li>
+<li>Survivorship Bias, Hindsight Bias, Fundamental Attribution Error (post-mortem quality and honest retrospection)</li>
+<li>Drift to Failure (understanding how organizations degrade gradually without any single bad decision)</li>
+<li>Falsification, Base Rate Neglect (calibrated reasoning and testing beliefs under pressure)</li>
+<li>A starter set from <strong>Delivery & Flow</strong> if your work involves execution (Little's Law, WIP Limits, Lead Time vs Cycle Time, Team Topologies)</li>
+<li>AI Authority Boundaries + the two AI chains if you're working on AI deployment</li>
+</ul>
+<p><strong>Tier 3 — Build out over time</strong> (the rest of the deck). Study these as relevant problems arise. The card deck makes it easy to search by keyword when a situation calls for a specific model.</p>
+<h3>The spaced repetition principle</h3>
+<p>Mental models are perishable. A model you studied three months ago and haven't used will fade. Two practices maintain them:</p>
+<p><strong>Weekly review</strong>: Pick three skills at random from the card deck. For each, answer in writing: "What problem type is this for? What is the key failure mode? What situation have I been in recently where this applied?" Ten minutes, three skills, once a week.</p>
+<p><strong>Retrospective re-reading</strong>: After any significant decision or event — a launch, a negotiation, a hiring call, a project failure — open the card deck and find the skills that applied. Did you use them? Could you have? What did the worked example predict that you missed?</p>
+<h2>Part 3 — Chaining Skills</h2>
+<h3>What chaining is</h3>
+<p>No real situation is adequately analyzed by a single mental model. The practitioner's advantage is being able to apply multiple models simultaneously, each illuminating a different dimension. This is model chaining — the skill of selecting and sequencing models to build a richer analysis than any one model could produce.</p>
+<h3>How to chain: the three-step protocol</h3>
+<p><strong>Step 1: Identify the problem type</strong></p>
+<p>Before selecting models, classify the situation by the type of uncertainty it involves:</p>
+<ul>
+<li><em>Is this a decision under uncertainty?</em> → Lead with Probabilistic Thinking, Margin of Safety, Two-Way Doors</li>
+<li><em>Is this a system I'm trying to change?</em> → Lead with Feedback Loops, Bottlenecks, Equilibrium</li>
+<li><em>Is this a human/organizational problem?</em> → Lead with Incentives, Loss Aversion, Maslow</li>
+<li><em>Is this a strategic market question?</em> → Lead with Monopoly vs. Competition, Network Effects, Creative Destruction</li>
+<li><em>Is this about a plan with high stakes?</em> → Lead with Inversion / Pre-mortem, Assumption Mapping</li>
+<li><em>Is this an AI deployment or governance question?</em> → Use the AI Use Case Autonomy Assessment chain directly</li>
+</ul>
+<p><strong>Step 2: Apply the primary model</strong></p>
+<p>Start with the one model that most directly addresses the core question. Do a full pass with it: what does it reveal? What does it predict? What does it recommend?</p>
+<p><strong>Step 3: Apply checking models</strong></p>
+<p>Once you have an analysis from the primary model, use the Connections section to find checking models — the skills that either amplify what you found or provide a counterweight. Apply each one. Ask: does this check the conclusion from the primary model, or extend it? If two models produce conflicting conclusions, investigate the conflict — it is usually the most informative part of the analysis.</p>
+<h3>Reading the Connections sections</h3>
+<p>The Connections section of each skill is a curated chaining map. For example, Inversion's connections point to Second-Order Effects ("inversion exposes first-order failure; second-order thinking asks what happens after the failure cascades") and Confirmation Bias ("inversion is the structural antidote to confirmation bias"). This tells you: when you are doing inversion analysis, the <em>next</em> models to apply are Second-Order Effects and a Confirmation Bias check.</p>
+<p>After a few weeks of use, you will develop your own intuitions about which model families cluster together. Common clusters:</p>
+<p><strong>Decision quality cluster</strong>: First Principles + Inversion + Probabilistic Thinking + Margin of Safety + Two-Way Doors + Regret Minimization Framework</p>
+<p><strong>System intervention cluster</strong>: Feedback Loops + Bottlenecks + Leverage + Activation Energy + Incentives</p>
+<p><strong>Market strategy cluster</strong>: Monopoly vs. Competition + Network Effects + Creative Destruction + Defensibility + Red Queen Dilemma</p>
+<p><strong>People management cluster</strong>: Incentives + Maslow + McClelland + ERG Theory + Self-Determination Theory + Loss Aversion + Reciprocity + Purpose Clarity</p>
+<p><strong>Product development cluster</strong>: Product-Market Fit + Build-Measure-Learn + MVP + Customer Development + Assumption Mapping + Continuous Discovery + Opportunity Solution Trees</p>
+<p><strong>Innovation program cluster</strong>: Three Horizons + Ambidextrous Organization + Organizational Slack + Exploration vs. Exploitation + Innovation Health Indicators</p>
+<p><strong>Why things get stuck cluster</strong>: Dominant Logic + Paradigm Shift + Immunity to Change + Confirmation Bias + Sunk Cost + Inertia + Commitment & Consistency Bias</p>
+<p><strong>Cognitive bias cluster</strong>: Confirmation Bias + Availability Bias + Hindsight Bias + Survivorship Bias + Fundamental Attribution Error + Narrative Instinct + Base Rate Neglect + Commitment & Consistency Bias</p>
+<p><strong>Post-mortem quality cluster</strong>: After-Action Review + Hindsight Bias + Fundamental Attribution Error + SRK Framework + Survivorship Bias + Falsification + Narrative Instinct</p>
+<p><strong>Calibrated forecasting cluster</strong>: Probabilistic Thinking + Base Rate Neglect + Reference Class Forecasting + Planning Fallacy + Falsification + Probabilistic Forecasting</p>
+<p><strong>System reliability and drift cluster</strong>: Drift to Failure + SRK Framework + Goodhart's Law + Feedback Loops + Commitment & Consistency Bias + After-Action Review</p>
+<p><strong>Communication cluster</strong>: Audience + Framing + Contrast + Rhythm + Anchoring + Pyramid Principle</p>
+<p><strong>AI governance cluster</strong>: AI Authority Boundaries + Minimal Capability Principle + Prompt Injection + Principal–Agent Problem + Two-Way Doors</p>
+<p><strong>Operational execution cluster</strong>: Leader's Intent + Brief-Back Protocols + Mission Command + Tactical Pause + After-Action Review + OODA Loop</p>
+<p><strong>Meeting discipline cluster</strong>: Async-First Default + Three-Question Ritual + Maker's Schedule + RACI Framework</p>
+<p><strong>Motivation and purpose cluster</strong>: Self-Determination Theory + ERG Theory + Purpose Clarity + Psychological Safety + Incentives</p>
+<p><strong>Problem structuring cluster</strong> (consulting): MECE + Pyramid Principle + Hypothesis-Driven Consulting + Causal Analysis + Assumption Mapping</p>
+<h3>A chaining worked example</h3>
+<p>Situation: You are deciding whether to launch a new pricing model that changes from per-seat to usage-based.</p>
+<p><strong>Primary model — Trade-offs</strong>: What is being traded? Revenue predictability (per-seat is predictable, usage-based is variable) vs. customer alignment (usage-based aligns cost with value). This frames the decision correctly.</p>
+<p><strong>Adding Second-Order Effects</strong>: Usage-based pricing incentivizes customers to minimize usage. What does that do to product engagement over time? It may reduce power users who would otherwise have been advocates.</p>
+<p><strong>Adding Incentives</strong>: How does the pricing model change the sales team's incentives? Usage-based is harder to forecast and creates unpredictable commissions — potential internal resistance.</p>
+<p><strong>Adding Loss Aversion</strong>: Existing customers will experience the change as a potential loss (their current spend may increase under usage-based if they are heavy users). Frame the transition carefully; losing existing heavy users is a real risk.</p>
+<p><strong>Adding Anchoring</strong>: How you announce the new pricing sets the anchor. Leading with "new pricing can save you money if you're a light user" anchors on savings; leading with "pricing now scales with your use" anchors on flexibility. The anchor affects adoption.</p>
+<p><strong>Checking with Pre-mortem</strong>: It is 12 months later and the pricing change has failed. Most likely cause: heavy users who were previously profitable churn because their bills increased, and the usage-based model doesn't attract enough new customers to compensate.</p>
+<p><strong>Result</strong>: A richer analysis than any single model produced. You now know the trade-offs, the second-order risks, the internal friction, the customer communication strategy, and the specific failure mode to protect against. Each model contributed a distinct, non-redundant insight.</p>
+<h2>Part 4 — Using the Pre-built Chains</h2>
+<h3>What the chains are</h3>
+<p>The <strong>17</strong> pre-built chains are curated skill sequences for recurring high-stakes situations. They are not algorithms — they do not guarantee a conclusion. They are structured interrogation protocols that ensure the most important dimensions of each situation are considered in the right order.</p>
+<p>The chains fall into three types:</p>
+<p><strong>Decision chains</strong> — for individual high-stakes choices. Run these yourself or with a small group before committing.</p>
+<p><strong>Diagnostic/design chains</strong> — for organizational or systemic situations. These are structured methodologies, closer to a consulting engagement design than a personal decision tool. They produce a written output.</p>
+<p><strong>AI governance chains</strong> — structured pre-deployment assessments for agentic AI systems. These should be run before any AI system goes into production at meaningful autonomy.</p>
+<h3>When to use which chain</h3>
+<table><thead><tr>
+<th>Situation</th>
+<th>Chain</th>
+<th>Type</th>
+</tr></thead><tbody>
+<tr>
+<td>Setting or changing prices</td>
+<td>Pricing Decision</td>
+<td>Decision</td>
+</tr>
+<tr>
+<td>Entering a new market or geography</td>
+<td>Market Entry</td>
+<td>Decision</td>
+</tr>
+<tr>
+<td>Making a significant hire</td>
+<td>Hiring Decision</td>
+<td>Decision</td>
+</tr>
+<tr>
+<td>Launching a product, feature, or campaign</td>
+<td>Product Launch</td>
+<td>Decision</td>
+</tr>
+<tr>
+<td>Allocating significant capital (financial or strategic)</td>
+<td>Investment Decision</td>
+<td>Decision</td>
+</tr>
+<tr>
+<td>Considering leaving a role, company, or project</td>
+<td>Should I Quit</td>
+<td>Decision</td>
+</tr>
+<tr>
+<td>Any major life choice with long-term implications</td>
+<td>Life Decision</td>
+<td>Decision</td>
+</tr>
+<tr>
+<td>Pressure-testing a team or portfolio capacity plan</td>
+<td>Capacity Planning</td>
+<td>Decision</td>
+</tr>
+<tr>
+<td>Diagnosing what work a team should be doing</td>
+<td>Work to Be Done</td>
+<td>Diagnostic</td>
+</tr>
+<tr>
+<td>Improving end-to-end delivery (lead time, WIP, metrics)</td>
+<td>Improve Delivery Flow</td>
+<td>Diagnostic</td>
+</tr>
+<tr>
+<td>Diagnosing structure vs value stream / dependencies</td>
+<td>Org Design for Flow</td>
+<td>Diagnostic</td>
+</tr>
+<tr>
+<td>Large-scale organizational change</td>
+<td>Transformation</td>
+<td>Diagnostic</td>
+</tr>
+<tr>
+<td>Assessing whether an organization can innovate</td>
+<td>Innovation Capability Diagnostic</td>
+<td>Diagnostic</td>
+</tr>
+<tr>
+<td>Designing and launching an innovation program</td>
+<td>Design and Launch an Innovation Program</td>
+<td>Diagnostic</td>
+</tr>
+<tr>
+<td>Launching a project requiring shared understanding and adaptive execution</td>
+<td>Mission Execution Protocol</td>
+<td>Diagnostic</td>
+</tr>
+<tr>
+<td>Evaluating appropriate autonomy level for an AI use case</td>
+<td>AI Use Case Autonomy Assessment</td>
+<td>AI Governance</td>
+</tr>
+<tr>
+<td>Designing the governance architecture for an agentic system</td>
+<td>AI Agent Governance Design</td>
+<td>AI Governance</td>
+</tr>
+</tbody></table>
+<h3>How to run a chain</h3>
+<p><strong>Read the full chain before starting</strong>. Understand all the steps. Some steps generate information that is required for later steps; doing them in the wrong order reduces the quality of the analysis.</p>
+<p><strong>Do the work, don't just read the questions</strong>. Each step requires a concrete answer. Write it down. A chain that is read but not written produces the feeling of rigor without the substance. The writing is where the thinking happens.</p>
+<p><strong>Spend the most time on the steps that challenge your assumptions</strong>. You will naturally move faster through the steps that confirm your intuition and slower through the ones that create friction. Reverse this: the step where you most want to skip ahead is almost always the most important one.</p>
+<p><strong>Identify which steps you lack evidence for</strong>. If you cannot answer a step with evidence (only with hope or assumption), that step is a priority test — run an experiment, conduct an interview, or seek an expert before proceeding.</p>
+<p><strong>Run the chain with at least one other person for high-stakes decisions</strong>. Cognitive biases (confirmation bias, loss aversion, sunk cost) are much harder to self-correct than to flag in another person's analysis. A second person running the same chain independently, then comparing answers, surfaces most of the important divergences.</p>
+<h2>Part 5 — Building a Daily Practice</h2>
+<h3>The core principle</h3>
+<p>Mental models become fast and automatic through practice under conditions that resemble the situations you want to use them in. Reading the framework is necessary but not sufficient. You need reps — moments of deliberate application in real situations with feedback.</p>
+<h3>Daily habits (10–15 minutes total)</h3>
+<p><strong>Morning (5 minutes): Set the lens</strong>. Before your most important meeting or decision of the day, open the card deck and search for the models most relevant to it. Read the mental model and the heuristics. Set an intention: "In this meeting, I am going to watch for the incentive misalignments and name them."</p>
+<p><strong>Evening (5–10 minutes): Retrospective</strong>. After a significant decision, conversation, or event, ask: which models applied? Did you use them? What did you miss? What would have changed if you had applied X before the meeting? Two to three sentences in a notebook is sufficient. This is your feedback loop.</p>
+<h3>Weekly habits</h3>
+<p><strong>Weekly model card</strong>: Once a week, pick one skill you have not studied recently. Read its full deep-dive file. Spend ten minutes writing a short application: "Where is this model operating in my current work? What would I do differently if I took it seriously?"</p>
+<p><strong>Chain practice</strong>: Once a month, take a real decision you're currently facing and run the relevant pre-built chain. Document each step. At the end, identify the two or three insights that would not have emerged without the chain.</p>
+<h2>Part 6 — Common Mistakes in Applying Mental Models</h2>
+<p>These are the failure modes of the framework itself — not the failure modes of individual skills, but the failure modes of using a collection of mental models as a practice.</p>
+<h3>Using models as vocabulary, not tools</h3>
+<p>The most common failure: becoming fluent in the language of mental models (able to name them, describe them in conversation, identify them in others' reasoning) without developing the ability to actually apply them under pressure in real time. The test is not "can I explain this model?" but "did I use it in my last hard decision?"</p>
+<p><strong>Fix</strong>: Track application, not comprehension. Keep a simple log of which models you applied this week. If the count is zero, the learning is not translating to practice.</p>
+<h3>One-model thinking</h3>
+<p>Applying a single model with high confidence and mistaking its partial analysis for a complete one. The practitioner who can only apply one model sees every problem through that model's lens. The practitioner who applies three models and finds them in tension has a much richer analysis.</p>
+<p><strong>Fix</strong>: Force yourself to apply at least three models to every significant decision, including at least one that challenges the conclusion of the first.</p>
+<h3>Seeking models that confirm the decision you've already made</h3>
+<p>Confirmation bias operating through the framework: you want to take a particular action, so you search for the model that supports it and stop there. The framework becomes a post-hoc rationalization tool rather than an analytical one.</p>
+<p><strong>Fix</strong>: Always apply Inversion or run a Pre-mortem. These are structural disconfirmation tools — they cannot be run honestly without generating challenges to your preferred conclusion.</p>
+<h3>Paralysis through completeness</h3>
+<p>Believing that every decision requires exhaustive model application before action. The framework has 222 skills; applying all of them to any given decision would take weeks. This is not the intent.</p>
+<p><strong>Fix</strong>: Match the rigor of the analysis to the reversibility and stakes of the decision. Two-Way Doors gives you the principle: reversible decisions deserve quick analysis and fast action; irreversible ones deserve deeper analysis. Most decisions are more reversible than they feel.</p>
+<h3>Forgetting that models are maps</h3>
+<p>All mental models are simplifications. The most dangerous failure mode of this entire framework is treating a model's output as a fact rather than a useful approximation. Every conclusion from model application should be held as a hypothesis, not a certainty.</p>
+<p><strong>Fix</strong>: After every model-chain analysis, ask: "What would I see in the real world if this model's conclusion were wrong?" That question converts model output into a testable prediction.</p>
+<h2>Part 7 — Reference at a Glance</h2>
+<p>When you know roughly what kind of situation you're in but aren't sure which skill to start with, use this section as an entry point.</p>
+<h3>Thinking and deciding</h3>
+<p><strong>You have a bad feeling about something but can't articulate it</strong>: Inversion, Pre-mortem, Ladder of Inference</p>
+<p><strong>You need to make a decision quickly</strong>: Two-Way Doors, Probabilistic Thinking, Occam's Razor, First Principles</p>
+<p><strong>You're about to spend significant money or time</strong>: Margin of Safety, Asymmetry/Convexity, Sunk Cost, Trade-offs</p>
+<p><strong>A plan feels fragile but you can't say why</strong>: Assumption Mapping, Pre-mortem, Second-Order Effects, Causal Analysis</p>
+<p><strong>Two smart people disagree and can't resolve it</strong>: Paradigm Shift (incommensurability), Map-Territory, Ladder of Inference, Cynefin Framework</p>
+<p><strong>You want to pressure-test your own reasoning</strong>: Inversion, Confirmation Bias, Socratic Thinking, Probabilistic Thinking, Falsification</p>
+<p><strong>Your forecast or estimate needs to be well-calibrated</strong>: Base Rate Neglect, Reference Class Forecasting, Probabilistic Thinking, Planning Fallacy</p>
+<p><strong>You're reflecting on a past decision and want to learn honestly from it</strong>: Hindsight Bias, Fundamental Attribution Error, Survivorship Bias, Narrative Instinct, Falsification</p>
+<h3>Organizational and team problems</h3>
+<p><strong>Things are moving slowly and you don't know why</strong>: Bottlenecks, WIP Limits, Activation Energy, Friction, Inertia, Little's Law</p>
+<p><strong>A team isn't working well</strong>: Incentives, Conway's Law, Feedback Loops, Psychological Safety, Trust</p>
+<p><strong>A strategy isn't working as expected</strong>: Second-Order Effects, Map-Territory, Dominant Logic, Assumption Mapping, Paradigm Shift</p>
+<p><strong>You're trying to change something but hitting resistance</strong>: Immunity to Change, Activation Energy, Loss Aversion, Inertia, Change Management</p>
+<p><strong>An organization keeps making the same mistakes</strong>: Dominant Logic, Feedback Loops, Goodhart's Law, Organizational Culture, SRK Framework, Drift to Failure</p>
+<p><strong>A long-successful system or process is quietly degrading</strong>: Drift to Failure, Goodhart's Law, Commitment & Consistency Bias, Survivorship Bias</p>
+<p><strong>You're running a post-mortem and want it to produce real learning</strong>: Hindsight Bias, Fundamental Attribution Error, SRK Framework, Survivorship Bias, Narrative Instinct, After-Action Review</p>
+<p><strong>You're designing how a team or org should work</strong>: Team Topologies, Conway's Law, Inverse Conway Maneuver, RACI Framework</p>
+<p><strong>You're designing training, onboarding, or skill development</strong>: SRK Framework, Learning Transfer, Five-Hour Rule, T-Shaped</p>
+<p><strong>Your team loses shared understanding during a project</strong>: Leader's Intent, Brief-Back Protocols, Mission Command, Purpose Clarity</p>
+<p><strong>People on your team can't say why their work matters</strong>: Purpose Clarity, Self-Determination Theory, Mission Command</p>
+<p><strong>Meetings are consuming your team's calendar</strong>: Async-First Default, Three-Question Ritual, Maker's Schedule</p>
+<h3>Delivery and execution</h3>
+<p><strong>A metric is going the wrong way</strong>: Feedback Loops, Churn, Regression to the Mean, Randomness, Goodhart's Law</p>
+<p><strong>Work is piling up and not getting done</strong>: WIP Limits, Little's Law, Bottlenecks, Batch Size Reduction, Queueing</p>
+<p><strong>You're trying to prioritize what to work on</strong>: WSJF, Cost of Delay, OKRs, Kill Criteria, Two-Way Doors</p>
+<p><strong>You need to forecast how long something will take</strong>: Reference Class Forecasting, Probabilistic Forecasting, Planning Fallacy, Statistical Variability</p>
+<p><strong>Your team is producing output but not outcomes</strong>: Outcome vs Output, Feature Factory, Jobs to Be Done, OKRs</p>
+<p><strong>A project has gone off track mid-execution</strong>: Tactical Pause, OODA Loop, Leader's Intent</p>
+<p><strong>Teams aren't learning from completed projects</strong>: After-Action Review, Post-mortem, Feedback Loops</p>
+<h3>Innovation and new ventures</h3>
+<p><strong>You're building something new</strong>: Build-Measure-Learn, MVP, Customer Development, Product-Market Fit, Pretotyping</p>
+<p><strong>You're not sure what to build next</strong>: Opportunity Solution Trees, Continuous Discovery, Jobs to Be Done, Adjacent Possible</p>
+<p><strong>You want to know if your organization can actually innovate</strong>: Run the Innovation Capability Diagnostic chain</p>
+<p><strong>You're setting up an innovation program</strong>: Run the Design and Launch an Innovation Program chain</p>
+<p><strong>An innovation initiative keeps getting blocked</strong>: Ambidextrous Organization, Dominant Logic, Organizational Slack, Three Horizons, Exploration vs. Exploitation</p>
+<p><strong>You're thinking about the long term</strong>: Compounding, Network Effects, Creative Destruction, S-Curves, Red Queen Dilemma, Three Horizons</p>
+<h3>Strategy and markets</h3>
+<p><strong>You're trying to enter a new market</strong>: Run the Market Entry chain</p>
+<p><strong>You're setting prices</strong>: Run the Pricing Decision chain</p>
+<p><strong>You're thinking about competitive position</strong>: Monopoly vs. Competition, Defensibility, Network Effects, Creative Destruction, Disruptive Innovation</p>
+<p><strong>You're evaluating a significant investment</strong>: Run the Investment Decision chain</p>
+<p><strong>You're trying to understand why an incumbent can't see a new threat</strong>: Paradigm Shift, Dominant Logic, Disruptive Innovation, Confirmation Bias</p>
+<h3>People and communication</h3>
+<p><strong>You're trying to convince someone</strong>: Framing, Anchoring, Reciprocity, Loss Aversion, Social Proof, Audience, Pyramid Principle</p>
+<p><strong>You're trying to drive adoption of a new behaviour or practice</strong>: Social Proof, Activation Energy, Commitment & Consistency Bias, Framing, Loss Aversion</p>
+<p><strong>You're making a significant hire</strong>: Run the Hiring Decision chain</p>
+<p><strong>You need to communicate a complex finding clearly</strong>: Pyramid Principle, MECE, Audience, Contrast, Framing</p>
+<p><strong>You're structuring a complex problem for a client or executive</strong>: Hypothesis-Driven Consulting, MECE, Pyramid Principle, Causal Analysis</p>
+<h3>AI and agentic systems</h3>
+<p><strong>You're evaluating whether and how to deploy an AI system</strong>: Run the AI Use Case Autonomy Assessment chain</p>
+<p><strong>You're designing governance for an agentic AI system</strong>: Run the AI Agent Governance Design chain</p>
+<p><strong>You need to understand what can go wrong with autonomous agents</strong>: AI Authority Boundaries, Prompt Injection, Minimal Capability Principle</p>
+<p><strong>You're thinking about where human oversight is required</strong>: AI Authority Boundaries (six registers), Two-Way Doors, Principal–Agent Problem</p>
+<h2>How to Get Started Right Now</h2>
+<p>The single most effective first step is not to read more of the framework — it is to apply one model to one real situation today.</p>
+<p>Pick one model from Tier 1 (listed above). Open its card in the deck. Read the mental model paragraph. Then look at your calendar or your current project list and find one situation where it applies. Write two sentences about what it reveals. That is the practice. Repeat across the deck over time until retrieval is automatic.</p>
+<p><em>Skills Framework · 222 skills across 16 categories · canonical counts in <code>skills-manifest.json</code></em></p>
+</div>
+</body></html>

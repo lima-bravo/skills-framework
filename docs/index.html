@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Skills Framework — Mental Models for Disciplined Thinking</title>
+<meta name="description" content="222 mental model cards for structured executive thinking. Find the right model for your situation, apply its heuristics, and avoid its failure modes.">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0F172A;--surface:#1E293B;--surface2:#263245;--border:#334155;
+  --text:#F1F5F9;--muted:#94A3B8;--accent:#3B82F6;--accent2:#60A5FA;
+}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh;display:flex;flex-direction:column}
+
+/* ── header ── */
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:.65rem 1.5rem;display:flex;align-items:center;gap:1rem;flex-wrap:wrap}
+.logo{font-size:.85rem;font-weight:800;letter-spacing:.04em;color:var(--text);flex:1;white-space:nowrap}
+.logo span{color:var(--muted);font-weight:400}
+nav{display:flex;gap:.4rem;flex-wrap:wrap}
+.nav-btn{font-size:.72rem;font-weight:600;color:var(--muted);text-decoration:none;padding:.28rem .7rem;border:1px solid var(--border);border-radius:999px;letter-spacing:.04em;transition:color .15s,border-color .15s;white-space:nowrap}
+.nav-btn:hover{color:var(--text);border-color:var(--muted)}
+.nav-btn.active{color:#fff;border-color:var(--accent);background:var(--accent)}
+
+/* ── hero ── */
+.hero{max-width:680px;margin:4rem auto 3rem;padding:0 1.5rem;text-align:center}
+.hero h1{font-size:2.2rem;font-weight:800;line-height:1.2;letter-spacing:-.02em;margin-bottom:1rem}
+.hero h1 em{font-style:normal;color:var(--accent2)}
+.hero p{font-size:1rem;color:var(--muted);line-height:1.7;margin-bottom:2rem;max-width:520px;margin-left:auto;margin-right:auto}
+.hero-cta{display:inline-flex;align-items:center;gap:.5rem;background:var(--accent);color:#fff;text-decoration:none;padding:.8rem 1.75rem;border-radius:8px;font-weight:700;font-size:1rem;letter-spacing:.01em;transition:background .15s,transform .1s;box-shadow:0 4px 16px rgba(59,130,246,.35)}
+.hero-cta:hover{background:#2563EB;transform:translateY(-1px)}
+.hero-cta .arrow{font-size:1.1rem}
+.hero-sub{margin-top:1rem;font-size:.78rem;color:var(--muted)}
+
+/* ── stats strip ── */
+.stats{display:flex;justify-content:center;gap:2.5rem;padding:1.5rem;border-top:1px solid var(--border);border-bottom:1px solid var(--border);background:var(--surface);flex-wrap:wrap}
+.stat{text-align:center}
+.stat-n{font-size:1.6rem;font-weight:800;color:var(--accent2);display:block;line-height:1}
+.stat-l{font-size:.72rem;color:var(--muted);margin-top:.25rem;letter-spacing:.04em;text-transform:uppercase}
+
+/* ── tools grid ── */
+.tools{max-width:900px;margin:3rem auto 4rem;padding:0 1.5rem}
+.tools h2{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin-bottom:1.25rem;text-align:center}
+.tool-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:.85rem}
+.tool-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:1.25rem 1.35rem;text-decoration:none;color:var(--text);transition:border-color .15s,transform .1s;display:flex;flex-direction:column;gap:.4rem}
+.tool-card:hover{border-color:#475569;transform:translateY(-2px)}
+.tool-icon{font-size:1.3rem;line-height:1}
+.tool-name{font-size:.92rem;font-weight:700}
+.tool-desc{font-size:.78rem;color:var(--muted);line-height:1.55}
+.tool-tag{margin-top:.5rem;font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent2);opacity:.75}
+
+/* ── footer ── */
+footer{margin-top:auto;padding:1.25rem 1.5rem;border-top:1px solid var(--border);display:flex;justify-content:center;gap:1.5rem;flex-wrap:wrap}
+footer a{font-size:.72rem;color:var(--muted);text-decoration:none;transition:color .15s}
+footer a:hover{color:var(--text)}
+
+@media(max-width:600px){.hero h1{font-size:1.65rem}.stats{gap:1.5rem}.hero-cta{font-size:.9rem;padding:.7rem 1.4rem}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Skills Framework <span>· Mental Models Reference</span></div>
+  <nav>
+    <a href="index.html" class="nav-btn active">🏠 Home</a>
+    <a href="situation-finder.html" class="nav-btn">🔍 Situations</a>
+    <a href="deck.html" class="nav-btn">⊞ Card Deck</a>
+    <a href="executive-scan.html" class="nav-btn">⊛ Exec Scan</a>
+    <a href="graph.html" class="nav-btn">⬡ Graph</a>
+    <a href="training-guide.html" class="nav-btn">📖 Guide</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Think more clearly.<br><em>Decide more sharply.</em></h1>
+  <p>222 mental model cards for structured executive thinking — each with a core insight, practitioner heuristics, and the failure mode most people fall into.</p>
+  <a href="situation-finder.html" class="hero-cta">
+    Find models for your situation <span class="arrow">→</span>
+  </a>
+  <p class="hero-sub">45 common workplace situations mapped to curated skill clusters</p>
+</section>
+
+<div class="stats">
+  <div class="stat"><span class="stat-n">222</span><div class="stat-l">Mental Models</div></div>
+  <div class="stat"><span class="stat-n">16</span><div class="stat-l">Categories</div></div>
+  <div class="stat"><span class="stat-n">19</span><div class="stat-l">Pre-built Chains</div></div>
+  <div class="stat"><span class="stat-n">780</span><div class="stat-l">Graph Connections</div></div>
+  <div class="stat"><span class="stat-n">205</span><div class="stat-l">Academic Sources</div></div>
+</div>
+
+<section class="tools">
+  <h2>Explore the framework</h2>
+  <div class="tool-grid">
+
+    <a href="situation-finder.html" class="tool-card">
+      <div class="tool-icon">🔍</div>
+      <div class="tool-name">Situation Finder</div>
+      <div class="tool-desc">Describe what you're facing and the right models surface. 45 first-person situations mapped to curated skill clusters.</div>
+      <div class="tool-tag">Recommended starting point</div>
+    </a>
+
+    <a href="executive-scan.html" class="tool-card">
+      <div class="tool-icon">⊛</div>
+      <div class="tool-name">Executive Scan</div>
+      <div class="tool-desc">Ten business lenses — strategy, delivery, culture, AI exposure, incentives — for scanning without a known symptom.</div>
+      <div class="tool-tag">Diagnostic tool</div>
+    </a>
+
+    <a href="deck.html" class="tool-card">
+      <div class="tool-icon">⊞</div>
+      <div class="tool-name">Card Deck</div>
+      <div class="tool-desc">Browse or search all 222 cards. Each card includes definition, mental model, practitioner heuristics, and failure modes.</div>
+      <div class="tool-tag">Full reference library</div>
+    </a>
+
+    <a href="graph.html" class="tool-card">
+      <div class="tool-icon">⬡</div>
+      <div class="tool-name">Connection Graph</div>
+      <div class="tool-desc">Interactive network of 780 connections between models. Best for discovering adjacent ideas once you know a few cards.</div>
+      <div class="tool-tag">Exploration tool</div>
+    </a>
+
+    <a href="training-guide.html" class="tool-card">
+      <div class="tool-icon">📖</div>
+      <div class="tool-name">Training Guide</div>
+      <div class="tool-desc">How to learn and apply the framework: reading tiers, chaining patterns, and worked scenarios.</div>
+      <div class="tool-tag">For practitioners</div>
+    </a>
+
+    <a href="quick-reference.html" class="tool-card">
+      <div class="tool-icon">📋</div>
+      <div class="tool-name">Quick Reference</div>
+      <div class="tool-desc">Printable two-page cheat sheet — complete skill inventory, category counts, and key taglines.</div>
+      <div class="tool-tag">Print-ready</div>
+    </a>
+
+  </div>
+</section>
+
+<footer>
+  <a href="deck.html">Card Deck</a>
+  <a href="situation-finder.html">Situation Finder</a>
+  <a href="graph.html">Graph</a>
+  <a href="training-guide.html">Guide</a>
+  <a href="quick-reference.html">Quick Reference</a>
+</footer>
+
+</body>
+</html>

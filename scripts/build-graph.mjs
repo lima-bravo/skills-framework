@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Build Skills Reference/graph.html from markdown skill files.
+ * Build docs/graph.html from markdown skill files.
  * Nodes: all skills in skills-manifest.json + reference nodes from manifest.refs.
  * Edges: parsed from each skill's ## Connections section + ref-to-skill links.
  */
@@ -11,9 +11,13 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const REF_DIR = path.join(ROOT, 'Skills Reference');
+const DOCS_DIR = path.join(ROOT, 'docs');
 const TEMPLATE = path.join(REF_DIR, 'graph.template.html');
 const MANIFEST = path.join(REF_DIR, 'skills-manifest.json');
-const OUT = path.join(REF_DIR, 'graph.html');
+const OUT = path.join(DOCS_DIR, 'graph.html');
+
+// Ensure docs/ exists
+fs.mkdirSync(DOCS_DIR, { recursive: true });
 
 // Ref node IDs start here (matches existing graph.html convention)
 const REF_ID_BASE = 1000;

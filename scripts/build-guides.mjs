@@ -8,7 +8,12 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const REF_DIR = path.resolve(__dirname, '..', 'Skills Reference');
+const ROOT = path.resolve(__dirname, '..');
+const REF_DIR = path.join(ROOT, 'Skills Reference');
+const DOCS_DIR = path.join(ROOT, 'docs');
+
+// Ensure docs/ exists
+fs.mkdirSync(DOCS_DIR, { recursive: true });
 
 // ── Shared page chrome ────────────────────────────────────────────────────────
 
@@ -62,13 +67,14 @@ blockquote p{color:#1E3A5F;margin:0;}
 <body>`;
 
 const NAV = (activePage) => `<div id="hdr">
-  <h1>Skills Framework <span>Reference Deck</span></h1>
+  <h1>Skills Framework <span>Mental Models Reference</span></h1>
   <div id="hdr-nav">
+    <a href="index.html" class="nav-btn${activePage === 'home' ? ' active' : ''}">🏠 Home</a>
+    <a href="situation-finder.html" class="nav-btn${activePage === 'situations' ? ' active' : ''}">🔍 Situations</a>
+    <a href="deck.html" class="nav-btn${activePage === 'deck' ? ' active' : ''}">⊞ Card Deck</a>
     <a href="executive-scan.html" class="nav-btn${activePage === 'exec' ? ' active' : ''}">⊛ Exec Scan</a>
-    <a href="index.html" class="nav-btn${activePage === 'deck' ? ' active' : ''}">⊞ Card Deck</a>
     <a href="graph.html" class="nav-btn${activePage === 'graph' ? ' active' : ''}">⬡ Graph</a>
     <a href="training-guide.html" class="nav-btn${activePage === 'guide' ? ' active' : ''}">📖 Guide</a>
-    <a href="skill-primer.html" class="nav-btn${activePage === 'primer' ? ' active' : ''}">✉ Primer</a>
   </div>
 </div>`;
 
@@ -229,7 +235,7 @@ function buildGuide(mdFile, outFile, navKey) {
     FOOT,
   ].join('\n');
 
-  fs.writeFileSync(path.join(REF_DIR, outFile), html, 'utf8');
+  fs.writeFileSync(path.join(DOCS_DIR, outFile), html, 'utf8');
   console.log(`Wrote ${outFile} (${(html.length / 1024).toFixed(0)} KB)`);
 }
 
