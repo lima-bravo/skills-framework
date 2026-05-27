@@ -84,7 +84,7 @@ Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 
 ```bash
 npm run build             # Rebuild deck, graph, and guides → docs/
-npm run build:cowork      # Generate Claude Cowork / Code Agent plugins → dist/cowork/
+npm run build:cowork      # Generate Claude Cowork / Code Agent plugins → plugins/
 npm run validate:cowork   # Validate generated skills
 ```
 
@@ -99,17 +99,64 @@ Requires Node.js 18+.
 
 ### Claude Cowork / Code skills
 
-The deck's **222 reference cards** are not exported 1:1. `npm run build:cowork` generates **22 procedural skills** in three plugins under `dist/cowork/`:
+The deck's **222 reference cards** are not exported 1:1. `npm run build:cowork` generates **35 procedural skills** in six plugins under `plugins/`:
 
 | Plugin | Skills | Purpose |
 |--------|--------|---------|
-| `disciplined-thinking` | 10 | Router, core mental-model toolkit, 7 strategic chains |
+| `disciplined-thinking` | 9 | Router, core mental-model toolkit, 7 strategic decision chains |
 | `delivery-and-flow` | 10 | 5 flow toolkits + 5 flow/ops chains |
 | `consulting-craft` | 3 | MECE, pyramid, engagement |
+| `innovation-strategy` | 7 | 3 innovation toolkits (problem, validate, portfolio) + 4 innovation chains |
+| `applied-ai` | 3 | AI governance toolkit + 2 AI governance chains |
+| `leadership` | 3 | 2 leadership toolkits (mission command, after-action) + 1 execution chain |
 
 Mappings and descriptions: `scripts/cowork-skills.config.json`. Each skill includes `references/*.md` copied from the deck for progressive disclosure.
 
-**Install:** Cowork → Customize → Plugins → upload a plugin folder (e.g. `dist/cowork/delivery-and-flow`) or zip `delivery-and-flow/` with the folder at the zip root. Chains use `/skill-name` (e.g. `/improve-delivery-flow`).
+#### Installing plugins into Claude (Cowork desktop app)
+
+**Step 1 — Build the plugins** (skip if `plugins/` already exists and is up to date):
+
+```bash
+npm run build:cowork
+```
+
+**Step 2 — Zip the plugin you want to install.**
+The zip must have the plugin folder at its root — not nested inside another folder.
+
+```bash
+# macOS / Linux — from the repo root
+cd plugins
+zip -r delivery-and-flow.zip delivery-and-flow/
+```
+
+On macOS Finder: right-click the plugin folder (e.g. `plugins/delivery-and-flow`) → Compress. This produces `delivery-and-flow.zip` with the correct structure.
+
+**Step 3 — Install in Cowork.**
+
+1. Open the Claude desktop app.
+2. Go to **Customize → Plugins → Install plugin**.
+3. Upload the `.zip` file created in Step 2.
+4. Repeat for each plugin you want.
+
+You can install all six, or just the ones relevant to your work. Each plugin is independent.
+
+#### Using installed skills
+
+Once a plugin is installed, its skills are available as slash commands in any Cowork conversation:
+
+| What you type | What it does |
+|---|---|
+| `/classify-consulting-task` | Router — describes your task, recommends the best skill |
+| `/diagnose-flow` | Runs the flow diagnosis toolkit |
+| `/improve-delivery-flow` | Runs the full 8-step flow improvement chain |
+| `/understand-the-problem` | Discovery toolkit (JTBD, Customer Dev, Design Thinking) |
+| `/test-and-validate` | Experiment toolkit (Pretotype → MVP → BML) |
+| `/ai-agent-governance-design` | AI governance chain |
+| `/mission-execution-protocol` | Mission execution chain |
+
+The full list of slash commands per plugin is in each plugin's `README.md` under `plugins/<plugin-name>/`.
+
+**Tip:** Start with `/classify-consulting-task` if you're unsure which skill fits your situation — it routes you to the right one.
 
 ---
 
@@ -142,8 +189,13 @@ scripts/
   build-cowork-skills.mjs    # Cowork/Code skills build
   cowork-skills.config.json  # Toolkit/chain/plugin mappings
   validate-cowork-skills.mjs
-dist/
-  cowork/                    # Generated plugins (gitignored)
+plugins/
+  disciplined-thinking/      # Generated plugin (tracked in git)
+  delivery-and-flow/
+  consulting-craft/
+  innovation-strategy/
+  applied-ai/
+  leadership/
 ```
 
 ## Licence

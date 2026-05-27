@@ -6,7 +6,7 @@ import { execSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const OUT_ROOT = path.join(__dirname, '..', 'dist', 'cowork');
+const OUT_ROOT = path.join(__dirname, '..', 'plugins');
 
 function findSkillDirs(dir, acc = []) {
   if (!fs.existsSync(dir)) return acc;

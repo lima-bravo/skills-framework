@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "author": { "name": "Skills Framework" },
+  "author": { "name": "J.L. Bonebakker · Focus2Flow B.V." },
   "plugins": [
     {
       "id": "disciplined-thinking",
@@ -44,6 +44,40 @@
         "executive-communication",
         "consulting-engagement"
       ]
+    },
+    {
+      "id": "innovation-strategy",
+      "name": "innovation-strategy",
+      "description": "Discover opportunities, validate solutions, and manage an innovation portfolio. Grounded in Lean Startup, Jobs Theory, Continuous Discovery, and Three Horizons.",
+      "skills": [
+        "understand-the-problem",
+        "test-and-validate",
+        "manage-innovation-portfolio",
+        "innovation-capability-diagnostic",
+        "design-launch-innovation-program",
+        "from-idea-to-hypothesis",
+        "crawl-walk-run"
+      ]
+    },
+    {
+      "id": "applied-ai",
+      "name": "applied-ai",
+      "description": "Govern AI agent deployments, assess autonomy levels, and apply AI authority boundaries in organizational contexts.",
+      "skills": [
+        "ai-governance",
+        "ai-agent-governance-design",
+        "ai-use-case-autonomy-assessment"
+      ]
+    },
+    {
+      "id": "leadership",
+      "name": "leadership",
+      "description": "Execute with intent, command with clarity, and learn systematically. Mission Command, OODA Loop, and After-Action Review for senior practitioners.",
+      "skills": [
+        "mission-command-toolkit",
+        "after-action-toolkit",
+        "mission-execution-protocol"
+      ]
     }
   ],
   "chainDescriptionOverrides": {
@@ -58,7 +92,14 @@
     "transformation": "Organizational transformation readiness and sequencing chain. Use for large change programs.",
     "improve-delivery-flow": "Eight-step flow improvement chain: VSM, bottlenecks, WIP, forecasting, metrics, PDCA. Use for slow delivery, missed dates, or flow reviews.",
     "org-design-for-flow": "Org design diagnostic chain: value stream, team topologies, Conway, dependencies. Use when structure blocks flow.",
-    "work-to-be-done": "Ten-step chain from outcome through theory of change, MECE work tree, prioritization, and capacity check. Use when scoping what must be built or delivered before execution."
+    "work-to-be-done": "Ten-step chain from outcome through theory of change, MECE work tree, prioritization, and capacity check. Use when scoping what must be built or delivered before execution.",
+    "innovation-capability-diagnostic": "Diagnoses an organization's innovation capability across culture, process, portfolio, and metrics. Use when an innovation programme is underperforming or before designing one.",
+    "design-launch-innovation-program": "End-to-end chain for designing and launching an innovation programme: mandate, structure, portfolio, governance, and metrics. Use when commissioning or redesigning innovation capability.",
+    "from-idea-to-hypothesis": "Converts a raw idea into a testable hypothesis with explicit assumptions, success criteria, and a minimum viable experiment. Use before committing any resources to a new initiative.",
+    "crawl-walk-run": "Stages a new initiative across three evidence gates — does it work at all (crawl), well enough (walk), with real economics (run). Use to de-risk innovation bets and prevent premature scaling.",
+    "ai-agent-governance-design": "Designs the governance structure for an AI agent deployment: authority levels, escalation paths, monitoring, and override protocols. Use when deploying autonomous AI in a business context.",
+    "ai-use-case-autonomy-assessment": "Assesses the appropriate autonomy level for a proposed AI use case using reversibility, consequence severity, and human-in-loop criteria. Use before approving AI agent scope or expanding AI authority.",
+    "mission-execution-protocol": "Structures mission execution from commander's intent through brief-back, execution cadence, and after-action review. Use for high-stakes projects requiring disciplined command and control."
   },
   "toolkits": [
     {
@@ -235,12 +276,112 @@
         "Checking models applied",
         "Recommended action and risks"
       ]
+    },
+    {
+      "slug": "understand-the-problem",
+      "description": "Applies problem-space discovery models to understand what is worth working on and for whom. Grounded in Jobs Theory, Customer Development, Design Thinking, and Continuous Discovery. Use before any solution work begins.",
+      "sources": [
+        "Startups/jobs-to-be-done.md",
+        "Startups/customer-development.md",
+        "Startups/design-thinking.md",
+        "Startups/continuous-discovery.md",
+        "Startups/opportunity-solution-trees.md"
+      ],
+      "deliverableSections": [
+        "Customer segment and context (who, doing what, under what conditions)",
+        "Job-to-be-done statement (functional, emotional, social dimensions)",
+        "Opportunity map (pains, gains, unmet needs — using OST structure)",
+        "Assumptions that must be true for this opportunity to be real",
+        "Recommended next discovery move (interview, observation, or prototype)"
+      ]
+    },
+    {
+      "slug": "test-and-validate",
+      "description": "Designs and sequences experiments to validate a solution hypothesis with minimum effort. Grounded in Pretotyping, MVP, Build-Measure-Learn, and the Experiment Ladder. Use when moving from problem to solution space.",
+      "sources": [
+        "Startups/pretotyping.md",
+        "Startups/mvp.md",
+        "Startups/build-measure-learn.md",
+        "Startups/experiment-ladder.md"
+      ],
+      "deliverableSections": [
+        "Hypothesis to test (if we do X, we expect Y, because Z)",
+        "Riskiest assumption (what must be true for this to work)",
+        "Experiment type and rationale (pretotype → MVP → scaled test)",
+        "Success criteria and falsification threshold",
+        "What to build, measure, and learn — in that sequence"
+      ]
+    },
+    {
+      "slug": "manage-innovation-portfolio",
+      "description": "Allocates innovation investment across time horizons and measures portfolio health. Grounded in Three Horizons, Innovation Accounting, and Innovation Health Indicators. Use for portfolio reviews, programme design, or executive reporting on innovation.",
+      "sources": [
+        "Business/three-horizons.md",
+        "Business/innovation-health-indicators.md",
+        "Startups/innovation-accounting.md"
+      ],
+      "deliverableSections": [
+        "Current portfolio mapped across Horizon 1 / 2 / 3 (with investment %)",
+        "Portfolio balance assessment (over-indexed on any horizon?)",
+        "Innovation health indicators — current state vs target",
+        "Innovation Accounting metrics (validated learning, cohort progress)",
+        "Recommended portfolio rebalancing and governance changes"
+      ]
+    },
+    {
+      "slug": "ai-governance",
+      "description": "Applies AI authority boundaries, minimal capability principle, and prompt injection defences to a proposed AI deployment. Use when scoping an AI agent, reviewing autonomy levels, or designing safety guardrails.",
+      "sources": [
+        "Applied-AI/ai-authority-boundaries.md",
+        "Applied-AI/minimal-capability-principle.md",
+        "Applied-AI/prompt-injection.md"
+      ],
+      "deliverableSections": [
+        "Proposed AI scope and autonomy level",
+        "Authority boundaries (what the agent may and may not do)",
+        "Minimal capability assessment (is scope narrower than necessary?)",
+        "Prompt injection and adversarial input risks",
+        "Human-in-loop requirements and override protocols"
+      ]
+    },
+    {
+      "slug": "mission-command-toolkit",
+      "description": "Structures commander's intent, delegates with clarity, and maintains alignment during execution. Grounded in Mission Command, Leader's Intent, Brief-Back Protocols, and OODA Loop. Use for high-stakes projects, operational leadership, or when delegating to autonomous teams.",
+      "sources": [
+        "Leadership/mission-command.md",
+        "Leadership/leaders-intent.md",
+        "Leadership/brief-back-protocols.md",
+        "Leadership/ooda-loop.md"
+      ],
+      "deliverableSections": [
+        "Commander's intent (purpose, end-state, key constraints — one paragraph)",
+        "Delegated tasks and decision authority per role",
+        "Brief-back summary (what each lead will do and why — in their words)",
+        "OODA cadence (observe-orient-decide-act cycle and trigger conditions)",
+        "Red lines and escalation protocol"
+      ]
+    },
+    {
+      "slug": "after-action-toolkit",
+      "description": "Runs structured learning reviews after significant events, decisions, or project phases. Grounded in After-Action Review, Three-Question Ritual, and Tactical Pause. Use after any high-stakes event to extract lessons and adjust.",
+      "sources": [
+        "Leadership/after-action-review.md",
+        "Leadership/three-question-ritual.md",
+        "Leadership/tactical-pause.md"
+      ],
+      "deliverableSections": [
+        "What was intended vs what actually happened",
+        "Three-question ritual output (what worked / what didn't / what to change)",
+        "Root causes (not surface symptoms)",
+        "Lessons to institutionalise (changes to process, doctrine, or assumptions)",
+        "Follow-up owners and deadlines"
+      ]
     }
   ],
   "routers": [
     {
       "slug": "classify-consulting-task",
-      "description": "Classifies the user's task and routes to the best chain or toolkit skill. Use at the start of ambiguous consulting, delivery, or executive requests.",
+      "description": "Classifies the user's task and routes to the best chain or toolkit skill. Use at the start of ambiguous consulting, delivery, executive, innovation, AI, or leadership requests.",
       "disableModelInvocation": false
     }
   ]

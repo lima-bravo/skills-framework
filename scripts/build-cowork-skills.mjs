@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Generate Agent Skills packages for Claude Cowork / Claude Code from Skills Reference/*.md.
- * Output: dist/cowork/<plugin-id>/skills/<skill-slug>/SKILL.md (+ references/)
+ * Output: plugins/<plugin-id>/skills/<skill-slug>/SKILL.md (+ references/)
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -12,7 +12,7 @@ const ROOT = path.resolve(__dirname, '..');
 const REF_DIR = path.join(ROOT, 'Skills Reference');
 const MANIFEST_PATH = path.join(REF_DIR, 'skills-manifest.json');
 const CONFIG_PATH = path.join(__dirname, 'cowork-skills.config.json');
-const OUT_ROOT = path.join(ROOT, 'dist', 'cowork');
+const OUT_ROOT = path.join(ROOT, 'plugins');
 
 function readJson(p) {
   return JSON.parse(fs.readFileSync(p, 'utf8'));
@@ -261,10 +261,16 @@ function buildRouterBody(config) {
   lines.push('|---|---|');
 
   const routes = [
+    // Delivery & Flow
     ['Slow delivery, flow, WIP, lead time, kanban', '/improve-delivery-flow or /diagnose-flow'],
     ['Org design, teams, dependencies, Conway', '/org-design-for-flow or /design-org-for-flow'],
     ['Capacity or portfolio load planning', '/capacity-planning'],
     ['Large organizational change', '/transformation'],
+    ['Prioritization under scarce capacity', '/prioritize-under-scarcity'],
+    ['Metrics, forecasting, predictability', '/measure-delivery'],
+    ['WIP limits or commitments', '/set-wip-and-commitments'],
+    ['Define what work is needed to build or deliver (outcome, scope, work tree)', '/work-to-be-done'],
+    // Disciplined Thinking
     ['Pricing or monetization', '/pricing-decision'],
     ['Market entry', '/market-entry'],
     ['Hiring', '/hiring-decision'],
@@ -272,17 +278,25 @@ function buildRouterBody(config) {
     ['Investment or capital allocation', '/investment-decision'],
     ['Quit or stay decision', '/should-i-quit'],
     ['Major life decision', '/life-decision'],
-    ['Prioritization under scarce capacity', '/prioritize-under-scarcity'],
-    ['Metrics, forecasting, predictability', '/measure-delivery'],
-    ['WIP limits or commitments', '/set-wip-and-commitments'],
+    ['General ambiguous decision', '/apply-core-mental-models'],
+    // Consulting Craft
     ['Executive problem structure / issue tree', '/structure-executive-problem'],
     ['Executive memo or deck narrative', '/executive-communication'],
     ['Engagement scope or SOW', '/consulting-engagement'],
-    [
-      'Define what work is needed to build or deliver (outcome, scope, work tree)',
-      '/work-to-be-done',
-    ],
-    ['General ambiguous decision', '/apply-core-mental-models'],
+    // Innovation Strategy
+    ['Understanding a customer problem, JTBD, or unmet need', '/understand-the-problem'],
+    ['Validating a solution, running an experiment, MVP, or pretotype', '/test-and-validate'],
+    ['Innovation portfolio, Three Horizons, or programme health', '/manage-innovation-portfolio'],
+    ['Diagnosing or designing an innovation capability', '/innovation-capability-diagnostic or /design-launch-innovation-program'],
+    ['Turning an idea into a testable hypothesis', '/from-idea-to-hypothesis'],
+    ['Staging a new initiative through evidence gates', '/crawl-walk-run'],
+    // Applied AI
+    ['AI agent governance, authority levels, or override protocols', '/ai-agent-governance-design'],
+    ['AI use case autonomy assessment or human-in-loop design', '/ai-use-case-autonomy-assessment'],
+    ['AI scope, authority boundaries, or prompt injection risks', '/ai-governance'],
+    // Leadership
+    ["Mission execution, commander's intent, or delegation", '/mission-command-toolkit or /mission-execution-protocol'],
+    ['After-action review, debrief, or learning from an event', '/after-action-toolkit'],
   ];
 
   for (const [when, skill] of routes) {

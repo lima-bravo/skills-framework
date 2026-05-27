@@ -1,1 +1,1 @@
-dist/
+# intentionally empty — plugins/ and docs/ are tracked in git

@@ -1,0 +1,8 @@
+{
+  "name": "delivery-and-flow",
+  "version": "1.0.0",
+  "description": "Diagnose and improve delivery flow: value streams, WIP, metrics, org design, and portfolio prioritization.",
+  "author": {
+    "name": "J.L. Bonebakker · Focus2Flow B.V."
+  }
+}
