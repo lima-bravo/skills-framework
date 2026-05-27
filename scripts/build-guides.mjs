@@ -78,7 +78,8 @@ const NAV = (activePage) => `<div id="hdr">
   </div>
 </div>`;
 
-const FOOT = `</body></html>`;
+const FOOT = `<footer style="text-align:center;padding:1.5rem;font-size:.72rem;color:var(--sub,#64748B);border-top:1px solid var(--border,#E2E8F0);margin-top:3rem;">© 2026 J.L. Bonebakker · Focus2Flow B.V.</footer>
+</body></html>`;
 
 // ── Markdown → HTML (lightweight, covers the constructs in our guides) ────────
 
