@@ -47,6 +47,9 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Map-Territory**](../General-Thinking/map-territory.md) — confirmation bias prevents the map from updating when the territory changes.
 → [**Dunning-Kruger**](dunning-kruger.md) — low competence correlates with high confidence and high confirmation bias; the combination is dangerous.
 → [**Observer Bias**](observer-bias.md) — observer bias is confirmation bias operating at the point of measurement; blinding prevents expectation from shaping evidence rather than correcting it after the fact.
+→ [**Steelmanning**](../General-Thinking/steelmanning.md) — steelmanning is the deliberate practice of engaging the strongest opposing view; it is the active countermeasure to confirmation bias in deliberation.
+→ [**Red Teaming**](../Business/red-teaming.md) — red teaming institutionalises the search for disconfirming evidence that confirmation bias would otherwise suppress.
+→ [**A/B Testing**](../Business/ab-testing.md) — A/B testing is a structural countermeasure to confirmation bias in decision-making; it lets evidence rather than conviction determine the outcome.
 
 ---
 

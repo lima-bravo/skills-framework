@@ -53,6 +53,9 @@ The falsification-oriented redesign: run a controlled comparison, with explicitl
 - **From Idea to Hypothesis** — falsification is Step 4 in this chain; restating assumptions as falsifiable predictions is the step most commonly skipped
 - **Crawl / Walk / Run** — the principle that makes every gate honest: results must be capable of disconfirming, not just confirming
 - **Survivorship Bias** — reporting only confirming outcomes is a common way that falsification fails in practice
+- **Steelmanning** — the prerequisite practice: a belief should be tested against the strongest possible opposing case, not a convenient weak version
+- **Red Teaming** — the organisational mechanism for structured falsification at scale; red teams are mandated to find disconfirming evidence
+- **A/B Testing** — the operational instrument of falsification in product and marketing contexts; the test is designed so that reality, not opinion, settles the question
 
 ## References
 

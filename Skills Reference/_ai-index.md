@@ -1,6 +1,6 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-05-25 | 222 skills | 16 categories | 780 graph connections -->
+<!-- Last updated: 2026-05-27 | 225 skills | 16 categories | 801 graph connections -->
 
 ## What this framework is
 
@@ -38,8 +38,8 @@ A library of 222 mental models, each as a standalone markdown card. Cards follow
 
 Format: `id·Name` — file at `Category/filename.md`
 
-### General Thinking (24 skills) — #3B82F6
-`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration`
+### General Thinking (25 skills) — #3B82F6
+`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning`
 
 ### Systems (17 skills) — #0D9488
 `17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure`
@@ -56,8 +56,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Innovation & Entrepreneurship (22 skills) — #DC2626
 `62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder`
 
-### Business (14 skills) — #475569
-`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping`
+### Business (16 skills) — #475569
+`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping` `224·Red Teaming` `225·A/B Testing`
 
 ### Mathematics (7 skills) — #4F46E5
 `75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero`
@@ -96,7 +96,9 @@ Format: `id·Name` — file at `Category/filename.md`
 | Post-mortem / learning review | 196·After-Action Review → 201·Hindsight Bias → 200·FAE → 207·SRK Framework |
 | System is quietly degrading | 208·Drift to Failure → 120·Goodhart's Law → 197·Tactical Pause |
 | Forecast feels optimistic | 206·Base Rate Neglect → 160·Reference Class Forecasting → 115·Planning Fallacy |
-| Belief needs stress-testing | 204·Falsification → 55·Confirmation Bias → 7·Probabilistic Thinking |
+| Belief needs stress-testing | 223·Steelmanning → 204·Falsification → 224·Red Teaming |
+| Plan needs adversarial challenge | 10·Pre-mortem → 224·Red Teaming → 204·Falsification |
+| Hypothesis needs live evidence | 225·A/B Testing → 72·Experiment Design → 63·Build-Measure-Learn |
 | Confidence levels need auditing | 211·Calibration → 7·Probabilistic Thinking → 5·Circle of Competence |
 | Evaluation at risk of bias | 212·Observer Bias → 72·Experiment Design → 204·Falsification |
 | Change resistance | 205·Commitment & Consistency Bias → 167·Immunity to Change → 125·Change Management |
@@ -111,4 +113,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 222 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 225 skills · 16 categories · `skills-manifest.json` is authoritative*

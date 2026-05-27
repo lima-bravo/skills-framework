@@ -1349,6 +1349,24 @@
       "name": "Coalition Building",
       "category": "Leadership",
       "color": "#1E40AF"
+    },
+    "General-Thinking/steelmanning.md": {
+      "id": 223,
+      "name": "Steelmanning",
+      "category": "General Thinking",
+      "color": "#3B82F6"
+    },
+    "Business/red-teaming.md": {
+      "id": 224,
+      "name": "Red Teaming",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Business/ab-testing.md": {
+      "id": 225,
+      "name": "A/B Testing",
+      "category": "Business",
+      "color": "#475569"
     }
   },
   "refs": [

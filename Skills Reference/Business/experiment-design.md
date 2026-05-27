@@ -48,6 +48,7 @@ An e-commerce team is testing whether a new checkout flow improves conversion. T
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — rigorous experiment design is the structural antidote to confirmation bias in analysis.
 → [**Observer Bias**](../Psychology/observer-bias.md) — a control group is necessary but not sufficient; blinded evaluation ensures assessors cannot unconsciously align measurements with expectations.
 → [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — experiment design disciplines every stage of this chain; the chain specifies what question to answer, experiment design specifies how to answer it validly
+→ [**A/B Testing**](ab-testing.md) — A/B testing is the most common operationalisation of experiment design in product and marketing practice; the general principles here govern the specifics there
 
 ---
 

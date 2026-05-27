@@ -46,6 +46,8 @@ A company is about to launch a new pricing model. Pre-mortem: "It is Q4 and the 
 → [**Inversion**](inversion.md) — the pre-mortem is inversion operationalized as a group process.
 → [**Assumption Mapping**](../Business/assumption-mapping.md) — failure causes in a pre-mortem often correspond to critical assumptions that weren't tested.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — pre-mortems identify the specific risks that margin of safety should buffer against.
+→ [**Red Teaming**](../Business/red-teaming.md) — the pre-mortem is a lightweight adversarial tool for a whole group; red teaming uses a designated independent team for more rigorous challenge.
+→ [**Steelmanning**](steelmanning.md) — steelmanning applied prospectively: what is the strongest case that this plan will fail?
 
 ---
 
