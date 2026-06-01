@@ -49,6 +49,7 @@ The three parts have a specific logic: purpose anchors *why* (so the team can pr
 - **RACI Framework** — Leader's Intent defines what success looks like; RACI clarifies who is accountable for delivering it
 - **Pre-mortem** — a useful post-briefing discipline: having set the intent, imagine the plan has failed — does the team's understanding of purpose and end state give them enough to recover?
 - **After-Action Review** — the AAR closes the loop on the intent: the first question (what was supposed to happen) is the test of whether the intent was clear enough to be remembered
+- **Grice's Maxims** — a Leader's Intent is a direct application of the Maxims: Quantity (purpose + key tasks + end state — no more), Relation (no method, only what guides judgment), Manner (short enough to recall under pressure)
 
 ## References
 

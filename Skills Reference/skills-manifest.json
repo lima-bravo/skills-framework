@@ -1367,6 +1367,12 @@
       "name": "A/B Testing",
       "category": "Business",
       "color": "#475569"
+    },
+    "General-Thinking/grices-maxims.md": {
+      "id": 226,
+      "name": "Grice's Maxims",
+      "category": "General Thinking",
+      "color": "#3B82F6"
     }
   },
   "refs": [

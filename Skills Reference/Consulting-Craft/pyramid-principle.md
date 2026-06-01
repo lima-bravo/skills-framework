@@ -49,6 +49,7 @@ A consulting team prepares a CFO-facing recommendation on whether to centralize 
 → [**A3 Problem Solving**](../Delivery-and-Flow/a3-problem-solving.md) — A3 is the one-page form of the same discipline.
 → [**Framing**](../Art/framing.md) — the executive summary's persuasion comes from framing; the pyramid is the framing's skeleton.
 → [**Audience**](../Art/audience.md) — the pyramid structure assumes a specific audience and reading mode.
+→ [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — the Pyramid Principle operationalises Grice's Maxims of Quantity and Manner in document structure; the Maxims are the underlying theory, the pyramid is one application.
 
 ---
 

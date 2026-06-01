@@ -48,6 +48,7 @@ A startup's north-star metric drops 15% over two weeks. The team generates three
 → [**First Principles**](first-principles.md) — both strip away unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations.
 → [**Probabilistic Thinking**](probabilistic-thinking.md) — when explanations are roughly equally probable, Occam provides the tiebreaker.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — complex explanations are often motivated; Occam is a check on that motivation.
+→ [**Grice's Maxims**](grices-maxims.md) — sister parsimony principle in a different domain; Occam's Razor governs explanatory economy, Grice governs communicative economy.
 
 ---
 

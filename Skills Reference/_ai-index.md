@@ -1,10 +1,10 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-05-27 | 225 skills | 16 categories | 801 graph connections -->
+<!-- Last updated: 2026-05-27 | 226 skills | 16 categories | 809 graph connections -->
 
 ## What this framework is
 
-A library of 225 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 19 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
+A library of 226 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 19 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
 
 **Primary use:** Surface the right model(s) for a situation, then apply structured reasoning through heuristics and failure modes.
 
@@ -38,8 +38,8 @@ A library of 225 mental models, each as a standalone markdown card. Cards follow
 
 Format: `id·Name` — file at `Category/filename.md`
 
-### General Thinking (25 skills) — #3B82F6
-`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning`
+### General Thinking (26 skills) — #3B82F6
+`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning` `226·Grice's Maxims`
 
 ### Systems (17 skills) — #0D9488
 `17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure`
@@ -107,10 +107,11 @@ Format: `id·Name` — file at `Category/filename.md`
 | Funnel idea needs a hypothesis | Chain 213·From Idea to Hypothesis → Chain 214·Crawl / Walk / Run |
 | Business case needs stress-testing | 218·Business Case Construction → 160·Reference Class Forecasting → 211·Calibration |
 | Need to move something without rank | 220·Power Mapping → 221·Influence Without Authority → 222·Coalition Building |
+| Communication pitched at wrong level | 226·Grice's Maxims → 163·Pyramid Principle → 90·Audience |
 | Pricing decision | 217·Value Creation and Capture → 219·Pricing Logic → Chain 94·Pricing Decision |
 | Running a staged experiment | Chain 214·Crawl / Walk / Run — crawl (does it work?) → walk (well enough?) → run (real data?) |
 | AI deployment governance | Chain 187 → Chain 186 → 183·AI Authority Boundaries |
 
 ---
 
-*Skills Framework · 225 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 226 skills · 16 categories · `skills-manifest.json` is authoritative*
