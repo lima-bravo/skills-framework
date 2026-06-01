@@ -49,6 +49,8 @@ A bank's innovation portfolio funds 12 internal startups, each with a 12-month r
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortem evidence is one source of kill criteria.
 → [**Cost of Delay**](cost-of-delay.md) — initiatives with collapsed cost of delay are kill candidates.
 → [**OKRs**](okrs.md) — failed KRs should trigger kill discussions, not redoubled effort.
+→ [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — kill criteria are agreed at Step 5 before any experiment runs; without them, ideas become immortal
+→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — kill criteria appear at every stage gate; the chain only works if gate decisions are honoured
 
 ---
 

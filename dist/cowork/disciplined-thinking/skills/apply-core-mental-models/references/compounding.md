@@ -43,6 +43,7 @@ Amazon's flywheel is the most celebrated corporate compounding engine: lower pri
 
 ## Connections
 
+→ [**Unit Economics**](../Economics/unit-economics.md) — strong unit economics compound over time: retained customers generate expansion revenue, referrals reduce CAC, and the economics improve rather than degrade with scale.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — compounding is driven by reinforcing feedback loops; they are the same phenomenon.
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.

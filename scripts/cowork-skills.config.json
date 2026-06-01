@@ -1,6 +1,8 @@
 {
   "version": "1.0.0",
-  "author": { "name": "J.L. Bonebakker · Focus2Flow B.V." },
+  "author": {
+    "name": "J.L. Bonebakker \u00b7 Focus2Flow B.V."
+  },
   "plugins": [
     {
       "id": "disciplined-thinking",
@@ -15,7 +17,9 @@
         "product-launch",
         "investment-decision",
         "should-i-quit",
-        "life-decision"
+        "life-decision",
+        "organisational-degradation-scan",
+        "diagnose-org-degradation"
       ]
     },
     {
@@ -56,7 +60,8 @@
         "innovation-capability-diagnostic",
         "design-launch-innovation-program",
         "from-idea-to-hypothesis",
-        "crawl-walk-run"
+        "crawl-walk-run",
+        "scan-for-programme-risk"
       ]
     },
     {
@@ -96,10 +101,11 @@
     "innovation-capability-diagnostic": "Diagnoses an organization's innovation capability across culture, process, portfolio, and metrics. Use when an innovation programme is underperforming or before designing one.",
     "design-launch-innovation-program": "End-to-end chain for designing and launching an innovation programme: mandate, structure, portfolio, governance, and metrics. Use when commissioning or redesigning innovation capability.",
     "from-idea-to-hypothesis": "Converts a raw idea into a testable hypothesis with explicit assumptions, success criteria, and a minimum viable experiment. Use before committing any resources to a new initiative.",
-    "crawl-walk-run": "Stages a new initiative across three evidence gates — does it work at all (crawl), well enough (walk), with real economics (run). Use to de-risk innovation bets and prevent premature scaling.",
+    "crawl-walk-run": "Stages a new initiative across three evidence gates \u2014 does it work at all (crawl), well enough (walk), with real economics (run). Use to de-risk innovation bets and prevent premature scaling.",
     "ai-agent-governance-design": "Designs the governance structure for an AI agent deployment: authority levels, escalation paths, monitoring, and override protocols. Use when deploying autonomous AI in a business context.",
     "ai-use-case-autonomy-assessment": "Assesses the appropriate autonomy level for a proposed AI use case using reversibility, consequence severity, and human-in-loop criteria. Use before approving AI agent scope or expanding AI authority.",
-    "mission-execution-protocol": "Structures mission execution from commander's intent through brief-back, execution cadence, and after-action review. Use for high-stakes projects requiring disciplined command and control."
+    "mission-execution-protocol": "Structures mission execution from commander's intent through brief-back, execution cadence, and after-action review. Use for high-stakes projects requiring disciplined command and control.",
+    "organisational-degradation-scan": "Seven-step diagnostic for why an organisation is quietly underperforming. Covers drift, scale threshold, bureaucratic expansion, management competence, metric capture, structural lock-in, and incentive misalignment. Run before launching any transformation programme."
   },
   "toolkits": [
     {
@@ -202,7 +208,7 @@
       ],
       "deliverableSections": [
         "Problem statement (one sentence)",
-        "MECE issue tree (top level 3–5 branches)",
+        "MECE issue tree (top level 3\u20135 branches)",
         "Key hypotheses to test",
         "Evidence plan per hypothesis",
         "What would falsify the leading hypothesis"
@@ -211,7 +217,9 @@
     {
       "slug": "executive-communication",
       "description": "Produces answer-first executive communication using the pyramid principle. Use for board decks, exec memos, or steering updates.",
-      "sources": ["Consulting-Craft/pyramid-principle.md"],
+      "sources": [
+        "Consulting-Craft/pyramid-principle.md"
+      ],
       "deliverableSections": [
         "Governing thought (answer first)",
         "Supporting arguments (MECE)",
@@ -250,29 +258,53 @@
         "Psychology/confirmation-bias.md",
         "Mathematics/compounding.md",
         "Psychology/loss-aversion.md",
-        "Systems/bottlenecks.md"
+        "Systems/bottlenecks.md",
+        "Mathematics/expected-value.md",
+        "Mathematics/bayesian-updating.md",
+        "General-Thinking/black-swan.md"
       ],
       "branches": [
         {
           "label": "Decision under uncertainty",
-          "models": ["Probabilistic Thinking", "Inversion", "Margin of Safety"],
+          "models": [
+            "Probabilistic Thinking",
+            "Inversion",
+            "Margin of Safety"
+          ],
           "lead": "General-Thinking/probabilistic-thinking.md"
         },
         {
           "label": "System change",
-          "models": ["Feedback Loops", "Bottlenecks", "Incentives"],
+          "models": [
+            "Feedback Loops",
+            "Bottlenecks",
+            "Incentives"
+          ],
           "lead": "Systems/feedback-loops.md"
         },
         {
           "label": "People and organization",
-          "models": ["Incentives", "Loss Aversion", "Confirmation Bias"],
+          "models": [
+            "Incentives",
+            "Loss Aversion",
+            "Confirmation Bias"
+          ],
           "lead": "Psychology/incentives.md"
+        },
+        {
+          "label": "Quantitative decision-making",
+          "models": [
+            "Expected Value",
+            "Bayesian Updating",
+            "Black Swan"
+          ],
+          "lead": "Mathematics/expected-value.md"
         }
       ],
       "deliverableSections": [
         "Situation summary",
         "Primary model lens used and why",
-        "Analysis (3–5 insights)",
+        "Analysis (3\u20135 insights)",
         "Checking models applied",
         "Recommended action and risks"
       ]
@@ -290,7 +322,7 @@
       "deliverableSections": [
         "Customer segment and context (who, doing what, under what conditions)",
         "Job-to-be-done statement (functional, emotional, social dimensions)",
-        "Opportunity map (pains, gains, unmet needs — using OST structure)",
+        "Opportunity map (pains, gains, unmet needs \u2014 using OST structure)",
         "Assumptions that must be true for this opportunity to be real",
         "Recommended next discovery move (interview, observation, or prototype)"
       ]
@@ -307,9 +339,9 @@
       "deliverableSections": [
         "Hypothesis to test (if we do X, we expect Y, because Z)",
         "Riskiest assumption (what must be true for this to work)",
-        "Experiment type and rationale (pretotype → MVP → scaled test)",
+        "Experiment type and rationale (pretotype \u2192 MVP \u2192 scaled test)",
         "Success criteria and falsification threshold",
-        "What to build, measure, and learn — in that sequence"
+        "What to build, measure, and learn \u2014 in that sequence"
       ]
     },
     {
@@ -323,7 +355,7 @@
       "deliverableSections": [
         "Current portfolio mapped across Horizon 1 / 2 / 3 (with investment %)",
         "Portfolio balance assessment (over-indexed on any horizon?)",
-        "Innovation health indicators — current state vs target",
+        "Innovation health indicators \u2014 current state vs target",
         "Innovation Accounting metrics (validated learning, cohort progress)",
         "Recommended portfolio rebalancing and governance changes"
       ]
@@ -354,9 +386,9 @@
         "Leadership/ooda-loop.md"
       ],
       "deliverableSections": [
-        "Commander's intent (purpose, end-state, key constraints — one paragraph)",
+        "Commander's intent (purpose, end-state, key constraints \u2014 one paragraph)",
         "Delegated tasks and decision authority per role",
-        "Brief-back summary (what each lead will do and why — in their words)",
+        "Brief-back summary (what each lead will do and why \u2014 in their words)",
         "OODA cadence (observe-orient-decide-act cycle and trigger conditions)",
         "Red lines and escalation protocol"
       ]
@@ -375,6 +407,43 @@
         "Root causes (not surface symptoms)",
         "Lessons to institutionalise (changes to process, doctrine, or assumptions)",
         "Follow-up owners and deadlines"
+      ]
+    },
+    {
+      "slug": "diagnose-org-degradation",
+      "description": "Diagnoses why an organisation is quietly underperforming. Covers drift, scale threshold, bureaucratic expansion, management layer quality, metric capture, and incentive misalignment. Use when leadership senses something is wrong but cannot name it, or before launching a transformation programme.",
+      "sources": [
+        "Systems/drift-to-failure.md",
+        "Systems/dunbars-number.md",
+        "Business/parkinsons-law.md",
+        "Leadership/peter-principle.md",
+        "Economics/goodharts-law.md",
+        "Systems/conways-law.md",
+        "Economics/principal-agent-problem.md"
+      ],
+      "deliverableSections": [
+        "Primary degradation mechanism (name it and explain why it is primary)",
+        "Evidence for each active mechanism (drift / scale / Parkinson / Peter / Goodhart / Conway / agency)",
+        "Compounding sequence (how the mechanisms reinforce each other)",
+        "What is individually rational but collectively corrosive",
+        "Intervention priority and what comes next (Transformation Chain or Org Design for Flow)"
+      ]
+    },
+    {
+      "slug": "scan-for-programme-risk",
+      "description": "Scans a change programme or innovation initiative for Cobra Effect risk: whether the intervention is sustaining the problem it was designed to solve. Use before launching programmes, or when a running programme shows activity but no outcome improvement.",
+      "sources": [
+        "Innovation-Entrepreneurship/cobra-effect.md",
+        "Economics/goodharts-law.md",
+        "General-Thinking/second-order-effects.md",
+        "Systems/drift-to-failure.md"
+      ],
+      "deliverableSections": [
+        "Programme description and stated goal",
+        "Cobra type classification (metric / gate removal / psych safety / innovation unit / incentive realignment)",
+        "Pre-launch cobra risk assessment (5 questions answered)",
+        "Current metric performance vs underlying outcome performance",
+        "Redesign recommendation or kill criteria"
       ]
     }
   ],

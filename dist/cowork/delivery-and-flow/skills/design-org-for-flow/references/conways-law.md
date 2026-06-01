@@ -45,6 +45,7 @@ A startup grows from 10 to 60 engineers. At 10, everyone talks to everyone, the 
 → [**Bottlenecks**](bottlenecks.md) — system integration points between teams are common bottlenecks; Conway's Law explains why.
 → [**Emergence**](emergence.md) — the architecture that emerges from a team structure is an emergent property of the communication dynamics.
 → [**Interdependence**](../Economics/interdependence.md) — Conway's Law is the specific version of the interdependence principle applied to system design.
+→ [**Path Dependence**](../Systems/path-dependence.md) — the communication structures of the past create the architectural paths of the present; Conway's Law is a primary mechanism of path dependence in software systems.
 
 ---
 

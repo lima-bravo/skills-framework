@@ -49,6 +49,7 @@ A regulatory delivery program has a hard deadline 14 weeks away. The single-date
 → [**Little's Law**](littles-law.md) — connects throughput, WIP, and cycle time, which feed the simulation.
 → [**Lead Time vs Cycle Time**](lead-time-cycle-time.md) — provides the cycle-time inputs to "when" forecasts.
 → [**Planning Fallacy**](../Psychology/planning-fallacy.md) — the cognitive bias probabilistic forecasting counteracts.
+→ [**Empirical Process Control**](empirical-process-control.md) — probabilistic forecasting requires an inspectable, stable system; EPC provides the governance that keeps the system transparent enough to forecast reliably.
 
 ---
 

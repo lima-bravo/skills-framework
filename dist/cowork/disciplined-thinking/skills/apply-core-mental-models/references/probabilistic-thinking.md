@@ -48,6 +48,9 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 → [**Circle of Competence**](circle-of-competence.md) — probability estimates are only as good as your underlying knowledge. Outside your circle, confidence intervals should be much wider.
 → [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — understanding that extreme outcomes tend toward average is a structural input to probabilistic thinking.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — once you have a probability distribution on outcomes, margin of safety tells you how much buffer to hold.
+→ [**Calibration**](calibration.md) — calibration is the standard that probabilistic thinking is measured against; thinking in distributions is the method, being calibrated across many predictions is the goal.
+→ [**Expected Value**](../Mathematics/expected-value.md) — EV is the quantitative expression of probabilistic thinking; once you have a probability distribution, expected value tells you what a decision is worth.
+→ [**Bayesian Updating**](../Mathematics/bayesian-updating.md) — the mechanism for keeping probability estimates current as new evidence arrives.
 
 ---
 

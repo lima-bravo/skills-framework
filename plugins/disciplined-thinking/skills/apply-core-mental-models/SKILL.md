@@ -5,7 +5,7 @@ description: |
 metadata:
   plugin: "disciplined-thinking"
   version: "1.0.0"
-  sources: "General-Thinking/first-principles.md,General-Thinking/inversion.md,General-Thinking/second-order-effects.md,Systems/feedback-loops.md,Psychology/incentives.md,General-Thinking/probabilistic-thinking.md,General-Thinking/map-territory.md,Psychology/sunk-cost.md,Psychology/confirmation-bias.md,Mathematics/compounding.md,Psychology/loss-aversion.md,Systems/bottlenecks.md"
+  sources: "General-Thinking/first-principles.md,General-Thinking/inversion.md,General-Thinking/second-order-effects.md,Systems/feedback-loops.md,Psychology/incentives.md,General-Thinking/probabilistic-thinking.md,General-Thinking/map-territory.md,Psychology/sunk-cost.md,Psychology/confirmation-bias.md,Mathematics/compounding.md,Psychology/loss-aversion.md,Systems/bottlenecks.md,Mathematics/expected-value.md,Mathematics/bayesian-updating.md,General-Thinking/black-swan.md"
 ---
 
 # Apply Core Mental Models
@@ -19,6 +19,7 @@ Pick the branch that best matches the situation, then apply its models:
 - **Decision under uncertainty** — Probabilistic Thinking, Inversion, Margin of Safety
 - **System change** — Feedback Loops, Bottlenecks, Incentives
 - **People and organization** — Incentives, Loss Aversion, Confirmation Bias
+- **Quantitative decision-making** — Expected Value, Bayesian Updating, Black Swan
 
 ## Protocol
 
@@ -228,6 +229,67 @@ Think of a pipeline with sections of different diameters. The narrowest section 
 - **Misidentifying the bottleneck.** The visible queue is not always at the true constraint — it may be downstream of an invisible constraint that limits how much work enters the system. Trace the full flow.
 - **Creating new bottlenecks downstream.** Aggressively fixing one bottleneck can shift the constraint to a part of the system you haven't prepared for.
 
+### 13. Expected Value
+
+**Hold in mind:**
+Most people evaluate decisions by their most likely outcome, not their probability-weighted outcomes. This produces systematic errors: they avoid low-probability, high-magnitude wins (lottery tickets aside, many legitimate bets) and accept high-probability, low-magnitude gains that come bundled with catastrophic downside risk. Expected value shifts the question from "what will probably happen?" to "what is this bet actually worth?" A 10% chance of gaining £1,000,000 and a 90% chance of losing £50,000 has an EV of £55,000 — substantially positive, even though the most likely single outcome is a loss. The discipline is to evaluate the whole distribution, not the modal scenario.
+
+**Do:**
+- **Calculate EV before comparing options.** List the plausible outcomes, assign rough probabilities (they don't need to be precise), assign magnitudes, multiply and sum. Even a back-of-envelope EV calculation beats intuitive comparison.
+- **Size positions to EV, not to confidence.** High-confidence, low-magnitude bets deserve smaller positions than lower-confidence, high-magnitude bets with equivalent EV. Magnitude matters as much as probability.
+- **Look for asymmetric EV.** The best decisions are those where downside is bounded and upside is large — you can be wrong often and still come out ahead. Options and experiments often have this property.
+- **Distinguish EV from variance.** Two decisions can have the same EV with very different variance. For irreversible or ruinous downsides, apply a variance penalty even when EV looks positive (see Margin of Safety).
+- **Beware small-sample reasoning.** EV only pays out reliably over many trials. A single positive-EV decision can still lose; resist updating your process based on single outcomes.
+
+**Avoid:**
+- **Ignoring low-probability catastrophes.** Summing expected values while truncating the tail that contains ruin. A strategy can have a positive EV with a small chance of catastrophic loss — and still be the wrong choice if the catastrophe is irreversible.
+- **Miscalibrated probabilities.** The calculation is only as good as the probability estimates going in. Overconfident priors (see Calibration, Base Rate Neglect) produce overstated EVs. Garbage in, garbage out.
+- **Treating EV as certain.** Quoting an EV as if it's the expected outcome of a single event rather than an average across many trials. EV describes the long-run; any individual trial can diverge wildly.
+- **Ignoring correlation.** Multiple bets with individually positive EV can be correlated — they all lose together. Portfolio EV is not just the sum of individual EVs if the outcomes move together.
+
+### 14. Bayesian Updating
+
+**Hold in mind:**
+Most people treat new evidence as either confirming or disconfirming their existing belief — a binary switch. Bayesian updating replaces the switch with a dial. Evidence shifts your belief by an amount proportional to how diagnostic it is. If you believe there's a 30% chance a project will fail, and you learn that three similar projects at similar organisations failed last year, your posterior might be 60% — not certainty, not zero change. The discipline is to ask: "How much should this evidence move me, and in which direction?" rather than "Does this confirm or deny what I already think?"
+
+The key insight is that the same piece of evidence moves beliefs differently depending on your prior. Someone starting at 5% failure probability and someone starting at 50% failure probability who see identical evidence should end up at different posteriors — and both can be right given their different starting information.
+
+**Do:**
+- **State your prior explicitly before seeing new evidence.** An unstated prior is an unexamined prior. Write down your current probability estimate before the data arrives — this prevents hindsight bias and anchoring.
+- **Ask: how diagnostic is this evidence?** Evidence that is equally likely regardless of whether your hypothesis is true provides zero update. Only distinctive evidence — more likely under one hypothesis than another — moves the needle.
+- **Update small on weak evidence; update large on strong evidence.** A single data point from a noisy source deserves a small update. A replicable finding from a high-quality study deserves a large one.
+- **Don't update to certainty on any single piece of evidence.** Posteriors of 0% or 100% shut off future updating. Maintain residual uncertainty to stay open to disconfirming evidence.
+- **Watch for asymmetric updating.** Humans update readily on confirming evidence and discount disconfirming evidence (Confirmation Bias). Apply conscious effort to update on evidence that cuts against your prior.
+
+**Avoid:**
+- **Anchoring too hard on the prior.** Updating too little in response to strong evidence — maintaining beliefs in the face of overwhelming counter-evidence because the prior feels certain. This is the rational sin of under-updating.
+- **Over-updating on a single striking data point.** One vivid example (a startup that failed, a strategy that worked) drives the posterior to near-certainty before enough evidence has accumulated. Availability Bias amplifies this.
+- **Ignoring base rates in the prior.** Starting with a prior that doesn't reflect base rate reality means all subsequent updates are anchored incorrectly, even if each individual update is well-executed. Get the prior right first.
+- **Treating the update as one-directional.** Evidence that cuts against your current hypothesis updates you toward the alternative — many practitioners accept only the updates that align with what they want to believe.
+- **Updating on the same evidence twice.** If a piece of evidence is already incorporated into your prior (e.g., you heard about the data point before it was formalised), treating it as new information double-counts it.
+
+### 15. Black Swan
+
+**Hold in mind:**
+The danger is not the event itself — it is the model used to predict it. Most forecasting, risk management, and strategic planning assumes a normal distribution of outcomes: most events cluster around the mean, extreme events are rare, and the past is a reasonable guide to the future. In domains governed by power laws and complex interconnection — financial markets, geopolitics, technology platforms, pandemics — this assumption is structurally wrong. Extreme events are not statistical curiosities; they are the dominant drivers of long-run outcomes.
+
+Taleb's key insight is that the damage from Black Swan events is compounded by our certainty that they won't happen. An organisation that assigns near-zero probability to tail events builds no resilience against them, sizes positions as if they are safe, and is then destroyed by the event while simultaneously being surprised by it. The Black Swan problem is not primarily a prediction problem — you cannot reliably predict specific Black Swans. It is a robustness problem: building systems that survive tail events without needing to predict them.
+
+This distinguishes the Black Swan from related concepts. Scenario Planning attempts to imagine specific futures. The Black Swan argument is that the specific future that matters most is precisely the one you didn't imagine — by definition, because imagining it would have changed behaviour. The correct response is not better prediction but structural robustness and asymmetric positioning.
+
+**Do:**
+- **Distinguish Mediocristan from Extremistan.** Taleb's terminology: Mediocristan domains (height, calorie intake, car speed) are governed by normal distributions where extremes are bounded. Extremistan domains (wealth, sales performance, war casualties, technology adoption) are governed by power laws where a single event can dominate the total. Apply fat-tail thinking only in Extremistan.
+- **Build robustness rather than predict the unpredictable.** Since Black Swans cannot be reliably predicted, the right response is structural: reduce fragility (avoid positions that break on tail events), build optionality (retain the ability to respond when the event occurs), and apply Margin of Safety sized to the tail, not the average.
+- **Pursue positive Black Swans asymmetrically.** Black Swans are not always negative. Some of the most valuable opportunities are positive Black Swans — outcomes with bounded downside and extreme upside. Asymmetric positioning (small bets, capped losses, uncapped gains) is the offensive application of Black Swan thinking.
+- **Audit your scenarios for what they exclude.** Scenario planning and pre-mortems surface a range of futures — but the Black Swan is definitionally outside the range you considered. After completing a scenario exercise, ask: "What event would invalidate all of these scenarios simultaneously?" That question points toward your Black Swan exposure.
+- **Treat low-probability, high-consequence events differently from low-probability, low-consequence events.** Standard expected value calculation treats both the same — probability × magnitude. Black Swan thinking says to apply a separate regime for tail events with catastrophic or irreversible consequences: no amount of positive EV justifies ruin.
+
+**Avoid:**
+- **Hindsight rationalisation masking future exposure.** After a Black Swan, the event is reframed as foreseeable. This creates a false sense that future Black Swans can also be foreseen — and hides the structural fragility that allowed the event to be catastrophic. Post-event narratives are almost always misleading about predictability.
+- **Confusing rare with improbable in fat-tailed domains.** In Extremistan, "this has never happened before" is not evidence that it's improbable. The absence of a prior extreme event increases — not decreases — the pressure in the system. Using historical absence as a risk argument is structurally wrong in power law domains.
+- **Optimising for the median while ignoring the tail.** The organisations destroyed by Black Swans were not ignoring risk — they were managing the median risk well. The tail was outside the model. Risk management that scores well on average outcomes and catastrophically on tail outcomes is not risk management; it is tail-risk transfer disguised as prudence.
+- **Over-applying Black Swan thinking to Mediocristan.** Not every domain has fat tails. Treating normal-distribution phenomena as if they were power law domains produces excessive conservatism and missed opportunities. The model requires domain diagnosis first.
+
 ## Deliverable format
 
 Produce a markdown document with these sections:
@@ -260,4 +322,7 @@ For full definitions and examples, read the linked files when detail is needed:
 - [compounding](references/compounding.md)
 - [loss-aversion](references/loss-aversion.md)
 - [bottlenecks](references/bottlenecks.md)
+- [expected-value](references/expected-value.md)
+- [bayesian-updating](references/bayesian-updating.md)
+- [black-swan](references/black-swan.md)
 

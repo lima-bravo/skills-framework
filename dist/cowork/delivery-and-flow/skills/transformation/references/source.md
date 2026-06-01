@@ -5,7 +5,7 @@
 
 ## When to Use
 
-Before launching any major organisational transformation: a merger, new operating model, digital transformation, cultural shift, or strategic pivot.
+Before launching any major organisational transformation: a merger, new operating model, digital transformation, cultural shift, or strategic pivot. If the transformation is prompted by organisational underperformance rather than a strategic opportunity, run the [**Organisational Degradation Scan**](organisational-degradation-scan.md) first — it identifies which degradation mechanisms are operative and ensures the transformation addresses root causes rather than symptoms.
 
 ## Steps
 
