@@ -21,9 +21,12 @@ Each mitigation has costs: incentive alignment introduces Goodhart's Law risk; m
 - **Power Mapping** — power gaps often correspond to principal-agent misalignments; mapping who actually decides versus who formally decides surfaces where the agency problem is structurally embedded
 - **Coalition Building** — coalition members are agents whose private incentives may not fully align with the coalition's stated purpose; the principal-agent lens predicts where fracture is most likely
 - **Incentives** — the primary tool for mitigation
-- **Cobra Effect** — classic principal-agent failure in a colonial governance context
+- [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — many cobra dynamics are principal-agent problems: agents responsible for a change programme optimise for programme metrics rather than the underlying outcome
 - **Ladder of Inference** — principals draw conclusions about agents from limited observable data
 - **Psychological Safety** — agents with low psychological safety optimise for appearance, worsening the gap
+- [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — misaligned principal-agent incentives create equilibria where agents act against the principal's interest; changing the equilibrium requires changing the payoff structure
+- [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — principal-agent relationships often have a Prisoner's Dilemma structure: agents defect from principal interests when individual incentives dominate
+- [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
 
 ## References
 

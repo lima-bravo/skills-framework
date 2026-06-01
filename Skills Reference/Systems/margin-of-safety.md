@@ -46,6 +46,7 @@ A startup plans to raise 18 months of runway. Their model shows they'll reach pr
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — margin of safety is the practical application of probabilistic thinking to plan design.
 → [**Inversion**](../General-Thinking/inversion.md) — inversion identifies what could go wrong; margin of safety is the structural response.
 → [**Irreducibility**](irreducibility.md) — some systems cannot be simplified without losing the properties you need; margin of safety is especially important in those cases.
+→ [**Black Swan**](../General-Thinking/black-swan.md) — Black Swan events are the tail events that margin of safety must be sized to survive; in fat-tailed domains, margin of safety must be sized to the tail, not the average.
 
 ---
 

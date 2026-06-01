@@ -49,6 +49,7 @@ A senior partner has been told for three years that they need to delegate more. 
 → [**Confirmation Bias**](confirmation-bias.md) — big assumptions persist because we collect evidence for them.
 → [**Ladder of Inference**](../General-Thinking/ladder-of-inference.md) — surfacing the assumption climbs back down the ladder.
 → [**Theory of Change**](../Business/theory-of-change.md) — organizational change theories often miss the immunity layer.
+→ [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — Immunity to Change explains individual-level resistance; the Cobra Effect explains how the change programme architecture itself can sustain the status quo at the organisational level.
 
 ---
 

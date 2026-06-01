@@ -46,6 +46,8 @@ A CFO needs to present a £2M cost overrun to the board. Two frames: Frame 1: "W
 → [**Loss Aversion**](../Psychology/loss-aversion.md) — framing as loss vs. gain activates loss aversion differentially; the practitioner chooses frames accordingly.
 → [**Anchoring**](../Psychology/anchoring.md) — a frame sets the anchor; all subsequent content is evaluated relative to it.
 → [**Audience**](audience.md) — the right frame for a given content depends entirely on who the audience is.
+→ [**Overton Window**](../General-Thinking/overton-window.md) — framing is the mechanism by which Overton Windows are maintained or shifted; whoever controls the frame defines what is thinkable.
+→ [**Schelling Points**](../Economics/schelling-points.md) — framing creates salience, which creates Schelling Points; the most prominent framing tends to become the focal point for coordination.
 
 ---
 

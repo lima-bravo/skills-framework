@@ -48,6 +48,8 @@ A survivorship-aware analysis would start with all 18 acquisition attempts, code
 - **Hindsight Bias** — frequently co-occurs; once you know something succeeded, survivorship bias reinforces the illusion that it was always going to
 - **First Principles Thinking** — cutting through survivor-sourced conventional wisdom requires rebuilding reasoning from ground truth
 - **Probabilistic Thinking** — the correction for survivorship bias is explicitly reasoning over the full distribution, not just the visible tail
+- [**Black Swan**](../General-Thinking/black-swan.md) — survivorship bias compounds the Black Swan problem: we study organisations that survived tail events, which systematically underrepresents the frequency and impact of those events
+- [**Power Law**](../Mathematics/power-law.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is
 
 ## References
 

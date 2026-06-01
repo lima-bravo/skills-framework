@@ -46,6 +46,7 @@ A founder is raizing a Series A. The first VC she meets opens with "we're thinki
 → [**Relativity**](../Physics-and-Chemistry/relativity.md) — anchoring is the mechanism by which reference frames are installed; relativity is the general principle.
 → [**Loss Aversion**](loss-aversion.md) — anchors work partly by framing deviations as losses (below anchor) or gains (above anchor).
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — the antidote to anchoring is independent base-rate analysis before exposure to anchors.
+→ [**Schelling Points**](../Economics/schelling-points.md) — Schelling Points are manufactured anchors: salient options that coordinate behaviour by standing out as the obvious choice.
 
 ---
 

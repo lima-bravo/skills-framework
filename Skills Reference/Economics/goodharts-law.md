@@ -21,10 +21,11 @@ Hospital waiting-time targets cause patients to be held in ambulances outside th
 
 - **Unit Economics** — CAC and LTV are the metrics most vulnerable to Goodhart's Law; organisations that target them directly distort the customer acquisition mix or inflate LTV projections
 - **Incentives** — Goodhart's Law is the failure mode of incentive systems
-- **Cobra Effect** — classic illustration: the bounty incentivised cobra breeding
+- [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — the Cobra Effect is Goodhart's Law with structural lock-in: the measurement programme itself sustains the problem it was designed to solve
 - **Principal-Agent Problem** — agents optimise what they're measured on, not necessarily what principals want
 - **Feedback Loops** — measurement creates feedback loops that can go reinforcing in the wrong direction
 - **Optimization** — local optimisation of a proxy metric is how this failure mode manifests
+- [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when shared metrics are used to manage shared resources, Goodhart's Law can weaponise the measurement system itself
 
 ## References
 

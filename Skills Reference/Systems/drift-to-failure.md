@@ -50,6 +50,7 @@ The failure mode: a contractor's credentials are compromised, they access an unr
 - **Systems Thinking** — drift to failure is a systems phenomenon; it is invisible at the component level and only visible in the system's trajectory
 - **After-Action Review** — well-run AARs should look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" is drift analysis
 - **Tactical Pause** — the operational intervention that creates the conditions for drift to become visible before it reaches the boundary
+- [**Organisational Degradation Scan**](../Pre-built-Chains/organisational-degradation-scan.md) — Drift to Failure is the universal precondition for organisational degradation; the scan begins here before examining the specific mechanisms that compound it
 
 ## References
 

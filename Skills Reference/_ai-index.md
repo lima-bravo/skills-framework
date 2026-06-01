@@ -1,10 +1,10 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-05-27 | 226 skills | 16 categories | 809 graph connections -->
+<!-- Last updated: 2026-06-01 | 244 skills | 16 categories | 910 graph connections -->
 
 ## What this framework is
 
-A library of 226 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 19 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
+A library of 244 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 19 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
 
 **Primary use:** Surface the right model(s) for a situation, then apply structured reasoning through heuristics and failure modes.
 
@@ -38,14 +38,14 @@ A library of 226 mental models, each as a standalone markdown card. Cards follow
 
 Format: `id·Name` — file at `Category/filename.md`
 
-### General Thinking (26 skills) — #3B82F6
-`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning` `226·Grice's Maxims`
+### General Thinking (28 skills) — #3B82F6
+`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning` `226·Grice's Maxims` `234·Overton Window` `240·Black Swan`
 
-### Systems (17 skills) — #0D9488
-`17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure`
+### Systems (19 skills) — #0D9488
+`17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure` `235·Path Dependence` `243·Dunbar's Number`
 
-### Economics (15 skills) — #16A34A
-`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture`
+### Economics (22 skills) — #16A34A
+`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture` `229·Nash Equilibrium` `230·Prisoner's Dilemma` `231·Tragedy of the Commons` `232·Free Rider Problem` `236·Schelling Points` `239·Long Tail`
 
 ### Physics & Chemistry (10 skills) — #EA580C
 `41·Leverage` `42·Velocity` `43·Inertia` `44·Friction` `45·Activation Energy` `46·Thermodynamics` `47·Catalysts` `48·Alloying` `49·Reciprocity` `50·Relativity`
@@ -53,14 +53,14 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Psychology (26 skills) — #9333EA
 `51·Incentives` `52·Loss Aversion` `53·Sunk Cost` `54·Anchoring` `55·Confirmation Bias` `56·Availability Bias` `57·Dunning-Kruger` `58·Maslow's Hierarchy of Needs` `59·McClelland's Acquired Needs Theory` `60·Max-Neef's Fundamental Human Needs` `61·ERG Theory` `101·Trust` `104·Psychological Safety` `115·Planning Fallacy` `167·Immunity to Change` `192·Self-Determination Theory` `199·Survivorship Bias` `200·Fundamental Attribution Error` `201·Hindsight Bias` `202·Social Proof` `203·Narrative Instinct` `204·Falsification` `205·Commitment & Consistency Bias` `206·Base Rate Neglect` `207·SRK Framework` `212·Observer Bias`
 
-### Innovation & Entrepreneurship (22 skills) — #DC2626
-`62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder`
+### Innovation & Entrepreneurship (23 skills) — #DC2626
+`62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder` `237·Cobra Effect`
 
-### Business (16 skills) — #475569
-`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping` `224·Red Teaming` `225·A/B Testing`
+### Business (17 skills) — #475569
+`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping` `224·Red Teaming` `225·A/B Testing` `241·Parkinson's Law`
 
-### Mathematics (7 skills) — #4F46E5
-`75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero`
+### Mathematics (11 skills) — #4F46E5
+`75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero` `227·Expected Value` `228·Bayesian Updating` `233·Fermi Estimation` `238·Power Law`
 
 ### Network Effects (4 skills) — #CA8A04
 `82·Network Effects` `83·Viral Growth` `84·Marketplace` `85·Defensibility`
@@ -77,11 +77,11 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Consulting Craft (5 skills) — #7C3AED
 `161·Hypothesis-Driven Consulting` `162·MECE` `163·Pyramid Principle` `164·Engagement Lifecycle` `165·Contracting & Scope`
 
-### Pre-built Chains (19 skills) — #B45309
-`94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run`
+### Pre-built Chains (20 skills) — #B45309
+`94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run` `244·Organisational Degradation Scan`
 
-### Leadership (15 skills) — #1E40AF
-`118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building`
+### Leadership (16 skills) — #1E40AF
+`118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building` `242·Peter Principle`
 
 ### Applied AI (3 skills) — #0369A1
 `183·AI Authority Boundaries` `184·Minimal Capability Principle` `185·Prompt Injection`
@@ -111,7 +111,20 @@ Format: `id·Name` — file at `Category/filename.md`
 | Pricing decision | 217·Value Creation and Capture → 219·Pricing Logic → Chain 94·Pricing Decision |
 | Running a staged experiment | Chain 214·Crawl / Walk / Run — crawl (does it work?) → walk (well enough?) → run (real data?) |
 | AI deployment governance | Chain 187 → Chain 186 → 183·AI Authority Boundaries |
+| Strategic interaction / why cooperation fails | 229·Nash Equilibrium → 230·Prisoner's Dilemma → 51·Incentives |
+| Coordination without communication | 236·Schelling Points → 229·Nash Equilibrium → 91·Framing |
+| Change that keeps hitting a wall | 234·Overton Window → 222·Coalition Building → 125·Change Management |
+| System that resists change structurally | 235·Path Dependence → 43·Inertia → 16·Two-Way Doors |
+| Sizing an unknown opportunity | 233·Fermi Estimation → 227·Expected Value → 211·Calibration |
+| Shared good degrading / underinvestment | 232·Free Rider Problem → 231·Tragedy of the Commons → 51·Incentives |
+| Change programme may be sustaining the problem | 237·Cobra Effect → 120·Goodhart's Law → 10·Pre-mortem |
+| Risk model may be missing tail events | 240·Black Swan → 238·Power Law → 24·Margin of Safety |
+| Organisation scaling and degrading | 244·Organisational Degradation Scan → 130·Transformation Chain |
+| Market concentration / winner-take-most | 238·Power Law → 82·Network Effects → 85·Defensibility |
+| Platform or marketplace strategy | 239·Long Tail → 84·Marketplace → 82·Network Effects |
+| Shared resource degrading | 231·Tragedy of the Commons → 120·Goodhart's Law → 51·Incentives |
+| Decision under uncertainty (quantitative) | 227·Expected Value → 228·Bayesian Updating → 211·Calibration |
 
 ---
 
-*Skills Framework · 226 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 244 skills · 16 categories · `skills-manifest.json` is authoritative*

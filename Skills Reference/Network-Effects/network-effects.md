@@ -46,6 +46,8 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 → [**Viral Growth**](viral-growth.md) — the growth mechanism that most efficiently reaches critical mass.
 → [**Defensibility**](defensibility.md) — network effects are the strongest source of defensibility in digital markets.
 → [**Value Creation and Capture**](../Economics/value-creation-capture.md) — network effects are one of the most powerful value capture mechanisms: as the network grows, switching costs rise and the fraction of created value that can be retained increases.
+→ [**Power Law**](../Mathematics/power-law.md) — network effects are a primary generative mechanism for power law distributions: preferential attachment produces winner-take-most outcomes.
+→ [**Long Tail**](../Economics/long-tail.md) — network effects and Long Tail dynamics compound in platform markets: the network attracts more supply, which deepens the tail, which attracts more demand.
 
 ---
 

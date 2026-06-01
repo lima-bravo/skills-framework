@@ -46,6 +46,9 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Second-order Effects**](../General-Thinking/second-order-effects.md) — incentive systems produce second-order effects that are often the opposite of the intended first-order effect.
 → [**Gresham's Law**](../Economics/greshams-law.md) — Gresham's Law is incentive dynamics applied to market competition between quality tiers.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — incentives create feedback loops; the loop structure determines whether the incentive produces the intended long-run outcome.
+→ [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — equilibria are determined by the incentive structure; redesigning incentives is the primary lever for changing which equilibrium players land in.
+→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — the Prisoner's Dilemma is an incentive structure where individual rationality produces collective irrationality.
+→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — commons tragedies are incentive design failures: individual incentives point toward overuse of a shared resource.
 
 ---
 

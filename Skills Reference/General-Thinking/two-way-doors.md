@@ -46,6 +46,7 @@ A product team wants to deprecate a legacy API that some customers still use. In
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — irreversible decisions require more margin of safety than reversible ones; the two frameworks work together.
 → [**Asymmetry/Convexity**](asymmetry-convexity.md) — two-way doors are structurally asymmetric: limited downside (can reverse), full upside potential.
 → [**Regret Minimization**](regret-minimization-framework.md) — the regret of a wrong reversible decision is small; the regret of a wrong irreversible decision can be large. The two frameworks combine to guide which decisions to act on quickly.
+→ [**Path Dependence**](../Systems/path-dependence.md) — irreversible decisions are the primary mechanism of path dependence; preferring two-way doors is the structural antidote to inadvertent lock-in.
 
 ---
 
