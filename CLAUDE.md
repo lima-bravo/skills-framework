@@ -90,6 +90,7 @@ The reason for batching steps 7–8 is that both files are *views* that benefit 
 | `docs/training-guide.html` | ✅ auto — rendered from `training-guide.md` |
 | `docs/skill-primer.html` | ✅ auto — rendered from `skill-primer.md` |
 | `Skills Reference/_ai-index.md` | ❌ manual (count + inventory) — update by hand |
+| `docs/index.html` | ❌ manual (count) — update Mental Models, Pre-built Chains, Graph Connections stats and matching prose |
 | `docs/situation-finder.html` | ❌ manual — update by hand |
 | `docs/quick-reference.html` | ❌ manual — update by hand |
 | `Skills Reference/skill-primer.md` | ❌ manual (count) — update "one of N" and footer line |
