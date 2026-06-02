@@ -19,7 +19,11 @@
         "should-i-quit",
         "life-decision",
         "organisational-degradation-scan",
-        "diagnose-org-degradation"
+        "diagnose-org-degradation",
+        "detect-cognitive-biases",
+        "stress-test-reasoning",
+        "strategy-and-markets",
+        "systems-and-risk"
       ]
     },
     {
@@ -444,6 +448,212 @@
         "Pre-launch cobra risk assessment (5 questions answered)",
         "Current metric performance vs underlying outcome performance",
         "Redesign recommendation or kill criteria"
+      ]
+    },
+    {
+      "slug": "detect-cognitive-biases",
+      "description": "Scans a decision, analysis, or plan for active cognitive biases. Covers anchoring, availability, survivorship, hindsight, planning fallacy, fundamental attribution error, base rate neglect, social proof, and Dunning-Kruger. Use before committing to a decision, after a surprising outcome, or when a recommendation feels too clean.",
+      "sources": [
+        "Psychology/anchoring.md",
+        "Psychology/availability-bias.md",
+        "Psychology/survivorship-bias.md",
+        "Psychology/hindsight-bias.md",
+        "Psychology/planning-fallacy.md",
+        "Psychology/fundamental-attribution-error.md",
+        "Psychology/base-rate-neglect.md",
+        "Psychology/social-proof.md",
+        "Psychology/dunning-kruger.md",
+        "Psychology/confirmation-bias.md"
+      ],
+      "branches": [
+        {
+          "label": "Before deciding",
+          "models": [
+            "Anchoring",
+            "Availability Bias",
+            "Base Rate Neglect",
+            "Planning Fallacy"
+          ],
+          "lead": "Psychology/anchoring.md"
+        },
+        {
+          "label": "After a surprise or failure",
+          "models": [
+            "Hindsight Bias",
+            "Fundamental Attribution Error",
+            "Survivorship Bias"
+          ],
+          "lead": "Psychology/hindsight-bias.md"
+        },
+        {
+          "label": "Evaluating confidence and expertise",
+          "models": [
+            "Dunning-Kruger",
+            "Confirmation Bias",
+            "Social Proof"
+          ],
+          "lead": "Psychology/dunning-kruger.md"
+        }
+      ],
+      "deliverableSections": [
+        "Decision or analysis under review (one sentence)",
+        "Active biases identified (name each, with evidence it is operating)",
+        "Highest-risk bias (the one most likely to distort the outcome)",
+        "Structural mitigations (specific process changes, not just awareness)",
+        "Revised confidence level after bias audit"
+      ]
+    },
+    {
+      "slug": "stress-test-reasoning",
+      "description": "Stress-tests a plan, belief, or decision by applying structured adversarial challenge. Covers pre-mortem, steelmanning, red teaming, calibration, falsification, two-way doors, and Cynefin domain classification. Use before high-stakes commitments, when a recommendation feels too certain, or when a team has converged without genuine challenge.",
+      "sources": [
+        "General-Thinking/pre-mortem.md",
+        "General-Thinking/steelmanning.md",
+        "Business/red-teaming.md",
+        "General-Thinking/calibration.md",
+        "Psychology/falsification.md",
+        "General-Thinking/two-way-doors.md",
+        "General-Thinking/cynefin-framework.md"
+      ],
+      "branches": [
+        {
+          "label": "Challenge the plan",
+          "models": [
+            "Pre-mortem",
+            "Red Teaming",
+            "Steelmanning"
+          ],
+          "lead": "General-Thinking/pre-mortem.md"
+        },
+        {
+          "label": "Audit the confidence level",
+          "models": [
+            "Calibration",
+            "Falsification",
+            "Two-Way Doors"
+          ],
+          "lead": "General-Thinking/calibration.md"
+        },
+        {
+          "label": "Classify the problem type first",
+          "models": [
+            "Cynefin Framework"
+          ],
+          "lead": "General-Thinking/cynefin-framework.md"
+        }
+      ],
+      "deliverableSections": [
+        "Plan or belief under review (one sentence)",
+        "Domain classification (Cynefin: clear / complicated / complex / chaotic)",
+        "Pre-mortem: top 3 failure modes with estimated probability",
+        "Steelman: strongest case against the plan",
+        "Calibration audit: stated confidence vs. track record evidence",
+        "Reversibility assessment (two-way door or one-way door)",
+        "What would have to be true for this to be wrong (falsification test)",
+        "Recommended changes before committing"
+      ]
+    },
+    {
+      "slug": "strategy-and-markets",
+      "description": "Analyses competitive position, market structure, and strategic options. Covers Wardley Mapping, Kernel of Good Strategy, Scenario Planning, Network Effects, Power Law, Long Tail, Nash Equilibrium, and Path Dependence. Use when assessing competitive threats, designing market strategy, evaluating platform or marketplace opportunities, or stress-testing a strategic plan.",
+      "sources": [
+        "Business/wardley-mapping.md",
+        "Business/kernel-of-strategy.md",
+        "Business/scenario-planning.md",
+        "Network-Effects/network-effects.md",
+        "Mathematics/power-law.md",
+        "Economics/long-tail.md",
+        "Economics/nash-equilibrium.md",
+        "Systems/path-dependence.md"
+      ],
+      "branches": [
+        {
+          "label": "Map the competitive landscape",
+          "models": [
+            "Wardley Mapping",
+            "Kernel of Good Strategy",
+            "Nash Equilibrium"
+          ],
+          "lead": "Business/wardley-mapping.md"
+        },
+        {
+          "label": "Assess market structure and dynamics",
+          "models": [
+            "Power Law",
+            "Network Effects",
+            "Long Tail"
+          ],
+          "lead": "Mathematics/power-law.md"
+        },
+        {
+          "label": "Evaluate options and constraints",
+          "models": [
+            "Scenario Planning",
+            "Path Dependence"
+          ],
+          "lead": "Business/scenario-planning.md"
+        }
+      ],
+      "deliverableSections": [
+        "Strategic question under review (one sentence)",
+        "Landscape map: where components sit on the evolution axis (genesis \u2192 commodity)",
+        "Market structure: power law or long tail? Winner-take-most or niche-viable?",
+        "Network effects assessment: do you have them, how strong, what sustains them?",
+        "Nash Equilibrium analysis: what is the stable end-state and is it where you want to be?",
+        "Path dependence: what are you locked into, what is the competitor locked into?",
+        "Scenarios: 2-3 plausible futures and the strategy that survives each",
+        "Strategic recommendation: kernel (diagnosis, guiding policy, coherent actions)"
+      ]
+    },
+    {
+      "slug": "systems-and-risk",
+      "description": "Analyses system behaviour, tipping points, and tail risk. Covers Feedback Loops, Margin of Safety, S-Curves, Red Queen Dilemma, Emergence, Critical Mass, and Black Swan. Use when a system is behaving unexpectedly, when assessing structural risk, when evaluating a platform or network approaching a tipping point, or when a risk model may be missing catastrophic scenarios.",
+      "sources": [
+        "Systems/feedback-loops.md",
+        "Systems/s-curves.md",
+        "Systems/critical-mass.md",
+        "Systems/emergence.md",
+        "Systems/red-queen-dilemma.md",
+        "Systems/margin-of-safety.md",
+        "General-Thinking/black-swan.md"
+      ],
+      "branches": [
+        {
+          "label": "Understand system dynamics",
+          "models": [
+            "Feedback Loops",
+            "Emergence",
+            "S-Curves"
+          ],
+          "lead": "Systems/feedback-loops.md"
+        },
+        {
+          "label": "Assess tipping points and competitive escalation",
+          "models": [
+            "Critical Mass",
+            "Red Queen Dilemma",
+            "S-Curves"
+          ],
+          "lead": "Systems/critical-mass.md"
+        },
+        {
+          "label": "Evaluate tail risk and resilience",
+          "models": [
+            "Black Swan",
+            "Margin of Safety"
+          ],
+          "lead": "General-Thinking/black-swan.md"
+        }
+      ],
+      "deliverableSections": [
+        "System description and the presenting behaviour or concern",
+        "Loop map: dominant reinforcing and balancing loops, with delays identified",
+        "S-curve position: where is the system on the adoption/growth curve?",
+        "Tipping point assessment: is critical mass near, and what triggers it?",
+        "Red Queen check: is escalation locked in, and what breaks the cycle?",
+        "Tail risk assessment: what Black Swan events would this system not survive?",
+        "Margin of safety: is the current buffer sized to survive the tail, not just the average?",
+        "Leverage point: where is the highest-return intervention in the system?"
       ]
     }
   ],
