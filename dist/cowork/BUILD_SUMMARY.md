@@ -2,8 +2,8 @@
 
 - Plugins: 6
 - Chains: 20
-- Toolkits: 21
+- Toolkits: 30
 - Routers: 1
-- Total skill directories: 42
+- Total skill directories: 51
 
 Regenerate: `npm run build:cowork`

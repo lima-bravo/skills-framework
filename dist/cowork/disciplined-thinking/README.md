@@ -1,6 +1,6 @@
 # disciplined-thinking
 
-Generated Cowork/Code plugin (15 skills).
+Generated Cowork/Code plugin (23 skills).
 
 ## Skills
 
@@ -19,5 +19,13 @@ Generated Cowork/Code plugin (15 skills).
 - `stress-test-reasoning`
 - `strategy-and-markets`
 - `systems-and-risk`
+- `influence-and-stakeholders`
+- `lead-change`
+- `sensemaking`
+- `people-and-motivation`
+- `evaluate-evidence`
+- `craft-the-message`
+- `portfolio-and-investment-decisions`
+- `negotiation`
 
 Install via Cowork **Customize → Plugins** (upload folder or marketplace).

@@ -23,7 +23,15 @@
         "detect-cognitive-biases",
         "stress-test-reasoning",
         "strategy-and-markets",
-        "systems-and-risk"
+        "systems-and-risk",
+        "influence-and-stakeholders",
+        "lead-change",
+        "sensemaking",
+        "people-and-motivation",
+        "evaluate-evidence",
+        "craft-the-message",
+        "portfolio-and-investment-decisions",
+        "negotiation"
       ]
     },
     {
@@ -85,7 +93,8 @@
       "skills": [
         "mission-command-toolkit",
         "after-action-toolkit",
-        "mission-execution-protocol"
+        "mission-execution-protocol",
+        "operational-leadership-hygiene"
       ]
     }
   ],
@@ -654,6 +663,398 @@
         "Tail risk assessment: what Black Swan events would this system not survive?",
         "Margin of safety: is the current buffer sized to survive the tail, not just the average?",
         "Leverage point: where is the highest-return intervention in the system?"
+      ]
+    },
+    {
+      "slug": "influence-and-stakeholders",
+      "description": "Maps stakeholder landscape and designs an influence strategy for situations where formal authority is insufficient. Covers power mapping, stakeholder salience, influence without authority, coalition building, framing, reciprocity, Overton Window, and commitment dynamics. Use before any significant initiative, when a proposal keeps hitting resistance, or when you need to move something through an organisation without rank.",
+      "sources": [
+        "Business/power-mapping.md",
+        "Business/stakeholder-mapping-salience-model.md",
+        "Leadership/influence-without-authority.md",
+        "Leadership/coalition-building.md",
+        "Art/framing.md",
+        "Physics-and-Chemistry/reciprocity.md",
+        "General-Thinking/overton-window.md",
+        "Psychology/commitment-consistency-bias.md"
+      ],
+      "branches": [
+        {
+          "label": "Map the landscape before acting",
+          "models": [
+            "Power Mapping",
+            "Stakeholder Mapping",
+            "Overton Window"
+          ],
+          "lead": "Business/power-mapping.md"
+        },
+        {
+          "label": "Build the coalition",
+          "models": [
+            "Coalition Building",
+            "Reciprocity",
+            "Commitment & Consistency Bias"
+          ],
+          "lead": "Leadership/coalition-building.md"
+        },
+        {
+          "label": "Make the ask land",
+          "models": [
+            "Influence Without Authority",
+            "Framing",
+            "Overton Window"
+          ],
+          "lead": "Leadership/influence-without-authority.md"
+        }
+      ],
+      "deliverableSections": [
+        "Initiative or change requiring influence (one sentence)",
+        "Power map: decision-makers, influencers, blockers, and their interests",
+        "Overton Window assessment: is the proposal currently inside or outside the window?",
+        "Coalition design: minimum winning coalition with sequencing",
+        "Framing strategy: how to position the ask for each key stakeholder",
+        "Reciprocity audit: what credibility and goodwill has been built with each target?",
+        "Commitment pathway: early small asks that create consistency pressure toward the main ask",
+        "Recommended next move and timing"
+      ]
+    },
+    {
+      "slug": "lead-change",
+      "description": "Designs and sequences a change initiative, with emphasis on the psychological and structural barriers that cause well-designed changes to fail. Covers Change Management (Kotter), Immunity to Change, Activation Energy, Narrative Instinct, Theory of Change, Framing, and Commitment & Consistency Bias. Use when launching any significant change: cultural, structural, process, or behavioural.",
+      "sources": [
+        "Leadership/change-management.md",
+        "Psychology/immunity-to-change.md",
+        "Physics-and-Chemistry/activation-energy.md",
+        "Psychology/narrative-instinct.md",
+        "General-Thinking/theory-of-change.md",
+        "Art/framing.md",
+        "Psychology/commitment-consistency-bias.md"
+      ],
+      "branches": [
+        {
+          "label": "Diagnose why change is failing",
+          "models": [
+            "Immunity to Change",
+            "Commitment & Consistency Bias",
+            "Activation Energy"
+          ],
+          "lead": "Psychology/immunity-to-change.md"
+        },
+        {
+          "label": "Design the change architecture",
+          "models": [
+            "Change Management",
+            "Theory of Change",
+            "Activation Energy"
+          ],
+          "lead": "Leadership/change-management.md"
+        },
+        {
+          "label": "Make change feel inevitable",
+          "models": [
+            "Narrative Instinct",
+            "Framing",
+            "Commitment & Consistency Bias"
+          ],
+          "lead": "Psychology/narrative-instinct.md"
+        }
+      ],
+      "deliverableSections": [
+        "Change goal and current state (one paragraph)",
+        "Immunity to Change diagnosis: what competing commitments are protecting the status quo?",
+        "Activation energy map: what friction must be removed to make the first step easy?",
+        "Theory of Change: the causal chain from intervention to desired outcome",
+        "Narrative strategy: the story that makes the change feel necessary and possible",
+        "Kotter sequencing: which steps are complete, which are missing",
+        "Commitment pathway: early wins and public commitments that build consistency pressure",
+        "Failure mode most likely to kill this change, and its mitigation"
+      ]
+    },
+    {
+      "slug": "sensemaking",
+      "description": "Builds a clear understanding of a complex or ambiguous situation before prescribing action. Covers Ladder of Inference, Causal Analysis, Occam's Razor, Hanlon's Razor, Analogical Reasoning, and SRK Framework. Use as the entry point when the situation is unclear, when a diagnosis has been handed to you and you want to verify it, or when a team is jumping to solutions before the problem is understood.",
+      "sources": [
+        "General-Thinking/ladder-of-inference.md",
+        "General-Thinking/causal-analysis.md",
+        "General-Thinking/occams-razor.md",
+        "General-Thinking/hanlons-razor.md",
+        "General-Thinking/analogical-reasoning.md",
+        "Psychology/srk-framework.md"
+      ],
+      "branches": [
+        {
+          "label": "Separate observation from interpretation",
+          "models": [
+            "Ladder of Inference",
+            "Causal Analysis"
+          ],
+          "lead": "General-Thinking/ladder-of-inference.md"
+        },
+        {
+          "label": "Apply parsimony before complexity",
+          "models": [
+            "Occam's Razor",
+            "Hanlon's Razor"
+          ],
+          "lead": "General-Thinking/occams-razor.md"
+        },
+        {
+          "label": "Learn from analogues",
+          "models": [
+            "Analogical Reasoning",
+            "SRK Framework"
+          ],
+          "lead": "General-Thinking/analogical-reasoning.md"
+        }
+      ],
+      "deliverableSections": [
+        "Presenting situation (what has been observed \u2014 facts only, no interpretation)",
+        "Ladder of Inference audit: where are conclusions outrunning evidence?",
+        "Causal map: proximate causes vs root causes, with evidence for each link",
+        "Occam's Razor check: what is the simplest explanation consistent with the evidence?",
+        "Hanlon's Razor check: is this better explained by incompetence or misaligned incentives than intent?",
+        "Analogous situations: what comparable cases exist and what did they reveal?",
+        "SRK classification: is this a skill-based, rule-based, or knowledge-based problem?",
+        "Diagnosis (one sentence) and confidence level"
+      ]
+    },
+    {
+      "slug": "people-and-motivation",
+      "description": "Diagnoses why a person or team is behaving in a particular way and designs interventions that work with human motivation rather than against it. Covers Trust, Psychological Safety, Self-Determination Theory, Organisational Culture, Purpose Clarity, and McClelland's Acquired Needs. Use when a person or team is underperforming, disengaged, or resistant, and the structural and incentive explanations have been ruled out.",
+      "sources": [
+        "Psychology/trust.md",
+        "Psychology/psychological-safety.md",
+        "Psychology/self-determination-theory.md",
+        "Leadership/organizational-culture.md",
+        "Leadership/purpose-clarity.md",
+        "Psychology/mcclellands-acquired-needs-theory.md"
+      ],
+      "branches": [
+        {
+          "label": "Diagnose the motivation gap",
+          "models": [
+            "McClelland's Acquired Needs",
+            "Self-Determination Theory",
+            "Purpose Clarity"
+          ],
+          "lead": "Psychology/mcclellands-acquired-needs-theory.md"
+        },
+        {
+          "label": "Assess the psychological conditions",
+          "models": [
+            "Trust",
+            "Psychological Safety",
+            "Organisational Culture"
+          ],
+          "lead": "Psychology/trust.md"
+        }
+      ],
+      "deliverableSections": [
+        "Person or team and the presenting behaviour",
+        "McClelland needs profile: achievement / affiliation / power \u2014 which dominates?",
+        "SDT assessment: are autonomy, competence, and relatedness present or absent?",
+        "Trust audit: cognitive trust (competence) and affective trust (intention) \u2014 where is the gap?",
+        "Psychological safety level: what is safe to say and what is not?",
+        "Culture diagnosis: what does the organisation actually reward and punish (not what it says)?",
+        "Purpose clarity check: can this person state in one sentence why their work matters?",
+        "Recommended intervention and what to avoid"
+      ]
+    },
+    {
+      "slug": "evaluate-evidence",
+      "description": "Assesses whether a dataset, analysis, or recommendation should be trusted. Covers Sampling, Regression to the Mean, Randomness, Observer Bias, A/B Testing, and Experiment Design. Use when evaluating data presented to support a decision, when reviewing a consultant's analysis, or when designing evidence-gathering.",
+      "sources": [
+        "Mathematics/sampling.md",
+        "Mathematics/regression-to-the-mean.md",
+        "Mathematics/randomness.md",
+        "Psychology/observer-bias.md",
+        "Business/ab-testing.md",
+        "Business/experiment-design.md"
+      ],
+      "branches": [
+        {
+          "label": "Evaluate an existing analysis",
+          "models": [
+            "Sampling",
+            "Regression to the Mean",
+            "Observer Bias"
+          ],
+          "lead": "Mathematics/sampling.md"
+        },
+        {
+          "label": "Design evidence-gathering",
+          "models": [
+            "Experiment Design",
+            "A/B Testing",
+            "Randomness"
+          ],
+          "lead": "Business/experiment-design.md"
+        }
+      ],
+      "deliverableSections": [
+        "Analysis or dataset under review",
+        "Sampling audit: is the sample representative? What is excluded?",
+        "Regression to the mean check: is an extreme result being mistaken for a real effect?",
+        "Randomness check: is the pattern real or noise given the sample size?",
+        "Observer bias audit: did the evaluator know which group was which?",
+        "Experiment design quality: was success pre-specified? Was there a control?",
+        "Confidence verdict: should this analysis be trusted, and at what confidence level?"
+      ]
+    },
+    {
+      "slug": "craft-the-message",
+      "description": "Designs a communication for maximum clarity and impact. Covers Narrative Instinct, Grice's Maxims, Audience, Framing, and Ladder of Inference. Use when preparing a recommendation, briefing, presentation, or any communication where the quality of the message determines whether good thinking gets acted on.",
+      "sources": [
+        "Psychology/narrative-instinct.md",
+        "General-Thinking/grices-maxims.md",
+        "Art/audience.md",
+        "Art/framing.md",
+        "General-Thinking/ladder-of-inference.md"
+      ],
+      "branches": [
+        {
+          "label": "Design the narrative",
+          "models": [
+            "Narrative Instinct",
+            "Framing",
+            "Grice's Maxims"
+          ],
+          "lead": "Psychology/narrative-instinct.md"
+        },
+        {
+          "label": "Calibrate for the audience",
+          "models": [
+            "Audience",
+            "Grice's Maxims",
+            "Ladder of Inference"
+          ],
+          "lead": "Art/audience.md"
+        }
+      ],
+      "deliverableSections": [
+        "Communication goal: what decision or action should this message produce?",
+        "Audience profile: what do they know, what do they care about, what would stop them acting?",
+        "Grice's audit: is every element necessary? Is anything missing that the audience needs?",
+        "Narrative structure: situation \u2192 complication \u2192 resolution (or equivalent)",
+        "Framing choice: gain or loss frame? Which reference point serves the goal?",
+        "Ladder of Inference check: are conclusions clearly separated from evidence?",
+        "Revised message (one paragraph lead, supporting structure)"
+      ]
+    },
+    {
+      "slug": "portfolio-and-investment-decisions",
+      "description": "Evaluates how to allocate resources across competing opportunities or initiatives. Covers Asymmetry/Convexity, Regret Minimization Framework, Kill Criteria, Unit Economics, and OKRs. Use for portfolio-level decisions: which bets to make, which to kill, and how to size each. Distinct from the single investment-decision chain.",
+      "sources": [
+        "General-Thinking/asymmetry-convexity.md",
+        "General-Thinking/regret-minimization-framework.md",
+        "Delivery-and-Flow/kill-criteria.md",
+        "Economics/unit-economics.md",
+        "Delivery-and-Flow/okrs.md"
+      ],
+      "branches": [
+        {
+          "label": "Assess individual bets",
+          "models": [
+            "Asymmetry/Convexity",
+            "Unit Economics",
+            "Regret Minimization"
+          ],
+          "lead": "General-Thinking/asymmetry-convexity.md"
+        },
+        {
+          "label": "Manage the portfolio",
+          "models": [
+            "Kill Criteria",
+            "OKRs"
+          ],
+          "lead": "Delivery-and-Flow/kill-criteria.md"
+        }
+      ],
+      "deliverableSections": [
+        "Portfolio under review: list of current initiatives or investment options",
+        "Asymmetry audit: for each bet, is downside bounded and upside open-ended?",
+        "Unit economics check: does each bet have sound economics per unit at current scale?",
+        "Regret minimization: which decisions will be regretted most if not taken? Which if taken?",
+        "Kill criteria: what pre-specified conditions trigger stopping each initiative?",
+        "OKR alignment: do current initiatives map to the outcomes that matter most?",
+        "Portfolio recommendation: what to fund, size, and kill"
+      ]
+    },
+    {
+      "slug": "negotiation",
+      "description": "Structures a negotiation or deal-making situation. Covers Schelling Points, Prisoner's Dilemma, Anchoring, Loss Aversion, and Reciprocity. Use for commercial negotiations, partnership deals, internal resource allocation disputes, or any situation where two parties must reach agreement.",
+      "sources": [
+        "Economics/schelling-points.md",
+        "Economics/prisoners-dilemma.md",
+        "Psychology/anchoring.md",
+        "Psychology/loss-aversion.md",
+        "Physics-and-Chemistry/reciprocity.md"
+      ],
+      "branches": [
+        {
+          "label": "Read the game structure",
+          "models": [
+            "Prisoner's Dilemma",
+            "Schelling Points"
+          ],
+          "lead": "Economics/prisoners-dilemma.md"
+        },
+        {
+          "label": "Shape the negotiation dynamics",
+          "models": [
+            "Anchoring",
+            "Loss Aversion",
+            "Reciprocity"
+          ],
+          "lead": "Psychology/anchoring.md"
+        }
+      ],
+      "deliverableSections": [
+        "Negotiation context: parties, stakes, and time horizon",
+        "Game structure: is this a one-shot or repeated game? Zero-sum or positive-sum?",
+        "Prisoner's Dilemma check: is mutual defection a risk? What enables commitment?",
+        "Schelling Point analysis: what focal points exist and who controls the salience-setting?",
+        "Anchor strategy: what opening position creates the most favourable reference point?",
+        "Loss framing opportunity: how can the proposal be framed around what the other party stands to lose?",
+        "Reciprocity pathway: what concession can be made first to create an obligation to reciprocate?",
+        "Recommended opening position and negotiation sequence"
+      ]
+    },
+    {
+      "slug": "operational-leadership-hygiene",
+      "description": "Designs the day-to-day operating rhythms that protect thinking time and ensure consistent learning and decision quality. Covers Maker's Schedule vs Manager's Schedule, Async-First Default, Three-Question Ritual, After-Action Review, and Attention Budget. Use when a leader's calendar is consuming their capacity to think, when meetings produce no decisions, or when projects end without extracting their lessons.",
+      "sources": [
+        "Business/makers-schedule.md",
+        "Leadership/async-first-default.md",
+        "Leadership/after-action-review.md",
+        "Delivery-and-Flow/attention-budget.md"
+      ],
+      "branches": [
+        {
+          "label": "Protect thinking time",
+          "models": [
+            "Maker's Schedule vs Manager's Schedule",
+            "Async-First Default",
+            "Attention Budget"
+          ],
+          "lead": "Business/makers-schedule.md"
+        },
+        {
+          "label": "Close the learning loop",
+          "models": [
+            "After-Action Review",
+            "Three-Question Ritual"
+          ],
+          "lead": "Leadership/after-action-review.md"
+        }
+      ],
+      "deliverableSections": [
+        "Current operating pattern: time allocation across maker work / manager work / coordination",
+        "Maker's Schedule audit: how many deep-work blocks per week are uninterrupted?",
+        "Async-first assessment: which recurring meetings could be replaced with async communication?",
+        "Attention budget: what is consuming attention that is not the highest-value work?",
+        "After-Action Review rhythm: is structured learning happening after significant events?",
+        "Recommended redesign: specific calendar and rhythm changes with rationale"
       ]
     }
   ],
