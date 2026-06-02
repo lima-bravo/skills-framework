@@ -44,6 +44,24 @@ Most organisations run without either sieve, discover the blockage at the end, a
 - The leader's output is not approval but a list of flags: "The plan assumes X — is that validated? The plan doesn't appear to address key task Y — how are you handling that?"
 - Resist the urge to redesign the plan. Flag; don't fix.
 
+## Practitioner Heuristics
+
+- **Run both checkpoints — they catch different failures.** The Confirmation Brief closes the comprehension gap ("did you understand what I said?"); the Back Brief closes the interpretation gap ("does your plan match what I meant?"). A team can pass the first and still fail the second.
+- **In the Confirmation Brief, listen — don't confirm or correct yet.** Have the team restate purpose, key tasks, and end state in their own words while you listen for what is missing, distorted, or overweighted; correcting too early masks the gap you are trying to measure.
+- **In the Back Brief, flag assumptions — don't redesign the plan.** The leader's output is a list of flags ("the plan assumes X — is that validated?"), not a better plan; method belongs to the team, and taking it back destroys the ownership the protocol depends on.
+- **Frame both as a drill applied to every briefing.** Making it routine regardless of the briefing's quality removes the implied insult ("I think you didn't listen") and the implied micromanagement ("I don't trust your plan") that otherwise make both checkpoints socially costly.
+
+## Common Failure Modes
+
+- **Skipping the brief-back to protect face.** Asking "tell me what you heard" feels like accusing the listener of inattention or the briefer of poor communication, so both parties avoid it — and misalignment surfaces at delivery instead, when correction is most expensive.
+- **Treating accurate read-back as proof of a good plan.** A team can repeat the intent perfectly and still build a plan that cannot deliver it; comprehension and interpretation are independent, which is exactly why both checkpoints exist.
+- **The leader redesigning the plan during the Back Brief.** Crossing from flagging assumptions to fixing the plan converts an assumption-surfacing step into approval-seeking and strips the team of ownership.
+- **Running them without psychological safety.** Teams surface honest comprehension gaps and plan doubts only if being wrong in front of the leader is safe; in a blame culture both briefs produce a confident, sanitised account rather than a useful one.
+
+## Worked Example
+
+A leader briefs a team to "improve customer retention this quarter" and, pressed for time, skips the brief-backs. The team hears "retention" and builds a plan around a loyalty-points programme. Three weeks in, it emerges the leader meant reducing involuntary churn from failed payments — a different problem entirely — and the work is scrapped. Both checkpoints would have caught it earlier and more cheaply. A Confirmation Brief ("walk me through what you heard") would have surfaced the comprehension gap on the spot — the team would have said "loyalty and engagement," and the leader would have re-stated the purpose immediately. Even with comprehension correct, a Back Brief after planning ("walk me through how you'll deliver, and the assumptions") would have exposed the interpretation gap — a plan resting on the unvalidated assumption that churn was voluntary. The two sieves cost minutes at the briefing; their absence cost three weeks of misdirected work that everyone afterwards called "a communication problem."
+
 ## Connections
 
 - **Leader's Intent** — Brief-Back Protocols are the verification layer that follows a Leader's Intent briefing; they only function if the intent was structured clearly enough to be checked

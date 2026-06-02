@@ -1,10 +1,10 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-06-01 | 244 skills | 16 categories | 910 graph connections -->
+<!-- Last updated: 2026-06-02 | 244 skills | 16 categories | 926 graph connections -->
 
 ## What this framework is
 
-A library of 244 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 19 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
+A library of 244 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 20 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
 
 **Primary use:** Surface the right model(s) for a situation, then apply structured reasoning through heuristics and failure modes.
 

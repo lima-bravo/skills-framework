@@ -17,6 +17,25 @@ Hospital waiting-time targets cause patients to be held in ambulances outside th
 
 **The corrective is triangulation:** use multiple metrics that are hard to simultaneously game, include qualitative signals alongside quantitative ones, and rotate metrics before they calcify into targets.
 
+## Practitioner Heuristics
+
+- **Triangulate: use multiple metrics that are hard to game simultaneously.** A single target invites distortion; a basket that would have to be gamed together raises the cost of gaming above the cost of just doing the work.
+- **Pair every quantitative metric with a qualitative check.** Numbers tell you the proxy moved; a qualitative signal tells you whether the underlying reality moved with it. The gap between them is where Goodhart lives.
+- **Rotate metrics before they calcify into targets.** A measure used for observation stays honest; the longer it carries consequences, the more behaviour bends toward it. Refresh proxies before the correlation breaks.
+- **Hold some metrics as health indicators, not targets.** Explicitly designate which measures inform and which incentivise; the act of declaring a number a target is what begins its corruption.
+- **Watch the correlation that justified the proxy, not just the proxy.** The proxy was chosen because it tracked something you care about; monitor whether that link still holds once people start optimising the proxy directly.
+
+## Common Failure Modes
+
+- **Assuming the distortion requires bad actors.** Goodhart operates through well-intentioned people unconsciously shifting effort toward what is measured; waiting for evidence of cheating means missing the structural problem entirely.
+- **Adding more weight to a gamed metric.** When a target stops tracking reality, the instinct is to enforce it harder, which only intensifies the optimisation pressure that broke it.
+- **Mistaking proxy improvement for outcome improvement.** Celebrating that the number went up without checking whether the thing the number stood for went up — the central trap.
+- **Single-metric dashboards.** Reducing a complex outcome to one headline figure maximises Goodhart exposure precisely where the stakes are highest.
+
+## Worked Example
+
+A hospital system under pressure to cut emergency-department waiting times sets a four-hour treatment target with real consequences attached. Measured waiting time falls dramatically — and the correlation it was meant to track breaks. Patients are held in ambulances outside the building (the clock starts at admission), admitted to wards prematurely to stop the clock, and sometimes discharged and readmitted to reset it. The proxy improved while the underlying reality — timely, appropriate care — stayed flat or degraded, and the staff producing the distortion were not cheating; they were rationally responding to a measure that had become a target. Triangulation would have caught it: pairing the waiting-time figure with readmission rates, ambulance-handover times, and patient outcomes would have shown the four-hour number rising while the system it claimed to represent did not.
+
 ## Connections
 
 - **Unit Economics** — CAC and LTV are the metrics most vulnerable to Goodhart's Law; organisations that target them directly distort the customer acquisition mix or inflate LTV projections

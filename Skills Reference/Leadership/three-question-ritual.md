@@ -22,6 +22,24 @@ Think of the three questions as the difference between a meeting that *discussed
 
 The questions also function as a political risk scan: Q3 in particular forces the room to think about who might feel bypassed — which is often where decisions quietly die after they leave the room.
 
+## Practitioner Heuristics
+
+- **Close every meeting with the three questions, as a fixed ritual.** What is the decision? One name, one output, one date? Who needs to know and doesn't yet? Making it automatic removes the awkwardness of asking and guarantees the meeting produces rather than merely discusses.
+- **Force the alignment-vs-decision distinction in Q1.** Make the room state explicitly whether a decision was actually made or only discussed; naming "we aligned but didn't decide" prevents the same conversation from silently recurring.
+- **Insist on a single owner in Q2.** One Accountable name per action — "when everyone is accountable, no one is" — with a concrete deliverable and a real date, not a vague "the team will."
+- **Treat Q3 as a political risk scan.** Identifying who will feel bypassed before they hear the decision secondhand is where decisions are saved; senior stakeholders who learn late create the turbulence that quietly unwinds the outcome.
+
+## Common Failure Modes
+
+- **Mistaking alignment for a decision.** Leaving a meeting feeling agreement was reached when no authorised commitment was made, so the issue resurfaces unchanged next time.
+- **Diffused accountability.** Assigning an action to a group rather than a person, which reliably produces inaction because no single individual owns the outcome.
+- **Skipping the Informed scan.** Leaving the room without identifying who needs to know, so a senior stakeholder hears the decision through back channels and reopens it.
+- **Performing the ritual without authority to decide.** Running the three questions in a meeting that lacks the people who can actually commit just surfaces, rather than fixes, the absence of decision rights.
+
+## Worked Example
+
+A leadership team meets weekly and leaves each meeting feeling productive, yet the same topics keep returning and initiatives stall. Applying the ritual exposes why. On a major pricing change, Q1 reveals the room had aligned on direction but never actually made the decision — so it had been "discussed" three weeks running with no commitment; forced to answer, they make it. Q2 assigns it: "Accountable = VP Product; output = approved price list; date = Friday," replacing the previous diffuse "marketing and product will sort it out" that had guaranteed drift. Q3 surfaces that the regional sales heads — who will have to defend the new prices to customers — were about to be bypassed; adding them to the Informed list before they hear it secondhand prevents the revolt that unwound the last pricing change. Three questions, two minutes, and the meeting produces a decision with an owner and a clean communication path instead of another round of pleasant, inconclusive discussion.
+
 ## Connections
 
 - **RACI Framework** — Q2 (one Accountable) and Q3 (Informed list) are RACI applied at meeting granularity

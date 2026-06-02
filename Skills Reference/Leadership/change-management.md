@@ -9,6 +9,29 @@ Change Management is the structured approach to transitioning individuals, teams
 
 Most transformations fail not because of flawed strategy but because of insufficient attention to the human side of change.
 
+## Mental Model
+
+Think of change as failing on the human side far more often than the strategic one. The strategy — what to change and why — is usually the easy part; the hard part is moving a population of people, each with their own awareness, desire, and capability, from the current state to the new one. Kotter's eight steps and ADKAR are two lenses on the same truth: change is not an announcement, it is a sequence of conditions that must be built in order. Skip the urgency and the coalition, and the vision lands on ground that cannot hold it; address the structures and processes but not the assumptions and incentives underneath, and behaviour reverts the moment attention moves on. The work is to build the human preconditions in sequence, not to issue the destination and assume people will arrive.
+
+## Practitioner Heuristics
+
+- **Build a guiding coalition before broadcasting the vision.** Change driven by one leader's authority stalls when that attention moves elsewhere; a coalition with real power and credibility sustains it through the inevitable resistance.
+- **Diagnose individual readiness with ADKAR, not just the org-level plan.** A transformation can be perfectly designed at the programme level and fail because individuals lack Desire or Ability; the bottleneck is usually a specific ADKAR stage you can name.
+- **Generate short-term wins deliberately.** Visible early results convert sceptics and refuel the coalition; a change with no proof points for a year dies of fatigue before it reaches institutionalisation.
+- **Anchor the change in incentives and assumptions, or it reverts.** Kotter's final step succeeds only when new behaviour reaches the basic-assumptions level of the culture; new processes laid over old incentives quietly unwind.
+- **Match the change approach to the domain.** A Clear-domain rollout (known solution, best practice) needs different handling than a Complex-domain change where the path emerges; the same playbook does not fit both.
+
+## Common Failure Modes
+
+- **Treating change as a communications exercise.** Announcing the vision and assuming alignment, while leaving the human preconditions — urgency, desire, capability, reinforcement — unbuilt; the most common reason transformations fail despite sound strategy.
+- **Declaring victory too early.** Mistaking initial compliance for institutionalised change and withdrawing attention before new behaviour has reached the assumptions level, allowing the old equilibrium to reassert itself.
+- **No guiding coalition, or one without power.** Resting the change on a single sponsor or a committee that lacks authority to remove obstacles; resistance outlasts the initiative.
+- **Changing structures while leaving incentives intact.** Redesigning the org chart and processes while the reward system still pays for the old behaviour — people rationally follow the incentives, not the announcement.
+
+## Worked Example
+
+A company announces a shift to a customer-centric operating model with a town hall, a new vision statement, and a reorganisation. A year later little has changed: the strategy was sound but the human side was skipped. There was no felt urgency (the business was still profitable), the guiding coalition was an HR-led committee with no line authority to remove obstacles, no short-term wins were engineered to build belief, and — decisively — the sales incentive plan still paid purely on new bookings, so the behaviour the change required (investing in existing-customer success) was punished by the unchanged reward system. ADKAR locates the failures precisely: Awareness was created, Desire was not (no urgency, no incentive), and Reinforcement was actively negative. The corrective is not more communication; it is building the missing conditions — manufacture genuine urgency, install a coalition with real power, ship visible early wins, and realign the incentives so the new behaviour is the rewarded one.
+
 ## Connections
 
 - **Organizational Culture** — Kotter's step 8 only succeeds when new behaviours reach the basic assumptions level

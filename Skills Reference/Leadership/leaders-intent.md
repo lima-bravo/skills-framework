@@ -31,6 +31,14 @@ Think of a Leader's Intent as a compass bearing, not a route map. A route map te
 
 The three parts have a specific logic: purpose anchors *why* (so the team can prioritise), key tasks anchor *what cannot be skipped* (so the team knows where to hold firm), and end state anchors *what done looks like* (so the team knows when to stop and can judge whether their plan gets them there).
 
+## Practitioner Heuristics
+
+- **Lead with purpose, then key tasks, then end state — and stop.** The three-part structure is the discipline; adding method collapses it back into a brief and removes the team's ability to adapt.
+- **Make it short enough to recall from memory under pressure.** If someone two levels down cannot hold the intent without notes, it cannot guide judgment when the plan breaks and the radio goes quiet.
+- **Describe the end state as an outcome, not an output.** "The leadership team is ready to decide between two costed options" guides improvisation; "deliver a slide deck" does not.
+- **Name only the two or three key tasks whose failure would be fatal.** If everything is critical, nothing is, and the team loses the signal about where to hold firm versus where to flex.
+- **Test the intent on someone who wasn't briefed.** Hand it to an outsider and ask what they would do if the plan failed and they couldn't reach you; hesitation or a wrong answer is a communication problem to fix before execution, not a competence problem.
+
 ## Common Failure Modes
 
 **Confusing key tasks with the full task list** — a Leader's Intent that lists every task is not a Leader's Intent; it is a brief. Key tasks are the two or three actions whose absence makes success impossible. If everything is critical, nothing is.
@@ -40,6 +48,10 @@ The three parts have a specific logic: purpose anchors *why* (so the team can pr
 **Including method** — "we will use the waterfall approach and present at the steering committee on the 15th" belongs in the plan, not the intent. When the method is baked into the intent, the team cannot adapt without feeling they are violating the brief.
 
 **Treating it as optional for short projects** — the value of Leader's Intent is highest when the situation is uncertain, not when the work is long. A one-week project in a fast-changing environment benefits as much from clear intent as a six-month programme.
+
+## Worked Example
+
+A marketing director briefs a campaign team with a full task list and a fixed channel plan, then leaves for two weeks. Mid-campaign, the chosen channel's costs spike and a competitor pre-empts the core message. The team, holding a route map rather than a compass bearing, executes the now-obsolete plan because deviating would mean violating the brief — and the campaign underperforms. The same situation with a proper Leader's Intent runs differently: purpose ("shift perception among mid-market buyers ahead of the competitor's launch"), key tasks ("reach this segment at scale; land the differentiation message"), end state ("mid-market awareness measurably up and the differentiation owned before the competitor's launch"), and explicitly no method. When the channel breaks, the team reallocates spend and reframes the message itself, because it knows what success looks like and why it matters. The intent told the team where to navigate to; planning the new route was its job, and it could do that without the director in the room.
 
 ## Connections
 

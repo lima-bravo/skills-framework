@@ -91,6 +91,12 @@ These indicators measure whether the funnel is a learning accelerator — active
 
 ---
 
+## Worked Example
+
+A CPO inherits an innovation programme that reports glowing numbers: 200 ideas in the portal, 47 workshops run, innovation scores up across every team. Asked by the board whether the capability is actually improving, she ignores the activity counts and instruments the four layers. Conditions: H2+H3 investment sits at 6% — below the 10% floor — and exploration time is being absorbed by operational work at a 50% protection rate. Pipeline: experiment throughput is 0.4 cycles per team per quarter, and time-to-first-experiment averages 140 days. Learning quality: kills produce no recorded artifacts. The diagnosis is unambiguous and would have been invisible on the old dashboard — the programme is generating activity, not capability, because the conditions that make innovation possible were never funded and the funnel filters without learning. The intervention follows the indicators: ring-fence and protect exploration capacity, set an H2+H3 target, and gate stage advancement on hypothesis quality and a completed assumption map. The board conversation shifts from "how many ideas did we get?" to "is the system that produces outcomes getting healthier?"
+
+---
+
 ## Connections
 
 → [**Innovation Funnel**](innovation-funnel.md) — the pipeline indicators instrument the funnel directly; health indicators give the funnel quantitative teeth.

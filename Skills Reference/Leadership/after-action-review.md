@@ -51,6 +51,25 @@ The military phrase is "learning at the speed of operations." The civilian equiv
 
 **What to do with the output:** Write it down. One paragraph per question. File it in a shared location. Review a set of AARs quarterly for patterns — repeated gaps across projects are the most valuable organisational learning signal available.
 
+## Practitioner Heuristics
+
+- **Run it immediately, even if briefly.** A rough AAR in the 20 minutes after delivery beats a polished retrospective two weeks later — signal degrades fast and narratives harden.
+- **Protect Question 3.** "Why was there a gap" is the question that gets compressed under time pressure and the only one that produces learning; let it run long when the gap is large.
+- **Weight "sustain" as heavily as "improve."** Teams reflexively hunt for what went wrong; naming what worked and why prevents causal successes from being discarded in the next round of changes.
+- **Separate observation from interpretation in Question 2.** Build the shared factual account first; where accounts differ, treat the difference as data, not as something to resolve by consensus.
+- **Review AARs in aggregate.** A single AAR teaches the team; a quarter of AARs read together reveals the repeated gaps that are the highest-value organisational signal available.
+
+## Common Failure Modes
+
+- **Attributing every gap to external causes.** "The client changed the brief" ends inquiry where it should begin; the agency-restoring probe is "what could we have done that would have changed the outcome?"
+- **The leader running it.** When the most senior person facilitates, the team filters observations through what that person wants to hear, and the account sanitises itself.
+- **Running it in a blame culture.** Without psychological safety, the AAR produces a defensible narrative rather than an honest one — the form is followed and the function is lost.
+- **Capturing nothing.** An AAR whose findings aren't written down and filed produces a moment of insight that evaporates; the learning never compounds across projects.
+
+## Worked Example
+
+A consulting team delivers a strategy engagement two weeks late and over budget, and the instinct is to blame a client who "kept moving the goalposts." A 30-minute AAR, run by a team member rather than the partner, works the four questions. Q1: the intent was a board-ready recommendation by a fixed date. Q2: scope expanded three times with no corresponding timeline reset. Q3 — the high-value question — reveals the gap was not the client's changes but the team's failure to surface and price each change as it arrived; they absorbed scope silently to avoid friction. Q4 sustains the strong client relationship that made the work possible and improves one specific behaviour: any scope change now triggers an explicit timeline-and-cost conversation before work continues. The lesson is actionable precisely because the AAR moved the cause from "the client" (outside the team's control) to "how we handle scope changes" (inside it).
+
 ## Connections
 
 - **Post-mortem** — complementary disciplines at different scales: AAR is the operational habit after every project; Post-mortem is the deep investigation triggered by a significant failure or a repeated pattern surfaced by AARs

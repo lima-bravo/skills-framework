@@ -54,6 +54,25 @@ Think of execution as driving on a motorway at speed. The default is to keep mov
 
 The Tactical Pause is the organisational equivalent of slowing to assess before a decision that cannot be undone. The cost of the pause is small. The cost of the wrong decision at speed is large.
 
+## Practitioner Heuristics
+
+- **Call it explicitly and name what changed.** "I'm calling a Tactical Pause — our plan no longer covers the situation" converts stopping from a sign of weakness into a sanctioned act of judgment, which is the entire point of having a named protocol.
+- **Reserve it for material change, not ordinary friction.** A Tactical Pause is for invalidated assumptions, shifted briefs, and irreversible decision points — not for the expected difficulty the plan already anticipated.
+- **Time-cap the Think step.** The pause is a decision sprint, not a replanning exercise: gather what is now known, test the plan against the intent, and end with an explicit choice.
+- **End with a named decision and recommit.** Continue, adapt, or stop — say it out loud and re-engage; a pause that drifts back into execution without an explicit choice is just hesitation.
+- **Pre-register the triggers in the plan.** A good pre-mortem names the conditions that should cause the team to stop and reassess, so the pause is triggered by design rather than by someone working up the courage to raise a hand.
+
+## Common Failure Modes
+
+- **Never stopping because movement feels like progress.** In cultures that equate motion with achievement, the team executes a plan it already knows is wrong because pausing reads as failure — the exact failure the protocol exists to prevent.
+- **Leadership punishing the pause.** A leader who responds with "why didn't you just get on with it?" trains the team to skip it, and the discipline dies on first use.
+- **Pausing for ordinary friction.** Calling a halt at every expected setback turns the protocol into indecision and burns its credibility, leaving it unavailable when a real material change arrives.
+- **Pausing without deciding.** Stopping to reassess and then resuming the same plan with no explicit continue/adapt/stop choice wastes the pause and leaves the team no clearer than before.
+
+## Worked Example
+
+A product team is three months into a six-month build when usage data from an early release invalidates the core assumption behind the roadmap: the workflow they are automating is not the one customers actually struggle with. The path of least resistance is to keep building — the plan is set, stopping feels like admitting the last three months were wrong, and there is pressure to ship. Instead the lead calls a Tactical Pause: stop (name that a load-bearing assumption has failed), gather (what does the data now show, and is the original end state still right?), think (does the current plan still achieve the intent? — no), move (adapt: re-scope the next three months around the workflow the data points to). The pause costs an afternoon. Continuing on the invalidated plan would have cost three months and shipped a feature few customers wanted — the asymmetry the Army captures as "takes minutes, saves weeks." The discipline was not in having the insight; it was in treating stopping as the intelligent move rather than the embarrassing one.
+
 ## Connections
 
 - **OODA Loop** — the Tactical Pause is a triggered, deliberate initiation of a new Observe-Orient cycle mid-execution; the OODA Loop describes the decision cycle, the Tactical Pause is the permission structure that activates it when the current cycle has broken down

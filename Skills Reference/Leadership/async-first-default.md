@@ -54,6 +54,25 @@ A well-structured async document for the same 6-person content: ~20 minutes to w
 | Brainstorm seeding | Pre-read or prompt in advance; live session time-capped |
 | Vendor / contract discussion | Written terms with annotated comments |
 
+## Practitioner Heuristics
+
+- **Make async the default and require an affirmative case for a meeting.** Flip the burden of proof: writing is the baseline, and a meeting must justify itself with a specific reason real-time exchange adds value writing cannot.
+- **Run the three-question triage before accepting any meeting.** What decision must this produce? Can it be resolved in writing? Does it need real-time back-and-forth thinking? Two "no"s mean it is an email.
+- **Reserve synchronous time for what it is uniquely good at.** Genuine back-and-forth reasoning, generative thinking, emotionally or relationally loaded decisions, conflict repair, and high-uncertainty framing — not status, updates, or distribution.
+- **State the affirmative case at the open.** "We're meeting because this needs live thinking, specifically X" primes the right mode and makes it easy to close the meeting when that purpose is served.
+- **Price the full cost of a meeting, not just the hour.** Add the context-switch tax (~23 minutes to re-enter focus per person) and the fragmentation of the surrounding deep-work block; the real cost is several times the wall-clock time.
+
+## Common Failure Modes
+
+- **Meetings as the default signal of seriousness.** When calling a meeting is costless and declining one carries social cost, meetings multiply for reasons of signalling, not decision-making — the root cause of calendar inflation.
+- **Replacing a meeting with a worse async artefact.** Async-first fails when the written alternative is a wall of unstructured text; the medium wins only if the writing is structured enough to carry the decision.
+- **Using async for what genuinely needs real-time exchange.** Forcing conflict resolution or high-uncertainty framing into asynchronous threads is the inverse error — some things do need the room, and dogmatic async damages them.
+- **Cutting meetings without replacing the accountability they carried.** Meetings implicitly create owners and deadlines; a decision memo that removes the meeting must name an Accountable and a response date, or the decision quietly dies.
+
+## Worked Example
+
+A 40-person team institutes "async-first" by decree and meeting load barely drops, because nothing replaced what the meetings were doing. The fix is to apply the triage and the affirmative case. A recurring weekly "alignment" meeting (6 people, 45 minutes) fails all three triage questions — it produces no decision, distributes information that could be written, and needs no live thinking — so it becomes a weekly written summary with an async Q&A thread, recovering roughly 4 person-hours and several fragmented afternoons. A separate "we can't agree on the architecture" discussion passes on the third question — it needs real-time back-and-forth reasoning — and is kept, time-capped, with the affirmative case stated at the open. The net effect is not "fewer meetings" as a slogan but a calendar where the meetings that remain are the ones that genuinely need a room, and everything else has moved to a medium that respects deep work.
+
 ## Connections
 
 - **Three-Question Ritual** — the closing discipline for meetings that pass the triage filter; async-first is the entry gate, the three questions are the exit discipline
