@@ -51,7 +51,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 #modal-cat{font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;margin-bottom:.4rem;}
 #modal-name{font-size:1.5rem;font-weight:800;line-height:1.2;margin-bottom:.2rem;}
 #modal-tagline{font-size:.9rem;font-style:italic;color:var(--sub);margin-bottom:1.25rem;}
-#modal-file{font-size:.72rem;color:#94A3B8;margin-bottom:1.25rem;}
 .ms-section{margin-bottom:1.25rem;}
 .ms-section h3{font-size:.7rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--sub);margin-bottom:.6rem;padding-bottom:.3rem;border-bottom:1px solid var(--border);}
 .ms-section p{font-size:.85rem;line-height:1.65;color:#334155;margin-bottom:.5rem;}
@@ -115,7 +114,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <div id="modal-cat"></div>
       <div id="modal-name"></div>
       <div id="modal-tagline"></div>
-      <div id="modal-file"></div>
       <div id="modal-body"></div>
     </div>
   </div>
@@ -251,8 +249,6 @@ function openModal(s) {
   document.getElementById('modal-cat').textContent = s.category;
   document.getElementById('modal-name').textContent = s.name;
   document.getElementById('modal-tagline').textContent = s.tagline || '';
-  document.getElementById('modal-file').innerHTML =
-    `<a href="${esc(s.file)}" style="color:#94A3B8;font-size:.72rem">📄 Open deep-dive: ${esc(s.file)}</a>`;
   document.getElementById('modal-body').innerHTML = s.modal;
   overlay.classList.add('open');
   overlay.setAttribute('aria-hidden', 'false');

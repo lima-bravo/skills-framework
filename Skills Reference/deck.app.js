@@ -127,8 +127,6 @@ function openModal(s) {
   document.getElementById('modal-cat').textContent = s.category;
   document.getElementById('modal-name').textContent = s.name;
   document.getElementById('modal-tagline').textContent = s.tagline || '';
-  document.getElementById('modal-file').innerHTML =
-    `<a href="${esc(s.file)}" style="color:#94A3B8;font-size:.72rem">📄 Open deep-dive: ${esc(s.file)}</a>`;
   document.getElementById('modal-body').innerHTML = s.modal;
   overlay.classList.add('open');
   overlay.setAttribute('aria-hidden', 'false');

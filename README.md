@@ -1,5 +1,7 @@
 # Skills Framework
 
+**🌐 Live site: [ima-bravo.github.io/skills-framework](https://ima-bravo.github.io/skills-framework)**
+
 A mental-models framework with a publishable **reference website** (`docs/`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **244 skills** across **16 categories** (source of truth: `skills-manifest.json`).
 
 ## Where to start
