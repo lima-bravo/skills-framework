@@ -73,6 +73,16 @@ A "yes" or "probably" on any of these questions does not mean abandon the interv
 
 ---
 
+## Practitioner Heuristics
+
+- **Run the diagnostic question on every intervention: "who or what now depends on this problem persisting?"** If the answer names a role, metric, or unit the intervention itself created, you have a cobra risk before you have a cobra.
+- **Measure the outcome, never the proxy.** Count experiments that reached a customer, not ideas submitted; adopted innovations, not showcase attendance. The moment the proxy carries career weight, it decouples from the thing you wanted.
+- **Trace absorbed demand before removing a gate.** A slow approval process is usually absorbing real risk-management demand; ask where that demand will resurface before you cut the gate, or it reappears as informal gates you can no longer see.
+- **Treat rising activity with suspicion, not relief.** Cobra dynamics produce genuine engagement early; participation going up is the signature of the failure, not evidence against it.
+- **Build the counter-incentive into the design.** A "yes" on any pre-launch risk question is not a reason to abandon the intervention — it is the specific dynamic you must engineer against before launch.
+
+---
+
 ## Common Failure Modes
 
 - **Mistaking early activity for success.** Cobra dynamics produce real activity — people genuinely engage with the new structure. The error is reading activity as evidence the underlying problem is being solved.

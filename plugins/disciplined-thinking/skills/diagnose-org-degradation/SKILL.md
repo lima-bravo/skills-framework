@@ -107,6 +107,19 @@ Hospital waiting-time targets cause patients to be held in ambulances outside th
 
 **The corrective is triangulation:** use multiple metrics that are hard to simultaneously game, include qualitative signals alongside quantitative ones, and rotate metrics before they calcify into targets.
 
+**Do:**
+- **Triangulate: use multiple metrics that are hard to game simultaneously.** A single target invites distortion; a basket that would have to be gamed together raises the cost of gaming above the cost of just doing the work.
+- **Pair every quantitative metric with a qualitative check.** Numbers tell you the proxy moved; a qualitative signal tells you whether the underlying reality moved with it. The gap between them is where Goodhart lives.
+- **Rotate metrics before they calcify into targets.** A measure used for observation stays honest; the longer it carries consequences, the more behaviour bends toward it. Refresh proxies before the correlation breaks.
+- **Hold some metrics as health indicators, not targets.** Explicitly designate which measures inform and which incentivise; the act of declaring a number a target is what begins its corruption.
+- **Watch the correlation that justified the proxy, not just the proxy.** The proxy was chosen because it tracked something you care about; monitor whether that link still holds once people start optimising the proxy directly.
+
+**Avoid:**
+- **Assuming the distortion requires bad actors.** Goodhart operates through well-intentioned people unconsciously shifting effort toward what is measured; waiting for evidence of cheating means missing the structural problem entirely.
+- **Adding more weight to a gamed metric.** When a target stops tracking reality, the instinct is to enforce it harder, which only intensifies the optimisation pressure that broke it.
+- **Mistaking proxy improvement for outcome improvement.** Celebrating that the number went up without checking whether the thing the number stood for went up — the central trap.
+- **Single-metric dashboards.** Reducing a complex outcome to one headline figure maximises Goodhart exposure precisely where the stakes are highest.
+
 ### 6. Conway's Law
 
 **Hold in mind:**
@@ -130,6 +143,19 @@ Classic mitigations: **incentive alignment** (make the agent's payoff track the 
 
 Each mitigation has costs: incentive alignment introduces Goodhart's Law risk; monitoring creates overhead and erodes trust. The art is choosing the right combination for the relationship.
 
+**Do:**
+- **Diagnose adverse selection vs. moral hazard — they need different tools.** Hidden information before the relationship (adverse selection) is addressed by screening and signalling; hidden action after it (moral hazard) is addressed by incentive alignment and monitoring. Applying the wrong tool wastes effort.
+- **Align payoffs to outcomes, but watch the Goodhart cost.** Tying the agent's reward to the principal's result is the strongest lever and the one most likely to create a gameable target; design the metric knowing it will be optimised directly.
+- **Price the cost of each mitigation.** Monitoring erodes trust and adds overhead; incentive alignment imports Goodhart risk; signalling is expensive by design. The art is the cheapest combination that closes the specific gap.
+- **Make expectations explicit so "I didn't know" stops being available.** A clear, written account of what the agent is accountable for removes the most common excuse and is the precondition for any monitoring to be fair.
+- **Treat low psychological safety as an amplifier.** Agents who fear consequences optimise for appearance over outcome, widening the gap you are trying to close; the structural fix often runs through culture, not contracts.
+
+**Avoid:**
+- **Over-monitoring into distrust.** Piling on audits and metrics signals that agents are not trusted, eroding the intrinsic motivation monitoring can never replace and often making the gap worse.
+- **Incentive alignment that creates a new Goodhart target.** "Make the agent's payoff track the outcome" works until the agent games the chosen proxy; alignment is not a one-time fix but an ongoing design problem.
+- **Ignoring adverse selection at the hiring or contracting stage.** Focusing entirely on managing behaviour after the relationship begins, while doing nothing to screen for type beforehand, leaves the cheaper intervention on the table.
+- **Assuming the principal's interest is self-evident.** Agents cannot align with an outcome that was never clearly specified; ambiguity about what the principal actually wants is frequently mistaken for agent misalignment.
+
 ## Deliverable format
 
 Produce a markdown document with these sections:
@@ -147,8 +173,6 @@ Produce a markdown document with these sections:
 ## Reference cards
 
 For full definitions and examples, read the linked files when detail is needed:
-
-## Reference cards
 
 - [drift-to-failure](references/drift-to-failure.md)
 - [dunbars-number](references/dunbars-number.md)

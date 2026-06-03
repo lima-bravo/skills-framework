@@ -19,6 +19,25 @@ The diagnostic question is: *where do espoused values and actual behaviour diver
 
 Culture change requires surfacing basic assumptions, making explicit what was previously implicit, and then demonstrating through repeated leader behaviour that the new assumption is operative. This is slow and cannot be delegated.
 
+## Practitioner Heuristics
+
+- **Diagnose at the assumptions level, not the artefact level.** Look for where espoused values and actual behaviour diverge; that gap locates the real, operative assumption, and it is the only level at which culture actually changes.
+- **Read behaviour under pressure, not posters.** Culture is what people do when failure, authority, or trust are at stake — the post-mortem that ends in blame tells you more than the value printed on the wall.
+- **Change incentives and assumptions together.** Altering one without the other produces unpredictable results; behaviours that are espoused but not rewarded, or rewarded but not believed, do not stick.
+- **Demonstrate the new assumption through repeated leader behaviour.** Culture change cannot be delegated or announced; it is established by leaders visibly acting on the new assumption, repeatedly, especially when it is costly.
+- **Treat psychological safety as a measurable readout.** Whether people admit error and voice dissent is an observable artefact of the underlying assumption about whether failure is safe — track it as a signal of the deeper layer.
+
+## Common Failure Modes
+
+- **Redecorating the artefact layer.** Launching new values, posters, and rituals while the basic assumptions that drive behaviour remain untouched; the gap reopens immediately because the deep layer never moved.
+- **Espousing one thing while rewarding another.** "We celebrate failure" alongside post-mortems that end in blame teaches the real assumption — failure is career-threatening — and erodes trust in every other stated value.
+- **Changing culture by announcement.** Treating culture as something that can be set top-down and quickly, when it is slow, behavioural, and demonstrated rather than declared.
+- **Delegating culture change to HR or a task force.** Outsourcing the one thing that requires repeated, costly leader behaviour guarantees the assumptions level is never reached.
+
+## Worked Example
+
+A company declares "we celebrate intelligent failure" as a new value, with a poster campaign and an internal talk. Six months later nothing has changed: every post-mortem still hunts for someone to blame, and engineers still pad estimates and hide problems until they are undeniable. Schein's model explains why — the intervention targeted the artefact and espoused-values layers while the basic assumption ("failure here is career-threatening") was left intact, and the daily experience of blame-driven post-mortems taught people which level was real. The gap between the espoused value and the observed behaviour is itself the diagnostic: it points straight at the operative assumption. Culture shifts only when a senior leader visibly owns a failure of their own without consequence, protects a team that ran a well-designed experiment that returned a clean negative, and does so repeatedly until the organisation updates what it actually believes about the cost of failure — slow, behavioural work no poster can substitute for.
+
 ## Connections
 
 - **Principal–Agent Problem** — basic assumptions shape how agents interpret their role

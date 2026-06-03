@@ -95,8 +95,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [ai-authority-boundaries](references/ai-authority-boundaries.md)
 - [minimal-capability-principle](references/minimal-capability-principle.md)
 - [prompt-injection](references/prompt-injection.md)

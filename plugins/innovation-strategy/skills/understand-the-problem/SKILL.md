@@ -133,8 +133,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [jobs-to-be-done](references/jobs-to-be-done.md)
 - [customer-development](references/customer-development.md)
 - [design-thinking](references/design-thinking.md)

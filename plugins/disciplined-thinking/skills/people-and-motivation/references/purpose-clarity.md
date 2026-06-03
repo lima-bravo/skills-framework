@@ -53,6 +53,25 @@ Think of purpose clarity as a translation layer between the organisation's goals
 
 The Elevator Test is not a communication exercise. It is a check on whether the translation layer exists. If a person cannot do it in 30 seconds, the layer is missing — and every decision they make without it is made with incomplete information about what matters.
 
+## Practitioner Heuristics
+
+- **Use the Elevator Test as a recurring diagnostic.** Ask each person, in a 1:1, to explain in 30 seconds what they do and why it matters; treat a poor answer as information about your communication, not their competence.
+- **Read the failure pattern before intervening.** Jargon-without-substance needs a clarity conversation; scope uncertainty needs a direction conversation; genuine disconnection needs role redesign. The same intervention applied to all three misses the diagnosis.
+- **Make purpose explicit in role design, not by implication.** Write the one-paragraph account of why the role exists and what it enables; the connection that is obvious to you is rarely obvious to the person in the seat.
+- **Re-run the test after every disruption.** Reorganisations, strategy shifts, and engagement dips are exactly when the translation layer breaks; that is when to check whether people can still connect their work to what matters.
+- **Treat purpose clarity as meeting the relatedness need.** It is the organisational mechanism that connects effort to meaning at scale — a lever for sustained intrinsic motivation, not a communications nicety.
+
+## Common Failure Modes
+
+- **Reading a poor Elevator Test as an individual failure.** Concluding the person is unclear about their own work, when the usual cause is that no one ever made the connection between their work and the organisation's goals explicit.
+- **Assuming purpose is self-evident.** Leaders who understand the strategy assume the connection to daily work is obvious; every level of translation left to chance introduces distortion, and the bottom of the org sees only a task list.
+- **Endemic neglect in matrix and partnership structures.** Where reporting lines are diffuse, purpose is assumed rather than stated and the failure mode becomes structural; the fix is to make purpose explicit at the role level, not to coach individuals.
+- **Confusing activity description with purpose.** Accepting "I manage the quarterly reporting cycle" as an answer; it names the task, not why it matters, and a person who cannot state the why makes every downstream decision with incomplete information.
+
+## Worked Example
+
+A capable analyst is repeatedly passed over for advancement despite strong technical work. Asked the Elevator Test question in a 1:1, she answers "I run the quarterly reporting cycle" — accurate, but pure task description with no connection to why it matters. The instinct is to read this as her problem to fix. The diagnostic runs the other way: her manager has never made explicit that the reporting cycle is what the executive team relies on to reallocate capital each quarter, which is why its accuracy and timeliness are load-bearing. The pattern is jargon-without-substance, and it is a leadership communication gap, not a competence gap. Once the manager states the purpose explicitly and builds it into the role description, two things change: the analyst can represent her own value to the people who decide promotions (the individual competence), and she begins making better autonomous calls about what in the reporting process actually matters (the motivational effect). The 30-second answer was a readout of a missing translation layer, not of a missing skill.
+
 ## Connections
 
 - **Self-Determination Theory** — purpose clarity is the primary mechanism for meeting the Relatedness need; it also supports Competence (knowing why your work matters makes effectiveness legible) and Autonomy (people who understand purpose can make autonomous decisions aligned with intent)

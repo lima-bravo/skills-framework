@@ -48,12 +48,38 @@ Think of synchronous time as a scarce, expensive material — like overnight cou
 
 Most organisations run their communication infrastructure as if overnight courier were free and regular post didn't exist. The result is that high-cost, high-bandwidth synchronous exchange gets used for low-bandwidth content — status updates, information distribution, alignment on already-made decisions — while the medium's actual advantages (real-time reasoning, emotional bandwidth, live framing) are diluted or lost in the noise.
 
+**Do:**
+- **Make async the default and require an affirmative case for a meeting.** Flip the burden of proof: writing is the baseline, and a meeting must justify itself with a specific reason real-time exchange adds value writing cannot.
+- **Run the three-question triage before accepting any meeting.** What decision must this produce? Can it be resolved in writing? Does it need real-time back-and-forth thinking? Two "no"s mean it is an email.
+- **Reserve synchronous time for what it is uniquely good at.** Genuine back-and-forth reasoning, generative thinking, emotionally or relationally loaded decisions, conflict repair, and high-uncertainty framing — not status, updates, or distribution.
+- **State the affirmative case at the open.** "We're meeting because this needs live thinking, specifically X" primes the right mode and makes it easy to close the meeting when that purpose is served.
+- **Price the full cost of a meeting, not just the hour.** Add the context-switch tax (~23 minutes to re-enter focus per person) and the fragmentation of the surrounding deep-work block; the real cost is several times the wall-clock time.
+
+**Avoid:**
+- **Meetings as the default signal of seriousness.** When calling a meeting is costless and declining one carries social cost, meetings multiply for reasons of signalling, not decision-making — the root cause of calendar inflation.
+- **Replacing a meeting with a worse async artefact.** Async-first fails when the written alternative is a wall of unstructured text; the medium wins only if the writing is structured enough to carry the decision.
+- **Using async for what genuinely needs real-time exchange.** Forcing conflict resolution or high-uncertainty framing into asynchronous threads is the inverse error — some things do need the room, and dogmatic async damages them.
+- **Cutting meetings without replacing the accountability they carried.** Meetings implicitly create owners and deadlines; a decision memo that removes the meeting must name an Accountable and a response date, or the decision quietly dies.
+
 ### 3. After-Action Review
 
 **Hold in mind:**
 Think of the AAR as closing the feedback loop between intention and execution. Without it, experience accumulates but learning does not — the team has been through many projects, but the distance between what they plan and what happens stays roughly constant because the gap has never been formally examined. The AAR converts raw experience into structured knowledge at the point of maximum signal clarity, before the signal degrades.
 
 The military phrase is "learning at the speed of operations." The civilian equivalent: every project is an experiment whose results should update the next project. The AAR is the mechanism that ensures the update actually happens.
+
+**Do:**
+- **Run it immediately, even if briefly.** A rough AAR in the 20 minutes after delivery beats a polished retrospective two weeks later — signal degrades fast and narratives harden.
+- **Protect Question 3.** "Why was there a gap" is the question that gets compressed under time pressure and the only one that produces learning; let it run long when the gap is large.
+- **Weight "sustain" as heavily as "improve."** Teams reflexively hunt for what went wrong; naming what worked and why prevents causal successes from being discarded in the next round of changes.
+- **Separate observation from interpretation in Question 2.** Build the shared factual account first; where accounts differ, treat the difference as data, not as something to resolve by consensus.
+- **Review AARs in aggregate.** A single AAR teaches the team; a quarter of AARs read together reveals the repeated gaps that are the highest-value organisational signal available.
+
+**Avoid:**
+- **Attributing every gap to external causes.** "The client changed the brief" ends inquiry where it should begin; the agency-restoring probe is "what could we have done that would have changed the outcome?"
+- **The leader running it.** When the most senior person facilitates, the team filters observations through what that person wants to hear, and the account sanitises itself.
+- **Running it in a blame culture.** Without psychological safety, the AAR produces a defensible narrative rather than an honest one — the form is followed and the function is lost.
+- **Capturing nothing.** An AAR whose findings aren't written down and filed produces a moment of insight that evaporates; the learning never compounds across projects.
 
 ### 4. Attention Budget
 
@@ -92,8 +118,6 @@ Produce a markdown document with these sections:
 ## Reference cards
 
 For full definitions and examples, read the linked files when detail is needed:
-
-## Reference cards
 
 - [makers-schedule](references/makers-schedule.md)
 - [async-first-default](references/async-first-default.md)

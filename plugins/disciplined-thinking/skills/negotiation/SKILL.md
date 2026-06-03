@@ -138,8 +138,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [schelling-points](references/schelling-points.md)
 - [prisoners-dilemma](references/prisoners-dilemma.md)
 - [anchoring](references/anchoring.md)

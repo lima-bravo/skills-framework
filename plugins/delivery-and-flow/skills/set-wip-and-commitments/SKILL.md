@@ -101,8 +101,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [wip-limits](references/wip-limits.md)
 - [kanban-method](references/kanban-method.md)
 - [lead-time-cycle-time](references/lead-time-cycle-time.md)

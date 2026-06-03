@@ -43,6 +43,25 @@ This has significant implications for incentive design. Bonuses, gamification, a
 
 Think of intrinsic motivation as a fire that burns on its own once lit, but requires three types of air to keep burning: autonomy (the fire chooses its own direction), competence (the fuel is the right size — not too wet, not too small), and relatedness (the fire is part of something — a hearth, a signal, a forge). External rewards are accelerant: useful for starting a fire that isn't burning, but if applied to a fire that's already going, they consume the oxygen and leave behind a dependency on accelerant.
 
+## Practitioner Heuristics
+
+- **Diagnose which of the three needs is starved before intervening.** Disengagement from thwarted autonomy (micromanagement) needs a different fix than disengagement from thwarted competence (no stretch, or no success signal). Treating every motivation problem as a rewards problem is the classic error.
+- **Don't attach rewards to work people already find meaningful.** Performance-contingent pay is useful for tasks that were never intrinsically motivating; applied to creative or purpose-driven work, it shifts the locus of causality outward and degrades the motivation that was already there.
+- **Give the rationale, not just the instruction.** Autonomy is the experience of endorsing your actions, not the absence of direction; a person can follow a constraint and still feel autonomous if they understand and accept why it exists.
+- **Aim for internalisation, not compliance.** The goal is to move people along the continuum from "because I'm told to" toward "because I value it" — through autonomy support, meaningful rationale, and acknowledging how people actually feel about the work.
+- **Calibrate challenge to sustain competence.** Tasks too easy give no mastery signal; tasks too hard give no success. The competence need is met in the stretch zone where effort visibly produces results.
+
+## Common Failure Modes
+
+- **Reaching for extrinsic rewards first.** The most available management lever — bonuses, gamification, recognition schemes — is the one most likely to crowd out the intrinsic motivation it was meant to boost.
+- **Confusing autonomy with independence.** Removing all structure in the name of autonomy starves the competence and relatedness needs; autonomy is about volition, not isolation.
+- **Reading amotivation as a discipline problem.** A person who has stopped trying is more often signalling a chronically thwarted need than a character flaw; the corrective is structural, not motivational pressure.
+- **Removing a reward and expecting interest to bounce back.** Once crowding-out has happened, intrinsic interest does not automatically recover — the person has learned to experience the activity as instrument, not end.
+
+## Worked Example
+
+A software company introduces a per-feature shipping bonus to lift engineering output. Velocity rises for a quarter, then quality and initiative decline: engineers stop volunteering for the unglamorous reliability work that carries no bonus, and the satisfaction that used to come from solving hard problems is now described as "just doing it for the payout." The bonus crowded out intrinsic motivation by shifting the perceived locus of causality from internal to external — and when the bonus is later capped, motivation does not return to baseline; it settles below it. SDT predicts both halves: the reward worked as a short-term external regulator and damaged the intrinsic regulation it displaced. The redesign removes the per-feature contingency, restores autonomy over how work is approached, makes the connection between reliability work and customers (relatedness) explicit, and protects time for the stretch problems that supply the competence signal.
+
 ## Connections
 
 - **ERG Theory** — Alderfer's Relatedness and Growth needs map onto SDT's Relatedness and Competence; SDT adds the autonomy dimension and the internalisation continuum ERG lacks

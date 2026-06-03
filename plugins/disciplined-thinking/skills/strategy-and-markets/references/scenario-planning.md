@@ -15,6 +15,25 @@ Two components: **predetermined elements** (things that will happen regardless o
 
 Each scenario is a coherent narrative — plausible, internally consistent, differentiated, and challenging. Strategy is evaluated by asking: how does this initiative perform in each scenario?
 
+## Practitioner Heuristics
+
+- **Separate predetermined elements from critical uncertainties first.** Sort what will happen regardless from the two or three forces whose outcome is genuinely unknown; only the latter define the scenarios.
+- **Build exactly the scenarios that stress your strategy, not the comfortable ones.** Choose the critical uncertainties whose divergent outcomes would most change your decisions; four futures that all reward your current plan is a comfort exercise, not scenario planning.
+- **Test initiatives across all scenarios, not against the most likely one.** The output is a strategy that performs acceptably across the set — robustness — rather than one optimised for a single forecast that probably won't arrive.
+- **Name the early indicators for each scenario.** A scenario is useful only if you can tell, in real time, which future you are moving into; assign observable signposts so the organisation recognises the shift early.
+- **Keep each scenario a coherent narrative.** Plausible, internally consistent, and genuinely different — a scenario that is just "the forecast, but worse" teaches nothing.
+
+## Common Failure Modes
+
+- **Collapsing scenarios back into a single forecast.** Teams build four futures and then quietly bet on the one they consider most likely, discarding the whole point: preparing for the range.
+- **Three scenarios labelled best / base / worst case.** This is sensitivity analysis on one variable dressed as scenario planning; real scenarios turn on different combinations of independent uncertainties, not one dial set high, medium, and low.
+- **Scenarios with no decision consequences.** If the strategy is identical across all four futures, either the chosen uncertainties don't matter or the exercise wasn't connected to real choices.
+- **Treating the narratives as predictions.** Scenarios are tools for testing robustness and recognising change, not forecasts; defending one as "what will happen" reintroduces the single-future thinking the method exists to escape.
+
+## Worked Example
+
+Shell is the canonical case for a reason. In the early 1970s its planners, rather than forecasting a single oil price, built scenarios that included one in which the oil-producing states asserted control and prices spiked — a future most competitors treated as implausible. Shell did not predict the 1973 embargo; it had rehearsed a world in which something like it happened, so when prices quadrupled the company already had a strategic response ready while rivals were still orienting. The same discipline let it anticipate the 1986 price collapse from the other direction. The lesson is not that Shell forecast the future accurately; it is that scenario planning made the organisation able to recognise and act on a shift faster than firms whose plans assumed the future would resemble the present.
+
 ## Connections
 
 - **Pre-mortem** — pre-mortem probes a decision; scenario planning probes the environment

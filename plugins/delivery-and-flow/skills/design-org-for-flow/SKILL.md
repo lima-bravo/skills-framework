@@ -119,8 +119,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [team-topologies](references/team-topologies.md)
 - [inverse-conway](references/inverse-conway.md)
 - [dependency-management](references/dependency-management.md)

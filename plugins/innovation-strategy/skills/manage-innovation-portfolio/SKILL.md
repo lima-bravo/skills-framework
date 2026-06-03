@@ -83,8 +83,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [three-horizons](references/three-horizons.md)
 - [innovation-health-indicators](references/innovation-health-indicators.md)
 - [innovation-accounting](references/innovation-accounting.md)

@@ -139,8 +139,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [cost-of-delay](references/cost-of-delay.md)
 - [wsjf](references/wsjf.md)
 - [kill-criteria](references/kill-criteria.md)

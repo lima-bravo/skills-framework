@@ -141,8 +141,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [narrative-instinct](references/narrative-instinct.md)
 - [grices-maxims](references/grices-maxims.md)
 - [audience](references/audience.md)

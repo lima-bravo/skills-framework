@@ -160,8 +160,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [ladder-of-inference](references/ladder-of-inference.md)
 - [causal-analysis](references/causal-analysis.md)
 - [occams-razor](references/occams-razor.md)

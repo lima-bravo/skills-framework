@@ -232,8 +232,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [anchoring](references/anchoring.md)
 - [availability-bias](references/availability-bias.md)
 - [survivorship-bias](references/survivorship-bias.md)

@@ -170,8 +170,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [feedback-loops](references/feedback-loops.md)
 - [s-curves](references/s-curves.md)
 - [critical-mass](references/critical-mass.md)

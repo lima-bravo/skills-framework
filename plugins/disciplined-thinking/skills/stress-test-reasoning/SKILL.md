@@ -159,6 +159,19 @@ The key distinction is **Complicated vs. Complex**. A complicated problem has ma
 
 **The danger zone:** the cliff between Clear and Chaotic. Over-confidence in established best practice can cause a Clear situation to tip suddenly into Chaos when conditions change.
 
+**Do:**
+- **Diagnose the domain before choosing a method.** The framework's entire value is prescriptive: best practice for Clear, analysis for Complicated, probe-sense-respond for Complex, act-sense-respond for Chaotic. Choosing a method without naming the domain is how good techniques get misapplied.
+- **In Complex domains, run safe-to-fail experiments instead of analysing for the right answer.** When cause and effect are visible only in retrospect, no amount of upfront analysis reveals the answer — the trying changes the system, so you probe, sense the response, and amplify or dampen.
+- **Don't apply Complicated-domain confidence to Complex problems.** Reaching for expert analysis and detailed plans where the answer cannot be known in advance is not rigour; it is a category error that produces confident, expensive failure.
+- **In Chaos, act first to establish stability, then sense.** The Chaotic domain rewards decisive action to create enough order to move the situation into Complex, where probing becomes possible; hesitating to analyse a crisis is the wrong move.
+- **Watch the cliff between Clear and Chaotic.** Complacency in the Clear domain — treating established best practice as permanent — is what lets conditions shift and tip a stable situation straight into chaos.
+
+**Avoid:**
+- **Treating everything as Complicated.** The default of expert-driven organisations: assuming every problem has a knowable right answer if enough analysis is applied, which fails silently on Complex problems where emergence dominates.
+- **Misreading Complex as Clear.** Applying a fixed best-practice playbook to a situation with emergent behaviour produces precise execution toward an answer that no longer fits.
+- **Analysis paralysis in Chaos.** Trying to gather data and plan during a crisis that demands immediate stabilising action — the domain calls for acting first, not understanding first.
+- **Using the framework to label rather than to decide.** Naming a problem "complex" and stopping there adds nothing; the point of the diagnosis is to change the method, not to categorise.
+
 ## Deliverable format
 
 Produce a markdown document with these sections:
@@ -182,8 +195,6 @@ Produce a markdown document with these sections:
 ## Reference cards
 
 For full definitions and examples, read the linked files when detail is needed:
-
-## Reference cards
 
 - [pre-mortem](references/pre-mortem.md)
 - [steelmanning](references/steelmanning.md)

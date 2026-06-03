@@ -15,6 +15,25 @@ The **Orient** step is the decisive stage — it's where incoming information is
 
 Executives who seek disconfirming information and hold their mental models loosely are doing high-quality Orient work. Those who filter data through fixed beliefs are degrading the center of their own decision loop.
 
+## Practitioner Heuristics
+
+- **Invest in Orient, not just speed.** Cycling fast through a distorted orientation only reaches wrong decisions faster; most decisive advantage comes from orienting better, not acting quicker.
+- **Actively seek disconfirming information.** The Orient stage degrades silently when you ingest only data that confirms the current picture; build in a deliberate search for what would prove you wrong.
+- **Operate inside the opponent's tempo, don't just match it.** The advantage is relative — act before they can respond to your last move, so each orientation they form is already stale.
+- **Hold your mental models loosely.** The moment a model becomes identity, new data stops updating it; treat every orientation as provisional.
+- **Re-enter the loop deliberately when the situation shifts.** A Tactical Pause is a forced fresh Observe–Orient cycle; use it when you sense the picture has changed but execution momentum is carrying you forward.
+
+## Common Failure Modes
+
+- **Skipping Orient under pressure.** Jumping from Observe straight to Act — pattern-matching to the last similar situation without checking whether this one differs.
+- **Analysis paralysis in Orient.** The opposite failure: orienting forever and never deciding, surrendering tempo to anyone willing to act.
+- **Confirmation bias as Orient corruption.** Filtering observations through fixed beliefs so the loop confidently converges on the wrong picture — Boyd's single biggest degrader.
+- **Mistaking activity for tempo.** Cycling rapidly through low-quality decisions feels fast but creates no advantage; tempo counts only if each action is good enough to force the opponent to re-orient.
+
+## Worked Example
+
+A challenger retailer competing against an incumbent with a slow annual planning cycle wins not through a better one-time strategy but by cycling faster. It observes weekly sales and search data, re-orients its assortment continuously, decides on price and inventory changes in days, and acts before the incumbent's quarterly review even convenes. By the time the incumbent has oriented to the challenger's last move and pushed a response through its planning machinery, the challenger has already moved twice. The incumbent is not out-thought on any single decision; it is operating inside a slower loop, and every orientation it forms is responding to a reality the challenger has already left behind.
+
 ## Connections
 
 - **Mission Command** — creates the organisational permission structure for fast OODA cycling

@@ -67,8 +67,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [mece](references/mece.md)
 - [hypothesis-driven](references/hypothesis-driven.md)
 

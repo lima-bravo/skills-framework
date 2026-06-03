@@ -138,8 +138,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [asymmetry-convexity](references/asymmetry-convexity.md)
 - [regret-minimization-framework](references/regret-minimization-framework.md)
 - [kill-criteria](references/kill-criteria.md)

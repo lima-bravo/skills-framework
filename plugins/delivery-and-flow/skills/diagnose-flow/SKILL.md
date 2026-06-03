@@ -119,8 +119,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [value-stream-mapping](references/value-stream-mapping.md)
 - [queueing](references/queueing.md)
 - [flow-efficiency](references/flow-efficiency.md)

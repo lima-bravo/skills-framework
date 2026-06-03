@@ -212,8 +212,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [power-mapping](references/power-mapping.md)
 - [stakeholder-mapping-salience-model](references/stakeholder-mapping-salience-model.md)
 - [influence-without-authority](references/influence-without-authority.md)

@@ -64,6 +64,19 @@ An experienced practitioner understands psychological safety as the precondition
 **Hold in mind:**
 Think of intrinsic motivation as a fire that burns on its own once lit, but requires three types of air to keep burning: autonomy (the fire chooses its own direction), competence (the fuel is the right size — not too wet, not too small), and relatedness (the fire is part of something — a hearth, a signal, a forge). External rewards are accelerant: useful for starting a fire that isn't burning, but if applied to a fire that's already going, they consume the oxygen and leave behind a dependency on accelerant.
 
+**Do:**
+- **Diagnose which of the three needs is starved before intervening.** Disengagement from thwarted autonomy (micromanagement) needs a different fix than disengagement from thwarted competence (no stretch, or no success signal). Treating every motivation problem as a rewards problem is the classic error.
+- **Don't attach rewards to work people already find meaningful.** Performance-contingent pay is useful for tasks that were never intrinsically motivating; applied to creative or purpose-driven work, it shifts the locus of causality outward and degrades the motivation that was already there.
+- **Give the rationale, not just the instruction.** Autonomy is the experience of endorsing your actions, not the absence of direction; a person can follow a constraint and still feel autonomous if they understand and accept why it exists.
+- **Aim for internalisation, not compliance.** The goal is to move people along the continuum from "because I'm told to" toward "because I value it" — through autonomy support, meaningful rationale, and acknowledging how people actually feel about the work.
+- **Calibrate challenge to sustain competence.** Tasks too easy give no mastery signal; tasks too hard give no success. The competence need is met in the stretch zone where effort visibly produces results.
+
+**Avoid:**
+- **Reaching for extrinsic rewards first.** The most available management lever — bonuses, gamification, recognition schemes — is the one most likely to crowd out the intrinsic motivation it was meant to boost.
+- **Confusing autonomy with independence.** Removing all structure in the name of autonomy starves the competence and relatedness needs; autonomy is about volition, not isolation.
+- **Reading amotivation as a discipline problem.** A person who has stopped trying is more often signalling a chronically thwarted need than a character flaw; the corrective is structural, not motivational pressure.
+- **Removing a reward and expecting interest to bounce back.** Once crowding-out has happened, intrinsic interest does not automatically recover — the person has learned to experience the activity as instrument, not end.
+
 ### 4. Organizational Culture
 
 **Hold in mind:**
@@ -71,12 +84,38 @@ The diagnostic question is: *where do espoused values and actual behaviour diver
 
 Culture change requires surfacing basic assumptions, making explicit what was previously implicit, and then demonstrating through repeated leader behaviour that the new assumption is operative. This is slow and cannot be delegated.
 
+**Do:**
+- **Diagnose at the assumptions level, not the artefact level.** Look for where espoused values and actual behaviour diverge; that gap locates the real, operative assumption, and it is the only level at which culture actually changes.
+- **Read behaviour under pressure, not posters.** Culture is what people do when failure, authority, or trust are at stake — the post-mortem that ends in blame tells you more than the value printed on the wall.
+- **Change incentives and assumptions together.** Altering one without the other produces unpredictable results; behaviours that are espoused but not rewarded, or rewarded but not believed, do not stick.
+- **Demonstrate the new assumption through repeated leader behaviour.** Culture change cannot be delegated or announced; it is established by leaders visibly acting on the new assumption, repeatedly, especially when it is costly.
+- **Treat psychological safety as a measurable readout.** Whether people admit error and voice dissent is an observable artefact of the underlying assumption about whether failure is safe — track it as a signal of the deeper layer.
+
+**Avoid:**
+- **Redecorating the artefact layer.** Launching new values, posters, and rituals while the basic assumptions that drive behaviour remain untouched; the gap reopens immediately because the deep layer never moved.
+- **Espousing one thing while rewarding another.** "We celebrate failure" alongside post-mortems that end in blame teaches the real assumption — failure is career-threatening — and erodes trust in every other stated value.
+- **Changing culture by announcement.** Treating culture as something that can be set top-down and quickly, when it is slow, behavioural, and demonstrated rather than declared.
+- **Delegating culture change to HR or a task force.** Outsourcing the one thing that requires repeated, costly leader behaviour guarantees the assumptions level is never reached.
+
 ### 5. Purpose Clarity
 
 **Hold in mind:**
 Think of purpose clarity as a translation layer between the organisation's goals and an individual's daily decisions. Without it, the organisation has a strategy and each person has a task list, and the connection between the two is left implicit — understood at the top, assumed in the middle, opaque at the bottom. Every level of translation that is left to chance introduces distortion.
 
 The Elevator Test is not a communication exercise. It is a check on whether the translation layer exists. If a person cannot do it in 30 seconds, the layer is missing — and every decision they make without it is made with incomplete information about what matters.
+
+**Do:**
+- **Use the Elevator Test as a recurring diagnostic.** Ask each person, in a 1:1, to explain in 30 seconds what they do and why it matters; treat a poor answer as information about your communication, not their competence.
+- **Read the failure pattern before intervening.** Jargon-without-substance needs a clarity conversation; scope uncertainty needs a direction conversation; genuine disconnection needs role redesign. The same intervention applied to all three misses the diagnosis.
+- **Make purpose explicit in role design, not by implication.** Write the one-paragraph account of why the role exists and what it enables; the connection that is obvious to you is rarely obvious to the person in the seat.
+- **Re-run the test after every disruption.** Reorganisations, strategy shifts, and engagement dips are exactly when the translation layer breaks; that is when to check whether people can still connect their work to what matters.
+- **Treat purpose clarity as meeting the relatedness need.** It is the organisational mechanism that connects effort to meaning at scale — a lever for sustained intrinsic motivation, not a communications nicety.
+
+**Avoid:**
+- **Reading a poor Elevator Test as an individual failure.** Concluding the person is unclear about their own work, when the usual cause is that no one ever made the connection between their work and the organisation's goals explicit.
+- **Assuming purpose is self-evident.** Leaders who understand the strategy assume the connection to daily work is obvious; every level of translation left to chance introduces distortion, and the bottom of the org sees only a task list.
+- **Endemic neglect in matrix and partnership structures.** Where reporting lines are diffuse, purpose is assumed rather than stated and the failure mode becomes structural; the fix is to make purpose explicit at the role level, not to coach individuals.
+- **Confusing activity description with purpose.** Accepting "I manage the quarterly reporting cycle" as an answer; it names the task, not why it matters, and a person who cannot state the why makes every downstream decision with incomplete information.
 
 ### 6. McClelland's Acquired Needs Theory
 
@@ -117,8 +156,6 @@ Produce a markdown document with these sections:
 ## Reference cards
 
 For full definitions and examples, read the linked files when detail is needed:
-
-## Reference cards
 
 - [trust](references/trust.md)
 - [psychological-safety](references/psychological-safety.md)

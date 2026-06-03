@@ -72,6 +72,12 @@ The inverse of this rule — which describes the failure mode of most early agen
 
 ---
 
+## Worked Example
+
+A team ships an AI agent that drafts and sends customer refund approvals overnight. In the demo it works: the agent reads the ticket, decides, and emails the customer — gated only by a system-prompt instruction to "escalate refunds over $500 to a human." Three weeks into production, a malformed batch of tickets and a prompt-injection string buried in a customer message combine to push through a run of unauthorised high-value refunds before anyone is watching. The escalation rule names the error precisely: an unattended, consequence-bearing, hard-to-reverse action was protected by the softest possible gate (Register 1, a prompt instruction). The redesign moves the brake down the stack — the drafting agent is given no send tool at all (Register 2), refunds above a threshold are routed through a typed, allowlisted handoff the orchestrator validates before any email can be issued (Register 3), and a per-session budget and liveness switch (Registers 4–5) cap the blast radius of any future runaway. The capability the team trusted the model not to misuse is simply removed; the boundary no longer depends on the model behaving.
+
+---
+
 ## Connections
 
 → [**Minimal Capability Principle**](minimal-capability-principle.md) — the design discipline that implements Register 2; capability enforcement in practice.

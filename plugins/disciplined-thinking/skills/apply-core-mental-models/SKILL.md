@@ -308,8 +308,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [first-principles](references/first-principles.md)
 - [inversion](references/inversion.md)
 - [second-order-effects](references/second-order-effects.md)

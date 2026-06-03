@@ -121,8 +121,6 @@ Produce a markdown document with these sections:
 
 For full definitions and examples, read the linked files when detail is needed:
 
-## Reference cards
-
 - [dora-metrics](references/dora-metrics.md)
 - [flow-metrics](references/flow-metrics.md)
 - [statistical-variability](references/statistical-variability.md)

@@ -23,6 +23,22 @@ Pick the branch that best matches the situation, then apply its models:
 
 ### 1. Change Management
 
+**Hold in mind:**
+Think of change as failing on the human side far more often than the strategic one. The strategy — what to change and why — is usually the easy part; the hard part is moving a population of people, each with their own awareness, desire, and capability, from the current state to the new one. Kotter's eight steps and ADKAR are two lenses on the same truth: change is not an announcement, it is a sequence of conditions that must be built in order. Skip the urgency and the coalition, and the vision lands on ground that cannot hold it; address the structures and processes but not the assumptions and incentives underneath, and behaviour reverts the moment attention moves on. The work is to build the human preconditions in sequence, not to issue the destination and assume people will arrive.
+
+**Do:**
+- **Build a guiding coalition before broadcasting the vision.** Change driven by one leader's authority stalls when that attention moves elsewhere; a coalition with real power and credibility sustains it through the inevitable resistance.
+- **Diagnose individual readiness with ADKAR, not just the org-level plan.** A transformation can be perfectly designed at the programme level and fail because individuals lack Desire or Ability; the bottleneck is usually a specific ADKAR stage you can name.
+- **Generate short-term wins deliberately.** Visible early results convert sceptics and refuel the coalition; a change with no proof points for a year dies of fatigue before it reaches institutionalisation.
+- **Anchor the change in incentives and assumptions, or it reverts.** Kotter's final step succeeds only when new behaviour reaches the basic-assumptions level of the culture; new processes laid over old incentives quietly unwind.
+- **Match the change approach to the domain.** A Clear-domain rollout (known solution, best practice) needs different handling than a Complex-domain change where the path emerges; the same playbook does not fit both.
+
+**Avoid:**
+- **Treating change as a communications exercise.** Announcing the vision and assuming alignment, while leaving the human preconditions — urgency, desire, capability, reinforcement — unbuilt; the most common reason transformations fail despite sound strategy.
+- **Declaring victory too early.** Mistaking initial compliance for institutionalised change and withdrawing attention before new behaviour has reached the assumptions level, allowing the old equilibrium to reassert itself.
+- **No guiding coalition, or one without power.** Resting the change on a single sponsor or a committee that lacks authority to remove obstacles; resistance outlasts the initiative.
+- **Changing structures while leaving incentives intact.** Redesigning the org chart and processes while the reward system still pays for the old behaviour — people rationally follow the incentives, not the announcement.
+
 ### 2. Immunity to Change
 
 **Hold in mind:**
@@ -80,6 +96,21 @@ Think of narrative instinct as a compression algorithm for experience. The world
 **Strategy as story.** A strategic plan that tells a compelling arc — from current state through inflection to future state — is more likely to be approved than one that accurately represents uncertainty and multiple contingencies. The narrative instinct rewards stories over models, even in contexts where models are more appropriate.
 
 ### 5. Theory of Change
+
+**Hold in mind:**
+Think of a Theory of Change as the load-bearing assumptions made visible. Any plan implicitly claims that a chain of steps — inputs produce activities, activities produce outputs, outputs produce outcomes, outcomes produce impact — will hold. The plan usually documents the steps in detail and leaves the *links between them* unstated. The Theory of Change inverts that emphasis: the activities are the easy part; the question that determines success is "why do we believe each step will produce the next?" Each of those beliefs is an assumption, and the weakest assumption in the chain caps the whole theory. Making the links explicit converts a confident plan into a set of testable hypotheses, ranked by how much rests on them and how little you actually know.
+
+**Do:**
+- **Write the causal chain backwards from impact.** Start with the change you want in the world and ask what outcome would produce it, then what output, then what activity — backward reasoning surfaces missing links that forward planning hides.
+- **Make the assumption at each link explicit.** The arrow between two boxes is where the theory fails; name the condition that must be true for one step to produce the next, because that is your real hypothesis.
+- **Rank assumptions by risk and test the riskiest first.** The highest-priority hypotheses are the assumptions that are both load-bearing and uncertain; spend evidence-gathering effort there, not on the steps you already know work.
+- **Distinguish outputs from outcomes ruthlessly.** "Ran the training" is an output; "people behave differently as a result" is an outcome. Theories of change fail most often at exactly this link, where activity is mistaken for effect.
+
+**Avoid:**
+- **A detailed activity plan with no stated theory.** A clear vision and a long list of activities, with no explicit account of why those activities will produce the intended outcome — the assumptions never surface, so they never get tested.
+- **Confusing outputs with impact.** Reporting that activities were completed and outputs delivered as if that proved the outcome, when the output-to-outcome link is precisely the untested assumption.
+- **Leaving assumptions implicit and therefore unfalsifiable.** If the links are never written down, a failing programme can always be explained away, because no one specified what would have had to be true for it to work.
+- **Treating the chain as fixed rather than a hypothesis to update.** A Theory of Change is a living set of bets; programmes that lock it at the planning stage stop learning the moment reality diverges from the diagram.
 
 ### 6. Framing
 
@@ -142,8 +173,6 @@ Produce a markdown document with these sections:
 ## Reference cards
 
 For full definitions and examples, read the linked files when detail is needed:
-
-## Reference cards
 
 - [change-management](references/change-management.md)
 - [immunity-to-change](references/immunity-to-change.md)

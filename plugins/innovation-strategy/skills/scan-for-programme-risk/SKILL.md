@@ -22,6 +22,13 @@ In organisational change and innovation programmes, this pattern is especially t
 
 The practitioner's diagnostic is a single question: **"Who or what now depends on this problem continuing?"** If the answer includes anyone created or empowered by the intervention itself, the cobra risk is real.
 
+**Do:**
+- **Run the diagnostic question on every intervention: "who or what now depends on this problem persisting?"** If the answer names a role, metric, or unit the intervention itself created, you have a cobra risk before you have a cobra.
+- **Measure the outcome, never the proxy.** Count experiments that reached a customer, not ideas submitted; adopted innovations, not showcase attendance. The moment the proxy carries career weight, it decouples from the thing you wanted.
+- **Trace absorbed demand before removing a gate.** A slow approval process is usually absorbing real risk-management demand; ask where that demand will resurface before you cut the gate, or it reappears as informal gates you can no longer see.
+- **Treat rising activity with suspicion, not relief.** Cobra dynamics produce genuine engagement early; participation going up is the signature of the failure, not evidence against it.
+- **Build the counter-incentive into the design.** A "yes" on any pre-launch risk question is not a reason to abandon the intervention — it is the specific dynamic you must engineer against before launch.
+
 **Avoid:**
 - **Mistaking early activity for success.** Cobra dynamics produce real activity — people genuinely engage with the new structure. The error is reading activity as evidence the underlying problem is being solved.
 - **Defending the programme rather than the outcome.** Once a programme creates roles and budgets, its champions become invested in its continuation regardless of impact. Challenge reviews focus on "is the programme running well?" rather than "is the original problem being solved?"
@@ -35,6 +42,19 @@ A *proxy* is chosen because it correlates with something we care about but canno
 Hospital waiting-time targets cause patients to be held in ambulances outside the building. Software velocity metrics cause developers to split large tickets. NPS surveys get distributed only after good interactions. In each case, the metric improves while the underlying reality stays flat or degrades.
 
 **The corrective is triangulation:** use multiple metrics that are hard to simultaneously game, include qualitative signals alongside quantitative ones, and rotate metrics before they calcify into targets.
+
+**Do:**
+- **Triangulate: use multiple metrics that are hard to game simultaneously.** A single target invites distortion; a basket that would have to be gamed together raises the cost of gaming above the cost of just doing the work.
+- **Pair every quantitative metric with a qualitative check.** Numbers tell you the proxy moved; a qualitative signal tells you whether the underlying reality moved with it. The gap between them is where Goodhart lives.
+- **Rotate metrics before they calcify into targets.** A measure used for observation stays honest; the longer it carries consequences, the more behaviour bends toward it. Refresh proxies before the correlation breaks.
+- **Hold some metrics as health indicators, not targets.** Explicitly designate which measures inform and which incentivise; the act of declaring a number a target is what begins its corruption.
+- **Watch the correlation that justified the proxy, not just the proxy.** The proxy was chosen because it tracked something you care about; monitor whether that link still holds once people start optimising the proxy directly.
+
+**Avoid:**
+- **Assuming the distortion requires bad actors.** Goodhart operates through well-intentioned people unconsciously shifting effort toward what is measured; waiting for evidence of cheating means missing the structural problem entirely.
+- **Adding more weight to a gamed metric.** When a target stops tracking reality, the instinct is to enforce it harder, which only intensifies the optimisation pressure that broke it.
+- **Mistaking proxy improvement for outcome improvement.** Celebrating that the number went up without checking whether the thing the number stood for went up — the central trap.
+- **Single-metric dashboards.** Reducing a complex outcome to one headline figure maximises Goodhart exposure precisely where the stakes are highest.
 
 ### 3. Second-Order Effects
 
@@ -91,8 +111,6 @@ Produce a markdown document with these sections:
 ## Reference cards
 
 For full definitions and examples, read the linked files when detail is needed:
-
-## Reference cards
 
 - [cobra-effect](references/cobra-effect.md)
 - [goodharts-law](references/goodharts-law.md)

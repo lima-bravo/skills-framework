@@ -176,10 +176,8 @@ function buildToolkitBody(toolkit, manifest) {
     lines.push('');
   }
 
-  lines.push('## Reference cards');
-  lines.push('');
-  lines.push('For full definitions and examples, read the linked files when detail is needed:');
-  lines.push('');
+  // Note: the "## Reference cards" section (with links) is appended in main()
+  // after references are copied. Do not emit it here, or it duplicates.
 
   return lines.join('\n');
 }
@@ -425,7 +423,7 @@ function main() {
       copyReference(source, skillDir);
     }
 
-    body += '\n## Reference cards\n\n';
+    body += '\n## Reference cards\n\nFor full definitions and examples, read the linked files when detail is needed:\n\n';
     for (const source of toolkit.sources) {
       const refSlug = slugFromFile(source);
       body += `- [${refSlug}](references/${refSlug}.md)\n`;
