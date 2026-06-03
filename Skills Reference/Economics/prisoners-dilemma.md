@@ -1,7 +1,7 @@
 # Prisoner's Dilemma
 *Individually rational choices produce collectively irrational outcomes*
 
-**Category:** [Economics](../index.html#economics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -58,4 +58,4 @@ The escape: an industry consortium (commitment mechanism) that makes the coopera
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

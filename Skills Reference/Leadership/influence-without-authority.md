@@ -1,7 +1,7 @@
 # Influence Without Authority
 *Positional power tells people what to do. Influence makes them want to.*
 
-**Category:** [Leadership](../index.html#leadership) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -76,4 +76,4 @@ Total elapsed time: eight weeks. No formal authority was used. The outcome was b
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

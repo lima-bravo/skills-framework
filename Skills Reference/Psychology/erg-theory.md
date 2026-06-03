@@ -1,7 +1,7 @@
 # ERG Theory
 *Three needs, no strict hierarchy, and frustration-regression*
 
-**Category:** [Psychology](../index.html#psychology) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -50,4 +50,4 @@ A senior engineer has been at the company three years, high-performing, and rece
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

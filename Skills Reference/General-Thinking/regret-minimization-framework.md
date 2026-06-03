@@ -1,7 +1,7 @@
 # Regret Minimization Framework
 *Choose the path you would least regret at 80*
 
-**Category:** [General Thinking](../index.html#general-thinking) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -51,4 +51,4 @@ Bezos's original application: he was a high-performing VP at D.E. Shaw, contempl
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

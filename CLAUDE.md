@@ -158,7 +158,18 @@ When a count legitimately changes: edit cards/manifest, run `npm run build`, the
 
 **Folder names do not map 1:1 to categories — the manifest is authoritative.** The `category` field in `skills-manifest.json` is the source of truth for which category a card belongs to; the folder it physically lives in is just storage. In particular the **Innovation & Entrepreneurship** category (23 cards) is split across three folders on disk — `Startups/` (14), `Business/` (8), and `Innovation-Entrepreneurship/` (1). Nothing is broken because every build script reads the manifest, not the folder name. Do not "fix" this by moving files unless you also update each moved card's path key in `skills-manifest.json` and re-run `npm run build`. When adding a card, set its `category` correctly in the manifest regardless of which folder you place the file in.
 
-**`docs/` is the only published site. `Skills Reference/*.html` is a deprecated duplicate.** The build writes exclusively to `docs/`. The older HTML copies under `Skills Reference/` (`index.html`, `graph.html`, `situation-finder.html`, `executive-scan.html`, `quick-reference.html`, `training-guide.html`, `skill-primer.html`) are no longer regenerated and are stale in both counts and data (e.g. `Skills Reference/graph.html` renders 780 connections, not 926). They should be removed: `git rm "Skills Reference/"*.html` (keep the `*.template.html` files — those are build inputs). Note that card markdown currently links to `../index.html`, i.e. the stale `Skills Reference/index.html`; once the duplicates are removed, repoint those links to the deck under `docs/` (or drop the link). Until then, treat only `docs/` as canonical.
+**`docs/` is the only published site. The old `Skills Reference/` HTML copies are deprecated.** The build writes exclusively to `docs/`. The older rendered HTML copies under `Skills Reference/` (`index.html`, `graph.html`, `situation-finder.html`, `executive-scan.html`, `quick-reference.html`, `training-guide.html`, `skill-primer.html`) are no longer regenerated and were stale in both counts and data; they have been removed.
+
+**⚠️ Do NOT delete with `git rm "Skills Reference/"*.html` — that glob also matches `deck.template.html` and `graph.template.html`, which are required build inputs.** Deleting them breaks `npm run build` (ENOENT on the template). Remove only the rendered copies, explicitly:
+
+```
+git rm "Skills Reference/index.html" "Skills Reference/graph.html" \
+       "Skills Reference/situation-finder.html" "Skills Reference/executive-scan.html" \
+       "Skills Reference/quick-reference.html" "Skills Reference/training-guide.html" \
+       "Skills Reference/skill-primer.html"
+```
+
+The two `*.template.html` files (and `deck.app.js`, `reference-sections.json`) must stay — they are the shells `npm run build` fills. Card markdown links have been repointed from `../index.html` to `../../docs/deck.html`, so nothing depends on the deleted `Skills Reference/index.html` anymore. Treat only `docs/` as canonical.
 
 ---
 

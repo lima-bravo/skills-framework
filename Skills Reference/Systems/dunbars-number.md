@@ -1,7 +1,7 @@
 # Dunbar's Number
 *The human brain can maintain stable relationships with roughly 150 people*
 
-**Category:** [Systems](../index.html#systems) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -61,4 +61,4 @@ The diagnosis: the organisation crossed Dunbar's Number without designing the in
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

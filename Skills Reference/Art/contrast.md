@@ -1,7 +1,7 @@
 # Contrast
 *Meaning emerges from difference*
 
-**Category:** [Art](../index.html#art) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Art](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -50,4 +50,4 @@ A consulting firm's presentations suffer from slide decks with 40 uniformly form
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

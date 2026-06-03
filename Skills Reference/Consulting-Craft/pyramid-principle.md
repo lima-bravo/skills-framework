@@ -1,7 +1,7 @@
 # Pyramid Principle
 *Answer first. Then support. Then evidence.*
 
-**Category:** [Consulting Craft](../index.html#consulting-craft) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -61,4 +61,4 @@ A consulting team prepares a CFO-facing recommendation on whether to centralize 
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

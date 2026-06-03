@@ -1,7 +1,7 @@
 # Viral Growth
 *Users generate users*
 
-**Category:** [Network Effects](../index.html#network-effects) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Network Effects](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -51,4 +51,4 @@ Hotmail's early growth is the canonical example. Every email sent by a Hotmail u
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

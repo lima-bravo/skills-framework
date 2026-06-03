@@ -1,7 +1,7 @@
 # AI Agent Governance Design
 *Designing the authority boundary architecture before an agentic system goes into production*
 
-**Category:** [Pre-built Chains](../index.html#pre-built-chains) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -151,4 +151,4 @@ Run a [Pre-mortem](../General-Thinking/pre-mortem.md) with the design team: what
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

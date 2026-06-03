@@ -1,7 +1,7 @@
 # T-Shaped
 *Deep expertise in one area; useful breadth in many*
 
-**Category:** [Learning](../index.html#learning) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Learning](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -50,4 +50,4 @@ A data scientist builds deep expertise in machine learning (vertical). Over five
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

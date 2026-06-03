@@ -1,7 +1,7 @@
 # Leverage
 *Multiply force through mechanism*
 
-**Category:** [Physics & Chemistry](../index.html#physics-chemistry) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -51,4 +51,4 @@ A founder spends the first year of her company answering customer support person
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

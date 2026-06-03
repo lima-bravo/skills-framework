@@ -1,7 +1,7 @@
 # Business Case Construction
 *A business case that can only survive friendly scrutiny is not a business case — it is a proposal dressed in numbers.*
 
-**Category:** [Business](../index.html#business) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -78,4 +78,4 @@ The revised case is approved at a reduced headline savings figure (£1.9M base c
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

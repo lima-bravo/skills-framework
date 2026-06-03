@@ -1,7 +1,7 @@
 # Disruptive Innovation
 *How entrants using simpler, cheaper technology serve overlooked customers and then improve until they displace incumbents — and why rational incumbents consistently fail to respond in time.*
 
-**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -54,4 +54,4 @@ Netflix's disruption of Blockbuster followed the textbook mechanism. Netflix lau
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

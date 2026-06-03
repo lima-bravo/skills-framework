@@ -1,7 +1,7 @@
 # MECE
 *Mutually Exclusive, Collectively Exhaustive — the structure of clear thinking*
 
-**Category:** [Consulting Craft](../index.html#consulting-craft) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -60,4 +60,4 @@ A retailer's CFO asks why operating margin is down 3 points. A first analyst res
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

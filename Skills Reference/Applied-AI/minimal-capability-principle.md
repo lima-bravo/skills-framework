@@ -1,7 +1,7 @@
 # Minimal Capability Principle
 *Grant only what the task requires, at the stage it requires it*
 
-**Category:** [Applied AI](../index.html#applied-ai) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Applied AI](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -77,4 +77,4 @@ The result: a hostile regulatory document that contains injected instructions ca
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -1,7 +1,7 @@
 # Monopoly vs. Competition
 *Market structure determines strategy*
 
-**Category:** [Economics](../index.html#economics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -51,4 +51,4 @@ Stripe entered the payments market dominated by established processors (PayPal, 
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

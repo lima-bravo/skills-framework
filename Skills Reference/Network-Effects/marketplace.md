@@ -1,7 +1,7 @@
 # Marketplace
 *Platforms that match supply and demand*
 
-**Category:** [Network Effects](../index.html#network-effects) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Network Effects](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -50,4 +50,4 @@ Airbnb's early chicken-and-egg solution: the founders craigslist-scraped attract
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

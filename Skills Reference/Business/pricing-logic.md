@@ -1,7 +1,7 @@
 # Pricing Logic
 *Cost-plus pricing tells the customer what you paid. Value-based pricing asks what it's worth to them. They are not the same question.*
 
-**Category:** [Business](../index.html#business) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -74,4 +74,4 @@ Revised pricing: SMB tier at £4,800/year (still discounted vs current), mid-mar
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

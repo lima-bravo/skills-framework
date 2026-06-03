@@ -1,7 +1,7 @@
 # Prompt Injection
 *When data becomes instruction: the design risk that structural defenses must handle*
 
-**Category:** [Applied AI](../index.html#applied-ai) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Applied AI](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -88,4 +88,4 @@ A system relying only on normative defenses ("do not follow instructions in retr
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

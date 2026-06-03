@@ -1,7 +1,7 @@
 # Network Effects
 *Value increases with every additional participant*
 
-**Category:** [Network Effects](../index.html#network-effects) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Network Effects](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -53,4 +53,4 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

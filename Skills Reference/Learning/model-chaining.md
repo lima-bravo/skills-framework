@@ -1,7 +1,7 @@
 # Model Chaining
 *Combine multiple mental models to understand complex situations*
 
-**Category:** [Learning](../index.html#learning) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Learning](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -49,4 +49,4 @@ A company is experiencing high customer churn despite strong product reviews. Mo
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

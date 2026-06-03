@@ -1,7 +1,7 @@
 # Capacity Planning
 *Eight-step chain to pressure-test a resource plan before committing to execution*
 
-**Category:** [Pre-built Chains](../index.html#12-pre-built-chains) | **[← Card Deck](../index.html)**
+**Category:** [Pre-built Chains](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -50,4 +50,4 @@ If Steps 1–7 show the plan is viable with honest numbers, and Step 8 confirms 
 → [**Incentives**](../Psychology/incentives.md) — process integrity check in Step 8
 
 ---
-*Part of the [Skills Framework](../index.html) — a structured collection of mental models for better thinking and decision-making.*
+*Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*

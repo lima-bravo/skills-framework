@@ -1,7 +1,7 @@
 # Learning Transfer
 *Apply insights from one domain to another*
 
-**Category:** [Learning](../index.html#learning) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Learning](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -51,4 +51,4 @@ A former military officer joins a startup as COO. Her military training: clear m
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -1,7 +1,7 @@
 # Alloying
 *Combining creates properties neither element has alone*
 
-**Category:** [Physics & Chemistry](../index.html#physics-chemistry) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -51,4 +51,4 @@ A consulting firm combines strategy expertise (good at defining what to do) with
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

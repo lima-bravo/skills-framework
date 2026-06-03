@@ -1,7 +1,7 @@
 # AI Use Case Autonomy Assessment
 *Determining what level of AI autonomy is appropriate and what governance it requires*
 
-**Category:** [Pre-built Chains](../index.html#pre-built-chains) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -117,4 +117,4 @@ Run a [Pre-mortem](../General-Thinking/pre-mortem.md) at this stage: assume the 
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

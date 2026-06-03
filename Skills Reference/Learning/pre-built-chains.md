@@ -1,7 +1,7 @@
 # Pre-built Chains
 *Structured multi-step reasoning protocols that sequence mental models in optimal order for recurring high-stakes decision types.*
 
-**Category:** [Learning](../index.html#10-learning) | **[← Card Deck](../index.html)**
+**Category:** [Learning](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -53,4 +53,4 @@ A founder is deciding whether to raise a Series A or continue bootstrapping. She
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

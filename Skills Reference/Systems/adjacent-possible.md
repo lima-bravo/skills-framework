@@ -1,7 +1,7 @@
 # Adjacent Possible
 *At any moment, innovation can only move into the space of possibilities adjacent to what currently exists — each step opens new doors, but you cannot skip rooms.*
 
-**Category:** [Systems](../index.html#2-systems) | **[← Card Deck](../index.html)**
+**Category:** [Systems](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -54,4 +54,4 @@ The emergence of the smartphone illustrates the sequential logic of the adjacent
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

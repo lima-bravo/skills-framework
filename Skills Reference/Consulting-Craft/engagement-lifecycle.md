@@ -1,7 +1,7 @@
 # Engagement Lifecycle
 *Diagnose — Design — Deliver — Detach*
 
-**Category:** [Consulting Craft](../index.html#consulting-craft) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -60,4 +60,4 @@ A 9-month transformation engagement for an insurer. Diagnose (weeks 1–6): valu
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

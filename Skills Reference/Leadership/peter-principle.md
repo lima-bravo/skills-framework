@@ -1,7 +1,7 @@
 # Peter Principle
 *In a hierarchy, people rise to their level of incompetence*
 
-**Category:** [Leadership](../index.html#leadership) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -60,4 +60,4 @@ Three years later, the firm has lost its best producer and has an underperformin
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

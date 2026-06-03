@@ -1,7 +1,7 @@
 # Value Creation and Capture
 *Creating value and keeping some of it are two different problems. Solving one doesn't solve the other.*
 
-**Category:** [Economics](../index.html#economics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -76,4 +76,4 @@ Strategic options: (1) Sell to payers who bear the readmission cost — direct c
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -1,7 +1,7 @@
 # Five-Hour Rule
 *Dedicate five hours per week to deliberate learning*
 
-**Category:** [Learning](../index.html#learning) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Learning](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -51,4 +51,4 @@ Naval Ravikant has described his reading practice: he reads many books simultane
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

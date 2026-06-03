@@ -1,7 +1,7 @@
 # Friction
 *Resistance that slows progress*
 
-**Category:** [Physics & Chemistry](../index.html#physics-chemistry) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -51,4 +51,4 @@ An engineering team's deployment process requires: code review (necessary), inte
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

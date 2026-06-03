@@ -1,7 +1,7 @@
 # Trust
 *The willingness to be vulnerable to another's actions, based on the expectation they will act in your interest.*
 
-**Category:** [Psychology](../index.html#5-psychology) | **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -54,4 +54,4 @@ A new engineering manager inherits a team that was previously micromanaged. The 
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

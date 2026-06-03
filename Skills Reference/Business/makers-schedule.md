@@ -1,7 +1,7 @@
 # Maker's Schedule vs. Manager's Schedule
 *A single meeting in a maker's afternoon doesn't cost one hour — it costs the whole block; managers and makers need fundamentally different calendars*
 
-**Category:** [Business](../index.html#7-business) | **[← Card Deck](../index.html)**
+**Category:** [Business](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -46,4 +46,4 @@ A senior engineer is allocated full-time to a critical project. Their calendar s
 → [**Conway's Law**](../Systems/conways-law.md) — org communication structures determine scheduling norms as a structural output
 
 ---
-*Part of the [Skills Framework](../index.html) — a structured collection of mental models for better thinking and decision-making.*
+*Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*

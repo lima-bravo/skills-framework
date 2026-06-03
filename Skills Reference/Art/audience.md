@@ -1,7 +1,7 @@
 # Audience
 *Design for a specific person, not everyone*
 
-**Category:** [Art](../index.html#art) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Art](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -50,4 +50,4 @@ A product team is designing onboarding for a B2B analytics tool. Their default a
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

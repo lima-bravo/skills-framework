@@ -1,7 +1,7 @@
 # Deep Work / Cognitive Capacity
 *Each person has roughly 3–4 hours of genuine deep work per day — plan around that ceiling, not an 8-hour assumption*
 
-**Category:** [Learning](../index.html#10-learning) | **[← Card Deck](../index.html)**
+**Category:** [Learning](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -47,4 +47,4 @@ A product manager plans a 4-week sprint for 6 engineers. Conventional capacity: 
 → [**Activation Energy**](../Physics-and-Chemistry/activation-energy.md) — every interruption resets the cognitive cost of re-entering deep focus
 
 ---
-*Part of the [Skills Framework](../index.html) — a structured collection of mental models for better thinking and decision-making.*
+*Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*

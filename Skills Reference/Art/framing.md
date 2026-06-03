@@ -1,7 +1,7 @@
 # Framing
 *The frame shapes how the content is received*
 
-**Category:** [Art](../index.html#art) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Art](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -53,4 +53,4 @@ A CFO needs to present a £2M cost overrun to the board. Two frames: Frame 1: "W
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

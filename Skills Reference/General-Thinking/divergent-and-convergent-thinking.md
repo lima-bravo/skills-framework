@@ -1,7 +1,7 @@
 # Divergent and Convergent Thinking
 *The two fundamental cognitive modes of innovation — generating many varied possibilities without judgment, then evaluating and selecting among them — which must be applied in sequence, not simultaneously.*
 
-**Category:** [General Thinking](../index.html#1-general-thinking) | **[← Card Deck](../index.html)**
+**Category:** [General Thinking](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -53,4 +53,4 @@ Pixar's story development process is one of the most documented and successful a
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

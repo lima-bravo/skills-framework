@@ -1,7 +1,7 @@
 # Planning Fallacy
 *We systematically underestimate time, cost, and risk — even when we know we do it, and even when we've been wrong before*
 
-**Category:** [Psychology](../index.html#5-psychology) | **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -46,4 +46,4 @@ A software team estimates a feature at 3 weeks. Their own reference class — fe
 → [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — exceptional early velocity regresses; plans that extrapolate it are doubly wrong
 
 ---
-*Part of the [Skills Framework](../index.html) — a structured collection of mental models for better thinking and decision-making.*
+*Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*

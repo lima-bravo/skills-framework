@@ -1,7 +1,7 @@
 # Three Horizons
 *Managing innovation investment across three time horizons simultaneously — optimizing the core, building emerging businesses, and creating future options — each requiring a fundamentally different management logic.*
 
-**Category:** [Innovation & Entrepreneurship](../index.html#innovation--entrepreneurship) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -54,4 +54,4 @@ Amazon's portfolio across the three horizons is a live case study. H1 is the e-c
 
 ---
 
-*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../index.html)*
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*
