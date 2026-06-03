@@ -6,8 +6,9 @@
     "build:deck": "node scripts/build-deck.mjs",
     "build:graph": "node scripts/build-graph.mjs",
     "build:guides": "node scripts/build-guides.mjs",
-    "build": "node scripts/build-deck.mjs && node scripts/build-graph.mjs && node scripts/build-guides.mjs",
+    "build": "node scripts/build-deck.mjs && node scripts/build-graph.mjs && node scripts/build-guides.mjs && node scripts/check-counts.mjs",
     "build:cowork": "node scripts/build-cowork-skills.mjs",
-    "validate:cowork": "node scripts/validate-cowork-skills.mjs"
+    "validate:cowork": "node scripts/validate-cowork-skills.mjs",
+    "check:counts": "node scripts/check-counts.mjs"
   }
 }

@@ -101,6 +101,26 @@ The graph picks up new `## Connections` entries automatically on rebuild — so 
 
 ---
 
+## Count integrity (automated guard)
+
+The hand-maintained counts above drifted once (every prose file said 226 while the manifest held 244). To stop that recurring, **`scripts/check-counts.mjs` is the single source of truth for every hard-coded count** and is chained into `npm run build` (and runnable alone via `npm run check:counts`). It derives the canonical numbers from `skills-manifest.json` (plus the generated graph and the `plugins/` tree) and asserts that every count written into `CLAUDE.md`, `README.md`, `_ai-index.md`, `skill-primer.md`, `training-guide.md`, and `life-decision.md` matches. A mismatch **fails the build** and prints `file:line  found X, expected Y`.
+
+Canonical numbers (do not hand-type these anywhere without updating the prose to match — the checker will catch you):
+
+| Quantity | Source of truth | Current |
+|---|---|---|
+| Total skills | `skills-manifest.json` keys | 244 |
+| Categories | distinct `category` values | 16 |
+| Pre-built chains | category = `Pre-built Chains` | 20 |
+| Non-chain cards | total − chains | 224 |
+| Sources / references | `manifest.refs.length` | 205 |
+| Graph connections | generated `docs/graph.html` | 926 |
+| Plugin (Cowork) skills | `SKILL.md` count under `plugins/` | 51 |
+
+When a count legitimately changes: edit cards/manifest, run `npm run build`, then read the checker output — it names the exact prose lines still to fix. If you reword a sentence that contains a count, update the matching regex in `check-counts.mjs` (a `NO MATCH` warning means the pattern no longer finds its line). This replaces the brittle manual "update the count in every ❌ file" steps above — those edits are still made by hand, but the checker now guarantees they were not missed.
+
+---
+
 ## Key file map
 
 **Source files (edit these):**
@@ -131,6 +151,14 @@ The graph picks up new `## Connections` entries automatically on rebuild — so 
 | Path | Contents |
 |---|---|
 | `Skills Framework.md` | Monolithic reference (pre-card-deck era; partial — 12 of 16 categories) |
+
+---
+
+## Known structural notes
+
+**Folder names do not map 1:1 to categories — the manifest is authoritative.** The `category` field in `skills-manifest.json` is the source of truth for which category a card belongs to; the folder it physically lives in is just storage. In particular the **Innovation & Entrepreneurship** category (23 cards) is split across three folders on disk — `Startups/` (14), `Business/` (8), and `Innovation-Entrepreneurship/` (1). Nothing is broken because every build script reads the manifest, not the folder name. Do not "fix" this by moving files unless you also update each moved card's path key in `skills-manifest.json` and re-run `npm run build`. When adding a card, set its `category` correctly in the manifest regardless of which folder you place the file in.
+
+**`docs/` is the only published site. `Skills Reference/*.html` is a deprecated duplicate.** The build writes exclusively to `docs/`. The older HTML copies under `Skills Reference/` (`index.html`, `graph.html`, `situation-finder.html`, `executive-scan.html`, `quick-reference.html`, `training-guide.html`, `skill-primer.html`) are no longer regenerated and are stale in both counts and data (e.g. `Skills Reference/graph.html` renders 780 connections, not 926). They should be removed: `git rm "Skills Reference/"*.html` (keep the `*.template.html` files — those are build inputs). Note that card markdown currently links to `../index.html`, i.e. the stale `Skills Reference/index.html`; once the duplicates are removed, repoint those links to the deck under `docs/` (or drop the link). Until then, treat only `docs/` as canonical.
 
 ---
 

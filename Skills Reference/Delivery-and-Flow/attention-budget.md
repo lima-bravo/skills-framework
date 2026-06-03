@@ -33,18 +33,13 @@ A leader who is "on" seven initiatives, six clients, and four programs simultane
 - **Calendar tetris as a strategy.** Filling every slot does not maximize output; it maximizes context-switch tax.
 - **Treating focus time as a perk.** It is operational infrastructure; without it, the system runs slower.
 - **Padding the budget for "small" items.** A 30-minute item with 4 days of background ambient thinking is not small. Count it.
+- **Treating focus-loss as a personal failure.** It is a systems problem. Diagnose at the system level — the operating model that creates this many concurrent demands — not the individual level.
 
 ---
 
 ## Worked Example
 
 A consulting partner running eight workstreams reports chronic delays and team frustration. An attention audit reveals 22 active commitments on the calendar, 14 of which the partner is the named decision-maker on. A 90-day reset caps concurrent active commitments at four; the remaining 18 are either transferred to other partners, paused with explicit owners, or killed. Within six weeks: response time on the four active commitments drops 4x, the partner reports having time to think for the first time in two years, and client satisfaction on the surviving four rises. The partner had not lacked time; they had lacked attention.
-
----
-
-## Common Failure Modes (cont.)
-
-- **Treating focus-loss as a personal failure.** It is a systems problem. Diagnose at the system level — the operating model that creates this many concurrent demands — not the individual level.
 
 ---
 
