@@ -1,7 +1,9 @@
 # Hindsight Bias
+*"I knew it all along" — the three most expensive words in a post-mortem.*
 
-**Category:** Psychology
-**Tagline:** "I knew it all along" — the three most expensive words in a post-mortem.
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -43,11 +45,11 @@ Hindsight bias turned an understandable gap in legacy system knowledge into an o
 
 ## Connections
 
-- **After-Action Review** — hindsight bias is the primary contaminant of poorly-run AARs; well-run AARs explicitly reconstruct the information state at decision time
-- **Survivorship Bias** — both biases make the past seem more orderly and predictable than it was; hindsight operates on outcomes, survivorship on populations
-- **Probabilistic Thinking** — the antidote: evaluating decisions by the probability distribution that was reasonably estimable at the time, not the single outcome that occurred
-- **Pre-Mortem** — proactively creates a written record of uncertainty before the outcome is known, providing an honest baseline for later retrospection
-- **Fundamental Attribution Error** — hindsight bias inflates the perceived foreseeability of outcomes; FAE then attributes the failure to miss them to character rather than the genuine difficulty of prediction
+→ [**After-Action Review**](../Leadership/after-action-review.md) — hindsight bias is the primary contaminant of poorly-run AARs; well-run AARs explicitly reconstruct the information state at decision time
+→ [**Survivorship Bias**](survivorship-bias.md) — both biases make the past seem more orderly and predictable than it was; hindsight operates on outcomes, survivorship on populations
+→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — the antidote: evaluating decisions by the probability distribution that was reasonably estimable at the time, not the single outcome that occurred
+→ [**Pre-Mortem**](../General-Thinking/pre-mortem.md) — proactively creates a written record of uncertainty before the outcome is known, providing an honest baseline for later retrospection
+→ [**Fundamental Attribution Error**](fundamental-attribution-error.md) — hindsight bias inflates the perceived foreseeability of outcomes; FAE then attributes the failure to miss them to character rather than the genuine difficulty of prediction
 
 ## References
 

@@ -1,7 +1,7 @@
 # Randomness
 *Many outcomes are noise, not signal*
 
-**Category:** [Mathematics](../index.html#mathematics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

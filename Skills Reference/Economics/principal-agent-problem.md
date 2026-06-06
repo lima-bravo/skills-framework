@@ -1,7 +1,9 @@
 # Principal–Agent Problem
+*When you delegate, the person acting on your behalf has different information and different incentives*
 
-**Category:** Economics
-**Tagline:** When you delegate, the person acting on your behalf has different information and different incentives
+**Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -36,16 +38,16 @@ A company pays its sales force a commission purely on bookings to align reps (ag
 
 ## Connections
 
-- **Goodhart's Law** — the operational mechanism: the metrics principals use to monitor agents become gameable targets
-- **Power Mapping** — power gaps often correspond to principal-agent misalignments; mapping who actually decides versus who formally decides surfaces where the agency problem is structurally embedded
-- **Coalition Building** — coalition members are agents whose private incentives may not fully align with the coalition's stated purpose; the principal-agent lens predicts where fracture is most likely
-- **Incentives** — the primary tool for mitigation
-- [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — many cobra dynamics are principal-agent problems: agents responsible for a change programme optimise for programme metrics rather than the underlying outcome
-- **Ladder of Inference** — principals draw conclusions about agents from limited observable data
-- **Psychological Safety** — agents with low psychological safety optimise for appearance, worsening the gap
-- [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — misaligned principal-agent incentives create equilibria where agents act against the principal's interest; changing the equilibrium requires changing the payoff structure
-- [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — principal-agent relationships often have a Prisoner's Dilemma structure: agents defect from principal interests when individual incentives dominate
-- [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
+→ [**Goodhart's Law**](goodharts-law.md) — the operational mechanism: the metrics principals use to monitor agents become gameable targets
+→ [**Power Mapping**](../Business/power-mapping.md) — power gaps often correspond to principal-agent misalignments; mapping who actually decides versus who formally decides surfaces where the agency problem is structurally embedded
+→ [**Coalition Building**](../Leadership/coalition-building.md) — coalition members are agents whose private incentives may not fully align with the coalition's stated purpose; the principal-agent lens predicts where fracture is most likely
+→ [**Incentives**](../Psychology/incentives.md) — the primary tool for mitigation
+→ [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — many cobra dynamics are principal-agent problems: agents responsible for a change programme optimise for programme metrics rather than the underlying outcome
+→ [**Ladder of Inference**](../General-Thinking/ladder-of-inference.md) — principals draw conclusions about agents from limited observable data
+→ [**Psychological Safety**](../Psychology/psychological-safety.md) — agents with low psychological safety optimise for appearance, worsening the gap
+→ [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — misaligned principal-agent incentives create equilibria where agents act against the principal's interest; changing the equilibrium requires changing the payoff structure
+→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — principal-agent relationships often have a Prisoner's Dilemma structure: agents defect from principal interests when individual incentives dominate
+→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
 
 ## References
 

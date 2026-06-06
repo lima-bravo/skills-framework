@@ -52,6 +52,7 @@ A bank's innovation portfolio funds 12 internal startups, each with a 12-month r
 → [**OKRs**](okrs.md) — failed KRs should trigger kill discussions, not redoubled effort.
 → [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — kill criteria are agreed at Step 5 before any experiment runs; without them, ideas become immortal
 → [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — kill criteria appear at every stage gate; the chain only works if gate decisions are honoured
+→ [**Reliability vs. Feature Velocity**](reliability-vs-velocity.md) — an error-budget exhaustion trigger is a pre-committed kill criterion for feature releases, removing the decision from real-time political pressure.
 
 ---
 

@@ -1,7 +1,7 @@
 # Improve Delivery Flow
 *Improve Delivery Flow*
 
-**Category:** [Pre-built Chains](../index.html#pre-built-chains) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

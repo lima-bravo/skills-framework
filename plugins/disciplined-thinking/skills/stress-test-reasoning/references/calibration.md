@@ -1,7 +1,7 @@
 # Calibration
 *Being right on any single call is luck. Being right at the rate you predicted is skill.*
 
-**Category:** [General Thinking](../index.html#general-thinking) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

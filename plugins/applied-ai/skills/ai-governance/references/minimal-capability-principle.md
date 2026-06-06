@@ -1,7 +1,7 @@
 # Minimal Capability Principle
 *Grant only what the task requires, at the stage it requires it*
 
-**Category:** [Applied AI](../index.html#applied-ai) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Applied AI](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

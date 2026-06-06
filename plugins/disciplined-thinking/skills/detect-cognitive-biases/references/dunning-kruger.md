@@ -1,7 +1,7 @@
 # Dunning-Kruger
 *Low competence produces high confidence; high competence produces appropriate humility*
 
-**Category:** [Psychology](../index.html#psychology) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

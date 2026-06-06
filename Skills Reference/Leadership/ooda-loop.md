@@ -1,7 +1,9 @@
 # OODA Loop
+*Observe, Orient, Decide, Act — win by cycling faster than your environment changes*
 
-**Category:** Leadership
-**Tagline:** Observe, Orient, Decide, Act — win by cycling faster than your environment changes
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -36,11 +38,11 @@ A challenger retailer competing against an incumbent with a slow annual planning
 
 ## Connections
 
-- **Mission Command** — creates the organisational permission structure for fast OODA cycling
-- **Second-Order Effects** — Orient must model what your Act will cause others to do next
-- **Confirmation Bias** — the single biggest degrader of the Orient stage
-- **Probabilistic Thinking** — holding multiple orientations in parallel
-- **Pre-mortem** — stress-testing the current orientation by running the loop backwards
+→ [**Mission Command**](mission-command.md) — creates the organisational permission structure for fast OODA cycling
+→ [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — Orient must model what your Act will cause others to do next
+→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the single biggest degrader of the Orient stage
+→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — holding multiple orientations in parallel
+→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — stress-testing the current orientation by running the loop backwards
 
 ## References
 

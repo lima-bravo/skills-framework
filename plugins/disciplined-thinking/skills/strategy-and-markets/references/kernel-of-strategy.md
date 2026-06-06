@@ -1,7 +1,7 @@
 # Kernel of Good Strategy
 *Diagnosis, guiding policy, coherent action*
 
-**Category:** [Business](../index.html#business) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

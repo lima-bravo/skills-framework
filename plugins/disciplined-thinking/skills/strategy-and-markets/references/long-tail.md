@@ -1,7 +1,7 @@
 # Long Tail
 *When distribution costs fall to near-zero, niche aggregates beat hits*
 
-**Category:** [Economics](../index.html#economics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

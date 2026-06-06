@@ -58,15 +58,15 @@ The revised case is approved at a reduced headline savings figure (£1.9M base c
 
 ## Connections
 
-- **Assumption Mapping** — the technique for extracting and prioritising the belief stack that underlies the financial projections; the high-criticality, low-certainty assumptions are the ones to stress-test first
-- **Reference Class Forecasting** — the method for anchoring projections to what comparable investments have actually delivered; every business case requires a reference class before any inside-view adjustment
-- **Calibration** — the discipline of honest uncertainty; a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive
-- **Kill Criteria** — every credible business case must state the conditions under which the investment should be stopped; without this, approval is unconditional and accountability is absent
-- **Unit Economics** — for growth investments, unit economics grounds the revenue projections; a case whose revenue model cannot be expressed in unit economic terms is building on unknown foundations
-- **Pyramid Principle** — the structural principle for presenting the case: decision and recommendation first, then the supporting analysis
-- **Sunk Cost** — the most common failure in mid-investment reviews; a business case that has been approved becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence
-- **Observer Bias** — the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence
-- **[Value Realization](value-realization.md)** — the discipline that completes the loop this card starts: a business case states what should happen if approved; value realization is how the organisation finds out, after the money is spent, whether it actually did
+→ [**Assumption Mapping**](assumption-mapping.md) — the technique for extracting and prioritising the belief stack that underlies the financial projections; the high-criticality, low-certainty assumptions are the ones to stress-test first
+→ [**Reference Class Forecasting**](../Delivery-and-Flow/reference-class-forecasting.md) — the method for anchoring projections to what comparable investments have actually delivered; every business case requires a reference class before any inside-view adjustment
+→ [**Calibration**](../General-Thinking/calibration.md) — the discipline of honest uncertainty; a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive
+→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — every credible business case must state the conditions under which the investment should be stopped; without this, approval is unconditional and accountability is absent
+→ [**Unit Economics**](../Economics/unit-economics.md) — for growth investments, unit economics grounds the revenue projections; a case whose revenue model cannot be expressed in unit economic terms is building on unknown foundations
+→ [**Pyramid Principle**](../Consulting-Craft/pyramid-principle.md) — the structural principle for presenting the case: decision and recommendation first, then the supporting analysis
+→ [**Sunk Cost**](../Psychology/sunk-cost.md) — the most common failure in mid-investment reviews; a business case that has been approved becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence
+→ [**Observer Bias**](../Psychology/observer-bias.md) — the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence
+→ [**Value Realization**](value-realization.md) — the discipline that completes the loop this card starts: a business case states what should happen if approved; value realization is how the organisation finds out, after the money is spent, whether it actually did
 
 ---
 

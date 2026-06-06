@@ -49,6 +49,8 @@ A 9-month transformation engagement for an insurer. Diagnose (weeks 1–6): valu
 → [**Theory of Change**](../Business/theory-of-change.md) — the design phase articulates the theory.
 → [**Change Management**](../Leadership/change-management.md) — design and deliver phases run change at the same time.
 → [**Hypothesis-Driven Consulting**](hypothesis-driven.md) — diagnosis runs on hypothesis-driven work.
+→ [**Coaching Stance**](coaching-stance.md) — the choice between expert and coaching stance is made at contracting and shapes the entire engagement model.
+→ [**Facilitation**](facilitation.md) — workshop and discovery phases of the engagement lifecycle require facilitation design; structure determines whose intelligence the work uses.
 
 ---
 

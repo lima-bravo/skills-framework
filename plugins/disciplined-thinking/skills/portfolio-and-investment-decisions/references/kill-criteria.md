@@ -1,7 +1,7 @@
 # Kill Criteria
 *The conditions under which you stop*
 
-**Category:** [Delivery & Flow](../index.html#delivery-flow) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -47,6 +47,7 @@ A bank's innovation portfolio funds 12 internal startups, each with a 12-month r
 → [**Pivot or Persevere**](../Startups/pivot-or-persevere.md) — kill criteria are a third option (quit) often missing from the binary.
 → [**Sunk Cost**](../Psychology/sunk-cost.md) — the bias kill criteria are designed to counter.
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortem evidence is one source of kill criteria.
+→ [**Value Realization**](../Business/value-realization.md) — the same "decide the threshold before you're invested in the answer" discipline, extended past launch into the post-approval period: when does a shortfall trigger an honest reckoning rather than a quiet redefinition of success?
 → [**Cost of Delay**](cost-of-delay.md) — initiatives with collapsed cost of delay are kill candidates.
 → [**OKRs**](okrs.md) — failed KRs should trigger kill discussions, not redoubled effort.
 → [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — kill criteria are agreed at Step 5 before any experiment runs; without them, ideas become immortal

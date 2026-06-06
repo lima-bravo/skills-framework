@@ -1,7 +1,9 @@
 # Goodhart's Law
+*When a measure becomes a target, it ceases to be a good measure*
 
-**Category:** Economics
-**Tagline:** When a measure becomes a target, it ceases to be a good measure
+**Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -38,14 +40,16 @@ A hospital system under pressure to cut emergency-department waiting times sets 
 
 ## Connections
 
-- **Unit Economics** — CAC and LTV are the metrics most vulnerable to Goodhart's Law; organisations that target them directly distort the customer acquisition mix or inflate LTV projections
-- **Incentives** — Goodhart's Law is the failure mode of incentive systems
-- [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — the Cobra Effect is Goodhart's Law with structural lock-in: the measurement programme itself sustains the problem it was designed to solve
-- **Principal-Agent Problem** — agents optimise what they're measured on, not necessarily what principals want
-- **Feedback Loops** — measurement creates feedback loops that can go reinforcing in the wrong direction
-- **Optimization** — local optimisation of a proxy metric is how this failure mode manifests
-- [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when shared metrics are used to manage shared resources, Goodhart's Law can weaponise the measurement system itself
-- [**KPI Architecture**](../Business/kpi-architecture.md) — the design discipline that builds Goodhart-drift detection into the measurement system itself: small metric sets, named owners, and review cadences fast enough to catch a proxy curdling into a target
+→ [**Unit Economics**](unit-economics.md) — CAC and LTV are the metrics most vulnerable to Goodhart's Law; organisations that target them directly distort the customer acquisition mix or inflate LTV projections
+→ [**Incentives**](../Psychology/incentives.md) — Goodhart's Law is the failure mode of incentive systems
+→ [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — the Cobra Effect is Goodhart's Law with structural lock-in: the measurement programme itself sustains the problem it was designed to solve
+→ [**Principal-Agent Problem**](principal-agent-problem.md) — agents optimise what they're measured on, not necessarily what principals want
+→ [**Feedback Loops**](../Systems/feedback-loops.md) — measurement creates feedback loops that can go reinforcing in the wrong direction
+→ [**Optimization**](optimization.md) — local optimisation of a proxy metric is how this failure mode manifests
+→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when shared metrics are used to manage shared resources, Goodhart's Law can weaponise the measurement system itself
+→ [**KPI Architecture**](../Business/kpi-architecture.md) — the design discipline that builds Goodhart-drift detection into the measurement system itself: small metric sets, named owners, and review cadences fast enough to catch a proxy curdling into a target
+
+→ [**Fixes That Fail**](../Systems/fixes-that-fail.md) — symptomatic fixes that target a metric while leaving the underlying dynamic intact are Goodhart's Law in action: the measure improves while the thing it was measuring continues to degrade.
 
 ## References
 

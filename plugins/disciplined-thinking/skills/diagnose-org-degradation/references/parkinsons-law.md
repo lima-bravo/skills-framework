@@ -1,7 +1,7 @@
 # Parkinson's Law
 *Work expands to fill the time available for its completion*
 
-**Category:** [Business](../index.html#business) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

@@ -5,7 +5,7 @@
 
 ## What This Guide Is For
 
-You have access to **253 skills** across **16 categories** (232 mental-model cards plus 21 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`docs/deck.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
+You have access to **260 skills** across **16 categories** (239 mental-model cards plus 21 pre-built decision chains), organized three ways: a master reference document (`Skills Framework.md`), a searchable card deck (`docs/deck.html`), and individual deep-dive files under `Skills Reference/`. The framework is only as useful as your ability to retrieve and apply it under pressure. This guide teaches you how to do that.
 
 It covers four things:
 
@@ -22,7 +22,7 @@ It covers four things:
 
 The framework has four layers, each suited to different moments:
 
-**The connection graph (`graph.html`)** is your discovery layer — the recommended first stop when you don't already know which skill you need. It shows all 253 skills as an interactive network, with edges representing documented connections between models. Click a node to see its connections; click a connected node to follow the thread. This layer is most valuable when the problem is open-ended, when you sense a concept is relevant but can't name it, or when you want to find the models that cluster around one you already know. The graph reveals which models work together in ways that a category list cannot.
+**The connection graph (`graph.html`)** is your discovery layer — the recommended first stop when you don't already know which skill you need. It shows all 260 skills as an interactive network, with edges representing documented connections between models. Click a node to see its connections; click a connected node to follow the thread. This layer is most valuable when the problem is open-ended, when you sense a concept is relevant but can't name it, or when you want to find the models that cluster around one you already know. The graph reveals which models work together in ways that a category list cannot.
 
 **The card deck (`docs/deck.html`)** is your working surface. Open it when you know roughly what you're looking for — search by keyword, filter by category, and expand a card to read the mental model and heuristics. Use it in the moment when facing a specific decision or problem.
 
@@ -53,13 +53,13 @@ The categories are not arbitrary. They reflect different levels of abstraction a
 | Applied AI | 3 | AI governance, authority boundaries, agentic system design |
 | Pre-built Chains | 19 | High-stakes recurring decisions and structured methodologies |
 
-*Skill counts match `skills-manifest.json` (253 total).*
+*Skill counts match `skills-manifest.json` (260 total).*
 
 When you don't know which category applies, **start with the graph** (`graph.html`). Click any node that looks relevant and follow its connections — the proximity of models in the graph reflects how often they are applied together. If you already have a keyword or category in mind, the card deck search is faster. For delivery, prioritization, or organizational flow questions, filter **Delivery & Flow** or run a chain such as **Improve Delivery Flow**. For AI deployment and governance questions, go directly to **Applied AI** and the two AI chains.
 
 ### The two types of content in the deck
 
-**Mental model cards** (232 cards across 15 categories) are standalone conceptual tools. Each one describes a pattern — how a specific class of situation tends to work — and gives you practitioner heuristics for applying it. You use them individually or chain them together.
+**Mental model cards** (239 cards across 15 categories) are standalone conceptual tools. Each one describes a pattern — how a specific class of situation tends to work — and gives you practitioner heuristics for applying it. You use them individually or chain them together.
 
 **Pre-built chains** (17 chains in the Pre-built Chains category) are structured multi-step workflows for specific recurring situations. They sequence multiple mental models in the right order. Use a chain when you are facing one of the situations it names — don't build your own chain from scratch for those situations.
 
@@ -99,7 +99,7 @@ Do not try to memorize the framework. Mental models become useful when they are 
 
 ### Prioritizing what to learn first
 
-With 253 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):
+With 260 skills, the question of where to start matters. A suggested learning sequence (priority tiers, not an exhaustive list):
 
 **Tier 1 — Master these first** (12 skills). These are the highest-utility, most-used models. Most other skills build on them or are checked by them:
 
@@ -321,7 +321,7 @@ Confirmation bias operating through the framework: you want to take a particular
 
 ### Paralysis through completeness
 
-Believing that every decision requires exhaustive model application before action. The framework has 253 skills; applying all of them to any given decision would take weeks. This is not the intent.
+Believing that every decision requires exhaustive model application before action. The framework has 260 skills; applying all of them to any given decision would take weeks. This is not the intent.
 
 **Fix**: Match the rigor of the analysis to the reversibility and stakes of the decision. Two-Way Doors gives you the principle: reversible decisions deserve quick analysis and fast action; irreversible ones deserve deeper analysis. Most decisions are more reversible than they feel.
 
@@ -455,4 +455,4 @@ Pick one model from Tier 1 (listed above). Open its card in the deck. Read the m
 
 ---
 
-*Skills Framework · 253 skills across 16 categories · canonical counts in `skills-manifest.json`*
+*Skills Framework · 260 skills across 16 categories · canonical counts in `skills-manifest.json`*

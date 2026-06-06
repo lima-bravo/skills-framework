@@ -1,7 +1,7 @@
 # Audience
 *Design for a specific person, not everyone*
 
-**Category:** [Art](../index.html#art) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Art](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

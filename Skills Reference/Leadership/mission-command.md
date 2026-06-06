@@ -1,7 +1,9 @@
 # Mission Command
+*Communicate intent, not method — then trust the person closest to the problem to decide*
 
-**Category:** Leadership
-**Tagline:** Communicate intent, not method — then trust the person closest to the problem to decide
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -37,10 +39,14 @@ L. David Marquet took command of the USS Santa Fe, the worst-performing submarin
 
 ## Connections
 
-- **OODA Loop** — the decision cycle that mission command enables
-- **Pre-mortem** — mission briefs should surface the trigger conditions for improvisation
-- **First Principles** — communicating intent forces articulation of the first-principles rationale
-- **Capacity Planning** — requires delegated accountability; mission command is the cultural infrastructure
+→ [**OODA Loop**](ooda-loop.md) — the decision cycle that mission command enables
+→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — mission briefs should surface the trigger conditions for improvisation
+→ [**First Principles**](../General-Thinking/first-principles.md) — communicating intent forces articulation of the first-principles rationale
+→ [**Capacity Planning**](../Pre-built-Chains/capacity-planning.md) — requires delegated accountability; mission command is the cultural infrastructure
+
+→ [**Span of Control**](../Delivery-and-Flow/span-of-control.md) — effective mission command requires a team small enough for shared understanding of intent; groups larger than Dunbar's 15 cannot maintain the mutual context that autonomous action requires.
+
+→ [**Coaching Stance**](../Consulting-Craft/coaching-stance.md) — mission command and coaching stance share the same underlying belief: those closest to the problem have better information than the center, and the center's job is to enable their judgment, not replace it.
 
 ## References
 

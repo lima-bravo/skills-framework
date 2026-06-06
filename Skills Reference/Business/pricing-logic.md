@@ -56,12 +56,12 @@ Revised pricing: SMB tier at £4,800/year (still discounted vs current), mid-mar
 
 ## Connections
 
-- **Value Creation and Capture** — the upstream model: value-based pricing is only possible if you understand what value is created and what determines how much of it can be captured; this card is the practical expression of that logic. *Note: these cards are closely related — read Value Creation and Capture first if pricing logic is new territory.*
-- **Unit Economics** — the downstream check: does the pricing model produce unit economics (LTV:CAC, contribution margin) that make the business viable at scale?
-- **Pricing Decision** (Pre-built Chain) — the full decision sequence including customer psychology, competitive positioning, and pricing change management; this card provides the conceptual foundation that chain operationalises. *Note: there is deliberate overlap — the chain applies these models in sequence.*
-- **Anchoring** — the psychological mechanism that makes initial price points sticky; the most important implication is that starting prices are very hard to raise later
-- **Loss Aversion** — customers evaluate price increases as losses from their current anchor; the magnitude of the loss response is roughly 2× the magnitude of an equivalent gain response — price increases are psychologically harder than the mathematics suggest
-- **Goodhart's Law** — when revenue or margin targets become primary pricing drivers, pricing degrades into a number-hitting exercise rather than a value-capture discipline
+→ [**Value Creation and Capture**](../Economics/value-creation-capture.md) — the upstream model: value-based pricing is only possible if you understand what value is created and what determines how much of it can be captured; this card is the practical expression of that logic. *Note: these cards are closely related — read Value Creation and Capture first if pricing logic is new territory.*
+→ [**Unit Economics**](../Economics/unit-economics.md) — the downstream check: does the pricing model produce unit economics (LTV:CAC, contribution margin) that make the business viable at scale?
+→ [**Pricing Decision**](../Pre-built-Chains/pricing-decision.md) (Pre-built Chain) — the full decision sequence including customer psychology, competitive positioning, and pricing change management; this card provides the conceptual foundation that chain operationalises. *Note: there is deliberate overlap — the chain applies these models in sequence.*
+→ [**Anchoring**](../Psychology/anchoring.md) — the psychological mechanism that makes initial price points sticky; the most important implication is that starting prices are very hard to raise later
+→ [**Loss Aversion**](../Psychology/loss-aversion.md) — customers evaluate price increases as losses from their current anchor; the magnitude of the loss response is roughly 2× the magnitude of an equivalent gain response — price increases are psychologically harder than the mathematics suggest
+→ [**Goodhart's Law**](../Economics/goodharts-law.md) — when revenue or margin targets become primary pricing drivers, pricing degrades into a number-hitting exercise rather than a value-capture discipline
 
 ---
 

@@ -1,7 +1,9 @@
 # Survivorship Bias
+*You only see the winners — the losers have already left the room.*
 
-**Category:** Psychology
-**Tagline:** You only see the winners — the losers have already left the room.
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -43,13 +45,13 @@ A survivorship-aware analysis would start with all 18 acquisition attempts, code
 
 ## Connections
 
-- **Confirmation Bias** — both biases filter evidence; survivorship filters by visibility, confirmation filters by desirability
-- **After-Action Review** — AAR is the structural antidote: it forces examination of what went wrong, not just what worked
-- **Hindsight Bias** — frequently co-occurs; once you know something succeeded, survivorship bias reinforces the illusion that it was always going to
-- **First Principles Thinking** — cutting through survivor-sourced conventional wisdom requires rebuilding reasoning from ground truth
-- **Probabilistic Thinking** — the correction for survivorship bias is explicitly reasoning over the full distribution, not just the visible tail
-- [**Black Swan**](../General-Thinking/black-swan.md) — survivorship bias compounds the Black Swan problem: we study organisations that survived tail events, which systematically underrepresents the frequency and impact of those events
-- [**Power Law**](../Mathematics/power-law.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is
+→ [**Confirmation Bias**](confirmation-bias.md) — both biases filter evidence; survivorship filters by visibility, confirmation filters by desirability
+→ [**After-Action Review**](../Leadership/after-action-review.md) — AAR is the structural antidote: it forces examination of what went wrong, not just what worked
+→ [**Hindsight Bias**](hindsight-bias.md) — frequently co-occurs; once you know something succeeded, survivorship bias reinforces the illusion that it was always going to
+→ [**First Principles Thinking**](../General-Thinking/first-principles.md) — cutting through survivor-sourced conventional wisdom requires rebuilding reasoning from ground truth
+→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — the correction for survivorship bias is explicitly reasoning over the full distribution, not just the visible tail
+→ [**Black Swan**](../General-Thinking/black-swan.md) — survivorship bias compounds the Black Swan problem: we study organisations that survived tail events, which systematically underrepresents the frequency and impact of those events
+→ [**Power Law**](../Mathematics/power-law.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is
 
 ## References
 

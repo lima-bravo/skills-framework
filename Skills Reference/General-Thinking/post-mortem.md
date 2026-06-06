@@ -24,6 +24,7 @@ Every outcome is an experiment whose results should update future behavior. With
 - **Write it down and make it searchable.** An unwritten post-mortem benefits only the people in the room. A written post-mortem, searchable by future team members, compounds over time.
 - **Track whether actions were completed.** Post-mortems that generate action items that are never completed are theater. Assign owners, due dates, and a review in the next post-mortem.
 - **Review a collection of post-mortems periodically for patterns.** Individual post-mortems surface specific causes; reviewing a set of post-mortems surfaces the systemic themes that show up repeatedly. These themes are the most valuable organizational learning.
+- **Run post-mortems blameless by design, not by aspiration.** Declaring a post-mortem "blameless" is not sufficient if the culture treats candor as a career risk. The operating norms that make blamelessness real: no action items directed at individuals ("the engineer should have caught this"), no performance-review language in post-mortem documents, explicit leader modeling ("I made the call that led to this outcome, here is what I would do differently"), and psychological safety strong enough that people describe their own reasoning errors in the timeline. Without these norms, blameless post-mortems produce technically accurate timelines with strategically incomplete accounts of who knew what and when.
 
 ---
 

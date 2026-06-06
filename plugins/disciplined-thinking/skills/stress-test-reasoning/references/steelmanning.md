@@ -1,7 +1,7 @@
 # Steelmanning
 *Build the strongest possible version of the opposing view before engaging it*
 
-**Category:** [General Thinking](../index.html#general-thinking) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

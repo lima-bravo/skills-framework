@@ -1,7 +1,7 @@
 # Ladder of Inference
 *Understand the gap between data and belief*
 
-**Category:** [General Thinking](../index.html#general-thinking) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

@@ -1,7 +1,9 @@
 # Commitment & Consistency Bias
+*Once we've taken a position, we defend it — not because it's right, but because it's ours.*
 
-**Category:** Psychology
-**Tagline:** Once we've taken a position, we defend it — not because it's right, but because it's ours.
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -45,12 +47,12 @@ A consistency-aware culture would have pre-specified the conditions under which 
 
 ## Connections
 
-- **Sunk Cost** — consistency bias is the psychological mechanism; sunk cost fallacy is the economic framing of the same error
-- **Dominant Logic** — organisation-level consistency bias: the founding narrative that must be defended because it is central to institutional identity
-- **Kill Criteria** — the structural antidote: pre-specified exit conditions that bypass the in-the-moment consistency pull
-- **Falsification** — both concern the failure to update on disconfirming evidence; consistency bias describes the motivational barrier, falsification describes the epistemic discipline
-- **Confirmation Bias** — closely related; consistency bias generates the motivation to seek confirming evidence rather than falsifying evidence
-- **After-Action Review** — properly run AARs create a safe container for updating on past decisions without triggering consistency defence
+→ [**Sunk Cost**](sunk-cost.md) — consistency bias is the psychological mechanism; sunk cost fallacy is the economic framing of the same error
+→ [**Dominant Logic**](../Business/dominant-logic.md) — organisation-level consistency bias: the founding narrative that must be defended because it is central to institutional identity
+→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — the structural antidote: pre-specified exit conditions that bypass the in-the-moment consistency pull
+→ [**Falsification**](falsification.md) — both concern the failure to update on disconfirming evidence; consistency bias describes the motivational barrier, falsification describes the epistemic discipline
+→ [**Confirmation Bias**](confirmation-bias.md) — closely related; consistency bias generates the motivation to seek confirming evidence rather than falsifying evidence
+→ [**After-Action Review**](../Leadership/after-action-review.md) — properly run AARs create a safe container for updating on past decisions without triggering consistency defence
 
 ## References
 

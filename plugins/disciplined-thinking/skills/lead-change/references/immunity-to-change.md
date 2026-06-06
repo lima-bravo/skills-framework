@@ -1,7 +1,7 @@
 # Immunity to Change
 *Why rational plans fail in irrational systems*
 
-**Category:** [Psychology](../index.html#psychology) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

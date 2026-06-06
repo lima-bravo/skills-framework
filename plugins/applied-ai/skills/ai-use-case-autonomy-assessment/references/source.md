@@ -1,7 +1,7 @@
 # AI Use Case Autonomy Assessment
 *Determining what level of AI autonomy is appropriate and what governance it requires*
 
-**Category:** [Pre-built Chains](../index.html#pre-built-chains) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

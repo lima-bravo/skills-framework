@@ -1,7 +1,7 @@
 # WIP Limits
 *Explicit caps on work-in-progress that pull, rather than push, new work*
 
-**Category:** [Delivery & Flow](../index.html#delivery-flow) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -33,18 +33,13 @@ Think of a buffet line with one chef and four pans. A pull system says: only whe
 - **Limit without policy.** WIP limits without explicit policies on what to do when blocked (swarm? escalate? park?) devolve into queues elsewhere.
 - **Punishing teams for hitting limits.** The limit being hit is the system surfacing a problem. Treating it as a team failure teaches teams to hide WIP.
 - **Limiting team WIP while admitting unlimited portfolio WIP.** The pressure migrates upward and reappears as estimation pressure, scope creep, and missed dates.
+- **Treating WIP limits as agile theater.** They are an operational constraint with economic implications, not a ritual.
 
 ---
 
 ## Worked Example
 
 A marketing operations team has 22 campaigns in flight across 8 people. Cycle time has crept from three weeks to nine. Leadership's instinct is "we need to hire." Instead, the team sets a WIP limit of 12 (current minus 10) and a swarm policy for blocked items. In the first two weeks, three campaigns finish, two are killed (no one could justify them), and a stakeholder priority conversation surfaces that wasn't happening before. Cycle time on completed work falls to four weeks. No new hires; the lever was admission control.
-
----
-
-## Common Failure Modes (cont.)
-
-- **Treating WIP limits as agile theater.** They are an operational constraint with economic implications, not a ritual.
 
 ---
 

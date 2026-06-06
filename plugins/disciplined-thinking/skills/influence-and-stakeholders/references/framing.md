@@ -1,7 +1,7 @@
 # Framing
 *The frame shapes how the content is received*
 
-**Category:** [Art](../index.html#art) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Art](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

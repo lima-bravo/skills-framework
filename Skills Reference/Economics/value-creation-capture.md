@@ -57,14 +57,14 @@ Strategic options: (1) Sell to payers who bear the readmission cost — direct c
 
 ## Connections
 
-- **Unit Economics** — unit economics measures value capture at the customer level; this card explains the structural reasons capture rates are what they are
-- **Pricing Logic** — pricing is the primary mechanism for setting the producer's share of created value; value-based pricing is the discipline of pricing to value created rather than cost incurred
-- **Wardley Mapping** — evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where capture is flowing
-- **Monopoly vs. Competition** — competitive markets drive capture toward zero; monopoly structures maximise capture; most real businesses operate between these poles
-- **Network Effects** — network effects are one of the strongest capture mechanisms: as the network grows, switching costs rise and the share of created value that can be captured increases
-- **Disruptive Innovation** — disruption often involves creating a new value creation/capture pairing that incumbent players can't match without destroying their existing capture mechanism
-- **Business Model Canvas** — the revenue streams section of the canvas is the capture design; the value proposition section is the creation design; misalignment between the two is the most common business model failure
-- [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — this card explains *why* value capture concentrates where it does at the level of a single firm or transaction; profit pool analysis maps the same dynamic across an entire market or value chain, asking where the capture concentrates system-wide and why
+→ [**Unit Economics**](unit-economics.md) — unit economics measures value capture at the customer level; this card explains the structural reasons capture rates are what they are
+→ [**Pricing Logic**](../Business/pricing-logic.md) — pricing is the primary mechanism for setting the producer's share of created value; value-based pricing is the discipline of pricing to value created rather than cost incurred
+→ [**Wardley Mapping**](../Business/wardley-mapping.md) — evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where capture is flowing
+→ [**Monopoly vs. Competition**](monopoly-vs-competition.md) — competitive markets drive capture toward zero; monopoly structures maximise capture; most real businesses operate between these poles
+→ [**Network Effects**](../Network-Effects/network-effects.md) — network effects are one of the strongest capture mechanisms: as the network grows, switching costs rise and the share of created value that can be captured increases
+→ [**Disruptive Innovation**](../Business/disruptive-innovation.md) — disruption often involves creating a new value creation/capture pairing that incumbent players can't match without destroying their existing capture mechanism
+→ [**Business Model Canvas**](../Business/business-model-canvas.md) — the revenue streams section of the canvas is the capture design; the value proposition section is the creation design; misalignment between the two is the most common business model failure
+→ [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — this card explains *why* value capture concentrates where it does at the level of a single firm or transaction; profit pool analysis maps the same dynamic across an entire market or value chain, asking where the capture concentrates system-wide and why
 
 ---
 

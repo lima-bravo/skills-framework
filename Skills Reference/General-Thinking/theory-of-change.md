@@ -1,7 +1,9 @@
 # Theory of Change
+*Inputs → Activities → Outputs → Outcomes → Impact: make the causal logic explicit, then test the assumptions*
 
-**Category:** General Thinking
-**Tagline:** Inputs → Activities → Outputs → Outcomes → Impact: make the causal logic explicit, then test the assumptions
+**Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -33,11 +35,11 @@ A foundation funds a programme to improve youth employment by running CV-writing
 
 ## Connections
 
-- **First Principles** — forces the question of why each causal link is expected to hold
-- **Pre-mortem** — stress-tests which assumptions are most likely to fail
-- **Experiment Design** — the assumptions are hypotheses; experiments test them
-- **Scenario Planning** — complementary: scenario planning asks what futures are plausible; ToC asks what pathway gets you there
-- **Change Management** — Kotter's model is a Theory of Change with embedded assumptions about psychology and organisations
+→ [**First Principles**](first-principles.md) — forces the question of why each causal link is expected to hold
+→ [**Pre-mortem**](pre-mortem.md) — stress-tests which assumptions are most likely to fail
+→ [**Experiment Design**](../Business/experiment-design.md) — the assumptions are hypotheses; experiments test them
+→ [**Scenario Planning**](../Business/scenario-planning.md) — complementary: scenario planning asks what futures are plausible; ToC asks what pathway gets you there
+→ [**Change Management**](../Leadership/change-management.md) — Kotter's model is a Theory of Change with embedded assumptions about psychology and organisations
 
 ## References
 

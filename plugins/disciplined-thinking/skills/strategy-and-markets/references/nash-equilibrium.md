@@ -1,7 +1,7 @@
 # Nash Equilibrium
 *A stable state where no player can improve by changing strategy alone*
 
-**Category:** [Economics](../index.html#economics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

@@ -49,6 +49,8 @@ An enterprise IT organization with 8 product teams is asked to "improve delivery
 → [**Outcome vs Output**](outcome-vs-output.md) — DORA measures delivery capability; outcome measures the value it produces.
 → [**Trade-offs**](../Economics/trade-offs.md) — DORA's stability vs throughput pairing reframes the classic trade-off as falsely posed.
 → [**Conway's Law**](../Systems/conways-law.md) — DORA performance correlates with team-aligned-to-stream architecture.
+→ [**Technical Debt**](technical-debt.md) — rising Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production.
+→ [**Reliability vs. Feature Velocity**](reliability-vs-velocity.md) — DORA's four metrics are the inputs to error budget burn rate; Change Failure Rate and MTTR govern the reliability side of the trade-off.
 
 ---
 

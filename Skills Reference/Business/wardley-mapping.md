@@ -1,6 +1,9 @@
 # Wardley Mapping
-**Category:** Business
-**Tagline:** A map that shows not just where things are, but which direction they're moving.
+*A map that shows not just where things are, but which direction they're moving.*
+
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -48,13 +51,13 @@ Decision: adopt cloud-native data platform and managed ML tooling; redirect 60% 
 
 ## Connections
 
-- **Adjacent Possible** — Wardley Maps reveal which moves are adjacent: components at the Genesis/Custom boundary are where the adjacent possible is open; Commodity components are closed.
-- **Disruptive Innovation** — commoditisation is the mechanism Christensen describes from the demand side; Wardley describes it from the supply and evolution side. The two models are complementary diagnostics of the same phenomenon.
-- **Three Horizons** — Horizon 1 maps to Commodity/Product (manage and extend); Horizon 2 to Custom (transition and build); Horizon 3 to Genesis (explore). The frameworks compose naturally.
-- **Kernel of Good Strategy** — a Wardley Map is a tool for developing the "diagnosis" component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
-- **Exploration vs. Exploitation** — Genesis/Custom components warrant exploration; Product/Commodity components warrant exploitation. The map tells you which mode applies where.
-- **Build-Measure-Learn** — applies at the Genesis/Custom end of the map, where hypothesis testing is the right mode; inappropriate at Commodity, where adoption beats experimentation.
-- **Scenario Planning** — Wardley Maps can be projected into the future (where will each component sit in three years?), producing the alternative futures that scenario planning works with.
+→ [**Adjacent Possible**](../Systems/adjacent-possible.md) — Wardley Maps reveal which moves are adjacent: components at the Genesis/Custom boundary are where the adjacent possible is open; Commodity components are closed.
+→ [**Disruptive Innovation**](disruptive-innovation.md) — commoditisation is the mechanism Christensen describes from the demand side; Wardley describes it from the supply and evolution side. The two models are complementary diagnostics of the same phenomenon.
+→ [**Three Horizons**](three-horizons.md) — Horizon 1 maps to Commodity/Product (manage and extend); Horizon 2 to Custom (transition and build); Horizon 3 to Genesis (explore). The frameworks compose naturally.
+→ [**Kernel of Good Strategy**](kernel-of-strategy.md) — a Wardley Map is a tool for developing the "diagnosis" component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
+→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — Genesis/Custom components warrant exploration; Product/Commodity components warrant exploitation. The map tells you which mode applies where.
+→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — applies at the Genesis/Custom end of the map, where hypothesis testing is the right mode; inappropriate at Commodity, where adoption beats experimentation.
+→ [**Scenario Planning**](scenario-planning.md) — Wardley Maps can be projected into the future (where will each component sit in three years?), producing the alternative futures that scenario planning works with.
 
 ## References
 

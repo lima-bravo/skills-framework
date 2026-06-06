@@ -1,7 +1,7 @@
 # Grice's Maxims
 *What you include — and what you leave out — signals as much as the words themselves*
 
-**Category:** [General Thinking](../index.html#general-thinking) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

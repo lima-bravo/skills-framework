@@ -1,7 +1,7 @@
 # Bottlenecks
 *The constraint that governs throughput*
 
-**Category:** [Systems](../index.html#systems) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -46,6 +46,7 @@ An engineering team complains they can't ship fast enough. The diagnosis: pull r
 → [**Feedback Loops**](feedback-loops.md) — the bottleneck often sits where a balancing feedback loop operates most tightly.
 → [**Algorithms**](algorithms.md) — scheduling algorithms are explicitly designed to route work around bottlenecks.
 → [**Scale**](scale.md) — as organizations scale, the bottleneck migrates; strategic planning requires anticipating the next constraint.
+→ [**Growth Barriers**](../Business/growth-barriers.md) — the same constraint logic applied specifically to a stalled growth system: find the binding constraint in the acquisition-to-expansion chain before pulling levers elsewhere.
 
 ---
 

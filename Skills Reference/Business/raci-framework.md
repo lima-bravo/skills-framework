@@ -1,7 +1,9 @@
 # RACI Framework
+*One Accountable per activity — makes transformation accountability visible before it becomes conflict*
 
-**Category:** Business
-**Tagline:** One Accountable per activity — makes transformation accountability visible before it becomes conflict
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -33,11 +35,11 @@ A transformation programme stalls when a critical integration milestone slips, a
 
 ## Connections
 
-- **Stakeholder Mapping** — RACI operationalises power and interest into specific accountability
-- **Principal-Agent Problem** — makes expectations explicit so agents can't credibly claim they didn't know
-- **Mission Command** — RACI clarifies who is accountable; mission command specifies the intent within which they act
-- **Conway's Law** — RACI matrices mirror organisational structure
-- **Change Management** — should be built during Kotter's step 2 alongside the guiding coalition
+→ **Stakeholder Mapping** — RACI operationalises power and interest into specific accountability
+→ [**Principal-Agent Problem**](../Economics/principal-agent-problem.md) — makes expectations explicit so agents can't credibly claim they didn't know
+→ [**Mission Command**](../Leadership/mission-command.md) — RACI clarifies who is accountable; mission command specifies the intent within which they act
+→ [**Conway's Law**](../Systems/conways-law.md) — RACI matrices mirror organisational structure
+→ [**Change Management**](../Leadership/change-management.md) — should be built during Kotter's step 2 alongside the guiding coalition
 
 ## References
 

@@ -1,7 +1,9 @@
 # Change Management
+*Kotter's 8 steps and ADKAR: the human-side architecture that determines whether strategy execution succeeds or fails*
 
-**Category:** Leadership
-**Tagline:** Kotter's 8 steps and ADKAR: the human-side architecture that determines whether strategy execution succeeds or fails
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -34,13 +36,13 @@ A company announces a shift to a customer-centric operating model with a town ha
 
 ## Connections
 
-- **Organizational Culture** — Kotter's step 8 only succeeds when new behaviours reach the basic assumptions level
-- **Mission Command** — enlisting volunteers requires intent-based communication
-- **Stakeholder Mapping** — the guiding coalition is built from stakeholder analysis
-- **Coalition Building** — Kotter's guiding coalition is a coalition; this card operationalises how to assemble and sustain it
-- **Power Mapping** — identify who the real decision-makers and opinion leaders are before designing the guiding coalition
-- **Cynefin Framework** — change approach must match the domain type
-- **RACI Framework** — ambiguous accountability is a top cause of transformation failure
+→ [**Organizational Culture**](organizational-culture.md) — Kotter's step 8 only succeeds when new behaviours reach the basic assumptions level
+→ [**Mission Command**](mission-command.md) — enlisting volunteers requires intent-based communication
+→ **Stakeholder Mapping** — the guiding coalition is built from stakeholder analysis
+→ [**Coalition Building**](coalition-building.md) — Kotter's guiding coalition is a coalition; this card operationalises how to assemble and sustain it
+→ [**Power Mapping**](../Business/power-mapping.md) — identify who the real decision-makers and opinion leaders are before designing the guiding coalition
+→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — change approach must match the domain type
+→ [**RACI Framework**](../Business/raci-framework.md) — ambiguous accountability is a top cause of transformation failure
 
 ## References
 

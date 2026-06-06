@@ -49,6 +49,7 @@ A payment-platform team of nine engineers owns five services, the on-call rotati
 → [**Leverage**](../Physics-and-Chemistry/leverage.md) — internal platforms apply leverage by absorbing extraneous load for stream-aligned teams.
 → [**Attention Budget**](attention-budget.md) — the individual analogue.
 → [**Dependency Management**](dependency-management.md) — dependencies are a major source of extraneous load.
+→ [**Span of Control**](span-of-control.md) — team size is a direct driver of coordination overhead, which constitutes extraneous cognitive load; both levers must be managed together.
 
 ---
 

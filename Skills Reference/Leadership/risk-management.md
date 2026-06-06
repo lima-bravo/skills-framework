@@ -1,7 +1,9 @@
 # Risk Management
+*Set risk appetite at board level, manage to residual risk, defend with three lines*
 
-**Category:** Leadership
-**Tagline:** Set risk appetite at board level, manage to residual risk, defend with three lines
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -34,11 +36,11 @@ A bank's risk function maintains a detailed register, hits every compliance dead
 
 ## Connections
 
-- **Scenario Planning** — primary tool for external and strategic risk
-- **Pre-mortem** — agile risk identification for specific initiatives
-- **Margin of Safety** — operational implementation of risk appetite
-- **Principal-Agent Problem** — risk governance depends on agents internalising accountability
-- **Board Governance** — the board sets risk appetite and receives assurance
+→ [**Scenario Planning**](../Business/scenario-planning.md) — primary tool for external and strategic risk
+→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — agile risk identification for specific initiatives
+→ [**Margin of Safety**](../Systems/margin-of-safety.md) — operational implementation of risk appetite
+→ [**Principal-Agent Problem**](../Economics/principal-agent-problem.md) — risk governance depends on agents internalising accountability
+→ [**Board Governance**](board-governance.md) — the board sets risk appetite and receives assurance
 
 ## References
 

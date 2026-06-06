@@ -50,6 +50,11 @@ A software company built its business on desktop applications through the 1990s.
 → **Compounding** — the growth phase of an S-curve exhibits near-compounding dynamics; recognizing when compounding will eventually stop is what S-curve thinking adds.
 → **Diminishing Returns** — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns at the system level.
 → **Network Effects** — network effects accelerate the growth phase and raise the saturation ceiling, but do not eliminate the S-curve structure.
+## References
+
+- *Diffusion of Innovations* — Everett M. Rogers (1962; 5th ed. 2003) — the empirical foundation for S-curve adoption patterns across technologies and social systems.
+- *Innovation: The Attacker's Advantage* — Richard N. Foster (1986) — applied the S-curve to technology life cycles and competitive dynamics.
+
 
 ---
 

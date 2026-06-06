@@ -1,7 +1,7 @@
 # Sunk Cost
 *Past investment should not drive future decisions*
 
-**Category:** [Psychology](../index.html#psychology) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

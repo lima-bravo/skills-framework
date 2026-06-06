@@ -1,7 +1,7 @@
 # Maker's Schedule vs. Manager's Schedule
 *A single meeting in a maker's afternoon doesn't cost one hour — it costs the whole block; managers and makers need fundamentally different calendars*
 
-**Category:** [Business](../index.html#7-business) | **[← Card Deck](../index.html)**
+**Category:** [Business](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 

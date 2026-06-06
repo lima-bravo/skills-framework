@@ -1,7 +1,7 @@
 # Activation Energy
 *The threshold that must be crossed to initiate a process*
 
-**Category:** [Physics & Chemistry](../index.html#physics-chemistry) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

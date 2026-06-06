@@ -1,7 +1,7 @@
 # Bayesian Updating
 *Revise beliefs in proportion to the strength of new evidence*
 
-**Category:** [Mathematics](../index.html#mathematics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

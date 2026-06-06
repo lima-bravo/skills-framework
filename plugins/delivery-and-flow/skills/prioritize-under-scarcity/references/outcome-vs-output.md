@@ -1,7 +1,7 @@
 # Outcome vs Output
 *Measure what changed for the customer, not what shipped*
 
-**Category:** [Delivery & Flow](../index.html#delivery-flow) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -47,6 +47,8 @@ A B2B SaaS product team is praised internally for shipping 14 major features in 
 → [**OKRs**](okrs.md) — the canonical structure for stating outcomes vs the outputs that pursue them.
 → [**Feature Factory**](feature-factory.md) — the diagnostic for organizations addicted to output.
 → [**Kill Criteria**](kill-criteria.md) — outcome thinking forces stopping rules.
+→ [**Value Realization**](../Business/value-realization.md) — outcome-vs-output thinking applied to a strategic investment after approval: did the promised benefit actually land, not just the activity that was supposed to produce it?
+→ [**KPI Architecture**](../Business/kpi-architecture.md) — the system-design discipline that keeps a measurement set weighted toward outcome and driver metrics rather than activity counts.
 → [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — outcomes are the "measure" in the loop.
 → [**Goodhart's Law**](../Economics/goodharts-law.md) — output metrics become targets and degrade the underlying outcome.
 

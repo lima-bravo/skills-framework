@@ -1,7 +1,7 @@
 # AI Authority Boundaries
 *Programmatically encoding where AI may not become a decision-maker*
 
-**Category:** [Applied AI](../index.html#applied-ai) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Applied AI](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

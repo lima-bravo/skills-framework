@@ -1,7 +1,9 @@
 # Falsification
+*A belief you can't break isn't knowledge — it's faith.*
 
-**Category:** Psychology
-**Tagline:** A belief you can't break isn't knowledge — it's faith.
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -43,19 +45,19 @@ The falsification-oriented redesign: run a controlled comparison, with explicitl
 
 ## Connections
 
-- **Confirmation Bias** — falsification is the corrective practice; confirmation bias is what happens in its absence
-- **Experiment Design** — the operationalisation of falsification; good experiments are defined by the conditions under which they would return negative results
-- **Pre-Mortem** — applies falsification thinking prospectively: "what would have had to go wrong for this to fail?"
-- **Kill Criteria** — the organisational instrument of falsification; pre-specified conditions that would trigger exit or pivot
-- **Probabilistic Thinking** — falsification and probabilistic thinking together form the core of calibrated reasoning; probabilistic thinking quantifies uncertainty, falsification tests whether the model is structurally sound
-- **Calibration** — falsification is the habit that keeps calibration honest; a belief you won't test is a belief with unstated infinite confidence
-- **Observer Bias** — observer bias corrupts the measurement that falsification depends on; blinded evaluation ensures the test can actually disconfirm the hypothesis
-- **From Idea to Hypothesis** — falsification is Step 4 in this chain; restating assumptions as falsifiable predictions is the step most commonly skipped
-- **Crawl / Walk / Run** — the principle that makes every gate honest: results must be capable of disconfirming, not just confirming
-- **Survivorship Bias** — reporting only confirming outcomes is a common way that falsification fails in practice
-- **Steelmanning** — the prerequisite practice: a belief should be tested against the strongest possible opposing case, not a convenient weak version
-- **Red Teaming** — the organisational mechanism for structured falsification at scale; red teams are mandated to find disconfirming evidence
-- **A/B Testing** — the operational instrument of falsification in product and marketing contexts; the test is designed so that reality, not opinion, settles the question
+→ [**Confirmation Bias**](confirmation-bias.md) — falsification is the corrective practice; confirmation bias is what happens in its absence
+→ [**Experiment Design**](../Business/experiment-design.md) — the operationalisation of falsification; good experiments are defined by the conditions under which they would return negative results
+→ [**Pre-Mortem**](../General-Thinking/pre-mortem.md) — applies falsification thinking prospectively: "what would have had to go wrong for this to fail?"
+→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — the organisational instrument of falsification; pre-specified conditions that would trigger exit or pivot
+→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — falsification and probabilistic thinking together form the core of calibrated reasoning; probabilistic thinking quantifies uncertainty, falsification tests whether the model is structurally sound
+→ [**Calibration**](../General-Thinking/calibration.md) — falsification is the habit that keeps calibration honest; a belief you won't test is a belief with unstated infinite confidence
+→ [**Observer Bias**](observer-bias.md) — observer bias corrupts the measurement that falsification depends on; blinded evaluation ensures the test can actually disconfirm the hypothesis
+→ [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — falsification is Step 4 in this chain; restating assumptions as falsifiable predictions is the step most commonly skipped
+→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — the principle that makes every gate honest: results must be capable of disconfirming, not just confirming
+→ [**Survivorship Bias**](survivorship-bias.md) — reporting only confirming outcomes is a common way that falsification fails in practice
+→ [**Steelmanning**](../General-Thinking/steelmanning.md) — the prerequisite practice: a belief should be tested against the strongest possible opposing case, not a convenient weak version
+→ [**Red Teaming**](../Business/red-teaming.md) — the organisational mechanism for structured falsification at scale; red teams are mandated to find disconfirming evidence
+→ [**A/B Testing**](../Business/ab-testing.md) — the operational instrument of falsification in product and marketing contexts; the test is designed so that reality, not opinion, settles the question
 
 ## References
 

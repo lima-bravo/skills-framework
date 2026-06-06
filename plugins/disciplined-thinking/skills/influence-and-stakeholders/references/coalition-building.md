@@ -1,7 +1,7 @@
 # Coalition Building
 *An idea with one champion is fragile. An idea with a coalition is a movement.*
 
-**Category:** [Leadership](../index.html#leadership) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

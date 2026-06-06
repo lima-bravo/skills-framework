@@ -1,7 +1,7 @@
 # Planning Fallacy
 *We systematically underestimate time, cost, and risk — even when we know we do it, and even when we've been wrong before*
 
-**Category:** [Psychology](../index.html#5-psychology) | **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 

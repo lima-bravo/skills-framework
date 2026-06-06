@@ -1,7 +1,7 @@
 # Capacity Planning
 *Eight-step chain to pressure-test a resource plan before committing to execution*
 
-**Category:** [Pre-built Chains](../index.html#12-pre-built-chains) | **[← Card Deck](../index.html)**
+**Category:** [Pre-built Chains](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 

@@ -1,7 +1,7 @@
 # Analogical Reasoning
 *Recognizing structural similarities between different domains and importing solutions, mechanisms, or frameworks from one to solve problems in another.*
 
-**Category:** [General Thinking](../index.html#1-general-thinking) | **[← Card Deck](../index.html)**
+**Category:** [General Thinking](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 

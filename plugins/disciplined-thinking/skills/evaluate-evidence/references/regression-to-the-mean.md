@@ -1,7 +1,7 @@
 # Regression to the Mean
 *Extreme outcomes tend to moderate over time*
 
-**Category:** [Mathematics](../index.html#mathematics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

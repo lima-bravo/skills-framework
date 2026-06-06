@@ -1,7 +1,7 @@
 # Observer Bias
 *The evaluator who knows what they're looking for will find it.*
 
-**Category:** [Psychology](../index.html#psychology) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

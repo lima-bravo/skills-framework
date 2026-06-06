@@ -1,7 +1,7 @@
 # DORA Metrics
 *Four numbers that distinguish high-performing software delivery*
 
-**Category:** [Delivery & Flow](../index.html#delivery-flow) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

@@ -1,7 +1,7 @@
 # Confirmation Bias
 *We seek evidence that confirms what we believe*
 
-**Category:** [Psychology](../index.html#psychology) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

@@ -1,7 +1,7 @@
 # Red Teaming
 *Mandate a team to attack your plan before your adversary does*
 
-**Category:** [Business](../index.html#business) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

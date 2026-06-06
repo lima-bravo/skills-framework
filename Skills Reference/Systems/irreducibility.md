@@ -48,6 +48,11 @@ A consultancy builds a unified pricing model for a client, arguing that the curr
 → [**Emergence**](emergence.md) — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
 → [**Algorithms**](algorithms.md) — irreducible systems are those that resist algorithmic shortcuts; for them, simulation or direct evolution is the only reliable approach.
 → [**Map-Territory**](../General-Thinking/map-territory.md) — an irreducible system resists accurate mapping; the practitioner must hold the map loosely.
+## References
+
+- *A New Kind of Science* — Stephen Wolfram (2002) — the extended treatment of computational irreducibility as a fundamental property of complex systems.
+- *Gödel, Escher, Bach: An Eternal Golden Braid* — Douglas R. Hofstadter (1979) — explores irreducibility through the lens of formal systems, self-reference, and strange loops.
+
 
 ---
 

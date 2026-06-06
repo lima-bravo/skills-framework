@@ -1,7 +1,9 @@
 # Fundamental Attribution Error
+*Their failure is character; yours is circumstance.*
 
-**Category:** Psychology
-**Tagline:** Their failure is character; yours is circumstance.
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -43,11 +45,11 @@ The FAE led the manager to replace the person rather than redesign the system. T
 
 ## Connections
 
-- **After-Action Review** — AARs done well explicitly surface situational factors; FAE is a common contaminator of poorly-run retrospectives
-- **Survivorship Bias** — combining FAE with survivorship produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had
-- **Systems Thinking** — the antidote to FAE at scale; systems thinking makes situational forces legible
-- **Narrative Instinct** — humans favour agent-causal stories (someone did this for reasons) over system-causal stories (conditions made this outcome likely); FAE is narrative instinct applied to blame
-- **Incentive Design** — if FAE leads you to keep redesigning the person instead of the incentive structure, you'll keep solving the wrong problem
+→ [**After-Action Review**](../Leadership/after-action-review.md) — AARs done well explicitly surface situational factors; FAE is a common contaminator of poorly-run retrospectives
+→ [**Survivorship Bias**](survivorship-bias.md) — combining FAE with survivorship produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had
+→ **Systems Thinking** — the antidote to FAE at scale; systems thinking makes situational forces legible
+→ [**Narrative Instinct**](narrative-instinct.md) — humans favour agent-causal stories (someone did this for reasons) over system-causal stories (conditions made this outcome likely); FAE is narrative instinct applied to blame
+→ **Incentive Design** — if FAE leads you to keep redesigning the person instead of the incentive structure, you'll keep solving the wrong problem
 
 ## References
 

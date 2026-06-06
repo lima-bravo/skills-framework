@@ -1,7 +1,9 @@
 # After-Action Review
+*Four questions, asked immediately after, by the people who did the work — the operational learning drill that compounds with every project*
 
-**Category:** Leadership
-**Tagline:** Four questions, asked immediately after, by the people who did the work — the operational learning drill that compounds with every project
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -72,13 +74,13 @@ A consulting team delivers a strategy engagement two weeks late and over budget,
 
 ## Connections
 
-- **Post-mortem** — complementary disciplines at different scales: AAR is the operational habit after every project; Post-mortem is the deep investigation triggered by a significant failure or a repeated pattern surfaced by AARs
-- **Leader's Intent** — the AAR's first question ("what was supposed to happen") is the direct test of how well the intent was communicated and retained; poor answers to Q1 are a Leader's Intent failure, not an execution failure
-- **Brief-Back Protocols** — the gap between Q1 and Q2 in the AAR is often traceable to misalignments that Brief-Back Protocols should have caught; AAR findings should improve briefing quality
-- **Feedback Loops** — the AAR is the mechanism that closes the organisational feedback loop between execution and planning; without it, the loop is open and learning does not compound
-- **Psychological Safety** — honest answers to questions 2 and 3 require an environment where admitting error is safe; an AAR run in a blame culture produces a sanitised account, not a useful one
-- **Mission Command** — the AAR is the learning infrastructure that makes Mission Command sustainable over time; teams that practice it develop the judgment and calibration that Mission Command requires
-- **Calibration** — the AAR generates the outcome data needed to improve calibration; without a learning cycle that compares predictions to results, calibration cannot develop
+→ [**Post-mortem**](../General-Thinking/post-mortem.md) — complementary disciplines at different scales: AAR is the operational habit after every project; Post-mortem is the deep investigation triggered by a significant failure or a repeated pattern surfaced by AARs
+→ [**Leader's Intent**](leaders-intent.md) — the AAR's first question ("what was supposed to happen") is the direct test of how well the intent was communicated and retained; poor answers to Q1 are a Leader's Intent failure, not an execution failure
+→ [**Brief-Back Protocols**](brief-back-protocols.md) — the gap between Q1 and Q2 in the AAR is often traceable to misalignments that Brief-Back Protocols should have caught; AAR findings should improve briefing quality
+→ [**Feedback Loops**](../Systems/feedback-loops.md) — the AAR is the mechanism that closes the organisational feedback loop between execution and planning; without it, the loop is open and learning does not compound
+→ [**Psychological Safety**](../Psychology/psychological-safety.md) — honest answers to questions 2 and 3 require an environment where admitting error is safe; an AAR run in a blame culture produces a sanitised account, not a useful one
+→ [**Mission Command**](mission-command.md) — the AAR is the learning infrastructure that makes Mission Command sustainable over time; teams that practice it develop the judgment and calibration that Mission Command requires
+→ [**Calibration**](../General-Thinking/calibration.md) — the AAR generates the outcome data needed to improve calibration; without a learning cycle that compares predictions to results, calibration cannot develop
 
 ## References
 

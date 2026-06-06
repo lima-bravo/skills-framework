@@ -1,7 +1,7 @@
 # Peter Principle
 *In a hierarchy, people rise to their level of incompetence*
 
-**Category:** [Leadership](../index.html#leadership) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

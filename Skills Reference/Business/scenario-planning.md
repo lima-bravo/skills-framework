@@ -1,7 +1,9 @@
 # Scenario Planning
+*Plan for multiple fundamentally different futures — build strategy that holds across all of them*
 
-**Category:** Business
-**Tagline:** Plan for multiple fundamentally different futures — build strategy that holds across all of them
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -22,6 +24,7 @@ Each scenario is a coherent narrative — plausible, internally consistent, diff
 - **Test initiatives across all scenarios, not against the most likely one.** The output is a strategy that performs acceptably across the set — robustness — rather than one optimised for a single forecast that probably won't arrive.
 - **Name the early indicators for each scenario.** A scenario is useful only if you can tell, in real time, which future you are moving into; assign observable signposts so the organisation recognises the shift early.
 - **Keep each scenario a coherent narrative.** Plausible, internally consistent, and genuinely different — a scenario that is just "the forecast, but worse" teaches nothing.
+- **Pre-decide which scenario triggers which action.** The scenario with named early indicators becomes a decision-trigger only if you have pre-committed: "if we observe X by date Y, we will do Z." Without this link, scenario planning produces awareness but not action — organisations recognise a shift but then pause to deliberate, surrendering the lead time the scenarios were built to create. Write the trigger-action pairs into the strategy document before the planning cycle closes.
 
 ## Common Failure Modes
 
@@ -36,11 +39,11 @@ Shell is the canonical case for a reason. In the early 1970s its planners, rathe
 
 ## Connections
 
-- **Pre-mortem** — pre-mortem probes a decision; scenario planning probes the environment
-- **Probabilistic Thinking** — makes the distribution of futures explicit rather than collapsing to a single expected value
-- **Cynefin Framework** — scenario planning is most valuable in Complex and Chaotic domains
-- **Inversion** — building the most challenging scenario is an inversion exercise applied to strategic planning
-- **Second-Order Effects** — each scenario must include the downstream consequences of primary shifts
+→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortem probes a decision; scenario planning probes the environment
+→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — makes the distribution of futures explicit rather than collapsing to a single expected value
+→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — scenario planning is most valuable in Complex and Chaotic domains
+→ [**Inversion**](../General-Thinking/inversion.md) — building the most challenging scenario is an inversion exercise applied to strategic planning
+→ [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — each scenario must include the downstream consequences of primary shifts
 
 ## References
 

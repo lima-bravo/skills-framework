@@ -1,7 +1,7 @@
 # Margin of Safety
 *Build in buffer for what you can't know*
 
-**Category:** [Systems](../index.html#systems) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

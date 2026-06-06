@@ -24,6 +24,7 @@ Two ways to plan a road trip. The first: "Google Maps says 4 hours 20 minutes â€
 - **Quote two percentiles.** "50%/85% confidence we finish by..." is the standard; the gap signals risk.
 - **Refresh weekly.** Throughput and scope both move; a stale forecast is worse than no forecast.
 - **Watch for scope as the dominant variability source.** Scope creep widens the distribution faster than execution variability does. Forecasting exposes this clearly.
+- **Turn a forecast into a flow commitment, not a deadline.** A service-level expectation (SLE) is the explicit team commitment that flows from the distribution: "85% of items of this type will be delivered within N days." SLEs give customers something predictable to plan against without requiring individual estimates or fixed end-dates; they convert the forecast from an internal risk tool into an external commitment instrument. State the class of service, the confidence level, and the cycle-time target â€” then track whether you're hitting it.
 
 ---
 

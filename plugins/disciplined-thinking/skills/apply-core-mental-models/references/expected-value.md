@@ -1,7 +1,7 @@
 # Expected Value
 *Multiply each outcome by its probability; sum the results*
 
-**Category:** [Mathematics](../index.html#mathematics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

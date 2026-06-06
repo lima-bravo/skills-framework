@@ -1,7 +1,7 @@
 # Conway's Law
 *Systems mirror the communication structures that build them*
 
-**Category:** [Systems](../index.html#systems) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

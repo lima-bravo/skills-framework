@@ -1,7 +1,7 @@
 # Network Effects
 *Value increases with every additional participant*
 
-**Category:** [Network Effects](../index.html#network-effects) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Network Effects](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

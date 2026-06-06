@@ -1,7 +1,7 @@
 # Psychological Safety
 *The shared belief that a team is safe for interpersonal risk-taking — speaking up, admitting mistakes, and challenging assumptions without fear of punishment.*
 
-**Category:** [Psychology](../index.html#5-psychology) | **[← Card Deck](../index.html)**
+**Category:** [Psychology](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 

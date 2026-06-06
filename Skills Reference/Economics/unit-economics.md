@@ -55,12 +55,12 @@ The SMB segment is marginally viable at best and is pulling the blended ratio do
 
 ## Connections
 
-- **Value Creation and Capture** — unit economics measures value capture at the customer level; the split between created value and captured revenue is the structural constraint that sets the ceiling on LTV
-- **Pricing Logic** — pricing decisions directly set the revenue component of contribution margin and LTV; unit economics provides the feedback loop that determines whether a pricing model is working
-- **Business Case Construction** — unit economics is a required input to any credible business case for a growth investment; a case without unit economic analysis is a projection without a foundation
-- **Compounding** — strong unit economics compound: retained customers generate expansion revenue, referrals reduce CAC, and the business improves its economics over time rather than degrading them
-- **Goodhart's Law** — CAC and LTV are the two metrics most vulnerable to gaming; organisations that target them directly often distort the customer acquisition mix or inflate LTV projections
-- **Lean Portfolio Management** — portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating unit economics is a kill candidate regardless of revenue trajectory
+→ [**Value Creation and Capture**](value-creation-capture.md) — unit economics measures value capture at the customer level; the split between created value and captured revenue is the structural constraint that sets the ceiling on LTV
+→ [**Pricing Logic**](../Business/pricing-logic.md) — pricing decisions directly set the revenue component of contribution margin and LTV; unit economics provides the feedback loop that determines whether a pricing model is working
+→ [**Business Case Construction**](../Business/business-case-construction.md) — unit economics is a required input to any credible business case for a growth investment; a case without unit economic analysis is a projection without a foundation
+→ [**Compounding**](../Mathematics/compounding.md) — strong unit economics compound: retained customers generate expansion revenue, referrals reduce CAC, and the business improves its economics over time rather than degrading them
+→ [**Goodhart's Law**](goodharts-law.md) — CAC and LTV are the two metrics most vulnerable to gaming; organisations that target them directly often distort the customer acquisition mix or inflate LTV projections
+→ [**Lean Portfolio Management**](../Delivery-and-Flow/lean-portfolio.md) — portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating unit economics is a kill candidate regardless of revenue trajectory
 
 ---
 

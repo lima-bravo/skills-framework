@@ -1,7 +1,9 @@
 # Leader's Intent
+*A three-part statement of purpose, key tasks, and end state that guides judgment when the plan no longer fits the situation*
 
-**Category:** Leadership
-**Tagline:** A three-part statement of purpose, key tasks, and end state that guides judgment when the plan no longer fits the situation
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -55,13 +57,13 @@ A marketing director briefs a campaign team with a full task list and a fixed ch
 
 ## Connections
 
-- **Mission Command** — the philosophical doctrine that Leader's Intent operationalises; Mission Command is the why, Leader's Intent is the how
-- **Brief-Back Protocols** — immediately follows Leader's Intent: the Confirmation Brief closes the comprehension gap, the Back Brief validates the plan against the intent
-- **Purpose Clarity** — the Purpose component of Leader's Intent is the leadership action that creates purpose clarity for the team; the two concepts are the same mechanism at different levels of abstraction
-- **RACI Framework** — Leader's Intent defines what success looks like; RACI clarifies who is accountable for delivering it
-- **Pre-mortem** — a useful post-briefing discipline: having set the intent, imagine the plan has failed — does the team's understanding of purpose and end state give them enough to recover?
-- **After-Action Review** — the AAR closes the loop on the intent: the first question (what was supposed to happen) is the test of whether the intent was clear enough to be remembered
-- **Grice's Maxims** — a Leader's Intent is a direct application of the Maxims: Quantity (purpose + key tasks + end state — no more), Relation (no method, only what guides judgment), Manner (short enough to recall under pressure)
+→ [**Mission Command**](mission-command.md) — the philosophical doctrine that Leader's Intent operationalises; Mission Command is the why, Leader's Intent is the how
+→ [**Brief-Back Protocols**](brief-back-protocols.md) — immediately follows Leader's Intent: the Confirmation Brief closes the comprehension gap, the Back Brief validates the plan against the intent
+→ [**Purpose Clarity**](purpose-clarity.md) — the Purpose component of Leader's Intent is the leadership action that creates purpose clarity for the team; the two concepts are the same mechanism at different levels of abstraction
+→ [**RACI Framework**](../Business/raci-framework.md) — Leader's Intent defines what success looks like; RACI clarifies who is accountable for delivering it
+→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — a useful post-briefing discipline: having set the intent, imagine the plan has failed — does the team's understanding of purpose and end state give them enough to recover?
+→ [**After-Action Review**](after-action-review.md) — the AAR closes the loop on the intent: the first question (what was supposed to happen) is the test of whether the intent was clear enough to be remembered
+→ [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — a Leader's Intent is a direct application of the Maxims: Quantity (purpose + key tasks + end state — no more), Relation (no method, only what guides judgment), Manner (short enough to recall under pressure)
 
 ## References
 

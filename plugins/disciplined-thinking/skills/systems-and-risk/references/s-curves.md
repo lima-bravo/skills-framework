@@ -1,7 +1,7 @@
 # S-Curves
 *Growth that starts slow, accelerates, then decelerates as it approaches a ceiling — the universal pattern of adoption, learning, and development.*
 
-**Category:** [Systems](../index.html#2-systems) | **[← Card Deck](../index.html)**
+**Category:** [Systems](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
 

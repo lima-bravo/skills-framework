@@ -57,12 +57,12 @@ Revised approach: a detailed technical session with the Head of Architecture (wh
 
 ## Connections
 
-- **Stakeholder Mapping (Salience Model)** — the complementary tool: stakeholder mapping analyses interests and salience (power, legitimacy, urgency); power mapping analyses influence *structure*. Use both: stakeholder mapping to prioritise who matters and why, power mapping to understand how they relate to each other. *These cards address adjacent but distinct questions — read both.*
-- **Influence Without Authority** — the interpersonal skills for navigating the power map once it is drawn; power mapping is the diagnostic, IWA is the intervention toolkit
-- **Coalition Building** — the structural approach to assembling sustained support; power mapping identifies who needs to be in the coalition and what relationships between them already exist
-- **Principal–Agent Problem** — power gaps often correspond to principal–agent misalignments; the people with formal authority (principals) and the people with real influence (agents) may have different incentives
-- **RACI Framework** — the formal accountability layer that power mapping sits beneath; when RACI and power map diverge significantly, the organisation has a governance design problem
-- **Narrative Instinct** — informal power often flows to those who tell the most compelling organisational story; identifying who shapes the dominant narrative is part of mapping informal influence
+→ [**Stakeholder Mapping (Salience Model)**](stakeholder-mapping-salience-model.md) — the complementary tool: stakeholder mapping analyses interests and salience (power, legitimacy, urgency); power mapping analyses influence *structure*. Use both: stakeholder mapping to prioritise who matters and why, power mapping to understand how they relate to each other. *These cards address adjacent but distinct questions — read both.*
+→ [**Influence Without Authority**](../Leadership/influence-without-authority.md) — the interpersonal skills for navigating the power map once it is drawn; power mapping is the diagnostic, IWA is the intervention toolkit
+→ [**Coalition Building**](../Leadership/coalition-building.md) — the structural approach to assembling sustained support; power mapping identifies who needs to be in the coalition and what relationships between them already exist
+→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — power gaps often correspond to principal–agent misalignments; the people with formal authority (principals) and the people with real influence (agents) may have different incentives
+→ [**RACI Framework**](raci-framework.md) — the formal accountability layer that power mapping sits beneath; when RACI and power map diverge significantly, the organisation has a governance design problem
+→ [**Narrative Instinct**](../Psychology/narrative-instinct.md) — informal power often flows to those who tell the most compelling organisational story; identifying who shapes the dominant narrative is part of mapping informal influence
 
 ---
 

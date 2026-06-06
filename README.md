@@ -2,7 +2,7 @@
 
 **🌐 Live site: [lima-bravo.github.io/skills-framework](https://lima-bravo.github.io/skills-framework)**
 
-A mental-models framework with a publishable **reference website** (`docs/`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **253 skills** across **16 categories** (source of truth: `skills-manifest.json`).
+A mental-models framework with a publishable **reference website** (`docs/`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **260 skills** across **16 categories** (source of truth: `skills-manifest.json`).
 
 ## Where to start
 
@@ -50,9 +50,9 @@ Open [`docs/deck.html`](docs/deck.html) in any browser.
 
 The deck includes:
 
-- Search and category filters across **253 skills**
+- Search and category filters across **260 skills**
 - Expandable skill modals with cross-links
-- **Sources & References** panel (**205** sources)
+- **Sources & References** panel (**221** sources)
 
 Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 
@@ -101,16 +101,17 @@ Requires Node.js 18+.
 
 ### Claude Cowork / Code skills
 
-The deck's **253 reference cards** are not exported 1:1. `npm run build:cowork` generates **51 procedural skills** in six plugins under `plugins/`:
+The deck's **260 reference cards** are not exported 1:1. `npm run build:cowork` generates **59 procedural skills** in seven plugins under `plugins/`:
 
 | Plugin | Skills | Purpose |
 |--------|--------|---------|
 | `disciplined-thinking` | 23 | Router, core mental-model and reasoning toolkits, plus strategic decision chains |
 | `delivery-and-flow` | 10 | 5 flow toolkits + 5 flow/ops chains |
-| `consulting-craft` | 3 | MECE/pyramid structuring, executive communication, engagement framing |
+| `consulting-craft` | 6 | MECE/pyramid structuring, situation assessment, stakeholder pre-wiring, structured problem solving, executive communication, engagement framing |
 | `innovation-strategy` | 8 | 3 innovation toolkits (problem, validate, portfolio) + 5 innovation chains |
 | `applied-ai` | 3 | AI governance toolkit + 2 AI governance chains |
 | `leadership` | 4 | 3 leadership toolkits (mission command, after-action, ops hygiene) + 1 execution chain |
+| `business-strategy` | 5 | Growth barriers, profit pool analysis, customer segmentation, KPI architecture, value realization |
 
 Mappings and descriptions: `scripts/cowork-skills.config.json`. Each skill includes `references/*.md` copied from the deck for progressive disclosure.
 
@@ -168,7 +169,7 @@ The full list of slash commands per plugin is in each plugin's `README.md` under
 Skills Framework.md          # Master compendium (pre-card-deck era; partial)
 Skills Reference/
   _ai-index.md               # AI-readable framework index (keep in sync)
-  skills-manifest.json       # Canonical registry: ids, categories, refs (253 skills)
+  skills-manifest.json       # Canonical registry: ids, categories, refs (260 skills)
   training-guide.md          # How to learn and apply the framework (source)
   skill-primer.md            # Guide for first-time card readers (source)
   deck.template.html         # Deck shell (edit layout/CSS here)

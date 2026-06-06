@@ -1,7 +1,9 @@
 # Tactical Pause
+*A deliberate halt mid-execution to stop, gather, think, then move — takes minutes, saves weeks*
 
-**Category:** Leadership
-**Tagline:** A deliberate halt mid-execution to stop, gather, think, then move — takes minutes, saves weeks
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -75,12 +77,12 @@ A product team is three months into a six-month build when usage data from an ea
 
 ## Connections
 
-- **OODA Loop** — the Tactical Pause is a triggered, deliberate initiation of a new Observe-Orient cycle mid-execution; the OODA Loop describes the decision cycle, the Tactical Pause is the permission structure that activates it when the current cycle has broken down
-- **Cynefin Framework** — in complex or chaotic situations (Cynefin's right-hand domains), the correct response is "probe, sense, respond" rather than executing a predetermined plan; the Tactical Pause is the operational mechanism for shifting from execution to sensing mode
-- **Leader's Intent** — the Tactical Pause tests whether the Leader's Intent was well enough constructed to guide adaptation; a team with clear purpose and end state can reassess and adapt; a team with only a task list cannot
-- **Mission Command** — Mission Command grants the authority to adapt when the plan no longer fits; the Tactical Pause is the moment when that authority is exercised collectively rather than individually
-- **Pre-mortem** — pre-mortems anticipate the conditions that would require a Tactical Pause; a well-run pre-mortem includes the trigger conditions that should cause the team to stop and reassess
-- **After-Action Review** — the AAR frequently identifies situations where a Tactical Pause should have been called but wasn't; these findings should calibrate future trigger sensitivity
+→ [**OODA Loop**](ooda-loop.md) — the Tactical Pause is a triggered, deliberate initiation of a new Observe-Orient cycle mid-execution; the OODA Loop describes the decision cycle, the Tactical Pause is the permission structure that activates it when the current cycle has broken down
+→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — in complex or chaotic situations (Cynefin's right-hand domains), the correct response is "probe, sense, respond" rather than executing a predetermined plan; the Tactical Pause is the operational mechanism for shifting from execution to sensing mode
+→ [**Leader's Intent**](leaders-intent.md) — the Tactical Pause tests whether the Leader's Intent was well enough constructed to guide adaptation; a team with clear purpose and end state can reassess and adapt; a team with only a task list cannot
+→ [**Mission Command**](mission-command.md) — Mission Command grants the authority to adapt when the plan no longer fits; the Tactical Pause is the moment when that authority is exercised collectively rather than individually
+→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortems anticipate the conditions that would require a Tactical Pause; a well-run pre-mortem includes the trigger conditions that should cause the team to stop and reassess
+→ [**After-Action Review**](after-action-review.md) — the AAR frequently identifies situations where a Tactical Pause should have been called but wasn't; these findings should calibrate future trigger sensitivity
 
 ## References
 

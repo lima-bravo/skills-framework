@@ -1,6 +1,9 @@
 # Empirical Process Control
-**Category:** Delivery & Flow
-**Tagline:** In complex work, the process that produces good outcomes is one that continuously corrects itself — not one that executes a fixed plan.
+*In complex work, the process that produces good outcomes is one that continuously corrects itself — not one that executes a fixed plan.*
+
+**Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -45,15 +48,15 @@ The difference is not that one team was smarter or faster. It is that one team h
 
 ## Connections
 
-- **Cynefin Framework** — EPC is the correct governing mechanism for the Complex domain; defined processes suit Complicated. Cynefin provides the diagnostic for which approach applies.
-- **PDCA** — Plan-Do-Check-Act is EPC operationalised as a four-step improvement cycle; the "Check" is inspection, the "Act" is adaptation.
-- **Build-Measure-Learn** — the Lean Startup application of EPC to product hypothesis: build the minimum to test, measure outcome, learn and adapt.
-- **Statistical Variability** — variability in complex systems is the reason inspection is necessary; determinism is not available, so the governing mechanism must be adaptive.
-- **Probabilistic Forecasting** — an empirical approach to "when will it be done?" that replaces false-precision plans with inspectable distributions.
-- **Drift to Failure** — organisations that disable inspection mechanisms lose the ability to detect drift before it reaches a boundary; EPC is the structural defence.
-- **Experiment Design** — formal structure for the adaptation step: when inspection reveals a gap, an experiment is the disciplined way to test the response before committing to it.
-- **Crawl / Walk / Run** — EPC is the governing principle for the run stage of this chain: transparency, inspection, and adaptation in real-world conditions
-- **Outcome vs Output** — EPC's inspection criterion should be outcome, not output; inspecting outputs produces locally optimised plans, not goal-achieving ones.
+→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — EPC is the correct governing mechanism for the Complex domain; defined processes suit Complicated. Cynefin provides the diagnostic for which approach applies.
+→ [**PDCA**](pdca.md) — Plan-Do-Check-Act is EPC operationalised as a four-step improvement cycle; the "Check" is inspection, the "Act" is adaptation.
+→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — the Lean Startup application of EPC to product hypothesis: build the minimum to test, measure outcome, learn and adapt.
+→ [**Statistical Variability**](statistical-variability.md) — variability in complex systems is the reason inspection is necessary; determinism is not available, so the governing mechanism must be adaptive.
+→ [**Probabilistic Forecasting**](probabilistic-forecasting.md) — an empirical approach to "when will it be done?" that replaces false-precision plans with inspectable distributions.
+→ [**Drift to Failure**](../Systems/drift-to-failure.md) — organisations that disable inspection mechanisms lose the ability to detect drift before it reaches a boundary; EPC is the structural defence.
+→ [**Experiment Design**](../Business/experiment-design.md) — formal structure for the adaptation step: when inspection reveals a gap, an experiment is the disciplined way to test the response before committing to it.
+→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — EPC is the governing principle for the run stage of this chain: transparency, inspection, and adaptation in real-world conditions
+→ [**Outcome vs Output**](outcome-vs-output.md) — EPC's inspection criterion should be outcome, not output; inspecting outputs produces locally optimised plans, not goal-achieving ones.
 
 ## References
 

@@ -58,7 +58,10 @@
       "skills": [
         "structure-executive-problem",
         "executive-communication",
-        "consulting-engagement"
+        "consulting-engagement",
+        "situation-assessment",
+        "stakeholder-pre-wiring",
+        "structured-problem-solving"
       ]
     },
     {
@@ -95,6 +98,18 @@
         "after-action-toolkit",
         "mission-execution-protocol",
         "operational-leadership-hygiene"
+      ]
+    },
+    {
+      "id": "business-strategy",
+      "name": "business-strategy",
+      "description": "Diagnose growth constraints, map profit pools, segment customers for strategy decisions, design decision-linked KPI systems, and govern value realization after approval.",
+      "skills": [
+        "growth-barriers",
+        "profit-pool-analysis",
+        "customer-segmentation",
+        "kpi-architecture",
+        "value-realization"
       ]
     }
   ],
@@ -1018,6 +1033,126 @@
         "Loss framing opportunity: how can the proposal be framed around what the other party stands to lose?",
         "Reciprocity pathway: what concession can be made first to create an obligation to reciprocate?",
         "Recommended opening position and negotiation sequence"
+      ]
+    },
+    {
+      "slug": "situation-assessment",
+      "description": "Builds a fact-based, MECE current-state baseline across financial, market, customer, competitive, operating, and organizational lenses before anyone debates what to do. Use before strategy conversations, steering committees, or any 'what's actually going on?' question — and always before solutioning begins.",
+      "sources": [
+        "Consulting-Craft/situation-assessment.md"
+      ],
+      "deliverableSections": [
+        "Presenting question (the problem as stated, before the assessment)",
+        "Fact base by lens (financial, market, customer, competitive, operating, organizational — facts only)",
+        "Momentum read (trend and rate of change, not just snapshot)",
+        "Interpretations (clearly separated from facts) and open questions",
+        "Issues list (the 2–3 facts the decision actually turns on)",
+        "Implications and the next diagnostic question — no recommendation"
+      ]
+    },
+    {
+      "slug": "growth-barriers",
+      "description": "Builds a driver tree across acquisition, activation, conversion, retention, expansion, monetization, and capacity to locate the single binding constraint behind stalled growth, and converts the diagnosis into a test rather than a launch. Use when growth has stalled and the team is reaching for a list of plausible levers instead of a diagnosis.",
+      "sources": [
+        "Business/growth-barriers.md"
+      ],
+      "deliverableSections": [
+        "Growth gap (size and shape — tuning problem or structural problem?)",
+        "Driver tree (acquisition → activation → conversion → retention → expansion → monetization → capacity)",
+        "Evidence at each node (quantified breaks, not impressions)",
+        "Binding constraint diagnosis (the one or two nodes that would move the topline most)",
+        "Root cause vs. symptom check",
+        "Cheapest test to confirm the leading hypothesis before committing resources"
+      ]
+    },
+    {
+      "slug": "profit-pool-analysis",
+      "description": "Maps where profit — not revenue — concentrates and leaks across a market, value chain, or product set, and explains structurally why it sits where it does. Use for where-to-play decisions, portfolio reviews, or whenever a strategy conversation is anchored on revenue share rather than profit capture.",
+      "sources": [
+        "Business/profit-pool-analysis.md"
+      ],
+      "deliverableSections": [
+        "Unit of analysis (and why it matches the decision being made)",
+        "Revenue pool map (where the money flows)",
+        "Profit pool map (where the money stays — side by side with revenue)",
+        "Structural explanation of concentration (scale, pricing power, switching costs, cost position, competitive intensity)",
+        "Leakage points (value created but captured elsewhere)",
+        "Where-to-play / where-to-avoid / how-to-improve-capture recommendation"
+      ]
+    },
+    {
+      "slug": "customer-segmentation",
+      "description": "Builds MECE customer segments around decision-relevant differences — needs, economics, behavior, strategic value — and scores them on attractiveness and right to win, so targeting, pricing, and roadmap choices can be made deliberately. Use for strategy-level segmentation decisions, not customer discovery.",
+      "sources": [
+        "Business/customer-segmentation.md"
+      ],
+      "deliverableSections": [
+        "Decision this segmentation must inform (pricing, targeting, roadmap, coverage, retention investment)",
+        "Segment definitions (MECE, observable/testable — not aspirational)",
+        "What predicts behavior in each segment (needs, economics, behavior — not demographics alone)",
+        "Attractiveness and right-to-win scoring per segment",
+        "The 'does anything actually differ?' test applied to each pair of segments",
+        "Targeting, pricing, and roadmap implications — and when to re-segment"
+      ]
+    },
+    {
+      "slug": "kpi-architecture",
+      "description": "Designs a lean, decision-linked measurement system by working backward from the decisions leaders must make to a driver tree of outcome, driver, and leading-indicator metrics — each with an owner, threshold, and review cadence. Use when a dashboard has grown by accretion, when metrics no longer drive action, or when designing measurement for a new initiative.",
+      "sources": [
+        "Business/kpi-architecture.md"
+      ],
+      "deliverableSections": [
+        "Decisions this system must serve (who decides what, on what cadence)",
+        "Driver tree (outcome → the 2–3 drivers that move it → leading indicators)",
+        "Metric set: outcome / driver / activity — separated and weighted accordingly",
+        "Owner and action threshold per metric (or remove it)",
+        "Goodhart risk per metric (how it could be gamed, and the guardrail)",
+        "Review cadence and what triggers escalation"
+      ]
+    },
+    {
+      "slug": "value-realization",
+      "description": "Builds a value ledger — baseline, target, owner, proof standard, and governance rhythm — that tracks whether a strategy, acquisition, or transformation actually delivers the benefits its business case promised. Use at the moment of approval, not eighteen months later, for any initiative whose case will eventually be checked against reality.",
+      "sources": [
+        "Business/value-realization.md"
+      ],
+      "deliverableSections": [
+        "Expected benefits (named individually, with baseline measured before start)",
+        "Value ledger (benefit, baseline, target, timing, owner — of the value, not the activity)",
+        "One-time vs. recurring benefit treatment (and how each will be re-proven over time)",
+        "Proof standard (what would distinguish 'this caused it' from 'it would have happened anyway')",
+        "Governance rhythm and escalation trigger (what happens when the benefit is behind plan)",
+        "Expected gap vs. business case, and what would justify revising the plan"
+      ]
+    },
+    {
+      "slug": "stakeholder-pre-wiring",
+      "description": "Plans the individual, sequenced conversations that move stakeholders to 'yes' before the formal decision meeting — mapping the approval path, the belief gap each person has, and the order in which to engage them. Use before any consequential recommendation reaches a steering committee, board, or approval meeting.",
+      "sources": [
+        "Consulting-Craft/stakeholder-pre-wiring.md"
+      ],
+      "deliverableSections": [
+        "Decision path (who must say yes, in what order, and what a 'no' from each does to the decision)",
+        "Belief gap per stakeholder (what they need to believe — not just know — and why they don't yet)",
+        "Engagement sequence (who to talk to first, and why that conversation makes the next one easier)",
+        "What each resistant stakeholder's concern will visibly change in the final recommendation",
+        "Objections rehearsed in advance (the version of resistance each pre-wiring conversation is expected to surface)",
+        "Readiness check: is this meeting now a ratification, or still a persuasion event?"
+      ]
+    },
+    {
+      "slug": "structured-problem-solving",
+      "description": "Applies the integrated MBB operating posture — answer-first, hypothesis-led, MECE structure, 80/20 focus, and decision-orientation — as a single default mode for engaging an ambiguous problem, rather than as five separate techniques. Use as the meta-discipline check before or during any consulting-style engagement, especially when the work feels structured but isn't converging.",
+      "sources": [
+        "Consulting-Craft/structured-problem-solving.md"
+      ],
+      "deliverableSections": [
+        "Decision this work is for (the filter that runs first)",
+        "Day-one answer (the hypothesis you'd commit to if forced to answer today)",
+        "MECE decomposition of that hypothesis into testable sub-claims",
+        "Branches ranked by how much each would close the gap if true (the 80/20 cut)",
+        "Evidence plan sized to the ranking — not spread evenly across all branches",
+        "Answer-first output: headline first, then the structure that supports or revises it"
       ]
     },
     {

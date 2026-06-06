@@ -1,7 +1,7 @@
 # From Idea to Hypothesis
 *An idea is a guess. A hypothesis is a bet you can settle.*
 
-**Category:** [Pre-built Chains](../index.html#pre-built-chains) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -98,6 +98,7 @@ This card is the input to the Crawl / Walk / Run chain and the standing record o
 
 ## Connections
 
+→ [**Funnel Intake**](funnel-intake.md) — the chain that precedes this one; enriches the idea via First Principles + JTBD and runs a strategic fit gate before assumption mapping begins
 → [**Innovation Funnel**](../Business/innovation-funnel.md) — the pipeline this chain operates within; funnel stage determines the appropriate level of hypothesis rigour
 → [**Opportunity Solution Trees**](../Startups/opportunity-solution-trees.md) — the framework for tracing ideas back to customer outcomes
 → [**Jobs to Be Done**](../Startups/jobs-to-be-done.md) — anchors the opportunity to the functional and emotional job the customer is hiring for

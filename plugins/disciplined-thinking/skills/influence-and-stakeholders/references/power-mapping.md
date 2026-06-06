@@ -1,7 +1,7 @@
 # Power Mapping
 *The org chart shows who is accountable. The power map shows who decides.*
 
-**Category:** [Business](../index.html#business) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

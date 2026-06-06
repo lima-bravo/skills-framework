@@ -1,7 +1,7 @@
 # Life Decision
 *Life Decision*
 
-**Category:** [Pre-built Chains](../index.html#pre-built-chains) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -58,6 +58,6 @@ Reversible decisions (moving cities, taking a new job) deserve less analysis and
 ---
 
 **Version:** 1.1 | **Last updated:** May 2026
-**Skills covered:** 244 across 16 categories
+**Skills covered:** 253 across 16 categories
 
 ---

@@ -59,6 +59,8 @@ By the time the planning meeting happens, the CFO is a confirmed advocate, the H
 → [**Psychological Safety**](../Psychology/psychological-safety.md) — the condition that makes a one-on-one pre-wire conversation actually surface a real objection rather than a polite, performed agreement that resurfaces — unresolved — in the room.
 → [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — once someone has voiced a position privately and had it heard, they are far more likely to hold a consistent, considered position in the room — which is exactly why surfacing resistance early changes how it shows up later.
 → [**Pyramid Principle**](pyramid-principle.md) — the structure for the formal recommendation; pre-wiring is what ensures the room receiving that structure is already disposed to agree with where it lands.
+→ [**Facilitation**](facilitation.md) — pre-wiring builds alignment before the room; facilitation builds it in the room. Both are needed for high-stakes decisions; pre-wiring without facilitation surfaces alignment gaps that were already known but not named.
+→ [**Coaching Stance**](coaching-stance.md) — pre-wiring is easier when the client has been built to diagnose with you rather than waiting for your answer; coaching stance creates the conditions for genuine alignment rather than performed agreement.
 
 ---
 

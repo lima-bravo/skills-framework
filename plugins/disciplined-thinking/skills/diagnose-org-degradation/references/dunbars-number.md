@@ -1,7 +1,7 @@
 # Dunbar's Number
 *The human brain can maintain stable relationships with roughly 150 people*
 
-**Category:** [Systems](../index.html#systems) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

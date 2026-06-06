@@ -1,7 +1,9 @@
 # Cynefin Framework
+*Match your decision method to the domain — clear, complicated, complex, or chaotic*
 
-**Category:** General Thinking
-**Tagline:** Match your decision method to the domain — clear, complicated, complex, or chaotic
+**Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -41,14 +43,14 @@ A bank rolls out a process-improvement methodology that worked beautifully in it
 
 ## Connections
 
-- **Empirical Process Control** — EPC is the correct governing mechanism for Complex-domain work; Cynefin tells you when to apply it
-- **Exploration vs. Exploitation** — clear/complicated domains favour exploitation; complex domains require exploration
-- **Experiment Design** — in Complex domains, safe-to-fail experiments replace analysis
-- **First Principles** — applicable in Clear and Complicated domains; less reliable in Complex
-- **Pre-mortem** — less predictive in Complex domains; knowing the domain calibrates how much to trust pre-mortems
-- **Scenario Planning** — most valuable in Complex and Chaotic domains where single-point forecasting fails
-- [**Structured Problem Solving**](../Consulting-Craft/structured-problem-solving.md) — the integrated answer-first, hypothesis-led, MECE posture is built for Complicated-domain problems with enough precedent to support a credible day-one guess; forcing it onto Complex-domain situations produces false confidence rather than clarity
-- [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — classifying the domain is itself part of the diagnostic move: a "current-state" question can be Complicated (analysable, as in the worked example) or Complex (requiring probes before any diagnosis can be trusted), and a fact base should say which
+→ [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — EPC is the correct governing mechanism for Complex-domain work; Cynefin tells you when to apply it
+→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — clear/complicated domains favour exploitation; complex domains require exploration
+→ [**Experiment Design**](../Business/experiment-design.md) — in Complex domains, safe-to-fail experiments replace analysis
+→ [**First Principles**](first-principles.md) — applicable in Clear and Complicated domains; less reliable in Complex
+→ [**Pre-mortem**](pre-mortem.md) — less predictive in Complex domains; knowing the domain calibrates how much to trust pre-mortems
+→ [**Scenario Planning**](../Business/scenario-planning.md) — most valuable in Complex and Chaotic domains where single-point forecasting fails
+→ [**Structured Problem Solving**](../Consulting-Craft/structured-problem-solving.md) — the integrated answer-first, hypothesis-led, MECE posture is built for Complicated-domain problems with enough precedent to support a credible day-one guess; forcing it onto Complex-domain situations produces false confidence rather than clarity
+→ [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — classifying the domain is itself part of the diagnostic move: a "current-state" question can be Complicated (analysable, as in the worked example) or Complex (requiring probes before any diagnosis can be trusted), and a fact base should say which
 
 ## References
 

@@ -49,6 +49,7 @@ A 400-person fintech reorganization moves from a 30-team feature-matrix to a Tea
 → [**Cognitive Load (Team)**](cognitive-load-team.md) — the constraint Team Topologies optimizes against.
 → [**Leverage**](../Physics-and-Chemistry/leverage.md) — platforms are force multipliers; the leverage card explains the underlying mechanism.
 → [**Dependency Management**](dependency-management.md) — interaction modes are dependency contracts.
+→ [**Span of Control**](span-of-control.md) — Team Topologies defines team *types*; Span of Control governs team *size*. Both constraints must be satisfied for effective flow.
 
 ---
 

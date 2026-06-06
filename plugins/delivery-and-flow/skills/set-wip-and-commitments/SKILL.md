@@ -30,6 +30,7 @@ Think of a buffet line with one chef and four pans. A pull system says: only whe
 - **Limit without policy.** WIP limits without explicit policies on what to do when blocked (swarm? escalate? park?) devolve into queues elsewhere.
 - **Punishing teams for hitting limits.** The limit being hit is the system surfacing a problem. Treating it as a team failure teaches teams to hide WIP.
 - **Limiting team WIP while admitting unlimited portfolio WIP.** The pressure migrates upward and reappears as estimation pressure, scope creep, and missed dates.
+- **Treating WIP limits as agile theater.** They are an operational constraint with economic implications, not a ritual.
 
 ### 2. Kanban Method
 

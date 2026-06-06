@@ -24,6 +24,8 @@ Two ways to write the same memo. Bottom-up: "We surveyed customers. We analyzed 
 - **Support points should be MECE.** Overlap or gaps in the support layer mean the argument has holes.
 - **Use "so what?" as the test.** At every level, the reader should be able to ask "so what?" and the next level down should answer.
 - **Apply both vertically and horizontally.** Vertically: each level supports the one above. Horizontally: supporting points at each level should add up to the level above.
+- **When the answer needs context to land, open with SCQA before the apex.** Situation (the stable state the reader already accepts), Complication (what changed or what's at risk), Question (the question the complication now forces), Answer (the governing thought — your apex). SCQA is not a substitute for answer-first; it is the four-sentence on-ramp that makes the answer *make sense* the instant it arrives, for a reader who doesn't yet share your framing of the problem. Skip it when the reader already agrees on the situation and complication — adding it then just delays the answer they're waiting for.
+- **Prepare the room's hardest question before the room asks it.** A pyramid that survives only friendly questions hasn't been stress-tested. For each supporting argument, ask: what is the single objection that, if true, would collapse this point — and do I have a one-sentence answer to it ready? This is the same discipline [Stakeholder Pre-Wiring](stakeholder-pre-wiring.md) applies before the meeting; here it's applied to the document itself, so the structure doesn't visibly wobble the moment a skeptic leans on it.
 
 ---
 

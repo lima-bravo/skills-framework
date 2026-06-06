@@ -1,7 +1,7 @@
 # Prisoner's Dilemma
 *Individually rational choices produce collectively irrational outcomes*
 
-**Category:** [Economics](../index.html#economics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

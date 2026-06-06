@@ -1,7 +1,7 @@
 # First Principles
 *Strip to fundamentals*
 
-**Category:** [General Thinking](../index.html#general-thinking) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -47,6 +47,7 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 
 ## Connections
 
+→ [**Funnel Intake**](../Pre-built-Chains/funnel-intake.md) — Step 1 of this chain uses First Principles to strip an idea from analogy to mechanism before it enters the innovation funnel
 → [**Inversion**](inversion.md) — first principles tells you what should be true; inversion tells you what would have to be true for the current answer to be wrong. Run both together.
 → [**Map-Territory**](map-territory.md) — first principles is a method for cleaning the map. If your map contains inherited assumptions, it may not reflect the territory.
 → [**Circle of Competence**](circle-of-competence.md) — first principles reasoning in domains where you lack deep knowledge risks confident wrongness. Know where your bedrock is actually solid.

@@ -1,7 +1,7 @@
 # Power Law
 *A small number of inputs produce a disproportionate share of outputs*
 
-**Category:** [Mathematics](../index.html#mathematics) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

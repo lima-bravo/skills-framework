@@ -1,7 +1,7 @@
 # MECE
 *Mutually Exclusive, Collectively Exhaustive — the structure of clear thinking*
 
-**Category:** [Consulting Craft](../index.html#consulting-craft) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -49,6 +49,9 @@ A retailer's CFO asks why operating margin is down 3 points. A first analyst res
 → [**First Principles**](../General-Thinking/first-principles.md) — MECE problem statements often reveal the first principles structure.
 → [**Socratic Thinking**](../General-Thinking/socratic-thinking.md) — issue trees decompose problems by structured questioning; MECE is the shape of good questions.
 → [**Trade-offs**](../Economics/trade-offs.md) — trade-off analysis requires MECE alternatives.
+→ [**Situation Assessment**](situation-assessment.md) — the six-lens current-state scan is only diagnostic if its lenses are MECE; overlapping categories hide where the real issue sits.
+→ [**Customer Segmentation**](../Business/customer-segmentation.md) — a worked application of MECE to a strategic-grouping problem: segments that overlap or leave gaps cannot drive a clean targeting or pricing decision.
+→ [**Structured Problem Solving**](structured-problem-solving.md) — MECE as one of five components of an integrated operating posture, not a standalone technique.
 
 ---
 

@@ -1,7 +1,9 @@
 # Async-First Default
+*Default to writing; a meeting needs a specific affirmative case for real-time exchange — not the other way round*
 
-**Category:** Leadership
-**Tagline:** Default to writing; a meeting needs a specific affirmative case for real-time exchange — not the other way round
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -75,12 +77,12 @@ A 40-person team institutes "async-first" by decree and meeting load barely drop
 
 ## Connections
 
-- **Three-Question Ritual** — the closing discipline for meetings that pass the triage filter; async-first is the entry gate, the three questions are the exit discipline
-- **Maker's Schedule** — both concern the cost of synchronous time; async-first reduces meeting load, Maker's Schedule manages what remains
-- **RACI Framework** — decision memos (the async alternative to alignment meetings) need a named Accountable to replace the implicit accountability a meeting provides
-- **Stakeholder Mapping** — knowing who needs to be in the room vs. who needs only async notification is the informational prerequisite for the triage filter
-- **Deep Work / Cognitive Capacity** — async-first is the organisational practice that makes deep work structurally possible at scale
-- **Incentives** — meetings proliferate because calling one is costless and signals effort; async-first requires counteracting visibility incentives
+→ [**Three-Question Ritual**](three-question-ritual.md) — the closing discipline for meetings that pass the triage filter; async-first is the entry gate, the three questions are the exit discipline
+→ **Maker's Schedule** — both concern the cost of synchronous time; async-first reduces meeting load, Maker's Schedule manages what remains
+→ [**RACI Framework**](../Business/raci-framework.md) — decision memos (the async alternative to alignment meetings) need a named Accountable to replace the implicit accountability a meeting provides
+→ **Stakeholder Mapping** — knowing who needs to be in the room vs. who needs only async notification is the informational prerequisite for the triage filter
+→ [**Deep Work / Cognitive Capacity**](../Learning/deep-work.md) — async-first is the organisational practice that makes deep work structurally possible at scale
+→ [**Incentives**](../Psychology/incentives.md) — meetings proliferate because calling one is costless and signals effort; async-first requires counteracting visibility incentives
 
 ## References
 

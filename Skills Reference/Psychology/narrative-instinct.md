@@ -1,7 +1,9 @@
 # Narrative Instinct
+*We don't record events — we compose them into stories, and stories lie.*
 
-**Category:** Psychology
-**Tagline:** We don't record events — we compose them into stories, and stories lie.
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -43,12 +45,12 @@ The narrative instinct produced a story centred on a protagonist (the founder), 
 
 ## Connections
 
-- **Hindsight Bias** — narrative instinct is the mechanism by which hindsight bias operates; we impose a causal story on the past that makes outcomes feel inevitable
-- **Fundamental Attribution Error** — both involve preferring agent-causal stories (someone did this) over system-causal explanations
-- **Dominant Logic** — the organisational-level instantiation of narrative instinct: the founding story that filters all new evidence
-- **First Principles Thinking** — the antidote; it starts from structure and evidence rather than inherited narrative
-- **Pre-Mortem** — deliberately invokes a failure narrative to surface what the success narrative suppresses
-- **Survivorship Bias** — the survivor record is almost always presented as a success narrative, which makes the missing failure data even harder to notice
+→ [**Hindsight Bias**](hindsight-bias.md) — narrative instinct is the mechanism by which hindsight bias operates; we impose a causal story on the past that makes outcomes feel inevitable
+→ [**Fundamental Attribution Error**](fundamental-attribution-error.md) — both involve preferring agent-causal stories (someone did this) over system-causal explanations
+→ [**Dominant Logic**](../Business/dominant-logic.md) — the organisational-level instantiation of narrative instinct: the founding story that filters all new evidence
+→ [**First Principles Thinking**](../General-Thinking/first-principles.md) — the antidote; it starts from structure and evidence rather than inherited narrative
+→ [**Pre-Mortem**](../General-Thinking/pre-mortem.md) — deliberately invokes a failure narrative to surface what the success narrative suppresses
+→ [**Survivorship Bias**](survivorship-bias.md) — the survivor record is almost always presented as a success narrative, which makes the missing failure data even harder to notice
 
 ## References
 

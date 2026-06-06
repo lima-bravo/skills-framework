@@ -1,7 +1,9 @@
 # Three-Question Ritual
+*Before any meeting ends, three questions close the loop on decision, ownership, and communication*
 
-**Category:** Leadership
-**Tagline:** Before any meeting ends, three questions close the loop on decision, ownership, and communication
+**Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 
 ## Definition
 
@@ -42,11 +44,11 @@ A leadership team meets weekly and leaves each meeting feeling productive, yet t
 
 ## Connections
 
-- **RACI Framework** — Q2 (one Accountable) and Q3 (Informed list) are RACI applied at meeting granularity
-- **Mission Command** — Q1 clarifies the decision boundary; Mission Command specifies the intent within which the owner executes
-- **Stakeholder Mapping** — Q3 is a quick stakeholder salience scan under time pressure
-- **Change Management** — consistent use builds a cultural norm: meetings produce decisions, not just discussion
-- **Board Governance** — the alignment/decision distinction (Q1) is the same boundary the board/management split operates on
+→ [**RACI Framework**](../Business/raci-framework.md) — Q2 (one Accountable) and Q3 (Informed list) are RACI applied at meeting granularity
+→ [**Mission Command**](mission-command.md) — Q1 clarifies the decision boundary; Mission Command specifies the intent within which the owner executes
+→ **Stakeholder Mapping** — Q3 is a quick stakeholder salience scan under time pressure
+→ [**Change Management**](change-management.md) — consistent use builds a cultural norm: meetings produce decisions, not just discussion
+→ [**Board Governance**](board-governance.md) — the alignment/decision distinction (Q1) is the same boundary the board/management split operates on
 
 ## Origin Note
 

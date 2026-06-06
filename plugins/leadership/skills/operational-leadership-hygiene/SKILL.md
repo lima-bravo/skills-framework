@@ -98,6 +98,7 @@ A leader who is "on" seven initiatives, six clients, and four programs simultane
 - **Calendar tetris as a strategy.** Filling every slot does not maximize output; it maximizes context-switch tax.
 - **Treating focus time as a perk.** It is operational infrastructure; without it, the system runs slower.
 - **Padding the budget for "small" items.** A 30-minute item with 4 days of background ambient thinking is not small. Count it.
+- **Treating focus-loss as a personal failure.** It is a systems problem. Diagnose at the system level — the operating model that creates this many concurrent demands — not the individual level.
 
 ## Deliverable format
 

@@ -1,7 +1,7 @@
 # Engagement Lifecycle
 *Diagnose — Design — Deliver — Detach*
 
-**Category:** [Consulting Craft](../index.html#consulting-craft) &nbsp;|&nbsp; **[← Card Deck](../index.html)**
+**Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 

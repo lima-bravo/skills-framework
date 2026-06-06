@@ -46,6 +46,10 @@ A marketing team has been investing in content and SEO for three years. The firs
 → [**Optimization**](../Economics/optimization.md) — optimization explicitly works with marginal returns, finding the allocation that maximizes total output.
 → [**Local Maxima**](../Mathematics/local-maxima.md) — diminishing returns are the mechanism by which you get trapped on local maxima.
 → [**Compounding**](../Mathematics/compounding.md) — compounding is the opposite dynamic; understanding both helps identify which type of curve you're on.
+## References
+
+- *Principles of Political Economy and Taxation* — David Ricardo (1817) — original formal statement of diminishing returns in the context of agricultural rent.
+
 
 ---
 

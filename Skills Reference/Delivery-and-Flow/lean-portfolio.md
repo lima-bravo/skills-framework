@@ -24,6 +24,7 @@ Traditional portfolio management funds projects: each gets a budget, a charter, 
 - **Prioritize on cost-of-delay, not gut.** CoD makes prioritization a calculation, not a politics exercise.
 - **Use cadence, not gates.** Quarterly portfolio reviews and monthly check-ins beat stage gates that lock decisions when uncertainty is highest.
 - **Make outcomes the unit of accountability.** Initiatives miss outcomes; this is a learning event, not a failure event. Adjust funding accordingly.
+- **Visualize portfolio WIP as a kanban, not a spreadsheet.** A portfolio kanban makes the flow state of each initiative visible: queued, active (in-flight), blocked, done. The column for "blocked" is the most valuable — blockers at portfolio level (budget frozen, dependencies on another stream, leadership decision pending) are invisible in a funding spreadsheet but structurally obvious in a kanban. Apply WIP limits to the "active" column; anything over the limit goes back to queued rather than creating the illusion of parallel progress.
 
 ---
 
