@@ -59,3 +59,9 @@ The narrative instinct produced a story centred on a protagonist (the founder), 
 - *The Black Swan* — Nassim Nicholas Taleb, 2007
 - *Thinking, Fast and Slow* — Daniel Kahneman, 2011
 - *Made to Stick* — Chip Heath & Dan Heath, 2007
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

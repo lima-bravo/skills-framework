@@ -55,3 +55,9 @@ A partner who has studied change dynamics tries a different approach. She select
 - *The Tipping Point* — Malcolm Gladwell, 2000
 - *Diffusion of Innovations* — Everett Rogers, 1962
 - *Nudge* — Thaler & Sunstein, 2008
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

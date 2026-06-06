@@ -57,3 +57,9 @@ A hospital system under pressure to cut emergency-department waiting times sets 
 
 - *The Tyranny of Metrics* — Jerry Z. Muller, 2018
 - *Measuring and Managing Performance in Organizations* — Robert Austin, 1996
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

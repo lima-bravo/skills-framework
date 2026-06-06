@@ -59,3 +59,9 @@ A survivorship-aware analysis would start with all 18 acquisition attempts, code
 - *The Halo Effect* — Phil Rosenzweig, 2007
 - *Thinking, Fast and Slow* — Daniel Kahneman, 2011
 - Abraham Wald's original memoranda on sequential analysis and aircraft vulnerability (1943)
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

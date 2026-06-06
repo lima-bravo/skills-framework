@@ -90,3 +90,9 @@ A consulting team delivers a strategy engagement two weeks late and over budget,
 - *The Fifth Discipline* — Peter Senge, 1990 (the learning organisation as the civilian theoretical framework)
 - *An Everyone Culture* — Kegan & Lahey, 2016 (the cultural conditions required for honest AARs)
 - *Accelerate* — Forsgren, Humble & Kim, 2018 (retrospectives as the engineering team's equivalent of the AAR)
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -51,3 +51,9 @@ A challenger retailer competing against an incumbent with a slow annual planning
 - *boyd: The Fighter Pilot Who Changed the Art of War* — Robert Coram, 2002
 - *Certain to Win* — Chet Richards, 2004
 - *The Art of Maneuver* — Robert Leonhard, 1991
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

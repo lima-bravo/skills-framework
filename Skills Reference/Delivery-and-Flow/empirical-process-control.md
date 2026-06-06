@@ -65,3 +65,9 @@ The difference is not that one team was smarter or faster. It is that one team h
 - Takeuchi, H. & Nonaka, I. (1986) "The New New Product Development Game" — *Harvard Business Review*
 - Schwaber, K. & Sutherland, J. (2020) *The Scrum Guide* — Scrum.org
 - Snowden, D. & Boone, M. (2007) "A Leader's Framework for Decision Making" — *Harvard Business Review*
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

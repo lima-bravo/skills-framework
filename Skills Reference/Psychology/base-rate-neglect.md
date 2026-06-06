@@ -62,3 +62,9 @@ Armed with the base rate, the team can ask the right question: what specific fea
 - *Superforecasting* — Philip Tetlock & Dan Gardner, 2015
 - Flyvbjerg, B. (2006) "From Nobel Prize to Project Management: Getting Risks Right" — *Project Management Journal*
 - *How Big Things Get Done* — Bent Flyvbjerg & Dan Gardner, 2023
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

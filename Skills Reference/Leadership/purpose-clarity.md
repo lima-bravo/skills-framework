@@ -92,3 +92,9 @@ A capable analyst is repeatedly passed over for advancement despite strong techn
 - *The Making of a Manager* — Julie Zhuo, 2019
 - *Radical Candor* — Kim Scott, 2017
 - Gallup *State of the Global Workplace* — annual (engagement and manager communication data)
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

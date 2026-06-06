@@ -55,3 +55,9 @@ L. David Marquet took command of the USS Santa Fe, the worst-performing submarin
 - *The Art of Action* — Stephen Bungay, 2011
 - *Moltke on the Art of War: Selected Writings* — Helmuth von Moltke / Daniel Hughes ed., 1993
 - *Turn the Ship Around!* — L. David Marquet, 2013
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

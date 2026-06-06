@@ -55,3 +55,9 @@ A company pays its sales force a commission purely on bookings to align reps (ag
 
 - *The Handbook of Organizational Economics* — Gibbons & Roberts eds., 2013
 - *Predictably Irrational* — Dan Ariely, 2008
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

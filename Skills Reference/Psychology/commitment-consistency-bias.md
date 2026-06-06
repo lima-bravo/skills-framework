@@ -60,3 +60,9 @@ A consistency-aware culture would have pre-specified the conditions under which 
 - Festinger, L. (1957) *A Theory of Cognitive Dissonance* — Stanford University Press
 - Staw, B.M. (1976) "Knee-deep in the Big Muddy: A study of escalating commitment" — *Organizational Behavior and Human Performance*
 - *Thinking, Fast and Slow* — Daniel Kahneman, 2011
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -59,3 +59,9 @@ A bank rolls out a process-improvement methodology that worked beautifully in it
 - *"A Leader's Framework for Decision Making"* — Dave Snowden & Mary Boone, Harvard Business Review, 2007
 - *Cynefin: Weaving Sense-Making into the Fabric of Our World* — Dave Snowden et al., 2020
 - *The Fifth Discipline* — Peter Senge, 1990
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

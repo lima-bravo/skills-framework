@@ -48,3 +48,9 @@ A foundation funds a programme to improve youth employment by running CV-writing
 - *Realistic Evaluation* — Ray Pawson & Nick Tilley, 1997
 - *The Logic Model Guidebook* — Lisa Wyatt Knowlton & Cynthia Phillips, 2013
 - *Lean Impact* — Ann Mei Chang, 2018
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

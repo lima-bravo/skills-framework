@@ -57,3 +57,9 @@ The FAE led the manager to replace the person rather than redesign the system. T
 - *The Person and the Situation* — Lee Ross & Richard Nisbett, 1991
 - *Thinking, Fast and Slow* — Daniel Kahneman, 2011
 - *The Culture Code* — Daniel Coyle, 2018
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

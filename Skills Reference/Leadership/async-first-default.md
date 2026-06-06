@@ -92,3 +92,9 @@ A 40-person team institutes "async-first" by decree and meeting load barely drop
 - *Deep Work* — Cal Newport, 2016
 - *A World Without Email* — Cal Newport, 2021
 - *Remote* — Jason Fried & David Heinemeier Hansson, 2013
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

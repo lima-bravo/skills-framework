@@ -49,3 +49,9 @@ A bank's risk function maintains a detailed register, hits every compliance dead
 - *Enterprise Risk Management — Integrating with Strategy and Performance* — COSO, 2017
 - *Against the Gods: The Remarkable Story of Risk* — Peter Bernstein, 1996
 - *The Failure of Risk Management* — Douglas Hubbard, 2009
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

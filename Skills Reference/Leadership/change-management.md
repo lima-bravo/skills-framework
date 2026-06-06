@@ -51,3 +51,9 @@ A company announces a shift to a customer-centric operating model with a town ha
 - *Leading Change* — John Kotter, 1996
 - *ADKAR: A Model for Change in Business, Government and our Community* — Jeff Hiatt, 2006
 - *Managing Transitions* — William Bridges, 2009
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

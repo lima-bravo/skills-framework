@@ -52,3 +52,9 @@ Shell is the canonical case for a reason. In the early 1970s its planners, rathe
 - *The Art of the Long View* — Peter Schwartz, 1991
 - *Scenarios: The Art of Strategic Conversation* — Kees van der Heijden, 1996
 - *The Living Company* — Arie de Geus, 1997
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

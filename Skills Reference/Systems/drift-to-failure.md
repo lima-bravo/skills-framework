@@ -63,3 +63,9 @@ The failure mode: a contractor's credentials are compromised, they access an unr
 - Vaughan, D. (1996) *The Challenger Launch Decision* — University of Chicago Press
 - *Tasks, Errors and Mental Models* — Goodstein, Andersen & Olsen (eds.), 1988
 - Weick, K. & Sutcliffe, K. (2007) *Managing the Unexpected* — Jossey-Bass
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

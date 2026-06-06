@@ -92,3 +92,9 @@ A product team is three months into a six-month build when usage data from an ea
 - *Thinking, Fast and Slow* — Daniel Kahneman, 2011 (System 2 engagement under pressure — the cognitive mechanism the Tactical Pause activates)
 - *The Art of Action* — Stephen Bungay, 2011
 - *Team of Teams* — General Stanley McChrystal, 2015
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

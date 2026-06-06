@@ -59,3 +59,9 @@ The post-mortem asks: was she undertrained? No. Was the procedure unclear? No. W
 - Reason, J. (1990) *Human Error* — Cambridge University Press
 - *The Design of Everyday Things* — Don Norman, 1988
 - Vicente, K. (1999) *Cognitive Work Analysis* — Lawrence Erlbaum
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

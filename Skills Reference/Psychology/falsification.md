@@ -65,3 +65,9 @@ The falsification-oriented redesign: run a controlled comparison, with explicitl
 - *Conjectures and Refutations* — Karl Popper, 1963
 - *Superforecasting* — Philip Tetlock & Dan Gardner, 2015
 - *The Lean Startup* — Eric Ries, 2011 (operationalises falsification as validated learning)
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

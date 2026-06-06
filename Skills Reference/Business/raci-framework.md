@@ -47,3 +47,9 @@ A transformation programme stalls when a critical integration milestone slips, a
 
 - *Project Management Body of Knowledge (PMBOK Guide)* — Project Management Institute, 7th ed. 2021
 - *Organizational Design* — Naomi Stanford, 2015
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

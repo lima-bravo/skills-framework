@@ -81,3 +81,9 @@ A leader briefs a team to "improve customer retention this quarter" and, pressed
 - *Team of Teams* — General Stanley McChrystal, 2015
 - *The Checklist Manifesto* — Atul Gawande, 2009 (the same logic applied to medical and aviation contexts)
 - *Crucial Conversations* — Patterson, Grenny, McMillan & Switzler, 2002 (the interpersonal conditions required for honest Brief-Backs)
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

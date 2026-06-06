@@ -73,3 +73,9 @@ A marketing director briefs a campaign team with a full task list and a fixed ch
 - *The Art of Action* — Stephen Bungay, 2011 (civilian translation of Auftragstaktik and intent communication)
 - *Team of Teams* — General Stanley McChrystal, 2015
 - *Extreme Ownership* — Jocko Willink & Leif Babin, 2015
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

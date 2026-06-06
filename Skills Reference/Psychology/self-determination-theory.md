@@ -82,3 +82,9 @@ A software company introduces a per-feature shipping bonus to lift engineering o
 - *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* — Ryan & Deci, 2017
 - *Why We Do What We Do* — Edward Deci with Richard Flaste, 1995 (accessible practitioner edition)
 - *Drive* — Daniel Pink, 2009 (popular synthesis; Pink's Autonomy/Mastery/Purpose maps closely onto SDT's three needs)
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

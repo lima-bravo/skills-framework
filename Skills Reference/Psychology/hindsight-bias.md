@@ -57,3 +57,9 @@ Hindsight bias turned an understandable gap in legacy system knowledge into an o
 - *Thinking, Fast and Slow* — Daniel Kahneman, 2011
 - *Superforecasting* — Philip Tetlock & Dan Gardner, 2015
 - *The Undoing Project* — Michael Lewis, 2016
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -65,3 +65,9 @@ Decision: adopt cloud-native data platform and managed ML tooling; redirect 60% 
 - Wardley, S. (2020) *Finding a Path* — Chapter series, Bits or Pieces blog
 - Moesta, B. & Spiek, C. (2014) — complementary framing on user-need anchoring
 - *The Art of War* — Sun Tzu; cited by Wardley as the source of his situational-awareness emphasis
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -49,3 +49,9 @@ The collapses that produced modern governance codes follow one pattern. At Enron
 - *Corporate Governance* — Robert Monks & Nell Minow, 5th ed. 2011
 - *The Boardroom Imperative* — Ram Charan, 2005
 - *OECD Principles of Corporate Governance* — OECD, 2023
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

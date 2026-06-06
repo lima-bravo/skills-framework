@@ -55,3 +55,9 @@ A company declares "we celebrate intelligent failure" as a new value, with a pos
 - *Organizational Culture and Leadership* — Edgar Schein, 1985 (5th ed. 2017)
 - *The Corporate Culture Survival Guide* — Edgar Schein, 1999
 - *An Everyone Culture* — Robert Kegan & Lisa Laskow Lahey, 2016
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -60,3 +60,9 @@ The "secret CEO" attribution common in social media versions of this technique i
 - *The Responsibility Virus* — Roger Martin, 2002
 - *Project Management Body of Knowledge (PMBOK Guide)* — Project Management Institute, 7th ed. 2021
 - Apple DRI model — publicly documented in *How Apple Is Organised for Innovation*, HBR, 2020
+
+---
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*
