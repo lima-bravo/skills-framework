@@ -48,6 +48,12 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 → [**Value Creation and Capture**](../Economics/value-creation-capture.md) — network effects are one of the most powerful value capture mechanisms: as the network grows, switching costs rise and the fraction of created value that can be retained increases.
 → [**Power Law**](../Mathematics/power-law.md) — network effects are a primary generative mechanism for power law distributions: preferential attachment produces winner-take-most outcomes.
 → [**Long Tail**](../Economics/long-tail.md) — network effects and Long Tail dynamics compound in platform markets: the network attracts more supply, which deepens the tail, which attracts more demand.
+## References
+
+- *Platform Revolution: How Networked Markets Are Transforming the Economy* — G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016) — network effects as the primary source of platform value.
+- *The Cold Start Problem: How to Start and Scale Network Effects* — Andrew Chen (2021) — how network effects are seeded, grown, and defended.
+- *The Tipping Point: How Little Things Can Make a Big Difference* — Malcolm Gladwell (2000) — the popular framing of network-effect dynamics and tipping thresholds.
+
 
 ---
 

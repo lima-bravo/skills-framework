@@ -46,6 +46,11 @@ A keynote speaker is preparing a 20-minute talk. Rhythm design: Open with a prov
 → [**Contrast**](contrast.md) — rhythm works through contrast: the variation within the pattern is contrast; the pattern itself is rhythm.
 → [**Audience**](audience.md) — the right rhythm for any work depends on the audience's attention span, familiarity with the content, and context.
 → [**Framing**](framing.md) — the opening rhythm establishes the frame; a carefully designed opening sets the pace and tone for everything that follows.
+## References
+
+- *The Elements of Style* — William Strunk Jr. & E.B. White (1959) — sentence-level rhythm as the craft of prose.
+- *Clear and Simple as the Truth: Writing Classic Prose* — Francis-Noël Thomas & Mark Turner (1994) — prose rhythm as a product of structure, not just word choice.
+
 
 ---
 

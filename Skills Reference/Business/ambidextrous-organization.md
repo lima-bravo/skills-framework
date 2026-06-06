@@ -66,6 +66,10 @@ Amazon operates one of the most studied ambidextrous structures in business. The
 → [**Organizational Culture**](../Leadership/organizational-culture.md) — exploit and explore require different cultural operating conditions; the challenge of ambidexterity is partly a culture management problem.
 → [**Dominant Logic**](dominant-logic.md) — the cognitive mechanism that causes exploit to reject explore's discoveries; understanding dominant logic explains why structural separation alone is insufficient.
 → [**Organizational Slack**](organizational-slack.md) — explore requires protected capacity; without slack, the ambidextrous structure is nominal rather than real.
+## References
+
+- *Lead and Disrupt: How to Solve the Innovator's Dilemma* — Charles A. O'Reilly III & Michael L. Tushman (2016) — the empirical case for why structural ambidexterity outperforms sequential or contextual approaches.
+
 
 ---
 

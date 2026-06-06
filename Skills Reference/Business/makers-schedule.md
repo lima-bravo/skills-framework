@@ -47,3 +47,8 @@ A senior engineer is allocated full-time to a critical project. Their calendar s
 
 ---
 *Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*
+
+## References
+
+- *Maker's Schedule, Manager's Schedule* — Paul Graham, paulgraham.com (2009) — the original essay naming the incompatibility.
+- *Deep Work: Rules for Focused Success in a Distracted World* — Cal Newport (2016) — the extended treatment of why uninterrupted focus is the scarce resource in knowledge work.

@@ -46,6 +46,11 @@ Naval Ravikant has described his reading practice: he reads many books simultane
 → [**Compounding**](../Mathematics/compounding.md) — five-hour rule learning is compounding applied to human capital.
 → [**T-shaped**](t-shaped.md) — the five-hour rule is the mechanism for maintaining and expanding the horizontal bar.
 → [**Model Chaining**](model-chaining.md) — deliberate cross-domain reading is how the model library that enables chaining is built.
+## References
+
+- *The Autobiography of Benjamin Franklin* — Benjamin Franklin (written 1771–1790; published 1791) — Franklin's self-directed reading and reflection practice, the source example for the five-hour rule.
+- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — Munger's reading-as-compounding model: the practitioner embodiment of the five-hour rule.
+
 
 ---
 

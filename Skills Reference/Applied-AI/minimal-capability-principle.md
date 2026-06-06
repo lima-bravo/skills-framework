@@ -72,6 +72,11 @@ The result: a hostile regulatory document that contains injected instructions ca
 → [**Dependency Management**](../Delivery-and-Flow/dependency-management.md) — multi-agent tool grant design creates structural dependencies; these should be made explicit and reviewed.
 → [**RACI Framework**](../Business/raci.md) — who has authority to act is the human-layer question; minimal capability is the machine-layer answer to the same question.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — the general principle of designing with buffer against worst-case scenarios; minimal capability applies this to AI agent architecture.
+## References
+
+- *The Protection of Information in Computer Systems* — Jerome H. Saltzer & Michael D. Schroeder, Proceedings of the IEEE Vol. 63 No. 9 (1975) — the original statement of the principle of least privilege in computer security.
+- *Human Compatible: Artificial Intelligence and the Problem of Control* — Stuart Russell (2019) — capability restriction as the primary mechanism of AI control.
+
 
 ---
 

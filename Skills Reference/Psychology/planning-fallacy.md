@@ -47,3 +47,8 @@ A software team estimates a feature at 3 weeks. Their own reference class — fe
 
 ---
 *Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*
+
+## References
+
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the most accessible treatment, including the inside/outside view distinction.
+- *Megaprojects and Risk: An Anatomy of Ambition* — Bent Flyvbjerg, Mette Skamris Holm & Søren Buhl (2003) — the empirical evidence of planning fallacy at scale across infrastructure projects.

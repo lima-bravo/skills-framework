@@ -48,6 +48,11 @@ A city decides to build a new urban highway to reduce commute times (first-order
 → [**Feedback Loops**](../Systems/feedback-loops.md) — second-order thinking identifies the chains; feedback loop analysis describes when those chains circle back.
 → [**Incentives**](../Psychology/incentives.md) — the most reliable second-order effects come from tracing how incentives shift after the first-order outcome.
 → [**Emergence**](../Systems/emergence.md) — second-order effects in complex systems often produce emergent properties that no single causal chain predicted.
+## References
+
+- *The Most Important Thing: Uncommon Sense for the Thoughtful Investor* — Howard Marks (2011) — the source of second-order thinking as a competitive edge: 'and then what?'
+- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — Munger's treatment of second-order consequences as essential to good judgment.
+
 
 ---
 

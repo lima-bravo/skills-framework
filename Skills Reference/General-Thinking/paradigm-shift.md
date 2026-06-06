@@ -69,6 +69,10 @@ What emerged was not a refutation of significance testing but a reconceptualizat
 → [**Immunity to Change**](../Psychology/immunity-to-change.md) — the individual-level architecture that maps onto the organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks.
 → [**First Principles**](first-principles.md) — the deliberate method for breaking out of paradigmatic assumptions; where Kuhn describes how paradigm shifts happen historically, first-principles reasoning is the practitioner's attempt to force the shift intentionally.
 → [**Cynefin Framework**](cynefin-framework.md) — normal science operates in complicated and clear domains; paradigm crisis is often a signal that the domain has become complex and the existing methods have lost their predictive validity.
+## References
+
+- *The Structure of Scientific Revolutions* — Thomas S. Kuhn (1962; 3rd ed. 1996) — the foundational text defining paradigm, normal science, and paradigm shift.
+
 
 ---
 

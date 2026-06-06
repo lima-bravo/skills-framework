@@ -48,6 +48,11 @@ A logistics company plans to build a new sorting facility in a mid-sized town. I
 → [**Second-order Effects**](../General-Thinking/second-order-effects.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates. The map is the tool for anticipating this.
 → [**Interdependence**](../Economics/interdependence.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritize which dependencies to manage most actively.
 → [**Stakeholder Pre-Wiring**](../Consulting-Craft/stakeholder-pre-wiring.md) — the engagement-planning counterpart to this card's analysis: salience mapping tells you who matters and how much; pre-wiring tells you what to do about it before the decision meeting.
+## References
+
+- *Toward a Theory of Stakeholder Identification and Salience* — Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood, Academy of Management Review Vol. 22 No. 4 (1997) — the original paper defining the power-legitimacy-urgency framework.
+- *Strategic Management: A Stakeholder Approach* — R. Edward Freeman (1984) — the foundational text for stakeholder theory in strategic management.
+
 
 ---
 

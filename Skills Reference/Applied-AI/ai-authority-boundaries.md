@@ -88,6 +88,11 @@ A team ships an AI agent that drafts and sends customer refund approvals overnig
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — the governance design tool: run a pre-mortem on the agentic system before deployment to surface which gates are insufficient.
 → [**Risk Management**](../Leadership/risk-management.md) — the organizational context for authority boundary decisions; boundary design is a form of operational risk management.
 → [**DORA Metrics**](../Delivery-and-Flow/dora-metrics.md) — structural analogy: DORA measures delivery system health; authority boundary registers measure governance system health.
+## References
+
+- *Human Compatible: Artificial Intelligence and the Problem of Control* — Stuart Russell (2019) — the foundational case for human oversight as AI systems become more autonomous.
+- *The Alignment Problem: Machine Learning and Human Values* — Brian Christian (2020) — the gap between what AI systems optimize for and what humans actually authorize.
+
 
 ---
 

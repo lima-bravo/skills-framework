@@ -50,6 +50,11 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Steelmanning**](../General-Thinking/steelmanning.md) — steelmanning is the deliberate practice of engaging the strongest opposing view; it is the active countermeasure to confirmation bias in deliberation.
 → [**Red Teaming**](../Business/red-teaming.md) — red teaming institutionalises the search for disconfirming evidence that confirmation bias would otherwise suppress.
 → [**A/B Testing**](../Business/ab-testing.md) — A/B testing is a structural countermeasure to confirmation bias in decision-making; it lets evidence rather than conviction determine the outcome.
+## References
+
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the treatment of how System 1 generates confirmatory interpretations before System 2 can question them.
+- *The Demon-Haunted World: Science as a Candle in the Dark* — Carl Sagan (1995) — the scientific reasoning complement: how to design inquiry that can falsify rather than confirm.
+
 
 ---
 

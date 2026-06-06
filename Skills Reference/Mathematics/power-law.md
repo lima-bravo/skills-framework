@@ -58,6 +58,11 @@ The strategic implication: stop acquiring broad and start acquiring narrow. The 
 → [**Expected Value**](../Mathematics/expected-value.md) — in power law domains, expected value is dominated by tail events; ignoring the tail produces systematically underestimated EVs in fat-tailed distributions.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — power law tails make margin of safety more important, not less: the worst-case event is not negligibly rare.
 → [**Randomness**](../Mathematics/randomness.md) — power law distributions and normal distributions are both random processes, but with fundamentally different properties; confusing them is the core analytical error in fat-tailed domains.
+## References
+
+- *The Long Tail: Why the Future of Business Is Selling Less of More* — Chris Anderson (2006) — the business implications of power-law distributions in digital markets.
+- *Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies* — Geoffrey West (2017) — power laws as the universal scaling principle across biological and social systems.
+
 
 ---
 

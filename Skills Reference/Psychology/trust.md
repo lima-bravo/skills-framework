@@ -51,6 +51,11 @@ A new engineering manager inherits a team that was previously micromanaged. The 
 → **Loss Aversion** — trust violations feel disproportionately large because losses hurt more than equivalent gains. The asymmetry of trust building vs. breaking is a direct consequence of loss aversion.
 → [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — trust enables the binding commitments that allow players to escape defection equilibria; without it, mutual defection is rational.
 → [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — trust shifts players from bad equilibria (mutual defection) to better ones (mutual cooperation) by making cooperative commitments credible.
+## References
+
+- *The Speed of Trust: The One Thing That Changes Everything* — Stephen M.R. Covey (2006) — the practitioner framework for building and repairing trust in organizational contexts.
+- *Trust: The Social Virtues and the Creation of Prosperity* — Francis Fukuyama (1995) — the macro-level treatment of trust as social capital and its role in economic performance.
+
 
 ---
 

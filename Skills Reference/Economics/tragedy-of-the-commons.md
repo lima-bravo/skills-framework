@@ -55,6 +55,11 @@ Resolution: the platform team appoints a CI steward role, introduces build-time 
 → [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — overuse of the commons is the Nash Equilibrium: each player's best response to others' extraction is to extract more.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — making commons depletion visible creates feedback loops that enable self-regulation.
 → [**Drift to Failure**](../Systems/drift-to-failure.md) — commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse.
+## References
+
+- *The Tragedy of the Commons* — Garrett Hardin, Science Vol. 162 No. 3859 (1968) — the original articulation of the commons problem.
+- *Governing the Commons: The Evolution of Institutions for Collective Action* — Elinor Ostrom (1990) — the Nobel Prize–winning empirical evidence that communities can and do solve commons problems without privatization or state control.
+
 
 ---
 

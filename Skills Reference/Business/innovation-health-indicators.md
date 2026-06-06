@@ -109,6 +109,11 @@ A CPO inherits an innovation programme that reports glowing numbers: 200 ideas i
 → [**Continuous Discovery**](../Startups/continuous-discovery.md) — discovery continuity rate directly measures whether the continuous discovery practice is being maintained; the practice is the source of the customer grounding that learning quality depends on.
 → [**Pretotyping**](../Startups/pretotyping.md) — time-to-first-experiment improves when teams use pretotyping techniques; cheap demand tests before expensive builds compress the pipeline clock.
 → [**Jobs to Be Done**](../Startups/jobs-to-be-done.md) — JTBD framing is the method behind hypothesis quality; a hypothesis without a JTBD-grounded customer need is not yet a well-formed hypothesis.
+## References
+
+- *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble & Gene Kim (2018) — the model for leading-indicator metrics in complex capability systems that inspired this card.
+- *Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth* — John Doerr (2018) — the framework for connecting leading indicators to outcomes.
+
 
 ---
 

@@ -46,6 +46,11 @@ Slack's early users were internal at Stewart Butterfield's game company Glitch. 
 → [**Build-Measure-Learn**](build-measure-learn.md) — the loop used to discover PMF efficiently.
 → [**Customer Development**](customer-development.md) — the process of understanding whether the market pull exists before building.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth.
+## References
+
+- *Product/Market Fit* — Marc Andreessen, pmarchive.com (2007) — the original essay coining the term and defining PMF as the only thing that matters for startups.
+- *Zero to One: Notes on Startups, or How to Build the Future* — Peter Thiel & Blake Masters (2014) — the complementary framing: find a monopoly, which requires genuine PMF before scaling.
+
 
 ---
 

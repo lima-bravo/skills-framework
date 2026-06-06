@@ -46,6 +46,11 @@ A Series A startup is hiring quickly, shipping features at pace, and growing hea
 → [**Bottlenecks**](../Systems/bottlenecks.md) — bottlenecks reduce speed; directional confusion reduces velocity even at full speed.
 → [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — the startup loop designed to maintain directional alignment while moving at speed.
 → [**Inertia**](inertia.md) — organizations in motion tend to maintain direction; changing direction requires deliberate force.
+## References
+
+- *Principia Mathematica* — Isaac Newton (1687) — the source definition of velocity as a vector quantity.
+- *Accelerate: The Science of Lean Software and DevOps* — N. Forsgren, J. Humble & G. Kim (2018) — velocity (deployment frequency, lead time) as the primary metric of delivery performance.
+
 
 ---
 

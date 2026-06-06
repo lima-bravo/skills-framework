@@ -47,6 +47,12 @@ Amazon's flywheel is the most celebrated corporate compounding engine: lower pri
 → [**Feedback Loops**](../Systems/feedback-loops.md) — compounding is driven by reinforcing feedback loops; they are the same phenomenon.
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
+## References
+
+- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — Munger on compounding as the most underrated force in business and learning.
+- *The Snowball: Warren Buffett and the Business of Life* — Alice Schroeder (2008) — the definitive account of compounding as a life philosophy, not just a finance mechanism.
+- *The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness* — Morgan Housel (2020) — compounding across wealth, knowledge, and relationships.
+
 
 ---
 

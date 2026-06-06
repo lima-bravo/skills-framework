@@ -45,6 +45,11 @@ A startup surveys customers who have been active in the last 30 days about their
 → [**Randomness**](randomness.md) — sampling quality determines how much of the variation you observe is signal vs. noise.
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — valid probability estimates require valid sampling.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — convenience sampling often produces confirmation bias at the data collection stage.
+## References
+
+- *How to Lie with Statistics* — Darrell Huff (1954) — the classic guide to sampling biases and how they produce misleading conclusions.
+- *The Signal and the Noise: Why So Many Predictions Fail—but Some Don't* — Nate Silver (2012) — sample quality as the central challenge in forecasting.
+
 
 ---
 

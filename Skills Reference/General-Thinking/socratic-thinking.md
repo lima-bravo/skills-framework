@@ -48,6 +48,11 @@ A product team claims "users want more features." Socratic examination: "Which u
 → [**First Principles**](first-principles.md) — Socratic questioning strips away imprecision; First Principles strips away assumptions. Together, they constitute a complete belief-examination process.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — Socratic thinking is the antidote: it actively seeks the weakness in a belief rather than confirming it.
 → [**Ladder of Inference**](ladder-of-inference.md) — Socratic questioning walks back down the ladder from belief to raw data.
+## References
+
+- *The Republic* — Plato (c. 380 BCE) — the primary source of Socratic dialogue as a method of inquiry.
+- *Rhetoric* — Aristotle (c. 350 BCE) — the systematic treatment of interrogative logic and argument structure.
+
 
 ---
 

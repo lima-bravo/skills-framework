@@ -46,6 +46,11 @@ A startup builds an internal developer platform: a standardized toolchain, deplo
 → [**Leverage**](leverage.md) — a catalyst creates leverage; the reusable mechanism produces disproportionate output.
 → [**Activation Energy**](activation-energy.md) — catalysts work by lowering activation energy.
 → [**Bottlenecks**](../Systems/bottlenecks.md) — catalysts are most valuable when applied to bottlenecks.
+## References
+
+- *The Laws of Thermodynamics: A Very Short Introduction* — Peter Atkins (2010) — the physical basis for activation energy and catalysis.
+- *Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World* — Mark Miodownik (2013) — the material science of catalytic processes.
+
 
 ---
 

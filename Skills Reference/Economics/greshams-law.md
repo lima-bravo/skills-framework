@@ -46,6 +46,11 @@ A Slack workspace creates a single all-company channel. Initially, it contains v
 → [**Incentives**](../Psychology/incentives.md) — Gresham's Law is driven by incentive differentials; change the incentives and the dynamic changes.
 → [**Efficiency**](efficiency.md) — Gresham's Law is a market efficiency failure when quality is not priced.
 → [**Availability Bias**](../Psychology/availability-bias.md) — information that is more available (because it's cheap to produce) gets more attention, driving out slower, more careful analysis.
+## References
+
+- *Money: The Unauthorized Biography* — Felix Martin (2013) — situates Gresham's Law in the history of monetary debasement and currency competition.
+- *The Ascent of Money: A Financial History of the World* — Niall Ferguson (2008) — the historical treatment of currency debasement and the dynamics Gresham identified.
+
 
 ---
 

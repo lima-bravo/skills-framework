@@ -51,6 +51,11 @@ Netflix's disruption of Blockbuster followed the textbook mechanism. Netflix lau
 → [**Business Model Canvas**](business-model-canvas.md) — disruption is almost always a business model innovation as much as a product innovation; the disruptor's canvas is structurally different from the incumbent's, making direct competition difficult.
 → [**Crossing the Chasm**](../Startups/crossing-the-chasm.md) — disruptive innovations often cross from non-consumer or low-end footholds to mainstream markets by a path that differs from the standard early-adopter-to-mainstream chasm crossing.
 → [**Wardley Mapping**](wardley-mapping.md) — Wardley Maps show commoditisation as an evolution axis movement; disruptive innovation is the demand-side story of the same phenomenon Wardley describes from the supply side.
+## References
+
+- *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* — Clayton M. Christensen (1997) — the foundational theory and evidence of disruptive innovation dynamics.
+- *The Innovator's Solution: Creating and Sustaining Successful Growth* — Clayton M. Christensen & Michael E. Raynor (2003) — the prescriptive follow-on for incumbents responding to disruption.
+
 
 ---
 

@@ -45,6 +45,11 @@ A team building project management software maps the customer side for their pri
 → [**Customer Development**](../Startups/customer-development.md) — the customer development process generates the evidence for the customer profile.
 → [**Jobs to be Done**](../Startups/jobs-to-be-done.md) — the conceptual framework underlying the Jobs column.
 → [**Product-Market Fit**](../Startups/product-market-fit.md) — fit in the canvas is the same as PMF: the product matches the market.
+## References
+
+- *Value Proposition Design: How to Create Products and Services Customers Want* — Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith (2014) — the source text for the value proposition canvas.
+- *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers* — Alexander Osterwalder & Yves Pigneur (2010) — the parent framework from which the canvas is drawn.
+
 
 ---
 

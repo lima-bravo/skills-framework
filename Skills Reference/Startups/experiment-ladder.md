@@ -79,6 +79,10 @@ The team has now tested all four critical assumptions — in ascending order of 
 → [**Build-Measure-Learn**](build-measure-learn.md) — the overall cycle within which the ladder operates; the ladder determines which type of "build" is appropriate for each learning loop.
 → [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — pre-defining what result would be insufficient to continue; kill criteria applied at each rung of the ladder prevent motivated reasoning from carrying a failing assumption forward.
 → [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — the reversibility principle that governs how far up the ladder to go before committing: lower rungs are two-way doors, upper rungs become progressively less reversible.
+## References
+
+- *Testing Business Ideas: A Field Guide for Rapid Experimentation* — David J. Bland & Alexander Osterwalder (2019) — the source of the experiment ladder and the full library of experiment types.
+
 
 ---
 

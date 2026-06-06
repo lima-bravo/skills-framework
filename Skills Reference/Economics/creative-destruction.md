@@ -49,6 +49,10 @@ Kodak invented the digital camera in 1975 and buried the invention because it th
 → [**Monopoly vs. Competition**](monopoly-vs-competition.md) — monopoly positions are the primary targets of creative destruction.
 → [**S-curves**](../Systems/s-curves.md) (see Compounding/Learning) — creative destruction describes the jump between S-curves.
 → [**Second-order Effects**](../General-Thinking/second-order-effects.md) — the full impact of creative destruction on industries, workers, and communities takes years to unfold.
+## References
+
+- *Capitalism, Socialism and Democracy* — Joseph A. Schumpeter (1942) — the original source of creative destruction as the defining mechanism of capitalist development.
+
 
 ---
 

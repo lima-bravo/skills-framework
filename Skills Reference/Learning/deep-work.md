@@ -48,3 +48,9 @@ A product manager plans a 4-week sprint for 6 engineers. Conventional capacity: 
 
 ---
 *Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*
+
+## References
+
+- *Deep Work: Rules for Focused Success in a Distracted World* — Cal Newport (2016) — the source text: the case for deep work as the most valuable skill in the knowledge economy.
+- *The Cambridge Handbook of Expertise and Expert Performance* — K. Anders Ericsson et al., eds. (2006) — deliberate practice research underlying the ~4-hour peak practice ceiling.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — System 2 cognition as the mechanism explaining cognitive depletion under sustained deep work.

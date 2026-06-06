@@ -47,6 +47,11 @@ A founder is raizing a Series A. The first VC she meets opens with "we're thinki
 → [**Loss Aversion**](loss-aversion.md) — anchors work partly by framing deviations as losses (below anchor) or gains (above anchor).
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — the antidote to anchoring is independent base-rate analysis before exposure to anchors.
 → [**Schelling Points**](../Economics/schelling-points.md) — Schelling Points are manufactured anchors: salient options that coordinate behaviour by standing out as the obvious choice.
+## References
+
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the accessible treatment of anchoring and its mechanisms in System 1 processing.
+- *Judgment under Uncertainty: Heuristics and Biases* — Amos Tversky & Daniel Kahneman, Science Vol. 185 (1974) — the original academic paper establishing anchoring as a cognitive heuristic.
+
 
 ---
 

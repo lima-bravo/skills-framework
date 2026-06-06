@@ -57,6 +57,10 @@ Three years later, the firm has lost its best producer and has an underperformin
 → [**Parkinson's Law**](../Business/parkinsons-law.md) — Parkinson's Law describes how organisations fill the positions that Peter Principle accumulation creates; together they explain much of why large organisations underperform their headcount.
 → [**Hiring Decision**](../Pre-built-Chains/hiring-decision.md) — the Hiring Decision chain should explicitly address whether promotion is the right mechanism, or whether an external hire or role redesign better serves the need.
 → [**Organisational Culture**](../Leadership/organisational-culture.md) — the Peter Principle accumulates faster in cultures that equate career progression with management hierarchy; cultures that genuinely value specialist excellence are more resistant.
+## References
+
+- *The Peter Principle: Why Things Always Go Wrong* — Laurence J. Peter & Raymond Hull (1969) — the source text coining the principle and documenting its mechanics.
+
 
 ---
 

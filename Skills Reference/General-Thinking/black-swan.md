@@ -59,6 +59,11 @@ The correct response would have been: (1) recognise that correlated housing expo
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — the pre-mortem is the closest operational tool to Black Swan thinking: imagining failure in advance, including failure modes not in the current plan.
 → [**Survivorship Bias**](../Psychology/survivorship-bias.md) — survivorship bias compounds the Black Swan problem: we study organisations and strategies that survived, which systematically underrepresents the tail events that destroyed the others.
 → [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — regression to the mean applies in Mediocristan; in Extremistan, mean reversion is not a reliable assumption and extreme values may persist or compound.
+## References
+
+- *The Black Swan: The Impact of the Highly Improbable* — Nassim Nicholas Taleb (2007) — the source concept and epistemological framework.
+- *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets* — Nassim Nicholas Taleb (2001) — precursor treatment of fat-tailed randomness and narrative bias.
+
 
 ---
 

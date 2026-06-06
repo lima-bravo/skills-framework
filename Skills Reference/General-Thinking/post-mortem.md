@@ -47,6 +47,10 @@ Amazon's culture of written post-mortems after production incidents includes a s
 → [**Pre-mortem**](pre-mortem.md) — the bookends: the pre-mortem imagines future failure; the post-mortem analyses actual failure. A mature team practices both.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — the post-mortem closes the feedback loop: action → outcome → learning → updated action.
 → [**Five-Hour Rule**](../Learning/five-hour-rule.md) — post-mortems are one of the most efficient uses of deliberate learning time because they are grounded in direct organizational experience.
+## References
+
+- *Site Reliability Engineering: How Google Runs Production Systems* — Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy, eds. (2016) — the canonical engineering treatment of blameless post-mortems.
+
 
 ---
 

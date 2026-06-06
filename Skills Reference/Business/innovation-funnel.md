@@ -48,6 +48,10 @@ A FMCG company runs an annual innovation sprint: 200 ideas entered, 50 developed
 → [**Portfolio Map**](portfolio-map.md) — the portfolio map shows the aggregate distribution of bets across stages.
 → [**Funnel Intake**](../Pre-built-Chains/funnel-intake.md) — the chain that gates ideas into the funnel: enriches via First Principles + JTBD, then runs a strategic fit check before committing funnel capacity
 → [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — the chain that converts funnel ideas into testable hypotheses with explicit kill criteria
+## References
+
+- *Winning at New Products: Accelerating the Process from Idea to Launch* — Robert G. Cooper (1986; 4th ed. 2011) — the Stage-Gate® process that formalized the innovation funnel.
+
 
 ---
 

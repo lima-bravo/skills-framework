@@ -50,6 +50,11 @@ Google's Project Aristotle studied 180 teams to identify what made teams effecti
 → **Feedback Loops** — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound.
 → **Dunning-Kruger** — low psychological safety amplifies Dunning-Kruger effects at the team level: overconfident members are not challenged, and uncertain members don't contribute their knowledge.
 → **Maslow's Hierarchy of Needs** — safety is a foundational need in Maslow's hierarchy; at the team level, psychological safety is the precondition for the belonging, esteem, and self-actualization that drive engagement.
+## References
+
+- *The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth* — Amy C. Edmondson (2018) — the primary treatment of psychological safety as a team-level phenomenon.
+- *An Everyone Culture: Becoming a Deliberately Developmental Organization* — Robert Kegan & Lisa Laskow Lahey (2016) — the complementary treatment of organizational cultures where vulnerability is the norm.
+
 
 ---
 

@@ -57,6 +57,12 @@ The calculation argues for building. The team should also check: is the 30% flop
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — EV ignores variance; Margin of Safety is the corrective when downside is catastrophic.
 → [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the most common source of miscalibrated probabilities feeding into EV calculations.
 → [**Fermi Estimation**](../Mathematics/fermi-estimation.md) — when precise probabilities and magnitudes are unavailable, Fermi estimation provides the order-of-magnitude inputs EV needs.
+## References
+
+- *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts* — Annie Duke (2018) — the practitioner's guide to EV thinking under uncertainty.
+- *Against the Gods: The Remarkable Story of Risk* — Peter L. Bernstein (1996) — the historical development of probability and expected value as decision tools.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — systematic deviations from EV reasoning and the psychology behind them.
+
 
 ---
 

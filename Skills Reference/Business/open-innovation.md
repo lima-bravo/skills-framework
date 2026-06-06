@@ -64,6 +64,10 @@ Procter & Gamble's Connect + Develop program is the defining case. In the early 
 → [**Absorptive Capacity**](../Learning/absorptive-capacity.md) — the organization's ability to recognize and integrate external knowledge is the binding constraint on inbound open innovation.
 → [**Dominant Logic**](dominant-logic.md) — NIH syndrome is dominant logic applied to external sourcing; the same cognitive filters that cause organizations to miss disruption also cause them to discount external innovation.
 → [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — open innovation expands the surface area for experimentation; the same learning loop applies whether the experiment originates internally or externally.
+## References
+
+- *Open Innovation: The New Imperative for Creating and Profiting from Technology* — Henry W. Chesbrough (2003) — the originating text for open innovation as a strategic discipline.
+
 
 ---
 

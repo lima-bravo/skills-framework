@@ -46,6 +46,11 @@ A manager concludes that an employee "doesn't care about quality." Walking back 
 → [**Map-Territory**](map-territory.md) — the ladder is a map of how maps (beliefs and conclusions) are built from territory (data). Errors in the climb produce maps that don't reflect territory.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the reflexive loop of the ladder is confirmation bias operating structurally.
 → [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning walks back down the ladder, questioning each inference.
+## References
+
+- *The Fifth Discipline: The Art and Practice of the Learning Organization* — Peter M. Senge (1990) — popularized the Ladder of Inference from Argyris's work.
+- *Overcoming Organizational Defenses: Facilitating Organizational Learning* — Chris Argyris (1990) — the original academic treatment of inference ladders and defensive reasoning.
+
 
 ---
 

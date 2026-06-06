@@ -46,6 +46,10 @@ A highly successful B2C founder decides to start a B2B company. She has strong g
 → [**Circle of Competence**](../General-Thinking/circle-of-competence.md) — Dunning-Kruger is the psychological mechanism that makes circle self-assessment hard; they are deeply related.
 → [**Confirmation Bias**](confirmation-bias.md) — early in learning a domain, confirmation bias and Dunning-Kruger reinforce each other: high confidence filters out disconfirming evidence.
 → [**Calibration**](../General-Thinking/calibration.md) — calibration is the direct antidote to Dunning-Kruger; the practice of tracking predictions against outcomes is how miscalibration at low competence gets corrected.
+## References
+
+- *Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments* — Justin Kruger & David Dunning, Journal of Personality and Social Psychology Vol. 77 No. 6 (1999) — the original study.
+
 
 ---
 

@@ -46,6 +46,11 @@ A Series B startup has raized successfully and has 24 months of runway. Capital 
 → [**Trade-offs**](trade-offs.md) — trade-offs only exist because of scarcity; unlimited resources eliminate most trade-offs.
 → [**Bottlenecks**](../Systems/bottlenecks.md) — the bottleneck is the point of maximum scarcity in a process.
 → [**Opportunity Cost**](trade-offs.md) — the economic concept that measures the cost of scarcity decisions.
+## References
+
+- *The Wealth of Nations* — Adam Smith (1776) — the foundational economic text grounded in scarcity as the driver of exchange and specialization.
+- *Scarcity: Why Having Too Little Means So Much* — Sendhil Mullainathan & Eldar Shafir (2013) — the cognitive and behavioral science of how scarcity shapes attention and decision-making.
+
 
 ---
 

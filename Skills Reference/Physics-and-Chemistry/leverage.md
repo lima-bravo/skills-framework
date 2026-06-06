@@ -46,6 +46,11 @@ A founder spends the first year of her company answering customer support person
 → [**Bottlenecks**](../Systems/bottlenecks.md) — applying leverage to bottlenecks produces the highest system-wide return.
 → [**Scale**](../Systems/scale.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
 → [**Algorithms**](../Systems/algorithms.md) — code and algorithms are the highest-leverage form of knowledge work.
+## References
+
+- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — leverage as a meta-skill: finding the input that moves the most output.
+- *Algorithms to Live By: The Computer Science of Human Decisions* — Brian Christian & Tom Griffiths (2016) — algorithmic leverage and efficient resource allocation.
+
 
 ---
 

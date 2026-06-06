@@ -46,6 +46,11 @@ A startup's investment in attending a major industry conference is asymmetric: t
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — asymmetry thinking and margin of safety are complementary: both protect against the downside while keeping upside accessible.
 → [**Two-Way Doors**](two-way-doors.md) — reversible decisions are structurally asymmetric: the downside is limited (you can reverse); the upside is the potential gain from trying.
 → [**Probabilistic Thinking**](probabilistic-thinking.md) — asymmetry analysis requires explicit probability-and-magnitude estimation, not just probability alone.
+## References
+
+- *Antifragile: Things That Gain from Disorder* — Nassim Nicholas Taleb (2012) — the extended treatment of positive convexity and barbell strategies.
+- *The Black Swan: The Impact of the Highly Improbable* — Nassim Nicholas Taleb (2007) — the source of the asymmetry framing in risk and uncertainty.
+
 
 ---
 

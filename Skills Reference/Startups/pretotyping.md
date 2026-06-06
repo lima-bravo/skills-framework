@@ -69,6 +69,10 @@ In the early development of Google Glass, one team wanted to test demand for a p
 → [**Experiment Design**](../Business/experiment-design.md) — pretotype techniques are specific experiment designs optimized for demand testing; the choice of technique follows from what assumption is being tested.
 → [**Effectuation**](effectuation.md) — the pretotype's DYOD threshold is affordable-loss thinking applied to a single test: commit only what you can afford to lose if the result is negative.
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — interpreting pretotype results requires holding the result as a probability update, not a confirmation or refutation; a 12% Fake Door click rate shifts the probability of demand, it doesn't prove or disprove it.
+## References
+
+- *The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed* — Alberto Savoia (2019) — the source text for pretotyping techniques and the Law of Market Failure.
+
 
 ---
 

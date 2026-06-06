@@ -46,6 +46,11 @@ A company wants engineers to write more documentation. They mandate it, incentiv
 → [**Friction**](friction.md) — activation energy is the specific form of friction at the start of a process.
 → [**Catalysts**](catalysts.md) — the chemical mechanism for reducing activation energy; organizations have analogous catalysts.
 → [**Inertia**](inertia.md) — activation energy is required to overcome inertia; they are related but distinct.
+## References
+
+- *Switch: How to Change Things When Change Is Hard* — Chip Heath & Dan Heath (2010) — lowering the activation energy of desired behaviors is a central design principle.
+- *Nudge: Improving Decisions About Health, Wealth, and Happiness* — Richard H. Thaler & Cass R. Sunstein (2008) — default architecture as activation energy management.
+
 
 ---
 

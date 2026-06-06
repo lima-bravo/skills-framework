@@ -52,6 +52,10 @@ Amazon's portfolio across the three horizons is a live case study. H1 is the e-c
 → [**S-Curves**](../Systems/s-curves.md) — each horizon corresponds to a position on a different S-curve: H1 is the current curve's mature phase, H2 is the emerging curve's growth phase, H3 is the next curve's early phase.
 → [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — H3 investments are reversible (option value, limited commitment); H1 is irreversible (full commitment). Two-Way Doors logic explains why H3 decisions should be made faster and with less analysis than H1 decisions.
 → [**Wardley Mapping**](wardley-mapping.md) — Three Horizons and Wardley Maps compose naturally: H1 maps to Commodity/Product, H2 to Custom, H3 to Genesis. The evolution axis tells you which horizon a component actually belongs to.
+## References
+
+- *The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise* — Mehrdad Baghai, Stephen Coley & David White (1999) — the McKinsey source text for the Three Horizons model.
+
 
 ---
 

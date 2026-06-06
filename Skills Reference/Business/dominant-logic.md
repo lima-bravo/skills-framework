@@ -55,6 +55,11 @@ Nokia's decline follows the same structure. Nokia understood touchscreens and ap
 → [**Ambidextrous Organization**](ambidextrous-organization.md) — structural separation of explore from exploit is partly a response to dominant logic: the explore unit needs to be insulated from the core's logic to function.
 → [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — dominant logic works well in complicated and obvious domains where the environment is stable; it becomes a liability when the environment shifts to complex or chaotic.
 → [**S-Curves**](../Systems/s-curves.md) — dominant logic is most dangerous at the top of the S-curve, when the current model is at peak performance and the next curve is just beginning.
+## References
+
+- *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* — Clayton M. Christensen (1997) — the mechanism by which past success encodes assumptions that block response to disruption.
+- *Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company* — Andrew S. Grove (1996) — the practitioner account of recognizing when dominant logic has become a liability.
+
 
 ---
 

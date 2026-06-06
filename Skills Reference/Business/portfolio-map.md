@@ -45,6 +45,11 @@ Google's resource allocation explicitly accounts for the 70-20-10 rule: 70% of r
 → [**Innovation Funnel**](innovation-funnel.md) — the funnel produces the pipeline from which portfolio bets are drawn.
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — H1 returns diminish; H2 and H3 investments are hedges against that diminishment.
 → [**Creative Destruction**](../Economics/creative-destruction.md) — H3 is the organization's hedge against being destroyed by external creative destruction.
+## References
+
+- *The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise* — Mehrdad Baghai, Stephen Coley & David White (1999) — the source of the Three Horizons portfolio framework.
+- *Good Strategy / Bad Strategy: The Difference and Why It Matters* — Richard Rumelt (2011) — the complementary treatment of portfolio coherence and strategic focus.
+
 
 ---
 

@@ -45,6 +45,10 @@ A founder building a B2B SaaS product fills in the canvas. Under Revenue Streams
 → [**Value Prop Canvas**](value-prop-canvas.md) — the detailed tool for the Value Proposition and Customer Segment boxes.
 → [**Assumption Mapping**](assumption-mapping.md) — the canvas produces a comprehensive list of assumptions to map.
 → [**Product-Market Fit**](../Startups/product-market-fit.md) — the canvas is a framework for asking whether a business model around which PMF could be achieved exists.
+## References
+
+- *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers* — Alexander Osterwalder & Yves Pigneur (2010) — the source text for the canvas framework.
+
 
 ---
 

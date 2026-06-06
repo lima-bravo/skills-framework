@@ -46,6 +46,10 @@ Instagram began as Burbn — a check-in app with gaming elements. The data showe
 → [**Build-Measure-Learn**](build-measure-learn.md) — the pivot-or-persevere decision is the "learn" step of the BML loop operationalized.
 → [**Sunk Cost**](../Psychology/sunk-cost.md) — the perseverance trap is often sunk cost; the pivot decision must be separated from sunk cost attachment.
 → [**Product-Market Fit**](product-market-fit.md) — the goal of pivots is to find the product-market fit that perseverance is preserving.
+## References
+
+- *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source framework for defining pivots and the pivot-or-persevere decision.
+
 
 ---
 

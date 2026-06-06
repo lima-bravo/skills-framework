@@ -46,6 +46,12 @@ Stripe entered the payments market dominated by established processors (PayPal, 
 → [**Defensibility**](../Network-Effects/defensibility.md) — monopoly position must be defended; defensibility describes the mechanisms.
 → [**Creative Destruction**](creative-destruction.md) — monopolies are destroyed by new entrants competing on new dimensions.
 → [**Network Effects**](../Network-Effects/network-effects.md) — the most powerful monopoly-creating force in digital markets.
+## References
+
+- *Competitive Strategy: Techniques for Analyzing Industries and Competitors* — Michael E. Porter (1980) — the systematic framework for analysing competitive position.
+- *Zero to One: Notes on Startups, or How to Build the Future* — Peter Thiel & Blake Masters (2014) — the argument for building monopoly rather than competing.
+- *Competition Demystified: A Radically Simplified Approach to Business Strategy* — Bruce Greenwald & Judd Kahn (2005) — the analytical framework for distinguishing competitive from monopolistic positions.
+
 
 ---
 

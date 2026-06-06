@@ -45,6 +45,11 @@ A law firm has a highly profitable and well-optimized practice serving mid-marke
 → [**Optimization**](../Economics/optimization.md) — local maxima are the primary failure mode of optimization algorithms.
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — diminishing returns is the signature of approaching a local maximum.
 → [**Creative Destruction**](../Economics/creative-destruction.md) — large-scale local maxima (industry structures) are escaped by creative destruction, not incremental improvement.
+## References
+
+- *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the general methodology of search in a problem space.
+- *Algorithms to Live By: The Computer Science of Human Decisions* — Brian Christian & Tom Griffiths (2016) — the explore/exploit tension and escape from local optima.
+
 
 ---
 

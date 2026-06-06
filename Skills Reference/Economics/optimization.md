@@ -48,6 +48,11 @@ A growth team is optimizing email campaign performance. They define the objectiv
 → [**Trade-offs**](trade-offs.md) — multi-objective optimization makes trade-offs explicit and quantified.
 → [**Local Maxima**](../Mathematics/local-maxima.md) — the systematic failure mode of optimization.
 → [**Algorithms**](../Systems/algorithms.md) — optimization algorithms are the computational tools for solving formal optimization problems.
+## References
+
+- *Algorithms to Live By: The Computer Science of Human Decisions* — Brian Christian & Tom Griffiths (2016) — applies optimization algorithms (explore/exploit, secretary problem) to everyday decision-making.
+- *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the systematic method for finding solutions to constrained problems.
+
 
 ---
 

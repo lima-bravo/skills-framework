@@ -46,6 +46,11 @@ A former military officer joins a startup as COO. Her military training: clear m
 → [**Model Chaining**](model-chaining.md) — learning transfer is how models from different domains become available for chaining.
 → [**T-shaped**](t-shaped.md) — the horizontal bar enables learning transfer across domains.
 → [**First Principles**](../General-Thinking/first-principles.md) — the abstraction step in learning transfer often requires first-principles thinking to identify what the transferable principle actually is.
+## References
+
+- *Make It Stick: The Science of Successful Learning* — P.C. Brown, H.L. Roediger III & M.A. McDaniel (2014) — retrieval practice and interleaving as the conditions for durable transfer.
+- *Transfer of Learning: Cognition, Instruction, and Reasoning* — Robert E. Haskell (2001) — the academic foundation of learning transfer research.
+
 
 ---
 

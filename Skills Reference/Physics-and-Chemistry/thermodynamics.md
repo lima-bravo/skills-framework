@@ -45,6 +45,11 @@ A company's internal knowledge base is excellent when first built. Three years l
 → [**Feedback Loops**](../Systems/feedback-loops.md) — balancing feedback loops are the mechanisms that fight entropy; they require energy to operate.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — the second law suggests things will degrade; margin of safety is the buffer for that degradation.
 → [**Churn**](../Systems/churn.md) — churn is entropy in a customer base; it is the natural tendency absent active retention investment.
+## References
+
+- *The Laws of Thermodynamics: A Very Short Introduction* — Peter Atkins (2010) — the concise authoritative treatment of the four laws.
+- *Antifragile: Things That Gain from Disorder* — Nassim Nicholas Taleb (2012) — the organizational implication of the second law: entropy as the baseline, resilience as the goal.
+
 
 ---
 

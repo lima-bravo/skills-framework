@@ -45,6 +45,11 @@ A company introduces a purpose-driven culture program with a compelling mission,
 → [**Incentives**](incentives.md) — Maslow provides the structural framework for understanding which incentives correspond to which motivational needs.
 → [**ERG Theory**](erg-theory.md) — Alderfer's ERG is a simplified, less strictly hierarchical refinement of Maslow.
 → [**Psychological Safety**](psychological-safety.md) — organizational psychological safety corresponds to Maslow's safety level applied to the team context.
+## References
+
+- *A Theory of Human Motivation* — Abraham H. Maslow, Psychological Review Vol. 50 No. 4 (1943) — the original paper presenting the hierarchy.
+- *Motivation and Personality* — Abraham H. Maslow (1954; 2nd ed. 1970) — the extended book-length treatment of the hierarchy and self-actualization.
+
 
 ---
 

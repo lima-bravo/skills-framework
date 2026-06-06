@@ -62,6 +62,10 @@ Causal loop analysis reveals the feedback structure: time pressure → test-skip
 → [**Post-mortem**](post-mortem.md) — the primary context for causal analysis in engineering and delivery practice.
 → [**Cynefin Framework**](cynefin-framework.md) — Cynefin tells you which domain you're in; the domain tells you which causal mode is appropriate. Complicated → 5 Whys or fishbone. Complex → causal loops.
 → [**First Principles**](first-principles.md) — both disciplines strip away assumption layers; causal analysis strips backward from an outcome, first principles strips downward from a belief.
+## References
+
+- *The Book of Why: The New Science of Cause and Effect* — Judea Pearl & Dana Mackenzie (2018) — the accessible treatment of causal inference and the ladder of causation.
+
 
 ---
 

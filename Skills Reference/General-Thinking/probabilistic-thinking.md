@@ -51,6 +51,12 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 → [**Calibration**](calibration.md) — calibration is the standard that probabilistic thinking is measured against; thinking in distributions is the method, being calibrated across many predictions is the goal.
 → [**Expected Value**](../Mathematics/expected-value.md) — EV is the quantitative expression of probabilistic thinking; once you have a probability distribution, expected value tells you what a decision is worth.
 → [**Bayesian Updating**](../Mathematics/bayesian-updating.md) — the mechanism for keeping probability estimates current as new evidence arrives.
+## References
+
+- *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts* — Annie Duke (2018) — the practitioner treatment of probabilistic thinking in high-uncertainty decisions.
+- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical evidence for what distinguishes accurate probabilistic forecasters.
+- *The Signal and the Noise: Why So Many Predictions Fail — but Some Don't* — Nate Silver (2012) — applied probabilistic reasoning across domains.
+
 
 ---
 

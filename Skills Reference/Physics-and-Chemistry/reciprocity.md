@@ -46,6 +46,11 @@ A venture partner makes ten introductions to potential customers for a startup f
 → [**Incentives**](../Psychology/incentives.md) — reciprocity is a social incentive structure that operates even in the absence of formal incentive systems.
 → [**Trust**](../Psychology/trust.md) — reciprocity and trust are deeply connected; consistent reciprocation over time builds trust.
 → [**Network Effects**](../Network-Effects/network-effects.md) — reciprocal networks (where giving to one member benefits others) are more valuable than transactional ones.
+## References
+
+- *Influence: The Psychology of Persuasion* — Robert B. Cialdini (1984) — reciprocity is explicitly named as the first and most powerful of Cialdini's six principles of influence.
+- *Pre-Suasion: A Revolutionary Way to Influence and Persuade* — Robert B. Cialdini (2016) — the preceding context that makes reciprocity operations more or less effective.
+
 
 ---
 

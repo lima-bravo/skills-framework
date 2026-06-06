@@ -46,6 +46,12 @@ The 2000-2001 dot-com bubble followed the classic structure. The displacement: t
 → [**Feedback Loops**](../Systems/feedback-loops.md) — bubble dynamics are driven by reinforcing feedback loops (rizing prices attract more buyers, which drives prices higher).
 → [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — asset prices that have deviated far from intrinsic value tend to revert; bubbles are extreme cases.
 → [**Incentives**](../Psychology/incentives.md) — understanding the incentives of capital allocators, analysts, and media during bubble phases explains why they persist beyond what fundamental analysis would suggest.
+## References
+
+- *Irrational Exuberance* — Robert J. Shiller (2000; 3rd ed. 2015) — the empirical treatment of asset price bubbles and the psychology that sustains them.
+- *Manias, Panics, and Crashes: A History of Financial Crises* — Charles P. Kindleberger (1978; 7th ed. 2015) — the historical anatomy of bubble formation and collapse.
+- *This Time Is Different: Eight Centuries of Financial Folly* — Carmen M. Reinhart & Kenneth S. Rogoff (2009) — systematic evidence that every era's bubble is rationalized as unique.
+
 
 ---
 

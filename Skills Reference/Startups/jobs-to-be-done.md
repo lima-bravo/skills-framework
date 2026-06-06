@@ -75,6 +75,11 @@ The competing frame made the product insight clear: the milkshake competed not w
 → [**Inertia**](../Physics-and-Chemistry/inertia.md) — the fourth force directly: the tendency of a customer's situation to remain unchanged is a structural property of any adoption problem, not a temporary obstacle to be overcome with better messaging.
 → [**Customer Segmentation**](../Business/customer-segmentation.md) — JTBD discovers which jobs exist and how customers experience them; segmentation is the strategic move of grouping customers by which jobs they share and how much each group is worth pursuing — discovery and grouping are different activities that should not be conflated.
 → [**First Principles**](../General-Thinking/first-principles.md) — JTBD is an application of first principles to product strategy: stripping away assumptions about product categories to ask what the customer fundamentally needs and what moment makes that need urgent.
+## References
+
+- *Competing Against Luck: The Story of Innovation and Customer Choice* — Clayton M. Christensen, Taddy Hall, Karen Dillon & David S. Duncan (2016) — the most accessible book-length treatment of JTBD theory.
+- *Jobs to Be Done: Theory to Practice* — Anthony W. Ulwick (2016) — the practitioner guide to applying JTBD through outcome-driven innovation.
+
 
 ---
 

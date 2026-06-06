@@ -46,6 +46,11 @@ A leadership team is deciding whether to acquire a competitor. The discussion ha
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the Six Hats is a structural mitigation: it enforces exploration of all perspectives, including the one that conflicts with your prior belief.
 → [**Pre-mortem**](pre-mortem.md) — the Black Hat is the group thinking equivalent of the pre-mortem: explicitly exploring failure modes.
 → [**Framing**](../Art/framing.md) — different hats are different frames; the Six Hats is a systematic multi-framing tool.
+## References
+
+- *Six Thinking Hats* — Edward de Bono (1985) — the source text defining the six parallel thinking modes.
+- *Lateral Thinking: Creativity Step by Step* — Edward de Bono (1970) — de Bono's foundational framework for deliberate creative thinking.
+
 
 ---
 

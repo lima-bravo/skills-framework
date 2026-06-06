@@ -63,6 +63,11 @@ Cross-check: the team knows a competitor charges £6k–£12k and has ~200 UK cu
 → [**Reference Class Forecasting**](../Delivery-Flow/reference-class-forecasting.md) — where Fermi estimation builds up from factors, reference class forecasting anchors on base rates from comparable cases; use both as cross-checks.
 → [**Calibration**](../General-Thinking/calibration.md) — tracking whether your Fermi estimates land within the expected range is a calibration exercise; it tells you which of your decomposition habits are systematically biased.
 → [**Occam's Razor**](../General-Thinking/occams-razor.md) — prefer the simplest decomposition that captures the dominant factors; adding more factors increases arithmetic complexity without necessarily improving accuracy.
+## References
+
+- *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the foundational guide to decomposing problems into tractable sub-problems.
+- *The Feynman Lectures on Physics* — R.P. Feynman, R.B. Leighton & M. Sands (1963) — Feynman's estimation approach in the tradition of his teacher Fermi.
+
 
 ---
 

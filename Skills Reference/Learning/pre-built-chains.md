@@ -50,6 +50,11 @@ A founder is deciding whether to raise a Series A or continue bootstrapping. She
 → **Inversion** — every pre-built chain includes an inversion step (pre-mortem or assumption check) as a structural disconfirmation mechanism.
 → **Confirmation Bias** — the primary purpose of chain structure is to prevent confirmation bias from narrowing the analysis to only the models that support the preferred conclusion.
 → **Two-Way Doors** — chains are most valuable for irreversible or high-stakes decisions (two-way doors logic: reversible decisions deserve fast analysis; irreversible ones deserve chain-level rigor).
+## References
+
+- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — Munger's checklist-based approach to decision-making is the conceptual ancestor of pre-built chains.
+- *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the original structured thinking sequence: a pre-built chain for mathematical problem-solving.
+
 
 ---
 

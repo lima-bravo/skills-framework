@@ -45,6 +45,11 @@ A school introduces a motivational intervention for students who scored exceptio
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — regression to the mean is a statistical property that should inform probability estimates about future performance.
 → [**Anchoring**](../Psychology/anchoring.md) — recent extreme performance anchors expectations in a way that regression to the mean will frustrate.
 → [**Availability Bias**](../Psychology/availability-bias.md) — vivid recent extreme outcomes are over-available and lead to over-attribution of the extreme performance to stable underlying causes.
+## References
+
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the chapter on regression to the mean is the most accessible treatment of why we misinterpret it as causal.
+- *The Drunkard's Walk: How Randomness Rules Our Lives* — Leonard Mlodinow (2008) — the statistical mechanics of regression and why extreme outcomes revert.
+
 
 ---
 

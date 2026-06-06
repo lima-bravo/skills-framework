@@ -67,6 +67,10 @@ The founding of Starbucks illustrates the lemonade principle. Howard Schultz vis
 → [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — effectuation is the appropriate reasoning mode during exploration; causation is the appropriate mode during exploitation.
 → [**Adjacent Possible**](../Systems/adjacent-possible.md) — the crazy quilt principle expands the adjacent possible through partner commitments; each new partner opens doors that weren't accessible from the original starting position.
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — effectuation doesn't abandon probabilistic reasoning; it acknowledges when the distribution is too unknown to compute and uses affordable loss as a substitute for expected value.
+## References
+
+- *Effectuation: Elements of Entrepreneurial Expertise* — Saras D. Sarasvathy (2008) — the academic foundation of effectual reasoning derived from research into expert entrepreneurs.
+
 
 ---
 

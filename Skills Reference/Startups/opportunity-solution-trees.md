@@ -66,6 +66,10 @@ A fintech team is accountable for an outcome: increase the percentage of custome
 → [**Continuous Discovery**](continuous-discovery.md) — continuous discovery is the practice that keeps the opportunity level of the tree current; the tree is the artifact that discovery populates.
 → [**Divergent and Convergent Thinking**](../General-Thinking/divergent-and-convergent-thinking.md) — the tree enforces divergence at the opportunity and solution levels before convergence at the experiment level; it is a structural implementation of the diverge-converge discipline.
 → [**Innovation Funnel**](../Business/innovation-funnel.md) — the OST operates inside the funnel; it is the tool that makes the funnel a learning accelerator rather than a filter.
+## References
+
+- *Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value* — Teresa Torres (2021) — the source text for the Opportunity Solution Tree framework.
+
 
 ---
 

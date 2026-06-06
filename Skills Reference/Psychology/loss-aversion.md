@@ -46,6 +46,11 @@ A startup's product team is deciding whether to deprecate a feature used by 8% o
 → [**Sunk Cost**](sunk-cost.md) — sunk cost fallacy is loss aversion applied to past investment.
 → [**Anchoring**](anchoring.md) — the reference point determines which domain (gain or loss) a decision is experienced in.
 → [**Inversion**](../General-Thinking/inversion.md) — explicitly stating what is at risk (loss framing) is an application of inversion.
+## References
+
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the accessible treatment of Prospect Theory and loss aversion as the core asymmetry of human risk behavior.
+- *Misbehaving: The Making of Behavioral Economics* — Richard H. Thaler (2015) — the practitioner companion showing how loss aversion distorts economic decisions in real settings.
+
 
 ---
 

@@ -45,6 +45,11 @@ Airbnb's early chicken-and-egg solution: the founders craigslist-scraped attract
 → [**Network Effects**](network-effects.md) — marketplace value grows through cross-side network effects.
 → [**Critical Mass**](../Systems/critical-mass.md) — marketplace liquidity is the specific form of critical mass for marketplace models.
 → [**Trust**](../Psychology/trust.md) — marketplace trust infrastructure is the mechanism that makes transactions between strangers possible.
+## References
+
+- *Platform Revolution: How Networked Markets Are Transforming the Economy* — G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016) — the definitive framework for marketplace design, including cold-start and liquidity mechanics.
+- *The Cold Start Problem: How to Start and Scale Network Effects* — Andrew Chen (2021) — the sequencing of marketplace supply and demand to escape the chicken-and-egg trap.
+
 
 ---
 

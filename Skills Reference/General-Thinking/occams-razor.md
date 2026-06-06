@@ -49,6 +49,11 @@ A startup's north-star metric drops 15% over two weeks. The team generates three
 → [**Probabilistic Thinking**](probabilistic-thinking.md) — when explanations are roughly equally probable, Occam provides the tiebreaker.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — complex explanations are often motivated; Occam is a check on that motivation.
 → [**Grice's Maxims**](grices-maxims.md) — sister parsimony principle in a different domain; Occam's Razor governs explanatory economy, Grice governs communicative economy.
+## References
+
+- *The Logic of Scientific Discovery* — Karl R. Popper (1934; English trans. 1959) — frames Occam's Razor in the context of scientific methodology and falsifiability.
+- *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the practical heuristic companion: solve the simplest version of the problem first.
+
 
 ---
 

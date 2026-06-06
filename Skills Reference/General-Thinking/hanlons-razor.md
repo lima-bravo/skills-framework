@@ -48,6 +48,10 @@ A senior engineer's code change ships without going through code review, breakin
 → [**Incentives**](../Psychology/incentives.md) — when trying to determine if an act was malicious, always map incentives first. Malice requires motive; misaligned incentives are the most common source of motive.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — once you decide someone acted with bad intent, you interpret subsequent ambiguous evidence as confirming it. Hanlon's Razor interrupts this.
 → [**Circle of Competence**](circle-of-competence.md) — your ability to distinguish malice from incompetence depends on how well you understand the domain. Misunderstanding technical complexity leads to false accusations of deliberate obfuscation.
+## References
+
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — covers the attribution errors and cognitive biases that Hanlon's Razor is designed to counteract.
+
 
 ---
 

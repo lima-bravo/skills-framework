@@ -49,6 +49,11 @@ A company is about to launch a new pricing model. Pre-mortem: "It is Q4 and the 
 → [**Red Teaming**](../Business/red-teaming.md) — the pre-mortem is a lightweight adversarial tool for a whole group; red teaming uses a designated independent team for more rigorous challenge.
 → [**Steelmanning**](steelmanning.md) — steelmanning applied prospectively: what is the strongest case that this plan will fail?
 → [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — the Pre-launch Cobra Risk Assessment is best run as a pre-mortem: assume the intervention became a cobra and work backward to identify the mechanism.
+## References
+
+- *Sources of Power: How People Make Decisions* — Gary Klein (1998) — Klein's original description of the pre-mortem as a prospective hindsight technique.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of optimism bias and why pre-mortems counteract it.
+
 
 ---
 

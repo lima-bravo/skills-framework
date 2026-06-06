@@ -55,6 +55,10 @@ The escape: an industry consortium (commitment mechanism) that makes the coopera
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — the multi-player extension of the Prisoner's Dilemma: individually rational extraction that destroys shared resources.
 → [**Reciprocity**](../Physics-Chemistry/reciprocity.md) — the psychological mechanism that makes Tit-for-Tat work in repeated games.
 → [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — public commitments to cooperate can serve as credible signals that shift the equilibrium.
+## References
+
+- *The Evolution of Cooperation* — Robert Axelrod (1984) — the landmark tournament study of how cooperation emerges in repeated Prisoner's Dilemma games.
+
 
 ---
 

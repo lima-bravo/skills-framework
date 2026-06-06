@@ -50,6 +50,11 @@ IDEO was hired to redesign the patient experience in a large hospital. The stand
 → [**Divergent and Convergent Thinking**](../General-Thinking/divergent-and-convergent-thinking.md) — design thinking is structured around alternating divergent phases (empathy, ideation) and convergent phases (problem definition, prototype selection, insight synthesis).
 → [**Assumption Mapping**](../Business/assumption-mapping.md) — design thinking's prototyping stage is most productive when combined with assumption mapping: the prototype tests the highest-priority assumption explicitly.
 → [**Build-Measure-Learn**](build-measure-learn.md) — build-measure-learn and design thinking are complementary: design thinking produces the right question to test; build-measure-learn provides the quantitative loop to validate the answer at scale.
+## References
+
+- *Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation* — Tim Brown (2009) — the accessible practitioner treatment from IDEO's CEO.
+- *Creative Confidence: Unleashing the Creative Potential Within Us All* — Tom Kelley & David Kelley (2013) — the human-centered design companion.
+
 
 ---
 

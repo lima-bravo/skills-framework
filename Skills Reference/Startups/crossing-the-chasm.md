@@ -50,6 +50,11 @@ Salesforce's crossing from early adopter success to mainstream CRM dominance ill
 → [**Disruptive Innovation**](../Business/disruptive-innovation.md) — disruptive innovations often cross the chasm by starting with non-consumers rather than competing for the early majority directly, then improving until mainstream requirements are met.
 → [**Network Effects**](../Network-Effects/network-effects.md) — beachhead strategies for platforms leverage network effects within a single community first; the beachhead generates the density required before expanding to adjacent communities.
 → [**Critical Mass**](../Systems/critical-mass.md) — in network-effect businesses, the beachhead must reach critical mass within its community for network effects to sustain the expansion into adjacent segments.
+## References
+
+- *Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers* — Geoffrey A. Moore (1991; 3rd ed. 2014) — the source model for the adoption chasm.
+- *Inside the Tornado: Marketing Strategies from Silicon Valley's Cutting Edge* — Geoffrey A. Moore (1995) — the follow-on treatment of the mainstream market phases beyond the chasm.
+
 
 ---
 

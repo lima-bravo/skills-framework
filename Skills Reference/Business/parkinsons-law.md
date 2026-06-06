@@ -55,6 +55,10 @@ Redesign: the team lead introduces a four-week timebox for the next prototype cy
 → [**Peter Principle**](../Leadership/peter-principle.md) — Parkinson's Law describes how organisations expand; the Peter Principle describes how the people filling that expansion are selected. Together they explain why large organisations systematically underperform their headcount.
 → [**Dunbar's Number**](../Systems/dunbars-number.md) — above Dunbar's Number, organisations rely on process and structure rather than direct relationships; Parkinson expansion accelerates as organisations exceed the scale where informal coordination works.
 → [**Kill Criteria**](../Delivery-Flow/kill-criteria.md) — kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth.
+## References
+
+- *Parkinson's Law, and Other Studies in Administration* — C. Northcote Parkinson (1958) — the source text, collected from the 1955 Economist essay and subsequent observations.
+
 
 ---
 

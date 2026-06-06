@@ -60,6 +60,12 @@ The manager's confidence in hiring has increased substantially — but it remain
 → [**Expected Value**](../Mathematics/expected-value.md) — Bayesian updating revises the probability inputs that feed expected value calculations.
 → [**Falsification**](../Psychology/falsification.md) — falsificationist thinking is the qualitative version of seeking high-diagnostic evidence; Bayesian updating quantifies the update.
 → [**Hindsight Bias**](../Psychology/hindsight-bias.md) — failure to record the prior before seeing evidence makes it impossible to know whether you updated correctly; hindsight bias retrospectively distorts the prior.
+## References
+
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the mechanics of belief updating and why humans systematically under- and over-update are a central theme.
+- *The Signal and the Noise: Why So Many Predictions Fail—but Some Don't* — Nate Silver (2012) — Bayesian reasoning as the core discipline of good forecasting.
+- *Against the Gods: The Remarkable Story of Risk* — Peter L. Bernstein (1996) — the history of probability and statistical inference, including Bayes.
+
 
 ---
 

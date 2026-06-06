@@ -83,6 +83,11 @@ A system relying only on normative defenses ("do not follow instructions in retr
 → [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — a successful injection may not cause immediate visible harm; the second-order effects (corrupted downstream outputs, cascading agent behavior) are often the real risk.
 → [**Causal Analysis**](../General-Thinking/causal-analysis.md) — when an agentic system behaves unexpectedly, prompt injection should be in the causal hypothesis space, not just model error.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — multi-agent systems with injection vulnerabilities at the seam create reinforcing loops where injected content compounds through agent handoffs.
+## References
+
+- *The Alignment Problem: Machine Learning and Human Values* — Brian Christian (2020) — the background on how AI systems interpret and act on instructions.
+- *Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection* — Kai Greshake et al. (2023) — the first systematic academic treatment of indirect prompt injection as an attack class.
+
 
 ---
 

@@ -66,6 +66,10 @@ Spotify's product squads operate a continuous discovery model in which each squa
 → [**Design Thinking**](design-thinking.md) — the empathize phase of design thinking is continuous discovery done once at the start of a project; continuous discovery makes empathy an ongoing practice rather than a phase.
 → [**Customer Development**](customer-development.md) — customer development (Steve Blank) is the project-level methodology; continuous discovery is the always-on practice that sustains customer understanding after the initial development stage.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — continuous discovery installs a reinforcing feedback loop between customer reality and product decisions; the loop is the mechanism that prevents the team from drifting away from what customers need.
+## References
+
+- *Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value* — Teresa Torres (2021) — the source text for the weekly cadence discovery practice and opportunity solution trees.
+
 
 ---
 

@@ -45,6 +45,12 @@ A startup's weekly active users fluctuate: 1,200 → 1,050 → 1,350 → 1,100 �
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — probabilistic thinking is the framework for reasoning about domains with significant randomness.
 → [**Regression to the Mean**](regression-to-the-mean.md) — regression to the mean is a specific, predictable form of randomness.
 → [**Sampling**](sampling.md) — the quality of signals depends on sample size; small samples are dominated by randomness.
+## References
+
+- *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets* — Nassim Nicholas Taleb (2001) — the source insight: we systematically mistake randomness for skill.
+- *The Drunkard's Walk: How Randomness Rules Our Lives* — Leonard Mlodinow (2008) — how random processes generate the patterns we interpret as meaningful trends.
+- *The Signal and the Noise: Why So Many Predictions Fail—but Some Don't* — Nate Silver (2012) — distinguishing signal from noise in complex systems.
+
 
 ---
 

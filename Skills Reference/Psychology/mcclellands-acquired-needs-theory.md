@@ -45,6 +45,11 @@ A startup's two founders are diagnostically different: one is high-nAch (driven 
 → [**Incentives**](incentives.md) — McClelland's theory maps directly to incentive design: different dominant needs require different incentive structures.
 → [**Maslow's Hierarchy**](maslows-hierarchy-of-needs.md) — Maslow describes universal motivational needs by level; McClelland describes individual variation in dominant needs.
 → [**Max-Neef's Fundamental Human Needs**](max-neefs-fundamental-human-needs.md) — a broader non-hierarchical complement that includes existential and relational dimensions McClelland doesn't address.
+## References
+
+- *The Achieving Society* — David C. McClelland (1961) — the original study linking need for achievement to economic development and organizational performance.
+- *Human Motivation* — David C. McClelland (1987) — the comprehensive treatment of the three-need framework and its measurement.
+
 
 ---
 
