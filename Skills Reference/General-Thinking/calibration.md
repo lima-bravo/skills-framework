@@ -62,7 +62,6 @@ Updated estimate: 40% (base rate adjusted upward for specific factors she can po
 → [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the most common source of overconfidence; calibration requires anchoring on base rates before adjusting for specifics
 → [**Reference Class Forecasting**](../Delivery-and-Flow/reference-class-forecasting.md) — the operational technique for anchoring on base rates in project estimation; calibration is why the technique works
 → [**After-Action Review**](../Leadership/after-action-review.md) — the learning cycle that generates the outcome data needed to improve calibration over time
-→ **Superforecasting** — Tetlock's research is the empirical evidence base for what calibration looks like in practice and how it can be developed
 
 ---
 

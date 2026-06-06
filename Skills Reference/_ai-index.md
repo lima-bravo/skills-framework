@@ -1,10 +1,10 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-06-07 | 260 skills | 16 categories | 1025 graph connections -->
+<!-- Last updated: 2026-06-07 | 262 skills | 16 categories | 1041 graph connections -->
 
 ## What this framework is
 
-A library of 253 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 21 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
+A library of 241 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 21 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
 
 **Primary use:** Surface the right model(s) for a situation, then apply structured reasoning through heuristics and failure modes.
 
@@ -41,11 +41,11 @@ Format: `id·Name` — file at `Category/filename.md`
 ### General Thinking (28 skills) — #3B82F6
 `0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning` `226·Grice's Maxims` `234·Overton Window` `240·Black Swan`
 
-### Systems (19 skills) — #0D9488
-`17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure` `235·Path Dependence` `243·Dunbar's Number`
+### Systems (21 skills) — #0D9488
+`17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure` `235·Path Dependence` `243·Dunbar's Number` `260·Fixes That Fail` `261·Systems Thinking`
 
 ### Economics (22 skills) — #16A34A
-`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture` `229·Nash Equilibrium` `230·Prisoner's Dilemma` `231·Tragedy of the Commons` `232·Free Rider Problem` `236·Schelling Points` `239·Long Tail`
+`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture` `229·Nash Equilibrium` `230·Prisoner's Dilemma` `231·Tragedy of the Commons` `232·Free Rider Problem` `236·Schelling Points` `239·Long Tail` `262·Incentive Design`
 
 ### Physics & Chemistry (10 skills) — #EA580C
 `41·Leverage` `42·Velocity` `43·Inertia` `44·Friction` `45·Activation Energy` `46·Thermodynamics` `47·Catalysts` `48·Alloying` `49·Reciprocity` `50·Relativity`
@@ -56,8 +56,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Innovation & Entrepreneurship (23 skills) — #DC2626
 `62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder` `237·Cobra Effect`
 
-### Business (22 skills) — #475569
-`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping` `224·Red Teaming` `225·A/B Testing` `241·Parkinson's Law` `247·Growth Barriers` `248·Profit Pool Analysis` `249·Customer Segmentation` `250·KPI Architecture` `251·Value Realization`
+### Business (23 skills) — #475569
+`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping` `224·Red Teaming` `225·A/B Testing` `241·Parkinson's Law` `247·Growth Barriers` `248·Profit Pool Analysis` `249·Customer Segmentation` `250·KPI Architecture` `251·Value Realization` `254·Playing to Win`
 
 ### Mathematics (11 skills) — #4F46E5
 `75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero` `227·Expected Value` `228·Bayesian Updating` `233·Fermi Estimation` `238·Power Law`
@@ -71,17 +71,17 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Art (4 skills) — #DB2777
 `90·Audience` `91·Framing` `92·Contrast` `93·Rhythm`
 
-### Delivery & Flow (31 skills) — #0891B2
-`131·Little's Law` `132·WIP Limits` `133·Flow Efficiency vs Resource Efficiency` `134·Lead Time vs Cycle Time` `135·Queueing & Wait Time` `136·Batch Size Reduction` `137·Cost of Delay` `138·Kanban Method` `139·Value Stream Mapping` `140·Statistical Variability` `141·Probabilistic Forecasting` `142·DORA Metrics` `143·Flow Metrics` `144·Outcome vs Output` `145·A3 Problem Solving` `146·PDCA` `147·Gemba` `148·Attention Budget` `149·Context-Switching Cost` `150·Cognitive Load (Team)` `151·Strategic Prioritization ("One Thing")` `152·OKRs` `153·Kill Criteria` `154·Team Topologies` `155·Inverse Conway Maneuver` `156·Dependency Management` `157·Feature Factory vs Product Orientation` `158·Lean Portfolio Management` `159·WSJF` `160·Reference Class Forecasting` `209·Empirical Process Control`
+### Delivery & Flow (33 skills) — #0891B2
+`131·Little's Law` `132·WIP Limits` `133·Flow Efficiency vs Resource Efficiency` `134·Lead Time vs Cycle Time` `135·Queueing & Wait Time` `136·Batch Size Reduction` `137·Cost of Delay` `138·Kanban Method` `139·Value Stream Mapping` `140·Statistical Variability` `141·Probabilistic Forecasting` `142·DORA Metrics` `143·Flow Metrics` `144·Outcome vs Output` `145·A3 Problem Solving` `146·PDCA` `147·Gemba` `148·Attention Budget` `149·Context-Switching Cost` `150·Cognitive Load (Team)` `151·Strategic Prioritization ("One Thing")` `152·OKRs` `153·Kill Criteria` `154·Team Topologies` `155·Inverse Conway Maneuver` `156·Dependency Management` `157·Feature Factory vs Product Orientation` `158·Lean Portfolio Management` `159·WSJF` `160·Reference Class Forecasting` `209·Empirical Process Control` `255·Technical Debt` `256·Reliability vs. Feature Velocity`
 
-### Consulting Craft (8 skills) — #7C3AED
-`161·Hypothesis-Driven Consulting` `162·MECE` `163·Pyramid Principle` `164·Engagement Lifecycle` `165·Contracting & Scope` `246·Situation Assessment` `252·Stakeholder Pre-Wiring` `253·Structured Problem Solving`
+### Consulting Craft (10 skills) — #7C3AED
+`161·Hypothesis-Driven Consulting` `162·MECE` `163·Pyramid Principle` `164·Engagement Lifecycle` `165·Contracting & Scope` `246·Situation Assessment` `252·Stakeholder Pre-Wiring` `253·Structured Problem Solving` `258·Coaching Stance` `259·Facilitation`
 
 ### Pre-built Chains (21 skills) — #B45309
 `94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run` `244·Organisational Degradation Scan` `245·Funnel Intake`
 
-### Leadership (16 skills) — #1E40AF
-`118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building` `242·Peter Principle`
+### Leadership (17 skills) — #1E40AF
+`118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building` `242·Peter Principle` `257·Span of Control`
 
 ### Applied AI (3 skills) — #0369A1
 `183·AI Authority Boundaries` `184·Minimal Capability Principle` `185·Prompt Injection`

@@ -61,6 +61,8 @@ The resolution: a six-week pause on safety-stock increases, a dedicated forecast
 
 ---
 
+→ [**Systems Thinking**](systems-thinking.md) — fixes that fail are only visible as a pattern through systems thinking; the linear view sees each fix in isolation and misses the archetype
+
 ## References
 
 - *Thinking in Systems: A Primer* — Donella H. Meadows (2008) — original source for systems archetypes including Fixes That Fail and Shifting the Burden.

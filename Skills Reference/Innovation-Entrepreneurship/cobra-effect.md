@@ -115,6 +115,7 @@ Eighteen months later: the ideas portal has 4,000 submissions. Innovation scores
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — Type 4 cobra interventions (dedicated innovation units) create a commons problem: each business unit free-rides on the assumption that the innovation unit will carry the innovation burden.
 → [**Experiment Ladder**](../Innovation-Entrepreneurship/experiment-ladder.md) — the antidote to cobra Type 1: measure outcomes at each rung of the experiment ladder rather than activity proxies.
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — the Pre-launch Cobra Risk Assessment above is best run as a pre-mortem: assume the intervention became a cobra and work backward to identify the mechanism.
+→ [**Incentive Design**](../Economics/incentive-design.md) — adversarial modelling before deployment is the incentive design practice that catches cobra-effect structures before they go live
 ## References
 
 - *Freakonomics: A Rogue Economist Explores the Hidden Side of Everything* — Steven D. Levitt & Stephen J. Dubner (2005) — perverse incentive structures where the intervention amplifies the problem.

@@ -49,6 +49,8 @@ A company pays its sales force a commission purely on bookings to align reps (ag
 → [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — principal-agent relationships often have a Prisoner's Dilemma structure: agents defect from principal interests when individual incentives dominate
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
 
+→ [**Incentive Design**](incentive-design.md) — the constructive discipline: incentive design is how you narrow the gap this model describes
+
 ## References
 
 **Originators:** Michael Jensen and William Meckling, "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure," 1976.

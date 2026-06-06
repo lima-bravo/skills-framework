@@ -74,6 +74,8 @@ A software company introduces a per-feature shipping bonus to lift engineering o
 → [**Purpose Clarity**](../Leadership/purpose-clarity.md) — leadership's primary mechanism for meeting the Relatedness need at scale; people cannot feel their work connects to something meaningful if no one has made that connection explicit
 → [**McClelland's Acquired Needs Theory**](mcclellands-acquired-needs-theory.md) — McClelland's Achievement, Affiliation, and Power needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture
 
+→ [**Incentive Design**](../Economics/incentive-design.md) — self-determination theory defines the intrinsic motivation boundary that extrinsic incentive structures must work within or risk crowding out
+
 ## References
 
 **Originators:** Edward L. Deci and Richard M. Ryan, University of Rochester, 1970s–2000.

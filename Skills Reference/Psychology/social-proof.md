@@ -46,7 +46,7 @@ A partner who has studied change dynamics tries a different approach. She select
 → [**Framing**](../Art/framing.md) — social proof provides the behaviour signal; framing shapes how that signal is interpreted and whether it triggers adoption
 → [**Anchoring**](anchoring.md) — both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one
 → [**Loss Aversion**](loss-aversion.md) — social proof often activates loss aversion: the fear of being the one who didn't adopt what everyone else has
-→ **Incentive Design** — formal incentives and social proof can work with or against each other; understanding both is necessary to predict which will dominate
+→ [**Incentive Design**](../Economics/incentive-design.md) — formal incentives and social proof can work with or against each other; understanding both is necessary to predict which will dominate
 → [**Narrative Instinct**](narrative-instinct.md) — the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when it is attached to a compelling narrative
 
 ## References

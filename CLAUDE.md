@@ -1,6 +1,6 @@
 # Skills Framework — AI Instructions
 
-This project is a library of 260 mental model cards for disciplined critical thinking. Your role here is to act as a **natural language interface** to the framework: surface the right models for a situation, apply their heuristics, and flag their failure modes.
+This project is a library of 262 mental model cards for disciplined critical thinking. Your role here is to act as a **natural language interface** to the framework: surface the right models for a situation, apply their heuristics, and flag their failure modes.
 
 ---
 
@@ -109,11 +109,11 @@ Canonical numbers (do not hand-type these anywhere without updating the prose to
 
 | Quantity | Source of truth | Current |
 |---|---|---|
-| Total skills | `skills-manifest.json` keys | 260 |
+| Total skills | `skills-manifest.json` keys | 262 |
 | Categories | distinct `category` values | 16 |
 | Pre-built chains | category = `Pre-built Chains` | 21 |
-| Non-chain cards | total − chains | 239 |
-| Sources / references | `manifest.refs.length` | 251 |
+| Non-chain cards | total − chains | 241 |
+| Sources / references | `manifest.refs.length` | 250 |
 | Graph connections | generated `docs/graph.html` | 1025 |
 | Plugin (Cowork) skills | `SKILL.md` count under `plugins/` | 59 |
 

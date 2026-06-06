@@ -1577,6 +1577,20 @@
       "name": "Fixes That Fail",
       "category": "Systems",
       "color": "#0D9488"
+    },
+    "Systems/systems-thinking.md": {
+      "id": 261,
+      "name": "Systems Thinking",
+      "category": "Systems",
+      "file": "Skills Reference/Systems/systems-thinking.md",
+      "color": "#0D9488"
+    },
+    "Economics/incentive-design.md": {
+      "id": 262,
+      "name": "Incentive Design",
+      "category": "Economics",
+      "file": "Skills Reference/Economics/incentive-design.md",
+      "color": "#16A34A"
     }
   },
   "refs": [
@@ -2409,6 +2423,11 @@
           "id": "Innovation-Entrepreneurship/cobra-effect.md",
           "name": "Cobra Effect",
           "color": "#DC2626"
+        },
+        {
+          "id": "Economics/incentive-design.md",
+          "name": "Incentive Design",
+          "color": "#16A34A"
         }
       ]
     },
@@ -4165,27 +4184,6 @@
       ]
     },
     {
-      "title": "The Fifth Discipline",
-      "authorYear": "Peter M. Senge (1990)",
-      "skills": [
-        {
-          "id": 14,
-          "name": "Ladder of Inference",
-          "color": "#3B82F6"
-        },
-        {
-          "id": 122,
-          "name": "Cynefin Framework",
-          "color": "#3B82F6"
-        },
-        {
-          "id": "General-Thinking/ladder-of-inference.md",
-          "name": "Ladder of Inference",
-          "color": "#3B82F6"
-        }
-      ]
-    },
-    {
       "title": "The Five Dysfunctions of a Team",
       "authorYear": "Patrick Lencioni (2002)",
       "skills": [
@@ -4281,6 +4279,11 @@
         {
           "id": 121,
           "name": "Principal–Agent Problem",
+          "color": "#16A34A"
+        },
+        {
+          "id": "Economics/incentive-design.md",
+          "name": "Incentive Design",
           "color": "#16A34A"
         }
       ]
@@ -4939,27 +4942,6 @@
       ]
     },
     {
-      "title": "Thinking in Systems",
-      "authorYear": "Donella H. Meadows (2008)",
-      "skills": [
-        {
-          "id": 17,
-          "name": "Feedback Loops",
-          "color": "#0D9488"
-        },
-        {
-          "id": 2,
-          "name": "Second-Order Effects",
-          "color": "#3B82F6"
-        },
-        {
-          "id": 42,
-          "name": "Velocity",
-          "color": "#EA580C"
-        }
-      ]
-    },
-    {
       "title": "Thinking, Fast and Slow",
       "authorYear": "Daniel Kahneman (2011)",
       "skills": [
@@ -5501,6 +5483,31 @@
           "id": "Systems/feedback-loops.md",
           "name": "Feedback Loops",
           "color": "#0D9488"
+        },
+        {
+          "id": 17,
+          "name": "Feedback Loops",
+          "color": "#0D9488"
+        },
+        {
+          "id": 2,
+          "name": "Second-Order Effects",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 42,
+          "name": "Velocity",
+          "color": "#EA580C"
+        },
+        {
+          "id": "Systems/systems-thinking.md",
+          "name": "Systems Thinking",
+          "color": "#0D9488"
+        },
+        {
+          "id": "Economics/incentive-design.md",
+          "name": "Incentive Design",
+          "color": "#16A34A"
         }
       ]
     },
@@ -5512,6 +5519,26 @@
           "id": 260,
           "name": "Fixes That Fail",
           "color": "#0D9488"
+        },
+        {
+          "id": 14,
+          "name": "Ladder of Inference",
+          "color": "#3B82F6"
+        },
+        {
+          "id": 122,
+          "name": "Cynefin Framework",
+          "color": "#3B82F6"
+        },
+        {
+          "id": "General-Thinking/ladder-of-inference.md",
+          "name": "Ladder of Inference",
+          "color": "#3B82F6"
+        },
+        {
+          "id": "Systems/systems-thinking.md",
+          "name": "Systems Thinking",
+          "color": "#0D9488"
         }
       ]
     },
@@ -5522,6 +5549,11 @@
         {
           "id": 260,
           "name": "Fixes That Fail",
+          "color": "#0D9488"
+        },
+        {
+          "id": "Systems/systems-thinking.md",
+          "name": "Systems Thinking",
           "color": "#0D9488"
         }
       ]
@@ -5883,6 +5915,17 @@
           "id": "Learning/five-hour-rule.md",
           "name": "Five-Hour Rule",
           "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "authorYear": "Daniel H. Pink (2009)",
+      "skills": [
+        {
+          "id": "Economics/incentive-design.md",
+          "name": "Incentive Design",
+          "color": "#16A34A"
         }
       ]
     }

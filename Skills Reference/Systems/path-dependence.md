@@ -57,6 +57,7 @@ The path dependence is severe: decades of integration debt mean that hundreds of
 → [**Sunk Cost**](../Psychology/sunk-cost.md) — sunk costs are a major source of path dependence; the psychology of sunk costs causes organisations to continue on a bad path rather than accept the switching cost.
 → [**S-Curves**](../Systems/s-curves.md) — path dependence often locks organisations onto a mature S-curve; platform shifts create new curves where switching cost is temporarily lower.
 → [**Network Effects**](../Network-Effects/network-effects.md) — network effects are the most powerful source of path dependence in markets: the larger an installed base, the higher the switching cost for any individual user or provider.
+→ [**Systems Thinking**](systems-thinking.md) — path dependence is a systems property: only visible when you map the full system's structural evolution, not individual component choices
 ## References
 
 - *Clio and the Economics of QWERTY* — Paul A. David, American Economic Review Vol. 75 No. 2 (1985) — the landmark paper demonstrating path dependence in technology adoption.
