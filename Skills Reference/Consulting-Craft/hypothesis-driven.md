@@ -48,7 +48,9 @@ A consulting team is engaged to diagnose declining margin in a 40-product portfo
 → [**Pyramid Principle**](pyramid-principle.md) — the communication structure that pairs naturally with hypothesis-driven work.
 → [**Experiment Design**](../Business/experiment-design.md) — the operational discipline behind testing hypotheses.
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — imagine the hypothesis is wrong; what would tell you?
-→ [**Theory of Change**](../Business/theory-of-change.md) — strategy as a falsifiable hypothesis.
+→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — strategy as a falsifiable hypothesis.
+→ [**Situation Assessment**](situation-assessment.md) — the fact base a day-one hypothesis must be tested against; without it, the "hypothesis" is a guess about a situation no one has actually examined.
+→ [**Structured Problem Solving**](structured-problem-solving.md) — hypothesis-driven framing as one of five components of an integrated posture; alone, it risks becoming advocacy dressed as rigor.
 
 ---
 

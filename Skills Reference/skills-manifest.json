@@ -746,7 +746,7 @@
     },
     "Economics/principal-agent-problem.md": {
       "id": 121,
-      "name": "Principal\u2013Agent Problem",
+      "name": "Principal–Agent Problem",
       "category": "Economics",
       "color": "#16A34A"
     },
@@ -926,7 +926,7 @@
     },
     "Delivery-and-Flow/one-thing.md": {
       "id": 151,
-      "name": "Strategic Prioritization (\u201cOne Thing\u201d)",
+      "name": "Strategic Prioritization (“One Thing”)",
       "category": "Delivery & Flow",
       "color": "#0891B2"
     },
@@ -1481,6 +1481,60 @@
       "name": "Organisational Degradation Scan",
       "category": "Pre-built Chains",
       "color": "#B45309"
+    },
+    "Pre-built-Chains/funnel-intake.md": {
+      "id": 245,
+      "name": "Funnel Intake",
+      "category": "Pre-built Chains",
+      "color": "#B45309"
+    },
+    "Consulting-Craft/situation-assessment.md": {
+      "id": 246,
+      "name": "Situation Assessment",
+      "category": "Consulting Craft",
+      "color": "#7C3AED"
+    },
+    "Business/growth-barriers.md": {
+      "id": 247,
+      "name": "Growth Barriers",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Business/profit-pool-analysis.md": {
+      "id": 248,
+      "name": "Profit Pool Analysis",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Business/customer-segmentation.md": {
+      "id": 249,
+      "name": "Customer Segmentation",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Business/kpi-architecture.md": {
+      "id": 250,
+      "name": "KPI Architecture",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Business/value-realization.md": {
+      "id": 251,
+      "name": "Value Realization",
+      "category": "Business",
+      "color": "#475569"
+    },
+    "Consulting-Craft/stakeholder-pre-wiring.md": {
+      "id": 252,
+      "name": "Stakeholder Pre-Wiring",
+      "category": "Consulting Craft",
+      "color": "#7C3AED"
+    },
+    "Consulting-Craft/structured-problem-solving.md": {
+      "id": 253,
+      "name": "Structured Problem Solving",
+      "category": "Consulting Craft",
+      "color": "#7C3AED"
     }
   },
   "refs": [
@@ -1518,7 +1572,7 @@
       ]
     },
     {
-      "title": "A Theory of Human Motivation \u2014 Psychological Review Vol. 50",
+      "title": "A Theory of Human Motivation — Psychological Review Vol. 50",
       "authorYear": "Abraham H. Maslow (1943)",
       "skills": [
         {
@@ -1747,7 +1801,7 @@
     },
     {
       "title": "Clear and Simple as the Truth",
-      "authorYear": "Francis-No\u00ebl Thomas & Mark Turner (1994)",
+      "authorYear": "Francis-Noël Thomas & Mark Turner (1994)",
       "skills": [
         {
           "id": 93,
@@ -1888,7 +1942,7 @@
     },
     {
       "title": "Daring Greatly",
-      "authorYear": "Bren\u00e9 Brown (2012)",
+      "authorYear": "Brené Brown (2012)",
       "skills": [
         {
           "id": 104,
@@ -1958,7 +2012,7 @@
     },
     {
       "title": "Discourse on the Method",
-      "authorYear": "Ren\u00e9 Descartes (1637)",
+      "authorYear": "René Descartes (1637)",
       "skills": [
         {
           "id": 0,
@@ -1996,7 +2050,7 @@
     },
     {
       "title": "Elements of Pure Economics",
-      "authorYear": "L\u00e9on Walras (1874)",
+      "authorYear": "Léon Walras (1874)",
       "skills": [
         {
           "id": 20,
@@ -2028,7 +2082,7 @@
       ]
     },
     {
-      "title": "Exploration and Exploitation in Organizational Learning \u2014 Organization Science Vol. 2",
+      "title": "Exploration and Exploitation in Organizational Learning — Organization Science Vol. 2",
       "authorYear": "James G. March (1991)",
       "skills": [
         {
@@ -2105,7 +2159,7 @@
       ]
     },
     {
-      "title": "G\u00f6del, Escher, Bach: An Eternal Golden Braid",
+      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
       "authorYear": "Douglas R. Hofstadter (1979)",
       "skills": [
         {
@@ -2166,7 +2220,7 @@
     },
     {
       "title": "How to Solve It",
-      "authorYear": "George P\u00f3lya (1945)",
+      "authorYear": "George Pólya (1945)",
       "skills": [
         {
           "id": 76,
@@ -2322,7 +2376,7 @@
       ]
     },
     {
-      "title": "Judgment under Uncertainty: Heuristics and Biases \u2014 Science Vol. 185",
+      "title": "Judgment under Uncertainty: Heuristics and Biases — Science Vol. 185",
       "authorYear": "Daniel Kahneman & Amos Tversky (1974)",
       "skills": [
         {
@@ -2431,7 +2485,7 @@
       "skills": [
         {
           "id": 120,
-          "name": "Goodhart\u2019s Law",
+          "name": "Goodhart’s Law",
           "color": "#16A34A"
         }
       ]
@@ -2717,7 +2771,7 @@
         },
         {
           "id": 121,
-          "name": "Principal\u2013Agent Problem",
+          "name": "Principal–Agent Problem",
           "color": "#16A34A"
         }
       ]
@@ -3185,7 +3239,7 @@
       ]
     },
     {
-      "title": "The Cost of Interrupted Work: More Speed and Stress \u2014 CHI Proceedings",
+      "title": "The Cost of Interrupted Work: More Speed and Stress — CHI Proceedings",
       "authorYear": "Gloria Mark, Daniela Gudith & Ulrich Klocke (2008)",
       "skills": [
         {
@@ -3429,7 +3483,7 @@
       "skills": [
         {
           "id": 121,
-          "name": "Principal\u2013Agent Problem",
+          "name": "Principal–Agent Problem",
           "color": "#16A34A"
         }
       ]
@@ -3819,7 +3873,7 @@
     },
     {
       "title": "The Strategy and Tactics of Pricing",
-      "authorYear": "Thomas T. Nagle & Georg M\u00fcller (2018)",
+      "authorYear": "Thomas T. Nagle & Georg Müller (2018)",
       "skills": [
         {
           "id": 94,
@@ -3850,7 +3904,7 @@
       "skills": [
         {
           "id": 120,
-          "name": "Goodhart\u2019s Law",
+          "name": "Goodhart’s Law",
           "color": "#16A34A"
         }
       ]
@@ -4017,7 +4071,7 @@
       ]
     },
     {
-      "title": "Toward a Theory of Stakeholder Identification and Salience \u2014 AMR Vol. 22 No. 4",
+      "title": "Toward a Theory of Stakeholder Identification and Salience — AMR Vol. 22 No. 4",
       "authorYear": "R.K. Mitchell, B.R. Agle & D.J. Wood (1997)",
       "skills": [
         {

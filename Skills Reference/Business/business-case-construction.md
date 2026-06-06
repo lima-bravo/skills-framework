@@ -66,6 +66,7 @@ The revised case is approved at a reduced headline savings figure (£1.9M base c
 - **Pyramid Principle** — the structural principle for presenting the case: decision and recommendation first, then the supporting analysis
 - **Sunk Cost** — the most common failure in mid-investment reviews; a business case that has been approved becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence
 - **Observer Bias** — the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence
+- **[Value Realization](value-realization.md)** — the discipline that completes the loop this card starts: a business case states what should happen if approved; value realization is how the organisation finds out, after the money is spent, whether it actually did
 
 ---
 

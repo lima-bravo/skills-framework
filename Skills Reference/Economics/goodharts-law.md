@@ -45,6 +45,7 @@ A hospital system under pressure to cut emergency-department waiting times sets 
 - **Feedback Loops** — measurement creates feedback loops that can go reinforcing in the wrong direction
 - **Optimization** — local optimisation of a proxy metric is how this failure mode manifests
 - [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when shared metrics are used to manage shared resources, Goodhart's Law can weaponise the measurement system itself
+- [**KPI Architecture**](../Business/kpi-architecture.md) — the design discipline that builds Goodhart-drift detection into the measurement system itself: small metric sets, named owners, and review cadences fast enough to catch a proxy curdling into a target
 
 ## References
 

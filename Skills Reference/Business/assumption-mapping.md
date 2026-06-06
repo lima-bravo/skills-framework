@@ -48,6 +48,7 @@ A team is planning a new market entry. They list their assumptions and find 35. 
 → [**Experiment Design**](experiment-design.md) — once the experiment type is selected, experiment design defines how to run it validly — hypothesis, success criteria, sample size.
 → [**Observer Bias**](../Psychology/observer-bias.md) — the assumptions an evaluator holds about a candidate or option are the source of expectation that drives observer bias; surfacing assumptions before evaluation is the upstream intervention.
 → [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — assumption mapping is Step 3 in this chain; the full sequence shows how to go from idea to a testable hypothesis with kill criteria
+→ [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — the broader diagnostic discipline that surfaces what's known, believed, and unknown about a *situation*; assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy
 
 ---
 

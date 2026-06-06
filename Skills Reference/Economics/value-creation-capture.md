@@ -64,6 +64,7 @@ Strategic options: (1) Sell to payers who bear the readmission cost — direct c
 - **Network Effects** — network effects are one of the strongest capture mechanisms: as the network grows, switching costs rise and the share of created value that can be captured increases
 - **Disruptive Innovation** — disruption often involves creating a new value creation/capture pairing that incumbent players can't match without destroying their existing capture mechanism
 - **Business Model Canvas** — the revenue streams section of the canvas is the capture design; the value proposition section is the creation design; misalignment between the two is the most common business model failure
+- [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — this card explains *why* value capture concentrates where it does at the level of a single firm or transaction; profit pool analysis maps the same dynamic across an entire market or value chain, asking where the capture concentrates system-wide and why
 
 ---
 

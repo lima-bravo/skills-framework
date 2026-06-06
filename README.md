@@ -2,7 +2,7 @@
 
 **🌐 Live site: [lima-bravo.github.io/skills-framework](https://lima-bravo.github.io/skills-framework)**
 
-A mental-models framework with a publishable **reference website** (`docs/`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **244 skills** across **16 categories** (source of truth: `skills-manifest.json`).
+A mental-models framework with a publishable **reference website** (`docs/`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **253 skills** across **16 categories** (source of truth: `skills-manifest.json`).
 
 ## Where to start
 
@@ -50,7 +50,7 @@ Open [`docs/deck.html`](docs/deck.html) in any browser.
 
 The deck includes:
 
-- Search and category filters across **244 skills**
+- Search and category filters across **253 skills**
 - Expandable skill modals with cross-links
 - **Sources & References** panel (**205** sources)
 
@@ -101,7 +101,7 @@ Requires Node.js 18+.
 
 ### Claude Cowork / Code skills
 
-The deck's **244 reference cards** are not exported 1:1. `npm run build:cowork` generates **51 procedural skills** in six plugins under `plugins/`:
+The deck's **253 reference cards** are not exported 1:1. `npm run build:cowork` generates **51 procedural skills** in six plugins under `plugins/`:
 
 | Plugin | Skills | Purpose |
 |--------|--------|---------|
@@ -168,7 +168,7 @@ The full list of slash commands per plugin is in each plugin's `README.md` under
 Skills Framework.md          # Master compendium (pre-card-deck era; partial)
 Skills Reference/
   _ai-index.md               # AI-readable framework index (keep in sync)
-  skills-manifest.json       # Canonical registry: ids, categories, refs (244 skills)
+  skills-manifest.json       # Canonical registry: ids, categories, refs (253 skills)
   training-guide.md          # How to learn and apply the framework (source)
   skill-primer.md            # Guide for first-time card readers (source)
   deck.template.html         # Deck shell (edit layout/CSS here)

@@ -45,6 +45,7 @@ Amazon's portfolio across the three horizons is a live case study. H1 is the e-c
 
 ## Connections
 
+→ [**Funnel Intake**](../Pre-built-Chains/funnel-intake.md) — Step 3A of this chain uses Three Horizons to classify ideas by horizon and check that the funnel's management logic matches before committing capacity
 → [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — Three Horizons is the strategic planning expression of exploration vs. exploitation: H1 is exploitation, H3 is exploration, H2 is the managed transition between them.
 → [**Portfolio Map**](portfolio-map.md) — the portfolio map provides the tool for visualizing and managing the H1/H2/H3 allocation; Three Horizons provides the strategic logic for why the allocation matters.
 → [**Disruptive Innovation**](disruptive-innovation.md) — H3 is where disruptive threats and disruptive opportunities are most likely to emerge; managing H3 explicitly is the structural defense against being disrupted and the structural mechanism for disrupting others.

@@ -45,6 +45,7 @@ A FMCG company runs an annual innovation sprint: 200 ideas entered, 50 developed
 → [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — each stage of the funnel is a BML cycle.
 → [**Assumption Mapping**](assumption-mapping.md) — each stage tests specific assumptions before advancing.
 → [**Portfolio Map**](portfolio-map.md) — the portfolio map shows the aggregate distribution of bets across stages.
+→ [**Funnel Intake**](../Pre-built-Chains/funnel-intake.md) — the chain that gates ideas into the funnel: enriches via First Principles + JTBD, then runs a strategic fit check before committing funnel capacity
 → [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — the chain that converts funnel ideas into testable hypotheses with explicit kill criteria
 
 ---

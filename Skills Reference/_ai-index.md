@@ -1,10 +1,10 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-06-02 | 244 skills | 16 categories | 926 graph connections -->
+<!-- Last updated: 2026-06-06 | 253 skills | 16 categories | 989 graph connections -->
 
 ## What this framework is
 
-A library of 244 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 20 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
+A library of 253 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 21 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
 
 **Primary use:** Surface the right model(s) for a situation, then apply structured reasoning through heuristics and failure modes.
 
@@ -17,7 +17,7 @@ A library of 244 mental models, each as a standalone markdown card. Cards follow
 | `skills-manifest.json` | Canonical registry: all skills with id, name, category, file path, hex color |
 | `index.html` | Interactive card deck (browser). Deep-link: `index.html?open=ID` or `?q=text` |
 | `graph.html` | Connection graph — shows how models relate. Best discovery entry point. |
-| `situation-finder.html` | Situation-to-skill matcher. 45 situations → recommended skill clusters |
+| `situation-finder.html` | Situation-to-skill matcher. 62 situations → recommended skill clusters |
 | `training-guide.md` | How to use the framework: tiers, chaining, worked scenarios |
 | `skill-primer.md` | Short guide for first-time readers of a single card |
 | `{Category}/filename.md` | Individual skill cards — see inventory below |
@@ -26,7 +26,7 @@ A library of 244 mental models, each as a standalone markdown card. Cards follow
 
 ## How to use
 
-1. **For a specific situation:** Check `situation-finder.html` first — 45 common workplace situations mapped to skill clusters.
+1. **For a specific situation:** Check `situation-finder.html` first — 62 common workplace situations mapped to skill clusters.
 2. **For a topic or keyword:** Search `index.html?q=your+term` or grep the markdown files.
 3. **For a deep read:** Read a card's **Mental Model** paragraph first, then **Practitioner Heuristics**. Skip Definition if the concept is familiar.
 4. **For chaining models:** Use a Pre-built Chain card (ids 94–100, 117, 130, 168–170, 177–178, 186–187, 198) or consult `training-guide.md` for manual chaining patterns.
@@ -56,8 +56,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Innovation & Entrepreneurship (23 skills) — #DC2626
 `62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder` `237·Cobra Effect`
 
-### Business (17 skills) — #475569
-`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping` `224·Red Teaming` `225·A/B Testing` `241·Parkinson's Law`
+### Business (22 skills) — #475569
+`68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping` `224·Red Teaming` `225·A/B Testing` `241·Parkinson's Law` `247·Growth Barriers` `248·Profit Pool Analysis` `249·Customer Segmentation` `250·KPI Architecture` `251·Value Realization`
 
 ### Mathematics (11 skills) — #4F46E5
 `75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero` `227·Expected Value` `228·Bayesian Updating` `233·Fermi Estimation` `238·Power Law`
@@ -74,11 +74,11 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Delivery & Flow (31 skills) — #0891B2
 `131·Little's Law` `132·WIP Limits` `133·Flow Efficiency vs Resource Efficiency` `134·Lead Time vs Cycle Time` `135·Queueing & Wait Time` `136·Batch Size Reduction` `137·Cost of Delay` `138·Kanban Method` `139·Value Stream Mapping` `140·Statistical Variability` `141·Probabilistic Forecasting` `142·DORA Metrics` `143·Flow Metrics` `144·Outcome vs Output` `145·A3 Problem Solving` `146·PDCA` `147·Gemba` `148·Attention Budget` `149·Context-Switching Cost` `150·Cognitive Load (Team)` `151·Strategic Prioritization ("One Thing")` `152·OKRs` `153·Kill Criteria` `154·Team Topologies` `155·Inverse Conway Maneuver` `156·Dependency Management` `157·Feature Factory vs Product Orientation` `158·Lean Portfolio Management` `159·WSJF` `160·Reference Class Forecasting` `209·Empirical Process Control`
 
-### Consulting Craft (5 skills) — #7C3AED
-`161·Hypothesis-Driven Consulting` `162·MECE` `163·Pyramid Principle` `164·Engagement Lifecycle` `165·Contracting & Scope`
+### Consulting Craft (8 skills) — #7C3AED
+`161·Hypothesis-Driven Consulting` `162·MECE` `163·Pyramid Principle` `164·Engagement Lifecycle` `165·Contracting & Scope` `246·Situation Assessment` `252·Stakeholder Pre-Wiring` `253·Structured Problem Solving`
 
-### Pre-built Chains (20 skills) — #B45309
-`94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run` `244·Organisational Degradation Scan`
+### Pre-built Chains (21 skills) — #B45309
+`94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run` `244·Organisational Degradation Scan` `245·Funnel Intake`
 
 ### Leadership (16 skills) — #1E40AF
 `118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building` `242·Peter Principle`
@@ -104,6 +104,7 @@ Format: `id·Name` — file at `Category/filename.md`
 | Change resistance | 205·Commitment & Consistency Bias → 167·Immunity to Change → 125·Change Management |
 | Delivery flow broken | 18·Bottlenecks → 132·WIP Limits → 131·Little's Law → 133·Flow Efficiency |
 | Innovation programme | Chain 177 → Chain 178 → 113·Three Horizons |
+| Raw idea needs enrichment before the funnel | Chain 245·Funnel Intake → Chain 213·From Idea to Hypothesis → Chain 214·Crawl / Walk / Run |
 | Funnel idea needs a hypothesis | Chain 213·From Idea to Hypothesis → Chain 214·Crawl / Walk / Run |
 | Business case needs stress-testing | 218·Business Case Construction → 160·Reference Class Forecasting → 211·Calibration |
 | Need to move something without rank | 220·Power Mapping → 221·Influence Without Authority → 222·Coalition Building |
@@ -117,6 +118,10 @@ Format: `id·Name` — file at `Category/filename.md`
 | System that resists change structurally | 235·Path Dependence → 43·Inertia → 16·Two-Way Doors |
 | Sizing an unknown opportunity | 233·Fermi Estimation → 227·Expected Value → 211·Calibration |
 | Shared good degrading / underinvestment | 232·Free Rider Problem → 231·Tragedy of the Commons → 51·Incentives |
+| New strategy question, before solutioning | 246·Situation Assessment → 253·Structured Problem Solving → 161·Hypothesis-Driven Consulting |
+| Growth has stalled | 246·Situation Assessment → 247·Growth Barriers → 18·Bottlenecks |
+| Recommendation needs to land in the room | 252·Stakeholder Pre-Wiring → 74·Stakeholder Mapping (Salience Model) → 163·Pyramid Principle |
+| Investment approved — now make it stick | 218·Business Case Construction → 251·Value Realization → 153·Kill Criteria |
 | Change programme may be sustaining the problem | 237·Cobra Effect → 120·Goodhart's Law → 10·Pre-mortem |
 | Risk model may be missing tail events | 240·Black Swan → 238·Power Law → 24·Margin of Safety |
 | Organisation scaling and degrading | 244·Organisational Degradation Scan → 130·Transformation Chain |
@@ -127,4 +132,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 244 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 253 skills · 16 categories · `skills-manifest.json` is authoritative*

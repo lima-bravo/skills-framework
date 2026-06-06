@@ -73,6 +73,7 @@ The competing frame made the product insight clear: the milkshake competed not w
 → [**Loss Aversion**](../Psychology/loss-aversion.md) — the anxiety and inertia forces in Moesta's model are largely driven by loss aversion: the perceived cost of switching feels larger than the perceived gain, even when the rational calculus favors the switch.
 → [**Activation Energy**](../Physics-and-Chemistry/activation-energy.md) — the struggling moment is the threshold of activation energy for demand: until push is strong enough to overcome inertia and anxiety, the customer is not in the market regardless of pull.
 → [**Inertia**](../Physics-and-Chemistry/inertia.md) — the fourth force directly: the tendency of a customer's situation to remain unchanged is a structural property of any adoption problem, not a temporary obstacle to be overcome with better messaging.
+→ [**Customer Segmentation**](../Business/customer-segmentation.md) — JTBD discovers which jobs exist and how customers experience them; segmentation is the strategic move of grouping customers by which jobs they share and how much each group is worth pursuing — discovery and grouping are different activities that should not be conflated.
 → [**First Principles**](../General-Thinking/first-principles.md) — JTBD is an application of first principles to product strategy: stripping away assumptions about product categories to ask what the customer fundamentally needs and what moment makes that need urgent.
 
 ---

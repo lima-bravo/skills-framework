@@ -1,6 +1,6 @@
 # Skills Framework — AI Instructions
 
-This project is a library of 244 mental model cards for disciplined critical thinking. Your role here is to act as a **natural language interface** to the framework: surface the right models for a situation, apply their heuristics, and flag their failure modes.
+This project is a library of 253 mental model cards for disciplined critical thinking. Your role here is to act as a **natural language interface** to the framework: surface the right models for a situation, apply their heuristics, and flag their failure modes.
 
 ---
 
@@ -109,12 +109,12 @@ Canonical numbers (do not hand-type these anywhere without updating the prose to
 
 | Quantity | Source of truth | Current |
 |---|---|---|
-| Total skills | `skills-manifest.json` keys | 244 |
+| Total skills | `skills-manifest.json` keys | 253 |
 | Categories | distinct `category` values | 16 |
-| Pre-built chains | category = `Pre-built Chains` | 20 |
-| Non-chain cards | total − chains | 224 |
+| Pre-built chains | category = `Pre-built Chains` | 21 |
+| Non-chain cards | total − chains | 232 |
 | Sources / references | `manifest.refs.length` | 205 |
-| Graph connections | generated `docs/graph.html` | 926 |
+| Graph connections | generated `docs/graph.html` | 989 |
 | Plugin (Cowork) skills | `SKILL.md` count under `plugins/` | 51 |
 
 When a count legitimately changes: edit cards/manifest, run `npm run build`, then read the checker output — it names the exact prose lines still to fix. If you reword a sentence that contains a count, update the matching regex in `check-counts.mjs` (a `NO MATCH` warning means the pattern no longer finds its line). This replaces the brittle manual "update the count in every ❌ file" steps above — those edits are still made by hand, but the checker now guarantees they were not missed.

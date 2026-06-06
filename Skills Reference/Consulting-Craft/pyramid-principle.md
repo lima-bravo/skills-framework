@@ -50,6 +50,8 @@ A consulting team prepares a CFO-facing recommendation on whether to centralize 
 → [**Framing**](../Art/framing.md) — the executive summary's persuasion comes from framing; the pyramid is the framing's skeleton.
 → [**Audience**](../Art/audience.md) — the pyramid structure assumes a specific audience and reading mode.
 → [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — the Pyramid Principle operationalises Grice's Maxims of Quantity and Manner in document structure; the Maxims are the underlying theory, the pyramid is one application.
+→ [**Stakeholder Pre-Wiring**](stakeholder-pre-wiring.md) — the pyramid structures what gets said in the room; pre-wiring is what ensures the room is already disposed to agree with where the structure lands.
+→ [**Structured Problem Solving**](structured-problem-solving.md) — answer-first delivery as one of five components of an integrated posture; the pyramid is its communication architecture.
 
 ---
 
