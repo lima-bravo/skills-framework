@@ -49,6 +49,8 @@ An e-commerce team is testing whether a new checkout flow improves conversion. T
 → [**Observer Bias**](../Psychology/observer-bias.md) — a control group is necessary but not sufficient; blinded evaluation ensures assessors cannot unconsciously align measurements with expectations.
 → [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — experiment design disciplines every stage of this chain; the chain specifies what question to answer, experiment design specifies how to answer it validly
 → [**A/B Testing**](ab-testing.md) — A/B testing is the most common operationalisation of experiment design in product and marketing practice; the general principles here govern the specifics there
+→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — in Complex domains, experiments replace analysis as the primary evidence-generating method; Cynefin prescribes when to use safe-to-fail probing over upfront planning.
+
 ## References
 
 - *The Design of Experiments* — Ronald A. Fisher (1935) — the foundational text of controlled experimental design and statistical validity.

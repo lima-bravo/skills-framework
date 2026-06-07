@@ -5476,6 +5476,17 @@
           "color": "#9333EA"
         }
       ]
+    },
+    {
+      "title": "A Leader's Framework for Decision Making",
+      "authorYear": "Dave Snowden & Mary Boone, Harvard Business Review (2007)",
+      "skills": [
+        {
+          "id": 122,
+          "name": "Cynefin Framework",
+          "color": "#3B82F6"
+        }
+      ]
     }
   ]
 }

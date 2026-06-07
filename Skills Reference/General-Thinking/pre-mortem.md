@@ -51,6 +51,7 @@ A company is about to launch a new pricing model. Pre-mortem: "It is Q4 and the 
 → [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — the Pre-launch Cobra Risk Assessment is best run as a pre-mortem: assume the intervention became a cobra and work backward to identify the mechanism.
 → [**Post-mortem**](post-mortem.md) — the bookends: the pre-mortem imagines future failure before commitment; the post-mortem analyses actual failure after it occurs. A mature team practices both.
 → [**De Bono's Six Thinking Hats**](de-bonos-six-thinking-hats.md) — the Black Hat is the group-thinking equivalent of the pre-mortem; the Six Hats framework provides the structure for running one without triggering ego-defense dynamics.
+→ [**Cynefin Framework**](cynefin-framework.md) — pre-mortems are most predictive in Complicated domains; in Complex domains, cause-and-effect visibility only emerges in retrospect, which limits how much a pre-mortem can anticipate.
 
 ## References
 

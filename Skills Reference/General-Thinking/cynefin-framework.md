@@ -16,11 +16,15 @@ The Cynefin Framework (Welsh: "habitat") is a sense-making model developed by Da
 
 The framework's power is prescriptive: applying a Complicated-domain method to a Complex-domain problem is not just inefficient — it is structurally wrong.
 
+---
+
 ## Mental Model
 
 The key distinction is **Complicated vs. Complex**. A complicated problem has many parts but a correct answer an expert can find (sending a rocket to the moon). A complex problem has emergent behaviour that cannot be predicted in advance — the answer cannot be known before you try because the trying itself changes the system.
 
 **The danger zone:** the cliff between Clear and Chaotic. Over-confidence in established best practice can cause a Clear situation to tip suddenly into Chaos when conditions change.
+
+---
 
 ## Practitioner Heuristics
 
@@ -30,6 +34,8 @@ The key distinction is **Complicated vs. Complex**. A complicated problem has ma
 - **In Chaos, act first to establish stability, then sense.** The Chaotic domain rewards decisive action to create enough order to move the situation into Complex, where probing becomes possible; hesitating to analyse a crisis is the wrong move.
 - **Watch the cliff between Clear and Chaotic.** Complacency in the Clear domain — treating established best practice as permanent — is what lets conditions shift and tip a stable situation straight into chaos.
 
+---
+
 ## Common Failure Modes
 
 - **Treating everything as Complicated.** The default of expert-driven organisations: assuming every problem has a knowable right answer if enough analysis is applied, which fails silently on Complex problems where emergence dominates.
@@ -37,9 +43,13 @@ The key distinction is **Complicated vs. Complex**. A complicated problem has ma
 - **Analysis paralysis in Chaos.** Trying to gather data and plan during a crisis that demands immediate stabilising action — the domain calls for acting first, not understanding first.
 - **Using the framework to label rather than to decide.** Naming a problem "complex" and stopping there adds nothing; the point of the diagnosis is to change the method, not to categorise.
 
+---
+
 ## Worked Example
 
 A bank rolls out a process-improvement methodology that worked beautifully in its back-office operations — high-volume, repeatable, Clear-domain work where best practice genuinely transfers — and applies the same playbook to its new digital product team. There it fails completely: customer behaviour in a new market is a Complex domain, where the right feature set cannot be known in advance and emerges only through contact with real users. The methodology's detailed upfront specification and stage-gate approval, exactly right for the back office, suppress the rapid probe-sense-respond cycling the product work needs. Cynefin names the error precisely — a Complicated-domain method applied to a Complex problem — and prescribes the correction: replace analyse-then-execute with a series of safe-to-fail experiments, sensing which features users actually adopt and amplifying those, rather than trying to analyse the answer into existence.
+
+---
 
 ## Connections
 
@@ -54,13 +64,10 @@ A bank rolls out a process-improvement methodology that worked beautifully in it
 
 ## References
 
-**Originator:** Dave Snowden, IBM Global Services, 1999.
+- *"A Leader's Framework for Decision Making"* — Dave Snowden & Mary Boone, Harvard Business Review (2007) — the foundational introduction to Cynefin and its prescriptive relationship between domain type and decision method.
+- *Cynefin: Weaving Sense-Making into the Fabric of Our World* — Dave Snowden et al. (2020) — the comprehensive treatment of Cynefin as a sense-making and decision-support framework.
+- *The Fifth Discipline: The Art and Practice of the Learning Organization* — Peter M. Senge (1990) — systems thinking and learning organization theory sharing Cynefin's emphasis on emergence and the limits of linear cause-and-effect reasoning.
 
-- *"A Leader's Framework for Decision Making"* — Dave Snowden & Mary Boone, Harvard Business Review, 2007
-- *Cynefin: Weaving Sense-Making into the Fabric of Our World* — Dave Snowden et al., 2020
-- *The Fifth Discipline* — Peter Senge, 1990
-
----
 
 ---
 
