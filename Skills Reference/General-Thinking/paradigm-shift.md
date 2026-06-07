@@ -69,6 +69,7 @@ What emerged was not a refutation of significance testing but a reconceptualizat
 → [**Immunity to Change**](../Psychology/immunity-to-change.md) — the individual-level architecture that maps onto the organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks.
 → [**First Principles**](first-principles.md) — the deliberate method for breaking out of paradigmatic assumptions; where Kuhn describes how paradigm shifts happen historically, first-principles reasoning is the practitioner's attempt to force the shift intentionally.
 → [**Cynefin Framework**](cynefin-framework.md) — normal science operates in complicated and clear domains; paradigm crisis is often a signal that the domain has become complex and the existing methods have lost their predictive validity.
+→ [**Overton Window**](overton-window.md) — a paradigm shift is the large-scale version of an Overton Window shift: the entire frame of acceptable ideas changes, not just one proposal at the boundary.
 
 ## References
 

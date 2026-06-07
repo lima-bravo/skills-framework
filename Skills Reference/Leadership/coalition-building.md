@@ -64,6 +64,7 @@ By the time the ExCo discussion occurs, the framework has five active divisional
 → [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — coalition members who have publicly committed to the initiative are significantly more likely to sustain that support under pressure than those who have only privately agreed
 → [**Social Proof**](../Psychology/social-proof.md) — the visible size and credibility of the coalition influences undecided stakeholders; announcing coalition membership strategically is a social proof intervention
 → [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — coalition members are agents whose individual interests may not fully align with the coalition's stated purpose; understanding each member's private incentives is necessary for predicting where fracture is most likely
+→ [**Overton Window**](../General-Thinking/overton-window.md) — moving the Overton Window requires building a coalition of advocates who normalise boundary positions before the main proposal is made; coalition building is the organisational mechanism of window-shifting.
 
 ---
 

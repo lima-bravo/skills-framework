@@ -5618,6 +5618,17 @@
           "color": "#3B82F6"
         }
       ]
+    },
+    {
+      "title": "\"An Introduction to the Overton Window of Political Possibilities\"",
+      "authorYear": "Joseph G. Lehman, Mackinac Center for Public Policy (2006)",
+      "skills": [
+        {
+          "id": 234,
+          "name": "Overton Window",
+          "color": "#3B82F6"
+        }
+      ]
     }
   ]
 }

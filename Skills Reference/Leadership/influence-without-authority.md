@@ -64,6 +64,7 @@ Total elapsed time: eight weeks. No formal authority was used. The outcome was b
 → [**Trust**](../Psychology/trust.md) — the substrate on which influence is built; without trust, credibility claims are not believed and reciprocity offers are treated with suspicion
 → [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — maps who has legitimate standing and what they care about; complements power mapping as input to an influence strategy
 → [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — when you influence an agent whose interests diverge from the principal's, the influence may not produce the organisational outcome you intended; understand whose interests you are actually activating
+→ [**Overton Window**](../General-Thinking/overton-window.md) — Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask.
 
 ---
 

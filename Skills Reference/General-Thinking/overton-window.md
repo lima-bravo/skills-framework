@@ -57,9 +57,11 @@ By 2022, post-pandemic, the window has moved substantially on its own — but he
 → [**Anchoring**](../Psychology/anchoring.md) — the extreme-position-then-moderate tactic is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable.
 → [**Narrative Instinct**](../Psychology/narrative-instinct.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts the window.
 → [**Influence Without Authority**](../Leadership/influence-without-authority.md) — Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask.
+
 ## References
 
-- *Switch: How to Change Things When Change Is Hard* — Chip Heath & Dan Heath (2010) — the practical framework for moving the window of acceptable change in organizations.
+- *"An Introduction to the Overton Window of Political Possibilities"* — Joseph G. Lehman, Mackinac Center for Public Policy (2006) — the foundational public articulation of the concept Overton developed in the 1990s; defines the window, its zones, and the mechanism of shifting.
+- *Switch: How to Change Things When Change Is Hard* — Chip Heath & Dan Heath (2010) — the practical framework for sequencing change proposals to move the window of acceptable change in organizations.
 
 
 ---

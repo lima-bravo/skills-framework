@@ -51,6 +51,7 @@ The narrative instinct produced a story centred on a protagonist (the founder), 
 → [**First Principles Thinking**](../General-Thinking/first-principles.md) — the antidote; it starts from structure and evidence rather than inherited narrative
 → [**Pre-Mortem**](../General-Thinking/pre-mortem.md) — deliberately invokes a failure narrative to surface what the success narrative suppresses
 → [**Survivorship Bias**](survivorship-bias.md) — the survivor record is almost always presented as a success narrative, which makes the missing failure data even harder to notice
+→ [**Overton Window**](../General-Thinking/overton-window.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts what ideas are considered acceptable for serious discussion.
 
 ## References
 
