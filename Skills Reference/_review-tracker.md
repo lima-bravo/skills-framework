@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **33**
+- Reviewed (verified + fixed): **34**
 - Flagged: **0**
-- Remaining (todo): **229**
+- Remaining (todo): **228**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -90,7 +90,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#19` **Emergence** · `Systems/emergence.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Miller & Page 2007 (Gap-A); backlinks in feedback-loops, critical-mass
 - [x] `#20` **Equilibrium** · `Systems/equilibrium.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Nasar 1998 (Gap-A); backlinks in activation-energy, creative-destruction
 - [x] `#21` **Scale** · `Systems/scale.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Anderson 2006 (Gap-A); backlinks in diminishing-returns, critical-mass
-- [ ] `#22` **Critical Mass** · `Systems/critical-mass.md` · **st:** todo · **n:** —
+- [x] `#22` **Critical Mass** · `Systems/critical-mass.md` · **st:** fixed · **n:** removed duplicate --- footer; manifest refs verified; backlink added in feedback-loops
 - [ ] `#23` **Diminishing Returns** · `Systems/diminishing-returns.md` · **st:** todo · **n:** —
 - [ ] `#24` **Margin of Safety** · `Systems/margin-of-safety.md` · **st:** todo · **n:** —
 - [ ] `#25` **Churn** · `Systems/churn.md` · **st:** todo · **n:** —

@@ -53,6 +53,7 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Post-mortem**](../General-Thinking/post-mortem.md) — the post-mortem closes the feedback loop on organizational action: action → outcome → structured learning → updated action.
 → [**Causal Analysis**](../General-Thinking/causal-analysis.md) — systems-based causal analysis is feedback loop analysis applied to problem diagnosis; when a problem recurs despite fixes, the causal structure is a loop, not a chain.
 → [**Emergence**](emergence.md) — feedback dynamics are among the primary mechanisms through which emergent properties arise at the system level.
+→ [**Critical Mass**](critical-mass.md) — the threshold above which a reinforcing feedback loop becomes self-sustaining; identifying it tells you how much input is required to tip the dynamic.
 
 ## References
 
