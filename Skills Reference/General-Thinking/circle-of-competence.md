@@ -49,6 +49,8 @@ A successful SaaS founder raises a fund and begins making angel investments. Her
 → [**Dunning-Kruger**](../Psychology/dunning-kruger.md) — the psychological mechanism that makes circle self-assessment hard; understanding one reinforces the other.
 → [**Probabilistic Thinking**](probabilistic-thinking.md)
 → [**Calibration**](calibration.md) — an honest circle of competence is the first input to good calibration; overconfident people draw their circles too large and their confidence intervals too narrow. — within your circle, probability estimates are more reliable. Outside it, confidence intervals should widen dramatically.
+→ [**Hanlon's Razor**](hanlons-razor.md) — distinguishing malice from incompetence requires domain knowledge; outside your circle, technical complexity is easily mistaken for deliberate obfuscation.
+
 ## References
 
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — the primary source for the Circle of Competence as a decision discipline.

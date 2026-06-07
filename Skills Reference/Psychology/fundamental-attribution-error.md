@@ -50,6 +50,7 @@ The FAE led the manager to replace the person rather than redesign the system. T
 → [**Systems Thinking**](../Systems/systems-thinking.md) — the antidote to FAE at scale; systems thinking makes situational forces legible
 → [**Narrative Instinct**](narrative-instinct.md) — humans favour agent-causal stories (someone did this for reasons) over system-causal stories (conditions made this outcome likely); FAE is narrative instinct applied to blame
 → [**Incentive Design**](../Economics/incentive-design.md) — if FAE leads you to keep redesigning the person instead of the incentive structure, you'll keep solving the wrong problem
+→ [**Hanlon's Razor**](../General-Thinking/hanlons-razor.md) — Hanlon's Razor is the practical decision rule that FAE explains: the tendency to default to malice is the FAE applied to intentionality.
 
 ## References
 

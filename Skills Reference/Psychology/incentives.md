@@ -49,6 +49,8 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — equilibria are determined by the incentive structure; redesigning incentives is the primary lever for changing which equilibrium players land in.
 → [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — the Prisoner's Dilemma is an incentive structure where individual rationality produces collective irrationality.
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — commons tragedies are incentive design failures: individual incentives point toward overuse of a shared resource.
+→ [**Hanlon's Razor**](../General-Thinking/hanlons-razor.md) — before attributing malice, map incentives first; misaligned incentives are the most common structural explanation for behaviour that looks deliberate.
+
 ## References
 
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — the primary source for Munger's incentive-centred mental model.
