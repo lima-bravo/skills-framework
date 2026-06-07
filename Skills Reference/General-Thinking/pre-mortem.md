@@ -53,6 +53,7 @@ A company is about to launch a new pricing model. Pre-mortem: "It is Q4 and the 
 → [**De Bono's Six Thinking Hats**](de-bonos-six-thinking-hats.md) — the Black Hat is the group-thinking equivalent of the pre-mortem; the Six Hats framework provides the structure for running one without triggering ego-defense dynamics.
 → [**Cynefin Framework**](cynefin-framework.md) — pre-mortems are most predictive in Complicated domains; in Complex domains, cause-and-effect visibility only emerges in retrospect, which limits how much a pre-mortem can anticipate.
 → [**Theory of Change**](theory-of-change.md) — the pre-mortem stress-tests which assumptions in a Theory of Change's causal chain are most likely to fail; together they form a risk-first planning discipline.
+→ [**Causal Analysis**](causal-analysis.md) — the pre-mortem applies causal analysis forward in time: what causal structure would produce failure from here, and which link in that chain is the most likely point of failure?
 
 ## References
 

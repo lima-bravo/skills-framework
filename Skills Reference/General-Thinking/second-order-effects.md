@@ -50,6 +50,7 @@ A city decides to build a new urban highway to reduce commute times (first-order
 → [**Emergence**](../Systems/emergence.md) — second-order effects in complex systems often produce emergent properties that no single causal chain predicted.
 → [**Systems Thinking**](../Systems/systems-thinking.md) — systems thinking provides the causal map for tracing second and higher-order effects through a system's feedback structure
 → [**Thought Experiment**](thought-experiment.md) — thought experiments are ideal for tracing second-order chains in controlled, simplified form before applying the reasoning to real systems.
+→ [**Causal Analysis**](causal-analysis.md) — causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the diagnostic loop.
 
 ## References
 

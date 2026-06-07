@@ -51,6 +51,7 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Fixes That Fail**](fixes-that-fail.md) — the archetype works because the symptom-to-fix feedback loop is shorter and more visible than the root-cause loop; structural leverage lies in strengthening the longer loop.
 → [**Systems Thinking**](systems-thinking.md) — feedback loops are the primary mechanism systems thinking works with; the discipline of reading and redesigning them is systems thinking itself
 → [**Post-mortem**](../General-Thinking/post-mortem.md) — the post-mortem closes the feedback loop on organizational action: action → outcome → structured learning → updated action.
+→ [**Causal Analysis**](../General-Thinking/causal-analysis.md) — systems-based causal analysis is feedback loop analysis applied to problem diagnosis; when a problem recurs despite fixes, the causal structure is a loop, not a chain.
 
 ## References
 

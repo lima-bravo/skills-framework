@@ -57,6 +57,7 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 → [**Analogical Reasoning**](analogical-reasoning.md) — first principles and analogy are complementary strategies: first principles identifies what needs to be built from scratch; analogy identifies where a solution may already exist in another domain.
 → [**Cynefin Framework**](cynefin-framework.md) — first principles reasoning is reliable in Clear and Complicated domains where analysis can reach a correct answer; it is less productive in Complex domains where the answer only emerges from probing.
 → [**Theory of Change**](theory-of-change.md) — Theory of Change forces the question of why each causal link is expected to hold; first principles reasoning is the tool for interrogating those assumptions at bedrock.
+→ [**Causal Analysis**](causal-analysis.md) — both disciplines strip away assumption layers; first principles strips downward from a belief, causal analysis strips backward from an outcome.
 
 ## References
 

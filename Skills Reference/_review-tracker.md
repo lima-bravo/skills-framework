@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **21**
+- Reviewed (verified + fixed): **22**
 - Flagged: **0**
-- Remaining (todo): **241**
+- Remaining (todo): **240**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -75,7 +75,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#107` **Divergent and Convergent Thinking** · `General-Thinking/divergent-and-convergent-thinking.md` · **st:** fixed · **n:** Added missing Boden Creative Mind (2004) ref (manifest had it, card didn't); fixed blank line before ## References; backlinks added in de-bonos-six-thinking-hats, confirmation-bias, inversion (all reverse edges). build + check:counts pass.
 - [x] `#122` **Cynefin Framework** · `General-Thinking/cynefin-framework.md` · **st:** fixed · **n:** Added 5 missing --- section separators; standardized References format (removed non-standard Originator line, full titles, added descriptions); added HBR article "A Leader's Framework for Decision Making" to manifest (B2 gap, refs 248→249); backlinks in exploration-vs-exploitation, experiment-design, first-principles, pre-mortem. build + check:counts pass.
 - [x] `#128` **Theory of Change** · `General-Thinking/theory-of-change.md` · **st:** fixed · **n:** Added 5 missing --- section separators; standardized References (removed Originator line, full titles, added descriptions); added 3 manifest refs (B2 gaps, refs 249→252); backlinks in first-principles, pre-mortem, experiment-design, scenario-planning, change-management. build + check:counts pass.
-- [ ] `#171` **Causal Analysis** · `General-Thinking/causal-analysis.md` · **st:** todo · **n:** —
+- [x] `#171` **Causal Analysis** · `General-Thinking/causal-analysis.md` · **st:** fixed · **n:** added blank line before ## References, removed duplicate --- footer; backlinks in second-order-effects, feedback-loops, post-mortem, cynefin, first-principles, pre-mortem
 - [ ] `#188` **Paradigm Shift** · `General-Thinking/paradigm-shift.md` · **st:** todo · **n:** —
 - [ ] `#211` **Calibration** · `General-Thinking/calibration.md` · **st:** todo · **n:** —
 - [ ] `#223` **Steelmanning** · `General-Thinking/steelmanning.md` · **st:** todo · **n:** —
