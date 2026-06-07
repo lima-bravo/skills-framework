@@ -158,6 +158,46 @@ for (const [rel, re, expectRaw] of A) {
   }
 }
 
+// ---- Manifest refs integrity guard ----
+// Every refs[].skills[].id must be the NUMERIC skill id (never a file path),
+// must resolve to a real skill, must carry that skill's canonical name + color,
+// and must be unique within its reference. This guards the class of drift fixed
+// in the refs cleanup, where path-string ids silently broke ref-pill links in
+// the deck and ref->skill edges in the graph.
+const byId = new Map(Object.values(manifest.skills).map((s) => [s.id, s]));
+let refLinks = 0;
+for (const ref of manifest.refs) {
+  const seen = new Set();
+  for (const s of ref.skills ?? []) {
+    refLinks += 1;
+    if (!Number.isInteger(s.id)) {
+      console.error(`REF ID    "${ref.title}"  non-numeric skill id: ${JSON.stringify(s.id)}`);
+      problems += 1;
+      continue;
+    }
+    const canon = byId.get(s.id);
+    if (!canon) {
+      console.error(`REF ID    "${ref.title}"  id ${s.id} matches no skill`);
+      problems += 1;
+      continue;
+    }
+    if (s.name !== canon.name) {
+      console.error(`REF NAME  "${ref.title}"  id ${s.id} name ${JSON.stringify(s.name)} != canonical ${JSON.stringify(canon.name)}`);
+      problems += 1;
+    }
+    if (s.color !== canon.color) {
+      console.error(`REF COLOR "${ref.title}"  id ${s.id} color ${s.color} != canonical ${canon.color}`);
+      problems += 1;
+    }
+    if (seen.has(s.id)) {
+      console.error(`REF DUP   "${ref.title}"  duplicate skill id ${s.id}`);
+      problems += 1;
+    }
+    seen.add(s.id);
+  }
+}
+console.log(`${refLinks} reference skill-link(s) checked.`);
+
 console.log(`\n${assertionsRun} count occurrence(s) checked.`);
 if (problems) {
   console.error(`\n✗ ${problems} count problem(s). Fix the prose to match canonical, or update this checker if the wording changed.`);

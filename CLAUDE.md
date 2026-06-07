@@ -176,6 +176,8 @@ Canonical numbers (do not hand-type these anywhere without updating the prose to
 
 When a count legitimately changes: edit cards/manifest, run `npm run build`, then read the checker output — it names the exact prose lines still to fix. If you reword a sentence that contains a count, update the matching regex in `check-counts.mjs` (a `NO MATCH` warning means the pattern no longer finds its line). This replaces the brittle manual "update the count in every ❌ file" steps above — those edits are still made by hand, but the checker now guarantees they were not missed.
 
+**The same checker also guards manifest reference integrity.** Beyond counts, `check-counts.mjs` asserts that every `refs[].skills[]` entry uses the **numeric** skill `id` (never a file path), that the id resolves to a real skill, that its `name`/`color` match that skill's canonical values, and that no skill id is duplicated within a single reference. This locks in the refs cleanup: a path-string id (which silently broke ref-pill links in the deck and ref→skill edges in the graph) now fails the build with a `REF ID` / `REF NAME` / `REF COLOR` / `REF DUP` message. The `id` is deliberately the canonical handle — it is stable across file moves/renames, whereas the path is not; the path is only the storage key and the human-authoring link target in card `## Connections`.
+
 ---
 
 ## Key file map
