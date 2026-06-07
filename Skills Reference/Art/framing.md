@@ -49,6 +49,7 @@ A CFO needs to present a £2M cost overrun to the board. Two frames: Frame 1: "W
 → [**Overton Window**](../General-Thinking/overton-window.md) — framing is the mechanism by which Overton Windows are maintained or shifted; whoever controls the frame defines what is thinkable.
 → [**Schelling Points**](../Economics/schelling-points.md) — framing creates salience, which creates Schelling Points; the most prominent framing tends to become the focal point for coordination.
 → [**De Bono's Six Thinking Hats**](../General-Thinking/de-bonos-six-thinking-hats.md) — each hat is a distinct frame; the Six Hats is a systematic method for cycling through multiple frames of the same problem.
+→ [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
 
 ## References
 

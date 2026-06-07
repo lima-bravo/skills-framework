@@ -75,14 +75,12 @@ A strategy team completes a market entry analysis. Three communication failures 
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the completeness trap and the Quality-anxiety violation are both driven by motivated reasoning; Grice's Quality maxim requires confidence calibration, not just accuracy.
 → [**Framing**](../Art/framing.md) — Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
 
----
-
 ## References
 
-- Grice, H.P. (1975) "Logic and Conversation" in *Studies in the Way of Words* — Harvard University Press; the source paper
-- Levinson, S.C. (1983) *Pragmatics* — Cambridge University Press; standard textbook treatment of implicature
-- Pinker, S. (2014) *The Sense of Style* — applies Gricean principles to practical writing; the chapter on "The Curse of Knowledge" is directly relevant
-- Kahneman, D. (2011) *Thinking, Fast and Slow* — System 1 reading is the attention constraint Grice's Maxims are designed to respect
+- *"Logic and Conversation"* — H.P. Grice, in *Studies in the Way of Words*, Harvard University Press (1975; repr. 1989) — the source paper defining the cooperative principle and the four maxims of Quantity, Quality, Relation, and Manner.
+- *Pragmatics* — Stephen C. Levinson (1983) — the standard Cambridge textbook treatment of implicature and conversational inference; the scholarly foundation for Gricean theory.
+- *The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century* — Steven Pinker (2014) — applies Gricean principles to practical writing; "The Curse of Knowledge" chapter models the Quantity and Relation maxims directly.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — System 1 reading is the attention constraint the Maxims are designed to respect; the cognitive science behind why calibrated brevity matters.
 
 ---
 

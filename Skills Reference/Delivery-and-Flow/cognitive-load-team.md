@@ -50,6 +50,7 @@ A payment-platform team of nine engineers owns five services, the on-call rotati
 → [**Attention Budget**](attention-budget.md) — the individual analogue.
 → [**Dependency Management**](dependency-management.md) — dependencies are a major source of extraneous load.
 → [**Span of Control**](span-of-control.md) — team size is a direct driver of coordination overhead, which constitutes extraneous cognitive load; both levers must be managed together.
+→ [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — excess detail is one of the primary sources of unnecessary cognitive load; Quantity and Relation violations directly tax team capacity.
 
 ---
 

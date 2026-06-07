@@ -4638,6 +4638,11 @@
           "id": 223,
           "name": "Steelmanning",
           "color": "#3B82F6"
+        },
+        {
+          "id": 226,
+          "name": "Grice's Maxims",
+          "color": "#3B82F6"
         }
       ]
     },
@@ -5577,6 +5582,39 @@
         {
           "id": 223,
           "name": "Steelmanning",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "\"Logic and Conversation\"",
+      "authorYear": "H.P. Grice, in Studies in the Way of Words, Harvard University Press (1975; repr. 1989)",
+      "skills": [
+        {
+          "id": 226,
+          "name": "Grice's Maxims",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Pragmatics",
+      "authorYear": "Stephen C. Levinson (1983)",
+      "skills": [
+        {
+          "id": 226,
+          "name": "Grice's Maxims",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century",
+      "authorYear": "Steven Pinker (2014)",
+      "skills": [
+        {
+          "id": 226,
+          "name": "Grice's Maxims",
           "color": "#3B82F6"
         }
       ]

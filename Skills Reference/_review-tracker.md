@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **25**
+- Reviewed (verified + fixed): **26**
 - Flagged: **0**
-- Remaining (todo): **237**
+- Remaining (todo): **236**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -79,7 +79,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#188` **Paradigm Shift** · `General-Thinking/paradigm-shift.md` · **st:** fixed · **n:** added blank line before ## References, removed duplicate --- footer; backlinks in map-territory, dominant-logic, confirmation-bias, exploration-vs-exploitation, s-curves, disruptive-innovation, immunity-to-change, first-principles, cynefin-framework
 - [x] `#211` **Calibration** · `General-Thinking/calibration.md` · **st:** fixed · **n:** removed --- before ## References; standardized all 4 refs (Fischhoff journal name corrected, consistent format); added Fischhoff 1977 and Brier 1950 as B2 manifest refs (252→254)
 - [x] `#223` **Steelmanning** · `General-Thinking/steelmanning.md` · **st:** fixed · **n:** removed --- before ## References; standardized all 4 refs (Rapoport title corrected to include Oxford comma); added Rapoport/Dennett/Galef as B2 manifest refs, linked Kahneman to #223 (254→257); backlinks in socratic-thinking, de-bonos-six-thinking-hats, ladder-of-inference
-- [ ] `#226` **Grice's Maxims** · `General-Thinking/grices-maxims.md` · **st:** todo · **n:** —
+- [x] `#226` **Grice's Maxims** · `General-Thinking/grices-maxims.md` · **st:** fixed · **n:** removed --- before ## References; standardized all 4 refs; added Grice/Levinson/Pinker as B2 manifest refs, Kahneman linked to #226 (257→260); backlinks in audience, cognitive-load-team, ladder-of-inference, confirmation-bias, framing
 - [ ] `#234` **Overton Window** · `General-Thinking/overton-window.md` · **st:** todo · **n:** —
 - [ ] `#240` **Black Swan** · `General-Thinking/black-swan.md` · **st:** todo · **n:** —
 

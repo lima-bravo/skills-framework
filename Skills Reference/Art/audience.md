@@ -45,6 +45,8 @@ A product team is designing onboarding for a B2B analytics tool. Their default a
 → [**Customer Development**](../Startups/customer-development.md) — customer development generates the empirical data that makes audience models accurate.
 → [**Value Prop Canvas**](../Business/value-prop-canvas.md) — the customer profile side is the audience model for product design.
 → [**Framing**](framing.md) — how information is framed should be calibrated to the specific audience model.
+→ [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — the Maxims are constant across audiences; what changes is the calibration of Quantity and Relation depending on what each audience needs to decide.
+
 ## References
 
 - *This Is Marketing: You Can't Be Seen Until You Learn to See* — Seth Godin (2018) — the discipline of specificity: choose the smallest viable audience and serve them precisely.

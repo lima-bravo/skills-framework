@@ -47,6 +47,7 @@ A manager concludes that an employee "doesn't care about quality." Walking back 
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the reflexive loop of the ladder is confirmation bias operating structurally.
 → [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning walks back down the ladder, questioning each inference.
 → [**Steelmanning**](steelmanning.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its surface conclusions.
+→ [**Grice's Maxims**](grices-maxims.md) — listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
 
 ## References
 
