@@ -52,6 +52,7 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 → [**Expected Value**](../Mathematics/expected-value.md) — EV is the quantitative expression of probabilistic thinking; once you have a probability distribution, expected value tells you what a decision is worth.
 → [**Bayesian Updating**](../Mathematics/bayesian-updating.md) — the mechanism for keeping probability estimates current as new evidence arrives.
 → [**Occam's Razor**](occams-razor.md) — when explanations are roughly equally probable, Occam's Razor provides the tiebreaker toward the simpler hypothesis.
+→ [**Map-Territory**](map-territory.md) — probability distributions are maps of uncertainty; treating a confidence interval as certain collapses the map onto one point and ignores the territory's actual range.
 
 ## References
 

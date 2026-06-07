@@ -48,13 +48,15 @@ A retail chain builds an inventory optimization model that performs excellently 
 → [**First Principles**](first-principles.md) — a method for building better maps from scratch.
 → [**Probabilistic Thinking**](probabilistic-thinking.md) — maps should carry explicit confidence levels; treating map outputs as certain is the core failure mode.
 → [**Emergence**](../Systems/emergence.md) — emergent phenomena are definitionally hard to represent on maps because they arise from interactions the map does not capture.
+→ [**Goodhart's Law**](../Economics/goodharts-law.md) — the metric-fixation failure mode named in this card; when a map measure becomes a target, the map and territory diverge by design.
+→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — confirmation bias prevents the map from updating when the territory changes; it is the cognitive mechanism behind model lock-in.
+
 ## References
 
 - *Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics* — Alfred Korzybski (1933) — the origin of 'the map is not the territory.'
 - *The Great Mental Models Vol. 1: General Thinking Concepts* — Shane Parrish & Rhiannon Beaubien (2019) — the accessible modern treatment of the map-territory distinction.
+- *The Black Swan: The Impact of the Highly Improbable* — Nassim Nicholas Taleb (2007) — the danger of maps (Gaussian models, historical distributions) that systematically exclude the territory's most consequential events.
 
-
----
 
 ---
 

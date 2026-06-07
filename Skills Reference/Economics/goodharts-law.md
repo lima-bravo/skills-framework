@@ -52,6 +52,7 @@ A hospital system under pressure to cut emergency-department waiting times sets 
 → [**Fixes That Fail**](../Systems/fixes-that-fail.md) — symptomatic fixes that target a metric while leaving the underlying dynamic intact are Goodhart's Law in action: the measure improves while the thing it was measuring continues to degrade.
 
 → [**Incentive Design**](incentive-design.md) — every incentive scheme must be designed with Goodhart drift in mind; metric rotation and small indicator sets are the countermeasures
+→ [**Map-Territory**](../General-Thinking/map-territory.md) — Goodhart's Law is the metric-fixation failure mode of the map-territory gap: the metric (map) diverges from the underlying reality (territory) the moment it becomes a target.
 
 ## References
 

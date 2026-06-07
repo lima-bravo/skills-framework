@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **6**
+- Reviewed (verified + fixed): **7**
 - Flagged: **0**
-- Remaining (todo): **256**
+- Remaining (todo): **255**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -60,7 +60,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#3` **Occam's Razor** · `General-Thinking/occams-razor.md` · **st:** fixed · **n:** Added missing Sagan (1996) ref (manifest had it, card didn't); renamed clunky "Einstein's misquote problem" failure mode to "Over-application"; fixed blank line before ## References and duplicate ---; added backlinks in first-principles, confirmation-bias, probabilistic-thinking. build + check:counts pass.
 - [x] `#4` **Hanlon's Razor** · `General-Thinking/hanlons-razor.md` · **st:** fixed · **n:** Added missing Dobelli (2011) ref (manifest had it, card didn't); added FAE as new connection (the cognitive mechanism Hanlon corrects); fixed blank line + duplicate ---; backlinks in incentives, confirmation-bias, circle-of-competence, FAE. New edge raised connections 1041→1042; updated CLAUDE.md + _ai-index.md; build + check:counts pass.
 - [x] `#5` **Circle of Competence** · `General-Thinking/circle-of-competence.md` · **st:** fixed · **n:** Fixed corrupted Connections section (Probabilistic Thinking had no rationale; Calibration had merged text belonging to Probabilistic Thinking); fixed duplicate ---; all backlinks already present from prior reviews. build + check:counts pass.
-- [ ] `#6` **Map-Territory** · `General-Thinking/map-territory.md` · **st:** todo · **n:** —
+- [x] `#6` **Map-Territory** · `General-Thinking/map-territory.md` · **st:** fixed · **n:** Added missing Taleb Black Swan ref (manifest had it, card didn't); added Goodhart's Law + Confirmation Bias connections (Goodhart named in failure modes; conf-bias is model lock-in mechanism); backlink added in goodharts-law + probabilistic-thinking; new edge 1042→1043; CLAUDE.md + _ai-index.md updated; build + check:counts pass.
 - [ ] `#7` **Probabilistic Thinking** · `General-Thinking/probabilistic-thinking.md` · **st:** todo · **n:** —
 - [ ] `#8` **Thought Experiment** · `General-Thinking/thought-experiment.md` · **st:** todo · **n:** —
 - [ ] `#9` **Socratic Thinking** · `General-Thinking/socratic-thinking.md` · **st:** todo · **n:** —
