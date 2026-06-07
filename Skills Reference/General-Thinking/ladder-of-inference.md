@@ -46,6 +46,7 @@ A manager concludes that an employee "doesn't care about quality." Walking back 
 → [**Map-Territory**](map-territory.md) — the ladder is a map of how maps (beliefs and conclusions) are built from territory (data). Errors in the climb produce maps that don't reflect territory.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the reflexive loop of the ladder is confirmation bias operating structurally.
 → [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning walks back down the ladder, questioning each inference.
+→ [**Steelmanning**](steelmanning.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its surface conclusions.
 
 ## References
 

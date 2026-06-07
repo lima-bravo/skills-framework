@@ -67,14 +67,12 @@ The steelman doesn't kill the opportunity — but it reframes the timeline and c
 → [**De Bono's Six Thinking Hats**](de-bonos-six-thinking-hats.md) — the Black Hat (critical thinking) role benefits from steelmanning discipline; without it, the Black Hat produces weak objections rather than genuine challenges.
 → [**Ladder of Inference**](ladder-of-inference.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its conclusions.
 
----
-
 ## References
 
-- Rapoport, A. (1960) *Fights, Games and Debates* — foundational articulation of charitable interpretation as intellectual discipline
-- Dennett, D. (2013) *Intuition Pumps and Other Tools for Thinking* — coins "Rapoport's Rules" as the steelmanning protocol
-- Galef, J. (2021) *The Scout Mindset* — frames steelmanning as core to truth-seeking versus tribal reasoning
-- Kahneman, D. (2011) *Thinking, Fast and Slow* — straw man reasoning as a predictable output of System 1 fast thinking
+- *Fights, Games, and Debates* — Anatol Rapoport (1960) — the foundational treatment of conflict types; the source of charitable interpretation principles that Dennett later codified as Rapoport's Rules.
+- *Intuition Pumps and Other Tools for Thinking* — Daniel C. Dennett (2013) — coins "Rapoport's Rules" as the steelmanning protocol: reconstruct the opposing view so precisely that its proponents would recognise it, before engaging it critically.
+- *The Scout Mindset: Why Some People See Things Clearly and Others Don't* — Julia Galef (2021) — frames steelmanning as core to truth-seeking ("scout mindset") versus tribal reasoning ("soldier mindset").
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of why straw man reasoning is a predictable output of fast thinking; steelmanning counteracts System 1's tendency to substitute a simpler version of the opposing view.
 
 ---
 

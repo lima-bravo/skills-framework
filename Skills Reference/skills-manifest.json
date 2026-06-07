@@ -4633,6 +4633,11 @@
           "id": 211,
           "name": "Calibration",
           "color": "#3B82F6"
+        },
+        {
+          "id": 223,
+          "name": "Steelmanning",
+          "color": "#3B82F6"
         }
       ]
     },
@@ -5539,6 +5544,39 @@
         {
           "id": 211,
           "name": "Calibration",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Fights, Games, and Debates",
+      "authorYear": "Anatol Rapoport (1960)",
+      "skills": [
+        {
+          "id": 223,
+          "name": "Steelmanning",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Intuition Pumps and Other Tools for Thinking",
+      "authorYear": "Daniel C. Dennett (2013)",
+      "skills": [
+        {
+          "id": 223,
+          "name": "Steelmanning",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Scout Mindset: Why Some People See Things Clearly and Others Don't",
+      "authorYear": "Julia Galef (2021)",
+      "skills": [
+        {
+          "id": 223,
+          "name": "Steelmanning",
           "color": "#3B82F6"
         }
       ]

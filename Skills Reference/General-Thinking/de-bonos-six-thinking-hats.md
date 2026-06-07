@@ -47,6 +47,7 @@ A leadership team is deciding whether to acquire a competitor. The discussion ha
 → [**Pre-mortem**](pre-mortem.md) — the Black Hat is the group thinking equivalent of the pre-mortem: explicitly exploring failure modes.
 → [**Framing**](../Art/framing.md) — different hats are different frames; the Six Hats is a systematic multi-framing tool.
 → [**Divergent and Convergent Thinking**](divergent-and-convergent-thinking.md) — the Six Hats enforces cognitive mode separation in a group setting, preventing convergent judgment from contaminating divergent exploration.
+→ [**Steelmanning**](steelmanning.md) — the Black Hat role benefits from steelmanning discipline; without it, the Black Hat produces weak objections rather than genuine challenges to the dominant view.
 
 ## References
 
