@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **43**
+- Reviewed (verified + fixed): **44**
 - Flagged: **0**
-- Remaining (todo): **219**
+- Remaining (todo): **218**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -100,7 +100,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#29` **Red Queen Dilemma** · `Systems/red-queen-dilemma.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Grove 1996 (Gap-A); backlinks in equilibrium, creative-destruction, diminishing-returns
 - [x] `#102` **S-Curves** · `Systems/s-curves.md` · **st:** fixed · **n:** fixed header pipe; converted 5 unlinked connections to proper markdown links; added blank line before ## References; added Christensen 1997 (Gap-A); backlinks in critical-mass, compounding, diminishing-returns, network-effects
 - [x] `#108` **Exploration vs. Exploitation** · `Systems/exploration-vs-exploitation.md` · **st:** fixed · **n:** fixed header pipe; added Christian & Griffiths 2016 (Gap-A); backlinks in local-maxima, s-curves, feedback-loops
-- [ ] `#109` **Adjacent Possible** · `Systems/adjacent-possible.md` · **st:** todo · **n:** —
+- [x] `#109` **Adjacent Possible** · `Systems/adjacent-possible.md` · **st:** fixed · **n:** fixed header pipe; added blank line before ## References; manifest refs verified; backlinks in s-curves, exploration-vs-exploitation, disruptive-innovation, compounding
 - [ ] `#208` **Drift to Failure** · `Systems/drift-to-failure.md` · **st:** todo · **n:** —
 - [ ] `#235` **Path Dependence** · `Systems/path-dependence.md` · **st:** todo · **n:** —
 - [ ] `#243` **Dunbar's Number** · `Systems/dunbars-number.md` · **st:** todo · **n:** —

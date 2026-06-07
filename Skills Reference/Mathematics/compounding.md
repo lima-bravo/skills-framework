@@ -49,6 +49,7 @@ Amazon's flywheel is the most celebrated corporate compounding engine: lower pri
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
 → [**Churn**](../Systems/churn.md) — churn is the subtrahend in the compounding equation; even a small reduction in churn rate compounds forward dramatically over time.
 → [**S-Curves**](../Systems/s-curves.md) — the growth phase of an S-curve exhibits near-compounding dynamics; S-curve thinking is what recognises when compounding will eventually stop.
+→ [**Adjacent Possible**](../Systems/adjacent-possible.md) — each step through the adjacent possible compounds: entering a new room opens new doors unavailable from the previous one, so early moves have value beyond the immediate problem they solve.
 
 ## References
 
