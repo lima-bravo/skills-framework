@@ -42,6 +42,12 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 > section. Also noted: a few duplicate manifest ref entries (e.g. "Deep Work" vs "Deep
 > Work: Rules for…", "Good Strategy Bad Strategy" vs "Good Strategy / Bad Strategy").
 
+> 🧹 **Duplicate manifest ref merge (2026-06-07):** merged the two duplicate-book pairs into
+> one entry each — *Deep Work: Rules for Focused Success in a Distracted World* (Cal Newport,
+> 2016; skills 88·114·116) and *Good Strategy Bad Strategy* (Richard P. Rumelt, 2011;
+> skills 43·71·166·254). Refs **250 → 248**; updated the source count in README.md and
+> CLAUDE.md; build + guard pass. No other duplicate ref entries found.
+
 > Update these four numbers as you go, or recompute by counting `st:` values.
 
 ---

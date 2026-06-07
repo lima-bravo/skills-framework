@@ -2148,27 +2148,6 @@
       ]
     },
     {
-      "title": "Deep Work",
-      "authorYear": "Cal Newport (2016)",
-      "skills": [
-        {
-          "id": 88,
-          "name": "Five-Hour Rule",
-          "color": "#059669"
-        },
-        {
-          "id": 116,
-          "name": "Maker's Schedule vs. Manager's Schedule",
-          "color": "#475569"
-        },
-        {
-          "id": 114,
-          "name": "Deep Work / Cognitive Capacity",
-          "color": "#059669"
-        }
-      ]
-    },
-    {
       "title": "Deep Work: Rules for Focused Success in a Distracted World",
       "authorYear": "Cal Newport (2016)",
       "skills": [
@@ -2181,8 +2160,13 @@
           "id": 116,
           "name": "Maker's Schedule vs. Manager's Schedule",
           "color": "#475569"
+        },
+        {
+          "id": 88,
+          "name": "Five-Hour Rule",
+          "color": "#059669"
         }
-      ]
+        ]
     },
     {
       "title": "Diffusion of Innovations",
@@ -2364,7 +2348,7 @@
     },
     {
       "title": "Good Strategy Bad Strategy",
-      "authorYear": "Richard Rumelt (2011)",
+      "authorYear": "Richard P. Rumelt (2011)",
       "skills": [
         {
           "id": 71,
@@ -2380,8 +2364,13 @@
           "id": 43,
           "name": "Inertia",
           "color": "#EA580C"
+        },
+        {
+          "id": 166,
+          "name": "Kernel of Good Strategy",
+          "color": "#475569"
         }
-      ]
+        ]
     },
     {
       "title": "Good to Great",
@@ -4855,27 +4844,6 @@
         {
           "id": 254,
           "name": "Playing to Win",
-          "color": "#475569"
-        }
-      ]
-    },
-    {
-      "title": "Good Strategy / Bad Strategy",
-      "authorYear": "Richard P. Rumelt (2011)",
-      "skills": [
-        {
-          "id": 254,
-          "name": "Playing to Win",
-          "color": "#475569"
-        },
-        {
-          "id": 166,
-          "name": "Kernel of Good Strategy",
-          "color": "#475569"
-        },
-        {
-          "id": 71,
-          "name": "Portfolio Map",
           "color": "#475569"
         }
       ]
