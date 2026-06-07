@@ -49,6 +49,7 @@ A startup plans to raise 18 months of runway. Their model shows they'll reach pr
 → [**Black Swan**](../General-Thinking/black-swan.md) — Black Swan events are the tail events that margin of safety must be sized to survive; in fat-tailed domains, margin of safety must be sized to the tail, not the average.
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortems identify the specific failure modes that margin of safety should buffer against; the two tools pair naturally at the planning stage.
 → [**Asymmetry / Convexity**](../General-Thinking/asymmetry-convexity.md) — margin of safety is the downside-protection component of asymmetric positioning; together they define the structure of a sound bet.
+→ [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — irreversible decisions require more margin of safety than reversible ones; the two frameworks pair naturally when sizing the buffer needed before committing.
 
 ## References
 

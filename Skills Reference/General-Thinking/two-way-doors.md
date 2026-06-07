@@ -47,13 +47,12 @@ A product team wants to deprecate a legacy API that some customers still use. In
 → [**Asymmetry/Convexity**](asymmetry-convexity.md) — two-way doors are structurally asymmetric: limited downside (can reverse), full upside potential.
 → [**Regret Minimization**](regret-minimization-framework.md) — the regret of a wrong reversible decision is small; the regret of a wrong irreversible decision can be large. The two frameworks combine to guide which decisions to act on quickly.
 → [**Path Dependence**](../Systems/path-dependence.md) — irreversible decisions are the primary mechanism of path dependence; preferring two-way doors is the structural antidote to inadvertent lock-in.
+
 ## References
 
 - *Invent and Wander: The Collected Writings of Jeff Bezos* — Jeff Bezos, ed. Walter Isaacson (2021) — the source of the Type 1/Type 2 decision framework.
 - *Working Backwards: Insights, Stories, and Secrets from Inside Amazon* — Colin Bryar & Bill Carr (2021) — the operational application of two-way-door thinking at Amazon.
 
-
----
 
 ---
 
