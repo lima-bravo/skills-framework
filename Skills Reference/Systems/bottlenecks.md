@@ -49,13 +49,12 @@ An engineering team complains they can't ship fast enough. The diagnosis: pull r
 → [**Growth Barriers**](../Business/growth-barriers.md) — the same constraint logic applied specifically to a stalled growth system: find the binding constraint in the acquisition-to-expansion chain before pulling levers elsewhere.
 → [**Technical Debt**](../Delivery-and-Flow/technical-debt.md) — accumulated technical debt increases the unit cost of every change processed through the constraint; it is one of the most common hidden causes of a delivery bottleneck.
 → [**Fixes That Fail**](fixes-that-fail.md) — adding capacity at non-bottleneck points is a classic symptomatic fix that relieves local pressure without improving system throughput.
+
 ## References
 
 - *The Goal: A Process of Ongoing Improvement* — Eliyahu M. Goldratt & Jeff Cox (1984) — the source text for Theory of Constraints and bottleneck management.
 - *The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win* — Gene Kim, Kevin Behr & George Spafford (2013) — applies constraint theory to software delivery.
 
-
----
 
 ---
 

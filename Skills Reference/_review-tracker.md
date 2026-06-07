@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **29**
+- Reviewed (verified + fixed): **30**
 - Flagged: **0**
-- Remaining (todo): **233**
+- Remaining (todo): **232**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -86,7 +86,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Systems (21)
 
 - [x] `#17` **Feedback Loops** · `Systems/feedback-loops.md` · **st:** fixed · **n:** removed duplicate --- footer; all 7 connected cards already had backlinks; manifest refs verified
-- [ ] `#18` **Bottlenecks** · `Systems/bottlenecks.md` · **st:** todo · **n:** —
+- [x] `#18` **Bottlenecks** · `Systems/bottlenecks.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; all 6 connected cards already had backlinks; manifest refs verified (The Goal, The Phoenix Project)
 - [ ] `#19` **Emergence** · `Systems/emergence.md` · **st:** todo · **n:** —
 - [ ] `#20` **Equilibrium** · `Systems/equilibrium.md` · **st:** todo · **n:** —
 - [ ] `#21` **Scale** · `Systems/scale.md` · **st:** todo · **n:** —
