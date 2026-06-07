@@ -46,6 +46,7 @@ A leadership team is deciding whether to acquire a competitor. The discussion ha
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the Six Hats is a structural mitigation: it enforces exploration of all perspectives, including the one that conflicts with your prior belief.
 → [**Pre-mortem**](pre-mortem.md) — the Black Hat is the group thinking equivalent of the pre-mortem: explicitly exploring failure modes.
 → [**Framing**](../Art/framing.md) — different hats are different frames; the Six Hats is a systematic multi-framing tool.
+→ [**Divergent and Convergent Thinking**](divergent-and-convergent-thinking.md) — the Six Hats enforces cognitive mode separation in a group setting, preventing convergent judgment from contaminating divergent exploration.
 
 ## References
 

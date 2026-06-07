@@ -52,6 +52,7 @@ A team is designing a new onboarding flow for a SaaS product. Forward thinking g
 → [**Pre-mortem**](pre-mortem.md) — the pre-mortem is inversion applied to a plan: assume it has already failed, then work backward to the causes you can prevent now.
 → [**Thought Experiment**](thought-experiment.md) — inversion is one of the most powerful thought-experiment structures; the pre-mortem is the most common organizational form of it.
 → [**Regret Minimization Framework**](regret-minimization-framework.md) — the RMF is inversion applied to life decisions: instead of asking "what should I choose?", ask "which choice would I regret more at 80?"
+→ [**Divergent and Convergent Thinking**](divergent-and-convergent-thinking.md) — inversion is a structured divergent technique: approaching the problem from the opposite direction breaks conventional attractors and generates non-obvious possibilities.
 
 ## References
 

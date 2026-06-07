@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **18**
+- Reviewed (verified + fixed): **19**
 - Flagged: **0**
-- Remaining (todo): **244**
+- Remaining (todo): **243**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -72,7 +72,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#15` **Regret Minimization Framework** · `General-Thinking/regret-minimization-framework.md` · **st:** fixed · **n:** Added missing Stone Everything Store (2013) ref (manifest had it, card didn't); fixed blank line before ## References + duplicate ---; backlinks in inversion + asymmetry-convexity (new edge 1044→1045). CLAUDE.md + _ai-index.md updated. build + check:counts pass.
 - [x] `#16` **Two-Way Doors** · `General-Thinking/two-way-doors.md` · **st:** fixed · **n:** Both refs verified ✓; fixed blank line before ## References + duplicate ---; backlink added in margin-of-safety (reverse edge only). build + check:counts pass.
 - [x] `#106` **Analogical Reasoning** · `General-Thinking/analogical-reasoning.md` · **st:** fixed · **n:** Fixed wrong editor/year on Analogical Mind ref (Holyoak & Morrison 2005 → Gentner, Holyoak & Kokinov 2001, confirmed by web search); updated manifest title/authorYear to match; fixed blank line before ## References; backlinks added in first-principles, thought-experiment, learning-transfer. build + check:counts pass.
-- [ ] `#107` **Divergent and Convergent Thinking** · `General-Thinking/divergent-and-convergent-thinking.md` · **st:** todo · **n:** —
+- [x] `#107` **Divergent and Convergent Thinking** · `General-Thinking/divergent-and-convergent-thinking.md` · **st:** fixed · **n:** Added missing Boden Creative Mind (2004) ref (manifest had it, card didn't); fixed blank line before ## References; backlinks added in de-bonos-six-thinking-hats, confirmation-bias, inversion (all reverse edges). build + check:counts pass.
 - [ ] `#122` **Cynefin Framework** · `General-Thinking/cynefin-framework.md` · **st:** todo · **n:** —
 - [ ] `#128` **Theory of Change** · `General-Thinking/theory-of-change.md` · **st:** todo · **n:** —
 - [ ] `#171` **Causal Analysis** · `General-Thinking/causal-analysis.md` · **st:** todo · **n:** —

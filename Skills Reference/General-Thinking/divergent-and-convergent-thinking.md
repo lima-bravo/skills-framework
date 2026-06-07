@@ -50,11 +50,13 @@ Pixar's story development process is one of the most documented and successful a
 → [**Analogical Reasoning**](analogical-reasoning.md) — analogical reasoning is the most powerful technique for producing genuine divergence: importing solutions from distant domains breaks the attractor of conventional thinking.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely.
 → [**Inversion**](inversion.md) — inversion is a structured divergent technique: it forces the generation of non-obvious possibilities by approaching the problem from the opposite direction.
+
 ## References
 
 - *Applied Imagination: Principles and Procedures of Creative Problem-Solving* — Alex F. Osborn (1953) — the origin of the diverge-then-converge sequence and brainstorming discipline.
 - *A Whack on the Side of the Head: How You Can Be More Creative* — Roger von Oech (1983) — the practitioner treatment of removing mental blocks to divergent thinking.
 - *Creative Confidence: Unleashing the Creative Potential Within Us All* — Tom Kelley & David Kelley (2013) — the design-thinking application of divergent/convergent sequencing.
+- *The Creative Mind: Myths and Mechanisms* — Margaret A. Boden (2004) — the cognitive science of creativity, including the distinction between exploratory, combinatorial, and transformational divergent processes.
 
 
 ---
