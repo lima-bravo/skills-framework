@@ -50,9 +50,10 @@ In the 1850s, Charles Darwin was struggling with the mechanism of species change
 → [**Divergent and Convergent Thinking**](divergent-and-convergent-thinking.md) — analogical reasoning is a technique for the divergent phase: generating novel hypotheses by importing from distant domains before converging on a solution.
 → [**Learning Transfer**](../Learning/learning-transfer.md) — learning transfer at the individual level is the same mechanism as analogical reasoning at the problem-solving level: applying knowledge acquired in one context to a structurally similar but superficially different context.
 → [**Adjacent Possible**](../Systems/adjacent-possible.md) — analogical reasoning expands the adjacent possible by revealing that solutions developed in other domains are available to import, broadening the space of accessible next innovations.
+
 ## References
 
-- *The Analogical Mind: Perspectives from Cognitive Science* — Keith J. Holyoak & Robert G. Morrison, eds. (2005) — the academic treatment of analogy as a core cognitive mechanism.
+- *The Analogical Mind: Perspectives from Cognitive Science* — Dedre Gentner, Keith J. Holyoak & Boicho N. Kokinov, eds. (2001) — the academic treatment of analogy as a core cognitive mechanism.
 - *Mental Leaps: Analogy in Creative Thought* — Keith J. Holyoak & Paul Thagard (1995) — the accessible account of how analogical reasoning drives discovery.
 
 

@@ -54,6 +54,7 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 → [**Occam's Razor**](occams-razor.md) — both strip unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations without rebuilding.
 → [**Thought Experiment**](thought-experiment.md) — thought experiments often use first principles to work out implications of basic laws in a noise-free environment before returning to the messy real case.
 → [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning tears down and tests existing beliefs; first principles rebuilds from what survives. Together they form a complete belief-examination process.
+→ [**Analogical Reasoning**](analogical-reasoning.md) — first principles and analogy are complementary strategies: first principles identifies what needs to be built from scratch; analogy identifies where a solution may already exist in another domain.
 
 ## References
 

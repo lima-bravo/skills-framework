@@ -2166,7 +2166,7 @@
           "name": "Five-Hour Rule",
           "color": "#059669"
         }
-        ]
+      ]
     },
     {
       "title": "Diffusion of Innovations",
@@ -2370,7 +2370,7 @@
           "name": "Kernel of Good Strategy",
           "color": "#475569"
         }
-        ]
+      ]
     },
     {
       "title": "Good to Great",
@@ -3086,7 +3086,7 @@
         },
         {
           "id": 121,
-          "name": "Principal\u2013Agent Problem",
+          "name": "Principal–Agent Problem",
           "color": "#16A34A"
         }
       ]
@@ -3463,8 +3463,8 @@
       ]
     },
     {
-      "title": "The Analogical Mind",
-      "authorYear": "D. Gentner, K.J. Holyoak & B.N. Kokinov, eds. (2001)",
+      "title": "The Analogical Mind: Perspectives from Cognitive Science",
+      "authorYear": "Dedre Gentner, Keith J. Holyoak & Boicho N. Kokinov, eds. (2001)",
       "skills": [
         {
           "id": 106,
@@ -3907,7 +3907,7 @@
       "skills": [
         {
           "id": 121,
-          "name": "Principal\u2013Agent Problem",
+          "name": "Principal–Agent Problem",
           "color": "#16A34A"
         },
         {

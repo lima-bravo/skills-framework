@@ -46,6 +46,8 @@ A former military officer joins a startup as COO. Her military training: clear m
 → [**Model Chaining**](model-chaining.md) — learning transfer is how models from different domains become available for chaining.
 → [**T-shaped**](t-shaped.md) — the horizontal bar enables learning transfer across domains.
 → [**First Principles**](../General-Thinking/first-principles.md) — the abstraction step in learning transfer often requires first-principles thinking to identify what the transferable principle actually is.
+→ [**Analogical Reasoning**](../General-Thinking/analogical-reasoning.md) — analogical reasoning at the problem-solving level is the same mechanism as learning transfer at the individual level: applying structural insight from one domain to a superficially different context.
+
 ## References
 
 - *Make It Stick: The Science of Successful Learning* — P.C. Brown, H.L. Roediger III & M.A. McDaniel (2014) — retrieval practice and interleaving as the conditions for durable transfer.
