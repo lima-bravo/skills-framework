@@ -5520,6 +5520,28 @@
           "color": "#3B82F6"
         }
       ]
+    },
+    {
+      "title": "Knowing with certainty: the appropriateness of extreme confidence",
+      "authorYear": "Fischhoff, Slovic & Lichtenstein, Journal of Experimental Psychology: Human Perception and Performance (1977)",
+      "skills": [
+        {
+          "id": 211,
+          "name": "Calibration",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Verification of forecasts expressed in terms of probability",
+      "authorYear": "Brier, G.W., Monthly Weather Review (1950)",
+      "skills": [
+        {
+          "id": 211,
+          "name": "Calibration",
+          "color": "#3B82F6"
+        }
+      ]
     }
   ]
 }

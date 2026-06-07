@@ -63,14 +63,12 @@ Updated estimate: 40% (base rate adjusted upward for specific factors she can po
 → [**Reference Class Forecasting**](../Delivery-and-Flow/reference-class-forecasting.md) — the operational technique for anchoring on base rates in project estimation; calibration is why the technique works
 → [**After-Action Review**](../Leadership/after-action-review.md) — the learning cycle that generates the outcome data needed to improve calibration over time
 
----
-
 ## References
 
-- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015).
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011). Chapter on overconfidence.
-- Fischhoff, B., Slovic, P. & Lichtenstein, S. (1977) "Knowing with certainty: the appropriateness of extreme confidence." *Journal of Experimental Psychology*.
-- Brier, G.W. (1950) "Verification of forecasts expressed in terms of probability." *Monthly Weather Review*.
+- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical evidence for what separates highly calibrated forecasters from the rest; the source of the superforecaster research programme.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of overconfidence; the inside-view/outside-view distinction and systematic underweighting of base rates are the primary mechanisms behind miscalibration.
+- *"Knowing with certainty: the appropriateness of extreme confidence"* — Fischhoff, Slovic & Lichtenstein, *Journal of Experimental Psychology: Human Perception and Performance* (1977) — the foundational empirical study establishing systematic overconfidence in probability judgments.
+- *"Verification of forecasts expressed in terms of probability"* — Brier, G.W., *Monthly Weather Review* (1950) — introduced the Brier score as a measure of probabilistic forecast accuracy; the mathematical origin of calibration measurement.
 
 ---
 
