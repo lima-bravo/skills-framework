@@ -5487,6 +5487,39 @@
           "color": "#3B82F6"
         }
       ]
+    },
+    {
+      "title": "Realistic Evaluation",
+      "authorYear": "Ray Pawson & Nick Tilley (1997)",
+      "skills": [
+        {
+          "id": 128,
+          "name": "Theory of Change",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "The Logic Model Guidebook: Better Strategies for Great Results",
+      "authorYear": "Lisa Wyatt Knowlton & Cynthia C. Phillips (2013)",
+      "skills": [
+        {
+          "id": 128,
+          "name": "Theory of Change",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Lean Impact",
+      "authorYear": "Ann Mei Chang (2018)",
+      "skills": [
+        {
+          "id": 128,
+          "name": "Theory of Change",
+          "color": "#3B82F6"
+        }
+      ]
     }
   ]
 }

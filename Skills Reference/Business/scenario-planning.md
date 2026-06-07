@@ -44,6 +44,7 @@ Shell is the canonical case for a reason. In the early 1970s its planners, rathe
 → [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — scenario planning is most valuable in Complex and Chaotic domains
 → [**Inversion**](../General-Thinking/inversion.md) — building the most challenging scenario is an inversion exercise applied to strategic planning
 → [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — each scenario must include the downstream consequences of primary shifts
+→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — complementary: scenario planning asks what futures are plausible; Theory of Change asks what pathway gets you to the target outcome within any given scenario.
 
 ## References
 

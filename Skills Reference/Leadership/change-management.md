@@ -43,6 +43,7 @@ A company announces a shift to a customer-centric operating model with a town ha
 → [**Power Mapping**](../Business/power-mapping.md) — identify who the real decision-makers and opinion leaders are before designing the guiding coalition
 → [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — change approach must match the domain type
 → [**RACI Framework**](../Business/raci-framework.md) — ambiguous accountability is a top cause of transformation failure
+→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — Kotter's model is itself a Theory of Change with embedded assumptions about human psychology and organisations; making those assumptions explicit reveals where a specific transformation is most likely to fail.
 
 ## References
 

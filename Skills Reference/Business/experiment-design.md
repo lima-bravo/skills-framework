@@ -50,6 +50,7 @@ An e-commerce team is testing whether a new checkout flow improves conversion. T
 → [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — experiment design disciplines every stage of this chain; the chain specifies what question to answer, experiment design specifies how to answer it validly
 → [**A/B Testing**](ab-testing.md) — A/B testing is the most common operationalisation of experiment design in product and marketing practice; the general principles here govern the specifics there
 → [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — in Complex domains, experiments replace analysis as the primary evidence-generating method; Cynefin prescribes when to use safe-to-fail probing over upfront planning.
+→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — the assumptions in a Theory of Change are hypotheses; experiment design is the method for testing them rigorously before the programme commits to scale.
 
 ## References
 
