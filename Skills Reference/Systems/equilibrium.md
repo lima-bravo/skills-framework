@@ -48,13 +48,13 @@ A management team wants to shift from a hierarchical to a flat decision-making c
 → [**Feedback Loops**](feedback-loops.md) — equilibrium is maintained by balancing feedback loops; it is disrupted by reinforcing ones.
 → [**Activation Energy**](../Physics-and-Chemistry/activation-energy.md) — shifting between equilibria requires an energy input to overcome the barrier between them.
 → [**Creative Destruction**](../Economics/creative-destruction.md) — industry equilibria are periodically disrupted; understanding the mechanism of disruption is the creative destruction mental model.
+
 ## References
 
 - *Elements of Pure Economics* — Léon Walras (1874) — the original formal treatment of general economic equilibrium.
 - *The Origins of Order: Self-Organisation and Selection in Evolution* — Stuart A. Kauffman (1993) — extends equilibrium thinking to complex adaptive systems.
+- *A Beautiful Mind* — Sylvia Nasar (1998) — biography of John Nash that traces the development of Nash equilibrium from its mathematical origins to its application across economics and game theory.
 
-
----
 
 ---
 
