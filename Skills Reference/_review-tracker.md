@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **13**
+- Reviewed (verified + fixed): **14**
 - Flagged: **0**
-- Remaining (todo): **249**
+- Remaining (todo): **248**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -67,7 +67,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#10` **Pre-mortem** · `General-Thinking/pre-mortem.md` · **st:** fixed · **n:** Both manifest refs on card ✓; Klein (1998) attribution verified; fixed blank line + duplicate ---; added backlinks in assumption-mapping and margin-of-safety (inversion, steelmanning, cobra-effect, red-teaming already had them). build + check:counts pass.
 - [x] `#11` **Post-mortem** · `General-Thinking/post-mortem.md` · **st:** fixed · **n:** Added missing Horowitz Hard Thing (2014) ref (manifest had it, card didn't); added After-Action Review as connection (AAR card explicitly differentiates the two); fixed blank line + duplicate ---; backlinks added in pre-mortem, feedback-loops, five-hour-rule (all reverse edges). build + check:counts pass.
 - [x] `#12` **Asymmetry / Convexity** · `General-Thinking/asymmetry-convexity.md` · **st:** fixed · **n:** Fixed typo "exercizing"→"exercising"; added Black Swan as connection (already backlinked, new edge 1043→1044); fixed blank line + duplicate ---; backlinks in margin-of-safety and probabilistic-thinking. CLAUDE.md + _ai-index.md updated. build + check:counts pass.
-- [ ] `#13` **De Bono's Six Thinking Hats** · `General-Thinking/de-bonos-six-thinking-hats.md` · **st:** todo · **n:** —
+- [x] `#13` **De Bono's Six Thinking Hats** · `General-Thinking/de-bonos-six-thinking-hats.md` · **st:** fixed · **n:** Both refs verified (de Bono 1985 + 1970) ✓; six hat colors/roles correct ✓; fixed blank line + duplicate ---; backlinks added in confirmation-bias, pre-mortem, framing (all reverse edges). build + check:counts pass.
 - [ ] `#14` **Ladder of Inference** · `General-Thinking/ladder-of-inference.md` · **st:** todo · **n:** —
 - [ ] `#15` **Regret Minimization Framework** · `General-Thinking/regret-minimization-framework.md` · **st:** todo · **n:** —
 - [ ] `#16` **Two-Way Doors** · `General-Thinking/two-way-doors.md` · **st:** todo · **n:** —

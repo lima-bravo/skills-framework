@@ -48,6 +48,8 @@ A CFO needs to present a £2M cost overrun to the board. Two frames: Frame 1: "W
 → [**Audience**](audience.md) — the right frame for a given content depends entirely on who the audience is.
 → [**Overton Window**](../General-Thinking/overton-window.md) — framing is the mechanism by which Overton Windows are maintained or shifted; whoever controls the frame defines what is thinkable.
 → [**Schelling Points**](../Economics/schelling-points.md) — framing creates salience, which creates Schelling Points; the most prominent framing tends to become the focal point for coordination.
+→ [**De Bono's Six Thinking Hats**](../General-Thinking/de-bonos-six-thinking-hats.md) — each hat is a distinct frame; the Six Hats is a systematic method for cycling through multiple frames of the same problem.
+
 ## References
 
 - *Frame Analysis: An Essay on the Organization of Experience* — Erving Goffman (1974) — the sociological source text: frames as the cognitive structures that organize perception.
