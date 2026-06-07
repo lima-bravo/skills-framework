@@ -47,6 +47,7 @@ Reddit's early growth strategy was to create fake accounts and post content them
 → [**Feedback Loops**](feedback-loops.md) — the self-reinforcing dynamic above critical mass is a reinforcing feedback loop.
 → [**Viral Growth**](../Network-Effects/viral-growth.md) — viral coefficient above 1 is the mechanism by which critical mass, once approached, is crossed.
 → [**Emergence**](emergence.md) — many emergent phenomena require a critical mass of interactions before the system-level property materialises.
+→ [**Scale**](scale.md) — critical mass is a specific threshold in a scale curve: the point at which a scale effect activates or a network becomes self-sustaining.
 
 ## References
 
