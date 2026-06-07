@@ -48,6 +48,8 @@ A large software company reorganizes into product squads, each responsible for a
 → [**Second-order Effects**](../General-Thinking/second-order-effects.md) — interdependence is the mechanism by which second-order effects propagate through systems.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — interdependent systems have more feedback loops, more of which are invisible.
 → [**Emergence**](../Systems/emergence.md) — complex system behavior that appears emergent is often the result of untracked interdependencies.
+→ [**Conway's Law**](../Systems/conways-law.md) — Conway's Law is the specific version of interdependence applied to system design: team communication structures become system integration structures.
+
 ## References
 
 - *Power and Interdependence: World Politics in Transition* — Robert O. Keohane & Joseph S. Nye (1977; 4th ed. 2011) — the political science framework for analyzing mutual dependence and its strategic implications.

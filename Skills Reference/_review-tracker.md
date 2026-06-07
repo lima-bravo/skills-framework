@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **39**
+- Reviewed (verified + fixed): **40**
 - Flagged: **0**
-- Remaining (todo): **223**
+- Remaining (todo): **222**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -96,7 +96,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#25` **Churn** · `Systems/churn.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Moore 1991 and Ries 2011 (Gap-A); backlinks in compounding, feedback-loops, bottlenecks
 - [x] `#26` **Algorithms** · `Systems/algorithms.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; manifest refs verified; backlink added in map-territory
 - [x] `#27` **Irreducibility** · `Systems/irreducibility.md` · **st:** fixed · **n:** removed duplicate --- footer; added Penrose 1989 (Gap-A); backlinks in emergence, algorithms, map-territory
-- [ ] `#28` **Conway's Law** · `Systems/conways-law.md` · **st:** todo · **n:** —
+- [x] `#28` **Conway's Law** · `Systems/conways-law.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Forsgren/Humble/Kim 2018 (Gap-A); backlinks in interdependence, bottlenecks, emergence
 - [ ] `#29` **Red Queen Dilemma** · `Systems/red-queen-dilemma.md` · **st:** todo · **n:** —
 - [ ] `#102` **S-Curves** · `Systems/s-curves.md` · **st:** todo · **n:** —
 - [ ] `#108` **Exploration vs. Exploitation** · `Systems/exploration-vs-exploitation.md` · **st:** todo · **n:** —
