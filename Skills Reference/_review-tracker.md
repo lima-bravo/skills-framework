@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **10**
+- Reviewed (verified + fixed): **11**
 - Flagged: **0**
-- Remaining (todo): **252**
+- Remaining (todo): **251**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -64,7 +64,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#7` **Probabilistic Thinking** · `General-Thinking/probabilistic-thinking.md` · **st:** fixed · **n:** Added two missing refs: Bernstein Against the Gods (1996) and Kahneman Thinking Fast and Slow (2011) — both in manifest, neither on card. Removed duplicate ---. All 8 connections and backlinks already present. build + check:counts pass.
 - [x] `#8` **Thought Experiment** · `General-Thinking/thought-experiment.md` · **st:** fixed · **n:** Both manifest refs on card ✓; fixed blank line before ## References + duplicate ---; added backlinks in first-principles, inversion, second-order-effects (all reverse edges, no new connection count). build + check:counts pass.
 - [x] `#9` **Socratic Thinking** · `General-Thinking/socratic-thinking.md` · **st:** fixed · **n:** Fixed typo "surprizing"→"surprising"; added missing Ball & Brewer (1996) ref (manifest had it, card didn't); fixed blank line + duplicate ---; added backlinks in first-principles, confirmation-bias (ladder-of-inference already had one). build + check:counts pass.
-- [ ] `#10` **Pre-mortem** · `General-Thinking/pre-mortem.md` · **st:** todo · **n:** —
+- [x] `#10` **Pre-mortem** · `General-Thinking/pre-mortem.md` · **st:** fixed · **n:** Both manifest refs on card ✓; Klein (1998) attribution verified; fixed blank line + duplicate ---; added backlinks in assumption-mapping and margin-of-safety (inversion, steelmanning, cobra-effect, red-teaming already had them). build + check:counts pass.
 - [ ] `#11` **Post-mortem** · `General-Thinking/post-mortem.md` · **st:** todo · **n:** —
 - [ ] `#12` **Asymmetry / Convexity** · `General-Thinking/asymmetry-convexity.md` · **st:** todo · **n:** —
 - [ ] `#13` **De Bono's Six Thinking Hats** · `General-Thinking/de-bonos-six-thinking-hats.md` · **st:** todo · **n:** —
