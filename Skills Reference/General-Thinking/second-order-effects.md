@@ -53,6 +53,7 @@ A city decides to build a new urban highway to reduce commute times (first-order
 
 - *The Most Important Thing: Uncommon Sense for the Thoughtful Investor* — Howard Marks (2011) — the source of second-order thinking as a competitive edge: 'and then what?'
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — Munger's treatment of second-order consequences as essential to good judgment.
+- *Thinking in Systems: A Primer* — Donella H. Meadows (2008) — how feedback structure propagates effects through higher orders, and why linear first-order reasoning misreads systems.
 
 
 ---

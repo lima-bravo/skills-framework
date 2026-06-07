@@ -1682,6 +1682,51 @@
           "id": 42,
           "name": "Velocity",
           "color": "#EA580C"
+        },
+        {
+          "id": 133,
+          "name": "Flow Efficiency vs Resource Efficiency",
+          "color": "#0891B2"
+        },
+        {
+          "id": 134,
+          "name": "Lead Time vs Cycle Time",
+          "color": "#0891B2"
+        },
+        {
+          "id": 142,
+          "name": "DORA Metrics",
+          "color": "#0891B2"
+        },
+        {
+          "id": 143,
+          "name": "Flow Metrics",
+          "color": "#0891B2"
+        },
+        {
+          "id": 150,
+          "name": "Cognitive Load (Team)",
+          "color": "#0891B2"
+        },
+        {
+          "id": 154,
+          "name": "Team Topologies",
+          "color": "#0891B2"
+        },
+        {
+          "id": 155,
+          "name": "Inverse Conway Maneuver",
+          "color": "#0891B2"
+        },
+        {
+          "id": 156,
+          "name": "Dependency Management",
+          "color": "#0891B2"
+        },
+        {
+          "id": 196,
+          "name": "After-Action Review",
+          "color": "#1E40AF"
         }
       ]
     },
@@ -1703,6 +1748,11 @@
           "id": 227,
           "name": "Expected Value",
           "color": "#4F46E5"
+        },
+        {
+          "id": 126,
+          "name": "Risk Management",
+          "color": "#1E40AF"
         }
       ]
     },
@@ -1777,6 +1827,16 @@
           "id": 104,
           "name": "Psychological Safety",
           "color": "#9333EA"
+        },
+        {
+          "id": 167,
+          "name": "Immunity to Change",
+          "color": "#9333EA"
+        },
+        {
+          "id": 196,
+          "name": "After-Action Review",
+          "color": "#1E40AF"
         }
       ]
     },
@@ -2142,6 +2202,11 @@
           "id": 102,
           "name": "S-Curves",
           "color": "#0D9488"
+        },
+        {
+          "id": 202,
+          "name": "Social Proof",
+          "color": "#9333EA"
         }
       ]
     },
@@ -2364,6 +2429,16 @@
           "id": 218,
           "name": "Business Case Construction",
           "color": "#475569"
+        },
+        {
+          "id": 160,
+          "name": "Reference Class Forecasting",
+          "color": "#0891B2"
+        },
+        {
+          "id": 206,
+          "name": "Base Rate Neglect",
+          "color": "#9333EA"
         }
       ]
     },
@@ -2487,6 +2562,11 @@
           "id": 222,
           "name": "Coalition Building",
           "color": "#1E40AF"
+        },
+        {
+          "id": 202,
+          "name": "Social Proof",
+          "color": "#9333EA"
         }
       ]
     },
@@ -2601,6 +2681,11 @@
           "id": 222,
           "name": "Coalition Building",
           "color": "#1E40AF"
+        },
+        {
+          "id": 125,
+          "name": "Change Management",
+          "color": "#1E40AF"
         }
       ]
     },
@@ -2617,6 +2702,11 @@
           "id": 92,
           "name": "Contrast",
           "color": "#DB2777"
+        },
+        {
+          "id": 203,
+          "name": "Narrative Instinct",
+          "color": "#9333EA"
         }
       ]
     },
@@ -2677,6 +2767,11 @@
           "id": 179,
           "name": "Innovation Health Indicators",
           "color": "#DC2626"
+        },
+        {
+          "id": 152,
+          "name": "OKRs",
+          "color": "#0891B2"
         }
       ]
     },
@@ -2791,6 +2886,11 @@
           "id": 45,
           "name": "Activation Energy",
           "color": "#EA580C"
+        },
+        {
+          "id": 202,
+          "name": "Social Proof",
+          "color": "#9333EA"
         }
       ]
     },
@@ -2912,6 +3012,11 @@
           "id": 75,
           "name": "Compounding",
           "color": "#4F46E5"
+        },
+        {
+          "id": 88,
+          "name": "Five-Hour Rule",
+          "color": "#059669"
         }
       ]
     },
@@ -3387,6 +3492,16 @@
           "id": 118,
           "name": "Mission Command",
           "color": "#1E40AF"
+        },
+        {
+          "id": 194,
+          "name": "Leader's Intent",
+          "color": "#1E40AF"
+        },
+        {
+          "id": 197,
+          "name": "Tactical Pause",
+          "color": "#1E40AF"
         }
       ]
     },
@@ -3473,6 +3588,11 @@
           "id": 240,
           "name": "Black Swan",
           "color": "#3B82F6"
+        },
+        {
+          "id": 203,
+          "name": "Narrative Instinct",
+          "color": "#9333EA"
         }
       ]
     },
@@ -3565,6 +3685,11 @@
           "id": 110,
           "name": "Design Thinking",
           "color": "#DC2626"
+        },
+        {
+          "id": 207,
+          "name": "SRK Framework",
+          "color": "#9333EA"
         }
       ]
     },
@@ -3705,6 +3830,11 @@
           "id": 41,
           "name": "Leverage",
           "color": "#EA580C"
+        },
+        {
+          "id": 233,
+          "name": "Fermi Estimation",
+          "color": "#4F46E5"
         }
       ]
     },
@@ -3811,6 +3941,11 @@
           "id": 216,
           "name": "Unit Economics",
           "color": "#16A34A"
+        },
+        {
+          "id": 153,
+          "name": "Kill Criteria",
+          "color": "#0891B2"
         }
       ]
     },
@@ -3979,6 +4114,11 @@
           "id": 62,
           "name": "Product-Market Fit",
           "color": "#DC2626"
+        },
+        {
+          "id": 204,
+          "name": "Falsification",
+          "color": "#9333EA"
         }
       ]
     },
@@ -4082,6 +4222,11 @@
           "id": 109,
           "name": "Adjacent Possible",
           "color": "#0D9488"
+        },
+        {
+          "id": 20,
+          "name": "Equilibrium",
+          "color": "#0D9488"
         }
       ]
     },
@@ -4093,6 +4238,16 @@
           "id": 18,
           "name": "Bottlenecks",
           "color": "#0D9488"
+        },
+        {
+          "id": 143,
+          "name": "Flow Metrics",
+          "color": "#0891B2"
+        },
+        {
+          "id": 156,
+          "name": "Dependency Management",
+          "color": "#0891B2"
         }
       ]
     },
@@ -4126,6 +4281,21 @@
           "id": 218,
           "name": "Business Case Construction",
           "color": "#475569"
+        },
+        {
+          "id": 161,
+          "name": "Hypothesis-Driven Consulting",
+          "color": "#7C3AED"
+        },
+        {
+          "id": 162,
+          "name": "MECE",
+          "color": "#7C3AED"
+        },
+        {
+          "id": 163,
+          "name": "Pyramid Principle",
+          "color": "#7C3AED"
         }
       ]
     },
@@ -4250,6 +4420,11 @@
           "id": 82,
           "name": "Network Effects",
           "color": "#CA8A04"
+        },
+        {
+          "id": 202,
+          "name": "Social Proof",
+          "color": "#9333EA"
         }
       ]
     },
@@ -4287,6 +4462,11 @@
           "id": 35,
           "name": "Efficiency",
           "color": "#16A34A"
+        },
+        {
+          "id": 31,
+          "name": "Scarcity",
+          "color": "#16A34A"
         }
       ]
     },
@@ -4323,6 +4503,11 @@
           "id": 227,
           "name": "Expected Value",
           "color": "#4F46E5"
+        },
+        {
+          "id": 153,
+          "name": "Kill Criteria",
+          "color": "#0891B2"
         }
       ]
     },
@@ -4409,6 +4594,56 @@
           "id": 227,
           "name": "Expected Value",
           "color": "#4F46E5"
+        },
+        {
+          "id": 50,
+          "name": "Relativity",
+          "color": "#EA580C"
+        },
+        {
+          "id": 160,
+          "name": "Reference Class Forecasting",
+          "color": "#0891B2"
+        },
+        {
+          "id": 197,
+          "name": "Tactical Pause",
+          "color": "#1E40AF"
+        },
+        {
+          "id": 199,
+          "name": "Survivorship Bias",
+          "color": "#9333EA"
+        },
+        {
+          "id": 200,
+          "name": "Fundamental Attribution Error",
+          "color": "#9333EA"
+        },
+        {
+          "id": 201,
+          "name": "Hindsight Bias",
+          "color": "#9333EA"
+        },
+        {
+          "id": 203,
+          "name": "Narrative Instinct",
+          "color": "#9333EA"
+        },
+        {
+          "id": 205,
+          "name": "Commitment & Consistency Bias",
+          "color": "#9333EA"
+        },
+        {
+          "id": 206,
+          "name": "Base Rate Neglect",
+          "color": "#9333EA"
+        },
+        {
+          "id": 211,
+          "name": "Calibration",
+          "color": "#3B82F6"
         }
       ]
     },
@@ -4430,6 +4665,11 @@
         {
           "id": 36,
           "name": "Debt",
+          "color": "#16A34A"
+        },
+        {
+          "id": 38,
+          "name": "Bubbles",
           "color": "#16A34A"
         }
       ]
@@ -4600,6 +4840,11 @@
           "id": 254,
           "name": "Playing to Win",
           "color": "#475569"
+        },
+        {
+          "id": 166,
+          "name": "Kernel of Good Strategy",
+          "color": "#475569"
         }
       ]
     },
@@ -4665,6 +4910,26 @@
           "id": 257,
           "name": "Span of Control",
           "color": "#1E40AF"
+        },
+        {
+          "id": 150,
+          "name": "Cognitive Load (Team)",
+          "color": "#0891B2"
+        },
+        {
+          "id": 154,
+          "name": "Team Topologies",
+          "color": "#0891B2"
+        },
+        {
+          "id": 155,
+          "name": "Inverse Conway Maneuver",
+          "color": "#0891B2"
+        },
+        {
+          "id": 156,
+          "name": "Dependency Management",
+          "color": "#0891B2"
         }
       ]
     },
@@ -4703,6 +4968,16 @@
           "id": 258,
           "name": "Coaching Stance",
           "color": "#7C3AED"
+        },
+        {
+          "id": 164,
+          "name": "Engagement Lifecycle",
+          "color": "#7C3AED"
+        },
+        {
+          "id": 165,
+          "name": "Contracting & Scope",
+          "color": "#7C3AED"
         }
       ]
     },
@@ -4713,6 +4988,16 @@
         {
           "id": 258,
           "name": "Coaching Stance",
+          "color": "#7C3AED"
+        },
+        {
+          "id": 164,
+          "name": "Engagement Lifecycle",
+          "color": "#7C3AED"
+        },
+        {
+          "id": 165,
+          "name": "Contracting & Scope",
           "color": "#7C3AED"
         }
       ]
@@ -4809,6 +5094,11 @@
           "id": 261,
           "name": "Systems Thinking",
           "color": "#0D9488"
+        },
+        {
+          "id": 196,
+          "name": "After-Action Review",
+          "color": "#1E40AF"
         }
       ]
     },
@@ -4929,6 +5219,21 @@
           "id": 211,
           "name": "Calibration",
           "color": "#3B82F6"
+        },
+        {
+          "id": 201,
+          "name": "Hindsight Bias",
+          "color": "#9333EA"
+        },
+        {
+          "id": 204,
+          "name": "Falsification",
+          "color": "#9333EA"
+        },
+        {
+          "id": 206,
+          "name": "Base Rate Neglect",
+          "color": "#9333EA"
         }
       ]
     },
@@ -5196,6 +5501,11 @@
           "id": 262,
           "name": "Incentive Design",
           "color": "#16A34A"
+        },
+        {
+          "id": 192,
+          "name": "Self-Determination Theory",
+          "color": "#9333EA"
         }
       ]
     }
