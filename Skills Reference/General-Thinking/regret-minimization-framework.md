@@ -46,12 +46,12 @@ Bezos's original application: he was a high-performing VP at D.E. Shaw, contempl
 → [**Inversion**](inversion.md) — the regret minimization framework is inversion applied to decision-making: instead of "what's the best outcome I'm seeking?", it asks "which failure would be worse?"
 → [**Asymmetry/Convexity**](asymmetry-convexity.md) — trying and failing is often less costly at 80 than not trying; this is the regret asymmetry corresponding to Taleb's payoff asymmetry.
 → [**Two-Way Doors**](two-way-doors.md) — reversible decisions (two-way doors) have naturally low regret potential from failure; irreversible ones (one-way doors) are where this framework is most relevant.
+
 ## References
 
 - *Invent and Wander: The Collected Writings of Jeff Bezos* — Jeff Bezos, ed. Walter Isaacson (2021) — Bezos's own account of the regret minimization framework and the Amazon decision.
+- *The Everything Store: Jeff Bezos and the Age of Amazon* — Brad Stone (2013) — the biographical account of Amazon's founding, including Bezos's 1994 decision and the reasoning behind it.
 
-
----
 
 ---
 

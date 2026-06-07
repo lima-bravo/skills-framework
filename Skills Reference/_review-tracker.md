@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **15**
+- Reviewed (verified + fixed): **16**
 - Flagged: **0**
-- Remaining (todo): **247**
+- Remaining (todo): **246**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -69,7 +69,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#12` **Asymmetry / Convexity** · `General-Thinking/asymmetry-convexity.md` · **st:** fixed · **n:** Fixed typo "exercizing"→"exercising"; added Black Swan as connection (already backlinked, new edge 1043→1044); fixed blank line + duplicate ---; backlinks in margin-of-safety and probabilistic-thinking. CLAUDE.md + _ai-index.md updated. build + check:counts pass.
 - [x] `#13` **De Bono's Six Thinking Hats** · `General-Thinking/de-bonos-six-thinking-hats.md` · **st:** fixed · **n:** Both refs verified (de Bono 1985 + 1970) ✓; six hat colors/roles correct ✓; fixed blank line + duplicate ---; backlinks added in confirmation-bias, pre-mortem, framing (all reverse edges). build + check:counts pass.
 - [x] `#14` **Ladder of Inference** · `General-Thinking/ladder-of-inference.md` · **st:** fixed · **n:** Fixed typo "supervizing"→"supervising"; fixed blank line before ## References + duplicate ---; added backlinks in map-territory + confirmation-bias (all reverse edges). build + check:counts pass.
-- [ ] `#15` **Regret Minimization Framework** · `General-Thinking/regret-minimization-framework.md` · **st:** todo · **n:** —
+- [x] `#15` **Regret Minimization Framework** · `General-Thinking/regret-minimization-framework.md` · **st:** fixed · **n:** Added missing Stone Everything Store (2013) ref (manifest had it, card didn't); fixed blank line before ## References + duplicate ---; backlinks in inversion + asymmetry-convexity (new edge 1044→1045). CLAUDE.md + _ai-index.md updated. build + check:counts pass.
 - [ ] `#16` **Two-Way Doors** · `General-Thinking/two-way-doors.md` · **st:** todo · **n:** —
 - [ ] `#106` **Analogical Reasoning** · `General-Thinking/analogical-reasoning.md` · **st:** todo · **n:** —
 - [ ] `#107` **Divergent and Convergent Thinking** · `General-Thinking/divergent-and-convergent-thinking.md` · **st:** todo · **n:** —

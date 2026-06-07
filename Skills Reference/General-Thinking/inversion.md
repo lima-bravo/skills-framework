@@ -51,6 +51,7 @@ A team is designing a new onboarding flow for a SaaS product. Forward thinking g
 → [**First Principles**](first-principles.md) — first principles builds up from what is true; inversion works down from what would make the answer wrong. Run both together.
 → [**Pre-mortem**](pre-mortem.md) — the pre-mortem is inversion applied to a plan: assume it has already failed, then work backward to the causes you can prevent now.
 → [**Thought Experiment**](thought-experiment.md) — inversion is one of the most powerful thought-experiment structures; the pre-mortem is the most common organizational form of it.
+→ [**Regret Minimization Framework**](regret-minimization-framework.md) — the RMF is inversion applied to life decisions: instead of asking "what should I choose?", ask "which choice would I regret more at 80?"
 
 ## References
 
