@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **3**
+- Reviewed (verified + fixed): **4**
 - Flagged: **0**
-- Remaining (todo): **259**
+- Remaining (todo): **258**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -57,7 +57,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#0` **First Principles** · `General-Thinking/first-principles.md` · **st:** fixed · **n:** Example (SpaceX $65M, ~2% raw materials) & Aristotle quote verified; Descartes/Munger refs correct. Added missing Feynman Lectures ref (was in manifest, not card); added reciprocal backlink in inversion.md. build + check:counts pass.
 - [x] `#1` **Inversion** · `General-Thinking/inversion.md` · **st:** fixed · **n:** Jacobi & Munger attributions verified; card refs (Poor Charlie's, Great Mental Models Vol 1) correct. Added reciprocal Pre-mortem connection. ⚠️ SYSTEMIC: manifest `refs` has 252 malformed skill entries (id = file-path string, not numeric) — flagged for a dedicated batch fix, not per-card. Also Art of Thinking Clearly assoc with #1 not reflected on card (revisit in batch).
 - [x] `#2` **Second-Order Effects** · `General-Thinking/second-order-effects.md` · **st:** fixed · **n:** Howard Marks "and then what?"/second-level thinking verified (The Most Important Thing, 2011); induced-demand worked example sound. Added missing Thinking in Systems (Meadows 2008) ref (in manifest, not card). Connections resolve; emergence backlink deferred to #19. build + check:counts pass.
-- [ ] `#3` **Occam's Razor** · `General-Thinking/occams-razor.md` · **st:** todo · **n:** —
+- [x] `#3` **Occam's Razor** · `General-Thinking/occams-razor.md` · **st:** fixed · **n:** Added missing Sagan (1996) ref (manifest had it, card didn't); renamed clunky "Einstein's misquote problem" failure mode to "Over-application"; fixed blank line before ## References and duplicate ---; added backlinks in first-principles, confirmation-bias, probabilistic-thinking. build + check:counts pass.
 - [ ] `#4` **Hanlon's Razor** · `General-Thinking/hanlons-razor.md` · **st:** todo · **n:** —
 - [ ] `#5` **Circle of Competence** · `General-Thinking/circle-of-competence.md` · **st:** todo · **n:** —
 - [ ] `#6` **Map-Territory** · `General-Thinking/map-territory.md` · **st:** todo · **n:** —

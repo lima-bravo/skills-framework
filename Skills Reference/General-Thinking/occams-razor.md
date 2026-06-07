@@ -31,7 +31,7 @@ Each additional assumption in an explanation is an additional point of failure. 
 
 ## Common Failure Modes
 
-- **Einstein's misquote problem.** "Everything should be made as simple as possible, but not simpler." The failure mode is over-application: selecting an explanation that is so parsimonious it fails to account for genuine complexity in the data.
+- **Over-application.** "Everything should be made as simple as possible, but not simpler." Occam's Razor is a tiebreaker, not a licence to ignore genuine complexity. The failure mode is selecting an explanation so parsimonious it cannot account for all the data.
 - **Confusing familiarity with simplicity.** The explanation you've heard before feels simpler because it's familiar, not because it has fewer assumptions. Check the actual assumption count.
 - **Using Razor to avoid investigation.** "The simple explanation is X, so I don't need to look further." Occam guides selection among explanations currently on the table; it does not eliminate the need to find better explanations.
 
@@ -49,13 +49,13 @@ A startup's north-star metric drops 15% over two weeks. The team generates three
 → [**Probabilistic Thinking**](probabilistic-thinking.md) — when explanations are roughly equally probable, Occam provides the tiebreaker.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — complex explanations are often motivated; Occam is a check on that motivation.
 → [**Grice's Maxims**](grices-maxims.md) — sister parsimony principle in a different domain; Occam's Razor governs explanatory economy, Grice governs communicative economy.
+
 ## References
 
 - *The Logic of Scientific Discovery* — Karl R. Popper (1934; English trans. 1959) — frames Occam's Razor in the context of scientific methodology and falsifiability.
 - *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the practical heuristic companion: solve the simplest version of the problem first.
+- *The Demon-Haunted World: Science as a Candle in the Dark* — Carl Sagan (1996) — Occam's Razor appears explicitly in Sagan's "Baloney Detection Kit" as a core tool of scientific reasoning.
 
-
----
 
 ---
 

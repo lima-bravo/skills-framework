@@ -51,25 +51,15 @@ card/manifest, run `npm run build`, then let `check:counts` name any prose still
 
 ## Git commits
 
-**Never run `git commit` yourself. Prepare the commit, then ask the user to run it.**
+Commit automatically — do not ask the user to run commits. After completing each card review (build passes, counts pass), stage and commit immediately.
 
-When you reach a natural commit point, stop and propose a commit rather than making it:
+**When to commit:**
 
-1. Summarise what changed (files touched, why).
-2. Write a ready-to-use commit message in a code block — a concise imperative subject
-   line (≤ ~70 chars) plus a short body if the change needs explanation.
-3. Ask the user to run the commit (you may stage with `git add` and show
-   `git status`/`git diff --stat`, but do **not** execute `git commit`).
-
-**Good times to propose a commit:**
-
-- After a skill's review is fully applied and `npm run build` + `check:counts` pass
-  (one commit per reviewed card keeps history reviewable).
-- After a batch of related cards in the same category is done.
+- After a skill's review is fully applied and `npm run build` + `check:counts` pass — one commit per reviewed card.
 - After tooling/structure changes (tracker, template, CLAUDE.md, index updates).
 - Before any large or risky change, so there's a clean restore point.
 
-Keep commits small and topical; don't bundle unrelated card reviews into one commit.
+**Commit format:** concise imperative subject line (≤ ~70 chars) plus a short body if the change needs explanation. Keep commits small and topical; don't bundle unrelated card reviews into one commit.
 
 ---
 

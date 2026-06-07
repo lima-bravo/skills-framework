@@ -51,6 +51,8 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 → [**Inversion**](inversion.md) — first principles tells you what should be true; inversion tells you what would have to be true for the current answer to be wrong. Run both together.
 → [**Map-Territory**](map-territory.md) — first principles is a method for cleaning the map. If your map contains inherited assumptions, it may not reflect the territory.
 → [**Circle of Competence**](circle-of-competence.md) — first principles reasoning in domains where you lack deep knowledge risks confident wrongness. Know where your bedrock is actually solid.
+→ [**Occam's Razor**](occams-razor.md) — both strip unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations without rebuilding.
+
 ## References
 
 - *Discourse on the Method* — René Descartes (1637) — the philosophical origin of first-principles reasoning: doubt everything until you reach what cannot be doubted.
