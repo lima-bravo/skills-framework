@@ -54,6 +54,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Hanlon's Razor**](../General-Thinking/hanlons-razor.md) — once you decide someone acted with bad intent, confirmation bias amplifies every subsequent piece of ambiguous evidence; Hanlon's Razor interrupts the initial attribution.
 → [**Socratic Thinking**](../General-Thinking/socratic-thinking.md) — Socratic questioning is the active antidote to confirmation bias: it systematically seeks the weakness in a belief rather than confirming it.
 → [**De Bono's Six Thinking Hats**](../General-Thinking/de-bonos-six-thinking-hats.md) — the Six Hats is a structural mitigation: it enforces exploration of all perspectives, including the one that conflicts with prior belief.
+→ [**Ladder of Inference**](../General-Thinking/ladder-of-inference.md) — the reflexive loop of the ladder is confirmation bias operating structurally: beliefs at the top select confirming data at the bottom, reinforcing themselves.
 
 ## References
 

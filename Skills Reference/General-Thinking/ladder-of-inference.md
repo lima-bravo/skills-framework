@@ -37,7 +37,7 @@ The ladder explains why smart people looking at the same situation reach opposit
 
 ## Worked Example
 
-A manager concludes that an employee "doesn't care about quality." Walking back down the ladder: (7) Action: the manager has been more closely supervizing this employee. (6) Belief: this employee doesn't care about quality. (5) Conclusion: this person will produce poor quality if not monitored. (4) Assumption: people who submit work without checking are careless about quality. (3) Interpretation: the employee submitted the report without re-reading it. (2) Selected data: the manager noticed errors in the last two reports. (1) Observable data: the last two reports had four formatting errors and one factual error. Walking back down reveals: the conclusion ("doesn't care about quality") is an inference from two reports with specific types of errors — which could equally indicate unclear standards, a time-pressure spike, or a template problem. The managerial action (close supervision) addresses the conclusion; the actual data suggests a different intervention.
+A manager concludes that an employee "doesn't care about quality." Walking back down the ladder: (7) Action: the manager has been more closely supervising this employee. (6) Belief: this employee doesn't care about quality. (5) Conclusion: this person will produce poor quality if not monitored. (4) Assumption: people who submit work without checking are careless about quality. (3) Interpretation: the employee submitted the report without re-reading it. (2) Selected data: the manager noticed errors in the last two reports. (1) Observable data: the last two reports had four formatting errors and one factual error. Walking back down reveals: the conclusion ("doesn't care about quality") is an inference from two reports with specific types of errors — which could equally indicate unclear standards, a time-pressure spike, or a template problem. The managerial action (close supervision) addresses the conclusion; the actual data suggests a different intervention.
 
 ---
 
@@ -46,13 +46,12 @@ A manager concludes that an employee "doesn't care about quality." Walking back 
 → [**Map-Territory**](map-territory.md) — the ladder is a map of how maps (beliefs and conclusions) are built from territory (data). Errors in the climb produce maps that don't reflect territory.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the reflexive loop of the ladder is confirmation bias operating structurally.
 → [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning walks back down the ladder, questioning each inference.
+
 ## References
 
 - *The Fifth Discipline: The Art and Practice of the Learning Organization* — Peter M. Senge (1990) — popularized the Ladder of Inference from Argyris's work.
 - *Overcoming Organizational Defenses: Facilitating Organizational Learning* — Chris Argyris (1990) — the original academic treatment of inference ladders and defensive reasoning.
 
-
----
 
 ---
 
