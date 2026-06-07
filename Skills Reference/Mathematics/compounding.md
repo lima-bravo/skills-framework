@@ -47,6 +47,8 @@ Amazon's flywheel is the most celebrated corporate compounding engine: lower pri
 → [**Feedback Loops**](../Systems/feedback-loops.md) — compounding is driven by reinforcing feedback loops; they are the same phenomenon.
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
+→ [**Churn**](../Systems/churn.md) — churn is the subtrahend in the compounding equation; even a small reduction in churn rate compounds forward dramatically over time.
+
 ## References
 
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — Munger on compounding as the most underrated force in business and learning.

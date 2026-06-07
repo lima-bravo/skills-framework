@@ -49,6 +49,7 @@ An engineering team complains they can't ship fast enough. The diagnosis: pull r
 → [**Growth Barriers**](../Business/growth-barriers.md) — the same constraint logic applied specifically to a stalled growth system: find the binding constraint in the acquisition-to-expansion chain before pulling levers elsewhere.
 → [**Technical Debt**](../Delivery-and-Flow/technical-debt.md) — accumulated technical debt increases the unit cost of every change processed through the constraint; it is one of the most common hidden causes of a delivery bottleneck.
 → [**Fixes That Fail**](fixes-that-fail.md) — adding capacity at non-bottleneck points is a classic symptomatic fix that relieves local pressure without improving system throughput.
+→ [**Churn**](churn.md) — in a growth system, churn is often the binding constraint on net growth; treating acquisition as the bottleneck when churn is the true constraint is a misidentification.
 
 ## References
 

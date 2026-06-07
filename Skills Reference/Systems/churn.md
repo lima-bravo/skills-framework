@@ -48,12 +48,13 @@ A B2B SaaS company reports 92% annual gross retention — excellent by industry 
 → [**Compounding**](../Mathematics/compounding.md) — churn is the subtrahend in the compounding equation; reducing churn dramatically changes the long-run trajectory.
 → [**Feedback Loops**](feedback-loops.md) — high churn can trigger a reinforcing negative loop (fewer users → less word of mouth → higher CAC → less investment in product → more churn).
 → [**Bottlenecks**](bottlenecks.md) — in a growth system, churn is often the binding constraint that limits net growth despite strong acquisition.
+
 ## References
 
 - *SaaS Metrics 2.0: A Guide to Measuring and Improving What Matters* — David Skok, for Entrepreneurs blog (2012) — the canonical treatment of churn economics in subscription businesses.
+- *Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers* — Geoffrey A. Moore (1991) — the customer lifecycle framework that contextualises why different customer segments churn at different rates.
+- *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the pivot and persevere decision is often driven by churn signals revealing product-market fit problems.
 
-
----
 
 ---
 
