@@ -24,10 +24,13 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - Flagged: **0**
 - Remaining (todo): **260**
 
-> ⚠️ **Open systemic issue (found during #1):** the manifest `refs` array has **252** skill
-> entries whose `id` is a file-path string instead of the numeric skill id. Build and
-> `check:counts` still pass, but this should be fixed in one dedicated pass (script that
-> maps path → id from `skills.*`) rather than card by card. See #1's note.
+> ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
+> **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
+> the deck and ref→skill edges in the graph; also 13 stale names / 81 stale colors). All
+> normalized to numeric id + canonical name/color from `skills.*`, and **146** duplicate
+> ref→skill links (numeric/path shadow pairs) removed. Build + `check:counts` pass; refs
+> still 250. Open minor note: *The Art of Thinking Clearly* still associates with #1 in the
+> manifest but isn't cited on the Inversion card — revisit if curating ref lists.
 
 > Update these four numbers as you go, or recompute by counting `st:` values.
 
