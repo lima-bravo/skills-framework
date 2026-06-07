@@ -54,9 +54,8 @@ A consultancy builds a unified pricing model for a client, arguing that the curr
 
 - *A New Kind of Science* — Stephen Wolfram (2002) — the extended treatment of computational irreducibility as a fundamental property of complex systems.
 - *Gödel, Escher, Bach: An Eternal Golden Braid* — Douglas R. Hofstadter (1979) — explores irreducibility through the lens of formal systems, self-reference, and strange loops.
+- *The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics* — Roger Penrose (1989) — argues that mathematical truth and consciousness involve irreducibly non-algorithmic processes.
 
-
----
 
 ---
 
