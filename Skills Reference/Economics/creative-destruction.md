@@ -50,6 +50,7 @@ Kodak invented the digital camera in 1975 and buried the invention because it th
 → [**S-curves**](../Systems/s-curves.md) (see Compounding/Learning) — creative destruction describes the jump between S-curves.
 → [**Second-order Effects**](../General-Thinking/second-order-effects.md) — the full impact of creative destruction on industries, workers, and communities takes years to unfold.
 → [**Equilibrium**](../Systems/equilibrium.md) — creative destruction describes the mechanism by which industry equilibria are periodically destabilised and replaced.
+→ [**Red Queen Dilemma**](../Systems/red-queen-dilemma.md) — creative destruction is how escape from Red Queen races happens: a new product or model redefines the competitive dimension before others adapt.
 
 ## References
 
