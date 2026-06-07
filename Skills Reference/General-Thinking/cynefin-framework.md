@@ -62,6 +62,7 @@ A bank rolls out a process-improvement methodology that worked beautifully in it
 → [**Structured Problem Solving**](../Consulting-Craft/structured-problem-solving.md) — the integrated answer-first, hypothesis-led, MECE posture is built for Complicated-domain problems with enough precedent to support a credible day-one guess; forcing it onto Complex-domain situations produces false confidence rather than clarity
 → [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — classifying the domain is itself part of the diagnostic move: a "current-state" question can be Complicated (analysable, as in the worked example) or Complex (requiring probes before any diagnosis can be trusted), and a fact base should say which
 → [**Causal Analysis**](causal-analysis.md) — Cynefin identifies which causal mode is appropriate: Complicated domains suit 5 Whys or fishbone; Complex domains require causal loop analysis because the cause-and-effect relationship is a feedback structure, not a chain.
+→ [**Paradigm Shift**](paradigm-shift.md) — normal science operates in Clear and Complicated domains where methods are settled; paradigm crisis often signals that a domain has become Complex and the existing methods have lost their predictive validity.
 
 ## References
 

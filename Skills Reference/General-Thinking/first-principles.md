@@ -58,6 +58,7 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 → [**Cynefin Framework**](cynefin-framework.md) — first principles reasoning is reliable in Clear and Complicated domains where analysis can reach a correct answer; it is less productive in Complex domains where the answer only emerges from probing.
 → [**Theory of Change**](theory-of-change.md) — Theory of Change forces the question of why each causal link is expected to hold; first principles reasoning is the tool for interrogating those assumptions at bedrock.
 → [**Causal Analysis**](causal-analysis.md) — both disciplines strip away assumption layers; first principles strips downward from a belief, causal analysis strips backward from an outcome.
+→ [**Paradigm Shift**](paradigm-shift.md) — first-principles reasoning is the practitioner's attempt to force a paradigm shift intentionally; where Kuhn describes how paradigm shifts happen historically, first principles is the deliberate method for escaping paradigmatic assumptions.
 
 ## References
 

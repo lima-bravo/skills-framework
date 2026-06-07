@@ -56,6 +56,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**De Bono's Six Thinking Hats**](../General-Thinking/de-bonos-six-thinking-hats.md) — the Six Hats is a structural mitigation: it enforces exploration of all perspectives, including the one that conflicts with prior belief.
 → [**Ladder of Inference**](../General-Thinking/ladder-of-inference.md) — the reflexive loop of the ladder is confirmation bias operating structurally: beliefs at the top select confirming data at the bottom, reinforcing themselves.
 → [**Divergent and Convergent Thinking**](../General-Thinking/divergent-and-convergent-thinking.md) — confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely.
+→ [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — confirmation bias is the individual-level mechanism that sustains normal science; paradigm-shift theory explains the systemic result when enough practitioners individually suppress the same anomalies.
 
 ## References
 

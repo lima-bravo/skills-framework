@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **22**
+- Reviewed (verified + fixed): **23**
 - Flagged: **0**
-- Remaining (todo): **240**
+- Remaining (todo): **239**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -76,7 +76,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#122` **Cynefin Framework** · `General-Thinking/cynefin-framework.md` · **st:** fixed · **n:** Added 5 missing --- section separators; standardized References format (removed non-standard Originator line, full titles, added descriptions); added HBR article "A Leader's Framework for Decision Making" to manifest (B2 gap, refs 248→249); backlinks in exploration-vs-exploitation, experiment-design, first-principles, pre-mortem. build + check:counts pass.
 - [x] `#128` **Theory of Change** · `General-Thinking/theory-of-change.md` · **st:** fixed · **n:** Added 5 missing --- section separators; standardized References (removed Originator line, full titles, added descriptions); added 3 manifest refs (B2 gaps, refs 249→252); backlinks in first-principles, pre-mortem, experiment-design, scenario-planning, change-management. build + check:counts pass.
 - [x] `#171` **Causal Analysis** · `General-Thinking/causal-analysis.md` · **st:** fixed · **n:** added blank line before ## References, removed duplicate --- footer; backlinks in second-order-effects, feedback-loops, post-mortem, cynefin, first-principles, pre-mortem
-- [ ] `#188` **Paradigm Shift** · `General-Thinking/paradigm-shift.md` · **st:** todo · **n:** —
+- [x] `#188` **Paradigm Shift** · `General-Thinking/paradigm-shift.md` · **st:** fixed · **n:** added blank line before ## References, removed duplicate --- footer; backlinks in map-territory, dominant-logic, confirmation-bias, exploration-vs-exploitation, s-curves, disruptive-innovation, immunity-to-change, first-principles, cynefin-framework
 - [ ] `#211` **Calibration** · `General-Thinking/calibration.md` · **st:** todo · **n:** —
 - [ ] `#223` **Steelmanning** · `General-Thinking/steelmanning.md` · **st:** todo · **n:** —
 - [ ] `#226` **Grice's Maxims** · `General-Thinking/grices-maxims.md` · **st:** todo · **n:** —
