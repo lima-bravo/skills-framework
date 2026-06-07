@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **27**
+- Reviewed (verified + fixed): **28**
 - Flagged: **0**
-- Remaining (todo): **235**
+- Remaining (todo): **234**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -81,7 +81,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#223` **Steelmanning** · `General-Thinking/steelmanning.md` · **st:** fixed · **n:** removed --- before ## References; standardized all 4 refs (Rapoport title corrected to include Oxford comma); added Rapoport/Dennett/Galef as B2 manifest refs, linked Kahneman to #223 (254→257); backlinks in socratic-thinking, de-bonos-six-thinking-hats, ladder-of-inference
 - [x] `#226` **Grice's Maxims** · `General-Thinking/grices-maxims.md` · **st:** fixed · **n:** removed --- before ## References; standardized all 4 refs; added Grice/Levinson/Pinker as B2 manifest refs, Kahneman linked to #226 (257→260); backlinks in audience, cognitive-load-team, ladder-of-inference, confirmation-bias, framing
 - [x] `#234` **Overton Window** · `General-Thinking/overton-window.md` · **st:** fixed · **n:** added blank line before ## References; added Lehman 2006 (Mackinac Center) as B2 manifest ref — primary source missing from card (260→261); backlinks in paradigm-shift, coalition-building, change-management, anchoring, narrative-instinct, influence-without-authority
-- [ ] `#240` **Black Swan** · `General-Thinking/black-swan.md` · **st:** todo · **n:** —
+- [x] `#240` **Black Swan** · `General-Thinking/black-swan.md` · **st:** fixed · **n:** added blank line before ## References; manifest refs verified (both Taleb titles already linked); backlinks in probabilistic-thinking, expected-value, scenario-planning, pre-mortem, regression-to-the-mean
 
 ## Systems (21)
 

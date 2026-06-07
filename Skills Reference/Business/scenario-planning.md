@@ -45,6 +45,7 @@ Shell is the canonical case for a reason. In the early 1970s its planners, rathe
 → [**Inversion**](../General-Thinking/inversion.md) — building the most challenging scenario is an inversion exercise applied to strategic planning
 → [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — each scenario must include the downstream consequences of primary shifts
 → [**Theory of Change**](../General-Thinking/theory-of-change.md) — complementary: scenario planning asks what futures are plausible; Theory of Change asks what pathway gets you to the target outcome within any given scenario.
+→ [**Black Swan**](../General-Thinking/black-swan.md) — scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use both tools together, not as substitutes.
 
 ## References
 

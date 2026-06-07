@@ -54,6 +54,7 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 → [**Occam's Razor**](occams-razor.md) — when explanations are roughly equally probable, Occam's Razor provides the tiebreaker toward the simpler hypothesis.
 → [**Map-Territory**](map-territory.md) — probability distributions are maps of uncertainty; treating a confidence interval as certain collapses the map onto one point and ignores the territory's actual range.
 → [**Asymmetry / Convexity**](asymmetry-convexity.md) — asymmetry analysis is an extension of probabilistic thinking: it requires tracking both probability and magnitude of outcomes, not probability alone.
+→ [**Black Swan**](black-swan.md) — Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
 
 ## References
 
