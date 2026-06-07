@@ -55,6 +55,7 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 
 - *Discourse on the Method* — René Descartes (1637) — the philosophical origin of first-principles reasoning: doubt everything until you reach what cannot be doubted.
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — Munger's practical application of first principles as mental models.
+- *The Feynman Lectures on Physics* — Richard P. Feynman, Robert B. Leighton & Matthew Sands (1963) — the physicist's discipline of deriving results from fundamental laws rather than inherited formulae; the modern scientific template for reasoning up from bedrock.
 
 
 ---

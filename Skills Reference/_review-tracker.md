@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **0**
+- Reviewed (verified + fixed): **1**
 - Flagged: **0**
-- Remaining (todo): **262**
+- Remaining (todo): **261**
 
 > Update these four numbers as you go, or recompute by counting `st:` values.
 
@@ -30,7 +30,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## General Thinking (28)
 
-- [ ] `#0` **First Principles** · `General-Thinking/first-principles.md` · **st:** todo · **n:** —
+- [x] `#0` **First Principles** · `General-Thinking/first-principles.md` · **st:** fixed · **n:** Example (SpaceX $65M, ~2% raw materials) & Aristotle quote verified; Descartes/Munger refs correct. Added missing Feynman Lectures ref (was in manifest, not card); added reciprocal backlink in inversion.md. build + check:counts pass.
 - [ ] `#1` **Inversion** · `General-Thinking/inversion.md` · **st:** todo · **n:** —
 - [ ] `#2` **Second-Order Effects** · `General-Thinking/second-order-effects.md` · **st:** todo · **n:** —
 - [ ] `#3` **Occam's Razor** · `General-Thinking/occams-razor.md` · **st:** todo · **n:** —
