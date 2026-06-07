@@ -50,6 +50,8 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Equilibrium**](equilibrium.md) — the stable state of a system is determined by where its feedback loops balance.
 → [**Fixes That Fail**](fixes-that-fail.md) — the archetype works because the symptom-to-fix feedback loop is shorter and more visible than the root-cause loop; structural leverage lies in strengthening the longer loop.
 → [**Systems Thinking**](systems-thinking.md) — feedback loops are the primary mechanism systems thinking works with; the discipline of reading and redesigning them is systems thinking itself
+→ [**Post-mortem**](../General-Thinking/post-mortem.md) — the post-mortem closes the feedback loop on organizational action: action → outcome → structured learning → updated action.
+
 ## References
 
 - *Thinking in Systems: A Primer* — Donella H. Meadows (2008) — the definitive accessible treatment of feedback loops and systems archetypes.

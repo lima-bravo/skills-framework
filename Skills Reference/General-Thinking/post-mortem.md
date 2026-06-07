@@ -47,12 +47,13 @@ Amazon's culture of written post-mortems after production incidents includes a s
 → [**Pre-mortem**](pre-mortem.md) — the bookends: the pre-mortem imagines future failure; the post-mortem analyses actual failure. A mature team practices both.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — the post-mortem closes the feedback loop: action → outcome → learning → updated action.
 → [**Five-Hour Rule**](../Learning/five-hour-rule.md) — post-mortems are one of the most efficient uses of deliberate learning time because they are grounded in direct organizational experience.
+→ [**After-Action Review**](../Leadership/after-action-review.md) — complementary disciplines at different scales: the AAR is the lightweight operational habit after every project; the post-mortem is the deep investigation triggered by significant failure or a repeated pattern.
+
 ## References
 
 - *Site Reliability Engineering: How Google Runs Production Systems* — Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy, eds. (2016) — the canonical engineering treatment of blameless post-mortems.
+- *The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers* — Ben Horowitz (2014) — the practitioner view on incident reviews and post-mortems in high-stakes startup contexts.
 
-
----
 
 ---
 
