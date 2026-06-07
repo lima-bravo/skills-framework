@@ -51,9 +51,8 @@ A marketing team has been investing in content and SEO for three years. The firs
 ## References
 
 - *Principles of Political Economy and Taxation* — David Ricardo (1817) — original formal statement of diminishing returns in the context of agricultural rent.
+- *Economics* — Paul A. Samuelson (1948) — the standard treatment of marginal analysis and diminishing returns in mainstream economics.
 
-
----
 
 ---
 

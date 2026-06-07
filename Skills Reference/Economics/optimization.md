@@ -48,6 +48,8 @@ A growth team is optimizing email campaign performance. They define the objectiv
 → [**Trade-offs**](trade-offs.md) — multi-objective optimization makes trade-offs explicit and quantified.
 → [**Local Maxima**](../Mathematics/local-maxima.md) — the systematic failure mode of optimization.
 → [**Algorithms**](../Systems/algorithms.md) — optimization algorithms are the computational tools for solving formal optimization problems.
+→ [**Diminishing Returns**](../Systems/diminishing-returns.md) — optimization works with marginal returns; diminishing returns is the curve that determines where to stop allocating.
+
 ## References
 
 - *Algorithms to Live By: The Computer Science of Human Decisions* — Brian Christian & Tom Griffiths (2016) — applies optimization algorithms (explore/exploit, secretary problem) to everyday decision-making.
