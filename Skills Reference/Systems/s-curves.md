@@ -1,7 +1,7 @@
 # S-Curves
 *Growth that starts slow, accelerates, then decelerates as it approaches a ceiling — the universal pattern of adoption, learning, and development.*
 
-**Category:** [Systems](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
+**Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -45,16 +45,18 @@ A software company built its business on desktop applications through the 1990s.
 
 ## Connections
 
-→ **Creative Destruction** — each creative destruction event is a moment where a new S-curve displaces the previous one; the two frameworks explain the same phenomenon at different levels of abstraction.
-→ **Critical Mass** — the inflection point of an S-curve often coincides with reaching critical mass: the threshold at which adoption accelerates under its own momentum.
-→ **Compounding** — the growth phase of an S-curve exhibits near-compounding dynamics; recognizing when compounding will eventually stop is what S-curve thinking adds.
-→ **Diminishing Returns** — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns at the system level.
-→ **Network Effects** — network effects accelerate the growth phase and raise the saturation ceiling, but do not eliminate the S-curve structure.
+→ [**Creative Destruction**](../Economics/creative-destruction.md) — each creative destruction event is a moment where a new S-curve displaces the previous one; the two frameworks explain the same phenomenon at different levels of abstraction.
+→ [**Critical Mass**](critical-mass.md) — the inflection point of an S-curve often coincides with reaching critical mass: the threshold at which adoption accelerates under its own momentum.
+→ [**Compounding**](../Mathematics/compounding.md) — the growth phase of an S-curve exhibits near-compounding dynamics; recognizing when compounding will eventually stop is what S-curve thinking adds.
+→ [**Diminishing Returns**](diminishing-returns.md) — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns at the system level.
+→ [**Network Effects**](../Network-Effects/network-effects.md) — network effects accelerate the growth phase and raise the saturation ceiling, but do not eliminate the S-curve structure.
 → [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — S-curves describe the adoption trajectory of a new paradigm after the shift; Kuhn's model explains the crisis mechanism that precedes the inflection point.
+
 ## References
 
 - *Diffusion of Innovations* — Everett M. Rogers (1962; 5th ed. 2003) — the empirical foundation for S-curve adoption patterns across technologies and social systems.
 - *Innovation: The Attacker's Advantage* — Richard N. Foster (1986) — applied the S-curve to technology life cycles and competitive dynamics.
+- *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* — Clayton M. Christensen (1997) — the canonical treatment of how incumbents fail to initiate successor S-curves before their current curve saturates.
 
 
 ---

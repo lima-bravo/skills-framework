@@ -48,6 +48,7 @@ Amazon's flywheel is the most celebrated corporate compounding engine: lower pri
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
 → [**Churn**](../Systems/churn.md) — churn is the subtrahend in the compounding equation; even a small reduction in churn rate compounds forward dramatically over time.
+→ [**S-Curves**](../Systems/s-curves.md) — the growth phase of an S-curve exhibits near-compounding dynamics; S-curve thinking is what recognises when compounding will eventually stop.
 
 ## References
 

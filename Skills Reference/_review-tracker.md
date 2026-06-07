@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **41**
+- Reviewed (verified + fixed): **42**
 - Flagged: **0**
-- Remaining (todo): **221**
+- Remaining (todo): **220**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -98,7 +98,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#27` **Irreducibility** · `Systems/irreducibility.md` · **st:** fixed · **n:** removed duplicate --- footer; added Penrose 1989 (Gap-A); backlinks in emergence, algorithms, map-territory
 - [x] `#28` **Conway's Law** · `Systems/conways-law.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Forsgren/Humble/Kim 2018 (Gap-A); backlinks in interdependence, bottlenecks, emergence
 - [x] `#29` **Red Queen Dilemma** · `Systems/red-queen-dilemma.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Grove 1996 (Gap-A); backlinks in equilibrium, creative-destruction, diminishing-returns
-- [ ] `#102` **S-Curves** · `Systems/s-curves.md` · **st:** todo · **n:** —
+- [x] `#102` **S-Curves** · `Systems/s-curves.md` · **st:** fixed · **n:** fixed header pipe; converted 5 unlinked connections to proper markdown links; added blank line before ## References; added Christensen 1997 (Gap-A); backlinks in critical-mass, compounding, diminishing-returns, network-effects
 - [ ] `#108` **Exploration vs. Exploitation** · `Systems/exploration-vs-exploitation.md` · **st:** todo · **n:** —
 - [ ] `#109` **Adjacent Possible** · `Systems/adjacent-possible.md` · **st:** todo · **n:** —
 - [ ] `#208` **Drift to Failure** · `Systems/drift-to-failure.md` · **st:** todo · **n:** —
