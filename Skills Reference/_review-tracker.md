@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **35**
+- Reviewed (verified + fixed): **36**
 - Flagged: **0**
-- Remaining (todo): **227**
+- Remaining (todo): **226**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -92,7 +92,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#21` **Scale** · `Systems/scale.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Anderson 2006 (Gap-A); backlinks in diminishing-returns, critical-mass
 - [x] `#22` **Critical Mass** · `Systems/critical-mass.md` · **st:** fixed · **n:** removed duplicate --- footer; manifest refs verified; backlink added in feedback-loops
 - [x] `#23` **Diminishing Returns** · `Systems/diminishing-returns.md` · **st:** fixed · **n:** removed duplicate --- footer; added Samuelson 1948 (Gap-A); backlink added in optimization
-- [ ] `#24` **Margin of Safety** · `Systems/margin-of-safety.md` · **st:** todo · **n:** —
+- [x] `#24` **Margin of Safety** · `Systems/margin-of-safety.md` · **st:** fixed · **n:** removed duplicate --- footer; manifest refs verified (Graham 1949, Graham & Dodd 1934); backlink added in irreducibility
 - [ ] `#25` **Churn** · `Systems/churn.md` · **st:** todo · **n:** —
 - [ ] `#26` **Algorithms** · `Systems/algorithms.md` · **st:** todo · **n:** —
 - [ ] `#27` **Irreducibility** · `Systems/irreducibility.md` · **st:** todo · **n:** —
