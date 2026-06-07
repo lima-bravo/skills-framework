@@ -55,6 +55,7 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Emergence**](emergence.md) — feedback dynamics are among the primary mechanisms through which emergent properties arise at the system level.
 → [**Critical Mass**](critical-mass.md) — the threshold above which a reinforcing feedback loop becomes self-sustaining; identifying it tells you how much input is required to tip the dynamic.
 → [**Churn**](churn.md) — high churn can activate a reinforcing negative loop: fewer users → less word of mouth → higher CAC → less product investment → more churn.
+→ [**Exploration vs. Exploitation**](exploration-vs-exploitation.md) — exploitation and exploration operate on different feedback loop speeds: exploitation on fast, tight loops; exploration on slow, loose ones that allow genuine uncertainty to persist.
 
 ## References
 

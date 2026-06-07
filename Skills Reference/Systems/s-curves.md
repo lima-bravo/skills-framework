@@ -51,6 +51,7 @@ A software company built its business on desktop applications through the 1990s.
 → [**Diminishing Returns**](diminishing-returns.md) — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns at the system level.
 → [**Network Effects**](../Network-Effects/network-effects.md) — network effects accelerate the growth phase and raise the saturation ceiling, but do not eliminate the S-curve structure.
 → [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — S-curves describe the adoption trajectory of a new paradigm after the shift; Kuhn's model explains the crisis mechanism that precedes the inflection point.
+→ [**Exploration vs. Exploitation**](exploration-vs-exploitation.md) — exploitation maximizes current S-curve position; exploration develops the next S-curve; both must be managed simultaneously because S-curve transitions are unpredictable.
 
 ## References
 
