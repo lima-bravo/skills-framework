@@ -42,7 +42,7 @@ same voice, same category — no new sections, no id changes).
 
 **Counts are guarded.** `npm run check:counts` derives every canonical number from
 `skills-manifest.json` and the generated graph and fails the build on drift. As of
-2026-06-07 it passes (262 skills · 16 categories · 1045 connections · 261 refs · 21
+2026-06-07 it passes (262 skills · 16 categories · 1045 connections · 266 refs · 21
 chains). The one stale spot the checker did *not* guard — the `_ai-index.md` footer —
 has been corrected to 262. If a count legitimately changes during a review, edit the
 card/manifest, run `npm run build`, then let `check:counts` name any prose still to fix.
@@ -160,7 +160,7 @@ Canonical numbers (do not hand-type these anywhere without updating the prose to
 | Categories | distinct `category` values | 16 |
 | Pre-built chains | category = `Pre-built Chains` | 21 |
 | Non-chain cards | total − chains | 241 |
-| Sources / references | `manifest.refs.length` | 261 |
+| Sources / references | `manifest.refs.length` | 266 |
 | Graph connections | generated `docs/graph.html` | 1045 |
 | Plugin (Cowork) skills | `SKILL.md` count under `plugins/` | 59 |
 

@@ -13,9 +13,13 @@ Sidney Dekker extended this into "Drift into Failure" (2011), emphasising that t
 
 In non-safety contexts, the same dynamic appears wherever organisations optimise locally over time: technical debt accumulates as individually reasonable shortcuts; strategic coherence erodes as individually sensible product decisions add complexity; organisational capacity degrades as individually justifiable cost reductions remove slack. The surface symptoms differ; the underlying mechanism is identical.
 
+---
+
 ## Mental Model
 
 Imagine a ship navigating toward a fog-obscured coastline. The navigation team makes small, individually sensible course corrections — avoiding traffic, conserving fuel, maintaining schedule. Each correction is logged, reviewed, and approved. No single correction is alarming. But the cumulative effect of many small corrections is that the ship is now closer to the rocks than anyone intended, and closer than anyone's local view of the last correction reveals. Drift to failure is what happens when the distance to the rocks isn't visible in any single decision, only in the aggregate trajectory — and by the time the aggregate becomes visible, the margin for correction has shrunk.
+
+---
 
 ## Practitioner Heuristics
 
@@ -25,15 +29,16 @@ Imagine a ship navigating toward a fog-obscured coastline. The navigation team m
 - **Re-examine decisions that were made under pressure and then became permanent.** Temporary workarounds, exceptions granted under constraint, and "just this once" compromises that persisted are the footprints of drift. Periodic audits should specifically hunt for these.
 - **Distinguish "we haven't had an accident" from "we are safe."** Systems operating near the risk boundary may go a long time without a visible failure — which creates the illusion of safety that enables continued drift. The Challenger and Columbia disasters both occurred after long periods of normalised risk. Safety requires evidence of margin, not merely the absence of incident.
 
+---
+
 ## Common Failure Modes
 
-**The safety paradox.** Long periods without failure are interpreted as evidence that the system is safe and operating well. This reduces pressure to maintain safety margins, which enables further drift toward the risk boundary. The very success of the system in avoiding failure creates the conditions for eventual catastrophic failure. This mechanism was central to both Challenger (1986) and the Deepwater Horizon disaster (2010).
+- **The safety paradox.** Long periods without failure are interpreted as evidence that the system is safe and operating well. This reduces pressure to maintain safety margins, which enables further drift toward the risk boundary. The very success of the system in avoiding failure creates the conditions for eventual catastrophic failure. This mechanism was central to both Challenger (1986) and the Deepwater Horizon disaster (2010).
+- **Local optimisation, global degradation.** Each team or function optimises for its own pressures and metrics. Each local optimisation is rational. The aggregate effect on the overall system is degradation of the properties — resilience, capacity, safety margins — that belong to no single function's remit and therefore no single function's accountability.
+- **Invisible debt accumulation.** Technical debt, organisational debt, relationship debt, and strategic debt all accumulate through drift. The mechanism is identical: individually sensible deferments that compound into a structural constraint on future action. The debt is invisible in any single deferment decision; it is visible only in the accumulation.
+- **Confidence from past performance.** "We've always done it this way and it's worked" is the cognitive signature of advanced drift. Past performance under conditions that no longer fully apply is used as evidence that current practices are sound. The system has changed; the mental model of acceptable practice has not.
 
-**Local optimisation, global degradation.** Each team or function optimises for its own pressures and metrics. Each local optimisation is rational. The aggregate effect on the overall system is degradation of the properties — resilience, capacity, safety margins — that belong to no single function's remit and therefore no single function's accountability.
-
-**Invisible debt accumulation.** Technical debt, organisational debt, relationship debt, and strategic debt all accumulate through drift. The mechanism is identical: individually sensible deferments that compound into a structural constraint on future action. The debt is invisible in any single deferment decision; it is visible only in the accumulation.
-
-**Confidence from past performance.** "We've always done it this way and it's worked" is the cognitive signature of advanced drift. Past performance under conditions that no longer fully apply is used as evidence that current practices are sound. The system has changed; the mental model of acceptable practice has not.
+---
 
 ## Worked Example
 
@@ -42,6 +47,8 @@ A fast-growing technology company enters a period of rapid scaling. Engineering 
 No single decision was alarming. No incident prompted concern. The team was executing well on visible metrics. But the aggregate drift produced a large surface of unreviewed internal tooling — which, in an environment where internal systems often have access to production data, represents substantial undisclosed risk.
 
 The failure mode: a contractor's credentials are compromised, they access an unreviewed internal tool, and from there pivot to production systems. The post-mortem will ask "how did this happen?" and find 18 months of individually defensible decisions that together constitute a drift to failure. No villain, no single bad decision — just the ordinary operation of gradient pressure in the absence of a system-level view.
+
+---
 
 ## Connections
 
@@ -53,18 +60,15 @@ The failure mode: a contractor's credentials are compromised, they access an unr
 → [**After-Action Review**](../Leadership/after-action-review.md) — well-run AARs should look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" is drift analysis
 → [**Tactical Pause**](../Leadership/tactical-pause.md) — the operational intervention that creates the conditions for drift to become visible before it reaches the boundary
 → [**Organisational Degradation Scan**](../Pre-built-Chains/organisational-degradation-scan.md) — Drift to Failure is the universal precondition for organisational degradation; the scan begins here before examining the specific mechanisms that compound it
-
 → [**Fixes That Fail**](fixes-that-fail.md) — Fixes That Fail is the mechanism that produces drift: each symptomatic fix relieves the pressure that would force a fundamental solution, allowing the root cause to persist and grow.
 
 ## References
 
-- Rasmussen, J. (1997) "Risk Management in a Dynamic Society: A Modelling Problem" — *Safety Science*
-- Dekker, S. (2011) *Drift into Failure* — Ashgate
-- Vaughan, D. (1996) *The Challenger Launch Decision* — University of Chicago Press
-- *Tasks, Errors and Mental Models* — Goodstein, Andersen & Olsen (eds.), 1988
-- Weick, K. & Sutcliffe, K. (2007) *Managing the Unexpected* — Jossey-Bass
-
----
+- *Risk Management in a Dynamic Society: A Modelling Problem — Safety Science Vol. 27* — Jens Rasmussen (1997) — the foundational dynamic safety model defining the boundary space bounded by economic failure, unacceptable workload, and unacceptable risk.
+- *Drift into Failure: From Hunting Broken Components to Understanding Complex Systems* — Sidney Dekker (2011) — extends Rasmussen's model to argue that drift emerges from normal adaptive behaviour in complex systems, not individual error.
+- *The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA* — Diane Vaughan (1996) — the canonical sociological account of how normalisation of deviance enabled the Challenger disaster.
+- *Tasks, Errors and Mental Models* — L.P. Goodstein, H.B. Andersen & S.E. Olsen, eds. (1988) — foundational collection on human factors, mental models, and error in complex sociotechnical systems.
+- *Managing the Unexpected: Resilient Performance in an Age of Uncertainty* — Karl E. Weick & Kathleen M. Sutcliffe (2007) — high-reliability organisation theory and how to maintain awareness of drift signals.
 
 ---
 

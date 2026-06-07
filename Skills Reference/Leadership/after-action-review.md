@@ -81,6 +81,7 @@ A consulting team delivers a strategy engagement two weeks late and over budget,
 → [**Psychological Safety**](../Psychology/psychological-safety.md) — honest answers to questions 2 and 3 require an environment where admitting error is safe; an AAR run in a blame culture produces a sanitised account, not a useful one
 → [**Mission Command**](mission-command.md) — the AAR is the learning infrastructure that makes Mission Command sustainable over time; teams that practice it develop the judgment and calibration that Mission Command requires
 → [**Calibration**](../General-Thinking/calibration.md) — the AAR generates the outcome data needed to improve calibration; without a learning cycle that compares predictions to results, calibration cannot develop
+→ [**Drift to Failure**](../Systems/drift-to-failure.md) — well-run AARs look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" converts the AAR into drift analysis.
 
 ## References
 

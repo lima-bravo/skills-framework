@@ -5629,6 +5629,61 @@
           "color": "#3B82F6"
         }
       ]
+    },
+    {
+      "title": "Risk Management in a Dynamic Society: A Modelling Problem — Safety Science Vol. 27",
+      "authorYear": "Jens Rasmussen (1997)",
+      "skills": [
+        {
+          "id": 208,
+          "name": "Drift to Failure",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Drift into Failure: From Hunting Broken Components to Understanding Complex Systems",
+      "authorYear": "Sidney Dekker (2011)",
+      "skills": [
+        {
+          "id": 208,
+          "name": "Drift to Failure",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA",
+      "authorYear": "Diane Vaughan (1996)",
+      "skills": [
+        {
+          "id": 208,
+          "name": "Drift to Failure",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Tasks, Errors and Mental Models",
+      "authorYear": "L.P. Goodstein, H.B. Andersen & S.E. Olsen, eds. (1988)",
+      "skills": [
+        {
+          "id": 208,
+          "name": "Drift to Failure",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Managing the Unexpected: Resilient Performance in an Age of Uncertainty",
+      "authorYear": "Karl E. Weick & Kathleen M. Sutcliffe (2007)",
+      "skills": [
+        {
+          "id": 208,
+          "name": "Drift to Failure",
+          "color": "#0D9488"
+        }
+      ]
     }
   ]
 }

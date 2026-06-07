@@ -53,6 +53,7 @@ A consistency-aware culture would have pre-specified the conditions under which 
 → [**Falsification**](falsification.md) — both concern the failure to update on disconfirming evidence; consistency bias describes the motivational barrier, falsification describes the epistemic discipline
 → [**Confirmation Bias**](confirmation-bias.md) — closely related; consistency bias generates the motivation to seek confirming evidence rather than falsifying evidence
 → [**After-Action Review**](../Leadership/after-action-review.md) — properly run AARs create a safe container for updating on past decisions without triggering consistency defence
+→ [**Drift to Failure**](../Systems/drift-to-failure.md) — each step of drift is reinforced by consistency bias; having taken each prior step, reversing course requires acknowledging that an accumulation of reasonable decisions has produced an unreasonable aggregate state.
 
 ## References
 

@@ -83,6 +83,7 @@ A product team is three months into a six-month build when usage data from an ea
 → [**Mission Command**](mission-command.md) — Mission Command grants the authority to adapt when the plan no longer fits; the Tactical Pause is the moment when that authority is exercised collectively rather than individually
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortems anticipate the conditions that would require a Tactical Pause; a well-run pre-mortem includes the trigger conditions that should cause the team to stop and reassess
 → [**After-Action Review**](after-action-review.md) — the AAR frequently identifies situations where a Tactical Pause should have been called but wasn't; these findings should calibrate future trigger sensitivity
+→ [**Drift to Failure**](../Systems/drift-to-failure.md) — the Tactical Pause is the operational intervention that makes drift visible before it reaches the boundary; without deliberate pauses, locally reasonable decisions accumulate into trajectory-level failures visible only in hindsight.
 
 ## References
 
