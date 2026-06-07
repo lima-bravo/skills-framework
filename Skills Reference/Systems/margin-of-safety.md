@@ -48,6 +48,7 @@ A startup plans to raise 18 months of runway. Their model shows they'll reach pr
 → [**Irreducibility**](irreducibility.md) — some systems cannot be simplified without losing the properties you need; margin of safety is especially important in those cases.
 → [**Black Swan**](../General-Thinking/black-swan.md) — Black Swan events are the tail events that margin of safety must be sized to survive; in fat-tailed domains, margin of safety must be sized to the tail, not the average.
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortems identify the specific failure modes that margin of safety should buffer against; the two tools pair naturally at the planning stage.
+→ [**Asymmetry / Convexity**](../General-Thinking/asymmetry-convexity.md) — margin of safety is the downside-protection component of asymmetric positioning; together they define the structure of a sound bet.
 
 ## References
 

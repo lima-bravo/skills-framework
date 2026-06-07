@@ -20,7 +20,7 @@ In standard expected-value thinking, a bet with equal probabilities and equal st
 ## Practitioner Heuristics
 
 - **Before any significant bet, map the downside and upside independently.** "What is the maximum credible loss?" and "What is the maximum credible gain?" If the answers are approximately symmetric, the bet may be fair but is not asymmetrically attractive.
-- **Seek options, not obligations.** An option gives you the right but not the obligation to take an action. Options have natural positive asymmetry: capped downside (the option premium), uncapped upside (the value of exercizing). Organize your strategy portfolio to contain many option-like positions.
+- **Seek options, not obligations.** An option gives you the right but not the obligation to take an action. Options have natural positive asymmetry: capped downside (the option premium), uncapped upside (the value of exercising). Organize your strategy portfolio to contain many option-like positions.
 - **Avoid negative asymmetry explicitly.** Situations with large defined downside and small capped upside (financial ruin, reputational catastrophe, irreversible health consequences) are negative asymmetry traps regardless of their stated probability.
 - **Volatility is your friend if you are convex.** A convex position benefits more from large moves than it loses from equivalent large moves in the other direction. In uncertain environments, hold positions that benefit from turbulence, not positions that require stability.
 - **Apply the barbell heuristic to experimentation.** Dedicate 80-90% of resources to safe, proven strategies; reserve 10-20% for radically different experiments with large potential upside. The safe core funds the experimental bets; the bets provide the asymmetry.
@@ -46,13 +46,13 @@ A startup's investment in attending a major industry conference is asymmetric: t
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — asymmetry thinking and margin of safety are complementary: both protect against the downside while keeping upside accessible.
 → [**Two-Way Doors**](two-way-doors.md) — reversible decisions are structurally asymmetric: the downside is limited (you can reverse); the upside is the potential gain from trying.
 → [**Probabilistic Thinking**](probabilistic-thinking.md) — asymmetry analysis requires explicit probability-and-magnitude estimation, not just probability alone.
+→ [**Black Swan**](black-swan.md) — Black Swan events are the tail events that convex positions are designed to survive and benefit from; asymmetric positioning is both the defense and the offense against tail risk.
+
 ## References
 
 - *Antifragile: Things That Gain from Disorder* — Nassim Nicholas Taleb (2012) — the extended treatment of positive convexity and barbell strategies.
 - *The Black Swan: The Impact of the Highly Improbable* — Nassim Nicholas Taleb (2007) — the source of the asymmetry framing in risk and uncertainty.
 
-
----
 
 ---
 
