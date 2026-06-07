@@ -20,9 +20,14 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **1**
+- Reviewed (verified + fixed): **2**
 - Flagged: **0**
-- Remaining (todo): **261**
+- Remaining (todo): **260**
+
+> ⚠️ **Open systemic issue (found during #1):** the manifest `refs` array has **252** skill
+> entries whose `id` is a file-path string instead of the numeric skill id. Build and
+> `check:counts` still pass, but this should be fixed in one dedicated pass (script that
+> maps path → id from `skills.*`) rather than card by card. See #1's note.
 
 > Update these four numbers as you go, or recompute by counting `st:` values.
 
@@ -31,7 +36,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## General Thinking (28)
 
 - [x] `#0` **First Principles** · `General-Thinking/first-principles.md` · **st:** fixed · **n:** Example (SpaceX $65M, ~2% raw materials) & Aristotle quote verified; Descartes/Munger refs correct. Added missing Feynman Lectures ref (was in manifest, not card); added reciprocal backlink in inversion.md. build + check:counts pass.
-- [ ] `#1` **Inversion** · `General-Thinking/inversion.md` · **st:** todo · **n:** —
+- [x] `#1` **Inversion** · `General-Thinking/inversion.md` · **st:** fixed · **n:** Jacobi & Munger attributions verified; card refs (Poor Charlie's, Great Mental Models Vol 1) correct. Added reciprocal Pre-mortem connection. ⚠️ SYSTEMIC: manifest `refs` has 252 malformed skill entries (id = file-path string, not numeric) — flagged for a dedicated batch fix, not per-card. Also Art of Thinking Clearly assoc with #1 not reflected on card (revisit in batch).
 - [ ] `#2` **Second-Order Effects** · `General-Thinking/second-order-effects.md` · **st:** todo · **n:** —
 - [ ] `#3` **Occam's Razor** · `General-Thinking/occams-razor.md` · **st:** todo · **n:** —
 - [ ] `#4` **Hanlon's Razor** · `General-Thinking/hanlons-razor.md` · **st:** todo · **n:** —
