@@ -59,9 +59,9 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 - *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts* — Annie Duke (2018) — the practitioner treatment of probabilistic thinking in high-uncertainty decisions.
 - *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical evidence for what distinguishes accurate probabilistic forecasters.
 - *The Signal and the Noise: Why So Many Predictions Fail — but Some Don't* — Nate Silver (2012) — applied probabilistic reasoning across domains.
+- *Against the Gods: The Remarkable Story of Risk* — Peter L. Bernstein (1996) — the intellectual history of probability and risk, from Pascal's wager to modern portfolio theory.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of why probabilistic reasoning is hard: base rate neglect, anchoring, and hindsight contamination.
 
-
----
 
 ---
 
