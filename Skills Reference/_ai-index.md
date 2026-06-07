@@ -132,4 +132,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 253 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 262 skills · 16 categories · `skills-manifest.json` is authoritative*

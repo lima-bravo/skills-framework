@@ -16,6 +16,63 @@ This gives you a complete inventory of all skills by category, file paths, key c
 
 ---
 
+## Skill Review Pass (in progress)
+
+A full-rigor review of every card is underway: verify correctness and references,
+then improve each card **within the current framework** (same 6-section structure,
+same voice, same category — no new sections, no id changes).
+
+**Three files drive this work:**
+
+| File | Role |
+|---|---|
+| `Skills Reference/_review-tracker.md` | Master checklist — one row per skill, with status (`st:`) and a one-line note (`n:`). The source of truth for what's been done. |
+| `Skills Reference/_review-template.md` | The per-card checklist to run for each skill (structure → correctness → worked example → references → connections → verdict → sync). |
+| `Skills Reference/_review-log.md` | Optional running audit trail of completed review blocks. Create it on first use. |
+
+**To review the next skill, one at a time:**
+
+1. Open `_review-tracker.md` and find the next skill with `st: todo` (work top-to-bottom, or let the user pick).
+2. Set its row to `st: wip`.
+3. Read that card at the file path shown, then work through every check in `_review-template.md`.
+4. **Verify, don't assume.** Fact-check the worked example and validate references by web search — confirm the source exists, the author/year is right, and it actually supports the claim. A plausible-looking citation is not a verified one.
+5. Apply fixes **in place**, preserving the card's structure and voice. If a card needs a structural or scope change, set `st: flagged` and surface it instead of acting unilaterally.
+6. If anything changed: run the **Sync checklist** (update `skills-manifest.json` refs if needed, add backlinks, run `npm run build`, confirm `npm run check:counts` passes, update `_ai-index.md` if inventory/clusters changed).
+7. Update the tracker row: tick the box, set `st:` to `verified` / `fixed` / `flagged`, write the `n:` note. Then update the four counters in the tracker's **Progress** block.
+
+**Counts are guarded.** `npm run check:counts` derives every canonical number from
+`skills-manifest.json` and the generated graph and fails the build on drift. As of
+2026-06-07 it passes (262 skills · 16 categories · 1041 connections · 250 refs · 21
+chains). The one stale spot the checker did *not* guard — the `_ai-index.md` footer —
+has been corrected to 262. If a count legitimately changes during a review, edit the
+card/manifest, run `npm run build`, then let `check:counts` name any prose still to fix.
+
+---
+
+## Git commits
+
+**Never run `git commit` yourself. Prepare the commit, then ask the user to run it.**
+
+When you reach a natural commit point, stop and propose a commit rather than making it:
+
+1. Summarise what changed (files touched, why).
+2. Write a ready-to-use commit message in a code block — a concise imperative subject
+   line (≤ ~70 chars) plus a short body if the change needs explanation.
+3. Ask the user to run the commit (you may stage with `git add` and show
+   `git status`/`git diff --stat`, but do **not** execute `git commit`).
+
+**Good times to propose a commit:**
+
+- After a skill's review is fully applied and `npm run build` + `check:counts` pass
+  (one commit per reviewed card keeps history reviewable).
+- After a batch of related cards in the same category is done.
+- After tooling/structure changes (tracker, template, CLAUDE.md, index updates).
+- Before any large or risky change, so there's a clean restore point.
+
+Keep commits small and topical; don't bundle unrelated card reviews into one commit.
+
+---
+
 ## How to respond to a situation query
 
 When the user describes a situation, problem, or decision:
@@ -114,7 +171,7 @@ Canonical numbers (do not hand-type these anywhere without updating the prose to
 | Pre-built chains | category = `Pre-built Chains` | 21 |
 | Non-chain cards | total − chains | 241 |
 | Sources / references | `manifest.refs.length` | 250 |
-| Graph connections | generated `docs/graph.html` | 1025 |
+| Graph connections | generated `docs/graph.html` | 1041 |
 | Plugin (Cowork) skills | `SKILL.md` count under `plugins/` | 59 |
 
 When a count legitimately changes: edit cards/manifest, run `npm run build`, then read the checker output — it names the exact prose lines still to fix. If you reword a sentence that contains a count, update the matching regex in `check-counts.mjs` (a `NO MATCH` warning means the pattern no longer finds its line). This replaces the brittle manual "update the count in every ❌ file" steps above — those edits are still made by hand, but the checker now guarantees they were not missed.
