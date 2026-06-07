@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **37**
+- Reviewed (verified + fixed): **38**
 - Flagged: **0**
-- Remaining (todo): **225**
+- Remaining (todo): **224**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -94,7 +94,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#23` **Diminishing Returns** · `Systems/diminishing-returns.md` · **st:** fixed · **n:** removed duplicate --- footer; added Samuelson 1948 (Gap-A); backlink added in optimization
 - [x] `#24` **Margin of Safety** · `Systems/margin-of-safety.md` · **st:** fixed · **n:** removed duplicate --- footer; manifest refs verified (Graham 1949, Graham & Dodd 1934); backlink added in irreducibility
 - [x] `#25` **Churn** · `Systems/churn.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; added Moore 1991 and Ries 2011 (Gap-A); backlinks in compounding, feedback-loops, bottlenecks
-- [ ] `#26` **Algorithms** · `Systems/algorithms.md` · **st:** todo · **n:** —
+- [x] `#26` **Algorithms** · `Systems/algorithms.md` · **st:** fixed · **n:** added blank line before ## References; removed duplicate --- footer; manifest refs verified; backlink added in map-territory
 - [ ] `#27` **Irreducibility** · `Systems/irreducibility.md` · **st:** todo · **n:** —
 - [ ] `#28` **Conway's Law** · `Systems/conways-law.md` · **st:** todo · **n:** —
 - [ ] `#29` **Red Queen Dilemma** · `Systems/red-queen-dilemma.md` · **st:** todo · **n:** —

@@ -48,13 +48,12 @@ A law firm handling high-volume contract review introduces an NLP algorithm to f
 → [**Bottlenecks**](bottlenecks.md) — algorithms are often deployed to relieve bottlenecks in high-frequency decision processes.
 → [**Optimization**](../Economics/optimization.md) — algorithms are the mechanisms through which optimization is operationalized.
 → [**Map-Territory**](../General-Thinking/map-territory.md) — an algorithm is a map of a decision process; the territory includes cases the map was not designed for.
+
 ## References
 
 - *The Art of Computer Programming, Vol. 1: Fundamental Algorithms* — Donald E. Knuth (1968) — the foundational treatment of algorithms as a formal discipline.
 - *Algorithms to Live By: The Computer Science of Human Decisions* — Brian Christian & Tom Griffiths (2016) — applies algorithmic thinking to everyday decision-making.
 
-
----
 
 ---
 

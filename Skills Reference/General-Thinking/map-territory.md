@@ -52,6 +52,7 @@ A retail chain builds an inventory optimization model that performs excellently 
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — confirmation bias prevents the map from updating when the territory changes; it is the cognitive mechanism behind model lock-in.
 → [**Ladder of Inference**](ladder-of-inference.md) — the ladder is a detailed account of how maps (beliefs, conclusions) are constructed from territory (data) rung by rung; errors in the climb produce systematically wrong maps.
 → [**Paradigm Shift**](paradigm-shift.md) — a paradigm is the invisible framework that shapes which maps practitioners draw; paradigm shift is what happens when the framework itself requires replacement, not just a particular map.
+→ [**Algorithms**](../Systems/algorithms.md) — an algorithm is a formalised map of a decision process; its failure modes are precisely the cases where the map diverges from the territory.
 
 ## References
 
