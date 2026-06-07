@@ -52,6 +52,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**A/B Testing**](../Business/ab-testing.md) — A/B testing is a structural countermeasure to confirmation bias in decision-making; it lets evidence rather than conviction determine the outcome.
 → [**Occam's Razor**](../General-Thinking/occams-razor.md) — complex explanations often signal motivated reasoning; Occam's Razor is a structural check on that impulse.
 → [**Hanlon's Razor**](../General-Thinking/hanlons-razor.md) — once you decide someone acted with bad intent, confirmation bias amplifies every subsequent piece of ambiguous evidence; Hanlon's Razor interrupts the initial attribution.
+→ [**Socratic Thinking**](../General-Thinking/socratic-thinking.md) — Socratic questioning is the active antidote to confirmation bias: it systematically seeks the weakness in a belief rather than confirming it.
 
 ## References
 

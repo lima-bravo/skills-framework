@@ -21,7 +21,7 @@ The Socratic practitioner operates from a position of genuine (or feigned) ignor
 
 ## Practitioner Heuristics
 
-- **Ask for definitions before engaging with claims.** "What do you mean by 'better'?" or "How are you defining 'success' here?" — imprecise terms are the source of most apparent agreement and most real disagreement. Defining terms first resolves a surprizing fraction of disputes.
+- **Ask for definitions before engaging with claims.** "What do you mean by 'better'?" or "How are you defining 'success' here?" — imprecise terms are the source of most apparent agreement and most real disagreement. Defining terms first resolves a surprising fraction of disputes.
 - **Follow each answer with "how do you know?"** The chain from claim to evidence to interpretation to conclusion is where the weak links live. Trace it deliberately.
 - **Use hypothetical counter-examples.** "Is there a case where that wouldn't be true?" is often more productive than direct contradiction. A single valid counter-example doesn't destroy a claim but forces it to be refined.
 - **Apply to your own thinking before applying it to others.** Internal Socratic dialog — "what exactly am I claiming here, and how do I know?" — is the highest-value use of the method.
@@ -48,13 +48,13 @@ A product team claims "users want more features." Socratic examination: "Which u
 → [**First Principles**](first-principles.md) — Socratic questioning strips away imprecision; First Principles strips away assumptions. Together, they constitute a complete belief-examination process.
 → [**Confirmation Bias**](../Psychology/confirmation-bias.md) — Socratic thinking is the antidote: it actively seeks the weakness in a belief rather than confirming it.
 → [**Ladder of Inference**](ladder-of-inference.md) — Socratic questioning walks back down the ladder from belief to raw data.
+
 ## References
 
 - *The Republic* — Plato (c. 380 BCE) — the primary source of Socratic dialogue as a method of inquiry.
 - *Rhetoric* — Aristotle (c. 350 BCE) — the systematic treatment of interrogative logic and argument structure.
+- *Socratic Seminars in the Block* — Wanda H. Ball & Pam Brewer (1996) — a practical guide to structured Socratic questioning as a facilitated learning method.
 
-
----
 
 ---
 

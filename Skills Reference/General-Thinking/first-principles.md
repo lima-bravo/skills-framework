@@ -53,6 +53,7 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 → [**Circle of Competence**](circle-of-competence.md) — first principles reasoning in domains where you lack deep knowledge risks confident wrongness. Know where your bedrock is actually solid.
 → [**Occam's Razor**](occams-razor.md) — both strip unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations without rebuilding.
 → [**Thought Experiment**](thought-experiment.md) — thought experiments often use first principles to work out implications of basic laws in a noise-free environment before returning to the messy real case.
+→ [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning tears down and tests existing beliefs; first principles rebuilds from what survives. Together they form a complete belief-examination process.
 
 ## References
 
