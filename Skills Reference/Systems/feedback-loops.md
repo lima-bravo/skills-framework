@@ -52,6 +52,7 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Systems Thinking**](systems-thinking.md) — feedback loops are the primary mechanism systems thinking works with; the discipline of reading and redesigning them is systems thinking itself
 → [**Post-mortem**](../General-Thinking/post-mortem.md) — the post-mortem closes the feedback loop on organizational action: action → outcome → structured learning → updated action.
 → [**Causal Analysis**](../General-Thinking/causal-analysis.md) — systems-based causal analysis is feedback loop analysis applied to problem diagnosis; when a problem recurs despite fixes, the causal structure is a loop, not a chain.
+→ [**Emergence**](emergence.md) — feedback dynamics are among the primary mechanisms through which emergent properties arise at the system level.
 
 ## References
 

@@ -46,6 +46,8 @@ Reddit's early growth strategy was to create fake accounts and post content them
 → [**Network Effects**](../Network-Effects/network-effects.md) — network effects describe the dynamics above critical mass.
 → [**Feedback Loops**](feedback-loops.md) — the self-reinforcing dynamic above critical mass is a reinforcing feedback loop.
 → [**Viral Growth**](../Network-Effects/viral-growth.md) — viral coefficient above 1 is the mechanism by which critical mass, once approached, is crossed.
+→ [**Emergence**](emergence.md) — many emergent phenomena require a critical mass of interactions before the system-level property materialises.
+
 ## References
 
 - *Diffusion of Innovations* — Everett M. Rogers (1962; 5th ed. 2003) — the empirical theory of how innovations cross the critical mass threshold to self-sustaining adoption.

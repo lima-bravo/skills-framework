@@ -49,12 +49,12 @@ A company redesigns its physical office to improve collaboration — open plan, 
 → [**Critical Mass**](critical-mass.md) — many emergent phenomena require a critical mass of interactions before they materialize.
 → [**Map-Territory**](../General-Thinking/map-territory.md) — emergent properties are particularly hard to represent on maps because they only exist at the system level.
 → [**Systems Thinking**](systems-thinking.md) — systems thinking is the meta-discipline that makes emergence legible: the whole-system view required to see what components alone cannot produce
+
 ## References
 
 - *Emergence: The Connected Lives of Ants, Brains, Cities, and Software* — Steven Johnson (2001) — the accessible cross-domain treatment of emergent phenomena.
+- *Complex Adaptive Systems: An Introduction to Computational Models of Social Life* — John H. Miller & Scott E. Page (2007) — the computational and theoretical foundations of emergence in social and economic systems.
 
-
----
 
 ---
 
