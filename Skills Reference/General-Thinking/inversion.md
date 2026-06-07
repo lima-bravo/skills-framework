@@ -50,6 +50,8 @@ A team is designing a new onboarding flow for a SaaS product. Forward thinking g
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — inversion identifies what can go wrong; margin of safety quantifies how much buffer to hold against it.
 → [**First Principles**](first-principles.md) — first principles builds up from what is true; inversion works down from what would make the answer wrong. Run both together.
 → [**Pre-mortem**](pre-mortem.md) — the pre-mortem is inversion applied to a plan: assume it has already failed, then work backward to the causes you can prevent now.
+→ [**Thought Experiment**](thought-experiment.md) — inversion is one of the most powerful thought-experiment structures; the pre-mortem is the most common organizational form of it.
+
 ## References
 
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — the primary source for inversion as a practical thinking discipline.

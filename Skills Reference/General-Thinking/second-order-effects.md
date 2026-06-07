@@ -49,6 +49,8 @@ A city decides to build a new urban highway to reduce commute times (first-order
 → [**Incentives**](../Psychology/incentives.md) — the most reliable second-order effects come from tracing how incentives shift after the first-order outcome.
 → [**Emergence**](../Systems/emergence.md) — second-order effects in complex systems often produce emergent properties that no single causal chain predicted.
 → [**Systems Thinking**](../Systems/systems-thinking.md) — systems thinking provides the causal map for tracing second and higher-order effects through a system's feedback structure
+→ [**Thought Experiment**](thought-experiment.md) — thought experiments are ideal for tracing second-order chains in controlled, simplified form before applying the reasoning to real systems.
+
 ## References
 
 - *The Most Important Thing: Uncommon Sense for the Thoughtful Investor* — Howard Marks (2011) — the source of second-order thinking as a competitive edge: 'and then what?'

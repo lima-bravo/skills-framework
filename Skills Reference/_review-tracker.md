@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **8**
+- Reviewed (verified + fixed): **9**
 - Flagged: **0**
-- Remaining (todo): **254**
+- Remaining (todo): **253**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -62,7 +62,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#5` **Circle of Competence** · `General-Thinking/circle-of-competence.md` · **st:** fixed · **n:** Fixed corrupted Connections section (Probabilistic Thinking had no rationale; Calibration had merged text belonging to Probabilistic Thinking); fixed duplicate ---; all backlinks already present from prior reviews. build + check:counts pass.
 - [x] `#6` **Map-Territory** · `General-Thinking/map-territory.md` · **st:** fixed · **n:** Added missing Taleb Black Swan ref (manifest had it, card didn't); added Goodhart's Law + Confirmation Bias connections (Goodhart named in failure modes; conf-bias is model lock-in mechanism); backlink added in goodharts-law + probabilistic-thinking; new edge 1042→1043; CLAUDE.md + _ai-index.md updated; build + check:counts pass.
 - [x] `#7` **Probabilistic Thinking** · `General-Thinking/probabilistic-thinking.md` · **st:** fixed · **n:** Added two missing refs: Bernstein Against the Gods (1996) and Kahneman Thinking Fast and Slow (2011) — both in manifest, neither on card. Removed duplicate ---. All 8 connections and backlinks already present. build + check:counts pass.
-- [ ] `#8` **Thought Experiment** · `General-Thinking/thought-experiment.md` · **st:** todo · **n:** —
+- [x] `#8` **Thought Experiment** · `General-Thinking/thought-experiment.md` · **st:** fixed · **n:** Both manifest refs on card ✓; fixed blank line before ## References + duplicate ---; added backlinks in first-principles, inversion, second-order-effects (all reverse edges, no new connection count). build + check:counts pass.
 - [ ] `#9` **Socratic Thinking** · `General-Thinking/socratic-thinking.md` · **st:** todo · **n:** —
 - [ ] `#10` **Pre-mortem** · `General-Thinking/pre-mortem.md` · **st:** todo · **n:** —
 - [ ] `#11` **Post-mortem** · `General-Thinking/post-mortem.md` · **st:** todo · **n:** —
