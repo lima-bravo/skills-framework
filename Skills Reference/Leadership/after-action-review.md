@@ -82,6 +82,7 @@ A consulting team delivers a strategy engagement two weeks late and over budget,
 → [**Mission Command**](mission-command.md) — the AAR is the learning infrastructure that makes Mission Command sustainable over time; teams that practice it develop the judgment and calibration that Mission Command requires
 → [**Calibration**](../General-Thinking/calibration.md) — the AAR generates the outcome data needed to improve calibration; without a learning cycle that compares predictions to results, calibration cannot develop
 → [**Drift to Failure**](../Systems/drift-to-failure.md) — well-run AARs look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" converts the AAR into drift analysis.
+→ [**Survivorship Bias**](../Psychology/survivorship-bias.md) — the AAR is the structural antidote to survivorship bias: it forces examination of what went wrong, not just what the survivors chose to remember.
 
 ## References
 

@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **97**
+- Reviewed (verified + fixed): **98**
 - Flagged: **0**
-- Remaining (todo): **165**
+- Remaining (todo): **164**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -163,7 +163,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#115` **Planning Fallacy** · `Psychology/planning-fallacy.md` · **st:** fixed · **n:** full structural rebuild (5 missing --- separators, wrong footer, refs misplaced); wrong Flyvbjerg co-authors fixed; Gap-A ref (Kahneman & Tversky 1974); 6 backlinks added
 - [x] `#167` **Immunity to Change** · `Psychology/immunity-to-change.md` · **st:** fixed · **n:** spurious --- before refs removed; Theory of Change wrong path fixed; cobra-effect wrong path fixed; 2 Gap-B2 refs added to manifest (267→269); 5 backlinks added
 - [x] `#192` **Self-Determination Theory** · `Psychology/self-determination-theory.md` · **st:** fixed · **n:** full structural rebuild (all --- separators missing, duplicate footer, bare refs); 3 Gap-B2 refs added (refs 269→272); 6 backlinks added; note: card has 2 non-standard extra sections (Internalisation Continuum, Crowding-Out Effect) — content-rich, retained as-is
-- [ ] `#199` **Survivorship Bias** · `Psychology/survivorship-bias.md` · **st:** todo · **n:** —
+- [x] `#199` **Survivorship Bias** · `Psychology/survivorship-bias.md` · **st:** fixed · **n:** Full structural rebuild (missing --- separators, duplicate footer, bare refs); 3 Gap-B2 refs added (Ellenberg 2014, Rosenzweig 2007, Wald 1943); 5 backlinks added (confirmation-bias, after-action-review, first-principles, probabilistic-thinking, power-law)
 - [ ] `#200` **Fundamental Attribution Error** · `Psychology/fundamental-attribution-error.md` · **st:** todo · **n:** —
 - [ ] `#201` **Hindsight Bias** · `Psychology/hindsight-bias.md` · **st:** todo · **n:** —
 - [ ] `#202` **Social Proof** · `Psychology/social-proof.md` · **st:** todo · **n:** —

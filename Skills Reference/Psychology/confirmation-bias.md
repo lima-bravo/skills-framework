@@ -61,6 +61,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Availability Bias**](../Psychology/availability-bias.md) — availability bias feeds confirmation bias: the vivid examples that come to mind first are usually consistent with existing beliefs, reinforcing rather than challenging them.
 → [**Planning Fallacy**](planning-fallacy.md) — the inside view is an exercise in confirmation: estimating from a success scenario filters out the base-rate data that would correct it.
 → [**Immunity to Change**](immunity-to-change.md) — big assumptions persist because confirmation bias collects evidence for them; surfacing the assumption exposes it to disconfirmation.
+→ [**Survivorship Bias**](survivorship-bias.md) — both biases filter evidence; survivorship filters by visibility (the dead don't report), confirmation filters by desirability (we seek what we want to believe).
 
 ## References
 

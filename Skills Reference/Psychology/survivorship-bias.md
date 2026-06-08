@@ -13,9 +13,13 @@ The bias is pervasive because our data is almost always drawn from survivors. We
 
 In organisational life, survivorship bias shows up when strategy teams study competitor successes without tallying competitor failures, when talent reviews learn from high performers without examining why high-potential leavers departed, and when innovation processes celebrate launches without post-mortems on the pitches that never got funded.
 
+---
+
 ## Mental Model
 
 Think of a cemetery of ideas. Every bold strategy that worked is commemorated with a monument — a case study, a TED Talk, a chapter in a leadership book. Every strategy that failed is buried without a marker. When you walk through the cemetery reading monuments, you naturally conclude that bold strategies work. But the absence of failure markers isn't evidence of absence — it's evidence that the dead don't write memoirs. Before drawing lessons from what succeeded, ask: where are the graves?
+
+---
 
 ## Practitioner Heuristics
 
@@ -25,15 +29,16 @@ Think of a cemetery of ideas. Every bold strategy that worked is commemorated wi
 - **In talent and promotion decisions, ask why high-performers who left did so.** Leavers are the non-survivors of your retention filter — their signal is as informative as stayers'.
 - **Apply the "graveyard audit" at strategy reviews:** for every initiative on the shortlist, ask the team to name two organisations that ran a similar initiative and failed. If they can't, the evidence base is probably biased.
 
+---
+
 ## Common Failure Modes
 
-**Misattributing success factors.** Teams identify what successful cases have in common (founder-led, fast-moving, capital-efficient) and treat these as causal drivers — without checking whether failed cases shared the same traits. Correlation with survivors is not causation.
+- **Misattributing success factors.** Teams identify what successful cases have in common (founder-led, fast-moving, capital-efficient) and treat these as causal drivers — without checking whether failed cases shared the same traits. Correlation with survivors is not causation.
+- **Survivor-sourced benchmarks.** Comparing your organisation only to companies that are currently thriving ignores the selection effect: you're benchmarking against a filtered set. Median performance in a survivor pool looks very different from median performance in the full population.
+- **Self-congratulatory retrospectives.** After a successful project, teams explain success in terms of their own decisions. But if ten similar teams faced similar decisions and only yours happened to succeed, the explanation may be mostly noise dressed as signal.
+- **Invisible attrition.** In learning programmes, research studies, or product funnels, the people who dropped out often have the most important signal. Analysing only completers distorts every insight about what works.
 
-**Survivor-sourced benchmarks.** Comparing your organisation only to companies that are currently thriving ignores the selection effect: you're benchmarking against a filtered set. Median performance in a survivor pool looks very different from median performance in the full population.
-
-**Self-congratulatory retrospectives.** After a successful project, teams explain success in terms of their own decisions. But if ten similar teams faced similar decisions and only yours happened to succeed, the explanation may be mostly noise dressed as signal.
-
-**Invisible attrition.** In learning programmes, research studies, or product funnels, the people who dropped out often have the most important signal. Analysing only completers distorts every insight about what works.
+---
 
 ## Worked Example
 
@@ -42,6 +47,8 @@ A leadership team wants to understand what makes acquisitions succeed. They pull
 The problem: they only studied acquisitions that survived to be analysed. The three acquisitions that failed were written off and excluded from the dataset. Two of those failed deals also had sub-50-person teams where the founding team stayed on. The "success factors" are present in failures too — they just weren't visible because the failures were buried in prior-year impairments.
 
 A survivorship-aware analysis would start with all 18 acquisition attempts, code each on the hypothesised success factors, and then ask: do the factors actually discriminate between successes and failures?
+
+---
 
 ## Connections
 
@@ -52,16 +59,14 @@ A survivorship-aware analysis would start with all 18 acquisition attempts, code
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — the correction for survivorship bias is explicitly reasoning over the full distribution, not just the visible tail
 → [**Black Swan**](../General-Thinking/black-swan.md) — survivorship bias compounds the Black Swan problem: we study organisations that survived tail events, which systematically underrepresents the frequency and impact of those events
 → [**Power Law**](../Mathematics/power-law.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is
-→ [**Drift to Failure**](../Systems/drift-to-failure.md) — survivorship bias is a primary enabler of drift: the absence of past failure is mistaken for evidence of safety, suppressing corrective action and allowing the system to drift further toward the risk boundary.
+→ [**Drift to Failure**](../Systems/drift-to-failure.md) — survivorship bias is a primary enabler of drift: the absence of past failure is mistaken for evidence of safety, suppressing corrective action and allowing the system to drift further toward the risk boundary
 
 ## References
 
-- *How Not to Be Wrong* — Jordan Ellenberg, 2014
-- *The Halo Effect* — Phil Rosenzweig, 2007
-- *Thinking, Fast and Slow* — Daniel Kahneman, 2011
-- Abraham Wald's original memoranda on sequential analysis and aircraft vulnerability (1943)
-
----
+- *How Not to Be Wrong: The Power of Mathematical Thinking* — Jordan Ellenberg (2014) — contains the definitive popular treatment of the Wald aircraft problem and the general logic of reasoning from incomplete data.
+- *The Halo Effect: And the Eight Other Business Delusions That Deceive Managers* — Phil Rosenzweig (2007) — demonstrates how survivorship bias infects management research; most "lessons from successful companies" are drawn from survivor populations.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of why we over-weight vivid, available examples — the survivors — and under-weight the invisible base rate.
+- *A Method of Estimating Plane Vulnerability Based on Damage of Survivors* — Abraham Wald (1943; declassified 1980) — the original Statistical Research Group memorandum; the founding document of the concept.
 
 ---
 

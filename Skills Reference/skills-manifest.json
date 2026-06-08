@@ -5750,6 +5750,39 @@
           "color": "#9333EA"
         }
       ]
+    },
+    {
+      "title": "How Not to Be Wrong: The Power of Mathematical Thinking",
+      "authorYear": "Jordan Ellenberg (2014)",
+      "skills": [
+        {
+          "id": 199,
+          "name": "Survivorship Bias",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "The Halo Effect: And the Eight Other Business Delusions That Deceive Managers",
+      "authorYear": "Phil Rosenzweig (2007)",
+      "skills": [
+        {
+          "id": 199,
+          "name": "Survivorship Bias",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "A Method of Estimating Plane Vulnerability Based on Damage of Survivors",
+      "authorYear": "Abraham Wald (1943; declassified 1980)",
+      "skills": [
+        {
+          "id": 199,
+          "name": "Survivorship Bias",
+          "color": "#9333EA"
+        }
+      ]
     }
   ]
 }
