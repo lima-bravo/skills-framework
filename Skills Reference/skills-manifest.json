@@ -5838,6 +5838,28 @@
           "color": "#9333EA"
         }
       ]
+    },
+    {
+      "title": "Actual Minds, Possible Worlds",
+      "authorYear": "Jerome Bruner (1986)",
+      "skills": [
+        {
+          "id": 203,
+          "name": "Narrative Instinct",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "The Storytelling Animal: How Stories Make Us Human",
+      "authorYear": "Jonathan Gottschall (2012)",
+      "skills": [
+        {
+          "id": 203,
+          "name": "Narrative Instinct",
+          "color": "#9333EA"
+        }
+      ]
     }
   ]
 }

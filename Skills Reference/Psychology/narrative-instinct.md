@@ -13,9 +13,13 @@ Narrative instinct is adaptive in many domains: it allows the rapid communicatio
 
 The instinct manifests as: the search for a central cause (when causes are distributed), the attribution of intention (when outcomes were emergent), the imposition of an arc (when the trajectory was discontinuous), and the illusion of coherence (where there was actually noise). It is the cognitive substrate on which hindsight bias, the fundamental attribution error, and Dominant Logic all run.
 
+---
+
 ## Mental Model
 
 Think of narrative instinct as a compression algorithm for experience. The world arrives as a stream of loosely connected events; the algorithm converts it into a compact, transmissible story with actors, causes, and meaning. Like all compression, it discards information to achieve the reduction — and what gets discarded is exactly the complexity, randomness, and systemic causation that most resists the story format. The output is a story that feels complete and true, but is a lossy encoding of reality. The danger isn't that we tell stories; it's that we forget the compression happened.
+
+---
 
 ## Practitioner Heuristics
 
@@ -24,6 +28,8 @@ Think of narrative instinct as a compression algorithm for experience. The world
 - **In strategy work, name the narrative you're inside.** Every organisation operates inside a founding story or industry story. Naming it makes it possible to ask whether it still matches reality, rather than treating it as a transparent window onto truth.
 - **Use pre-mortems to disrupt narrative completion.** The narrative instinct wants a success story; the pre-mortem forces the imagination of a failure arc, surfacing failure paths that the success narrative would have suppressed.
 - **In presentations and proposals, recognise that narrative is a tool of persuasion as well as sense-making.** A compelling story can make a weak case feel strong. When you're being persuaded by a narrative, slow down and ask for the data behind it.
+
+---
 
 ## Common Failure Modes
 
@@ -35,6 +41,8 @@ Think of narrative instinct as a compression algorithm for experience. The world
 
 **Strategy as story.** A strategic plan that tells a compelling arc — from current state through inflection to future state — is more likely to be approved than one that accurately represents uncertainty and multiple contingencies. The narrative instinct rewards stories over models, even in contexts where models are more appropriate.
 
+---
+
 ## Worked Example
 
 A consumer electronics company is losing market share. The leadership team commissions a diagnosis. The narrative that emerges is compelling: the company "lost its design identity" when the founder stepped back five years ago. The solution follows naturally from the narrative: restore design leadership, bring in a high-profile chief design officer, re-establish the founding aesthetic.
@@ -42,6 +50,8 @@ A consumer electronics company is losing market share. The leadership team commi
 The narrative is coherent and emotionally resonant. But a structural analysis tells a different story: the competitive losses track closely with a component price shift that made premium hardware economics unviable; two key retail partnerships that provided 40% of distribution were lost to a competitor; and a platform shift to subscription services has changed the value equation in ways that design quality alone cannot address.
 
 The narrative instinct produced a story centred on a protagonist (the founder), a loss (of identity), and a restoration arc. The actual causal structure involves economics, distribution, and platform dynamics — none of which fits the narrative format. The compelling story will produce a chief design officer and an unchanged cost structure.
+
+---
 
 ## Connections
 
@@ -51,18 +61,16 @@ The narrative instinct produced a story centred on a protagonist (the founder), 
 → [**First Principles Thinking**](../General-Thinking/first-principles.md) — the antidote; it starts from structure and evidence rather than inherited narrative
 → [**Pre-Mortem**](../General-Thinking/pre-mortem.md) — deliberately invokes a failure narrative to surface what the success narrative suppresses
 → [**Survivorship Bias**](survivorship-bias.md) — the survivor record is almost always presented as a success narrative, which makes the missing failure data even harder to notice
-→ [**Overton Window**](../General-Thinking/overton-window.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts what ideas are considered acceptable for serious discussion.
-→ [**Social Proof**](social-proof.md) — the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when attached to a compelling narrative.
+→ [**Overton Window**](../General-Thinking/overton-window.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts what ideas are considered acceptable for serious discussion
+→ [**Social Proof**](social-proof.md) — the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when attached to a compelling narrative
 
 ## References
 
-- Bruner, J. (1986) *Actual Minds, Possible Worlds* — Harvard University Press
-- *The Storytelling Animal* — Jonathan Gottschall, 2012
-- *The Black Swan* — Nassim Nicholas Taleb, 2007
-- *Thinking, Fast and Slow* — Daniel Kahneman, 2011
-- *Made to Stick* — Chip Heath & Dan Heath, 2007
-
----
+- *Actual Minds, Possible Worlds* — Jerome Bruner (1986) — the foundational cognitive science text distinguishing narrative cognition from logico-scientific cognition; establishes why humans default to story over argument.
+- *The Storytelling Animal: How Stories Make Us Human* — Jonathan Gottschall (2012) — surveys the evolutionary and cognitive evidence for narrative instinct as a species-defining trait, not a cultural preference.
+- *The Black Swan: The Impact of the Highly Improbable* — Nassim Nicholas Taleb (2007) — the "narrative fallacy" chapter is the sharpest diagnosis of how story-making distorts causal inference, particularly around rare events.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of System 1 story-making: how rapid pattern completion produces confident causal narratives from thin data.
+- *Made to Stick: Why Some Ideas Survive and Others Die* — Chip Heath & Dan Heath (2007) — the practitioner complement: narrative as the primary mechanism of idea transmission, and how to design for it deliberately.
 
 ---
 

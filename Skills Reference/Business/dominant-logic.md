@@ -56,6 +56,8 @@ Nokia's decline follows the same structure. Nokia understood touchscreens and ap
 → [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — dominant logic works well in complicated and obvious domains where the environment is stable; it becomes a liability when the environment shifts to complex or chaotic.
 → [**S-Curves**](../Systems/s-curves.md) — dominant logic is most dangerous at the top of the S-curve, when the current model is at peak performance and the next curve is just beginning.
 → [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — dominant logic is the organizational application of Kuhn's paradigm concept: the theory of the business that successful firms encode, and then cannot escape when the environment changes.
+→ [**Narrative Instinct**](../Psychology/narrative-instinct.md) — dominant logic is narrative instinct institutionalised: the founding story that the organisation encodes and then uses to filter all new evidence.
+
 ## References
 
 - *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* — Clayton M. Christensen (1997) — the mechanism by which past success encodes assumptions that block response to disruption.
