@@ -58,6 +58,4 @@ A growth team is optimizing email campaign performance. They define the objectiv
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*
