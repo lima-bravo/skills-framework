@@ -48,13 +48,11 @@ Amazon's decision to build AWS illustrates comparative advantage analysis at the
 → [**Trade-offs**](trade-offs.md) — specialization requires trading away activities you could do yourself; this is the fundamental trade-off.
 → [**T-shaped**](../Learning/t-shaped.md) — the learning model that operationalizes specialization at the individual level.
 → [**Monopoly vs. Competition**](monopoly-vs-competition.md) — extreme specialization can create a monopoly position in a narrow domain.
+
 ## References
 
 - *Principles of Political Economy and Taxation* — David Ricardo (1817) — formal statement of comparative advantage as the basis for specialization and trade.
 - *The Wealth of Nations* — Adam Smith (1776) — the foundational case for the division of labour as the engine of productivity.
-
-
----
 
 ---
 
