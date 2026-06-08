@@ -56,6 +56,7 @@ Each chain reasons: "If the other holds, I earn more by cutting (£15m vs £10m)
 → [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — misaligned incentives between principals and agents create equilibria where agents act against the principal's interest.
 → [**Trust**](../Psychology/trust.md) — trust enables escape from bad equilibria (like the Prisoner's Dilemma) by enabling credible commitments to cooperate.
 → [**Incentive Design**](incentive-design.md) — incentive design aims to move the equilibrium: make the Nash outcome the collectively desirable one
+
 ## References
 
 - *A Beautiful Mind* — Sylvia Nasar (1998) — the accessible biography of Nash that explains the equilibrium concept in context.
