@@ -46,12 +46,11 @@ A consulting firm combines strategy expertise (good at defining what to do) with
 → [**Emergence**](../Systems/emergence.md) — alloy properties are emergent: they arise from the combination and cannot be predicted from components alone.
 → [**Specialization**](../Economics/specialization.md) — alloying is the counterpoint: specialization goes deep in one element; alloying finds value in the right combination of specialized elements.
 → [**T-shaped**](../Learning/t-shaped.md) — the individual-level alloy: deep expertise in one area combined with breadth provides properties (contextual judgment + specialist depth) neither alone produces.
+
 ## References
 
 - *Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World* — Mark Miodownik (2013) — the science and history of alloys as humanity's most transformative material interventions.
-
-
----
+- *The Knowledge: How to Rebuild Our World from Scratch* — Lewis Dartnell (2014) — a guide to rebuilding civilisation from first principles; alloys feature as foundational transformative technologies, illustrating how combination materials unlock capabilities unavailable from any single element.
 
 ---
 

@@ -52,6 +52,7 @@ A company redesigns its physical office to improve collaboration — open plan, 
 → [**Irreducibility**](irreducibility.md) — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
 → [**Conway's Law**](conways-law.md) — the architecture that emerges from a team structure is an emergent property of the communication dynamics; it cannot be designed away without changing the interactions.
 → [**Interdependence**](../Economics/interdependence.md) — interdependence is the structural condition that makes emergence possible: tightly coupled elements interact in ways that produce system-level properties invisible at the component level.
+→ [**Alloying**](../Physics-and-Chemistry/alloying.md) — alloy properties are a concrete instance of emergence: the combination of metals produces properties none of the components possess in isolation.
 
 ## References
 
