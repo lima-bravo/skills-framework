@@ -37,7 +37,7 @@ Competence development follows a four-stage model: unconscious incompetence (you
 
 ## Worked Example
 
-A highly successful B2C founder decides to start a B2B company. She has strong general startup intuitions (fund-raizing, hiring, product instinct) developed over a decade. But B2B sales — with long cycles, procurement processes, champion/economic buyer dynamics, and contract negotiation — is genuinely different. Early in the company, her confidence is high: "Sales is sales, I've sold products before." Twelve months in, after several blown deals and a missed target, she hits conscious incompetence — she now knows what she doesn't know about enterprise sales. She hires a VP of Sales with deep B2B experience. The Dunning-Kruger phase cost her 12 months and a missed revenue target.
+A highly successful B2C founder decides to start a B2B company. She has strong general startup intuitions (fund-raising, hiring, product instinct) developed over a decade. But B2B sales — with long cycles, procurement processes, champion/economic buyer dynamics, and contract negotiation — is genuinely different. Early in the company, her confidence is high: "Sales is sales, I've sold products before." Twelve months in, after several blown deals and a missed target, she hits conscious incompetence — she now knows what she doesn't know about enterprise sales. She hires a VP of Sales with deep B2B experience. The Dunning-Kruger phase cost her 12 months and a missed revenue target.
 
 ---
 
@@ -46,12 +46,12 @@ A highly successful B2C founder decides to start a B2B company. She has strong g
 → [**Circle of Competence**](../General-Thinking/circle-of-competence.md) — Dunning-Kruger is the psychological mechanism that makes circle self-assessment hard; they are deeply related.
 → [**Confirmation Bias**](confirmation-bias.md) — early in learning a domain, confirmation bias and Dunning-Kruger reinforce each other: high confidence filters out disconfirming evidence.
 → [**Calibration**](../General-Thinking/calibration.md) — calibration is the direct antidote to Dunning-Kruger; the practice of tracking predictions against outcomes is how miscalibration at low competence gets corrected.
+
 ## References
 
 - *Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments* — Justin Kruger & David Dunning, Journal of Personality and Social Psychology Vol. 77 No. 6 (1999) — the original study.
-
-
----
+- *Being Wrong: Adventures in the Margin of Error* — Kathryn Schulz (2010) — examines why people are systematically unable to recognise their own errors; provides the broader epistemological context for why Dunning-Kruger is so persistent.
+- *The Intelligence Trap* — David Robson (2019) — shows that high general intelligence does not inoculate against Dunning-Kruger; domain-specific competence and calibration practice are what matters.
 
 ---
 
