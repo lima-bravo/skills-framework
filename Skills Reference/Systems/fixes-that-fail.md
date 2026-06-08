@@ -53,15 +53,11 @@ The resolution: a six-week pause on safety-stock increases, a dedicated forecast
 ## Connections
 
 → [**Drift to Failure**](drift-to-failure.md) — Fixes That Fail is the mechanism by which systems drift; Drift to Failure is the trajectory the mechanism produces. The two archetypes are often present simultaneously.
-→ [**Goodhart's Law**](../General-Thinking/goodharts-law.md) — symptomatic fixes often target the metric that measures the symptom, which optimises the measure while leaving the underlying dynamic intact — a textbook Goodhart failure.
+→ [**Goodhart's Law**](../Economics/goodharts-law.md) — symptomatic fixes often target the metric that measures the symptom, which optimises the measure while leaving the underlying dynamic intact — a textbook Goodhart failure.
 → [**Bottlenecks**](bottlenecks.md) — adding capacity at non-bottleneck points is a classic symptomatic fix for a system that is actually constrained by a single bottleneck; the fix relieves local pressure without improving system throughput.
 → [**Technical Debt**](../Delivery-and-Flow/technical-debt.md) — technical debt accumulation is often the side effect of a Shifting the Burden cycle: repeated symptomatic fixes (workarounds, shortcuts) that suppress delivery pressure while building structural cost.
 → [**Feedback Loops**](feedback-loops.md) — the Fixes That Fail archetype works because the symptom-to-fix feedback loop is shorter and more visible than the root-cause feedback loop; structural leverage lies in strengthening the longer loop.
-→ [**Mental Models**](../General-Thinking/mental-models.md) — the fundamental fix usually requires updating the mental model that defined the symptomatic fix as the solution; Fixes That Fail often persists because the mental model is never challenged.
-
----
-
-→ [**Systems Thinking**](systems-thinking.md) — fixes that fail are only visible as a pattern through systems thinking; the linear view sees each fix in isolation and misses the archetype
+→ [**Systems Thinking**](systems-thinking.md) — fixes that fail are only visible as a pattern through systems thinking; the linear view sees each fix in isolation and misses the archetype.
 
 ## References
 
