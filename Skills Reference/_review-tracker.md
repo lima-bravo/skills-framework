@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **62**
+- Reviewed (verified + fixed): **63**
 - Flagged: **0**
-- Remaining (todo): **200**
+- Remaining (todo): **199**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -122,7 +122,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#40` **Gresham's Law** · `Economics/greshams-law.md` · **st:** fixed · **n:** Added blank line before ## References; removed duplicate --- footer; backlinks in efficiency.md, availability-bias.md.
 - [x] `#120` **Goodhart's Law** · `Economics/goodharts-law.md` · **st:** fixed · **n:** Added all 5 missing --- section separators; removed blank lines in Connections; removed **Originator:** header; standardised refs format with descriptions; removed duplicate --- footer; backlinks in principal-agent-problem.md, optimization.md, incentives.md, feedback-loops.md.
 - [x] `#121` **Principal–Agent Problem** · `Economics/principal-agent-problem.md` · **st:** fixed · **n:** Added all 5 missing --- separators; removed duplicate Goodhart's Law connection; fixed refs format; added Gap-B2 ref Jensen & Meckling (1976) to manifest (refs 266→267); backlinks in ladder-of-inference.md, tragedy-of-the-commons.md, incentives.md, psychological-safety.md.
-- [ ] `#216` **Unit Economics** · `Economics/unit-economics.md` · **st:** todo · **n:** —
+- [x] `#216` **Unit Economics** · `Economics/unit-economics.md` · **st:** fixed · **n:** Removed stray --- before ## References; standardised refs format; backlink in lean-portfolio.md.
 - [ ] `#217` **Value Creation and Capture** · `Economics/value-creation-capture.md` · **st:** todo · **n:** —
 - [ ] `#229` **Nash Equilibrium** · `Economics/nash-equilibrium.md` · **st:** todo · **n:** —
 - [ ] `#230` **Prisoner's Dilemma** · `Economics/prisoners-dilemma.md` · **st:** todo · **n:** —

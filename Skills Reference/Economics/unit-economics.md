@@ -62,14 +62,12 @@ The SMB segment is marginally viable at best and is pulling the blended ratio do
 → [**Goodhart's Law**](goodharts-law.md) — CAC and LTV are the two metrics most vulnerable to gaming; organisations that target them directly often distort the customer acquisition mix or inflate LTV projections
 → [**Lean Portfolio Management**](../Delivery-and-Flow/lean-portfolio.md) — portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating unit economics is a kill candidate regardless of revenue trajectory
 
----
-
 ## References
 
-- Skok, D. (2010) "SaaS Metrics 2.0" — *For Entrepreneurs* blog. The definitive practitioner guide to SaaS unit economics.
-- Andreessen, M. (2011) "Product/Market Fit" — introduces the LTV:CAC framework in the venture context.
-- Stephens, D. (2013) *The Retail Revival* — unit economics applied to physical retail.
-- Horowitz, B. (2014) *The Hard Thing About Hard Things* — chapter on business model economics under pressure.
+- *SaaS Metrics 2.0* — David Skok (2010) — the definitive practitioner guide to SaaS unit economics: CAC, LTV, payback period, and cohort analysis.
+- *Product/Market Fit* — Marc Andreessen (2011) — introduces the LTV:CAC framework in the venture context.
+- *The Retail Revival* — Doug Stephens (2013) — unit economics applied to physical retail.
+- *The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers* — Ben Horowitz (2014) — chapter on business model economics under pressure.
 
 ---
 

@@ -50,6 +50,7 @@ A 2500-person enterprise IT organization runs 28 simultaneous large initiatives 
 → [**Flow Metrics**](flow-metrics.md) — the dashboard for portfolio health.
 → [**Kill Criteria**](kill-criteria.md) — the mechanism that prevents portfolio bloat.
 → [**Innovation Funnel**](../Business/innovation-funnel.md) — stage-gate funding is the contrast LPM is designed to replace.
+→ [**Unit Economics**](../Economics/unit-economics.md) — portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating LTV:CAC is a kill candidate regardless of revenue trajectory.
 
 ---
 
