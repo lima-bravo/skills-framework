@@ -59,6 +59,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — confirmation bias is the individual-level mechanism that sustains normal science; paradigm-shift theory explains the systemic result when enough practitioners individually suppress the same anomalies.
 → [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — the completeness trap and quality-anxiety violations are driven by motivated reasoning; Grice's Quality maxim requires confidence calibration, not just accuracy.
 → [**Availability Bias**](../Psychology/availability-bias.md) — availability bias feeds confirmation bias: the vivid examples that come to mind first are usually consistent with existing beliefs, reinforcing rather than challenging them.
+→ [**Planning Fallacy**](planning-fallacy.md) — the inside view is an exercise in confirmation: estimating from a success scenario filters out the base-rate data that would correct it.
 
 ## References
 

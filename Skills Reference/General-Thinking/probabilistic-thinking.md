@@ -58,6 +58,7 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 → [**Relativity**](../Physics-and-Chemistry/relativity.md) — base rates are reference frames; sound probabilistic thinking requires choosing the right reference class before assigning probabilities.
 → [**Anchoring**](../Psychology/anchoring.md) — the antidote to anchoring is independent base-rate analysis before exposure; probabilistic thinking provides the method for forming that prior independently.
 → [**Availability Bias**](../Psychology/availability-bias.md) — availability bias is the primary distortion that probabilistic thinking corrects: it replaces vivid-example frequency estimates with explicit base rates.
+→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — thinking in distributions (outside view) is the cognitive toolkit that directly counters the planning fallacy's reliance on optimistic single-scenario narratives.
 
 ## References
 

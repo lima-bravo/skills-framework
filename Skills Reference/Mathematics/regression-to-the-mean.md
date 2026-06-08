@@ -47,6 +47,7 @@ A school introduces a motivational intervention for students who scored exceptio
 → [**Availability Bias**](../Psychology/availability-bias.md) — vivid recent extreme outcomes are over-available and lead to over-attribution of the extreme performance to stable underlying causes.
 → [**Black Swan**](../General-Thinking/black-swan.md) — regression to the mean applies in Mediocristan; in Extremistan (fat-tailed domains), mean reversion is not a reliable assumption and extreme values may persist or compound.
 → [**Bubbles**](../Economics/bubbles.md) — bubble collapses are extreme reversion events; the gap between price and intrinsic value cannot widen indefinitely.
+→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — exceptional early velocity regresses to the mean; plans that extrapolate it are compounding the planning fallacy with a regression error.
 
 ## References
 

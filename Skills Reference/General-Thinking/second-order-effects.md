@@ -53,6 +53,7 @@ A city decides to build a new urban highway to reduce commute times (first-order
 → [**Causal Analysis**](causal-analysis.md) — causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the diagnostic loop.
 → [**Creative Destruction**](../Economics/creative-destruction.md) — the second-order effects of a disruption event — on workers, suppliers, and adjacent industries — often dwarf the direct first-order impact.
 → [**Interdependence**](../Economics/interdependence.md) — interdependence is the structural mechanism by which second-order effects propagate: when elements are coupled, a change in one has consequences in others.
+→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — cascading dependencies and rework are the most commonly ignored planning costs; second-order thinking is what the inside view systematically fails to apply.
 
 ## References
 
