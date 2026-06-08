@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **53**
+- Reviewed (verified + fixed): **54**
 - Flagged: **0**
-- Remaining (todo): **209**
+- Remaining (todo): **208**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -113,7 +113,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#31` **Scarcity** · `Economics/scarcity.md` · **st:** fixed · **n:** fixed typo (raized→raised), removed self-referencing Opportunity Cost link, added blank line before References, removed duplicate footer, added Gap-A refs (Robbins 1932, Malthus 1798), backlink in bottlenecks
 - [x] `#32` **Specialization** · `Economics/specialization.md` · **st:** fixed · **n:** added blank line before References, removed duplicate footer; backlinks in trade-offs, monopoly-vs-competition; refs verified
 - [x] `#33` **Optimization** · `Economics/optimization.md` · **st:** fixed · **n:** removed duplicate footer; all backlinks present; refs verified
-- [ ] `#34` **Monopoly vs. Competition** · `Economics/monopoly-vs-competition.md` · **st:** todo · **n:** —
+- [x] `#34` **Monopoly vs. Competition** · `Economics/monopoly-vs-competition.md` · **st:** fixed · **n:** removed duplicate footer; backlink added in network-effects; refs verified
 - [ ] `#35` **Efficiency** · `Economics/efficiency.md` · **st:** todo · **n:** —
 - [ ] `#36` **Debt** · `Economics/debt.md` · **st:** todo · **n:** —
 - [ ] `#37` **Creative Destruction** · `Economics/creative-destruction.md` · **st:** todo · **n:** —
