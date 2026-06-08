@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **49**
+- Reviewed (verified + fixed): **50**
 - Flagged: **0**
-- Remaining (todo): **213**
+- Remaining (todo): **212**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -109,7 +109,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## Economics (22)
 
-- [ ] `#30` **Trade-offs** · `Economics/trade-offs.md` · **st:** todo · **n:** —
+- [x] `#30` **Trade-offs** · `Economics/trade-offs.md` · **st:** fixed · **n:** removed self-referencing Opportunity Cost link, added blank line before References, removed duplicate footer, added Gap-A ref (Sowell 2000)
 - [ ] `#31` **Scarcity** · `Economics/scarcity.md` · **st:** todo · **n:** —
 - [ ] `#32` **Specialization** · `Economics/specialization.md` · **st:** todo · **n:** —
 - [ ] `#33` **Optimization** · `Economics/optimization.md` · **st:** todo · **n:** —

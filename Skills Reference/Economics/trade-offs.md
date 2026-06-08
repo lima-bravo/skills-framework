@@ -45,14 +45,12 @@ A product team has three months before a major launch. They can ship a feature-c
 
 → [**Scarcity**](scarcity.md) — trade-offs exist because scarcity makes it impossible to have everything; remove scarcity and the trade-off dissolves.
 → [**Optimization**](optimization.md) — optimization is the formal approach to finding the best point on the trade-off frontier.
-→ [**Opportunity Cost**](trade-offs.md) — the economic concept that formalizes the cost of trade-offs.
+
 ## References
 
 - *An Essay on the Nature and Significance of Economic Science* — Lionel Robbins (1932) — defines economics as the study of trade-offs under scarcity.
 - *The Wealth of Nations* — Adam Smith (1776) — grounded in the principle that every economic decision involves opportunity cost.
-
-
----
+- *Basic Economics: A Citizen's Guide to the Economy* — Thomas Sowell (2000) — accessible treatment of core economic principles including trade-offs, opportunity cost, and scarcity.
 
 ---
 
