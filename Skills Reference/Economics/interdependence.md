@@ -53,9 +53,7 @@ A large software company reorganizes into product squads, each responsible for a
 ## References
 
 - *Power and Interdependence: World Politics in Transition* — Robert O. Keohane & Joseph S. Nye (1977; 4th ed. 2011) — the political science framework for analyzing mutual dependence and its strategic implications.
-
-
----
+- *The Wealth of Nations* — Adam Smith (1776) — the division of labour generates specialisation, which in turn creates deep economic interdependence between producers and markets.
 
 ---
 

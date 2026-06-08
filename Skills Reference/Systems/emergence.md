@@ -51,6 +51,7 @@ A company redesigns its physical office to improve collaboration — open plan, 
 → [**Systems Thinking**](systems-thinking.md) — systems thinking is the meta-discipline that makes emergence legible: the whole-system view required to see what components alone cannot produce
 → [**Irreducibility**](irreducibility.md) — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
 → [**Conway's Law**](conways-law.md) — the architecture that emerges from a team structure is an emergent property of the communication dynamics; it cannot be designed away without changing the interactions.
+→ [**Interdependence**](../Economics/interdependence.md) — interdependence is the structural condition that makes emergence possible: tightly coupled elements interact in ways that produce system-level properties invisible at the component level.
 
 ## References
 
