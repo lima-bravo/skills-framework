@@ -53,9 +53,6 @@ A venture partner makes ten introductions to potential customers for a startup f
 - *Influence: The Psychology of Persuasion* — Robert B. Cialdini (1984) — reciprocity is explicitly named as the first and most powerful of Cialdini's six principles of influence.
 - *Pre-Suasion: A Revolutionary Way to Influence and Persuade* — Robert B. Cialdini (2016) — the preceding context that makes reciprocity operations more or less effective.
 
-
----
-
 ---
 
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

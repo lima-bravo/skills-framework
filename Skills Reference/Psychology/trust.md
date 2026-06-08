@@ -46,7 +46,7 @@ A new engineering manager inherits a team that was previously micromanaged. The 
 ## Connections
 
 → **Incentives** — trust and incentives interact bidirectionally: misaligned incentives destroy trust structurally, and low trust drives the demand for more incentive-based control.
-→ **Reciprocity** — trust is built partly through reciprocal vulnerability; extending trust invites trust in return. Reciprocity is the mechanism; trust is the result.
+→ [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — trust is built partly through reciprocal vulnerability; extending trust invites trust in return. Reciprocity is the mechanism; trust is the result.
 → **Psychological Safety** — psychological safety is the team-level expression of trust: the shared belief that interpersonal risk-taking won't be punished.
 → **Loss Aversion** — trust violations feel disproportionately large because losses hurt more than equivalent gains. The asymmetry of trust building vs. breaking is a direct consequence of loss aversion.
 → [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — trust enables the binding commitments that allow players to escape defection equilibria; without it, mutual defection is rational.

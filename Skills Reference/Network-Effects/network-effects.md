@@ -53,15 +53,13 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 → [**Monopoly vs. Competition**](../Economics/monopoly-vs-competition.md) — network effects are the most powerful monopoly-creating force in digital markets; they shift the competitive landscape toward winner-take-most outcomes.
 → [**Free Rider Problem**](../Economics/free-rider-problem.md) — shared goods often have network effect properties; free riding degrades the very thing that makes the network valuable.
 → [**Schelling Points**](../Economics/schelling-points.md) — technology standards are Schelling Points with network effects: once enough users coordinate on one option, switching costs make it permanent.
+→ [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — reciprocal networks, where giving to one member benefits others, generate stronger and more durable network effects than purely transactional ones.
 
 ## References
 
 - *Platform Revolution: How Networked Markets Are Transforming the Economy* — G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016) — network effects as the primary source of platform value.
 - *The Cold Start Problem: How to Start and Scale Network Effects* — Andrew Chen (2021) — how network effects are seeded, grown, and defended.
 - *The Tipping Point: How Little Things Can Make a Big Difference* — Malcolm Gladwell (2000) — the popular framing of network-effect dynamics and tipping thresholds.
-
-
----
 
 ---
 

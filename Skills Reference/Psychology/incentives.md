@@ -54,14 +54,12 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Goodhart's Law**](../Economics/goodharts-law.md) — Goodhart's Law is the failure mode of incentive systems: when a metric carries real consequences, people optimise the metric rather than the outcome it was tracking.
 → [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — incentives are the primary mitigation tool for principal-agent misalignment; designing them well requires understanding both adverse selection and moral hazard.
 → [**Free Rider Problem**](../Economics/free-rider-problem.md) — free riding is an incentive design failure: when contribution is not individually rewarded, the rational actor doesn't contribute.
+→ [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — reciprocity is a social incentive that operates independently of formal systems; it often drives collaboration more reliably than financial incentives in relational contexts.
 
 ## References
 
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — the primary source for Munger's incentive-centred mental model.
 - *Freakonomics: A Rogue Economist Explores the Hidden Side of Everything* — Steven D. Levitt & Stephen J. Dubner (2005) — accessible illustrations of how hidden incentives drive counterintuitive behavior.
-
-
----
 
 ---
 

@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **79**
+- Reviewed (verified + fixed): **80**
 - Flagged: **0**
-- Remaining (todo): **183**
+- Remaining (todo): **182**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -142,7 +142,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#46` **Thermodynamics** · `Physics-and-Chemistry/thermodynamics.md` · **st:** fixed · **n:** 2x "rizing"→"rising", blank line before refs, duplicate --- footer, Gap-A ref (Shannon), backlinks in feedback-loops/margin-of-safety/churn
 - [x] `#47` **Catalysts** · `Physics-and-Chemistry/catalysts.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer, 2x Gap-A refs (Innovator's Dilemma, How Innovation Works), backlinks in leverage/bottlenecks
 - [x] `#48` **Alloying** · `Physics-and-Chemistry/alloying.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer, Gap-A ref (The Knowledge), backlinks in emergence/specialization
-- [ ] `#49` **Reciprocity** · `Physics-and-Chemistry/reciprocity.md` · **st:** todo · **n:** —
+- [x] `#49` **Reciprocity** · `Physics-and-Chemistry/reciprocity.md` · **st:** fixed · **n:** duplicate --- footer; fixed broken link in trust.md; backlinks in network-effects/incentives
 - [ ] `#50` **Relativity** · `Physics-and-Chemistry/relativity.md` · **st:** todo · **n:** —
 
 ## Psychology (26)
