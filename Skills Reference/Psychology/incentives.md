@@ -53,6 +53,7 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Bubbles**](../Economics/bubbles.md) — bubble dynamics persist because incentives (fees, career risk, peer pressure) reward participation even when participants know valuations are stretched.
 → [**Goodhart's Law**](../Economics/goodharts-law.md) — Goodhart's Law is the failure mode of incentive systems: when a metric carries real consequences, people optimise the metric rather than the outcome it was tracking.
 → [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — incentives are the primary mitigation tool for principal-agent misalignment; designing them well requires understanding both adverse selection and moral hazard.
+→ [**Free Rider Problem**](../Economics/free-rider-problem.md) — free riding is an incentive design failure: when contribution is not individually rewarded, the rational actor doesn't contribute.
 
 ## References
 

@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **67**
+- Reviewed (verified + fixed): **68**
 - Flagged: **0**
-- Remaining (todo): **195**
+- Remaining (todo): **194**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -127,7 +127,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#229` **Nash Equilibrium** · `Economics/nash-equilibrium.md` · **st:** fixed · **n:** blank line before refs; backlink added in red-queen-dilemma.md
 - [x] `#230` **Prisoner's Dilemma** · `Economics/prisoners-dilemma.md` · **st:** fixed · **n:** blank line before refs; fixed broken Physics-Chemistry path; backlinks added in reciprocity.md, commitment-consistency-bias.md
 - [x] `#231` **Tragedy of the Commons** · `Economics/tragedy-of-the-commons.md` · **st:** verified · **n:** structure clean; refs present; backlinks added in feedback-loops.md, drift-to-failure.md
-- [ ] `#232` **Free Rider Problem** · `Economics/free-rider-problem.md` · **st:** todo · **n:** —
+- [x] `#232` **Free Rider Problem** · `Economics/free-rider-problem.md` · **st:** fixed · **n:** blank line before refs; backlinks added in incentives.md, principal-agent-problem.md, prisoners-dilemma.md, nash-equilibrium.md, trust.md, network-effects.md
 - [ ] `#236` **Schelling Points** · `Economics/schelling-points.md` · **st:** todo · **n:** —
 - [ ] `#239` **Long Tail** · `Economics/long-tail.md` · **st:** todo · **n:** —
 - [ ] `#262` **Incentive Design** · `Economics/incentive-design.md` · **st:** todo · **n:** —

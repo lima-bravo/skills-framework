@@ -51,6 +51,7 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 → [**S-Curves**](../Systems/s-curves.md) — network effects accelerate the growth phase of an S-curve and raise the saturation ceiling, but do not eliminate the S-curve structure.
 → [**Path Dependence**](../Systems/path-dependence.md) — network effects are the most powerful source of path dependence in markets: the larger the installed base, the higher the switching cost for any individual user or provider.
 → [**Monopoly vs. Competition**](../Economics/monopoly-vs-competition.md) — network effects are the most powerful monopoly-creating force in digital markets; they shift the competitive landscape toward winner-take-most outcomes.
+→ [**Free Rider Problem**](../Economics/free-rider-problem.md) — shared goods often have network effect properties; free riding degrades the very thing that makes the network valuable.
 
 ## References
 

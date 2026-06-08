@@ -55,6 +55,7 @@ Interventions: (1) Platform contribution time is written into each squad's capac
 → [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — undercontribution is the Nash Equilibrium of public goods games: given that others may not contribute, not contributing is individually rational.
 → [**Trust**](../Psychology/trust.md) — high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
 → [**Network Effects**](../Network-Effects/network-effects.md) — shared goods often have network effect properties; underinvestment from free riding degrades the very thing that makes the network valuable.
+
 ## References
 
 - *The Logic of Collective Action: Public Goods and the Theory of Groups* — Mancur Olson (1965) — the formal theory of why rational individuals fail to contribute to collective goods.

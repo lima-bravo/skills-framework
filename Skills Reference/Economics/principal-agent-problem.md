@@ -59,6 +59,7 @@ A company pays its sales force a commission purely on bookings to align reps (ag
 → [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — principal-agent relationships often have a Prisoner's Dilemma structure: agents defect from principal interests when individual incentives dominate
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
 → [**Incentive Design**](incentive-design.md) — the constructive discipline: incentive design is how you narrow the gap this model describes
+→ [**Free Rider Problem**](free-rider-problem.md) — agents who benefit from a shared resource without contributing create a free-rider structure that compounds the principal-agent misalignment
 
 ## References
 

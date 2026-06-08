@@ -56,6 +56,7 @@ Each chain reasons: "If the other holds, I earn more by cutting (£15m vs £10m)
 → [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — misaligned incentives between principals and agents create equilibria where agents act against the principal's interest.
 → [**Trust**](../Psychology/trust.md) — trust enables escape from bad equilibria (like the Prisoner's Dilemma) by enabling credible commitments to cooperate.
 → [**Incentive Design**](incentive-design.md) — incentive design aims to move the equilibrium: make the Nash outcome the collectively desirable one
+→ [**Free Rider Problem**](free-rider-problem.md) — undercontribution is a Nash Equilibrium in public goods games: given uncertainty about others' contributions, not contributing is individually rational.
 
 ## References
 
