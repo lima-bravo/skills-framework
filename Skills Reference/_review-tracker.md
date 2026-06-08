@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **71**
+- Reviewed (verified + fixed): **72**
 - Flagged: **0**
-- Remaining (todo): **191**
+- Remaining (todo): **190**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -134,7 +134,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## Physics & Chemistry (10)
 
-- [ ] `#41` **Leverage** · `Physics-and-Chemistry/leverage.md` · **st:** todo · **n:** —
+- [x] `#41` **Leverage** · `Physics-and-Chemistry/leverage.md` · **st:** fixed · **n:** blank line before refs; removed duplicate footer; Gap-A ref added (Feynman Lectures); backlinks added in bottlenecks.md, scale.md, algorithms.md
 - [ ] `#42` **Velocity** · `Physics-and-Chemistry/velocity.md` · **st:** todo · **n:** —
 - [ ] `#43` **Inertia** · `Physics-and-Chemistry/inertia.md` · **st:** todo · **n:** —
 - [ ] `#44` **Friction** · `Physics-and-Chemistry/friction.md` · **st:** todo · **n:** —
