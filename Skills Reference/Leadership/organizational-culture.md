@@ -47,6 +47,7 @@ A company declares "we celebrate intelligent failure" as a new value, with a pos
 → [**Incentives**](../Psychology/incentives.md) — incentive structures and basic assumptions interact; changing one without the other produces unpredictable results
 → [**Psychological Safety**](../Psychology/psychological-safety.md) — a measurable artefact of an underlying assumption about whether failure and dissent are safe
 → [**Mission Command**](mission-command.md) — requires a basic-assumptions level belief that subordinates can be trusted; fails in high-authority cultures
+→ [**Dunbar's Number**](../Systems/dunbars-number.md) — culture transmission mechanisms must change as organisations cross Dunbar thresholds; relational transmission fails above ~150 and must be replaced by artefact and ritual.
 
 ## References
 

@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **46**
+- Reviewed (verified + fixed): **47**
 - Flagged: **0**
-- Remaining (todo): **216**
+- Remaining (todo): **215**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -103,7 +103,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#109` **Adjacent Possible** · `Systems/adjacent-possible.md` · **st:** fixed · **n:** fixed header pipe; added blank line before ## References; manifest refs verified; backlinks in s-curves, exploration-vs-exploitation, disruptive-innovation, compounding
 - [x] `#208` **Drift to Failure** · `Systems/drift-to-failure.md` · **st:** fixed · **n:** added 5 `---` separators, removed duplicate footer, standardised refs format, added 5 manifest refs, backlinks in goodharts-law, commitment-consistency-bias, survivorship-bias, after-action-review, tactical-pause
 - [x] `#235` **Path Dependence** · `Systems/path-dependence.md` · **st:** fixed · **n:** added blank line before References, fixed broken Inertia link (Physics-Chemistry→Physics-and-Chemistry), backlinks in inertia, drift-to-failure, sunk-cost, s-curves, network-effects
-- [ ] `#243` **Dunbar's Number** · `Systems/dunbars-number.md` · **st:** todo · **n:** —
+- [x] `#243` **Dunbar's Number** · `Systems/dunbars-number.md` · **st:** fixed · **n:** added blank line before References, fixed 2 broken links (Delivery-Flow→Delivery-and-Flow, organisational→organizational-culture), backlinks in conways-law, organizational-culture, trust, psychological-safety, team-topologies; connection count 1045→1046
 - [ ] `#260` **Fixes That Fail** · `Systems/fixes-that-fail.md` · **st:** todo · **n:** —
 - [ ] `#261` **Systems Thinking** · `Systems/systems-thinking.md` · **st:** todo · **n:** —
 

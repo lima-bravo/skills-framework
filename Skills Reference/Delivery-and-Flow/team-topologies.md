@@ -50,8 +50,7 @@ A 400-person fintech reorganization moves from a 30-team feature-matrix to a Tea
 → [**Leverage**](../Physics-and-Chemistry/leverage.md) — platforms are force multipliers; the leverage card explains the underlying mechanism.
 → [**Dependency Management**](dependency-management.md) — interaction modes are dependency contracts.
 → [**Span of Control**](span-of-control.md) — Team Topologies defines team *types*; Span of Control governs team *size*. Both constraints must be satisfied for effective flow.
-
----
+→ [**Dunbar's Number**](../Systems/dunbars-number.md) — Dunbar's Number is the cognitive constraint Team Topologies operationalises: team sizes and interaction patterns are bounded by what human relationship networks can sustain.
 
 ## References
 

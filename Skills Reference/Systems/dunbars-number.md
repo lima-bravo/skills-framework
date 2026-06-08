@@ -51,13 +51,14 @@ The diagnosis: the organisation crossed Dunbar's Number without designing the in
 ## Connections
 
 → [**Conway's Law**](../Systems/conways-law.md) — Conway's Law is Dunbar's Number applied to system architecture: the communication structure of the organisation (shaped by Dunbar limits) mirrors the architecture of the systems it builds.
-→ [**Team Topologies**](../Delivery-Flow/team-topologies.md) — Team Topologies is the practical application of Dunbar's Number to software delivery: designing team structures that stay within cognitive relationship limits.
-→ [**Organisational Culture**](../Leadership/organisational-culture.md) — culture transmission mechanisms must change as organisations cross Dunbar thresholds; relational transmission fails above ~150 and must be replaced by artefact and ritual.
+→ [**Team Topologies**](../Delivery-and-Flow/team-topologies.md) — Team Topologies is the practical application of Dunbar's Number to software delivery: designing team structures that stay within cognitive relationship limits.
+→ [**Organisational Culture**](../Leadership/organizational-culture.md) — culture transmission mechanisms must change as organisations cross Dunbar thresholds; relational transmission fails above ~150 and must be replaced by artefact and ritual.
 → [**Parkinson's Law**](../Business/parkinsons-law.md) — above Dunbar's Number, organisations require institutional mechanisms that are themselves subject to Parkinson expansion; the two dynamics compound.
 → [**Peter Principle**](../Leadership/peter-principle.md) — Peter Principle accumulation accelerates above Dunbar's Number, where informal peer accountability can no longer compensate for management incompetence.
 → [**Trust**](../Psychology/trust.md) — trust is built relationally within Dunbar limits; above them, trust must be institutionalised through transparency, track record, and structural accountability.
 → [**Mission Command**](../Leadership/mission-command.md) — Mission Command works best within Dunbar's Number, where commanders know their people directly; above the threshold, it requires formal doctrine and training to replace relational understanding.
 → [**Psychological Safety**](../Psychology/psychological-safety.md) — psychological safety is a relational property that operates within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour.
+
 ## References
 
 - *Grooming, Gossip, and the Evolution of Language* — Robin Dunbar (1996) — the accessible treatment of the neocortex-group-size correlation and the 150-person limit.
