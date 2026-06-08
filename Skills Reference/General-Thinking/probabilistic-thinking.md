@@ -56,6 +56,7 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 → [**Asymmetry / Convexity**](asymmetry-convexity.md) — asymmetry analysis is an extension of probabilistic thinking: it requires tracking both probability and magnitude of outcomes, not probability alone.
 → [**Black Swan**](black-swan.md) — Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
 → [**Relativity**](../Physics-and-Chemistry/relativity.md) — base rates are reference frames; sound probabilistic thinking requires choosing the right reference class before assigning probabilities.
+→ [**Anchoring**](../Psychology/anchoring.md) — the antidote to anchoring is independent base-rate analysis before exposure; probabilistic thinking provides the method for forming that prior independently.
 
 ## References
 

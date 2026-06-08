@@ -37,7 +37,7 @@ The anchor sets the reference frame for all subsequent adjustments. Adjustments 
 
 ## Worked Example
 
-A founder is raizing a Series A. The first VC she meets opens with "we're thinking valuations in the £8-12M range for companies at your stage." This is an anchor. Her own analysis suggests £18M is fair for her metrics. If she responds to the VC's frame by negotiating from £8-12M, she has accepted the anchor. The correct response: state her own number early — "We're pricing this round at £18M pre-money based on [specific metrics]" — and provide the rationale. The VC's anchor is countered with her own. Subsequent discussion happens around the contested £18M vs. £12M range, not the uncontested £8-12M.
+A founder is raising a Series A. The first VC she meets opens with "we're thinking valuations in the £8-12M range for companies at your stage." This is an anchor. Her own analysis suggests £18M is fair for her metrics. If she responds to the VC's frame by negotiating from £8-12M, she has accepted the anchor. The correct response: state her own number early — "We're pricing this round at £18M pre-money based on [specific metrics]" — and provide the rationale. The VC's anchor is countered with her own. Subsequent discussion happens around the contested £18M vs. £12M range, not the uncontested £8-12M.
 
 ---
 
@@ -53,9 +53,7 @@ A founder is raizing a Series A. The first VC she meets opens with "we're thinki
 
 - *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the accessible treatment of anchoring and its mechanisms in System 1 processing.
 - *Judgment under Uncertainty: Heuristics and Biases* — Amos Tversky & Daniel Kahneman, Science Vol. 185 (1974) — the original academic paper establishing anchoring as a cognitive heuristic.
-
-
----
+- *Predictably Irrational* — Dan Ariely (2008) — introduces "arbitrary coherence": even random anchors create stable willingness-to-pay that persists long after the initial exposure.
 
 ---
 
