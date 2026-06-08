@@ -49,10 +49,8 @@ A founder building a B2B SaaS product fills in the canvas. Under Revenue Streams
 
 ## References
 
-- *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers* — Alexander Osterwalder & Yves Pigneur (2010) — the source text for the canvas framework.
-
-
----
+- *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers* — Alexander Osterwalder & Yves Pigneur (2010) — the source text for the canvas framework; introduces all nine building blocks and the visual template.
+- *Value Proposition Design: How to Create Products and Services Customers Want* — Alexander Osterwalder et al. (2014) — the companion volume that zooms in on the Value Proposition and Customer Segment boxes; the origin of the Value Proposition Canvas tool.
 
 ---
 

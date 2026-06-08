@@ -46,6 +46,8 @@ Slack's early users were internal at Stewart Butterfield's game company Glitch. 
 → [**Build-Measure-Learn**](build-measure-learn.md) — the loop used to discover PMF efficiently.
 → [**Customer Development**](customer-development.md) — the process of understanding whether the market pull exists before building.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth.
+→ [**Business Model Canvas**](../Business/business-model-canvas.md) — the canvas is the framework for testing whether a viable business model exists around which PMF could be achieved; strong product pull without a sound model is incomplete validation.
+
 ## References
 
 - *Product/Market Fit* — Marc Andreessen, pmarchive.com (2007) — the original essay coining the term and defining PMF as the only thing that matters for startups.
