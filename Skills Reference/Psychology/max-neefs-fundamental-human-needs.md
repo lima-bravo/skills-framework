@@ -45,12 +45,10 @@ A company offers excellent compensation, interesting work, and a stated mission.
 → [**McClelland's Acquired Needs**](mcclellands-acquired-needs-theory.md) — McClelland identifies individual variation in dominant motivational needs; Max-Neef identifies the universal set from which those variations draw.
 → [**Maslow's Hierarchy**](maslows-hierarchy-of-needs.md) — Max-Neef is a non-hierarchical complement: where Maslow sequences needs, Max-Neef treats all nine as equally fundamental.
 → [**Incentives**](incentives.md) — the satisfier-need distinction is the most important refinement to incentive design: ensure your incentives meet actual needs, not just their most obvious satisfiers.
+
 ## References
 
 - *Human Scale Development: Conception, Application and Further Reflections* — Manfred Max-Neef (1991) — the source text for the nine fundamental needs and the satisfiers framework.
-
-
----
 
 ---
 

@@ -46,6 +46,7 @@ A company introduces a purpose-driven culture program with a compelling mission,
 → [**ERG Theory**](erg-theory.md) — Alderfer's ERG is a simplified, less strictly hierarchical refinement of Maslow.
 → [**Psychological Safety**](psychological-safety.md) — organizational psychological safety corresponds to Maslow's safety level applied to the team context.
 → [**McClelland's Acquired Needs**](mcclellands-acquired-needs-theory.md) — McClelland's theory is the individual-variation complement to Maslow's universal hierarchy: once you know which level someone is at, McClelland tells you which need within that level dominates.
+→ [**Max-Neef's Fundamental Human Needs**](max-neefs-fundamental-human-needs.md) — Max-Neef is the non-hierarchical complement: where Maslow sequences five levels, Max-Neef treats nine needs as equally fundamental and distinguishes needs from satisfiers.
 
 ## References
 
