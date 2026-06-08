@@ -48,6 +48,7 @@ A manager concludes that an employee "doesn't care about quality." Walking back 
 → [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning walks back down the ladder, questioning each inference.
 → [**Steelmanning**](steelmanning.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its surface conclusions.
 → [**Grice's Maxims**](grices-maxims.md) — listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
+→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — principals draw conclusions about agents from limited observable data, climbing the inference ladder on incomplete information; the higher they climb without checking, the wider the gap they diagnose.
 
 ## References
 

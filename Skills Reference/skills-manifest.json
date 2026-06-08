@@ -5675,6 +5675,17 @@
       ]
     },
     {
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
+      "authorYear": "Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976)",
+      "skills": [
+        {
+          "id": 121,
+          "name": "Principal–Agent Problem",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
       "title": "Managing the Unexpected: Resilient Performance in an Age of Uncertainty",
       "authorYear": "Karl E. Weick & Kathleen M. Sutcliffe (2007)",
       "skills": [

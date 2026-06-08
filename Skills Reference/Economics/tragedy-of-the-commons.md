@@ -56,6 +56,8 @@ Resolution: the platform team appoints a CI steward role, introduces build-time 
 → [**Feedback Loops**](../Systems/feedback-loops.md) — making commons depletion visible creates feedback loops that enable self-regulation.
 → [**Drift to Failure**](../Systems/drift-to-failure.md) — commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse.
 → [**Incentive Design**](incentive-design.md) — incentive design can make individual rationality and collective welfare coincide; the commons tragedy is what happens when it does not
+→ [**Principal–Agent Problem**](principal-agent-problem.md) — when multiple agents share a resource owned by a principal, commons dynamics compound the agency problem: each agent's rational self-interest depletes the shared resource.
+
 ## References
 
 - *The Tragedy of the Commons* — Garrett Hardin, Science Vol. 162 No. 3859 (1968) — the original articulation of the commons problem.
