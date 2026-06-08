@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **65**
+- Reviewed (verified + fixed): **66**
 - Flagged: **0**
-- Remaining (todo): **197**
+- Remaining (todo): **196**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -125,7 +125,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#216` **Unit Economics** · `Economics/unit-economics.md` · **st:** fixed · **n:** Removed stray --- before ## References; standardised refs format; backlink in lean-portfolio.md.
 - [x] `#217` **Value Creation and Capture** · `Economics/value-creation-capture.md` · **st:** fixed · **n:** Removed stray --- before ## References; standardised refs format; backlinks in wardley-mapping.md, disruptive-innovation.md, business-model-canvas.md.
 - [x] `#229` **Nash Equilibrium** · `Economics/nash-equilibrium.md` · **st:** fixed · **n:** blank line before refs; backlink added in red-queen-dilemma.md
-- [ ] `#230` **Prisoner's Dilemma** · `Economics/prisoners-dilemma.md` · **st:** todo · **n:** —
+- [x] `#230` **Prisoner's Dilemma** · `Economics/prisoners-dilemma.md` · **st:** fixed · **n:** blank line before refs; fixed broken Physics-Chemistry path; backlinks added in reciprocity.md, commitment-consistency-bias.md
 - [ ] `#231` **Tragedy of the Commons** · `Economics/tragedy-of-the-commons.md` · **st:** todo · **n:** —
 - [ ] `#232` **Free Rider Problem** · `Economics/free-rider-problem.md` · **st:** todo · **n:** —
 - [ ] `#236` **Schelling Points** · `Economics/schelling-points.md` · **st:** todo · **n:** —
