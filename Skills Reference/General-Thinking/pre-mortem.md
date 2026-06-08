@@ -56,6 +56,7 @@ A company is about to launch a new pricing model. Pre-mortem: "It is Q4 and the 
 → [**Causal Analysis**](causal-analysis.md) — the pre-mortem applies causal analysis forward in time: what causal structure would produce failure from here, and which link in that chain is the most likely point of failure?
 → [**Black Swan**](black-swan.md) — the pre-mortem is the closest operational tool to Black Swan thinking: imagining failure in advance surfaces failure modes not in the current plan, including tail events.
 → [**Planning Fallacy**](../Psychology/planning-fallacy.md) — the pre-mortem is the most effective tactical intervention against the planning fallacy: imagining the plan has failed forces engagement with the outside view.
+→ [**Hindsight Bias**](../Psychology/hindsight-bias.md) — the pre-mortem proactively creates a written record of uncertainty before the outcome is known, providing the honest baseline that counteracts hindsight bias in later retrospection.
 
 ## References
 

@@ -60,6 +60,7 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 → [**Availability Bias**](../Psychology/availability-bias.md) — availability bias is the primary distortion that probabilistic thinking corrects: it replaces vivid-example frequency estimates with explicit base rates.
 → [**Planning Fallacy**](../Psychology/planning-fallacy.md) — thinking in distributions (outside view) is the cognitive toolkit that directly counters the planning fallacy's reliance on optimistic single-scenario narratives.
 → [**Survivorship Bias**](../Psychology/survivorship-bias.md) — the correction for survivorship bias is explicit probabilistic reasoning over the full distribution, not just the visible tail of survivors.
+→ [**Hindsight Bias**](../Psychology/hindsight-bias.md) — the antidote to hindsight bias is evaluating decisions by the probability distribution reasonably estimable at decision time, not the single outcome that occurred.
 
 ## References
 

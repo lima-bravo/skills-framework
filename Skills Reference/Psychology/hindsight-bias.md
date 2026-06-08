@@ -13,9 +13,13 @@ The bias has three distinct components. *Memory distortion*: we misremember our 
 
 In organisations, hindsight bias contaminates after-action reviews, risk assessments, investment decisions, and accountability processes. It quietly upgrades failures to near-misses and near-misses to obvious errors — making the world seem more predictable than it was and making good-faith decisions under uncertainty look like negligence in retrospect.
 
+---
+
 ## Mental Model
 
 Imagine reading a novel twice: once forward from the beginning, and once having already read the ending. The second time, every clue, foreshadowing, and hint seems blazingly obvious. You feel impatient with the characters for not seeing what was coming. But they were living in the forward direction, with no access to the last page. Hindsight bias is the cognitive equivalent of judging characters by the ending you already know. The only honest assessment is to reconstruct what was actually knowable at the decision point — not what became knowable later.
+
+---
 
 ## Practitioner Heuristics
 
@@ -24,6 +28,8 @@ Imagine reading a novel twice: once forward from the beginning, and once having 
 - **When evaluating a past decision, ask: "was this a reasonable decision given what was known then, or only a bad decision given what we know now?"** These are different questions with different implications.
 - **In accountability processes, separate outcome quality from decision quality.** A good decision with a bad outcome should be treated differently from a bad decision with a bad outcome. Conflating them punishes prudent risk-taking.
 - **Apply the "newspaper test at decision time."** Ask: would a knowledgeable journalist, reading only what was available at the moment of decision, judge this as negligent? Not: would a journalist reading the outcome story say "how could they not see this coming?"
+
+---
 
 ## Common Failure Modes
 
@@ -35,6 +41,8 @@ Imagine reading a novel twice: once forward from the beginning, and once having 
 
 **Talent misassessment.** Managers who backed a failed initiative are assessed as having poor judgement — even when the decision was reasonable under uncertainty. Managers who backed a successful gamble are assessed as visionary. Both assessments are contaminated by hindsight. Over time, this selects for risk-aversion rather than good judgement.
 
+---
+
 ## Worked Example
 
 A product team launches a new feature after a six-week development cycle. Three weeks after launch, a security vulnerability is discovered in the authentication flow — one that requires rolling back the release and patching. The post-mortem quickly converges: "the security review process was inadequate." Several team members recall feeling uneasy about the authentication design but not raising it. Everyone now feels the flaw was obvious.
@@ -42,6 +50,8 @@ A product team launches a new feature after a six-week development cycle. Three 
 A more careful reconstruction: the security review at launch covered the same scope as all prior releases and found no issues. The authentication design followed a standard pattern used in six prior features without incident. The specific vulnerability involved an interaction between the new feature and a legacy API that had no documented behaviour for this input case — something that was genuinely hard to predict without deep knowledge of the legacy system's undocumented edge cases.
 
 Hindsight bias turned an understandable gap in legacy system knowledge into an obvious oversight. The actual learning — "we need better documentation of legacy API edge cases" — was less satisfying than the hindsight conclusion — "we should have caught this in review." The team updated the review checklist rather than the documentation practice, solving a hindsight-constructed problem rather than the real one.
+
+---
 
 ## Connections
 
@@ -53,12 +63,10 @@ Hindsight bias turned an understandable gap in legacy system knowledge into an o
 
 ## References
 
-- Fischhoff, B. (1975) "Hindsight ≠ Foresight: The Effect of Outcome Knowledge on Judgment Under Uncertainty" — *Journal of Experimental Psychology*
-- *Thinking, Fast and Slow* — Daniel Kahneman, 2011
-- *Superforecasting* — Philip Tetlock & Dan Gardner, 2015
-- *The Undoing Project* — Michael Lewis, 2016
-
----
+- *"Hindsight ≠ Foresight: The Effect of Outcome Knowledge on Judgment Under Uncertainty"* — Baruch Fischhoff (1975), *Journal of Experimental Psychology: Human Perception and Performance*, 1(3) — the founding experimental paper; demonstrated that outcome knowledge systematically inflates perceived predictability across domains.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the comprehensive cognitive account of hindsight bias and why the illusion of understanding the past generates false confidence about the future.
+- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical study of what separates accurate forecasters; calibration against hindsight-contaminated judgement is a central theme.
+- *The Undoing Project: A Friendship That Changed Our Minds* — Michael Lewis (2016) — the narrative account of Kahneman and Tversky's collaboration; hindsight bias emerges throughout as the lens that distorts how we reconstruct past decisions.
 
 ---
 

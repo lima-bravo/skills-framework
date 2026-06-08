@@ -84,6 +84,7 @@ A consulting team delivers a strategy engagement two weeks late and over budget,
 → [**Drift to Failure**](../Systems/drift-to-failure.md) — well-run AARs look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" converts the AAR into drift analysis.
 → [**Survivorship Bias**](../Psychology/survivorship-bias.md) — the AAR is the structural antidote to survivorship bias: it forces examination of what went wrong, not just what the survivors chose to remember.
 → [**Fundamental Attribution Error**](../Psychology/fundamental-attribution-error.md) — AARs done well explicitly surface situational factors; FAE is the most common contaminator of poorly-run retrospectives, turning systemic failures into personnel verdicts.
+→ [**Hindsight Bias**](../Psychology/hindsight-bias.md) — the primary cognitive contaminant of AARs; well-run AARs counteract it by explicitly reconstructing the information state at decision time before discussing what went wrong.
 
 ## References
 
