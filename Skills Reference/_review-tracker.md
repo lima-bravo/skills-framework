@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **106**
+- Reviewed (verified + fixed): **107**
 - Flagged: **0**
-- Remaining (todo): **156**
+- Remaining (todo): **155**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -172,7 +172,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#205` **Commitment & Consistency Bias** · `Psychology/commitment-consistency-bias.md` · **st:** fixed · **n:** Missing --- separators, duplicate footer, bare refs expanded; Gap-A Cialdini ref updated (+#205); 2 Gap-B2 refs added (Festinger 1957, Staw 1976); 6 backlinks added (sunk-cost, dominant-logic, kill-criteria, falsification, confirmation-bias, after-action-review)
 - [x] `#206` **Base Rate Neglect** · `Psychology/base-rate-neglect.md` · **st:** fixed · **n:** Missing --- separators, duplicate footer, bare refs expanded; 2 Gap-B2 refs added (Kahneman & Tversky 1973, Flyvbjerg 2006); 6 backlinks added (probabilistic-thinking, reference-class-forecasting, planning-fallacy, survivorship-bias, falsification, narrative-instinct)
 - [x] `#207` **SRK Framework** · `Psychology/srk-framework.md` · **st:** fixed · **n:** added 5 `---` separators, fixed dup footer, expanded bare refs with descriptions; Gap-A [264]; Gap-B2: Rasmussen 1983, Reason 1990, Vicente 1999; 5 backlinks added (AAR, FAE, Cynefin, Experiment Design, Leader's Intent)
-- [ ] `#212` **Observer Bias** · `Psychology/observer-bias.md` · **st:** todo · **n:** —
+- [x] `#212` **Observer Bias** · `Psychology/observer-bias.md` · **st:** fixed · **n:** removed spurious --- before ## References, expanded 4 bare refs; all 4 Gap-B2 (Rosenthal 1968, Goldin & Rouse 2000, Kahneman/Sibony/Sunstein 2021, Sackett 1996); backlinks in calibration, psychological-safety
 
 ## Business (23)
 

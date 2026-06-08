@@ -61,14 +61,12 @@ Outcome: the hired candidate is not either of the pre-championed individuals. Po
 → [**Assumption Mapping**](../Business/assumption-mapping.md) — the assumptions an evaluator holds about a candidate or option are the exact source of the expectation that drives observer bias; surfacing those assumptions before evaluation is the upstream intervention
 → [**Psychological Safety**](psychological-safety.md) — in low-safety environments, evaluators are more likely to anchor on the dominant view rather than submit independent assessments; observer bias is amplified by social pressure
 
----
-
 ## References
 
-- Rosenthal, R. & Jacobson, L. (1968) *Pygmalion in the Classroom*. New York: Holt, Rinehart & Winston.
-- Goldin, C. & Rouse, C. (2000) "Orchestrating impartiality: the impact of 'blind' auditions on female musicians." *American Economic Review*, 90(4), 715–741.
-- Kahneman, D., Sibony, O. & Sunstein, C.R. (2021) *Noise: A Flaw in Human Judgment*. London: William Collins.
-- Sackett, D.L. et al. (1996) "Evidence-based medicine: what it is and what it isn't." *BMJ*, 312, 71.
+- *Pygmalion in the Classroom* — Robert Rosenthal & Lenore Jacobson (1968) — the foundational study: teachers who were told certain students were "late bloomers" produced measurable IQ gains in those students; the expectations were fabricated, the effect was real. Established observer-expectancy as an empirically demonstrated phenomenon.
+- *"Orchestrating Impartiality: The Impact of 'Blind' Auditions on Female Musicians"* — Claudia Goldin & Cecilia Rouse (2000), *American Economic Review*, 90(4), 715–741 — the landmark natural experiment showing that switching symphony auditions to screens that hid the performer's gender increased female hires by 25–46%; the strongest field evidence for blinding as a structural remedy.
+- *Noise: A Flaw in Human Judgment* — Daniel Kahneman, Olivier Sibony & Cass R. Sunstein (2021) — extends the analysis of human judgment error from bias (systematic) to noise (variability); shows that evaluators assessing identical cases on different occasions, or different evaluators assessing the same case, diverge far more than organisations assume. The structural remedies overlap closely with observer bias controls.
+- *"Evidence-Based Medicine: What It Is and What It Isn't"* — David L. Sackett et al. (1996), *BMJ*, 312, 71 — the founding manifesto of the evidence-based medicine movement; blinded evaluation and randomised controlled trials are the central methodological commitments, grounded in recognition that unblinded observation produces systematically distorted results.
 
 ---
 

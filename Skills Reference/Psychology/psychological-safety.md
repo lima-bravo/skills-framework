@@ -54,6 +54,7 @@ Google's Project Aristotle studied 180 teams to identify what made teams effecti
 → [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — low psychological safety amplifies the principal-agent gap: agents who fear consequences optimise for appearance rather than outcomes, making the misalignment structural.
 → [**Immunity to Change**](immunity-to-change.md) — psychological safety is the precondition under which immunity work becomes possible; without it, counter-commitments stay hidden rather than surfaced and tested.
 → [**Self-Determination Theory**](self-determination-theory.md) — psychological safety is the social condition that makes autonomy need satisfaction possible; without it, people cannot express genuine views or take the risks that intrinsic motivation requires.
+→ [**Observer Bias**](observer-bias.md) — in low-safety environments, evaluators suppress independent judgments and anchor on the dominant view; the social pressure that amplifies observer bias is a direct product of low psychological safety.
 
 ## References
 

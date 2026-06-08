@@ -62,6 +62,7 @@ Updated estimate: 40% (base rate adjusted upward for specific factors she can po
 → [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the most common source of overconfidence; calibration requires anchoring on base rates before adjusting for specifics
 → [**Reference Class Forecasting**](../Delivery-and-Flow/reference-class-forecasting.md) — the operational technique for anchoring on base rates in project estimation; calibration is why the technique works
 → [**After-Action Review**](../Leadership/after-action-review.md) — the learning cycle that generates the outcome data needed to improve calibration over time
+→ [**Observer Bias**](../Psychology/observer-bias.md) — uncorrected observer bias degrades calibration silently; evaluators who systematically favour expected winners build track records that look accurate but are contaminated by their expectations.
 
 ## References
 

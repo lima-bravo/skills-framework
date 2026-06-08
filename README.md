@@ -52,7 +52,7 @@ The deck includes:
 
 - Search and category filters across **262 skills**
 - Expandable skill modals with cross-links
-- **Sources & References** panel (**290** sources)
+- **Sources & References** panel (**294** sources)
 
 Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 

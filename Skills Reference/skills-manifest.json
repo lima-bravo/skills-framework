@@ -5963,6 +5963,50 @@
           "color": "#9333EA"
         }
       ]
+    },
+    {
+      "title": "Pygmalion in the Classroom",
+      "authorYear": "Robert Rosenthal & Lenore Jacobson (1968)",
+      "skills": [
+        {
+          "id": 212,
+          "name": "Observer Bias",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "\"Orchestrating Impartiality: The Impact of Blind Auditions on Female Musicians\"",
+      "authorYear": "Claudia Goldin & Cecilia Rouse (2000)",
+      "skills": [
+        {
+          "id": 212,
+          "name": "Observer Bias",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Noise: A Flaw in Human Judgment",
+      "authorYear": "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein (2021)",
+      "skills": [
+        {
+          "id": 212,
+          "name": "Observer Bias",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "\"Evidence-Based Medicine: What It Is and What It Isn't\"",
+      "authorYear": "David L. Sackett et al. (1996)",
+      "skills": [
+        {
+          "id": 212,
+          "name": "Observer Bias",
+          "color": "#9333EA"
+        }
+      ]
     }
   ]
 }
