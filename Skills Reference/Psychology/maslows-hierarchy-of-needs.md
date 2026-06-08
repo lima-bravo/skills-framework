@@ -45,6 +45,7 @@ A company introduces a purpose-driven culture program with a compelling mission,
 → [**Incentives**](incentives.md) — Maslow provides the structural framework for understanding which incentives correspond to which motivational needs.
 → [**ERG Theory**](erg-theory.md) — Alderfer's ERG is a simplified, less strictly hierarchical refinement of Maslow.
 → [**Psychological Safety**](psychological-safety.md) — organizational psychological safety corresponds to Maslow's safety level applied to the team context.
+→ [**McClelland's Acquired Needs**](mcclellands-acquired-needs-theory.md) — McClelland's theory is the individual-variation complement to Maslow's universal hierarchy: once you know which level someone is at, McClelland tells you which need within that level dominates.
 
 ## References
 

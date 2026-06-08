@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **89**
+- Reviewed (verified + fixed): **90**
 - Flagged: **0**
-- Remaining (todo): **173**
+- Remaining (todo): **172**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -155,7 +155,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#56` **Availability Bias** · `Psychology/availability-bias.md` · **st:** fixed · **n:** removed duplicate --- footer; added Gap-A ref (*The Art of Thinking Clearly*, Dobelli 2011); added backlinks in confirmation-bias, probabilistic-thinking, anchoring
 - [x] `#57` **Dunning-Kruger** · `Psychology/dunning-kruger.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer, "fund-raizing" typo; 2 Gap-A refs (Schulz 2010, Robson 2019)
 - [x] `#58` **Maslow's Hierarchy of Needs** · `Psychology/maslows-hierarchy-of-needs.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer; fixed broken Maslow link in psychological-safety; added backlink in incentives
-- [ ] `#59` **McClelland's Acquired Needs Theory** · `Psychology/mcclellands-acquired-needs-theory.md` · **st:** todo · **n:** —
+- [x] `#59` **McClelland's Acquired Needs Theory** · `Psychology/mcclellands-acquired-needs-theory.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer; added backlinks in incentives, maslows-hierarchy
 - [ ] `#60` **Max-Neef's Fundamental Human Needs** · `Psychology/max-neefs-fundamental-human-needs.md` · **st:** todo · **n:** —
 - [ ] `#61` **ERG Theory** · `Psychology/erg-theory.md` · **st:** todo · **n:** —
 - [ ] `#101` **Trust** · `Psychology/trust.md` · **st:** todo · **n:** —

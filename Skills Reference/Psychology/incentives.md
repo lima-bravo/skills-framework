@@ -56,6 +56,7 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Free Rider Problem**](../Economics/free-rider-problem.md) — free riding is an incentive design failure: when contribution is not individually rewarded, the rational actor doesn't contribute.
 → [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — reciprocity is a social incentive that operates independently of formal systems; it often drives collaboration more reliably than financial incentives in relational contexts.
 → [**Maslow's Hierarchy of Needs**](maslows-hierarchy-of-needs.md) — Maslow provides the motivational structure that determines which incentives are active; salary only motivates until lower needs are met.
+→ [**McClelland's Acquired Needs**](mcclellands-acquired-needs-theory.md) — McClelland's three-need framework determines which type of incentive will land: nAch responds to challenge and autonomy, nPow to influence, nAff to belonging.
 
 ## References
 
