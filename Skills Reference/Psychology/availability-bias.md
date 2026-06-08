@@ -46,6 +46,8 @@ A security team is allocating their budget. They've just experienced a phishing 
 → [**Confirmation Bias**](confirmation-bias.md) — both biases filter information through existing beliefs and experience; availability contributes to confirmation (the vivid examples that come to mind are usually consistent with existing beliefs).
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — the antidote to availability bias is explicit base-rate reasoning.
 → [**Anchoring**](anchoring.md) — recent vivid events anchor subsequent probability estimates.
+→ [**Gresham's Law**](../Economics/greshams-law.md) — availability bias amplifies Gresham's Law in information markets: cheap-to-produce, vivid content outcompetes careful analysis when both circulate in the same undifferentiated feed.
+
 ## References
 
 - *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the primary accessible treatment of availability and its distorting effects on probability judgment.

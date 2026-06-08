@@ -46,6 +46,7 @@ Toyota's Production System (Lean manufacturing) is the canonical example of syst
 → [**Bottlenecks**](../Systems/bottlenecks.md) — efficiency is most improved by addressing bottlenecks; improving non-bottleneck steps doesn't improve system efficiency.
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — efficiency improvements face diminishing returns; the easiest gains come early.
 → [**Trade-offs**](trade-offs.md) — the efficiency-resilience trade-off is structural and requires explicit management.
+→ [**Gresham's Law**](greshams-law.md) — Gresham's Law is a market efficiency failure: when quality is not priced, low-quality options systematically displace high-quality ones.
 
 ## References
 

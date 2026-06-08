@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **59**
+- Reviewed (verified + fixed): **60**
 - Flagged: **0**
-- Remaining (todo): **203**
+- Remaining (todo): **202**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -119,7 +119,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#37` **Creative Destruction** · `Economics/creative-destruction.md` · **st:** fixed · **n:** Added blank line before ## References; removed duplicate --- footer; added Gap-A ref (Christensen 1997); backlinks in value-creation-capture.md, second-order-effects.md.
 - [x] `#38` **Bubbles** · `Economics/bubbles.md` · **st:** fixed · **n:** Fixed 2× "rizing" typo; added blank line before ## References; removed duplicate --- footer; backlinks in feedback-loops.md, regression-to-the-mean.md, incentives.md.
 - [x] `#39` **Interdependence** · `Economics/interdependence.md` · **st:** fixed · **n:** Added blank line before ## References; removed duplicate --- footer; added Gap-A ref (Smith 1776); backlinks in second-order-effects.md, feedback-loops.md, emergence.md.
-- [ ] `#40` **Gresham's Law** · `Economics/greshams-law.md` · **st:** todo · **n:** —
+- [x] `#40` **Gresham's Law** · `Economics/greshams-law.md` · **st:** fixed · **n:** Added blank line before ## References; removed duplicate --- footer; backlinks in efficiency.md, availability-bias.md.
 - [ ] `#120` **Goodhart's Law** · `Economics/goodharts-law.md` · **st:** todo · **n:** —
 - [ ] `#121` **Principal–Agent Problem** · `Economics/principal-agent-problem.md` · **st:** todo · **n:** —
 - [ ] `#216` **Unit Economics** · `Economics/unit-economics.md` · **st:** todo · **n:** —
