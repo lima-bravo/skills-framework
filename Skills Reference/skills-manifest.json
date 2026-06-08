@@ -5783,6 +5783,39 @@
           "color": "#9333EA"
         }
       ]
+    },
+    {
+      "title": "The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process",
+      "authorYear": "Lee Ross (1977), Advances in Experimental Social Psychology Vol. 10",
+      "skills": [
+        {
+          "id": 200,
+          "name": "Fundamental Attribution Error",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "The Person and the Situation: Perspectives of Social Psychology",
+      "authorYear": "Lee Ross & Richard E. Nisbett (1991)",
+      "skills": [
+        {
+          "id": 200,
+          "name": "Fundamental Attribution Error",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "The Culture Code: The Secrets of Highly Successful Groups",
+      "authorYear": "Daniel Coyle (2018)",
+      "skills": [
+        {
+          "id": 200,
+          "name": "Fundamental Attribution Error",
+          "color": "#9333EA"
+        }
+      ]
     }
   ]
 }

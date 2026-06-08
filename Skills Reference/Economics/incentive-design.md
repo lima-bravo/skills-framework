@@ -56,6 +56,7 @@ A support team is measured on tickets closed per day. Close rates rise; customer
 → [**Nash Equilibrium**](nash-equilibrium.md) — the goal of incentive design is to make the individually rational equilibrium the collectively desirable one
 → [**Self-Determination Theory**](../Psychology/self-determination-theory.md) — intrinsic motivation and crowding-out effects set the boundary conditions for what extrinsic incentive structures can achieve
 → [**Systems Thinking**](../Systems/systems-thinking.md) — incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
+→ [**Fundamental Attribution Error**](../Psychology/fundamental-attribution-error.md) — FAE leads to redesigning the person rather than the incentive structure; recognising the situational lens is what makes incentive design the right intervention
 
 ## References
 

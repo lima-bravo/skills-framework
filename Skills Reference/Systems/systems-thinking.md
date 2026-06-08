@@ -56,6 +56,7 @@ A software team faces growing bug counts. The linear fix: add QA headcount. Bug 
 → [**Path Dependence**](path-dependence.md) — history constrains a system's current behavior through its structural evolution, not its components' independent choices
 → [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — systems thinking provides the causal map for tracing second and higher-order effects across a system's structure
 → [**Incentive Design**](../Economics/incentive-design.md) — incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
+→ [**Fundamental Attribution Error**](../Psychology/fundamental-attribution-error.md) — the antidote to FAE at scale; systems thinking makes situational forces legible where individual observation only sees the person
 
 ## References
 

@@ -13,9 +13,13 @@ The phenomenon was identified by social psychologist Lee Ross in 1977, who descr
 
 A related concept, the Actor-Observer Asymmetry, captures the same dynamic: as an actor in a situation you see the constraints bearing down on you; as an observer watching someone else, you see the person more than the situation. The FAE is what you get when you act on the observer's perspective without correcting for it.
 
+---
+
 ## Mental Model
 
 Imagine two spotlights on a stage. One illuminates the performer; the other, dimmer and rarely switched on, illuminates the stage itself — the set, the missing cue, the malfunctioning prop. Audiences mostly watch the performer. When something goes wrong, the performer is visible and the broken stage machinery is not. The fundamental attribution error is consistently forgetting to turn on the second spotlight. When you're the performer, you feel the broken stage under your feet; you can't understand why the audience is blaming you.
+
+---
 
 ## Practitioner Heuristics
 
@@ -24,6 +28,8 @@ Imagine two spotlights on a stage. One illuminates the performer; the other, dim
 - **When someone misses an expectation, ask "what got in the way?" before "why didn't they try harder?"** The framing of the question shapes the answer you'll receive.
 - **Apply the FAE correction to praise too.** If you attribute a team's success entirely to their quality, you may fail to replicate conditions that made success possible — the good manager, the clear brief, the realistic timeline.
 - **Watch for FAE in hiring and firing.** Firing someone for a behaviour that your system reliably produces will change the name on the desk, not the outcome.
+
+---
 
 ## Common Failure Modes
 
@@ -35,6 +41,8 @@ Imagine two spotlights on a stage. One illuminates the performer; the other, dim
 
 **Feedback that doesn't land.** Feedback framed as character diagnosis ("you're not detail-oriented") triggers defensiveness. The recipient experiences their situation; the feedback diagnoses their essence. Situational reframes ("this process doesn't have a checkpoint that would catch these errors") are more actionable and less threatening.
 
+---
+
 ## Worked Example
 
 A sales team consistently underperforms against targets in a particular region. The regional manager attributes this to the team: they're not hungry enough, they're complacent, they need replacing. Two team members are let go and new hires brought in. Performance doesn't improve.
@@ -42,6 +50,8 @@ A sales team consistently underperforms against targets in a particular region. 
 A consultant runs a situational audit. She finds: (1) the region's CRM territory assignments contain overlaps that create internal conflict over accounts; (2) the product pricing in the region is 15% above the competitive midpoint with no local discounting authority; (3) the commission structure rewards volume but the region's accounts skew large and slow-moving. Three situational factors are suppressing performance that no amount of personnel change can fix.
 
 The FAE led the manager to replace the person rather than redesign the system. The situational audit reveals that even exceptional salespeople would struggle in these conditions — the stage itself was broken.
+
+---
 
 ## Connections
 
@@ -54,12 +64,10 @@ The FAE led the manager to replace the person rather than redesign the system. T
 
 ## References
 
-- Ross, L. (1977) "The intuitive psychologist and his shortcomings" — *Advances in Experimental Social Psychology*
-- *The Person and the Situation* — Lee Ross & Richard Nisbett, 1991
-- *Thinking, Fast and Slow* — Daniel Kahneman, 2011
-- *The Culture Code* — Daniel Coyle, 2018
-
----
+- *"The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process"* — Lee Ross (1977), *Advances in Experimental Social Psychology*, Vol. 10 — the founding paper that named the bias and established it as the central error in social perception.
+- *The Person and the Situation: Perspectives of Social Psychology* — Lee Ross & Richard E. Nisbett (1991) — the definitive extended treatment: when situations dominate personality in predicting behaviour, and the practical implications for judgement.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science account of why FAE is automatic: System 1 reads people readily and situations only with deliberate effort.
+- *The Culture Code: The Secrets of Highly Successful Groups* — Daniel Coyle (2018) — shows how high-performing teams actively counteract FAE through safety-building rituals that make situational factors discussable rather than attributed to individuals.
 
 ---
 
