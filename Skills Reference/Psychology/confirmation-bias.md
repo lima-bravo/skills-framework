@@ -58,6 +58,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Divergent and Convergent Thinking**](../General-Thinking/divergent-and-convergent-thinking.md) — confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely.
 → [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — confirmation bias is the individual-level mechanism that sustains normal science; paradigm-shift theory explains the systemic result when enough practitioners individually suppress the same anomalies.
 → [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — the completeness trap and quality-anxiety violations are driven by motivated reasoning; Grice's Quality maxim requires confidence calibration, not just accuracy.
+→ [**Availability Bias**](../Psychology/availability-bias.md) — availability bias feeds confirmation bias: the vivid examples that come to mind first are usually consistent with existing beliefs, reinforcing rather than challenging them.
 
 ## References
 

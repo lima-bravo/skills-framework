@@ -52,9 +52,7 @@ A security team is allocating their budget. They've just experienced a phishing 
 
 - *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the primary accessible treatment of availability and its distorting effects on probability judgment.
 - *Judgment under Uncertainty: Heuristics and Biases* — Amos Tversky & Daniel Kahneman, Science Vol. 185 (1974) — the original paper naming the availability heuristic.
-
-
----
+- *The Art of Thinking Clearly* — Rolf Dobelli (2011) — catalogues availability bias alongside related heuristics with practitioner-facing examples from business and daily decisions.
 
 ---
 
