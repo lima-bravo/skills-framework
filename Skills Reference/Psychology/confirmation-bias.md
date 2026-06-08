@@ -63,9 +63,7 @@ A product manager is convinced a feature she has championed will improve retenti
 
 - *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the treatment of how System 1 generates confirmatory interpretations before System 2 can question them.
 - *The Demon-Haunted World: Science as a Candle in the Dark* — Carl Sagan (1995) — the scientific reasoning complement: how to design inquiry that can falsify rather than confirm.
-
-
----
+- *The Intelligence Trap* — David Robson (2019) — examines why intelligence amplifies rather than prevents motivated reasoning; smart people construct better justifications for beliefs they already hold, making confirmation bias harder to detect.
 
 ---
 

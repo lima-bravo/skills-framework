@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **85**
+- Reviewed (verified + fixed): **86**
 - Flagged: **0**
-- Remaining (todo): **177**
+- Remaining (todo): **176**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -151,7 +151,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#52` **Loss Aversion** · `Psychology/loss-aversion.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer; backlink added in inversion.md (fixed its duplicate footer too)
 - [x] `#53` **Sunk Cost** · `Psychology/sunk-cost.md` · **st:** fixed · **n:** duplicate --- footer, Gap-A ref (Misbehaving); backlinks in trade-offs/inversion; connection count 1046→1047
 - [x] `#54` **Anchoring** · `Psychology/anchoring.md` · **st:** fixed · **n:** "raizing"→"raising" typo, duplicate --- footer, Gap-A ref (Predictably Irrational); backlink in probabilistic-thinking
-- [ ] `#55` **Confirmation Bias** · `Psychology/confirmation-bias.md` · **st:** todo · **n:** —
+- [x] `#55` **Confirmation Bias** · `Psychology/confirmation-bias.md` · **st:** fixed · **n:** removed duplicate --- footer; fixed manifest year (*Demon-Haunted World* 1996→1995); added Gap-A ref (*The Intelligence Trap*, Robson 2019)
 - [ ] `#56` **Availability Bias** · `Psychology/availability-bias.md` · **st:** todo · **n:** —
 - [ ] `#57` **Dunning-Kruger** · `Psychology/dunning-kruger.md` · **st:** todo · **n:** —
 - [ ] `#58` **Maslow's Hierarchy of Needs** · `Psychology/maslows-hierarchy-of-needs.md` · **st:** todo · **n:** —
