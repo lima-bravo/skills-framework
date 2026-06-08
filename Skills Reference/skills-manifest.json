@@ -5903,6 +5903,28 @@
           "color": "#9333EA"
         }
       ]
+    },
+    {
+      "title": "On the Psychology of Prediction",
+      "authorYear": "Daniel Kahneman & Amos Tversky (1973), Psychological Review 80(4)",
+      "skills": [
+        {
+          "id": 206,
+          "name": "Base Rate Neglect",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "From Nobel Prize to Project Management: Getting Risks Right",
+      "authorYear": "Bent Flyvbjerg (2006), Project Management Journal 37(3)",
+      "skills": [
+        {
+          "id": 206,
+          "name": "Base Rate Neglect",
+          "color": "#9333EA"
+        }
+      ]
     }
   ]
 }

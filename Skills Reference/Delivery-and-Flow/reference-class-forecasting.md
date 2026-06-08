@@ -50,6 +50,7 @@ A regional bank plans a core banking modernization. The internal estimate is 24 
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — the buffer RCF justifies in scope, cost, and time.
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — RCF is base-rate, outside-view probabilistic thinking applied to projects.
 → [**Calibration**](../General-Thinking/calibration.md) — reference class forecasting is the operational technique for anchoring on base rates; calibration is why the technique produces better estimates than inside-view reasoning.
+→ [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the cognitive bias RCF directly corrects: ignoring the distributional track record of similar cases in favour of the vivid specifics of the one in front of you.
 
 ---
 

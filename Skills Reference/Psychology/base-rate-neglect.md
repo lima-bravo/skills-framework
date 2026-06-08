@@ -13,9 +13,13 @@ The phenomenon was documented rigorously by Kahneman and Tversky in their work o
 
 The correction is explicit reference class forecasting: before reasoning from the specific case, ask what the typical outcome is for cases that look like this one. This does not eliminate individual assessment — it anchors it. Individual factors then shift the estimate up or down from the base rate rather than replacing it entirely.
 
+---
+
 ## Mental Model
 
 Imagine estimating the height of a stranger approaching from a distance, before you can see clearly. The base rate is: average adult height is roughly 170cm. As they get closer, specific cues (long legs, upright posture) might shift your estimate to 180cm. You don't discard the base rate and guess 220cm just because the specific cues are vivid. Base rate neglect in reasoning is exactly this error: discarding the prior distribution because the individual case has become vivid. The base rate is the anchor; specific evidence shifts the anchor. It doesn't replace it.
+
+---
 
 ## Practitioner Heuristics
 
@@ -24,6 +28,8 @@ Imagine estimating the height of a stranger approaching from a distance, before 
 - **Challenge "this time is different" claims explicitly.** When someone argues that a prior base rate doesn't apply, ask them to be specific about which features make this case genuinely different — and how much those features should shift the base rate.
 - **In investment and strategic decisions, build a failure rate into the base assumption.** If the base rate for successful acquisitions of this type is 40%, your prior probability should reflect that before you've assessed any specifics of the deal in front of you.
 - **Present base rates alongside case assessments.** In written analyses and decision memos, lead with the reference class outcome before introducing the specific case argument. This structures the reader's cognition to anchor first, then adjust.
+
+---
 
 ## Common Failure Modes
 
@@ -35,6 +41,8 @@ Imagine estimating the height of a stranger approaching from a distance, before 
 
 **Availability distortion of the base rate.** When a vivid recent success (or failure) is available in memory, people adjust their base rate estimate toward the memorable case rather than the actual distribution. One spectacular recent IPO shifts venture capital base rate intuitions upward; one recent acquisition disaster shifts M&A base rate intuitions downward. Neither adjustment reflects the actual distribution.
 
+---
+
 ## Worked Example
 
 A management team is evaluating a major ERP implementation. The internal team estimates 18 months and £4M. The logic is coherent: scope is clear, vendor is experienced, internal team is capable, executive sponsor is engaged.
@@ -44,6 +52,8 @@ A reference class analysis asks: what is the typical outcome for ERP implementat
 The reference class estimate: 27 months, £5.5M — before any specific assessment of this particular implementation. The team's 18-month, £4M estimate implicitly assumed this implementation would be in the top quartile of historical performance. That assumption needs to be justified, not assumed.
 
 Armed with the base rate, the team can ask the right question: what specific features of this implementation justify placing it in the top quartile? The conversation is now anchored to evidence rather than optimism.
+
+---
 
 ## Connections
 
@@ -57,13 +67,11 @@ Armed with the base rate, the team can ask the right question: what specific fea
 
 ## References
 
-- Kahneman, D. & Tversky, A. (1973) "On the Psychology of Prediction" — *Psychological Review*
-- *Thinking, Fast and Slow* — Daniel Kahneman, 2011
-- *Superforecasting* — Philip Tetlock & Dan Gardner, 2015
-- Flyvbjerg, B. (2006) "From Nobel Prize to Project Management: Getting Risks Right" — *Project Management Journal*
-- *How Big Things Get Done* — Bent Flyvbjerg & Dan Gardner, 2023
-
----
+- *"On the Psychology of Prediction"* — Daniel Kahneman & Amos Tversky (1973), *Psychological Review*, 80(4) — the foundational paper demonstrating that representativeness judgements systematically override base rates; introduced the reference class framework as the correction.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the accessible treatment of base rate neglect as a failure of the representativeness heuristic; includes the inside view / outside view distinction and reference class forecasting.
+- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical study of calibrated forecasting; base rate anchoring is a central discipline of the superforecasters' practice.
+- *"From Nobel Prize to Project Management: Getting Risks Right"* — Bent Flyvbjerg (2006), *Project Management Journal*, 37(3) — demonstrates how reference class forecasting corrects the systematic underestimation that base rate neglect produces in infrastructure and IT projects.
+- *How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project* — Bent Flyvbjerg & Dan Gardner (2023) — the practitioner synthesis: why large projects fail predictably and how outside-view base rates are the primary correction tool.
 
 ---
 

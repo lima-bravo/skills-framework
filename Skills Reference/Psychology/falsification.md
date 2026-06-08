@@ -69,6 +69,7 @@ The falsification-oriented redesign: run a controlled comparison, with explicitl
 → [**Red Teaming**](../Business/red-teaming.md) — the organisational mechanism for structured falsification at scale; red teams are mandated to find disconfirming evidence
 → [**A/B Testing**](../Business/ab-testing.md) — the operational instrument of falsification in product and marketing contexts; the test is designed so that reality, not opinion, settles the question
 → [**Commitment & Consistency Bias**](commitment-consistency-bias.md) — consistency bias is the motivational barrier that falsification must overcome; the discipline of seeking disconfirming evidence runs directly against the pull toward defending prior positions
+→ [**Base Rate Neglect**](base-rate-neglect.md) — base rate anchoring is a form of outside-view challenge to inside-view narratives; both practices discipline against uncritical acceptance of the case in front of you
 
 ## References
 

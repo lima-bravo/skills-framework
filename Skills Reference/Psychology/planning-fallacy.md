@@ -55,6 +55,7 @@ A software team estimates a feature at 3 weeks. Their own reference class — fe
 → [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — cascading dependencies and rework are the most commonly ignored planning costs
 → [**Deep Work / Cognitive Capacity**](../Learning/deep-work.md) — plans assuming 8 productive hours per day compound the planning fallacy
 → [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — exceptional early velocity regresses; plans that extrapolate it are doubly wrong
+→ [**Base Rate Neglect**](base-rate-neglect.md) — one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
 
 ## References
 
