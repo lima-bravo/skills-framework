@@ -46,6 +46,7 @@ Shell is the canonical case for a reason. In the early 1970s its planners, rathe
 → [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — each scenario must include the downstream consequences of primary shifts
 → [**Theory of Change**](../General-Thinking/theory-of-change.md) — complementary: scenario planning asks what futures are plausible; Theory of Change asks what pathway gets you to the target outcome within any given scenario.
 → [**Black Swan**](../General-Thinking/black-swan.md) — scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use both tools together, not as substitutes.
+→ [**Wardley Mapping**](wardley-mapping.md) — Wardley Maps can be projected forward (where will each component sit in three years?) to generate the alternative futures that scenario planning then stress-tests.
 
 ## References
 

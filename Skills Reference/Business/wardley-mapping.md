@@ -11,11 +11,15 @@ Wardley Mapping is a strategic situational-awareness technique developed by Simo
 
 The technique emerged from Wardley's frustration with strategy tools that described position without movement. A business model canvas tells you what you have; a Wardley Map tells you what is about to change and where the opportunities and threats are forming.
 
+---
+
 ## Mental Model
 
 Imagine a photograph of a river versus a map of the same river showing current direction and speed. The photograph captures the scene; the map shows what will happen next. Traditional strategy tools — value chains, business model canvases, competitive analyses — are photographs. A Wardley Map is closer to the river map: components that sit to the left (Genesis, Custom) are rare, uncertain, and potentially sources of differentiation; components to the right (Product, Commodity) are predictable, replaceable, and should be bought or rented rather than built. The strategic question becomes: what are we building that is already a commodity? What is about to commoditise that we can exploit first? Where is our differentiation actually located, and is it defensible?
 
 The movement principle matters as much as the position: no component stays at Genesis forever. Compute moved from custom-built (mainframes) to product (servers) to commodity (cloud). Each transition creates a wave of disruption: those who treat a commoditising component as a source of differentiation get stranded; those who anticipate the transition and build on the commodity gain leverage.
+
+---
 
 ## Practitioner Heuristics
 
@@ -25,6 +29,8 @@ The movement principle matters as much as the position: no component stays at Ge
 - **Identify the components about to move.** Components shift from Custom to Product when vendors emerge; from Product to Commodity when supply becomes abundant and undifferentiated. Being early in that transition — either exploiting the new commodity or building the platform that rides it — is a strategic position.
 - **Use the map to make build/buy/partner decisions explicit.** For each component: if it is Commodity, use it; if Product, buy the best; if Custom, evaluate carefully; if Genesis, build only if it is core to your differentiation. Having this conversation with a map on the table changes it from opinion to evidence.
 - **Expect disagreement about position.** The act of positioning components surfaces real strategic disagreements. Two people who place "our data platform" at different points on the evolution axis are expressing a substantive disagreement about whether it is a source of differentiation. The map makes that conversation explicit.
+
+---
 
 ## Common Failure Modes
 
@@ -38,6 +44,8 @@ The movement principle matters as much as the position: no component stays at Ge
 
 **Mapping alone.** The value of a Wardley Map is amplified by the disagreements it surfaces. A map built by one person in a quiet room misses the organisational sense-making that is the technique's most durable output.
 
+---
+
 ## Worked Example
 
 A financial services firm is deciding whether to build a proprietary data platform or adopt a cloud-native alternative. The internal argument: "our data is unique, our processing needs are complex, this is core IP." A Wardley Map of the firm's customer analytics capability surfaces the structure:
@@ -48,6 +56,8 @@ A financial services firm is deciding whether to build a proprietary data platfo
 Plotting these on the evolution axis: the app is Custom (differentiating); the ML engine is mid-Product (multiple vendors, open-source alternatives mature); the feature pipeline is Custom-to-Product (several managed services emerging); storage and compute are Commodity (cloud, obviously). The map makes visible that 70% of the team's engineering effort sits at Product and Commodity — bought work, not built work. The "core IP" argument applies only to the ML engine and specific features of the recommendation logic, not to the infrastructure.
 
 Decision: adopt cloud-native data platform and managed ML tooling; redirect 60% of platform engineering to the recommendation layer where differentiation actually exists. Eighteen months later, model quality improves substantially because the team is working on the right problem.
+
+---
 
 ## Connections
 
@@ -62,12 +72,8 @@ Decision: adopt cloud-native data platform and managed ML tooling; redirect 60% 
 
 ## References
 
-- Wardley, S. (2016) *Wardley Maps* — available at medium.com/wardleymaps and learnwardleymapping.com
-- Wardley, S. (2020) *Finding a Path* — Chapter series, Bits or Pieces blog
-- Moesta, B. & Spiek, C. (2014) — complementary framing on user-need anchoring
-- *The Art of War* — Sun Tzu; cited by Wardley as the source of his situational-awareness emphasis
-
----
+- *Wardley Maps* — Simon Wardley (2016), available free at medium.com/wardleymaps and leanpub.com/wardley-maps — the source text for the technique; 19 chapters covering the evolution axis, climatic patterns, doctrine, and strategic gameplay. Published under Creative Commons Attribution-ShareAlike 4.0.
+- *The Art of War* — Sun Tzu (c. 500 BCE) — Wardley cites this as the foundational reference for situational awareness as the precondition of strategy; the core principle that no two battles are won the same way, and that the commander who reads the terrain wins before the battle is joined.
 
 ---
 

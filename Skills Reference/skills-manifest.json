@@ -6007,6 +6007,28 @@
           "color": "#9333EA"
         }
       ]
+    },
+    {
+      "title": "Wardley Maps",
+      "authorYear": "Simon Wardley (2016)",
+      "skills": [
+        {
+          "id": 210,
+          "name": "Wardley Mapping",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Art of War",
+      "authorYear": "Sun Tzu (c. 500 BCE)",
+      "skills": [
+        {
+          "id": 210,
+          "name": "Wardley Mapping",
+          "color": "#475569"
+        }
+      ]
     }
   ]
 }
