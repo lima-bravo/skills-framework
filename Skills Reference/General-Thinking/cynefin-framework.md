@@ -63,6 +63,7 @@ A bank rolls out a process-improvement methodology that worked beautifully in it
 → [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — classifying the domain is itself part of the diagnostic move: a "current-state" question can be Complicated (analysable, as in the worked example) or Complex (requiring probes before any diagnosis can be trusted), and a fact base should say which
 → [**Causal Analysis**](causal-analysis.md) — Cynefin identifies which causal mode is appropriate: Complicated domains suit 5 Whys or fishbone; Complex domains require causal loop analysis because the cause-and-effect relationship is a feedback structure, not a chain.
 → [**Paradigm Shift**](paradigm-shift.md) — normal science operates in Clear and Complicated domains where methods are settled; paradigm crisis often signals that a domain has become Complex and the existing methods have lost their predictive validity.
+→ [**SRK Framework**](../Psychology/srk-framework.md) — Cynefin prescribes which response mode a domain calls for; SRK explains the cognitive mechanics underneath: rule-based performance in Complicated domains, knowledge-based reasoning when the domain is Complex or novel.
 
 ## References
 

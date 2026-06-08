@@ -64,6 +64,7 @@ A marketing director briefs a campaign team with a full task list and a fixed ch
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — a useful post-briefing discipline: having set the intent, imagine the plan has failed — does the team's understanding of purpose and end state give them enough to recover?
 → [**After-Action Review**](after-action-review.md) — the AAR closes the loop on the intent: the first question (what was supposed to happen) is the test of whether the intent was clear enough to be remembered
 → [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — a Leader's Intent is a direct application of the Maxims: Quantity (purpose + key tasks + end state — no more), Relation (no method, only what guides judgment), Manner (short enough to recall under pressure)
+→ [**SRK Framework**](../Psychology/srk-framework.md) — intent-based leadership works partly because it grants teams permission to apply knowledge-based reasoning in novel situations rather than waiting for rule-based authorisation that the situation may not accommodate.
 
 ## References
 

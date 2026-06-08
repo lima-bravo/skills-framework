@@ -746,7 +746,7 @@
     },
     "Economics/principal-agent-problem.md": {
       "id": 121,
-      "name": "Principal–Agent Problem",
+      "name": "Principal\u2013Agent Problem",
       "category": "Economics",
       "color": "#16A34A"
     },
@@ -926,7 +926,7 @@
     },
     "Delivery-and-Flow/one-thing.md": {
       "id": 151,
-      "name": "Strategic Prioritization (“One Thing”)",
+      "name": "Strategic Prioritization (\u201cOne Thing\u201d)",
       "category": "Delivery & Flow",
       "color": "#0891B2"
     },
@@ -1633,7 +1633,7 @@
       ]
     },
     {
-      "title": "A Theory of Human Motivation — Psychological Review Vol. 50",
+      "title": "A Theory of Human Motivation \u2014 Psychological Review Vol. 50",
       "authorYear": "Abraham H. Maslow (1943)",
       "skills": [
         {
@@ -1972,7 +1972,7 @@
     },
     {
       "title": "Clear and Simple as the Truth",
-      "authorYear": "Francis-Noël Thomas & Mark Turner (1994)",
+      "authorYear": "Francis-No\u00ebl Thomas & Mark Turner (1994)",
       "skills": [
         {
           "id": 93,
@@ -2133,7 +2133,7 @@
     },
     {
       "title": "Daring Greatly",
-      "authorYear": "Brené Brown (2012)",
+      "authorYear": "Bren\u00e9 Brown (2012)",
       "skills": [
         {
           "id": 104,
@@ -2207,7 +2207,7 @@
     },
     {
       "title": "Discourse on the Method",
-      "authorYear": "René Descartes (1637)",
+      "authorYear": "Ren\u00e9 Descartes (1637)",
       "skills": [
         {
           "id": 0,
@@ -2245,7 +2245,7 @@
     },
     {
       "title": "Elements of Pure Economics",
-      "authorYear": "Léon Walras (1874)",
+      "authorYear": "L\u00e9on Walras (1874)",
       "skills": [
         {
           "id": 20,
@@ -2277,7 +2277,7 @@
       ]
     },
     {
-      "title": "Exploration and Exploitation in Organizational Learning — Organization Science Vol. 2",
+      "title": "Exploration and Exploitation in Organizational Learning \u2014 Organization Science Vol. 2",
       "authorYear": "James G. March (1991)",
       "skills": [
         {
@@ -2384,7 +2384,7 @@
       ]
     },
     {
-      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "title": "G\u00f6del, Escher, Bach: An Eternal Golden Braid",
       "authorYear": "Douglas R. Hofstadter (1979)",
       "skills": [
         {
@@ -2455,7 +2455,7 @@
     },
     {
       "title": "How to Solve It",
-      "authorYear": "George Pólya (1945)",
+      "authorYear": "George P\u00f3lya (1945)",
       "skills": [
         {
           "id": 76,
@@ -2636,7 +2636,7 @@
       ]
     },
     {
-      "title": "Judgment under Uncertainty: Heuristics and Biases — Science Vol. 185",
+      "title": "Judgment under Uncertainty: Heuristics and Biases \u2014 Science Vol. 185",
       "authorYear": "Daniel Kahneman & Amos Tversky (1974)",
       "skills": [
         {
@@ -3091,7 +3091,7 @@
         },
         {
           "id": 121,
-          "name": "Principal–Agent Problem",
+          "name": "Principal\u2013Agent Problem",
           "color": "#16A34A"
         }
       ]
@@ -3634,7 +3634,7 @@
       ]
     },
     {
-      "title": "The Cost of Interrupted Work: More Speed and Stress — CHI Proceedings",
+      "title": "The Cost of Interrupted Work: More Speed and Stress \u2014 CHI Proceedings",
       "authorYear": "Gloria Mark, Daniela Gudith & Ulrich Klocke (2008)",
       "skills": [
         {
@@ -3912,7 +3912,7 @@
       "skills": [
         {
           "id": 121,
-          "name": "Principal–Agent Problem",
+          "name": "Principal\u2013Agent Problem",
           "color": "#16A34A"
         },
         {
@@ -4392,7 +4392,7 @@
     },
     {
       "title": "The Strategy and Tactics of Pricing",
-      "authorYear": "Thomas T. Nagle & Georg Müller (2018)",
+      "authorYear": "Thomas T. Nagle & Georg M\u00fcller (2018)",
       "skills": [
         {
           "id": 94,
@@ -4684,7 +4684,7 @@
       ]
     },
     {
-      "title": "Toward a Theory of Stakeholder Identification and Salience — AMR Vol. 22 No. 4",
+      "title": "Toward a Theory of Stakeholder Identification and Salience \u2014 AMR Vol. 22 No. 4",
       "authorYear": "R.K. Mitchell, B.R. Agle & D.J. Wood (1997)",
       "skills": [
         {
@@ -5472,7 +5472,7 @@
     },
     {
       "title": "The Autobiography of Benjamin Franklin",
-      "authorYear": "Benjamin Franklin (written 1771–1790; published 1791)",
+      "authorYear": "Benjamin Franklin (written 1771\u20131790; published 1791)",
       "skills": [
         {
           "id": 88,
@@ -5641,7 +5641,7 @@
       ]
     },
     {
-      "title": "Risk Management in a Dynamic Society: A Modelling Problem — Safety Science Vol. 27",
+      "title": "Risk Management in a Dynamic Society: A Modelling Problem \u2014 Safety Science Vol. 27",
       "authorYear": "Jens Rasmussen (1997)",
       "skills": [
         {
@@ -5681,6 +5681,11 @@
           "id": 208,
           "name": "Drift to Failure",
           "color": "#0D9488"
+        },
+        {
+          "id": 207,
+          "name": "SRK Framework",
+          "color": "#9333EA"
         }
       ]
     },
@@ -5690,7 +5695,7 @@
       "skills": [
         {
           "id": 121,
-          "name": "Principal–Agent Problem",
+          "name": "Principal\u2013Agent Problem",
           "color": "#16A34A"
         }
       ]
@@ -5828,7 +5833,7 @@
       ]
     },
     {
-      "title": "Hindsight ≠ Foresight: The Effect of Outcome Knowledge on Judgment Under Uncertainty",
+      "title": "Hindsight \u2260 Foresight: The Effect of Outcome Knowledge on Judgment Under Uncertainty",
       "authorYear": "Baruch Fischhoff (1975), Journal of Experimental Psychology: Human Perception and Performance 1(3)",
       "skills": [
         {
@@ -5922,6 +5927,39 @@
         {
           "id": 206,
           "name": "Base Rate Neglect",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "\"Skills, Rules, and Knowledge; Signals, Signs, and Symbols, and Other Distinctions in Human Performance Models\"",
+      "authorYear": "Jens Rasmussen (1983)",
+      "skills": [
+        {
+          "id": 207,
+          "name": "SRK Framework",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Human Error",
+      "authorYear": "James Reason (1990)",
+      "skills": [
+        {
+          "id": 207,
+          "name": "SRK Framework",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-Based Work",
+      "authorYear": "Kim J. Vicente (1999)",
+      "skills": [
+        {
+          "id": 207,
+          "name": "SRK Framework",
           "color": "#9333EA"
         }
       ]
