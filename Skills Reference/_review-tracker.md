@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **92**
+- Reviewed (verified + fixed): **93**
 - Flagged: **0**
-- Remaining (todo): **170**
+- Remaining (todo): **169**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -158,7 +158,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#59` **McClelland's Acquired Needs Theory** · `Psychology/mcclellands-acquired-needs-theory.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer; added backlinks in incentives, maslows-hierarchy
 - [x] `#60` **Max-Neef's Fundamental Human Needs** · `Psychology/max-neefs-fundamental-human-needs.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer; added backlinks in maslows-hierarchy, incentives (new edge → 1048)
 - [x] `#61` **ERG Theory** · `Psychology/erg-theory.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer; added backlinks in incentives, mcclellands (new edge → 1049)
-- [ ] `#101` **Trust** · `Psychology/trust.md` · **st:** todo · **n:** —
+- [x] `#101` **Trust** · `Psychology/trust.md` · **st:** fixed · **n:** 3 broken links (Incentives, PsychSafety, LossAversion); header spacing; 2 Gap-A refs (Putnam 2000, Brown 2012); backlinks in incentives, loss-aversion, psychological-safety
 - [ ] `#104` **Psychological Safety** · `Psychology/psychological-safety.md` · **st:** todo · **n:** —
 - [ ] `#115` **Planning Fallacy** · `Psychology/planning-fallacy.md` · **st:** todo · **n:** —
 - [ ] `#167` **Immunity to Change** · `Psychology/immunity-to-change.md` · **st:** todo · **n:** —

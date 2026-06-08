@@ -45,7 +45,7 @@ Google's Project Aristotle studied 180 teams to identify what made teams effecti
 
 ## Connections
 
-→ **Trust** — psychological safety is the team-level expression of trust; it requires individual trust but also a collectively shared understanding of team norms.
+→ [**Trust**](trust.md) — psychological safety is the team-level expression of trust; it requires individual trust but also a collectively shared understanding of team norms.
 → **Incentives** — incentive structures that punish failure or reward concealment directly undermine psychological safety regardless of stated cultural values.
 → **Feedback Loops** — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound.
 → **Dunning-Kruger** — low psychological safety amplifies Dunning-Kruger effects at the team level: overconfident members are not challenged, and uncertain members don't contribute their knowledge.

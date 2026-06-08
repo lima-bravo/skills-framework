@@ -1,7 +1,7 @@
 # Trust
 *The willingness to be vulnerable to another's actions, based on the expectation they will act in your interest.*
 
-**Category:** [Psychology](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -45,10 +45,10 @@ A new engineering manager inherits a team that was previously micromanaged. The 
 
 ## Connections
 
-→ **Incentives** — trust and incentives interact bidirectionally: misaligned incentives destroy trust structurally, and low trust drives the demand for more incentive-based control.
+→ [**Incentives**](incentives.md) — trust and incentives interact bidirectionally: misaligned incentives destroy trust structurally, and low trust drives the demand for more incentive-based control.
 → [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — trust is built partly through reciprocal vulnerability; extending trust invites trust in return. Reciprocity is the mechanism; trust is the result.
-→ **Psychological Safety** — psychological safety is the team-level expression of trust: the shared belief that interpersonal risk-taking won't be punished.
-→ **Loss Aversion** — trust violations feel disproportionately large because losses hurt more than equivalent gains. The asymmetry of trust building vs. breaking is a direct consequence of loss aversion.
+→ [**Psychological Safety**](psychological-safety.md) — psychological safety is the team-level expression of trust: the shared belief that interpersonal risk-taking won't be punished.
+→ [**Loss Aversion**](loss-aversion.md) — trust violations feel disproportionately large because losses hurt more than equivalent gains. The asymmetry of trust building vs. breaking is a direct consequence of loss aversion.
 → [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — trust enables the binding commitments that allow players to escape defection equilibria; without it, mutual defection is rational.
 → [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — trust shifts players from bad equilibria (mutual defection) to better ones (mutual cooperation) by making cooperative commitments credible.
 → [**Dunbar's Number**](../Systems/dunbars-number.md) — trust is built relationally within Dunbar limits; above them, it must be institutionalised through transparency, track record, and structural accountability rather than personal relationship.
@@ -56,9 +56,10 @@ A new engineering manager inherits a team that was previously micromanaged. The 
 
 ## References
 
-- *The Speed of Trust: The One Thing That Changes Everything* — Stephen M.R. Covey (2006) — the practitioner framework for building and repairing trust in organizational contexts.
+- *The Speed of Trust: The One Thing That Changes Everything* — Stephen M.R. Covey & Rebecca R. Merrill (2006) — the practitioner framework for building and repairing trust in organizational contexts.
 - *Trust: The Social Virtues and the Creation of Prosperity* — Francis Fukuyama (1995) — the macro-level treatment of trust as social capital and its role in economic performance.
-
+- *Bowling Alone: The Collapse and Revival of American Community* — Robert D. Putnam (2000) — documents the erosion of social capital and institutional trust; essential context for why trust is harder to build at scale.
+- *Daring Greatly* — Brené Brown (2012) — examines vulnerability as the foundation of trust-building; the research basis for why extending trust first is the practitioner's most powerful lever.
 
 ---
 
