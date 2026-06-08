@@ -51,6 +51,7 @@ A city decides to build a new urban highway to reduce commute times (first-order
 → [**Systems Thinking**](../Systems/systems-thinking.md) — systems thinking provides the causal map for tracing second and higher-order effects through a system's feedback structure
 → [**Thought Experiment**](thought-experiment.md) — thought experiments are ideal for tracing second-order chains in controlled, simplified form before applying the reasoning to real systems.
 → [**Causal Analysis**](causal-analysis.md) — causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the diagnostic loop.
+→ [**Creative Destruction**](../Economics/creative-destruction.md) — the second-order effects of a disruption event — on workers, suppliers, and adjacent industries — often dwarf the direct first-order impact.
 
 ## References
 

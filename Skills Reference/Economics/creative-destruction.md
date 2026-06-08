@@ -55,9 +55,7 @@ Kodak invented the digital camera in 1975 and buried the invention because it th
 ## References
 
 - *Capitalism, Socialism and Democracy* — Joseph A. Schumpeter (1942) — the original source of creative destruction as the defining mechanism of capitalist development.
-
-
----
+- *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* — Clayton M. Christensen (1997) — the canonical treatment of why incumbent firms are structurally unable to respond to disruptive innovation; the source of the sustaining versus disruptive distinction.
 
 ---
 

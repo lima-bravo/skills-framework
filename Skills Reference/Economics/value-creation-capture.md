@@ -65,6 +65,7 @@ Strategic options: (1) Sell to payers who bear the readmission cost — direct c
 → [**Disruptive Innovation**](../Business/disruptive-innovation.md) — disruption often involves creating a new value creation/capture pairing that incumbent players can't match without destroying their existing capture mechanism
 → [**Business Model Canvas**](../Business/business-model-canvas.md) — the revenue streams section of the canvas is the capture design; the value proposition section is the creation design; misalignment between the two is the most common business model failure
 → [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — this card explains *why* value capture concentrates where it does at the level of a single firm or transaction; profit pool analysis maps the same dynamic across an entire market or value chain, asking where the capture concentrates system-wide and why
+→ [**Creative Destruction**](creative-destruction.md) — creative destruction reshifts who captures value: new entrants restructure the capture split that incumbents had established.
 
 ---
 
