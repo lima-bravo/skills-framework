@@ -53,14 +53,12 @@ A team is designing a new onboarding flow for a SaaS product. Forward thinking g
 → [**Thought Experiment**](thought-experiment.md) — inversion is one of the most powerful thought-experiment structures; the pre-mortem is the most common organizational form of it.
 → [**Regret Minimization Framework**](regret-minimization-framework.md) — the RMF is inversion applied to life decisions: instead of asking "what should I choose?", ask "which choice would I regret more at 80?"
 → [**Divergent and Convergent Thinking**](divergent-and-convergent-thinking.md) — inversion is a structured divergent technique: approaching the problem from the opposite direction breaks conventional attractors and generates non-obvious possibilities.
+→ [**Loss Aversion**](../Psychology/loss-aversion.md) — framing a decision in loss terms (what you risk losing) is inversion applied to motivation; loss aversion makes this framing more viscerally compelling than gain framing.
 
 ## References
 
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — the primary source for inversion as a practical thinking discipline.
 - *The Great Mental Models Vol. 1: General Thinking Concepts* — Shane Parrish & Rhiannon Beaubien (2019) — includes inversion as a core mental model with worked examples.
-
-
----
 
 ---
 

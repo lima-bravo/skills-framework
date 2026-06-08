@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **82**
+- Reviewed (verified + fixed): **83**
 - Flagged: **0**
-- Remaining (todo): **180**
+- Remaining (todo): **179**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -148,7 +148,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Psychology (26)
 
 - [x] `#51` **Incentives** · `Psychology/incentives.md` · **st:** fixed · **n:** structural fixes applied in prior pass; backlink added in feedback-loops.md; all other 11 connected cards already had backlinks
-- [ ] `#52` **Loss Aversion** · `Psychology/loss-aversion.md` · **st:** todo · **n:** —
+- [x] `#52` **Loss Aversion** · `Psychology/loss-aversion.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer; backlink added in inversion.md (fixed its duplicate footer too)
 - [ ] `#53` **Sunk Cost** · `Psychology/sunk-cost.md` · **st:** todo · **n:** —
 - [ ] `#54` **Anchoring** · `Psychology/anchoring.md` · **st:** todo · **n:** —
 - [ ] `#55` **Confirmation Bias** · `Psychology/confirmation-bias.md` · **st:** todo · **n:** —
