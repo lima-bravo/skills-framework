@@ -55,6 +55,7 @@ A company decides to shift from annual to quarterly planning cycles. The change 
 
 - *Principia Mathematica* — Isaac Newton (1687) — Newton's first law: the original statement of inertia.
 - *Good Strategy Bad Strategy: The Difference and Why It Matters* — Richard Rumelt (2011) — organizational inertia as a core strategic obstacle.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — System 1 thinking as cognitive inertia: the mind's default mode continues prior patterns automatically; overriding it requires the deliberate activation energy of System 2.
 
 ---
 
