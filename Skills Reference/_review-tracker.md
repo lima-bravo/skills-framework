@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **95**
+- Reviewed (verified + fixed): **96**
 - Flagged: **0**
-- Remaining (todo): **167**
+- Remaining (todo): **166**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -161,7 +161,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#101` **Trust** · `Psychology/trust.md` · **st:** fixed · **n:** 3 broken links (Incentives, PsychSafety, LossAversion); header spacing; 2 Gap-A refs (Putnam 2000, Brown 2012); backlinks in incentives, loss-aversion, psychological-safety
 - [x] `#104` **Psychological Safety** · `Psychology/psychological-safety.md` · **st:** fixed · **n:** 3 broken links (Incentives, FeedbackLoops, DunningKruger); header spacing; Gap-A ref (Brown 2012); backlinks in incentives, feedback-loops, dunning-kruger
 - [x] `#115` **Planning Fallacy** · `Psychology/planning-fallacy.md` · **st:** fixed · **n:** full structural rebuild (5 missing --- separators, wrong footer, refs misplaced); wrong Flyvbjerg co-authors fixed; Gap-A ref (Kahneman & Tversky 1974); 6 backlinks added
-- [ ] `#167` **Immunity to Change** · `Psychology/immunity-to-change.md` · **st:** todo · **n:** —
+- [x] `#167` **Immunity to Change** · `Psychology/immunity-to-change.md` · **st:** fixed · **n:** spurious --- before refs removed; Theory of Change wrong path fixed; cobra-effect wrong path fixed; 2 Gap-B2 refs added to manifest (267→269); 5 backlinks added
 - [ ] `#192` **Self-Determination Theory** · `Psychology/self-determination-theory.md` · **st:** todo · **n:** —
 - [ ] `#199` **Survivorship Bias** · `Psychology/survivorship-bias.md` · **st:** todo · **n:** —
 - [ ] `#200` **Fundamental Attribution Error** · `Psychology/fundamental-attribution-error.md` · **st:** todo · **n:** —

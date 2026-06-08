@@ -52,6 +52,7 @@ Google's Project Aristotle studied 180 teams to identify what made teams effecti
 → [**Maslow's Hierarchy of Needs**](maslows-hierarchy-of-needs.md) — safety is a foundational need in Maslow's hierarchy; at the team level, psychological safety is the precondition for the belonging, esteem, and self-actualization that drive engagement.
 → [**Dunbar's Number**](../Systems/dunbars-number.md) — psychological safety is a relational property that operates naturally within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour rather than assumed.
 → [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — low psychological safety amplifies the principal-agent gap: agents who fear consequences optimise for appearance rather than outcomes, making the misalignment structural.
+→ [**Immunity to Change**](immunity-to-change.md) — psychological safety is the precondition under which immunity work becomes possible; without it, counter-commitments stay hidden rather than surfaced and tested.
 
 ## References
 

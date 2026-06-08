@@ -5695,6 +5695,28 @@
           "color": "#0D9488"
         }
       ]
+    },
+    {
+      "title": "Immunity to Change",
+      "authorYear": "Robert Kegan & Lisa Laskow Lahey (2009)",
+      "skills": [
+        {
+          "id": 167,
+          "name": "Immunity to Change",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "How the Way We Talk Can Change the Way We Work",
+      "authorYear": "Robert Kegan & Lisa Laskow Lahey (2001)",
+      "skills": [
+        {
+          "id": 167,
+          "name": "Immunity to Change",
+          "color": "#9333EA"
+        }
+      ]
     }
   ]
 }

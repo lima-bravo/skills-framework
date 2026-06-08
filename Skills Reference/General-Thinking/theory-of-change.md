@@ -50,6 +50,7 @@ A foundation funds a programme to improve youth employment by running CV-writing
 → [**Experiment Design**](../Business/experiment-design.md) — the assumptions are hypotheses; experiments test them
 → [**Scenario Planning**](../Business/scenario-planning.md) — complementary: scenario planning asks what futures are plausible; ToC asks what pathway gets you there
 → [**Change Management**](../Leadership/change-management.md) — Kotter's model is a Theory of Change with embedded assumptions about psychology and organisations
+→ [**Immunity to Change**](../Psychology/immunity-to-change.md) — organizational change theories often miss the immunity layer: the counter-commitments and big assumptions that cause the causal chain to fail even when the logic is sound.
 
 ## References
 

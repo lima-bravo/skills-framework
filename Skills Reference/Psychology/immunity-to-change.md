@@ -48,17 +48,15 @@ A senior partner has been told for three years that they need to delegate more. 
 → [**Psychological Safety**](psychological-safety.md) — the conditions under which immunity work is possible.
 → [**Confirmation Bias**](confirmation-bias.md) — big assumptions persist because we collect evidence for them.
 → [**Ladder of Inference**](../General-Thinking/ladder-of-inference.md) — surfacing the assumption climbs back down the ladder.
-→ [**Theory of Change**](../Business/theory-of-change.md) — organizational change theories often miss the immunity layer.
+→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — organizational change theories often miss the immunity layer.
 → [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — Immunity to Change explains individual-level resistance; the Cobra Effect explains how the change programme architecture itself can sustain the status quo at the organisational level.
 → [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — the individual-level architecture that maps onto organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks.
 
----
-
 ## References
 
-- *Immunity to Change* — Robert Kegan & Lisa Laskow Lahey (2009).
-- *How the Way We Talk Can Change the Way We Work* — Robert Kegan & Lisa Laskow Lahey (2001).
-- *An Everyone Culture* — Robert Kegan & Lisa Laskow Lahey (2016).
+- *Immunity to Change* — Robert Kegan & Lisa Laskow Lahey (2009) — the source text: the four-column immunity map, the role of big assumptions, and the designed experiment as the intervention mechanism.
+- *How the Way We Talk Can Change the Way We Work* — Robert Kegan & Lisa Laskow Lahey (2001) — the earlier framework for surfacing competing commitments through language; the conceptual precursor to the immunity map.
+- *An Everyone Culture* — Robert Kegan & Lisa Laskow Lahey (2016) — applies immunity-to-change principles at the organizational level in deliberately developmental organizations.
 
 ---
 
