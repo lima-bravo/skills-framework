@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **48**
+- Reviewed (verified + fixed): **49**
 - Flagged: **0**
-- Remaining (todo): **214**
+- Remaining (todo): **213**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -105,7 +105,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#235` **Path Dependence** · `Systems/path-dependence.md` · **st:** fixed · **n:** added blank line before References, fixed broken Inertia link (Physics-Chemistry→Physics-and-Chemistry), backlinks in inertia, drift-to-failure, sunk-cost, s-curves, network-effects
 - [x] `#243` **Dunbar's Number** · `Systems/dunbars-number.md` · **st:** fixed · **n:** added blank line before References, fixed 2 broken links (Delivery-Flow→Delivery-and-Flow, organisational→organizational-culture), backlinks in conways-law, organizational-culture, trust, psychological-safety, team-topologies; connection count 1045→1046
 - [x] `#260` **Fixes That Fail** · `Systems/fixes-that-fail.md` · **st:** fixed · **n:** fixed Goodhart link (General-Thinking→Economics), removed stray --- inside Connections, removed dead mental-models.md link (card does not exist); all backlinks already present
-- [ ] `#261` **Systems Thinking** · `Systems/systems-thinking.md` · **st:** todo · **n:** —
+- [x] `#261` **Systems Thinking** · `Systems/systems-thinking.md` · **st:** fixed · **n:** removed stray --- before References, removed duplicate --- footer; all backlinks already present; refs verified
 
 ## Economics (22)
 

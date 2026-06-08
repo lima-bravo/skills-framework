@@ -57,15 +57,11 @@ A software team faces growing bug counts. The linear fix: add QA headcount. Bug 
 → [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — systems thinking provides the causal map for tracing second and higher-order effects across a system's structure
 → [**Incentive Design**](../Economics/incentive-design.md) — incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
 
----
-
 ## References
 
 - *Thinking in Systems: A Primer* — Donella H. Meadows (2008) — the definitive accessible treatment: stocks, flows, feedback loops, and leverage points.
 - *The Fifth Discipline: The Art and Practice of the Learning Organization* — Peter M. Senge (1990; 2nd ed. 2006) — systems thinking as the integrating discipline of organizational learning.
 - *Leverage Points: Places to Intervene in a System* — Donella H. Meadows (1999) — the canonical ranking of intervention effectiveness from least to most powerful.
-
----
 
 ---
 
