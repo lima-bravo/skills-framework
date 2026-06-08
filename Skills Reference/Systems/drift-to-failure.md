@@ -61,6 +61,7 @@ The failure mode: a contractor's credentials are compromised, they access an unr
 → [**Tactical Pause**](../Leadership/tactical-pause.md) — the operational intervention that creates the conditions for drift to become visible before it reaches the boundary
 → [**Organisational Degradation Scan**](../Pre-built-Chains/organisational-degradation-scan.md) — Drift to Failure is the universal precondition for organisational degradation; the scan begins here before examining the specific mechanisms that compound it
 → [**Fixes That Fail**](fixes-that-fail.md) — Fixes That Fail is the mechanism that produces drift: each symptomatic fix relieves the pressure that would force a fundamental solution, allowing the root cause to persist and grow.
+→ [**Path Dependence**](path-dependence.md) — drift and path dependence compound: each drift step increases switching costs, making it progressively harder to reverse course as the system moves toward the risk boundary.
 
 ## References
 

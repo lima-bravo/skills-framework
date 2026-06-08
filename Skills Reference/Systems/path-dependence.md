@@ -50,7 +50,7 @@ The path dependence is severe: decades of integration debt mean that hundreds of
 
 ## Connections
 
-→ [**Inertia**](../Physics-Chemistry/inertia.md) — inertia is resistance to change without structural basis; path dependence is structural lock-in. Both produce resistance but require different interventions.
+→ [**Inertia**](../Physics-and-Chemistry/inertia.md) — inertia is resistance to change without structural basis; path dependence is structural lock-in. Both produce resistance but require different interventions.
 → [**Conway's Law**](../Systems/conways-law.md) — organisational structure creates path dependence in system architecture; the communication paths of the past become the software dependencies of the present.
 → [**Drift to Failure**](../Systems/drift-to-failure.md) — path dependence and drift often compound: the system drifts incrementally in a direction it cannot easily reverse, and each drift step increases switching costs.
 → [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — the antidote to path dependence in decision-making: prefer reversible decisions over irreversible ones, especially early in a system's life.
@@ -58,6 +58,7 @@ The path dependence is severe: decades of integration debt mean that hundreds of
 → [**S-Curves**](../Systems/s-curves.md) — path dependence often locks organisations onto a mature S-curve; platform shifts create new curves where switching cost is temporarily lower.
 → [**Network Effects**](../Network-Effects/network-effects.md) — network effects are the most powerful source of path dependence in markets: the larger an installed base, the higher the switching cost for any individual user or provider.
 → [**Systems Thinking**](systems-thinking.md) — path dependence is a systems property: only visible when you map the full system's structural evolution, not individual component choices
+
 ## References
 
 - *Clio and the Economics of QWERTY* — Paul A. David, American Economic Review Vol. 75 No. 2 (1985) — the landmark paper demonstrating path dependence in technology adoption.

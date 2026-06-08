@@ -49,6 +49,7 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 → [**Power Law**](../Mathematics/power-law.md) — network effects are a primary generative mechanism for power law distributions: preferential attachment produces winner-take-most outcomes.
 → [**Long Tail**](../Economics/long-tail.md) — network effects and Long Tail dynamics compound in platform markets: the network attracts more supply, which deepens the tail, which attracts more demand.
 → [**S-Curves**](../Systems/s-curves.md) — network effects accelerate the growth phase of an S-curve and raise the saturation ceiling, but do not eliminate the S-curve structure.
+→ [**Path Dependence**](../Systems/path-dependence.md) — network effects are the most powerful source of path dependence in markets: the larger the installed base, the higher the switching cost for any individual user or provider.
 
 ## References
 

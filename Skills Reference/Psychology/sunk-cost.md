@@ -46,6 +46,8 @@ A company has spent £2M and two years building a B2B product that has found no 
 → [**Loss Aversion**](loss-aversion.md) — sunk cost fallacy is driven by loss aversion: abandoning the project makes the prior loss "real."
 → [**Inversion**](../General-Thinking/inversion.md) — "if I were starting fresh today" is an inversion of the current position; it removes the sunk cost framing.
 → [**Opportunity Cost**](../Economics/trade-offs.md) — sunk cost blindness prevents people from seeing the opportunity cost of continuing a failing investment.
+→ [**Path Dependence**](../Systems/path-dependence.md) — sunk costs are a primary source of path dependence: the psychology of not wanting to write off prior investment keeps organisations on paths that rational fresh-start analysis would reject.
+
 ## References
 
 - *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the treatment of sunk cost as a consequence of loss aversion and mental accounting.

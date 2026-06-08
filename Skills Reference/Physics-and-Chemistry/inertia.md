@@ -48,6 +48,8 @@ A company decides to shift from annual to quarterly planning cycles. The change 
 → [**Equilibrium**](../Systems/equilibrium.md) — inertia is the mechanism that maintains equilibrium; disrupting equilibrium requires overcoming inertia.
 → [**Activation Energy**](activation-energy.md) — the energy required to overcome inertia and initiate change.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — existing feedback loops embody and perpetuate inertia; changing direction often requires redesigning feedback loops.
+→ [**Path Dependence**](../Systems/path-dependence.md) — path dependence is the structural form of inertia: the system is locked in by its own history, not by simple resistance to change.
+
 ## References
 
 - *Principia Mathematica* — Isaac Newton (1687) — Newton's first law: the original statement of inertia.
