@@ -13,9 +13,13 @@ Popper developed this as a demarcation criterion — a way of distinguishing sci
 
 In organisations, the failure of falsification shows up whenever teams seek evidence that a strategy is working rather than evidence that would force them to conclude it isn't. A market hypothesis that has never been seriously challenged is not validated — it is simply untested. Pilots that are designed to succeed rather than to answer hard questions are a structural failure of falsification.
 
+---
+
 ## Mental Model
 
 Think of your beliefs as bridges, not trophies. A bridge's value lies in its ability to hold weight under stress — not in how polished it looks, how many people admire it, or how many engineers worked on it. The only test that matters is whether it holds up when loaded and shaken. Building more bridges that look good is not the same as validating that any of them are safe. Falsification is the discipline of loading your beliefs and shaking them — before committing to cross them with something important.
+
+---
 
 ## Practitioner Heuristics
 
@@ -24,6 +28,8 @@ Think of your beliefs as bridges, not trophies. A bridge's value lies in its abi
 - **In strategy reviews, ask: "what evidence would tell us this strategy is failing?"** If the room can't answer, the strategy is unfalsifiable and therefore unlearnable.
 - **Use steel-manning before falsification.** First construct the strongest possible version of the opposing view, then test your belief against it. Testing weak versions of opposing arguments doesn't falsify anything meaningful.
 - **Assign a "red team" whose explicit role is to falsify the dominant view.** Red teams only work if they are mandated to find disconfirming evidence, not to balance-test a case that everyone already believes.
+
+---
 
 ## Common Failure Modes
 
@@ -35,6 +41,8 @@ Think of your beliefs as bridges, not trophies. A bridge's value lies in its abi
 
 **Confusing confidence with validation.** Strong internal conviction, widespread team alignment, and encouraging early signals are not falsifying evidence. They are social and emotional states. Teams often mistake the strength of their belief for the strength of their evidence.
 
+---
+
 ## Worked Example
 
 A professional services firm believes its new consulting methodology outperforms competitors in client satisfaction. The evidence: five recent engagements where the methodology was applied all received high satisfaction scores, and three clients specifically praised the structured approach.
@@ -42,6 +50,8 @@ A professional services firm believes its new consulting methodology outperforms
 A falsification-oriented review asks: what evidence would cause us to conclude the methodology doesn't outperform competitors? The answer: if satisfaction scores are not higher than comparable engagements not using the methodology, or if client outcomes (not just satisfaction) don't differ. Comparing the five engagements against a matched control set reveals the satisfaction scores are in line with firm baseline — the methodology isn't moving the needle, or the effect is within noise. The confirming evidence was real; it just wasn't a test.
 
 The falsification-oriented redesign: run a controlled comparison, with explicitly pre-specified thresholds for what counts as positive evidence, before rolling out the methodology firm-wide.
+
+---
 
 ## Connections
 
@@ -61,12 +71,10 @@ The falsification-oriented redesign: run a controlled comparison, with explicitl
 
 ## References
 
-- Popper, K. (1934/1959) *The Logic of Scientific Discovery* — Routledge
-- *Conjectures and Refutations* — Karl Popper, 1963
-- *Superforecasting* — Philip Tetlock & Dan Gardner, 2015
-- *The Lean Startup* — Eric Ries, 2011 (operationalises falsification as validated learning)
-
----
+- *The Logic of Scientific Discovery* — Karl Popper (1934; English trans. 1959) — the foundational text: falsifiability as the criterion that distinguishes scientific claims from non-scientific ones, and the logic of conjecture and refutation.
+- *Conjectures and Refutations: The Growth of Scientific Knowledge* — Karl Popper (1963) — the accessible extension of the falsification principle to intellectual inquiry generally; argues that all genuine knowledge grows through bold conjectures that survive attempts at refutation.
+- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical study of calibration and falsification in practice: how forecasters who commit to specific, falsifiable predictions outperform those who rely on unfalsifiable narrative claims.
+- *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — operationalises falsification as "validated learning": hypotheses are tested against real-world results, and failures are the data, not the setback.
 
 ---
 

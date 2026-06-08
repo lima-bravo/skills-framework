@@ -4141,6 +4141,11 @@
           "id": 3,
           "name": "Occam's Razor",
           "color": "#3B82F6"
+        },
+        {
+          "id": 204,
+          "name": "Falsification",
+          "color": "#9333EA"
         }
       ]
     },
@@ -5857,6 +5862,17 @@
         {
           "id": 203,
           "name": "Narrative Instinct",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Conjectures and Refutations: The Growth of Scientific Knowledge",
+      "authorYear": "Karl Popper (1963)",
+      "skills": [
+        {
+          "id": 204,
+          "name": "Falsification",
           "color": "#9333EA"
         }
       ]

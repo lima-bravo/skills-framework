@@ -58,6 +58,7 @@ A company is about to launch a new pricing model. Pre-mortem: "It is Q4 and the 
 → [**Planning Fallacy**](../Psychology/planning-fallacy.md) — the pre-mortem is the most effective tactical intervention against the planning fallacy: imagining the plan has failed forces engagement with the outside view.
 → [**Hindsight Bias**](../Psychology/hindsight-bias.md) — the pre-mortem proactively creates a written record of uncertainty before the outcome is known, providing the honest baseline that counteracts hindsight bias in later retrospection.
 → [**Narrative Instinct**](../Psychology/narrative-instinct.md) — the pre-mortem deliberately invokes a failure narrative to surface what the success narrative suppresses; it uses narrative instinct against itself.
+→ [**Falsification**](../Psychology/falsification.md) — the pre-mortem applies falsification thinking prospectively: imagining the plan has failed is asking "what evidence would show this doesn't work?"
 
 ## References
 

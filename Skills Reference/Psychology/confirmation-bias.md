@@ -62,6 +62,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Planning Fallacy**](planning-fallacy.md) — the inside view is an exercise in confirmation: estimating from a success scenario filters out the base-rate data that would correct it.
 → [**Immunity to Change**](immunity-to-change.md) — big assumptions persist because confirmation bias collects evidence for them; surfacing the assumption exposes it to disconfirmation.
 → [**Survivorship Bias**](survivorship-bias.md) — both biases filter evidence; survivorship filters by visibility (the dead don't report), confirmation filters by desirability (we seek what we want to believe).
+→ [**Falsification**](falsification.md) — the corrective practice to confirmation bias; where confirmation bias describes the failure mode, falsification is the habit that prevents it.
 
 ## References
 

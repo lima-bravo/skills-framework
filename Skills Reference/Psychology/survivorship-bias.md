@@ -61,6 +61,7 @@ A survivorship-aware analysis would start with all 18 acquisition attempts, code
 → [**Power Law**](../Mathematics/power-law.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is
 → [**Drift to Failure**](../Systems/drift-to-failure.md) — survivorship bias is a primary enabler of drift: the absence of past failure is mistaken for evidence of safety, suppressing corrective action and allowing the system to drift further toward the risk boundary
 → [**Fundamental Attribution Error**](fundamental-attribution-error.md) — combining survivorship bias with FAE produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had
+→ [**Falsification**](falsification.md) — reporting only confirming outcomes is how survivorship bias causes falsification to fail in practice; the graveyard of disconfirming cases is exactly what falsification requires you to look at
 
 ## References
 
