@@ -53,6 +53,7 @@ Netflix's disruption of Blockbuster followed the textbook mechanism. Netflix lau
 → [**Wardley Mapping**](wardley-mapping.md) — Wardley Maps show commoditisation as an evolution axis movement; disruptive innovation is the demand-side story of the same phenomenon Wardley describes from the supply side.
 → [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — Christensen's model applies a Kuhnian structure to competitive dynamics: incumbents are locked in a paradigm (the current business model) that blinds them to the new one taking shape below.
 → [**Adjacent Possible**](../Systems/adjacent-possible.md) — disruption often begins at the adjacent possible of entrants, who are positioned adjacent to innovations that incumbents cannot reach from their current capabilities.
+→ [**Value Creation and Capture**](../Economics/value-creation-capture.md) — disruption often involves creating a new value creation/capture pairing that incumbents cannot match without destroying their existing capture mechanism.
 
 ## References
 

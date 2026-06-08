@@ -67,14 +67,12 @@ Strategic options: (1) Sell to payers who bear the readmission cost — direct c
 → [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — this card explains *why* value capture concentrates where it does at the level of a single firm or transaction; profit pool analysis maps the same dynamic across an entire market or value chain, asking where the capture concentrates system-wide and why
 → [**Creative Destruction**](creative-destruction.md) — creative destruction reshifts who captures value: new entrants restructure the capture split that incumbents had established.
 
----
-
 ## References
 
-- Brandenburger, A.M. & Stuart, H.W. (1996) "Value-based Business Strategy." *Journal of Economics and Management Strategy*, 5(1), 5–24. The foundational academic treatment.
-- Porter, M.E. (1985) *Competitive Advantage*. Free Press. Value chain analysis as a capture framework.
-- Mauboussin, M.J. & Callahan, D. (2014) "Measuring the Moat." Credit Suisse Global Financial Strategies. Practitioner guide to assessing durable value capture.
-- Thiel, P. & Masters, B. (2014) *Zero to One*. Crown Business. Chapter on competition and capture.
+- *Value-based Business Strategy* — Adam Brandenburger & Harborne Stuart, Journal of Economics and Management Strategy Vol. 5 No. 1 (1996) — the foundational academic treatment of value creation, capture, and added value.
+- *Competitive Advantage: Creating and Sustaining Superior Performance* — Michael E. Porter (1985) — value chain analysis as a framework for understanding where in a system value is created and captured.
+- *Measuring the Moat* — Michael Mauboussin & Dan Callahan, Credit Suisse Global Financial Strategies (2014) — practitioner guide to assessing durable value capture and competitive advantage.
+- *Zero to One: Notes on Startups, or How to Build the Future* — Peter Thiel & Blake Masters (2014) — the case for building capture mechanisms through monopoly rather than competing in undifferentiated markets.
 
 ---
 

@@ -58,6 +58,7 @@ Decision: adopt cloud-native data platform and managed ML tooling; redirect 60% 
 → [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — Genesis/Custom components warrant exploration; Product/Commodity components warrant exploitation. The map tells you which mode applies where.
 → [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — applies at the Genesis/Custom end of the map, where hypothesis testing is the right mode; inappropriate at Commodity, where adoption beats experimentation.
 → [**Scenario Planning**](scenario-planning.md) — Wardley Maps can be projected into the future (where will each component sit in three years?), producing the alternative futures that scenario planning works with.
+→ [**Value Creation and Capture**](../Economics/value-creation-capture.md) — evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where value capture is flowing and why.
 
 ## References
 
