@@ -63,6 +63,7 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Inertia**](../Physics-and-Chemistry/inertia.md) — existing feedback loops embody and perpetuate inertia; changing direction often requires redesigning the loops driving the current trajectory.
 → [**Thermodynamics**](../Physics-and-Chemistry/thermodynamics.md) — balancing feedback loops are the mechanisms that actively fight entropy; without them, systems drift toward disorder.
 → [**Incentives**](../Psychology/incentives.md) — incentives create feedback loops; the loop structure determines whether the incentive produces the intended long-run outcome or an unintended one.
+→ [**Psychological Safety**](../Psychology/psychological-safety.md) — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound into larger failures.
 
 ## References
 

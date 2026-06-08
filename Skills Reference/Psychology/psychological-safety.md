@@ -1,7 +1,7 @@
 # Psychological Safety
 *The shared belief that a team is safe for interpersonal risk-taking — speaking up, admitting mistakes, and challenging assumptions without fear of punishment.*
 
-**Category:** [Psychology](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
+**Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -46,9 +46,9 @@ Google's Project Aristotle studied 180 teams to identify what made teams effecti
 ## Connections
 
 → [**Trust**](trust.md) — psychological safety is the team-level expression of trust; it requires individual trust but also a collectively shared understanding of team norms.
-→ **Incentives** — incentive structures that punish failure or reward concealment directly undermine psychological safety regardless of stated cultural values.
-→ **Feedback Loops** — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound.
-→ **Dunning-Kruger** — low psychological safety amplifies Dunning-Kruger effects at the team level: overconfident members are not challenged, and uncertain members don't contribute their knowledge.
+→ [**Incentives**](incentives.md) — incentive structures that punish failure or reward concealment directly undermine psychological safety regardless of stated cultural values.
+→ [**Feedback Loops**](../Systems/feedback-loops.md) — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound.
+→ [**Dunning-Kruger**](dunning-kruger.md) — low psychological safety amplifies Dunning-Kruger effects at the team level: overconfident members are not challenged, and uncertain members don't contribute their knowledge.
 → [**Maslow's Hierarchy of Needs**](maslows-hierarchy-of-needs.md) — safety is a foundational need in Maslow's hierarchy; at the team level, psychological safety is the precondition for the belonging, esteem, and self-actualization that drive engagement.
 → [**Dunbar's Number**](../Systems/dunbars-number.md) — psychological safety is a relational property that operates naturally within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour rather than assumed.
 → [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — low psychological safety amplifies the principal-agent gap: agents who fear consequences optimise for appearance rather than outcomes, making the misalignment structural.
@@ -57,7 +57,7 @@ Google's Project Aristotle studied 180 teams to identify what made teams effecti
 
 - *The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth* — Amy C. Edmondson (2018) — the primary treatment of psychological safety as a team-level phenomenon.
 - *An Everyone Culture: Becoming a Deliberately Developmental Organization* — Robert Kegan & Lisa Laskow Lahey (2016) — the complementary treatment of organizational cultures where vulnerability is the norm.
-
+- *Daring Greatly* — Brené Brown (2012) — the vulnerability research that underlies how leaders model the fallibility that creates psychological safety.
 
 ---
 

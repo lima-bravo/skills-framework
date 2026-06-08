@@ -60,6 +60,7 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Max-Neef's Fundamental Human Needs**](max-neefs-fundamental-human-needs.md) — the satisfier-need distinction is the most important refinement to incentive design: ensure incentives meet actual needs, not just their most obvious satisfiers.
 → [**ERG Theory**](erg-theory.md) — ERG's frustration-regression principle predicts incentive failures: an employee regressing to Existence focus may signal blocked Growth, not a genuine preference for pay over challenge.
 → [**Trust**](trust.md) — trust and incentives are interdependent: misaligned incentives structurally destroy trust, and low trust drives demand for more incentive-based control as a substitute.
+→ [**Psychological Safety**](psychological-safety.md) — incentive structures that punish failure or reward concealment are the primary structural mechanism by which organisations destroy psychological safety.
 
 ## References
 

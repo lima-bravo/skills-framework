@@ -46,6 +46,7 @@ A highly successful B2C founder decides to start a B2B company. She has strong g
 → [**Circle of Competence**](../General-Thinking/circle-of-competence.md) — Dunning-Kruger is the psychological mechanism that makes circle self-assessment hard; they are deeply related.
 → [**Confirmation Bias**](confirmation-bias.md) — early in learning a domain, confirmation bias and Dunning-Kruger reinforce each other: high confidence filters out disconfirming evidence.
 → [**Calibration**](../General-Thinking/calibration.md) — calibration is the direct antidote to Dunning-Kruger; the practice of tracking predictions against outcomes is how miscalibration at low competence gets corrected.
+→ [**Psychological Safety**](psychological-safety.md) — low psychological safety amplifies Dunning-Kruger at team level: overconfident members go unchallenged and uncertain members withhold knowledge.
 
 ## References
 
