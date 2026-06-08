@@ -46,6 +46,7 @@ A product team has three months before a major launch. They can ship a feature-c
 → [**Scarcity**](scarcity.md) — trade-offs exist because scarcity makes it impossible to have everything; remove scarcity and the trade-off dissolves.
 → [**Optimization**](optimization.md) — optimization is the formal approach to finding the best point on the trade-off frontier.
 → [**Specialization**](specialization.md) — specialization is a trade-off resolution: choosing to go deep in one area requires trading away breadth in others.
+→ [**Debt**](debt.md) — taking on debt is an explicit trade-off between present capability and future flexibility.
 
 ## References
 

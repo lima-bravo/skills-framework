@@ -48,13 +48,12 @@ A startup ships their MVP with no automated testing, a monolithic architecture, 
 → [**Compounding**](../Mathematics/compounding.md) — debt compounds when not serviced; understanding compounding makes debt dynamics legible.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — debt reduces margin of safety by creating fixed future obligations; the two must be considered together.
 → [**Trade-offs**](trade-offs.md) — taking on debt is a trade-off between present capability and future flexibility.
+
 ## References
 
 - *Money: The Unauthorized Biography* — Felix Martin (2013) — the conceptual history of debt and money as social technologies.
 - *This Time Is Different: Eight Centuries of Financial Folly* — Carmen M. Reinhart & Kenneth S. Rogoff (2009) — the cross-historical evidence of debt cycles and crises.
-
-
----
+- *Stabilizing an Unstable Economy* — Hyman P. Minsky (1986) — the foundational theoretical treatment of financial fragility and debt cycles; source of the Minsky Moment concept.
 
 ---
 
