@@ -68,6 +68,7 @@ The falsification-oriented redesign: run a controlled comparison, with explicitl
 → [**Steelmanning**](../General-Thinking/steelmanning.md) — the prerequisite practice: a belief should be tested against the strongest possible opposing case, not a convenient weak version
 → [**Red Teaming**](../Business/red-teaming.md) — the organisational mechanism for structured falsification at scale; red teams are mandated to find disconfirming evidence
 → [**A/B Testing**](../Business/ab-testing.md) — the operational instrument of falsification in product and marketing contexts; the test is designed so that reality, not opinion, settles the question
+→ [**Commitment & Consistency Bias**](commitment-consistency-bias.md) — consistency bias is the motivational barrier that falsification must overcome; the discipline of seeking disconfirming evidence runs directly against the pull toward defending prior positions
 
 ## References
 

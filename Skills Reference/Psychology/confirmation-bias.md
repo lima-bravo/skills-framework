@@ -63,6 +63,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Immunity to Change**](immunity-to-change.md) — big assumptions persist because confirmation bias collects evidence for them; surfacing the assumption exposes it to disconfirmation.
 → [**Survivorship Bias**](survivorship-bias.md) — both biases filter evidence; survivorship filters by visibility (the dead don't report), confirmation filters by desirability (we seek what we want to believe).
 → [**Falsification**](falsification.md) — the corrective practice to confirmation bias; where confirmation bias describes the failure mode, falsification is the habit that prevents it.
+→ [**Commitment & Consistency Bias**](commitment-consistency-bias.md) — closely related: consistency bias generates the motivation to seek confirming evidence; confirmation bias is the mechanism by which that search is conducted.
 
 ## References
 

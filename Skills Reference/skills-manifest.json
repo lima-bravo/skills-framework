@@ -2556,6 +2556,11 @@
           "id": 202,
           "name": "Social Proof",
           "color": "#9333EA"
+        },
+        {
+          "id": 205,
+          "name": "Commitment & Consistency Bias",
+          "color": "#9333EA"
         }
       ]
     },
@@ -5873,6 +5878,28 @@
         {
           "id": 204,
           "name": "Falsification",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "A Theory of Cognitive Dissonance",
+      "authorYear": "Leon Festinger (1957)",
+      "skills": [
+        {
+          "id": 205,
+          "name": "Commitment & Consistency Bias",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Knee-Deep in the Big Muddy: A Study of Escalating Commitment to a Chosen Course of Action",
+      "authorYear": "Barry M. Staw (1976), Organizational Behavior and Human Performance 16(1)",
+      "skills": [
+        {
+          "id": 205,
+          "name": "Commitment & Consistency Bias",
           "color": "#9333EA"
         }
       ]

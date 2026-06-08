@@ -13,17 +13,23 @@ Robert Cialdini identified this as one of the core principles of influence in *I
 
 In organisations, this manifests as escalating commitment to failing projects, resistance to strategy pivots after public announcements, loyalty to legacy approaches after the conditions that justified them have changed, and leaders defending past decisions rather than updating on new evidence. It is the cognitive substrate of what the framework elsewhere calls Dominant Logic: the founding narrative that filters out contradictory information.
 
+---
+
 ## Mental Model
 
 Think of each commitment as a stake driven into the ground with a rope attached to your future self. A single stake is easy to pull up. But the longer you've been walking in one direction, the more stakes you've driven, the more people have watched you walk — and the harder each step backward becomes, not because the direction is right, but because changing direction requires acknowledging all the distance you've already walked in the wrong direction. Consistency bias is the experience of being pulled by your own rope.
+
+---
 
 ## Practitioner Heuristics
 
 - **Separate the decision from the decision-maker's identity.** When reviewing a struggling initiative, frame the question as "is this still the right path?" rather than "was the original decision right?" The first question is about the future; the second triggers consistency defence.
 - **Normalise updating explicitly.** In team culture, treat changed minds as evidence of good reasoning, not weakness. Leaders who visibly update on new evidence give others permission to do the same.
-- **Use pre-specified kill criteria.** Deciding in advance what evidence would trigger an exit removes the pressure of making a in-the-moment pivot that feels like abandoning a prior commitment. The decision was already made; you're just executing it.
+- **Use pre-specified kill criteria.** Deciding in advance what evidence would trigger an exit removes the pressure of making an in-the-moment pivot that feels like abandoning a prior commitment. The decision was already made; you're just executing it.
 - **Watch for escalation language.** Phrases like "we've come too far to stop now," "we need to protect the investment," or "we can't afford to be seen changing course" are consistency bias speaking. They are never valid reasons to continue.
 - **In strategy reviews, ask: "if we hadn't already started this, would we start it now?"** This resets the evaluation to the present evidence rather than the prior commitment.
+
+---
 
 ## Common Failure Modes
 
@@ -35,6 +41,8 @@ Think of each commitment as a stake driven into the ground with a rope attached 
 
 **Identity-level entrenchment.** When a belief becomes part of a leader's or team's identity ("we are a premium brand," "we are data-driven," "we move fast") it becomes almost impossible to revise, because doing so would require revising who they are. The belief is no longer evaluated on evidence; it is defended as self-definition.
 
+---
+
 ## Worked Example
 
 A technology company has spent 18 months building a proprietary data platform. The original rationale was competitive differentiation through data ownership. Twelve months in, two major cloud providers release managed services that replicate most of the planned functionality at a fraction of the cost to operate. Three engineers quietly brief the CTO that the build case has collapsed.
@@ -45,6 +53,8 @@ The result: the platform ships, is maintained for two years at significant cost,
 
 A consistency-aware culture would have pre-specified the conditions under which the build decision would be revisited (at the 12-month review, ask: has the competitive landscape changed?), normalised the pivot as disciplined course-correction rather than failure, and separated the evaluation of the decision from the identity of the people who made it.
 
+---
+
 ## Connections
 
 → [**Sunk Cost**](sunk-cost.md) — consistency bias is the psychological mechanism; sunk cost fallacy is the economic framing of the same error
@@ -53,17 +63,15 @@ A consistency-aware culture would have pre-specified the conditions under which 
 → [**Falsification**](falsification.md) — both concern the failure to update on disconfirming evidence; consistency bias describes the motivational barrier, falsification describes the epistemic discipline
 → [**Confirmation Bias**](confirmation-bias.md) — closely related; consistency bias generates the motivation to seek confirming evidence rather than falsifying evidence
 → [**After-Action Review**](../Leadership/after-action-review.md) — properly run AARs create a safe container for updating on past decisions without triggering consistency defence
-→ [**Drift to Failure**](../Systems/drift-to-failure.md) — each step of drift is reinforced by consistency bias; having taken each prior step, reversing course requires acknowledging that an accumulation of reasonable decisions has produced an unreasonable aggregate state.
-→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — public commitments to cooperate can serve as credible signals that shift the equilibrium away from mutual defection.
+→ [**Drift to Failure**](../Systems/drift-to-failure.md) — each step of drift is reinforced by consistency bias; having taken each prior step, reversing course requires acknowledging that an accumulation of reasonable decisions has produced an unreasonable aggregate state
+→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — public commitments to cooperate can serve as credible signals that shift the equilibrium away from mutual defection
 
 ## References
 
-- Cialdini, R. (1984) *Influence: The Psychology of Persuasion* — Harper Business
-- Festinger, L. (1957) *A Theory of Cognitive Dissonance* — Stanford University Press
-- Staw, B.M. (1976) "Knee-deep in the Big Muddy: A study of escalating commitment" — *Organizational Behavior and Human Performance*
-- *Thinking, Fast and Slow* — Daniel Kahneman, 2011
-
----
+- *Influence: The Psychology of Persuasion* — Robert B. Cialdini (1984) — identifies commitment and consistency as one of the six core principles of influence; shows how small initial commitments lead to larger ones through the pressure toward self-consistency.
+- *A Theory of Cognitive Dissonance* — Leon Festinger (1957) — the foundational text; dissonance between a commitment and new evidence is psychologically uncomfortable, and the easiest resolution is to discount the evidence rather than revise the commitment.
+- *"Knee-Deep in the Big Muddy: A Study of Escalating Commitment to a Chosen Course of Action"* — Barry M. Staw (1976), *Organizational Behavior and Human Performance*, 16(1) — the classic empirical demonstration of escalating commitment: decision-makers increase investment in a failing course of action precisely because they were responsible for the initial decision.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of consistency bias as a feature of System 1 reasoning: the coherent story of "who I am and what I decided" resists updating.
 
 ---
 
