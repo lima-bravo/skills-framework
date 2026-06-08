@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **75**
+- Reviewed (verified + fixed): **76**
 - Flagged: **0**
-- Remaining (todo): **187**
+- Remaining (todo): **186**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -138,7 +138,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#42` **Velocity** · `Physics-and-Chemistry/velocity.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer, Gap-A ref (Thinking in Systems), backlinks in inertia/bottlenecks/build-measure-learn
 - [x] `#43` **Inertia** · `Physics-and-Chemistry/inertia.md` · **st:** fixed · **n:** Gap-A ref (Thinking Fast and Slow), backlinks in equilibrium/feedback-loops
 - [x] `#44` **Friction** · `Physics-and-Chemistry/friction.md` · **st:** fixed · **n:** blank line before refs, duplicate --- footer, Gap-A ref (Hooked), backlinks in leverage/inertia
-- [ ] `#45` **Activation Energy** · `Physics-and-Chemistry/activation-energy.md` · **st:** todo · **n:** —
+- [x] `#45` **Activation Energy** · `Physics-and-Chemistry/activation-energy.md` · **st:** fixed · **n:** duplicate --- footer, Gap-A ref (Feynman Lectures); all backlinks already present
 - [ ] `#46` **Thermodynamics** · `Physics-and-Chemistry/thermodynamics.md` · **st:** todo · **n:** —
 - [ ] `#47` **Catalysts** · `Physics-and-Chemistry/catalysts.md` · **st:** todo · **n:** —
 - [ ] `#48` **Alloying** · `Physics-and-Chemistry/alloying.md` · **st:** todo · **n:** —

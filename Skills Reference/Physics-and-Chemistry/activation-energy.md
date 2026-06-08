@@ -52,9 +52,7 @@ A company wants engineers to write more documentation. They mandate it, incentiv
 
 - *Switch: How to Change Things When Change Is Hard* — Chip Heath & Dan Heath (2010) — lowering the activation energy of desired behaviors is a central design principle.
 - *Nudge: Improving Decisions About Health, Wealth, and Happiness* — Richard H. Thaler & Cass R. Sunstein (2008) — default architecture as activation energy management.
-
-
----
+- *The Feynman Lectures on Physics* — R.P. Feynman, R.B. Leighton & M. Sands (1963) — covers chemical kinetics and the energy-barrier concept; the physical foundation for why thermodynamically favourable reactions still require an initial energy input to proceed.
 
 ---
 
