@@ -51,6 +51,7 @@ An engineering team complains they can't ship fast enough. The diagnosis: pull r
 → [**Fixes That Fail**](fixes-that-fail.md) — adding capacity at non-bottleneck points is a classic symptomatic fix that relieves local pressure without improving system throughput.
 → [**Churn**](churn.md) — in a growth system, churn is often the binding constraint on net growth; treating acquisition as the bottleneck when churn is the true constraint is a misidentification.
 → [**Conway's Law**](conways-law.md) — system integration points between teams are common bottlenecks; Conway's Law explains why: the interface quality tracks the team relationship quality.
+→ [**Scarcity**](../Economics/scarcity.md) — the bottleneck is the point of maximum scarcity in a process; bottleneck management is the operational discipline for allocating the scarcest resource.
 
 ## References
 
