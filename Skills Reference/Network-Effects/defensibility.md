@@ -45,6 +45,8 @@ Amazon's defensibility is often described as its logistics network. But the actu
 → [**Network Effects**](network-effects.md) — the strongest defensibility moat in digital markets.
 → [**Monopoly vs. Competition**](../Economics/monopoly-vs-competition.md) — defensibility is the mechanism that converts temporary competitive advantage into a monopoly-adjacent position.
 → [**Compounding**](../Mathematics/compounding.md) — defensibility enables the compounding of competitive advantage; without it, advantage decays.
+→ [**Long Tail**](../Economics/long-tail.md) — deep tail coverage is a defensibility mechanism: it is expensive and time-consuming to replicate, creating a switching cost moat.
+
 ## References
 
 - *Competition Demystified: A Radically Simplified Approach to Business Strategy* — Bruce Greenwald & Judd Kahn (2005) — competitive advantage as sustainable barriers, not temporary positions.

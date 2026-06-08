@@ -54,6 +54,7 @@ A software company built its business on desktop applications through the 1990s.
 → [**Exploration vs. Exploitation**](exploration-vs-exploitation.md) — exploitation maximizes current S-curve position; exploration develops the next S-curve; both must be managed simultaneously because S-curve transitions are unpredictable.
 → [**Adjacent Possible**](adjacent-possible.md) — S-curves describe adoption trajectories once an innovation is accessible; the adjacent possible explains when and why an innovation first becomes accessible.
 → [**Path Dependence**](path-dependence.md) — path dependence locks organisations onto mature S-curves; platform shifts create new curves where switching costs are temporarily lower, enabling a path exit.
+→ [**Long Tail**](../Economics/long-tail.md) — Long Tail markets often follow an S-curve adoption pattern: slow initial tail growth as discovery infrastructure is built, then rapid expansion as recommendation and search mature.
 
 ## References
 
