@@ -52,9 +52,7 @@ A company has spent £2M and two years building a B2B product that has found no 
 
 - *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the treatment of sunk cost as a consequence of loss aversion and mental accounting.
 - *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts* — Annie Duke (2018) — the practitioner discipline for separating decision quality from outcome quality, which requires ignoring sunk costs.
-
-
----
+- *Misbehaving: The Making of Behavioral Economics* — Richard H. Thaler (2015) — the behavioural economics treatment of mental accounting; Thaler documents how segregated mental accounts make spent-but-irrecoverable costs feel ongoing and distort forward decisions.
 
 ---
 

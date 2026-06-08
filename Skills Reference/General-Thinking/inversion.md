@@ -54,6 +54,7 @@ A team is designing a new onboarding flow for a SaaS product. Forward thinking g
 → [**Regret Minimization Framework**](regret-minimization-framework.md) — the RMF is inversion applied to life decisions: instead of asking "what should I choose?", ask "which choice would I regret more at 80?"
 → [**Divergent and Convergent Thinking**](divergent-and-convergent-thinking.md) — inversion is a structured divergent technique: approaching the problem from the opposite direction breaks conventional attractors and generates non-obvious possibilities.
 → [**Loss Aversion**](../Psychology/loss-aversion.md) — framing a decision in loss terms (what you risk losing) is inversion applied to motivation; loss aversion makes this framing more viscerally compelling than gain framing.
+→ [**Sunk Cost**](../Psychology/sunk-cost.md) — "if I were starting fresh today" is inversion applied to a current commitment; it removes sunk cost framing by forcing a clean reference point.
 
 ## References
 
