@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **57**
+- Reviewed (verified + fixed): **58**
 - Flagged: **0**
-- Remaining (todo): **205**
+- Remaining (todo): **204**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -117,7 +117,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#35` **Efficiency** · `Economics/efficiency.md` · **st:** fixed · **n:** Added blank line before ## References; removed duplicate --- footer; added 2 Gap-A refs (Goldratt & Cox 1984, Taylor 1911); backlink in diminishing-returns.md.
 - [x] `#36` **Debt** · `Economics/debt.md` · **st:** fixed · **n:** Added blank line before ## References; removed duplicate --- footer; added Gap-A ref (Minsky 1986); backlinks in compounding.md, margin-of-safety.md, trade-offs.md.
 - [x] `#37` **Creative Destruction** · `Economics/creative-destruction.md` · **st:** fixed · **n:** Added blank line before ## References; removed duplicate --- footer; added Gap-A ref (Christensen 1997); backlinks in value-creation-capture.md, second-order-effects.md.
-- [ ] `#38` **Bubbles** · `Economics/bubbles.md` · **st:** todo · **n:** —
+- [x] `#38` **Bubbles** · `Economics/bubbles.md` · **st:** fixed · **n:** Fixed 2× "rizing" typo; added blank line before ## References; removed duplicate --- footer; backlinks in feedback-loops.md, regression-to-the-mean.md, incentives.md.
 - [ ] `#39` **Interdependence** · `Economics/interdependence.md` · **st:** todo · **n:** —
 - [ ] `#40` **Gresham's Law** · `Economics/greshams-law.md` · **st:** todo · **n:** —
 - [ ] `#120` **Goodhart's Law** · `Economics/goodharts-law.md` · **st:** todo · **n:** —

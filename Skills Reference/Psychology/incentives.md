@@ -50,6 +50,7 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — the Prisoner's Dilemma is an incentive structure where individual rationality produces collective irrationality.
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — commons tragedies are incentive design failures: individual incentives point toward overuse of a shared resource.
 → [**Hanlon's Razor**](../General-Thinking/hanlons-razor.md) — before attributing malice, map incentives first; misaligned incentives are the most common structural explanation for behaviour that looks deliberate.
+→ [**Bubbles**](../Economics/bubbles.md) — bubble dynamics persist because incentives (fees, career risk, peer pressure) reward participation even when participants know valuations are stretched.
 
 ## References
 

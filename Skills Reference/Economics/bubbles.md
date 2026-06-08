@@ -13,7 +13,7 @@ An economic bubble is a period during which asset prices rise significantly abov
 
 ## Mental Model
 
-Bubbles have a recognisable structure: displacement (a genuine innovation creates legitimate new opportunity), boom (credit and capital flow in, prices rise), euphoria (new valuation frameworks justify ever-higher prices, sceptics are marginalized), profit-taking (sophisticated investors quietly exit), panic, and crash. The practitioner's challenge: at what stage is the market currently in, and does participation make sense at this point? The error is confusing "prices are rizing" with "prices are correct."
+Bubbles have a recognisable structure: displacement (a genuine innovation creates legitimate new opportunity), boom (credit and capital flow in, prices rise), euphoria (new valuation frameworks justify ever-higher prices, sceptics are marginalized), profit-taking (sophisticated investors quietly exit), panic, and crash. The practitioner's challenge: at what stage is the market currently in, and does participation make sense at this point? The error is confusing "prices are rising" with "prices are correct."
 
 ---
 
@@ -43,17 +43,15 @@ The 2000-2001 dot-com bubble followed the classic structure. The displacement: t
 
 ## Connections
 
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — bubble dynamics are driven by reinforcing feedback loops (rizing prices attract more buyers, which drives prices higher).
+→ [**Feedback Loops**](../Systems/feedback-loops.md) — bubble dynamics are driven by reinforcing feedback loops (rising prices attract more buyers, which drives prices higher).
 → [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — asset prices that have deviated far from intrinsic value tend to revert; bubbles are extreme cases.
 → [**Incentives**](../Psychology/incentives.md) — understanding the incentives of capital allocators, analysts, and media during bubble phases explains why they persist beyond what fundamental analysis would suggest.
+
 ## References
 
 - *Irrational Exuberance* — Robert J. Shiller (2000; 3rd ed. 2015) — the empirical treatment of asset price bubbles and the psychology that sustains them.
 - *Manias, Panics, and Crashes: A History of Financial Crises* — Charles P. Kindleberger (1978; 7th ed. 2015) — the historical anatomy of bubble formation and collapse.
 - *This Time Is Different: Eight Centuries of Financial Folly* — Carmen M. Reinhart & Kenneth S. Rogoff (2009) — systematic evidence that every era's bubble is rationalized as unique.
-
-
----
 
 ---
 

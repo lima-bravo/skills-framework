@@ -56,6 +56,7 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Critical Mass**](critical-mass.md) — the threshold above which a reinforcing feedback loop becomes self-sustaining; identifying it tells you how much input is required to tip the dynamic.
 → [**Churn**](churn.md) — high churn can activate a reinforcing negative loop: fewer users → less word of mouth → higher CAC → less product investment → more churn.
 → [**Exploration vs. Exploitation**](exploration-vs-exploitation.md) — exploitation and exploration operate on different feedback loop speeds: exploitation on fast, tight loops; exploration on slow, loose ones that allow genuine uncertainty to persist.
+→ [**Bubbles**](../Economics/bubbles.md) — asset bubbles are the canonical reinforcing feedback loop: rising prices attract more buyers, which drives prices higher.
 
 ## References
 
