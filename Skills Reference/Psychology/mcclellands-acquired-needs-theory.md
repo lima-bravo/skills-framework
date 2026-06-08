@@ -45,6 +45,7 @@ A startup's two founders are diagnostically different: one is high-nAch (driven 
 → [**Incentives**](incentives.md) — McClelland's theory maps directly to incentive design: different dominant needs require different incentive structures.
 → [**Maslow's Hierarchy**](maslows-hierarchy-of-needs.md) — Maslow describes universal motivational needs by level; McClelland describes individual variation in dominant needs.
 → [**Max-Neef's Fundamental Human Needs**](max-neefs-fundamental-human-needs.md) — a broader non-hierarchical complement that includes existential and relational dimensions McClelland doesn't address.
+→ [**ERG Theory**](erg-theory.md) — ERG complements McClelland: McClelland identifies which need domain dominates for a person; ERG describes what happens when that domain is blocked.
 
 ## References
 

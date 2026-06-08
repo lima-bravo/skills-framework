@@ -58,6 +58,7 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Maslow's Hierarchy of Needs**](maslows-hierarchy-of-needs.md) — Maslow provides the motivational structure that determines which incentives are active; salary only motivates until lower needs are met.
 → [**McClelland's Acquired Needs**](mcclellands-acquired-needs-theory.md) — McClelland's three-need framework determines which type of incentive will land: nAch responds to challenge and autonomy, nPow to influence, nAff to belonging.
 → [**Max-Neef's Fundamental Human Needs**](max-neefs-fundamental-human-needs.md) — the satisfier-need distinction is the most important refinement to incentive design: ensure incentives meet actual needs, not just their most obvious satisfiers.
+→ [**ERG Theory**](erg-theory.md) — ERG's frustration-regression principle predicts incentive failures: an employee regressing to Existence focus may signal blocked Growth, not a genuine preference for pay over challenge.
 
 ## References
 
