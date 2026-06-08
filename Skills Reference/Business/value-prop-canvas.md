@@ -52,9 +52,6 @@ A team building project management software maps the customer side for their pri
 - *Value Proposition Design: How to Create Products and Services Customers Want* — Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith (2014) — the source text for the value proposition canvas.
 - *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers* — Alexander Osterwalder & Yves Pigneur (2010) — the parent framework from which the canvas is drawn.
 
-
----
-
 ---
 
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

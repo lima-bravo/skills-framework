@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **108**
+- Reviewed (verified + fixed): **109**
 - Flagged: **0**
-- Remaining (todo): **154**
+- Remaining (todo): **153**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -177,7 +177,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Business (23)
 
 - [x] `#68` **Business Model Canvas** · `Business/business-model-canvas.md` · **st:** fixed · **n:** fixed dup footer; Gap-A: added Value Proposition Design ref to card; backlinks in value-prop-canvas, product-market-fit
-- [ ] `#69` **Value Prop Canvas** · `Business/value-prop-canvas.md` · **st:** todo · **n:** —
+- [x] `#69` **Value Prop Canvas** · `Business/value-prop-canvas.md` · **st:** fixed · **n:** fixed dup footer; refs both in manifest, no gaps; backlinks in customer-development, product-market-fit
 - [ ] `#71` **Portfolio Map** · `Business/portfolio-map.md` · **st:** todo · **n:** —
 - [ ] `#72` **Experiment Design** · `Business/experiment-design.md` · **st:** todo · **n:** —
 - [ ] `#73` **Assumption Mapping** · `Business/assumption-mapping.md` · **st:** todo · **n:** —
