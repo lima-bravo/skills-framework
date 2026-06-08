@@ -58,6 +58,7 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Exploration vs. Exploitation**](exploration-vs-exploitation.md) — exploitation and exploration operate on different feedback loop speeds: exploitation on fast, tight loops; exploration on slow, loose ones that allow genuine uncertainty to persist.
 → [**Bubbles**](../Economics/bubbles.md) — asset bubbles are the canonical reinforcing feedback loop: rising prices attract more buyers, which drives prices higher.
 → [**Interdependence**](../Economics/interdependence.md) — tightly interdependent systems contain more feedback loops, and more of them are invisible until a failure reveals them.
+→ [**Goodhart's Law**](../Economics/goodharts-law.md) — measurement creates feedback loops; when a metric becomes a target, the loop reinforces optimising the metric rather than the underlying outcome.
 
 ## References
 

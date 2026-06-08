@@ -11,6 +11,8 @@ Goodhart's Law: **"When a measure becomes a target, it ceases to be a good measu
 
 Goodhart's Law is not about dishonesty. Even entirely well-intentioned agents will unconsciously shift behaviour toward whatever is being measured once it becomes the target. The distortion is structural, not moral.
 
+---
+
 ## Mental Model
 
 A *proxy* is chosen because it correlates with something we care about but cannot directly measure. That correlation existed under natural conditions. Once the proxy becomes the target, people optimise it directly, and the correlation breaks.
@@ -18,6 +20,8 @@ A *proxy* is chosen because it correlates with something we care about but canno
 Hospital waiting-time targets cause patients to be held in ambulances outside the building. Software velocity metrics cause developers to split large tickets. NPS surveys get distributed only after good interactions. In each case, the metric improves while the underlying reality stays flat or degrades.
 
 **The corrective is triangulation:** use multiple metrics that are hard to simultaneously game, include qualitative signals alongside quantitative ones, and rotate metrics before they calcify into targets.
+
+---
 
 ## Practitioner Heuristics
 
@@ -27,6 +31,8 @@ Hospital waiting-time targets cause patients to be held in ambulances outside th
 - **Hold some metrics as health indicators, not targets.** Explicitly designate which measures inform and which incentivise; the act of declaring a number a target is what begins its corruption.
 - **Watch the correlation that justified the proxy, not just the proxy.** The proxy was chosen because it tracked something you care about; monitor whether that link still holds once people start optimising the proxy directly.
 
+---
+
 ## Common Failure Modes
 
 - **Assuming the distortion requires bad actors.** Goodhart operates through well-intentioned people unconsciously shifting effort toward what is measured; waiting for evidence of cheating means missing the structural problem entirely.
@@ -34,9 +40,13 @@ Hospital waiting-time targets cause patients to be held in ambulances outside th
 - **Mistaking proxy improvement for outcome improvement.** Celebrating that the number went up without checking whether the thing the number stood for went up — the central trap.
 - **Single-metric dashboards.** Reducing a complex outcome to one headline figure maximises Goodhart exposure precisely where the stakes are highest.
 
+---
+
 ## Worked Example
 
 A hospital system under pressure to cut emergency-department waiting times sets a four-hour treatment target with real consequences attached. Measured waiting time falls dramatically — and the correlation it was meant to track breaks. Patients are held in ambulances outside the building (the clock starts at admission), admitted to wards prematurely to stop the clock, and sometimes discharged and readmitted to reset it. The proxy improved while the underlying reality — timely, appropriate care — stayed flat or degraded, and the staff producing the distortion were not cheating; they were rationally responding to a measure that had become a target. Triangulation would have caught it: pairing the waiting-time figure with readmission rates, ambulance-handover times, and patient outcomes would have shown the four-hour number rising while the system it claimed to represent did not.
+
+---
 
 ## Connections
 
@@ -48,21 +58,15 @@ A hospital system under pressure to cut emergency-department waiting times sets 
 → [**Optimization**](optimization.md) — local optimisation of a proxy metric is how this failure mode manifests
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when shared metrics are used to manage shared resources, Goodhart's Law can weaponise the measurement system itself
 → [**KPI Architecture**](../Business/kpi-architecture.md) — the design discipline that builds Goodhart-drift detection into the measurement system itself: small metric sets, named owners, and review cadences fast enough to catch a proxy curdling into a target
-
-→ [**Fixes That Fail**](../Systems/fixes-that-fail.md) — symptomatic fixes that target a metric while leaving the underlying dynamic intact are Goodhart's Law in action: the measure improves while the thing it was measuring continues to degrade.
-
+→ [**Fixes That Fail**](../Systems/fixes-that-fail.md) — symptomatic fixes that target a metric while leaving the underlying dynamic intact are Goodhart's Law in action: the measure improves while the thing it was measuring continues to degrade
 → [**Incentive Design**](incentive-design.md) — every incentive scheme must be designed with Goodhart drift in mind; metric rotation and small indicator sets are the countermeasures
-→ [**Map-Territory**](../General-Thinking/map-territory.md) — Goodhart's Law is the metric-fixation failure mode of the map-territory gap: the metric (map) diverges from the underlying reality (territory) the moment it becomes a target.
-→ [**Drift to Failure**](../Systems/drift-to-failure.md) — Goodhart's Law is a primary drift mechanism: as teams optimise measured metrics, the underlying system can drift toward risk boundaries while surface indicators look healthy.
+→ [**Map-Territory**](../General-Thinking/map-territory.md) — Goodhart's Law is the metric-fixation failure mode of the map-territory gap: the metric (map) diverges from the underlying reality (territory) the moment it becomes a target
+→ [**Drift to Failure**](../Systems/drift-to-failure.md) — Goodhart's Law is a primary drift mechanism: as teams optimise measured metrics, the underlying system can drift toward risk boundaries while surface indicators look healthy
 
 ## References
 
-**Originator:** Charles Goodhart (1975); generalised by Marilyn Strathern (1997).
-
-- *The Tyranny of Metrics* — Jerry Z. Muller, 2018
-- *Measuring and Managing Performance in Organizations* — Robert Austin, 1996
-
----
+- *The Tyranny of Metrics* — Jerry Z. Muller (2018) — comprehensive critique of metric-based management across education, medicine, policing, and business; documents the recurring pattern of proxy corruption.
+- *Measuring and Managing Performance in Organizations* — Robert D. Austin (1996) — the analytical framework showing why measurement systems distort behaviour when they become targets; the theoretical foundation for Goodhart's practical problem.
 
 ---
 

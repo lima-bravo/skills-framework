@@ -49,6 +49,7 @@ A growth team is optimizing email campaign performance. They define the objectiv
 → [**Local Maxima**](../Mathematics/local-maxima.md) — the systematic failure mode of optimization.
 → [**Algorithms**](../Systems/algorithms.md) — optimization algorithms are the computational tools for solving formal optimization problems.
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — optimization works with marginal returns; diminishing returns is the curve that determines where to stop allocating.
+→ [**Goodhart's Law**](goodharts-law.md) — local optimisation of a proxy metric is how Goodhart's Law manifests in practice: the optimiser hits the number while the underlying objective degrades.
 
 ## References
 

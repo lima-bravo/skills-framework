@@ -51,6 +51,7 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — commons tragedies are incentive design failures: individual incentives point toward overuse of a shared resource.
 → [**Hanlon's Razor**](../General-Thinking/hanlons-razor.md) — before attributing malice, map incentives first; misaligned incentives are the most common structural explanation for behaviour that looks deliberate.
 → [**Bubbles**](../Economics/bubbles.md) — bubble dynamics persist because incentives (fees, career risk, peer pressure) reward participation even when participants know valuations are stretched.
+→ [**Goodhart's Law**](../Economics/goodharts-law.md) — Goodhart's Law is the failure mode of incentive systems: when a metric carries real consequences, people optimise the metric rather than the outcome it was tracking.
 
 ## References
 
