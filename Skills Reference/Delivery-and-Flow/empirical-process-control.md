@@ -11,11 +11,15 @@ Empirical Process Control (EPC) is the governing principle that in complex, unce
 
 EPC is not a practice or a ceremony set — it is a governing theory. It explains *why* short cycles, frequent inspection, and adaptive planning are appropriate responses to complex work. Organisations that adopt agile practices without understanding EPC tend to cargo-cult the form (standups, retrospectives, sprints) without the function, and then conclude that "agile doesn't work" when the ceremonies produce no improvement.
 
+---
+
 ## Mental Model
 
 Two ways to cross a fog-bound estuary. The first: chart the course in detail before leaving, then execute it exactly. This works when the chart is accurate and conditions hold. The second: navigate in short legs — take a fix, adjust heading, move again. This works when the chart is approximate, conditions change, and the cost of a small correction is much lower than the cost of arriving at the wrong bank. Empirical process control is the second approach applied to complex work. The three pillars are the minimum viable navigation equipment: you cannot adapt without transparency, you cannot correct without inspecting, and inspection without adaptation is just watching yourself drift.
 
 The key diagnostic question is: *how long is the feedback cycle?* A team that inspects monthly in a market that changes weekly is empirical in name only. The cycle length must match the rate of change in the environment, or inspection arrives too late to drive useful adaptation.
+
+---
 
 ## Practitioner Heuristics
 
@@ -25,6 +29,8 @@ The key diagnostic question is: *how long is the feedback cycle?* A team that in
 - **Treat transparency as infrastructure, not a virtue.** When leadership wants comfortable data — smoothed, delayed, filtered — they are removing the input to inspection. Defend transparency as the precondition for the system working at all.
 - **Use EPC to make the case against deterministic planning.** The argument is not "we don't want a plan" — it is "we cannot specify the plan in detail in advance because we don't yet have the information we will gain from doing the work. The plan should state the goal and commit to the next cycle; the rest is a hypothesis."
 - **Distinguish complex from complicated.** EPC is appropriate when cause-and-effect relationships are unclear in advance (complex work). For well-understood, repeatable work (complicated), a defined process is more efficient and should be used. Applying EPC to routine deployments adds overhead without benefit; applying defined process to novel product development produces the estuary problem.
+
+---
 
 ## Common Failure Modes
 
@@ -38,6 +44,8 @@ The key diagnostic question is: *how long is the feedback cycle?* A team that in
 
 **Mistaking the ceremonies for the principle.** Standups, retrospectives, and demos are implementations of EPC — one possible set of practices for achieving transparency, inspection, and adaptation. They are not EPC itself. Teams that ask "are we doing agile right?" when they should ask "are we learning fast enough?" have confused the map for the territory.
 
+---
+
 ## Worked Example
 
 A financial services firm is building a new customer onboarding product. Leadership demands a 12-month delivery plan with monthly milestones and a committed feature list. The delivery team complies, producing a waterfall decomposed from 18 months of stakeholder research. At month 8, a competitor launches a materially different onboarding approach that the market immediately prefers. The team's plan has no adaptation mechanism; re-scoping requires executive approval, legal review, and budget reallocation — a four-month process. The product launches at month 12 into a market where the design assumptions are already outdated.
@@ -45,6 +53,8 @@ A financial services firm is building a new customer onboarding product. Leaders
 A parallel team in the same organisation is using EPC. They set a 12-month product vision ("halve onboarding abandonment") and a 3-month outcome goal, and commit only to the next sprint's work. Transparency is enforced: weekly outcome metrics are visible to all stakeholders. At month 4, the same competitive signal arrives. The team inspects: their current outcome metric is flat; the competitor's approach addresses the same abandonment pattern. They adapt the sprint goal, propose a pivot to the product committee, and ship a response within six weeks — within their standing authorisation. The 12-month product looks nothing like the original plan. It also works.
 
 The difference is not that one team was smarter or faster. It is that one team had the governance structure to learn and respond; the other had the governance structure to execute and report.
+
+---
 
 ## Connections
 
@@ -60,13 +70,11 @@ The difference is not that one team was smarter or faster. It is that one team h
 
 ## References
 
-- Shewhart, W.A. (1931) *Economic Control of Quality of Manufactured Product* — Van Nostrand
-- Deming, W.E. (1986) *Out of the Crisis* — MIT Press
-- Takeuchi, H. & Nonaka, I. (1986) "The New New Product Development Game" — *Harvard Business Review*
-- Schwaber, K. & Sutherland, J. (2020) *The Scrum Guide* — Scrum.org
-- Snowden, D. & Boone, M. (2007) "A Leader's Framework for Decision Making" — *Harvard Business Review*
-
----
+- *Economic Control of Quality of Manufactured Product* — Walter A. Shewhart (1931), Van Nostrand — the foundational text of statistical process control; introduced the concept of controllable vs. uncontrollable variation and the inspection-correction cycle that EPC extends to knowledge work.
+- *Out of the Crisis* — W. Edwards Deming (1986), MIT Press — Deming's 14-point management philosophy built on Shewhart's foundation; the source of the PDCA cycle as a quality improvement mechanism and the argument that most variation is systemic, not individual.
+- *"The New New Product Development Game"* — Hirotaka Takeuchi & Ikujiro Nonaka (1986), *Harvard Business Review* — the paper that first described high-performing product teams using overlapping phases, cross-functional self-organisation, and continuous adaptation; the direct precursor to Scrum's theoretical framework.
+- *The Scrum Guide* — Ken Schwaber & Jeff Sutherland (2020), Scrum.org — the definitive specification of Scrum as the canonical implementation of EPC for software and product teams; free at scrum.org.
+- *"A Leader's Framework for Decision Making"* — Dave Snowden & Mary Boone (2007), *Harvard Business Review* — introduces the Cynefin framework and establishes why complex domains require empirical, probe-sense-respond governance rather than analytical, sense-analyse-respond processes.
 
 ---
 

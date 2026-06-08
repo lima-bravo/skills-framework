@@ -51,6 +51,7 @@ A B2B SaaS product team is praised internally for shipping 14 major features in 
 → [**KPI Architecture**](../Business/kpi-architecture.md) — the system-design discipline that keeps a measurement set weighted toward outcome and driver metrics rather than activity counts.
 → [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — outcomes are the "measure" in the loop.
 → [**Goodhart's Law**](../Economics/goodharts-law.md) — output metrics become targets and degrade the underlying outcome.
+→ [**Empirical Process Control**](empirical-process-control.md) — EPC's inspection criterion should be outcome, not output; a sprint review that only asks "did we ship?" rather than "did the metric move?" is EPC in form but not function.
 
 ---
 

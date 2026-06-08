@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **110**
+- Reviewed (verified + fixed): **111**
 - Flagged: **0**
-- Remaining (todo): **152**
+- Remaining (todo): **151**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -295,7 +295,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [ ] `#158` **Lean Portfolio Management** · `Delivery-and-Flow/lean-portfolio.md` · **st:** todo · **n:** —
 - [ ] `#159` **WSJF** · `Delivery-and-Flow/wsjf.md` · **st:** todo · **n:** —
 - [ ] `#160` **Reference Class Forecasting** · `Delivery-and-Flow/reference-class-forecasting.md` · **st:** todo · **n:** —
-- [ ] `#209` **Empirical Process Control** · `Delivery-and-Flow/empirical-process-control.md` · **st:** todo · **n:** —
+- [x] `#209` **Empirical Process Control** · `Delivery-and-Flow/empirical-process-control.md` · **st:** fixed · **n:** added 5 --- separators, fixed dup footer, expanded 5 bare refs; Gap-A [248] Snowden & Boone; Gap-B2: Shewhart 1931, Deming 1986, Takeuchi/Nonaka 1986, Scrum Guide 2020; backlinks in drift-to-failure, experiment-design, outcome-vs-output
 - [ ] `#255` **Technical Debt** · `Delivery-and-Flow/technical-debt.md` · **st:** todo · **n:** —
 - [ ] `#256` **Reliability vs. Feature Velocity** · `Delivery-and-Flow/reliability-vs-velocity.md` · **st:** todo · **n:** —
 

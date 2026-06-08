@@ -5505,6 +5505,11 @@
           "id": 122,
           "name": "Cynefin Framework",
           "color": "#3B82F6"
+        },
+        {
+          "id": 209,
+          "name": "Empirical Process Control",
+          "color": "#0891B2"
         }
       ]
     },
@@ -6027,6 +6032,50 @@
           "id": 210,
           "name": "Wardley Mapping",
           "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Economic Control of Quality of Manufactured Product",
+      "authorYear": "Walter A. Shewhart (1931)",
+      "skills": [
+        {
+          "id": 209,
+          "name": "Empirical Process Control",
+          "color": "#0891B2"
+        }
+      ]
+    },
+    {
+      "title": "Out of the Crisis",
+      "authorYear": "W. Edwards Deming (1986)",
+      "skills": [
+        {
+          "id": 209,
+          "name": "Empirical Process Control",
+          "color": "#0891B2"
+        }
+      ]
+    },
+    {
+      "title": "\"The New New Product Development Game\"",
+      "authorYear": "Hirotaka Takeuchi & Ikujiro Nonaka (1986)",
+      "skills": [
+        {
+          "id": 209,
+          "name": "Empirical Process Control",
+          "color": "#0891B2"
+        }
+      ]
+    },
+    {
+      "title": "The Scrum Guide",
+      "authorYear": "Ken Schwaber & Jeff Sutherland (2020)",
+      "skills": [
+        {
+          "id": 209,
+          "name": "Empirical Process Control",
+          "color": "#0891B2"
         }
       ]
     }

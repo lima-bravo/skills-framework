@@ -53,6 +53,7 @@ An e-commerce team is testing whether a new checkout flow improves conversion. T
 → [**Theory of Change**](../General-Thinking/theory-of-change.md) — the assumptions in a Theory of Change are hypotheses; experiment design is the method for testing them rigorously before the programme commits to scale.
 → [**Falsification**](../Psychology/falsification.md) — experiment design is the operationalisation of falsification; a good experiment is defined by the conditions under which it would return a negative result.
 → [**SRK Framework**](../Psychology/srk-framework.md) — novel situations that require knowledge-based reasoning are the ones where structured experiments matter most; SRK identifies which cognitive regime you are in and therefore how much you need experimental evidence before acting.
+→ [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — experiment design provides the formal structure for EPC's adaptation step: when inspection reveals a gap, a well-designed experiment is the disciplined way to test the response before committing.
 
 ## References
 
