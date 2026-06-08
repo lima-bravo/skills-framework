@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **100**
+- Reviewed (verified + fixed): **101**
 - Flagged: **0**
-- Remaining (todo): **162**
+- Remaining (todo): **161**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -166,7 +166,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#199` **Survivorship Bias** · `Psychology/survivorship-bias.md` · **st:** fixed · **n:** Full structural rebuild (missing --- separators, duplicate footer, bare refs); 3 Gap-B2 refs added (Ellenberg 2014, Rosenzweig 2007, Wald 1943); 5 backlinks added (confirmation-bias, after-action-review, first-principles, probabilistic-thinking, power-law)
 - [x] `#200` **Fundamental Attribution Error** · `Psychology/fundamental-attribution-error.md` · **st:** fixed · **n:** Missing --- separators, duplicate footer, bare refs expanded; 3 Gap-B2 refs added (Ross 1977, Ross & Nisbett 1991, Coyle 2018); 4 backlinks added (after-action-review, survivorship-bias, systems-thinking, incentive-design)
 - [x] `#201` **Hindsight Bias** · `Psychology/hindsight-bias.md` · **st:** fixed · **n:** Missing --- separators, duplicate footer, bare refs expanded; 2 Gap-B2 refs added (Fischhoff 1975, Lewis 2016); 3 backlinks added (after-action-review, probabilistic-thinking, pre-mortem)
-- [ ] `#202` **Social Proof** · `Psychology/social-proof.md` · **st:** todo · **n:** —
+- [x] `#202` **Social Proof** · `Psychology/social-proof.md` · **st:** fixed · **n:** Missing --- separators, duplicate footer, bare refs expanded; all 4 refs already in manifest; 5 backlinks added (framing, anchoring, loss-aversion, narrative-instinct, incentive-design)
 - [ ] `#203` **Narrative Instinct** · `Psychology/narrative-instinct.md` · **st:** todo · **n:** —
 - [ ] `#204` **Falsification** · `Psychology/falsification.md` · **st:** todo · **n:** —
 - [ ] `#205` **Commitment & Consistency Bias** · `Psychology/commitment-consistency-bias.md` · **st:** todo · **n:** —

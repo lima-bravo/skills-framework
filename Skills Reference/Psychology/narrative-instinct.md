@@ -52,6 +52,7 @@ The narrative instinct produced a story centred on a protagonist (the founder), 
 → [**Pre-Mortem**](../General-Thinking/pre-mortem.md) — deliberately invokes a failure narrative to surface what the success narrative suppresses
 → [**Survivorship Bias**](survivorship-bias.md) — the survivor record is almost always presented as a success narrative, which makes the missing failure data even harder to notice
 → [**Overton Window**](../General-Thinking/overton-window.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts what ideas are considered acceptable for serious discussion.
+→ [**Social Proof**](social-proof.md) — the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when attached to a compelling narrative.
 
 ## References
 

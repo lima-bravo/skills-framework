@@ -49,6 +49,7 @@ A founder is raising a Series A. The first VC she meets opens with "we're thinki
 → [**Schelling Points**](../Economics/schelling-points.md) — Schelling Points are manufactured anchors: salient options that coordinate behaviour by standing out as the obvious choice.
 → [**Overton Window**](../General-Thinking/overton-window.md) — the extreme-position-then-moderate tactic that shifts the window is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable.
 → [**Availability Bias**](availability-bias.md) — recent vivid events set anchors; the two biases compound when a memorable event both inflates perceived probability and anchors subsequent estimates.
+→ [**Social Proof**](social-proof.md) — both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one.
 
 ## References
 

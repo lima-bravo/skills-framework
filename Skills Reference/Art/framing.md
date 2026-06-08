@@ -50,6 +50,7 @@ A CFO needs to present a £2M cost overrun to the board. Two frames: Frame 1: "W
 → [**Schelling Points**](../Economics/schelling-points.md) — framing creates salience, which creates Schelling Points; the most prominent framing tends to become the focal point for coordination.
 → [**De Bono's Six Thinking Hats**](../General-Thinking/de-bonos-six-thinking-hats.md) — each hat is a distinct frame; the Six Hats is a systematic method for cycling through multiple frames of the same problem.
 → [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
+→ [**Social Proof**](../Psychology/social-proof.md) — social proof provides the behaviour signal that framing then shapes; the same adoption behaviour is interpreted differently depending on how it is framed to observers.
 
 ## References
 

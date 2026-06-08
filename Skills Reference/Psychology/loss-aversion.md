@@ -47,6 +47,7 @@ A startup's product team is deciding whether to deprecate a feature used by 8% o
 → [**Anchoring**](anchoring.md) — the reference point determines which domain (gain or loss) a decision is experienced in.
 → [**Inversion**](../General-Thinking/inversion.md) — explicitly stating what is at risk (loss framing) is an application of inversion.
 → [**Trust**](trust.md) — trust violations feel disproportionately large because losses loom larger than equivalent gains; loss aversion explains the asymmetric speed of trust destruction vs. accumulation.
+→ [**Social Proof**](social-proof.md) — social proof often activates loss aversion: the fear of being the one who didn't adopt what everyone else has makes conformity feel urgent.
 
 ## References
 
