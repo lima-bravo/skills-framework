@@ -46,13 +46,12 @@ A startup raises a £3M seed round. The founder announces this to the team as a 
 → [**Anchoring**](../Psychology/anchoring.md) — anchoring is the psychological mechanism by which reference frames are set and exploited.
 → [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — base rates are reference frames; probabilistic thinking requires choosing the right reference class.
 → [**Map-Territory**](../General-Thinking/map-territory.md) — the reference frame is part of the map; changing the frame is changing the map.
+
 ## References
 
 - *Relativity: The Special and the General Theory* — Albert Einstein (1916) — the source model: no absolute frame of reference; all measurements are observer-dependent.
 - *Thinking, Fast and Slow* — Daniel Kahneman (2011) — reference dependence and anchoring: how the frame determines the perceived value.
-
-
----
+- *Einstein: His Life and Universe* — Walter Isaacson (2007) — the intellectual biography tracing how Einstein developed the thought experiments that revealed reference frames as the key to physical measurement.
 
 ---
 
