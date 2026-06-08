@@ -51,6 +51,7 @@ A startup plans to raise 18 months of runway. Their model shows they'll reach pr
 → [**Asymmetry / Convexity**](../General-Thinking/asymmetry-convexity.md) — margin of safety is the downside-protection component of asymmetric positioning; together they define the structure of a sound bet.
 → [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — irreversible decisions require more margin of safety than reversible ones; the two frameworks pair naturally when sizing the buffer needed before committing.
 → [**Debt**](../Economics/debt.md) — debt directly reduces margin of safety by creating fixed future obligations; sizing debt and sizing buffers are the same calculation.
+→ [**Thermodynamics**](../Physics-and-Chemistry/thermodynamics.md) — the second law predicts system degradation; margin of safety is the buffer sized for entropy's guarantee.
 
 ## References
 

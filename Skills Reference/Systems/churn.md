@@ -48,6 +48,7 @@ A B2B SaaS company reports 92% annual gross retention — excellent by industry 
 → [**Compounding**](../Mathematics/compounding.md) — churn is the subtrahend in the compounding equation; reducing churn dramatically changes the long-run trajectory.
 → [**Feedback Loops**](feedback-loops.md) — high churn can trigger a reinforcing negative loop (fewer users → less word of mouth → higher CAC → less investment in product → more churn).
 → [**Bottlenecks**](bottlenecks.md) — in a growth system, churn is often the binding constraint that limits net growth despite strong acquisition.
+→ [**Thermodynamics**](../Physics-and-Chemistry/thermodynamics.md) — churn is the entropic tendency of a customer base: the natural drift toward departure absent continuous active retention energy.
 
 ## References
 

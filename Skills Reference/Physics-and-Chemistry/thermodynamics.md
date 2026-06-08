@@ -13,14 +13,14 @@ The laws of thermodynamics describe the fundamental constraints on energy and en
 
 ## Mental Model
 
-Left alone, everything tends toward entropy. Code becomes legacy. Organizations become bureaucratic. Customer relationships drift. Product experience decays relative to rizing expectations. The practical insight: maintenance is not the absence of work — it is continuous active effort just to stay in place. Any system that looks well-maintained from the outside has had significant energy invested in it invisibly. The practitioner accounts for this: what is the energy cost of maintaining what we've built, and is it covered in our resource planning?
+Left alone, everything tends toward entropy. Code becomes legacy. Organizations become bureaucratic. Customer relationships drift. Product experience decays relative to rising expectations. The practical insight: maintenance is not the absence of work — it is continuous active effort just to stay in place. Any system that looks well-maintained from the outside has had significant energy invested in it invisibly. The practitioner accounts for this: what is the energy cost of maintaining what we've built, and is it covered in our resource planning?
 
 ---
 
 ## Practitioner Heuristics
 
 - **Plan explicitly for maintenance energy, not just build energy.** Most plans account for the energy to create; few account for the energy to maintain. The result is entropy creep: gradual degradation of the system after initial investment ends.
-- **Identify the rate of entropy in each domain.** Some systems decay slowly (a well-written policy document); others decay rapidly (a product's UX relative to rizing user expectations). Allocate maintenance investment proportional to decay rate.
+- **Identify the rate of entropy in each domain.** Some systems decay slowly (a well-written policy document); others decay rapidly (a product's UX relative to rising user expectations). Allocate maintenance investment proportional to decay rate.
 - **Efficiency can reduce the energy required to maintain order, but not eliminate it.** Building more efficient systems (better tooling, automation, clearer processes) lowers the maintenance energy required per unit of order. But it doesn't eliminate the need; it lowers the cost.
 - **Differentiation creates entropy in organizations.** As organizations scale, natural entropy drives them toward "average" — similar processes, similar culture, similar incentives. Maintaining differentiation requires active energy investment.
 - **Closed systems maximize entropy; open systems can reduce local entropy.** An organization that imports talent, ideas, and external feedback is an open system that can maintain low entropy by exporting it to the environment. Closed organizations that stop importing become self-referential and entropic.
@@ -45,13 +45,12 @@ A company's internal knowledge base is excellent when first built. Three years l
 → [**Feedback Loops**](../Systems/feedback-loops.md) — balancing feedback loops are the mechanisms that fight entropy; they require energy to operate.
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — the second law suggests things will degrade; margin of safety is the buffer for that degradation.
 → [**Churn**](../Systems/churn.md) — churn is entropy in a customer base; it is the natural tendency absent active retention investment.
+
 ## References
 
 - *The Laws of Thermodynamics: A Very Short Introduction* — Peter Atkins (2010) — the concise authoritative treatment of the four laws.
 - *Antifragile: Things That Gain from Disorder* — Nassim Nicholas Taleb (2012) — the organizational implication of the second law: entropy as the baseline, resilience as the goal.
-
-
----
+- *A Mathematical Theory of Communication* — Claude E. Shannon (1948) — formally defined information entropy, showing it is mathematically equivalent to thermodynamic entropy: disorder in a message corresponds to disorder in a physical system.
 
 ---
 

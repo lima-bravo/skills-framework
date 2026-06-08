@@ -61,6 +61,7 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Goodhart's Law**](../Economics/goodharts-law.md) — measurement creates feedback loops; when a metric becomes a target, the loop reinforces optimising the metric rather than the underlying outcome.
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — commons depletion follows a reinforcing feedback loop; making consumption visible creates a balancing loop that enables self-regulation before collapse.
 → [**Inertia**](../Physics-and-Chemistry/inertia.md) — existing feedback loops embody and perpetuate inertia; changing direction often requires redesigning the loops driving the current trajectory.
+→ [**Thermodynamics**](../Physics-and-Chemistry/thermodynamics.md) — balancing feedback loops are the mechanisms that actively fight entropy; without them, systems drift toward disorder.
 
 ## References
 
