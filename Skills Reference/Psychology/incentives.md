@@ -61,6 +61,7 @@ A software company introduces a bug bounty program: developers find and report b
 → [**ERG Theory**](erg-theory.md) — ERG's frustration-regression principle predicts incentive failures: an employee regressing to Existence focus may signal blocked Growth, not a genuine preference for pay over challenge.
 → [**Trust**](trust.md) — trust and incentives are interdependent: misaligned incentives structurally destroy trust, and low trust drives demand for more incentive-based control as a substitute.
 → [**Psychological Safety**](psychological-safety.md) — incentive structures that punish failure or reward concealment are the primary structural mechanism by which organisations destroy psychological safety.
+→ [**Self-Determination Theory**](self-determination-theory.md) — SDT's crowding-out effect is the most important caveat in incentive design: rewards applied to intrinsically motivating work degrade the motivation they were meant to boost.
 
 ## References
 

@@ -17,6 +17,8 @@ Self-Determination Theory (SDT), developed by Edward Deci and Richard Ryan from 
 
 When all three needs are met, motivation tends to become **intrinsic** — the work itself is the reward. When they are suppressed, motivation becomes **extrinsic** at best, or collapses into amotivation (no motivation at all) at worst.
 
+---
+
 ## The Internalisation Continuum
 
 SDT's most practically important contribution is the distinction between types of extrinsic motivation. Motivation is not simply intrinsic or extrinsic — it sits on a continuum of internalisation:
@@ -33,6 +35,8 @@ SDT's most practically important contribution is the distinction between types o
 
 The leadership and management implication: the goal is not to eliminate external structure, but to foster internalisation — to help people move from "I do this because I'm told to" toward "I do this because I value it." This happens through autonomy support, meaningful rationale, and genuine acknowledgment of feelings about the work.
 
+---
+
 ## The Crowding-Out Effect
 
 Deci's foundational 1971 experiments demonstrated what became known as the **crowding-out effect** (also Cognitive Evaluation Theory): introducing external rewards for an intrinsically motivating activity reliably reduces intrinsic motivation for that activity, even after the reward is removed.
@@ -41,9 +45,13 @@ The mechanism: external rewards shift the perceived locus of causality from inte
 
 This has significant implications for incentive design. Bonuses, gamification, and performance pay can be effective for tasks that were never intrinsically motivating, but they carry real risk when applied to work that people already find meaningful. The threat is not hypothetical: applied to creative, complex, or purpose-driven work, performance-contingent rewards predictably degrade the quality of output and the durability of engagement.
 
+---
+
 ## Mental Model
 
 Think of intrinsic motivation as a fire that burns on its own once lit, but requires three types of air to keep burning: autonomy (the fire chooses its own direction), competence (the fuel is the right size — not too wet, not too small), and relatedness (the fire is part of something — a hearth, a signal, a forge). External rewards are accelerant: useful for starting a fire that isn't burning, but if applied to a fire that's already going, they consume the oxygen and leave behind a dependency on accelerant.
+
+---
 
 ## Practitioner Heuristics
 
@@ -53,6 +61,8 @@ Think of intrinsic motivation as a fire that burns on its own once lit, but requ
 - **Aim for internalisation, not compliance.** The goal is to move people along the continuum from "because I'm told to" toward "because I value it" — through autonomy support, meaningful rationale, and acknowledging how people actually feel about the work.
 - **Calibrate challenge to sustain competence.** Tasks too easy give no mastery signal; tasks too hard give no success. The competence need is met in the stretch zone where effort visibly produces results.
 
+---
+
 ## Common Failure Modes
 
 - **Reaching for extrinsic rewards first.** The most available management lever — bonuses, gamification, recognition schemes — is the one most likely to crowd out the intrinsic motivation it was meant to boost.
@@ -60,9 +70,13 @@ Think of intrinsic motivation as a fire that burns on its own once lit, but requ
 - **Reading amotivation as a discipline problem.** A person who has stopped trying is more often signalling a chronically thwarted need than a character flaw; the corrective is structural, not motivational pressure.
 - **Removing a reward and expecting interest to bounce back.** Once crowding-out has happened, intrinsic interest does not automatically recover — the person has learned to experience the activity as instrument, not end.
 
+---
+
 ## Worked Example
 
 A software company introduces a per-feature shipping bonus to lift engineering output. Velocity rises for a quarter, then quality and initiative decline: engineers stop volunteering for the unglamorous reliability work that carries no bonus, and the satisfaction that used to come from solving hard problems is now described as "just doing it for the payout." The bonus crowded out intrinsic motivation by shifting the perceived locus of causality from internal to external — and when the bonus is later capped, motivation does not return to baseline; it settles below it. SDT predicts both halves: the reward worked as a short-term external regulator and damaged the intrinsic regulation it displaced. The redesign removes the per-feature contingency, restores autonomy over how work is approached, makes the connection between reliability work and customers (relatedness) explicit, and protects time for the stretch problems that supply the competence signal.
+
+---
 
 ## Connections
 
@@ -73,19 +87,14 @@ A software company introduces a per-feature shipping bonus to lift engineering o
 → [**Organizational Culture**](../Leadership/organizational-culture.md) — culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed
 → [**Purpose Clarity**](../Leadership/purpose-clarity.md) — leadership's primary mechanism for meeting the Relatedness need at scale; people cannot feel their work connects to something meaningful if no one has made that connection explicit
 → [**McClelland's Acquired Needs Theory**](mcclellands-acquired-needs-theory.md) — McClelland's Achievement, Affiliation, and Power needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture
-
 → [**Incentive Design**](../Economics/incentive-design.md) — self-determination theory defines the intrinsic motivation boundary that extrinsic incentive structures must work within or risk crowding out
 
 ## References
 
-**Originators:** Edward L. Deci and Richard M. Ryan, University of Rochester, 1970s–2000.
-
-- *Self-Determination and Intrinsic Motivation in Human Behavior* — Deci & Ryan, 1985
-- *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* — Ryan & Deci, 2017
-- *Why We Do What We Do* — Edward Deci with Richard Flaste, 1995 (accessible practitioner edition)
-- *Drive* — Daniel Pink, 2009 (popular synthesis; Pink's Autonomy/Mastery/Purpose maps closely onto SDT's three needs)
-
----
+- *Self-Determination and Intrinsic Motivation in Human Behavior* — Edward L. Deci & Richard M. Ryan (1985) — the foundational text establishing the three basic psychological needs and the Cognitive Evaluation Theory of the crowding-out effect.
+- *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* — Richard M. Ryan & Edward L. Deci (2017) — the comprehensive synthesis of five decades of SDT research across domains.
+- *Why We Do What We Do: Understanding Self-Motivation* — Edward L. Deci with Richard Flaste (1995) — the accessible practitioner treatment of autonomy and intrinsic motivation.
+- *Drive: The Surprising Truth About What Motivates Us* — Daniel H. Pink (2009) — popular synthesis mapping Autonomy/Mastery/Purpose onto SDT's three needs; widely cited in management contexts.
 
 ---
 

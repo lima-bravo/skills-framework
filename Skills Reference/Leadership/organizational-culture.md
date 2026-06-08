@@ -48,6 +48,7 @@ A company declares "we celebrate intelligent failure" as a new value, with a pos
 → [**Psychological Safety**](../Psychology/psychological-safety.md) — a measurable artefact of an underlying assumption about whether failure and dissent are safe
 → [**Mission Command**](mission-command.md) — requires a basic-assumptions level belief that subordinates can be trusted; fails in high-authority cultures
 → [**Dunbar's Number**](../Systems/dunbars-number.md) — culture transmission mechanisms must change as organisations cross Dunbar thresholds; relational transmission fails above ~150 and must be replaced by artefact and ritual.
+→ [**Self-Determination Theory**](../Psychology/self-determination-theory.md) — culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed; SDT provides the diagnostic lens for what culture is actually doing to motivation.
 
 ## References
 

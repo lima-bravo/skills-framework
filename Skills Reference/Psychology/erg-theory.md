@@ -45,6 +45,7 @@ A senior engineer has been at the company three years, high-performing, and rece
 → [**Maslow's Hierarchy**](maslows-hierarchy-of-needs.md) — ERG is a refinement: fewer levels, no strict sequence, and the frustration-regression principle that Maslow lacks.
 → [**Incentives**](incentives.md) — ERG's frustration-regression principle predicts incentive system failures that pure incentive analysis would miss.
 → [**McClelland's Acquired Needs**](mcclellands-acquired-needs-theory.md) — McClelland identifies which of these need domains is dominant for a given person; ERG describes the dynamics when any level is blocked.
+→ [**Self-Determination Theory**](self-determination-theory.md) — SDT's Relatedness and Competence needs map onto ERG's corresponding levels; SDT adds the autonomy dimension and the internalisation continuum ERG lacks.
 
 ## References
 

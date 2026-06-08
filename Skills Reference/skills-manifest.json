@@ -5717,6 +5717,39 @@
           "color": "#9333EA"
         }
       ]
+    },
+    {
+      "title": "Self-Determination and Intrinsic Motivation in Human Behavior",
+      "authorYear": "Edward L. Deci & Richard M. Ryan (1985)",
+      "skills": [
+        {
+          "id": 192,
+          "name": "Self-Determination Theory",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness",
+      "authorYear": "Richard M. Ryan & Edward L. Deci (2017)",
+      "skills": [
+        {
+          "id": 192,
+          "name": "Self-Determination Theory",
+          "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Why We Do What We Do: Understanding Self-Motivation",
+      "authorYear": "Edward L. Deci with Richard Flaste (1995)",
+      "skills": [
+        {
+          "id": 192,
+          "name": "Self-Determination Theory",
+          "color": "#9333EA"
+        }
+      ]
     }
   ]
 }
