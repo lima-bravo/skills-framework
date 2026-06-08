@@ -49,14 +49,12 @@ A company decides to shift from annual to quarterly planning cycles. The change 
 → [**Activation Energy**](activation-energy.md) — the energy required to overcome inertia and initiate change.
 → [**Feedback Loops**](../Systems/feedback-loops.md) — existing feedback loops embody and perpetuate inertia; changing direction often requires redesigning feedback loops.
 → [**Path Dependence**](../Systems/path-dependence.md) — path dependence is the structural form of inertia: the system is locked in by its own history, not by simple resistance to change.
+→ [**Velocity**](velocity.md) — inertia is the force that must be overcome to change direction; velocity requires both speed and directional alignment.
 
 ## References
 
 - *Principia Mathematica* — Isaac Newton (1687) — Newton's first law: the original statement of inertia.
 - *Good Strategy Bad Strategy: The Difference and Why It Matters* — Richard Rumelt (2011) — organizational inertia as a core strategic obstacle.
-
-
----
 
 ---
 

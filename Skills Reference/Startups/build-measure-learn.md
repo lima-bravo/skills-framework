@@ -48,12 +48,11 @@ Dropbox's famous explainer video is a canonical Build-Measure-Learn example. Bef
 → [**Experiment Design**](../Business/experiment-design.md) — the formal rigor of experiment design disciplines the "measure" phase.
 → [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — Build-Measure-Learn is EPC applied to product hypotheses; EPC is the governing theory behind both.
 → [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — BML is the learning cycle that runs inside the walk stage of this chain
+→ [**Velocity**](../Physics-and-Chemistry/velocity.md) — BML is the mechanism for maintaining directional alignment while moving at speed; fast loops without directional measurement is speed, not velocity.
+
 ## References
 
 - *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source text for the Build-Measure-Learn loop.
-
-
----
 
 ---
 
