@@ -56,6 +56,7 @@ The escape: an industry consortium (commitment mechanism) that makes the coopera
 → [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — the psychological mechanism that makes Tit-for-Tat work in repeated games.
 → [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — public commitments to cooperate can serve as credible signals that shift the equilibrium.
 → [**Free Rider Problem**](free-rider-problem.md) — the free rider problem is a multi-player Prisoner's Dilemma: each actor's dominant strategy (not contributing) produces a collectively worse outcome.
+→ [**Schelling Points**](schelling-points.md) — in repeated games, Schelling Points help players coordinate on cooperative equilibria without explicit communication.
 
 ## References
 

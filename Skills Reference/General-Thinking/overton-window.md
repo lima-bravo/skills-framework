@@ -57,6 +57,7 @@ By 2022, post-pandemic, the window has moved substantially on its own — but he
 → [**Anchoring**](../Psychology/anchoring.md) — the extreme-position-then-moderate tactic is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable.
 → [**Narrative Instinct**](../Psychology/narrative-instinct.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts the window.
 → [**Influence Without Authority**](../Leadership/influence-without-authority.md) — Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask.
+→ [**Schelling Points**](../Economics/schelling-points.md) — what's inside the Overton Window is partly determined by which positions are salient enough to be thinkable; Schelling Points and the Overton Window both operate through prominence.
 
 ## References
 

@@ -57,6 +57,7 @@ The smaller company's advisor suggests anchoring on 60/40 — not because it's t
 → [**Path Dependence**](../Systems/path-dependence.md) — Schelling Points often create path dependence: coordination around a focal point accumulates switching costs that lock in the initially arbitrary choice.
 → [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — in repeated games, Schelling Points help players coordinate on cooperative equilibria without explicit communication.
 → [**Overton Window**](../General-Thinking/overton-window.md) — what's inside the Overton Window is partly determined by which positions are salient enough to be thinkable; Schelling Points and the Overton Window both operate through prominence.
+
 ## References
 
 - *The Strategy of Conflict* — Thomas C. Schelling (1960) — the original treatment of focal points as coordination devices in strategic interaction.
