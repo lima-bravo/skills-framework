@@ -46,12 +46,12 @@ Toyota's Production System (Lean manufacturing) is the canonical example of syst
 → [**Bottlenecks**](../Systems/bottlenecks.md) — efficiency is most improved by addressing bottlenecks; improving non-bottleneck steps doesn't improve system efficiency.
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — efficiency improvements face diminishing returns; the easiest gains come early.
 → [**Trade-offs**](trade-offs.md) — the efficiency-resilience trade-off is structural and requires explicit management.
+
 ## References
 
 - *The Wealth of Nations* — Adam Smith (1776) — the foundational treatment of productive efficiency through specialization and market allocation.
-
-
----
+- *The Goal: A Process of Ongoing Improvement* — Eliyahu M. Goldratt & Jeff Cox (1984) — the Theory of Constraints applied to efficiency: system throughput is determined by the bottleneck, not by average utilization.
+- *The Principles of Scientific Management* — Frederick Winslow Taylor (1911) — the founding text of systematic workplace efficiency analysis; introduced time-and-motion study and standardised work methods.
 
 ---
 

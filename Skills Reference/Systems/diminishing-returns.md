@@ -49,6 +49,7 @@ A marketing team has been investing in content and SEO for three years. The firs
 → [**Scale**](scale.md) — diminishing returns is a common scale dynamic: what grows superlinearly early often hits diminishing returns as the system grows.
 → [**Red Queen Dilemma**](red-queen-dilemma.md) — Red Queen races produce industry-wide diminishing returns: as all competitors invest simultaneously, each party's investment yields less competitive improvement.
 → [**S-Curves**](s-curves.md) — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns as the system approaches its saturation ceiling.
+→ [**Efficiency**](../Economics/efficiency.md) — diminishing returns set the curve that determines where to stop allocating in pursuit of efficiency gains.
 
 ## References
 
