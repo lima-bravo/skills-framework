@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **70**
+- Reviewed (verified + fixed): **71**
 - Flagged: **0**
-- Remaining (todo): **192**
+- Remaining (todo): **191**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -130,7 +130,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#232` **Free Rider Problem** · `Economics/free-rider-problem.md` · **st:** fixed · **n:** blank line before refs; backlinks added in incentives.md, principal-agent-problem.md, prisoners-dilemma.md, nash-equilibrium.md, trust.md, network-effects.md
 - [x] `#236` **Schelling Points** · `Economics/schelling-points.md` · **st:** fixed · **n:** blank line before refs; backlinks added in path-dependence.md, overton-window.md, prisoners-dilemma.md, network-effects.md
 - [x] `#239` **Long Tail** · `Economics/long-tail.md` · **st:** fixed · **n:** blank line before refs; backlinks added in creative-destruction.md, defensibility.md, unit-economics.md, s-curves.md
-- [ ] `#262` **Incentive Design** · `Economics/incentive-design.md` · **st:** todo · **n:** —
+- [x] `#262` **Incentive Design** · `Economics/incentive-design.md` · **st:** fixed · **n:** removed stray --- before refs; removed duplicate footer; fixed Gibbons & Roberts authorYear in card + manifest
 
 ## Physics & Chemistry (10)
 

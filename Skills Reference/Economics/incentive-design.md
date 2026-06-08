@@ -57,16 +57,12 @@ A support team is measured on tickets closed per day. Close rates rise; customer
 → [**Self-Determination Theory**](../Psychology/self-determination-theory.md) — intrinsic motivation and crowding-out effects set the boundary conditions for what extrinsic incentive structures can achieve
 → [**Systems Thinking**](../Systems/systems-thinking.md) — incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
 
----
-
 ## References
 
-- *The Handbook of Organizational Economics* — Gibbons & Roberts eds., 2013 — the definitive academic treatment of incentive theory in organizations, including principal-agent models and mechanism design.
+- *The Handbook of Organizational Economics* — Robert Gibbons & John Roberts eds. (2013) — the definitive academic treatment of incentive theory in organizations, including principal-agent models and mechanism design.
 - *Freakonomics: A Rogue Economist Explores the Hidden Side of Everything* — Steven D. Levitt & Stephen J. Dubner (2005) — case studies in how incentive structures produce unexpected and often perverse behaviors.
 - *Drive: The Surprising Truth About What Motivates Us* — Daniel H. Pink (2009) — the intrinsic motivation research and why extrinsic rewards crowd out performance on complex tasks.
 - *Thinking in Systems: A Primer* — Donella H. Meadows (2008) — incentives as feedback loops: the systems lens that reveals why well-designed incentives still produce unintended dynamics.
-
----
 
 ---
 
