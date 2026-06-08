@@ -62,6 +62,7 @@ The failure mode: a contractor's credentials are compromised, they access an unr
 → [**Organisational Degradation Scan**](../Pre-built-Chains/organisational-degradation-scan.md) — Drift to Failure is the universal precondition for organisational degradation; the scan begins here before examining the specific mechanisms that compound it
 → [**Fixes That Fail**](fixes-that-fail.md) — Fixes That Fail is the mechanism that produces drift: each symptomatic fix relieves the pressure that would force a fundamental solution, allowing the root cause to persist and grow.
 → [**Path Dependence**](path-dependence.md) — drift and path dependence compound: each drift step increases switching costs, making it progressively harder to reverse course as the system moves toward the risk boundary.
+→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse.
 
 ## References
 
