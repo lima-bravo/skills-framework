@@ -54,6 +54,7 @@ An engineering team complains they can't ship fast enough. The diagnosis: pull r
 → [**Scarcity**](../Economics/scarcity.md) — the bottleneck is the point of maximum scarcity in a process; bottleneck management is the operational discipline for allocating the scarcest resource.
 → [**Leverage**](../Physics-and-Chemistry/leverage.md) — applying leverage to bottlenecks produces the highest system-wide return; the bottleneck is where leverage compounds most powerfully.
 → [**Velocity**](../Physics-and-Chemistry/velocity.md) — bottlenecks reduce speed; directional confusion reduces velocity even when throughput is high.
+→ [**Catalysts**](../Physics-and-Chemistry/catalysts.md) — catalysts are most valuable when applied to the bottleneck; the same enabling investment at the constraint produces system-wide returns.
 
 ## References
 

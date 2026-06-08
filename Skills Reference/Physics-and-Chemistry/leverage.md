@@ -47,6 +47,7 @@ A founder spends the first year of her company answering customer support person
 → [**Scale**](../Systems/scale.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
 → [**Algorithms**](../Systems/algorithms.md) — code and algorithms are the highest-leverage form of knowledge work.
 → [**Friction**](friction.md) — friction reduces the effective multiple of leverage; a high-leverage action in a high-friction system produces less output than expected.
+→ [**Catalysts**](catalysts.md) — a catalyst creates leverage by making others more productive; the reusable mechanism produces compounding rather than linear returns.
 
 ## References
 

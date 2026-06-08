@@ -46,13 +46,13 @@ A startup builds an internal developer platform: a standardized toolchain, deplo
 → [**Leverage**](leverage.md) — a catalyst creates leverage; the reusable mechanism produces disproportionate output.
 → [**Activation Energy**](activation-energy.md) — catalysts work by lowering activation energy.
 → [**Bottlenecks**](../Systems/bottlenecks.md) — catalysts are most valuable when applied to bottlenecks.
+
 ## References
 
 - *The Laws of Thermodynamics: A Very Short Introduction* — Peter Atkins (2010) — the physical basis for activation energy and catalysis.
 - *Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World* — Mark Miodownik (2013) — the material science of catalytic processes.
-
-
----
+- *The Innovator's Dilemma* — Clayton M. Christensen (1997) — disruptive technologies function as industry catalysts: they lower the entry barrier enough for new entrants to initiate a transformation that incumbents cannot.
+- *How Innovation Works* — Matt Ridley (2020) — argues that innovation is catalytic rather than heroic: ideas accelerate when they find the right enabling conditions, spreading through recombination rather than single invention.
 
 ---
 
