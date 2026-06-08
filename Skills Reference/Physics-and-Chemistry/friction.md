@@ -46,13 +46,12 @@ An engineering team's deployment process requires: code review (necessary), inte
 → [**Activation Energy**](activation-energy.md) — activation energy is the specific friction at the start of a process; reducing it is often the highest-leverage friction intervention.
 → [**Leverage**](leverage.md) — low-friction systems produce higher leverage; friction reduces the multiple.
 → [**Inertia**](inertia.md) — friction in the context of directional change is the energy cost of overcoming inertia.
+
 ## References
 
 - *Switch: How to Change Things When Change Is Hard* — Chip Heath & Dan Heath (2010) — shaping the path: removing friction from desired behaviors.
 - *Nudge: Improving Decisions About Health, Wealth, and Happiness* — Richard H. Thaler & Cass R. Sunstein (2008) — friction as an architectural choice in choice design.
-
-
----
+- *Hooked: How to Build Habit-Forming Products* — Nir Eyal (2014) — the Hook model's action phase: minimising friction between motivation and behaviour to drive habitual engagement.
 
 ---
 

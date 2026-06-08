@@ -46,6 +46,7 @@ A founder spends the first year of her company answering customer support person
 → [**Bottlenecks**](../Systems/bottlenecks.md) — applying leverage to bottlenecks produces the highest system-wide return.
 → [**Scale**](../Systems/scale.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
 → [**Algorithms**](../Systems/algorithms.md) — code and algorithms are the highest-leverage form of knowledge work.
+→ [**Friction**](friction.md) — friction reduces the effective multiple of leverage; a high-leverage action in a high-friction system produces less output than expected.
 
 ## References
 

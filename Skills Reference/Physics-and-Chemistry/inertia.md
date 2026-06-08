@@ -50,6 +50,7 @@ A company decides to shift from annual to quarterly planning cycles. The change 
 → [**Feedback Loops**](../Systems/feedback-loops.md) — existing feedback loops embody and perpetuate inertia; changing direction often requires redesigning feedback loops.
 → [**Path Dependence**](../Systems/path-dependence.md) — path dependence is the structural form of inertia: the system is locked in by its own history, not by simple resistance to change.
 → [**Velocity**](velocity.md) — inertia is the force that must be overcome to change direction; velocity requires both speed and directional alignment.
+→ [**Friction**](friction.md) — friction and inertia compound: friction is the energy cost of each movement; inertia is the resistance to changing direction at all.
 
 ## References
 
