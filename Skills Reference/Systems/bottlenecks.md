@@ -55,6 +55,7 @@ An engineering team complains they can't ship fast enough. The diagnosis: pull r
 → [**Leverage**](../Physics-and-Chemistry/leverage.md) — applying leverage to bottlenecks produces the highest system-wide return; the bottleneck is where leverage compounds most powerfully.
 → [**Velocity**](../Physics-and-Chemistry/velocity.md) — bottlenecks reduce speed; directional confusion reduces velocity even when throughput is high.
 → [**Catalysts**](../Physics-and-Chemistry/catalysts.md) — catalysts are most valuable when applied to the bottleneck; the same enabling investment at the constraint produces system-wide returns.
+→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — fragmented calendars make attention the binding bottleneck for makers; the scheduling structure is the constraint to elevate.
 
 ## References
 

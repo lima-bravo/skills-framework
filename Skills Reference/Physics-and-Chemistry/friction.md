@@ -46,6 +46,7 @@ An engineering team's deployment process requires: code review (necessary), inte
 → [**Activation Energy**](activation-energy.md) — activation energy is the specific friction at the start of a process; reducing it is often the highest-leverage friction intervention.
 → [**Leverage**](leverage.md) — low-friction systems produce higher leverage; friction reduces the multiple.
 → [**Inertia**](inertia.md) — friction in the context of directional change is the energy cost of overcoming inertia.
+→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — scattered meetings are a structural source of compounding cognitive friction; calendar design is friction reduction applied to knowledge work.
 
 ## References
 

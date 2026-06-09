@@ -1,7 +1,7 @@
 # Maker's Schedule vs. Manager's Schedule
 *A single meeting in a maker's afternoon doesn't cost one hour — it costs the whole block; managers and makers need fundamentally different calendars*
 
-**Category:** [Business](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
+**Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
 
@@ -11,11 +11,15 @@ Managers and makers operate in fundamentally incompatible time structures. Manag
 
 A single one-hour meeting placed in the middle of an afternoon does not cost a maker one hour — it costs the entire afternoon, because the anticipation of the meeting prevents entry into the deep focus required for complex work. Paul Graham articulated this asymmetry in 2009. Gloria Mark's research quantified the re-focus cost at an average of 23 minutes per disruption.
 
+---
+
 ## Mental Model
 
 Time is not homogeneous for knowledge workers. Its value depends entirely on whether it forms a contiguous block long enough for meaningful cognitive work. An 8-hour day with 3 scattered 1-hour meetings contains approximately zero usable deep work blocks. The same 8 hours with all meetings consolidated in the morning leaves a 4–5 hour afternoon: the only structure in which deep work is actually possible.
 
 Same total hours. Same meeting load. Profoundly different capacity. This is the asymmetry managers applying their own scheduling intuitions to makers miss — because for managers, meeting distribution within the day genuinely does not matter much.
+
+---
 
 ## Practitioner Heuristics
 
@@ -25,6 +29,8 @@ Same total hours. Same meeting load. Profoundly different capacity. This is the 
 - **When estimating team capacity, subtract the fragmentation tax**: every scattered meeting reduces usable deep work by more than its nominal duration.
 - **Know which people on your team are in maker mode** and apply explicitly different scheduling norms to them.
 
+---
+
 ## Common Failure Modes
 
 - **Assuming makers switch between focus and meetings as fluidly as managers do.** For managers, this is true. For makers, it is not.
@@ -32,23 +38,32 @@ Same total hours. Same meeting load. Profoundly different capacity. This is the 
 - **Measuring team health by meeting attendance and responsiveness** rather than by output quality and deep work time protected.
 - **Applying uniform calendar norms across a team that contains both makers and managers.**
 
+---
+
 ## Worked Example
 
 A senior engineer is allocated full-time to a critical project. Their calendar shows 4 hours of meetings distributed across each day. Nominal availability: 50%. Actual usable deep work: approximately 1–1.5 hours per day, because no contiguous block longer than 75 minutes exists before 4pm. Consolidating all recurring meetings to Tuesday and Thursday mornings frees Monday, Wednesday, and Friday as protected deep work days — same meeting count, roughly 3× the usable cognitive output.
 
+---
+
 ## Connections
-→ [**Deep Work / Cognitive Capacity**](../Learning/deep-work.md) — the scheduling structure that preserves or destroys deep work time
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — fragmented schedules make attention the binding bottleneck
-→ [**Activation Energy**](../Physics-and-Chemistry/activation-energy.md) — every interruption resets the cost of re-entering deep focus
-→ [**Friction**](../Physics-and-Chemistry/friction.md) — scattered meetings are a structural source of compounding cognitive friction
-→ [**Incentives**](../Psychology/incentives.md) — organizations reward responsiveness; protecting maker time requires counteracting this
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — fragmentation → lower output → more status meetings → more fragmentation
-→ [**Conway's Law**](../Systems/conways-law.md) — org communication structures determine scheduling norms as a structural output
+
+→ [**Deep Work / Cognitive Capacity**](../Learning/deep-work.md) — the scheduling structure that preserves or destroys deep work time.
+→ [**Bottlenecks**](../Systems/bottlenecks.md) — fragmented schedules make attention the binding bottleneck.
+→ [**Activation Energy**](../Physics-and-Chemistry/activation-energy.md) — every interruption resets the cost of re-entering deep focus.
+→ [**Friction**](../Physics-and-Chemistry/friction.md) — scattered meetings are a structural source of compounding cognitive friction.
+→ [**Incentives**](../Psychology/incentives.md) — organisations reward responsiveness; protecting maker time requires counteracting this incentive gradient.
+→ [**Feedback Loops**](../Systems/feedback-loops.md) — fragmentation → lower output → more status meetings → more fragmentation.
+→ [**Conway's Law**](../Systems/conways-law.md) — org communication structures determine scheduling norms as a structural output.
 
 ---
-*Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*
 
 ## References
 
-- *Maker's Schedule, Manager's Schedule* — Paul Graham, paulgraham.com (2009) — the original essay naming the incompatibility.
+- *Maker's Schedule, Manager's Schedule* — Paul Graham (paulgraham.com, 2009) — the original essay naming the incompatibility.
 - *Deep Work: Rules for Focused Success in a Distracted World* — Cal Newport (2016) — the extended treatment of why uninterrupted focus is the scarce resource in knowledge work.
+- *The Cost of Interrupted Work: More Speed and Stress* — Gloria Mark, Daniela Gudith & Ulrich Klocke, CHI Proceedings (2008) — empirical measurement of the 23-minute re-focus cost after a single interruption.
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -47,6 +47,7 @@ A startup grows from 10 to 60 engineers. At 10, everyone talks to everyone, the 
 → [**Interdependence**](../Economics/interdependence.md) — Conway's Law is the specific version of the interdependence principle applied to system design.
 → [**Path Dependence**](../Systems/path-dependence.md) — the communication structures of the past create the architectural paths of the present; Conway's Law is a primary mechanism of path dependence in software systems.
 → [**Dunbar's Number**](dunbars-number.md) — Dunbar's Number is the cognitive constraint behind Conway's Law: the communication structure of the organisation is shaped by what humans can track, and this shapes the architecture.
+→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — org communication structures determine scheduling norms as a structural output; how an organisation communicates becomes how makers' days are fragmented.
 
 ## References
 

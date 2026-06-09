@@ -63,6 +63,7 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Psychological Safety**](psychological-safety.md) — incentive structures that punish failure or reward concealment are the primary structural mechanism by which organisations destroy psychological safety.
 → [**Self-Determination Theory**](self-determination-theory.md) — SDT's crowding-out effect is the most important caveat in incentive design: rewards applied to intrinsically motivating work degrade the motivation they were meant to boost.
 → [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — stakeholder salience is partly determined by incentive alignment; a high-power stakeholder whose incentives are misaligned requires more intensive management than one who is aligned.
+→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — organisations reward responsiveness over deep work; protecting maker time requires counteracting the incentive gradient that makes availability feel productive.
 
 ## References
 

@@ -64,6 +64,7 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Thermodynamics**](../Physics-and-Chemistry/thermodynamics.md) — balancing feedback loops are the mechanisms that actively fight entropy; without them, systems drift toward disorder.
 → [**Incentives**](../Psychology/incentives.md) — incentives create feedback loops; the loop structure determines whether the incentive produces the intended long-run outcome or an unintended one.
 → [**Psychological Safety**](../Psychology/psychological-safety.md) — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound into larger failures.
+→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — fragmentation → lower output → more status meetings → more fragmentation is a reinforcing loop; calendar structure is the intervention point.
 
 ## References
 

@@ -47,6 +47,7 @@ A company wants engineers to write more documentation. They mandate it, incentiv
 → [**Catalysts**](catalysts.md) — the chemical mechanism for reducing activation energy; organizations have analogous catalysts.
 → [**Inertia**](inertia.md) — activation energy is required to overcome inertia; they are related but distinct.
 → [**Equilibrium**](../Systems/equilibrium.md) — shifting between equilibria requires an energy input to cross the barrier between stable states; activation energy is that barrier's mechanism.
+→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — every interruption resets the activation energy required to re-enter deep focus; protecting unbroken time eliminates the repeated re-entry cost.
 
 ## References
 
