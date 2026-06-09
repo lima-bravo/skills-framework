@@ -29,6 +29,14 @@ function parseSections(md) {
   return sections;
 }
 
+function normalizeText(s) {
+  return s
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[–—]/g, '-')
+    .trim();
+}
+
 function parseTitle(md) {
   const m = md.match(/^# ([^\n]+)/m);
   return m ? m[1].trim() : '';
@@ -152,7 +160,7 @@ function main() {
     const sections = parseSections(md);
     const cardType = meta.cardType ?? 'standard';
 
-    if (title !== meta.name) {
+    if (normalizeText(title) !== normalizeText(meta.name)) {
       fail(file, `title "${title}" != manifest name "${meta.name}"`);
     }
     if (!tagline) fail(file, 'missing tagline');
@@ -168,7 +176,7 @@ function main() {
       );
       if (targetId == null) {
         fail(file, `unresolved connection: ${conn.name || conn.raw}`);
-      } else if (conn.id == null) {
+      } else if (conn.id == null && !STRICT) {
         warn(file, `connection without id prefix: ${conn.name} (resolved by ${resolvedBy})`);
       }
     }

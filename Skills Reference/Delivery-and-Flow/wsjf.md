@@ -1,4 +1,4 @@
-# WSJF (Weighted Shortest Job First)
+# WSJF
 *Sequence by cost of delay per unit of work*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
