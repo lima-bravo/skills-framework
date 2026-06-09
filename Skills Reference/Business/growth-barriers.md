@@ -58,16 +58,15 @@ The binding constraint is not sales execution or competitive pressure — it is 
 → [**Unit Economics**](../Economics/unit-economics.md) — when the binding constraint sits in monetization or expansion, unit economics is the lens that makes the leak visible in dollar terms, not just funnel-percentage terms.
 → [**Outcome vs Output**](../Delivery-and-Flow/outcome-vs-output.md) — a growth team that is "shipping a lot" while the binding constraint goes unaddressed is optimizing output while the outcome continues to stall.
 → [**Hypothesis-Driven Consulting**](../Consulting-Craft/hypothesis-driven.md) — the binding-constraint diagnosis is a hypothesis, not a verdict; this card supplies the discipline for testing it cheaply before committing to the full-scale fix.
-→ [**Theory of Constraints**](../Systems/bottlenecks.md) — see Bottlenecks; the five-step focusing process (identify, exploit, subordinate, elevate, repeat) is the operational version of "find the binding constraint and fix that one thing first."
 
 ---
 
 ## References
 
-- Goldratt, E. M. & Cox, J. (1984) *The Goal*. North River Press. The theory-of-constraints logic this card applies to growth specifically: only the binding constraint determines system throughput.
-- Ries, E. (2011) *The Lean Startup*. Crown Business. The engine-of-growth framing — paid, viral, sticky — that underlies a clean acquisition/retention/expansion decomposition.
-- Christensen, C. M., Hall, T., Dillon, K. & Duncan, D. S. (2016) *Competing Against Luck*. HarperBusiness. On separating the job a customer is hiring a product to do from the symptom that shows up when it fails to do it.
-- Croll, A. & Yoskovitz, B. (2013) *Lean Analytics*. O'Reilly. The driver-tree style decomposition of a growth system into measurable, falsifiable components.
+- *The Goal* — Eliyahu M. Goldratt & Jeff Cox (1984) — the theory-of-constraints logic this card applies to growth specifically: only the binding constraint determines system throughput.
+- *The Lean Startup* — Eric Ries (2011) — the engine-of-growth framing — paid, viral, sticky — that underlies a clean acquisition/retention/expansion decomposition.
+- *Competing Against Luck* — C.M. Christensen, T. Hall, K. Dillon & D.S. Duncan (2016) — separating the job a customer is hiring a product to do from the symptom that shows up when it fails to do it.
+- *Lean Analytics* — Alistair Croll & Benjamin Yoskovitz (2013) — driver-tree style decomposition of a growth system into measurable, falsifiable components.
 
 ---
 

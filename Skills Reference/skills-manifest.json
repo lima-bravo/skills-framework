@@ -1989,6 +1989,11 @@
           "id": 103,
           "name": "Jobs to Be Done",
           "color": "#DC2626"
+        },
+        {
+          "id": 247,
+          "name": "Growth Barriers",
+          "color": "#475569"
         }
       ]
     },
@@ -3882,6 +3887,11 @@
           "id": 81,
           "name": "Multiply by Zero",
           "color": "#4F46E5"
+        },
+        {
+          "id": 247,
+          "name": "Growth Barriers",
+          "color": "#475569"
         }
       ]
     },
@@ -4122,6 +4132,11 @@
         {
           "id": 225,
           "name": "A/B Testing",
+          "color": "#475569"
+        },
+        {
+          "id": 247,
+          "name": "Growth Barriers",
           "color": "#475569"
         }
       ]
@@ -6178,6 +6193,17 @@
         {
           "id": 225,
           "name": "A/B Testing",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Lean Analytics",
+      "authorYear": "Alistair Croll & Benjamin Yoskovitz (2013)",
+      "skills": [
+        {
+          "id": 247,
+          "name": "Growth Barriers",
           "color": "#475569"
         }
       ]
