@@ -1,10 +1,33 @@
+---
+id: 175
+name: Effectuation
+category: Innovation & Entrepreneurship
+cardType: extended
+tagline: Start with what you have, not where you want to go
+connections:
+  - id: 63
+    rationale: effectuation provides the decision logic for the early cycle; Build-Measure-Learn provides the process structure. Together they describe how expert entrepreneurs move through uncertainty.
+  - id: 64
+    rationale: "the minimum viable product is an effectual instrument: a bird-in-hand commitment that produces learning without requiring a fully specified goal."
+  - id: 12
+    rationale: affordable loss is a strategy for ensuring your downside is capped while your upside remains open; convexity thinking formalizes this logic.
+  - id: 108
+    rationale: effectuation is the appropriate reasoning mode during exploration; causation is the appropriate mode during exploitation.
+  - id: 109
+    rationale: the crazy quilt principle expands the adjacent possible through partner commitments; each new partner opens doors that weren't accessible from the original starting position.
+  - id: 7
+    rationale: effectuation doesn't abandon probabilistic reasoning; it acknowledges when the distribution is too unknown to compute and uses affordable loss as a substitute for expected value.
+references:
+  - title: "Effectuation: Elements of Entrepreneurial Expertise"
+    authorYear: Saras D. Sarasvathy (2008)
+    supports: the academic foundation of effectual reasoning derived from research into expert entrepreneurs.
+---
+
 # Effectuation
-*Start with what you have, not where you want to go*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Effectuation is a decision-making logic identified by Saras Sarasvathy through research into how expert entrepreneurs reason under uncertainty. It is the inverse of causal (or planning) reasoning. Causal reasoning starts with a predefined goal and works backward to assemble the means to achieve it. Effectuation starts with available means — who you are, what you know, who you know — and asks what range of possible outcomes those means could create.
@@ -56,21 +79,6 @@ The practical implication: effectual thinkers don't wait for the right goal, the
 ## Worked Example
 
 The founding of Starbucks illustrates the lemonade principle. Howard Schultz visited Italy and experienced espresso bar culture — he returned with a vision of transplanting it to America. His employers at Starbucks (then a coffee bean retailer) declined. Schultz left, started Il Giornale, and eventually purchased Starbucks when its founders wanted to exit. At each stage, the "goal" was redefined by available means and unexpected events: the accidental financing that kept Il Giornale alive, the fortuitous timing of the Starbucks acquisition, the partnership with investors who brought operational capability Schultz lacked. A backward-mapped causal plan would not have produced the same company — the path was constructed through the surprises, not despite them.
-
----
-
-## Connections
-
-→ [63·Build-Measure-Learn](build-measure-learn.md) — effectuation provides the decision logic for the early cycle; Build-Measure-Learn provides the process structure. Together they describe how expert entrepreneurs move through uncertainty.
-→ [64·MVP](mvp.md) — the minimum viable product is an effectual instrument: a bird-in-hand commitment that produces learning without requiring a fully specified goal.
-→ [12·Asymmetry / Convexity](../General-Thinking/asymmetry-convexity.md) — affordable loss is a strategy for ensuring your downside is capped while your upside remains open; convexity thinking formalizes this logic.
-→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — effectuation is the appropriate reasoning mode during exploration; causation is the appropriate mode during exploitation.
-→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — the crazy quilt principle expands the adjacent possible through partner commitments; each new partner opens doors that weren't accessible from the original starting position.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — effectuation doesn't abandon probabilistic reasoning; it acknowledges when the distribution is too unknown to compute and uses affordable loss as a substitute for expected value.
-## References
-
-- *Effectuation: Elements of Entrepreneurial Expertise* — Saras D. Sarasvathy (2008) — the academic foundation of effectual reasoning derived from research into expert entrepreneurs.
-
 
 ---
 

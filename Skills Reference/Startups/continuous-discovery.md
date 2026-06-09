@@ -1,10 +1,33 @@
+---
+id: 182
+name: Continuous Discovery
+category: Innovation & Entrepreneurship
+cardType: extended
+tagline: Customer understanding as a weekly practice, not a project phase
+connections:
+  - id: 180
+    rationale: the OST is the artifact that continuous discovery populates; interviews update the opportunity level of the tree.
+  - id: 103
+    rationale: "the continuous interview format is structured around JTBD: what job is the customer trying to accomplish, what triggers it, what gets in the way?"
+  - id: 63
+    rationale: continuous discovery runs upstream of the BML cycle; it continuously generates the opportunities and hypotheses that BML cycles test.
+  - id: 110
+    rationale: the empathize phase of design thinking is continuous discovery done once at the start of a project; continuous discovery makes empathy an ongoing practice rather than a phase.
+  - id: 66
+    rationale: customer development (Steve Blank) is the project-level methodology; continuous discovery is the always-on practice that sustains customer understanding after the initial development stage.
+  - id: 17
+    rationale: continuous discovery installs a reinforcing feedback loop between customer reality and product decisions; the loop is the mechanism that prevents the team from drifting away from what customers need.
+references:
+  - title: "Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value"
+    authorYear: Teresa Torres (2021)
+    supports: the source text for the weekly cadence discovery practice and opportunity solution trees.
+---
+
 # Continuous Discovery
-*Customer understanding as a weekly practice, not a project phase*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Continuous discovery, developed by Teresa Torres, is the practice of conducting regular, structured customer interviews on a weekly cadence — not as a one-time research phase at the start of a project, but as an ongoing team discipline that continuously updates the team's understanding of customer needs, behaviors, and contexts. The output is not a research report but a living opportunity space: a shared, evolving map of what customers are trying to accomplish, where they struggle, and what that implies for what to build or explore next.
@@ -55,21 +78,6 @@ Continuous discovery installs a feedback loop at the team level: every week, at 
 ## Worked Example
 
 Spotify's product squads operate a continuous discovery model in which each squad maintains a standing pool of users who have opted into ongoing research contact. Researchers and product managers alternate conducting weekly interviews, with findings fed directly into squad-level opportunity backlogs. The opportunity backlog — their version of the opportunity space — is reviewed in squad-level weekly syncs and informs experiment prioritization for the following two weeks. Crucially, squad members rotate through interview duty rather than leaving discovery to a specialist: engineers, designers, and product managers each conduct several interviews per quarter. The explicit goal is that every squad member maintains enough direct customer contact to have genuine intuitions, not just received findings.
-
----
-
-## Connections
-
-→ [180·Opportunity Solution Trees](opportunity-solution-trees.md) — the OST is the artifact that continuous discovery populates; interviews update the opportunity level of the tree.
-→ [103·Jobs to Be Done](jobs-to-be-done.md) — the continuous interview format is structured around JTBD: what job is the customer trying to accomplish, what triggers it, what gets in the way?
-→ [63·Build-Measure-Learn](build-measure-learn.md) — continuous discovery runs upstream of the BML cycle; it continuously generates the opportunities and hypotheses that BML cycles test.
-→ [110·Design Thinking](design-thinking.md) — the empathize phase of design thinking is continuous discovery done once at the start of a project; continuous discovery makes empathy an ongoing practice rather than a phase.
-→ [66·Customer Development](customer-development.md) — customer development (Steve Blank) is the project-level methodology; continuous discovery is the always-on practice that sustains customer understanding after the initial development stage.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — continuous discovery installs a reinforcing feedback loop between customer reality and product decisions; the loop is the mechanism that prevents the team from drifting away from what customers need.
-## References
-
-- *Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value* — Teresa Torres (2021) — the source text for the weekly cadence discovery practice and opportunity solution trees.
-
 
 ---
 

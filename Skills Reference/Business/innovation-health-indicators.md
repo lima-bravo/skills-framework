@@ -1,10 +1,44 @@
+---
+id: 179
+name: Innovation Health Indicators
+category: Innovation & Entrepreneurship
+cardType: extended
+tagline: What good looks like, measured
+connections:
+  - id: 70
+    rationale: the pipeline indicators instrument the funnel directly; health indicators give the funnel quantitative teeth.
+  - id: 113
+    rationale: H2+H3 investment ratio is the portfolio-level health indicator; Three Horizons provides the framework for interpreting it.
+  - id: 67
+    rationale: innovation accounting (Lean Startup) covers the experiment-level metrics; health indicators operate at the program and organizational level.
+  - id: 176
+    rationale: exploration capacity protection rate is the slack indicator operationalized; the two cards work together.
+  - id: 142
+    rationale: "the structural analogy: DORA measures delivery system health; innovation health indicators measure innovation system health. Both measure conditions and flow rather than only outcomes."
+  - id: 172
+    rationale: governance independence and structural separation indicators directly measure whether the ambidextrous design is functioning in practice.
+  - id: 180
+    rationale: hypothesis quality at stage gate is largely a measure of whether teams are building and updating OSTs; the tree is the artifact the gate assesses.
+  - id: 182
+    rationale: discovery continuity rate directly measures whether the continuous discovery practice is being maintained; the practice is the source of the customer grounding that learning quality depends on.
+  - id: 181
+    rationale: time-to-first-experiment improves when teams use pretotyping techniques; cheap demand tests before expensive builds compress the pipeline clock.
+  - id: 103
+    rationale: JTBD framing is the method behind hypothesis quality; a hypothesis without a JTBD-grounded customer need is not yet a well-formed hypothesis.
+references:
+  - title: "Accelerate: The Science of Lean Software and DevOps"
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: the model for leading-indicator metrics in complex capability systems that inspired this card.
+  - title: "Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth"
+    authorYear: John Doerr (2018)
+    supports: the framework for connecting leading indicators to outcomes.
+---
+
 # Innovation Health Indicators
-*What good looks like, measured*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Innovation health indicators are the set of metrics that tell you whether an organization's innovation capability is functioning, improving, or deteriorating — independent of whether any specific innovation has yet produced commercial results. They occupy the space between lagging financial outcomes (revenue from new products, market share in new segments) and mere activity counts (workshops run, ideas submitted). The discipline is analogous to DORA metrics for software delivery: instead of measuring only whether the release shipped, you measure the system properties — deployment frequency, lead time, change failure rate — that predict future delivery performance.
@@ -94,26 +128,6 @@ These indicators measure whether the funnel is a learning accelerator — active
 ## Worked Example
 
 A CPO inherits an innovation programme that reports glowing numbers: 200 ideas in the portal, 47 workshops run, innovation scores up across every team. Asked by the board whether the capability is actually improving, she ignores the activity counts and instruments the four layers. Conditions: H2+H3 investment sits at 6% — below the 10% floor — and exploration time is being absorbed by operational work at a 50% protection rate. Pipeline: experiment throughput is 0.4 cycles per team per quarter, and time-to-first-experiment averages 140 days. Learning quality: kills produce no recorded artifacts. The diagnosis is unambiguous and would have been invisible on the old dashboard — the programme is generating activity, not capability, because the conditions that make innovation possible were never funded and the funnel filters without learning. The intervention follows the indicators: ring-fence and protect exploration capacity, set an H2+H3 target, and gate stage advancement on hypothesis quality and a completed assumption map. The board conversation shifts from "how many ideas did we get?" to "is the system that produces outcomes getting healthier?"
-
----
-
-## Connections
-
-→ [70·Innovation Funnel](innovation-funnel.md) — the pipeline indicators instrument the funnel directly; health indicators give the funnel quantitative teeth.
-→ [113·Three Horizons](three-horizons.md) — H2+H3 investment ratio is the portfolio-level health indicator; Three Horizons provides the framework for interpreting it.
-→ [67·Innovation Accounting](../Startups/innovation-accounting.md) — innovation accounting (Lean Startup) covers the experiment-level metrics; health indicators operate at the program and organizational level.
-→ [176·Organizational Slack](organizational-slack.md) — exploration capacity protection rate is the slack indicator operationalized; the two cards work together.
-→ [142·DORA Metrics](../Delivery-and-Flow/dora-metrics.md) — the structural analogy: DORA measures delivery system health; innovation health indicators measure innovation system health. Both measure conditions and flow rather than only outcomes.
-→ [172·Ambidextrous Organization](ambidextrous-organization.md) — governance independence and structural separation indicators directly measure whether the ambidextrous design is functioning in practice.
-→ [180·Opportunity Solution Trees](../Startups/opportunity-solution-trees.md) — hypothesis quality at stage gate is largely a measure of whether teams are building and updating OSTs; the tree is the artifact the gate assesses.
-→ [182·Continuous Discovery](../Startups/continuous-discovery.md) — discovery continuity rate directly measures whether the continuous discovery practice is being maintained; the practice is the source of the customer grounding that learning quality depends on.
-→ [181·Pretotyping](../Startups/pretotyping.md) — time-to-first-experiment improves when teams use pretotyping techniques; cheap demand tests before expensive builds compress the pipeline clock.
-→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — JTBD framing is the method behind hypothesis quality; a hypothesis without a JTBD-grounded customer need is not yet a well-formed hypothesis.
-## References
-
-- *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble & Gene Kim (2018) — the model for leading-indicator metrics in complex capability systems that inspired this card.
-- *Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth* — John Doerr (2018) — the framework for connecting leading indicators to outcomes.
-
 
 ---
 

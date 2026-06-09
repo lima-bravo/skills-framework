@@ -1,10 +1,38 @@
+---
+id: 176
+name: Organizational Slack
+category: Innovation & Entrepreneurship
+cardType: extended
+tagline: Spare capacity is not waste — it is the raw material of adaptation
+connections:
+  - id: 108
+    rationale: slack is a prerequisite for exploration; without protected capacity, exploration is crowded out by exploitation regardless of strategic intent.
+  - id: 172
+    rationale: ambidextrous structure without protected slack is structural theater; the explore unit needs real capacity, not nominal assignment.
+  - id: 114
+    rationale: innovation requires focused, uninterrupted cognitive work; slack policy and deep work norms are the organizational and individual sides of the same requirement.
+  - id: 149
+    rationale: fragmented attention destroys cognitive slack even when calendar slack nominally exists; the two must be managed together.
+  - id: 113
+    rationale: H2 and H3 work requires slack; organizations that run H1 at 100% efficiency consume the capacity needed to develop the next horizons.
+  - id: 158
+    rationale: portfolio-level slack policy — explicit capacity reservation for strategic bets — is the mechanism for protecting exploration investment at scale.
+  - id: 241
+    rationale: "Parkinson's Law is the failure mode of slack: unstructured spare capacity fills with low-value activity; the value of slack depends on it being deliberately allocated rather than simply available."
+references:
+  - title: A Behavioral Theory of the Firm
+    authorYear: Richard M. Cyert & James G. March (1963)
+    supports: the original formal treatment of organizational slack as a buffer enabling adaptation.
+  - title: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
+    authorYear: Tom DeMarco (2001)
+    supports: the practitioner case for why eliminating all slack destroys adaptability.
+---
+
 # Organizational Slack
-*Spare capacity is not waste — it is the raw material of adaptation*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Organizational slack is the cushion of actual or potential resources that allows an organization to adapt successfully to internal pressures for adjustment or to external pressures for change. The concept, formalized by Cyert and March, describes the gap between the resources an organization controls and the minimum resources required to sustain current operations. Slack takes several forms: excess budget not yet committed, underutilized human capacity, uncommitted management attention, and undeployed capability.
@@ -57,23 +85,6 @@ For innovation purposes, unabsorbed slack — particularly in human attention an
 3M's longstanding rule that technical employees could spend 15% of their time on self-chosen projects is the defining case. It was not a motivational perk; it was a deliberate slack policy. Post-it Notes, Scotch tape, and numerous other product lines originated from 15% time. 3M's insight was that innovation could not be fully planned — that a portion of new product value would always come from places that management could not predict in advance. The 15% policy created the structural conditions for those unexpected contributions to exist. When 3M reduced this slack during cost-cutting periods, innovation output measurably declined. The correlation between protected exploration time and novel product development was direct and observable.
 
 ---
-
-## Connections
-
-→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — slack is a prerequisite for exploration; without protected capacity, exploration is crowded out by exploitation regardless of strategic intent.
-→ [172·Ambidextrous Organization](ambidextrous-organization.md) — ambidextrous structure without protected slack is structural theater; the explore unit needs real capacity, not nominal assignment.
-→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work-cognitive-capacity.md) — innovation requires focused, uninterrupted cognitive work; slack policy and deep work norms are the organizational and individual sides of the same requirement.
-→ [149·Context-Switching Cost](../Delivery-and-Flow/context-switching-cost.md) — fragmented attention destroys cognitive slack even when calendar slack nominally exists; the two must be managed together.
-→ [113·Three Horizons](three-horizons.md) — H2 and H3 work requires slack; organizations that run H1 at 100% efficiency consume the capacity needed to develop the next horizons.
-→ [158·Lean Portfolio Management](../Delivery-and-Flow/lean-portfolio-management.md) — portfolio-level slack policy — explicit capacity reservation for strategic bets — is the mechanism for protecting exploration investment at scale.
-→ [241·Parkinson's Law](parkinsons-law.md) — Parkinson's Law is the failure mode of slack: unstructured spare capacity fills with low-value activity; the value of slack depends on it being deliberately allocated rather than simply available.
-
----
-
-## References
-
-- *A Behavioral Theory of the Firm* — Richard M. Cyert & James G. March (1963) — the original formal treatment of organizational slack as a buffer enabling adaptation.
-- *Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency* — Tom DeMarco (2001) — the practitioner case for why eliminating all slack destroys adaptability.
 
 ---
 

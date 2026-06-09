@@ -1,10 +1,42 @@
+---
+id: 194
+name: Leader's Intent
+category: Leadership
+cardType: extended
+tagline: A three-part statement of purpose, key tasks, and end state that guides judgment when the plan no longer fits the situation
+connections:
+  - id: 118
+    rationale: the philosophical doctrine that Leader's Intent operationalises; Mission Command is the why, Leader's Intent is the how
+  - id: 195
+    rationale: "immediately follows Leader's Intent: the Confirmation Brief closes the comprehension gap, the Back Brief validates the plan against the intent"
+  - id: 193
+    rationale: the Purpose component of Leader's Intent is the leadership action that creates purpose clarity for the team; the two concepts are the same mechanism at different levels of abstraction
+  - id: 127
+    rationale: Leader's Intent defines what success looks like; RACI clarifies who is accountable for delivering it
+  - id: 10
+    rationale: "a useful post-briefing discipline: having set the intent, imagine the plan has failed — does the team's understanding of purpose and end state give them enough to recover?"
+  - id: 196
+    rationale: "the AAR closes the loop on the intent: the first question (what was supposed to happen) is the test of whether the intent was clear enough to be remembered"
+  - id: 226
+    rationale: "a Leader's Intent is a direct application of the Maxims: Quantity (purpose + key tasks + end state — no more), Relation (no method, only what guides judgment), Manner (short enough to recall under pressure)"
+  - id: 207
+    rationale: intent-based leadership works partly because it grants teams permission to apply knowledge-based reasoning in novel situations rather than waiting for rule-based authorisation that the situation may not accommodate.
+references:
+  - title: "Army Doctrine Reference Publication 6-0: Mission Command"
+    authorYear: US Army, 2012 (updated 2019)
+  - title: The Art of Action
+    authorYear: Stephen Bungay, 2011 (civilian translation of Auftragstaktik and intent communication)
+  - title: Team of Teams
+    authorYear: General Stanley McChrystal, 2015
+  - title: Extreme Ownership
+    authorYear: Jocko Willink & Leif Babin, 2015
+---
+
 # Leader's Intent
-*A three-part statement of purpose, key tasks, and end state that guides judgment when the plan no longer fits the situation*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Leader's Intent is the US Army's structured tool for communicating mission context. It is a brief, three-part statement that a leader delivers when briefing a team on any significant piece of work:
@@ -54,28 +86,6 @@ The three parts have a specific logic: purpose anchors *why* (so the team can pr
 ## Worked Example
 
 A marketing director briefs a campaign team with a full task list and a fixed channel plan, then leaves for two weeks. Mid-campaign, the chosen channel's costs spike and a competitor pre-empts the core message. The team, holding a route map rather than a compass bearing, executes the now-obsolete plan because deviating would mean violating the brief — and the campaign underperforms. The same situation with a proper Leader's Intent runs differently: purpose ("shift perception among mid-market buyers ahead of the competitor's launch"), key tasks ("reach this segment at scale; land the differentiation message"), end state ("mid-market awareness measurably up and the differentiation owned before the competitor's launch"), and explicitly no method. When the channel breaks, the team reallocates spend and reframes the message itself, because it knows what success looks like and why it matters. The intent told the team where to navigate to; planning the new route was its job, and it could do that without the director in the room.
-
-## Connections
-
-→ [118·Mission Command](mission-command.md) — the philosophical doctrine that Leader's Intent operationalises; Mission Command is the why, Leader's Intent is the how
-→ [195·Brief-Back Protocols](brief-back-protocols.md) — immediately follows Leader's Intent: the Confirmation Brief closes the comprehension gap, the Back Brief validates the plan against the intent
-→ [193·Purpose Clarity](purpose-clarity.md) — the Purpose component of Leader's Intent is the leadership action that creates purpose clarity for the team; the two concepts are the same mechanism at different levels of abstraction
-→ [127·RACI Framework](../Business/raci-framework.md) — Leader's Intent defines what success looks like; RACI clarifies who is accountable for delivering it
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — a useful post-briefing discipline: having set the intent, imagine the plan has failed — does the team's understanding of purpose and end state give them enough to recover?
-→ [196·After-Action Review](after-action-review.md) — the AAR closes the loop on the intent: the first question (what was supposed to happen) is the test of whether the intent was clear enough to be remembered
-→ [226·Grice's Maxims](../General-Thinking/grices-maxims.md) — a Leader's Intent is a direct application of the Maxims: Quantity (purpose + key tasks + end state — no more), Relation (no method, only what guides judgment), Manner (short enough to recall under pressure)
-→ [207·SRK Framework](../Psychology/srk-framework.md) — intent-based leadership works partly because it grants teams permission to apply knowledge-based reasoning in novel situations rather than waiting for rule-based authorisation that the situation may not accommodate.
-
-## References
-
-**Origin:** US Army doctrine, codified in *Army Doctrine Reference Publication 6-0: Mission Command* and the commander's intent framework.
-
-- *Army Doctrine Reference Publication 6-0: Mission Command* — US Army, 2012 (updated 2019)
-- *The Art of Action* — Stephen Bungay, 2011 (civilian translation of Auftragstaktik and intent communication)
-- *Team of Teams* — General Stanley McChrystal, 2015
-- *Extreme Ownership* — Jocko Willink & Leif Babin, 2015
-
----
 
 ---
 

@@ -1,10 +1,33 @@
+---
+id: 174
+name: Open Innovation
+category: Innovation & Entrepreneurship
+cardType: extended
+tagline: The boundary of the firm is a choice, not a given
+connections:
+  - id: 172
+    rationale: open innovation is a sourcing strategy; ambidextrous structure determines whether the organization can actually deploy what it sources.
+  - id: 109
+    rationale: external knowledge flows expand the organization's adjacent possible, making combinations available that internal resources alone couldn't reach.
+  - id: 82
+    rationale: open ecosystems and platform strategies often generate network effects that amplify the value of open innovation approaches.
+  - id: 89
+    rationale: the organization's ability to recognize and integrate external knowledge is the binding constraint on inbound open innovation (absorptive capacity in practice).
+  - id: 173
+    rationale: NIH syndrome is dominant logic applied to external sourcing; the same cognitive filters that cause organizations to miss disruption also cause them to discount external innovation.
+  - id: 63
+    rationale: open innovation expands the surface area for experimentation; the same learning loop applies whether the experiment originates internally or externally.
+references:
+  - title: "Open Innovation: The New Imperative for Creating and Profiting from Technology"
+    authorYear: Henry W. Chesbrough (2003)
+    supports: the originating text for open innovation as a strategic discipline.
+---
+
 # Open Innovation
-*The boundary of the firm is a choice, not a given*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Open innovation, introduced by Henry Chesbrough, is the practice of deliberately using external knowledge flows — from outside the firm's boundaries — as inputs to the innovation process, and allowing internal knowledge to flow outward when it can create value elsewhere. The contrast is with the closed innovation model, where a firm generates, develops, and commercializes ideas entirely within its own boundaries, treating its R&D as a proprietary competitive moat.
@@ -53,21 +76,6 @@ The most sophisticated practitioners manage both flows as a portfolio — sourci
 ## Worked Example
 
 Procter & Gamble's Connect + Develop program is the defining case. In the early 2000s, P&G set an explicit goal that 50% of innovations should involve a significant external partner. They built an external scouting network, created a licensing infrastructure, and made external sourcing a formal performance metric for innovation leaders. Within a decade, the productivity of their R&D investment had doubled while the cost had fallen — not because they cut internal R&D, but because they connected it to a much larger global knowledge base. The Swiffer Duster is the often-cited example: the core technology came from a Japanese company via a licensing relationship; P&G provided the consumer insight, brand development, and distribution. Neither party could have produced the product alone at the speed the market required.
-
----
-
-## Connections
-
-→ [172·Ambidextrous Organization](ambidextrous-organization.md) — open innovation is a sourcing strategy; ambidextrous structure determines whether the organization can actually deploy what it sources.
-→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — external knowledge flows expand the organization's adjacent possible, making combinations available that internal resources alone couldn't reach.
-→ [82·Network Effects](../Network-Effects/network-effects.md) — open ecosystems and platform strategies often generate network effects that amplify the value of open innovation approaches.
-→ [89·Learning Transfer](../Learning/learning-transfer.md) — the organization's ability to recognize and integrate external knowledge is the binding constraint on inbound open innovation (absorptive capacity in practice).
-→ [173·Dominant Logic](dominant-logic.md) — NIH syndrome is dominant logic applied to external sourcing; the same cognitive filters that cause organizations to miss disruption also cause them to discount external innovation.
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — open innovation expands the surface area for experimentation; the same learning loop applies whether the experiment originates internally or externally.
-## References
-
-- *Open Innovation: The New Imperative for Creating and Profiting from Technology* — Henry W. Chesbrough (2003) — the originating text for open innovation as a strategic discipline.
-
 
 ---
 

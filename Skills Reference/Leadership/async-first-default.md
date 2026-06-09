@@ -1,10 +1,38 @@
+---
+id: 191
+name: Async-First Default
+category: Leadership
+cardType: extended
+tagline: Default to writing; a meeting needs a specific affirmative case for real-time exchange — not the other way round
+connections:
+  - id: 190
+    rationale: the closing discipline for meetings that pass the triage filter; async-first is the entry gate, the three questions are the exit discipline
+  - id: 116
+    rationale: both concern the cost of synchronous time; async-first reduces meeting load, Maker's Schedule manages what remains
+  - id: 127
+    rationale: decision memos (the async alternative to alignment meetings) need a named Accountable to replace the implicit accountability a meeting provides
+  - id: 74
+    rationale: knowing who needs to be in the room vs. who needs only async notification is the informational prerequisite for the triage filter
+  - id: 114
+    rationale: async-first is the organisational practice that makes deep work structurally possible at scale
+  - id: 51
+    rationale: meetings proliferate because calling one is costless and signals effort; async-first requires counteracting visibility incentives
+references:
+  - title: The Surprising Science of Meetings
+    authorYear: Steven Rogelberg, 2019
+  - title: Deep Work
+    authorYear: Cal Newport, 2016
+  - title: A World Without Email
+    authorYear: Cal Newport, 2021
+  - title: Remote
+    authorYear: Jason Fried & David Heinemeier Hansson, 2013
+---
+
 # Async-First Default
-*Default to writing; a meeting needs a specific affirmative case for real-time exchange — not the other way round*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Async-First Default is a decision norm: synchronous meetings are not the default medium for work communication. Writing is. A meeting should only be held when there is a specific, articulable reason why real-time interaction produces value that sequential written exchange cannot — and that reason should be stated before the meeting begins.
@@ -74,26 +102,6 @@ A well-structured async document for the same 6-person content: ~20 minutes to w
 ## Worked Example
 
 A 40-person team institutes "async-first" by decree and meeting load barely drops, because nothing replaced what the meetings were doing. The fix is to apply the triage and the affirmative case. A recurring weekly "alignment" meeting (6 people, 45 minutes) fails all three triage questions — it produces no decision, distributes information that could be written, and needs no live thinking — so it becomes a weekly written summary with an async Q&A thread, recovering roughly 4 person-hours and several fragmented afternoons. A separate "we can't agree on the architecture" discussion passes on the third question — it needs real-time back-and-forth reasoning — and is kept, time-capped, with the affirmative case stated at the open. The net effect is not "fewer meetings" as a slogan but a calendar where the meetings that remain are the ones that genuinely need a room, and everything else has moved to a medium that respects deep work.
-
-## Connections
-
-→ [190·Three-Question Ritual](three-question-ritual.md) — the closing discipline for meetings that pass the triage filter; async-first is the entry gate, the three questions are the exit discipline
-→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — both concern the cost of synchronous time; async-first reduces meeting load, Maker's Schedule manages what remains
-→ [127·RACI Framework](../Business/raci-framework.md) — decision memos (the async alternative to alignment meetings) need a named Accountable to replace the implicit accountability a meeting provides
-→ [74·Stakeholder Mapping](../Business/stakeholder-mapping-salience-model.md) — knowing who needs to be in the room vs. who needs only async notification is the informational prerequisite for the triage filter
-→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work.md) — async-first is the organisational practice that makes deep work structurally possible at scale
-→ [51·Incentives](../Psychology/incentives.md) — meetings proliferate because calling one is costless and signals effort; async-first requires counteracting visibility incentives
-
-## References
-
-**Key research:** Steven Rogelberg, *The Surprising Science of Meetings* (2019); Gloria Mark, UC Irvine attention fragmentation research; Cal Newport, *Deep Work* (2016).
-
-- *The Surprising Science of Meetings* — Steven Rogelberg, 2019
-- *Deep Work* — Cal Newport, 2016
-- *A World Without Email* — Cal Newport, 2021
-- *Remote* — Jason Fried & David Heinemeier Hansson, 2013
-
----
 
 ---
 

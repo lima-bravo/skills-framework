@@ -1,10 +1,33 @@
+---
+id: 180
+name: Opportunity Solution Trees
+category: Innovation & Entrepreneurship
+cardType: extended
+tagline: See the full space before committing to a path
+connections:
+  - id: 103
+    rationale: JTBD framing is the primary method for deriving well-formed opportunities; the tree gives JTBD findings a structure to live in.
+  - id: 73
+    rationale: assumption mapping is the method for identifying which experiments to run at the leaf level of the tree.
+  - id: 63
+    rationale: the BML cycle operates at the experiment level of the tree; the tree gives each cycle a context and a connection to a broader learning agenda.
+  - id: 182
+    rationale: continuous discovery is the practice that keeps the opportunity level of the tree current; the tree is the artifact that discovery populates.
+  - id: 107
+    rationale: the tree enforces divergence at the opportunity and solution levels before convergence at the experiment level; it is a structural implementation of the diverge-converge discipline.
+  - id: 70
+    rationale: the OST operates inside the funnel; it is the tool that makes the funnel a learning accelerator rather than a filter.
+references:
+  - title: "Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value"
+    authorYear: Teresa Torres (2021)
+    supports: the source text for the Opportunity Solution Tree framework.
+---
+
 # Opportunity Solution Trees
-*See the full space before committing to a path*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 An Opportunity Solution Tree (OST) is a visual framework developed by Teresa Torres for connecting a desired outcome to the customer opportunities that might produce it, the solutions that might address each opportunity, and the experiments that would test each solution. It was designed to solve a specific and pervasive failure mode in product and innovation work: teams collapse too quickly onto a single solution for each problem, treat experiment failure as opportunity failure, and lose sight of the full space of possibilities they should be exploring.
@@ -55,21 +78,6 @@ The tree is not a planning tool — it is a learning navigation tool. It doesn't
 ## Worked Example
 
 A fintech team is accountable for an outcome: increase the percentage of customers who actively save (make at least one discretionary transfer to savings) within their first 90 days. Customer discovery produces four distinct opportunities: customers don't have a compelling reason to start saving (motivation gap); customers don't know how much they can afford to save (calculation friction); customers start but lose momentum after the first transfer (habit gap); customers distrust that their money is accessible if needed (anxiety barrier). Each opportunity generates three or more solution candidates. The team designs cheap experiments — a calculator tool test, a goal-setting prompt test, a social proof message test, an instant withdrawal guarantee — one per critical assumption per branch. Two experiments return strong positive signals; two return clean negatives. The tree makes it clear that the habit gap and the anxiety barrier are the real constraints, and the motivation gap experiments, though they failed, produced an insight: customers already have motivation — what they lack is permission. That insight opens a new solution branch the team hadn't considered before running the experiments.
-
----
-
-## Connections
-
-→ [103·Jobs to Be Done](jobs-to-be-done.md) — JTBD framing is the primary method for deriving well-formed opportunities; the tree gives JTBD findings a structure to live in.
-→ [73·Assumption Mapping](../Business/assumption-mapping.md) — assumption mapping is the method for identifying which experiments to run at the leaf level of the tree.
-→ [63·Build-Measure-Learn](build-measure-learn.md) — the BML cycle operates at the experiment level of the tree; the tree gives each cycle a context and a connection to a broader learning agenda.
-→ [182·Continuous Discovery](continuous-discovery.md) — continuous discovery is the practice that keeps the opportunity level of the tree current; the tree is the artifact that discovery populates.
-→ [107·Divergent and Convergent Thinking](../General-Thinking/divergent-and-convergent-thinking.md) — the tree enforces divergence at the opportunity and solution levels before convergence at the experiment level; it is a structural implementation of the diverge-converge discipline.
-→ [70·Innovation Funnel](../Business/innovation-funnel.md) — the OST operates inside the funnel; it is the tool that makes the funnel a learning accelerator rather than a filter.
-## References
-
-- *Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value* — Teresa Torres (2021) — the source text for the Opportunity Solution Tree framework.
-
 
 ---
 

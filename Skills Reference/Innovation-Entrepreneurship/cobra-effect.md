@@ -1,10 +1,48 @@
+---
+id: 237
+name: Cobra Effect
+category: Innovation & Entrepreneurship
+cardType: extended
+tagline: The intervention funds the problem it was designed to eliminate
+connections:
+  - id: 120
+    rationale: "Cobra Type 1 is Goodhart's Law in action: when a measure becomes a target, it ceases to be a good measure. The Cobra Effect adds the structural dimension — the measurement programme itself sustains the problem."
+  - id: 2
+    rationale: the Cobra Effect is a specific second-order effect where the mechanism of backfire runs through the intervention itself, not through downstream consequences.
+  - id: 167
+    rationale: Immunity to Change explains why individuals resist change despite good intentions; the Cobra Effect explains how the change programme architecture itself can sustain the status quo.
+  - id: 121
+    rationale: "many cobra dynamics are principal-agent problems in disguise: the agents responsible for the intervention optimise for programme metrics (their performance) rather than the underlying outcome (the principal's goal)."
+  - id: 51
+    rationale: "the Cobra Effect is always an incentive design failure: the intervention creates incentives that point toward sustaining rather than solving the problem."
+  - id: 208
+    rationale: "cobra dynamics often unfold as slow drift: the intervention looks healthy for months before the decoupling between activity and outcome becomes undeniable."
+  - id: 230
+    rationale: "Type 5 cobra interventions (incentive realignment without consequence removal) have a Prisoner's Dilemma structure: individuals continue old behaviour in high-stakes contexts because unilateral change is personally risky even when collective change would be beneficial."
+  - id: 231
+    rationale: "Type 4 cobra interventions (dedicated innovation units) create a commons problem: each business unit free-rides on the assumption that the innovation unit will carry the innovation burden."
+  - id: 189
+    rationale: "the antidote to cobra Type 1: measure outcomes at each rung of the experiment ladder rather than activity proxies."
+  - id: 10
+    rationale: "the Pre-launch Cobra Risk Assessment above is best run as a pre-mortem: assume the intervention became a cobra and work backward to identify the mechanism."
+  - id: 262
+    rationale: adversarial modelling before deployment is the incentive design practice that catches cobra-effect structures before they go live
+  - id: 241
+    rationale: "oversight and compliance machinery added to fix a cobra problem can itself trigger Parkinson expansion: the bureaucratic infrastructure grows to fill available budget and attention, becoming its own cobra."
+references:
+  - title: "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
+    authorYear: Steven D. Levitt & Stephen J. Dubner (2005)
+    supports: perverse incentive structures where the intervention amplifies the problem.
+  - title: "The Logic of Collective Action: Public Goods and the Theory of Groups"
+    authorYear: Mancur Olson (1965)
+    supports: how rational individual responses to incentives produce irrational collective outcomes.
+---
+
 # Cobra Effect
-*The intervention funds the problem it was designed to eliminate*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Cobra Effect occurs when a well-intentioned intervention directly generates, sustains, or amplifies the very problem it was designed to solve. The name comes from a colonial India anecdote: the British government, alarmed by cobra populations in Delhi, offered a bounty for dead cobras. Enterprising locals began breeding cobras to collect the bounty. When the programme was cancelled, the breeders released their now-worthless stock — leaving more cobras than before. The intervention created infrastructure for the problem to thrive.
@@ -102,28 +140,6 @@ Eighteen months later: the ideas portal has 4,000 submissions. Innovation scores
 **Redesign:** Kill the submission count metric. Replace with: number of experiments that reached customer testing (outcome-linked). Remove innovation scores from performance reviews; add them to team-level OKRs with explicit outcome thresholds. Create direct budget authority for ideas that pass an experiment threshold, removing the dependency on business unit approval that was the original constraint.
 
 ---
-
-## Connections
-
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — Cobra Type 1 is Goodhart's Law in action: when a measure becomes a target, it ceases to be a good measure. The Cobra Effect adds the structural dimension — the measurement programme itself sustains the problem.
-→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — the Cobra Effect is a specific second-order effect where the mechanism of backfire runs through the intervention itself, not through downstream consequences.
-→ [167·Immunity to Change](../Psychology/immunity-to-change.md) — Immunity to Change explains why individuals resist change despite good intentions; the Cobra Effect explains how the change programme architecture itself can sustain the status quo.
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — many cobra dynamics are principal-agent problems in disguise: the agents responsible for the intervention optimise for programme metrics (their performance) rather than the underlying outcome (the principal's goal).
-→ [51·Incentives](../Psychology/incentives.md) — the Cobra Effect is always an incentive design failure: the intervention creates incentives that point toward sustaining rather than solving the problem.
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — cobra dynamics often unfold as slow drift: the intervention looks healthy for months before the decoupling between activity and outcome becomes undeniable.
-→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — Type 5 cobra interventions (incentive realignment without consequence removal) have a Prisoner's Dilemma structure: individuals continue old behaviour in high-stakes contexts because unilateral change is personally risky even when collective change would be beneficial.
-→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — Type 4 cobra interventions (dedicated innovation units) create a commons problem: each business unit free-rides on the assumption that the innovation unit will carry the innovation burden.
-→ [189·Experiment Ladder](../Innovation-Entrepreneurship/experiment-ladder.md) — the antidote to cobra Type 1: measure outcomes at each rung of the experiment ladder rather than activity proxies.
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the Pre-launch Cobra Risk Assessment above is best run as a pre-mortem: assume the intervention became a cobra and work backward to identify the mechanism.
-→ [262·Incentive Design](../Economics/incentive-design.md) — adversarial modelling before deployment is the incentive design practice that catches cobra-effect structures before they go live
-→ [241·Parkinson's Law](../Business/parkinsons-law.md) — oversight and compliance machinery added to fix a cobra problem can itself trigger Parkinson expansion: the bureaucratic infrastructure grows to fill available budget and attention, becoming its own cobra.
-
----
-
-## References
-
-- *Freakonomics: A Rogue Economist Explores the Hidden Side of Everything* — Steven D. Levitt & Stephen J. Dubner (2005) — perverse incentive structures where the intervention amplifies the problem.
-- *The Logic of Collective Action: Public Goods and the Theory of Groups* — Mancur Olson (1965) — how rational individual responses to incentives produce irrational collective outcomes.
 
 ---
 

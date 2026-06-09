@@ -1,10 +1,36 @@
+---
+id: 184
+name: Minimal Capability Principle
+category: Applied AI
+cardType: extended
+tagline: Grant only what the task requires, at the stage it requires it
+connections:
+  - id: 183
+    rationale: the master framework; minimal capability implements Register 2 (capability enforcement) within the six-register architecture.
+  - id: 185
+    rationale: the attack vector minimal capability defends against structurally; separating the agent that reads untrusted content from the agent that acts is the primary defense.
+  - id: 28
+    rationale: system architecture mirrors organizational structure; tool grant architecture mirrors authorized accountability structure.
+  - id: 156
+    rationale: multi-agent tool grant design creates structural dependencies; these should be made explicit and reviewed.
+  - id: 127
+    rationale: who has authority to act is the human-layer question; minimal capability is the machine-layer answer to the same question.
+  - id: 24
+    rationale: the general principle of designing with buffer against worst-case scenarios; minimal capability applies this to AI agent architecture.
+references:
+  - title: The Protection of Information in Computer Systems
+    authorYear: Jerome H. Saltzer & Michael D. Schroeder, Proceedings of the IEEE Vol. 63 No. 9 (1975)
+    supports: the original statement of the principle of least privilege in computer security.
+  - title: "Human Compatible: Artificial Intelligence and the Problem of Control"
+    authorYear: Stuart Russell (2019)
+    supports: capability restriction as the primary mechanism of AI control.
+---
+
 # Minimal Capability Principle
-*Grant only what the task requires, at the stage it requires it*
 
 **Category:** [Applied AI](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Minimal Capability Principle is the design discipline of granting AI agents only the tools they strictly need for their specific task at their specific workflow stage — and nothing more. It is the application of the principle of least privilege to agentic AI systems, with a crucial asymmetry from its software security cousin: where traditional least-privilege controls prevent unauthorized human users from accessing resources, minimal capability controls prevent an AI agent from taking actions that exceed its authorized scope, including actions it might take in error, through misinterpretation, or because it was manipulated by hostile input.
@@ -61,22 +87,6 @@ A compliance team deploys a multi-agent system to monitor regulatory feeds and g
 After applying the minimal capability principle, the tool grants are redesigned: the feed reader gets web fetch and read-only document access, no write, no Slack. The analyst gets the feed reader's structured JSON output and document read for the internal policy library — no web fetch, no write, no Slack. The briefing writer gets write (to a designated internal folder only) and Slack post (to designated channels only) — no web fetch, no document read. 
 
 The result: a hostile regulatory document that contains injected instructions cannot reach the agent with a Slack tool. The agent that reads external content cannot write. The agent that writes cannot reach external content. Three agents, three tool grants, three non-overlapping surfaces — and the boundary architecture is visible from the grant manifest alone, without needing to read the prompts.
-
----
-
-## Connections
-
-→ [183·AI Authority Boundaries](ai-authority-boundaries.md) — the master framework; minimal capability implements Register 2 (capability enforcement) within the six-register architecture.
-→ [185·Prompt Injection](prompt-injection.md) — the attack vector minimal capability defends against structurally; separating the agent that reads untrusted content from the agent that acts is the primary defense.
-→ [28·Conway's Law](../Delivery-and-Flow/conways-law.md) — system architecture mirrors organizational structure; tool grant architecture mirrors authorized accountability structure.
-→ [156·Dependency Management](../Delivery-and-Flow/dependency-management.md) — multi-agent tool grant design creates structural dependencies; these should be made explicit and reviewed.
-→ [127·RACI Framework](../Business/raci.md) — who has authority to act is the human-layer question; minimal capability is the machine-layer answer to the same question.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — the general principle of designing with buffer against worst-case scenarios; minimal capability applies this to AI agent architecture.
-## References
-
-- *The Protection of Information in Computer Systems* — Jerome H. Saltzer & Michael D. Schroeder, Proceedings of the IEEE Vol. 63 No. 9 (1975) — the original statement of the principle of least privilege in computer security.
-- *Human Compatible: Artificial Intelligence and the Problem of Control* — Stuart Russell (2019) — capability restriction as the primary mechanism of AI control.
-
 
 ---
 

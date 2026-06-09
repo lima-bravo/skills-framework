@@ -1,10 +1,41 @@
+---
+id: 197
+name: Tactical Pause
+category: Leadership
+cardType: extended
+tagline: A deliberate halt mid-execution to stop, gather, think, then move — takes minutes, saves weeks
+connections:
+  - id: 119
+    rationale: the Tactical Pause is a triggered, deliberate initiation of a new Observe-Orient cycle mid-execution; the OODA Loop describes the decision cycle, the Tactical Pause is the permission structure that activates it when the current cycle has broken down
+  - id: 122
+    rationale: in complex or chaotic situations (Cynefin's right-hand domains), the correct response is "probe, sense, respond" rather than executing a predetermined plan; the Tactical Pause is the operational mechanism for shifting from execution to sensing mode
+  - id: 194
+    rationale: the Tactical Pause tests whether the Leader's Intent was well enough constructed to guide adaptation; a team with clear purpose and end state can reassess and adapt; a team with only a task list cannot
+  - id: 118
+    rationale: Mission Command grants the authority to adapt when the plan no longer fits; the Tactical Pause is the moment when that authority is exercised collectively rather than individually
+  - id: 10
+    rationale: pre-mortems anticipate the conditions that would require a Tactical Pause; a well-run pre-mortem includes the trigger conditions that should cause the team to stop and reassess
+  - id: 196
+    rationale: the AAR frequently identifies situations where a Tactical Pause should have been called but wasn't; these findings should calibrate future trigger sensitivity
+  - id: 208
+    rationale: the Tactical Pause is the operational intervention that makes drift visible before it reaches the boundary; without deliberate pauses, locally reasonable decisions accumulate into trajectory-level failures visible only in hindsight.
+references:
+  - title: "Army Doctrine Reference Publication 6-0: Mission Command"
+    authorYear: US Army, 2012 (updated 2019)
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman, 2011 (System 2 engagement under pressure
+    supports: the cognitive mechanism the Tactical Pause activates)
+  - title: The Art of Action
+    authorYear: Stephen Bungay, 2011
+  - title: Team of Teams
+    authorYear: General Stanley McChrystal, 2015
+---
+
 # Tactical Pause
-*A deliberate halt mid-execution to stop, gather, think, then move — takes minutes, saves weeks*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Tactical Pause is a US Army practice: a deliberate, time-bounded halt in the middle of an operation when conditions have changed enough that continuing to execute the current plan may be worse than stopping to reassess. It is distinguished from indecision or hesitation by its deliberateness — a Tactical Pause is called explicitly, has a defined purpose, and ends with a decision to continue, adapt, or stop.
@@ -74,27 +105,6 @@ The Tactical Pause is the organisational equivalent of slowing to assess before 
 ## Worked Example
 
 A product team is three months into a six-month build when usage data from an early release invalidates the core assumption behind the roadmap: the workflow they are automating is not the one customers actually struggle with. The path of least resistance is to keep building — the plan is set, stopping feels like admitting the last three months were wrong, and there is pressure to ship. Instead the lead calls a Tactical Pause: stop (name that a load-bearing assumption has failed), gather (what does the data now show, and is the original end state still right?), think (does the current plan still achieve the intent? — no), move (adapt: re-scope the next three months around the workflow the data points to). The pause costs an afternoon. Continuing on the invalidated plan would have cost three months and shipped a feature few customers wanted — the asymmetry the Army captures as "takes minutes, saves weeks." The discipline was not in having the insight; it was in treating stopping as the intelligent move rather than the embarrassing one.
-
-## Connections
-
-→ [119·OODA Loop](ooda-loop.md) — the Tactical Pause is a triggered, deliberate initiation of a new Observe-Orient cycle mid-execution; the OODA Loop describes the decision cycle, the Tactical Pause is the permission structure that activates it when the current cycle has broken down
-→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — in complex or chaotic situations (Cynefin's right-hand domains), the correct response is "probe, sense, respond" rather than executing a predetermined plan; the Tactical Pause is the operational mechanism for shifting from execution to sensing mode
-→ [194·Leader's Intent](leaders-intent.md) — the Tactical Pause tests whether the Leader's Intent was well enough constructed to guide adaptation; a team with clear purpose and end state can reassess and adapt; a team with only a task list cannot
-→ [118·Mission Command](mission-command.md) — Mission Command grants the authority to adapt when the plan no longer fits; the Tactical Pause is the moment when that authority is exercised collectively rather than individually
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — pre-mortems anticipate the conditions that would require a Tactical Pause; a well-run pre-mortem includes the trigger conditions that should cause the team to stop and reassess
-→ [196·After-Action Review](after-action-review.md) — the AAR frequently identifies situations where a Tactical Pause should have been called but wasn't; these findings should calibrate future trigger sensitivity
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — the Tactical Pause is the operational intervention that makes drift visible before it reaches the boundary; without deliberate pauses, locally reasonable decisions accumulate into trajectory-level failures visible only in hindsight.
-
-## References
-
-**Origin:** US Army doctrine; codified in the Operations Process as a standard element of execution.
-
-- *Army Doctrine Reference Publication 6-0: Mission Command* — US Army, 2012 (updated 2019)
-- *Thinking, Fast and Slow* — Daniel Kahneman, 2011 (System 2 engagement under pressure — the cognitive mechanism the Tactical Pause activates)
-- *The Art of Action* — Stephen Bungay, 2011
-- *Team of Teams* — General Stanley McChrystal, 2015
-
----
 
 ---
 

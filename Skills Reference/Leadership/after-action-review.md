@@ -1,10 +1,54 @@
+---
+id: 196
+name: After-Action Review
+category: Leadership
+cardType: extended
+tagline: Four questions, asked immediately after, by the people who did the work — the operational learning drill that compounds with every project
+connections:
+  - id: 11
+    rationale: "complementary disciplines at different scales: AAR is the operational habit after every project; Post-mortem is the deep investigation triggered by a significant failure or a repeated pattern surfaced by AARs"
+  - id: 194
+    rationale: the AAR's first question ("what was supposed to happen") is the direct test of how well the intent was communicated and retained; poor answers to Q1 are a Leader's Intent failure, not an execution failure
+  - id: 195
+    rationale: the gap between Q1 and Q2 in the AAR is often traceable to misalignments that Brief-Back Protocols should have caught; AAR findings should improve briefing quality
+  - id: 17
+    rationale: the AAR is the mechanism that closes the organisational feedback loop between execution and planning; without it, the loop is open and learning does not compound
+  - id: 104
+    rationale: honest answers to questions 2 and 3 require an environment where admitting error is safe; an AAR run in a blame culture produces a sanitised account, not a useful one
+  - id: 118
+    rationale: the AAR is the learning infrastructure that makes Mission Command sustainable over time; teams that practice it develop the judgment and calibration that Mission Command requires
+  - id: 211
+    rationale: the AAR generates the outcome data needed to improve calibration; without a learning cycle that compares predictions to results, calibration cannot develop
+  - id: 208
+    rationale: well-run AARs look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" converts the AAR into drift analysis.
+  - id: 199
+    rationale: "the AAR is the structural antidote to survivorship bias: it forces examination of what went wrong, not just what the survivors chose to remember."
+  - id: 200
+    rationale: AARs done well explicitly surface situational factors; FAE is the most common contaminator of poorly-run retrospectives, turning systemic failures into personnel verdicts.
+  - id: 201
+    rationale: the primary cognitive contaminant of AARs; well-run AARs counteract it by explicitly reconstructing the information state at decision time before discussing what went wrong.
+  - id: 205
+    rationale: properly run AARs create a safe container for updating on past decisions without triggering consistency defence; the format separates evaluation of the decision from the identity of the decision-maker.
+  - id: 207
+    rationale: "SRK classification sharpens the AAR: separate slip/lapse findings from rule-mistake findings from knowledge-mistake findings; each stream demands a different remediation conversation."
+  - id: 251
+    rationale: "value realization reviews borrow directly from the AAR format: what benefit was expected, what was actually captured, why the gap, what changes next time."
+references:
+  - title: "Army Regulation 11-33: Army Lessons Learned Program"
+    authorYear: US Army
+  - title: The Fifth Discipline
+    authorYear: Peter Senge, 1990 (the learning organisation as the civilian theoretical framework)
+  - title: An Everyone Culture
+    authorYear: Kegan & Lahey, 2016 (the cultural conditions required for honest AARs)
+  - title: Accelerate
+    authorYear: Forsgren, Humble & Kim, 2018 (retrospectives as the engineering team's equivalent of the AAR)
+---
+
 # After-Action Review
-*Four questions, asked immediately after, by the people who did the work — the operational learning drill that compounds with every project*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The After-Action Review (AAR) is a structured learning drill developed by the US Army and conducted immediately after any significant operation or project by the people who executed it. It runs through four questions in sequence:
@@ -71,36 +115,6 @@ The military phrase is "learning at the speed of operations." The civilian equiv
 ## Worked Example
 
 A consulting team delivers a strategy engagement two weeks late and over budget, and the instinct is to blame a client who "kept moving the goalposts." A 30-minute AAR, run by a team member rather than the partner, works the four questions. Q1: the intent was a board-ready recommendation by a fixed date. Q2: scope expanded three times with no corresponding timeline reset. Q3 — the high-value question — reveals the gap was not the client's changes but the team's failure to surface and price each change as it arrived; they absorbed scope silently to avoid friction. Q4 sustains the strong client relationship that made the work possible and improves one specific behaviour: any scope change now triggers an explicit timeline-and-cost conversation before work continues. The lesson is actionable precisely because the AAR moved the cause from "the client" (outside the team's control) to "how we handle scope changes" (inside it).
-
-## Connections
-
-→ [11·Post-mortem](../General-Thinking/post-mortem.md) — complementary disciplines at different scales: AAR is the operational habit after every project; Post-mortem is the deep investigation triggered by a significant failure or a repeated pattern surfaced by AARs
-→ [194·Leader's Intent](leaders-intent.md) — the AAR's first question ("what was supposed to happen") is the direct test of how well the intent was communicated and retained; poor answers to Q1 are a Leader's Intent failure, not an execution failure
-→ [195·Brief-Back Protocols](brief-back-protocols.md) — the gap between Q1 and Q2 in the AAR is often traceable to misalignments that Brief-Back Protocols should have caught; AAR findings should improve briefing quality
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — the AAR is the mechanism that closes the organisational feedback loop between execution and planning; without it, the loop is open and learning does not compound
-→ [104·Psychological Safety](../Psychology/psychological-safety.md) — honest answers to questions 2 and 3 require an environment where admitting error is safe; an AAR run in a blame culture produces a sanitised account, not a useful one
-→ [118·Mission Command](mission-command.md) — the AAR is the learning infrastructure that makes Mission Command sustainable over time; teams that practice it develop the judgment and calibration that Mission Command requires
-→ [211·Calibration](../General-Thinking/calibration.md) — the AAR generates the outcome data needed to improve calibration; without a learning cycle that compares predictions to results, calibration cannot develop
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — well-run AARs look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" converts the AAR into drift analysis.
-→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — the AAR is the structural antidote to survivorship bias: it forces examination of what went wrong, not just what the survivors chose to remember.
-→ [200·Fundamental Attribution Error](../Psychology/fundamental-attribution-error.md) — AARs done well explicitly surface situational factors; FAE is the most common contaminator of poorly-run retrospectives, turning systemic failures into personnel verdicts.
-→ [201·Hindsight Bias](../Psychology/hindsight-bias.md) — the primary cognitive contaminant of AARs; well-run AARs counteract it by explicitly reconstructing the information state at decision time before discussing what went wrong.
-→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — properly run AARs create a safe container for updating on past decisions without triggering consistency defence; the format separates evaluation of the decision from the identity of the decision-maker.
-→ [207·SRK Framework](../Psychology/srk-framework.md) — SRK classification sharpens the AAR: separate slip/lapse findings from rule-mistake findings from knowledge-mistake findings; each stream demands a different remediation conversation.
-→ [251·Value Realization](../Business/value-realization.md) — value realization reviews borrow directly from the AAR format: what benefit was expected, what was actually captured, why the gap, what changes next time.
-
----
-
-## References
-
-**Origin:** US Army Center for Army Lessons Learned; AARs were developed in the 1970s and have been widely adopted in healthcare, aviation, sports, and technology.
-
-- *Army Regulation 11-33: Army Lessons Learned Program* — US Army
-- *The Fifth Discipline* — Peter Senge, 1990 (the learning organisation as the civilian theoretical framework)
-- *An Everyone Culture* — Kegan & Lahey, 2016 (the cultural conditions required for honest AARs)
-- *Accelerate* — Forsgren, Humble & Kim, 2018 (retrospectives as the engineering team's equivalent of the AAR)
-
----
 
 ---
 

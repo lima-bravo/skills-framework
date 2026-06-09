@@ -1,10 +1,46 @@
+---
+id: 192
+name: Self-Determination Theory
+category: Psychology
+cardType: extended
+tagline: Intrinsic motivation requires three conditions — autonomy, competence, and relatedness — and external rewards can quietly destroy all three
+connections:
+  - id: 61
+    rationale: Alderfer's Relatedness and Growth needs map onto SDT's Relatedness and Competence; SDT adds the autonomy dimension and the internalisation continuum ERG lacks
+  - id: 58
+    rationale: SDT's three needs cut across Maslow's hierarchy rather than following it; SDT is more empirically robust and more applicable to knowledge work contexts
+  - id: 51
+    rationale: the crowding-out effect is the most important caveat to incentive design; SDT explains when incentives help and when they harm
+  - id: 104
+    rationale: autonomy need satisfaction requires an environment where people can express genuine views without threat; psychological safety is the social condition that makes autonomy possible
+  - id: 124
+    rationale: culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed
+  - id: 193
+    rationale: leadership's primary mechanism for meeting the Relatedness need at scale; people cannot feel their work connects to something meaningful if no one has made that connection explicit
+  - id: 59
+    rationale: McClelland's Achievement, Affiliation, and Power needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture
+  - id: 262
+    rationale: self-determination theory defines the intrinsic motivation boundary that extrinsic incentive structures must work within or risk crowding out
+references:
+  - title: Self-Determination and Intrinsic Motivation in Human Behavior
+    authorYear: Edward L. Deci & Richard M. Ryan (1985)
+    supports: the foundational text establishing the three basic psychological needs and the Cognitive Evaluation Theory of the crowding-out effect.
+  - title: "Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness"
+    authorYear: Richard M. Ryan & Edward L. Deci (2017)
+    supports: the comprehensive synthesis of five decades of SDT research across domains.
+  - title: "Why We Do What We Do: Understanding Self-Motivation"
+    authorYear: Edward L. Deci with Richard Flaste (1995)
+    supports: the accessible practitioner treatment of autonomy and intrinsic motivation.
+  - title: "Drive: The Surprising Truth About What Motivates Us"
+    authorYear: Daniel H. Pink (2009)
+    supports: popular synthesis mapping Autonomy/Mastery/Purpose onto SDT's three needs; widely cited in management contexts.
+---
+
 # Self-Determination Theory
-*Intrinsic motivation requires three conditions — autonomy, competence, and relatedness — and external rewards can quietly destroy all three*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Self-Determination Theory (SDT), developed by Edward Deci and Richard Ryan from the 1970s onward and consolidated in their 2000 synthesis, is the most empirically supported contemporary theory of intrinsic motivation. Its core claim: human beings have three basic psychological needs whose satisfaction is necessary for sustained intrinsic motivation, well-being, and high-quality performance.
@@ -77,24 +113,6 @@ Think of intrinsic motivation as a fire that burns on its own once lit, but requ
 A software company introduces a per-feature shipping bonus to lift engineering output. Velocity rises for a quarter, then quality and initiative decline: engineers stop volunteering for the unglamorous reliability work that carries no bonus, and the satisfaction that used to come from solving hard problems is now described as "just doing it for the payout." The bonus crowded out intrinsic motivation by shifting the perceived locus of causality from internal to external — and when the bonus is later capped, motivation does not return to baseline; it settles below it. SDT predicts both halves: the reward worked as a short-term external regulator and damaged the intrinsic regulation it displaced. The redesign removes the per-feature contingency, restores autonomy over how work is approached, makes the connection between reliability work and customers (relatedness) explicit, and protects time for the stretch problems that supply the competence signal.
 
 ---
-
-## Connections
-
-→ [61·ERG Theory](erg-theory.md) — Alderfer's Relatedness and Growth needs map onto SDT's Relatedness and Competence; SDT adds the autonomy dimension and the internalisation continuum ERG lacks
-→ [58·Maslow's Hierarchy of Needs](maslows-hierarchy-of-needs.md) — SDT's three needs cut across Maslow's hierarchy rather than following it; SDT is more empirically robust and more applicable to knowledge work contexts
-→ [51·Incentives](incentives.md) — the crowding-out effect is the most important caveat to incentive design; SDT explains when incentives help and when they harm
-→ [104·Psychological Safety](psychological-safety.md) — autonomy need satisfaction requires an environment where people can express genuine views without threat; psychological safety is the social condition that makes autonomy possible
-→ [124·Organizational Culture](../Leadership/organizational-culture.md) — culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed
-→ [193·Purpose Clarity](../Leadership/purpose-clarity.md) — leadership's primary mechanism for meeting the Relatedness need at scale; people cannot feel their work connects to something meaningful if no one has made that connection explicit
-→ [59·McClelland's Acquired Needs Theory](mcclellands-acquired-needs-theory.md) — McClelland's Achievement, Affiliation, and Power needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture
-→ [262·Incentive Design](../Economics/incentive-design.md) — self-determination theory defines the intrinsic motivation boundary that extrinsic incentive structures must work within or risk crowding out
-
-## References
-
-- *Self-Determination and Intrinsic Motivation in Human Behavior* — Edward L. Deci & Richard M. Ryan (1985) — the foundational text establishing the three basic psychological needs and the Cognitive Evaluation Theory of the crowding-out effect.
-- *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* — Richard M. Ryan & Edward L. Deci (2017) — the comprehensive synthesis of five decades of SDT research across domains.
-- *Why We Do What We Do: Understanding Self-Motivation* — Edward L. Deci with Richard Flaste (1995) — the accessible practitioner treatment of autonomy and intrinsic motivation.
-- *Drive: The Surprising Truth About What Motivates Us* — Daniel H. Pink (2009) — popular synthesis mapping Autonomy/Mastery/Purpose onto SDT's three needs; widely cited in management contexts.
 
 ---
 

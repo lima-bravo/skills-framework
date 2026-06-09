@@ -1,10 +1,34 @@
+---
+id: 190
+name: Three-Question Ritual
+category: Leadership
+cardType: extended
+tagline: Before any meeting ends, three questions close the loop on decision, ownership, and communication
+connections:
+  - id: 127
+    rationale: Q2 (one Accountable) and Q3 (Informed list) are RACI applied at meeting granularity
+  - id: 118
+    rationale: Q1 clarifies the decision boundary; Mission Command specifies the intent within which the owner executes
+  - id: 74
+    rationale: Q3 is a quick stakeholder salience scan under time pressure
+  - id: 125
+    rationale: "consistent use builds a cultural norm: meetings produce decisions, not just discussion"
+  - id: 129
+    rationale: the alignment/decision distinction (Q1) is the same boundary the board/management split operates on
+references:
+  - title: Death by Meeting
+    authorYear: Patrick Lencioni, 2004
+  - title: The Responsibility Virus
+    authorYear: Roger Martin, 2002
+  - title: Project Management Body of Knowledge (PMBOK Guide)
+    authorYear: Project Management Institute, 7th ed. 2021
+---
+
 # Three-Question Ritual
-*Before any meeting ends, three questions close the loop on decision, ownership, and communication*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Three-Question Ritual is a meeting-closing discipline that prevents three of the most common post-meeting failure modes: ambiguity about whether a decision was made, diffused accountability, and stakeholders who learn about outcomes too late to act constructively.
@@ -42,26 +66,9 @@ The questions also function as a political risk scan: Q3 in particular forces th
 
 A leadership team meets weekly and leaves each meeting feeling productive, yet the same topics keep returning and initiatives stall. Applying the ritual exposes why. On a major pricing change, Q1 reveals the room had aligned on direction but never actually made the decision — so it had been "discussed" three weeks running with no commitment; forced to answer, they make it. Q2 assigns it: "Accountable = VP Product; output = approved price list; date = Friday," replacing the previous diffuse "marketing and product will sort it out" that had guaranteed drift. Q3 surfaces that the regional sales heads — who will have to defend the new prices to customers — were about to be bypassed; adding them to the Informed list before they hear it secondhand prevents the revolt that unwound the last pricing change. Three questions, two minutes, and the meeting produces a decision with an owner and a clean communication path instead of another round of pleasant, inconclusive discussion.
 
-## Connections
-
-→ [127·RACI Framework](../Business/raci-framework.md) — Q2 (one Accountable) and Q3 (Informed list) are RACI applied at meeting granularity
-→ [118·Mission Command](mission-command.md) — Q1 clarifies the decision boundary; Mission Command specifies the intent within which the owner executes
-→ [74·Stakeholder Mapping](../Business/stakeholder-mapping-salience-model.md) — Q3 is a quick stakeholder salience scan under time pressure
-→ [125·Change Management](change-management.md) — consistent use builds a cultural norm: meetings produce decisions, not just discussion
-→ [129·Board Governance](board-governance.md) — the alignment/decision distinction (Q1) is the same boundary the board/management split operates on
-
 ## Origin Note
 
 The "secret CEO" attribution common in social media versions of this technique is fabricated — no specific CEO, company, or verifiable source exists. The underlying ideas trace to Lencioni's *Death by Meeting* (2004), RACI governance practice (developed in project management from the 1970s–80s), and Apple's Directly Responsible Individual (DRI) model. The content is legitimate and well-grounded; the framing is not.
-
-## References
-
-- *Death by Meeting* — Patrick Lencioni, 2004
-- *The Responsibility Virus* — Roger Martin, 2002
-- *Project Management Body of Knowledge (PMBOK Guide)* — Project Management Institute, 7th ed. 2021
-- Apple DRI model — publicly documented in *How Apple Is Organised for Innovation*, HBR, 2020
-
----
 
 ---
 

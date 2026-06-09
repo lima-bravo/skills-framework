@@ -63,7 +63,9 @@ export function validateFrontmatterSync(data, meta, file) {
   if (Array.isArray(data.connections)) {
     for (const c of data.connections) {
       if (!Number.isInteger(c?.id)) errors.push(`connection missing id on ${file}`);
-      if (!c?.rationale?.trim()) errors.push(`connection ${c?.id} missing rationale on ${file}`);
+      if (c?.rationale === undefined || c?.rationale === null) {
+        errors.push(`connection ${c?.id} missing rationale on ${file}`);
+      }
     }
   }
   if (Array.isArray(data.references)) {

@@ -1,10 +1,38 @@
+---
+id: 193
+name: Purpose Clarity
+category: Leadership
+cardType: extended
+tagline: If the people on your team cannot say in 30 seconds why their work matters, that is a leadership diagnostic — not an individual one
+connections:
+  - id: 192
+    rationale: purpose clarity is the primary mechanism for meeting the Relatedness need; it also supports Competence (knowing why your work matters makes effectiveness legible) and Autonomy (people who understand purpose can make autonomous decisions aligned with intent)
+  - id: 118
+    rationale: Mission Command clarifies intent for execution; Purpose Clarity clarifies meaning for motivation. Both are needed; Mission Command without Purpose Clarity produces technically correct but disengaged execution
+  - id: 124
+    rationale: purpose clarity is both a product of culture (in cultures that communicate openly, it emerges naturally) and a driver of it (when leaders make purpose explicit, they model the communication standard)
+  - id: 127
+    rationale: the Accountable role in RACI is only meaningful if the person holding it understands why the outcome matters; purpose clarity is the prerequisite for RACI to work at the human level
+  - id: 191
+    rationale: decision memos and written communications are the async alternative to alignment meetings; they only work if the writer can articulate purpose clearly enough to convey it in writing
+  - id: 190
+    rationale: Q1 of the meeting close ("what is the decision?") implicitly requires purpose clarity; people who don't know why their work matters cannot reliably identify which decisions are load-bearing
+references:
+  - title: Self-Determination Theory
+    authorYear: Ryan & Deci, 2017
+  - title: Start With Why
+    authorYear: Simon Sinek, 2009
+  - title: The Making of a Manager
+    authorYear: Julie Zhuo, 2019
+  - title: Radical Candor
+    authorYear: Kim Scott, 2017
+---
+
 # Purpose Clarity
-*If the people on your team cannot say in 30 seconds why their work matters, that is a leadership diagnostic — not an individual one*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Purpose Clarity is the condition in which every person on a team can articulate, in plain language and under 30 seconds, what they do and why it matters. It is simultaneously an individual competence and a leadership responsibility — and the distinction between those two framings determines whether the right problem gets solved.
@@ -73,27 +101,6 @@ The Elevator Test is not a communication exercise. It is a check on whether the 
 ## Worked Example
 
 A capable analyst is repeatedly passed over for advancement despite strong technical work. Asked the Elevator Test question in a 1:1, she answers "I run the quarterly reporting cycle" — accurate, but pure task description with no connection to why it matters. The instinct is to read this as her problem to fix. The diagnostic runs the other way: her manager has never made explicit that the reporting cycle is what the executive team relies on to reallocate capital each quarter, which is why its accuracy and timeliness are load-bearing. The pattern is jargon-without-substance, and it is a leadership communication gap, not a competence gap. Once the manager states the purpose explicitly and builds it into the role description, two things change: the analyst can represent her own value to the people who decide promotions (the individual competence), and she begins making better autonomous calls about what in the reporting process actually matters (the motivational effect). The 30-second answer was a readout of a missing translation layer, not of a missing skill.
-
-## Connections
-
-→ [192·Self-Determination Theory](../Psychology/self-determination-theory.md) — purpose clarity is the primary mechanism for meeting the Relatedness need; it also supports Competence (knowing why your work matters makes effectiveness legible) and Autonomy (people who understand purpose can make autonomous decisions aligned with intent)
-→ [118·Mission Command](mission-command.md) — Mission Command clarifies intent for execution; Purpose Clarity clarifies meaning for motivation. Both are needed; Mission Command without Purpose Clarity produces technically correct but disengaged execution
-→ [124·Organizational Culture](organizational-culture.md) — purpose clarity is both a product of culture (in cultures that communicate openly, it emerges naturally) and a driver of it (when leaders make purpose explicit, they model the communication standard)
-→ [127·RACI Framework](../Business/raci-framework.md) — the Accountable role in RACI is only meaningful if the person holding it understands why the outcome matters; purpose clarity is the prerequisite for RACI to work at the human level
-→ [191·Async-First Default](async-first-default.md) — decision memos and written communications are the async alternative to alignment meetings; they only work if the writer can articulate purpose clearly enough to convey it in writing
-→ [190·Three-Question Ritual](three-question-ritual.md) — Q1 of the meeting close ("what is the decision?") implicitly requires purpose clarity; people who don't know why their work matters cannot reliably identify which decisions are load-bearing
-
-## References
-
-**Key sources:** Self-Determination Theory (Deci & Ryan); research on employee engagement and manager communication (Gallup State of the Global Workplace reports); Carmine Gallo's documented work on communication standards.
-
-- *Self-Determination Theory* — Ryan & Deci, 2017
-- *Start With Why* — Simon Sinek, 2009
-- *The Making of a Manager* — Julie Zhuo, 2019
-- *Radical Candor* — Kim Scott, 2017
-- Gallup *State of the Global Workplace* — annual (engagement and manager communication data)
-
----
 
 ---
 

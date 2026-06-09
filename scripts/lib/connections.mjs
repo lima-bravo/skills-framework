@@ -19,12 +19,11 @@ function parseConnectionContent(content) {
   if (idLink) {
     const rest = content.slice(idLink.index + idLink[0].length);
     const dashM = rest.match(/\s*(?:—|-)\s*(.*)/);
-    if (!dashM) return null;
     return {
       id: Number(idLink[2]),
       name: idLink[3].trim(),
       href: idLink[5],
-      rationale: dashM[1].trim(),
+      rationale: dashM ? dashM[1].trim() : '',
       resolvedBy: 'id',
     };
   }
@@ -33,12 +32,11 @@ function parseConnectionContent(content) {
   if (anyLink) {
     const rest = content.slice(anyLink.index + anyLink[0].length);
     const dashM = rest.match(/\s*(?:—|-)\s*(.*)/);
-    if (!dashM) return null;
     return {
       id: null,
       name: anyLink[1].replace(/\*\*/g, '').trim(),
       href: anyLink[2],
-      rationale: dashM[1].trim(),
+      rationale: dashM ? dashM[1].trim() : '',
       resolvedBy: null,
     };
   }

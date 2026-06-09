@@ -58,7 +58,8 @@ function resolveConnections(parsed, file, lookups) {
       console.warn(`  WARN ${file}: unresolved connection ${c.name || c.raw}`);
       continue;
     }
-    resolved.push({ id, rationale: c.rationale || '' });
+    const rationale = (c.rationale || '').trim();
+    resolved.push({ id, rationale });
   }
   return resolved;
 }

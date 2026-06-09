@@ -1,10 +1,35 @@
+---
+id: 181
+name: Pretotyping
+category: Innovation & Entrepreneurship
+cardType: extended
+tagline: Make sure you're building the Right It before you build it right
+connections:
+  - id: 64
+    rationale: pretotyping answers the demand question that precedes the MVP; an MVP is built after pretotyping confirms there is an audience worth building for.
+  - id: 73
+    rationale: the DYOD discipline in pretotyping is assumption mapping applied to a single test; assumption mapping identifies which assumption to pretotype first.
+  - id: 63
+    rationale: ""
+  - id: 214
+    rationale: pretotyping is the crawl-stage instrument; the chain shows how it gates into walk and run — pretotyping is an accelerated BML cycle operating before the build investment; it makes the loop cheaper by answering the most critical question at the lowest cost.
+  - id: 72
+    rationale: pretotype techniques are specific experiment designs optimized for demand testing; the choice of technique follows from what assumption is being tested.
+  - id: 175
+    rationale: "the pretotype's DYOD threshold is affordable-loss thinking applied to a single test: commit only what you can afford to lose if the result is negative."
+  - id: 7
+    rationale: interpreting pretotype results requires holding the result as a probability update, not a confirmation or refutation; a 12% Fake Door click rate shifts the probability of demand, it doesn't prove or disprove it.
+references:
+  - title: "The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed"
+    authorYear: Alberto Savoia (2019)
+    supports: the source text for pretotyping techniques and the Law of Market Failure.
+---
+
 # Pretotyping
-*Make sure you're building the Right It before you build it right*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Pretotyping is a set of techniques, developed by Alberto Savoia at Google, for testing whether a product idea has genuine demand before investing in building it. The name is deliberate: a pretotype comes before a prototype. Where a prototype tests whether you can build something well (a feasibility and quality question), a pretotype tests whether people will actually want it at all (a demand question). Most product failures are not build failures — the teams could have built the product competently. They are demand failures: the product was built for a market that didn't exist or didn't behave as assumed.
@@ -57,22 +82,6 @@ Savoia's framing: "Make sure you are building the Right It before you build It r
 ## Worked Example
 
 In the early development of Google Glass, one team wanted to test demand for a prescription eyewear version before investing in the optical engineering required. Rather than building prototype prescription lenses (a months-long, expensive undertaking), the team ran a Fake Door: a dedicated landing page describing prescription Glass, positioned where people already interested in Glass would encounter it. The sign-up rate was tracked against a pre-specified DYOD threshold. The signal was strong enough to justify the optical engineering investment. The same technique — measuring sign-up intent before building — is now a standard practice in Google's product development, embedded as part of the pretotyping canon Savoia formalized from patterns he observed across Google product teams.
-
----
-
-## Connections
-
-→ [64·MVP](mvp.md) — pretotyping answers the demand question that precedes the MVP; an MVP is built after pretotyping confirms there is an audience worth building for.
-→ [73·Assumption Mapping](../Business/assumption-mapping.md) — the DYOD discipline in pretotyping is assumption mapping applied to a single test; assumption mapping identifies which assumption to pretotype first.
-→ [**Build-Measure-Learn**](build-measure-learn.md)
-→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — pretotyping is the crawl-stage instrument; the chain shows how it gates into walk and run — pretotyping is an accelerated BML cycle operating before the build investment; it makes the loop cheaper by answering the most critical question at the lowest cost.
-→ [72·Experiment Design](../Business/experiment-design.md) — pretotype techniques are specific experiment designs optimized for demand testing; the choice of technique follows from what assumption is being tested.
-→ [175·Effectuation](effectuation.md) — the pretotype's DYOD threshold is affordable-loss thinking applied to a single test: commit only what you can afford to lose if the result is negative.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — interpreting pretotype results requires holding the result as a probability update, not a confirmation or refutation; a 12% Fake Door click rate shifts the probability of demand, it doesn't prove or disprove it.
-## References
-
-- *The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed* — Alberto Savoia (2019) — the source text for pretotyping techniques and the Law of Market Failure.
-
 
 ---
 
