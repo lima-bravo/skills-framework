@@ -59,6 +59,7 @@ A company is about to launch a new pricing model. Pre-mortem: "It is Q4 and the 
 → [**Hindsight Bias**](../Psychology/hindsight-bias.md) — the pre-mortem proactively creates a written record of uncertainty before the outcome is known, providing the honest baseline that counteracts hindsight bias in later retrospection.
 → [**Narrative Instinct**](../Psychology/narrative-instinct.md) — the pre-mortem deliberately invokes a failure narrative to surface what the success narrative suppresses; it uses narrative instinct against itself.
 → [**Falsification**](../Psychology/falsification.md) — the pre-mortem applies falsification thinking prospectively: imagining the plan has failed is asking "what evidence would show this doesn't work?"
+→ [**Scenario Planning**](../Business/scenario-planning.md) — pre-mortem probes a single decision for failure modes; scenario planning probes the environment for the range of futures a strategy must survive.
 
 ## References
 

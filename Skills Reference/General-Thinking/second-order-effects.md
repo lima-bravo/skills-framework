@@ -55,6 +55,7 @@ A city decides to build a new urban highway to reduce commute times (first-order
 → [**Interdependence**](../Economics/interdependence.md) — interdependence is the structural mechanism by which second-order effects propagate: when elements are coupled, a change in one has consequences in others.
 → [**Planning Fallacy**](../Psychology/planning-fallacy.md) — cascading dependencies and rework are the most commonly ignored planning costs; second-order thinking is what the inside view systematically fails to apply.
 → [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates; the map is the tool for anticipating downstream consequences before they materialise.
+→ [**Scenario Planning**](../Business/scenario-planning.md) — each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that determine which future actually arrives.
 
 ## References
 

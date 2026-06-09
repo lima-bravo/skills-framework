@@ -55,6 +55,7 @@ A team is designing a new onboarding flow for a SaaS product. Forward thinking g
 → [**Divergent and Convergent Thinking**](divergent-and-convergent-thinking.md) — inversion is a structured divergent technique: approaching the problem from the opposite direction breaks conventional attractors and generates non-obvious possibilities.
 → [**Loss Aversion**](../Psychology/loss-aversion.md) — framing a decision in loss terms (what you risk losing) is inversion applied to motivation; loss aversion makes this framing more viscerally compelling than gain framing.
 → [**Sunk Cost**](../Psychology/sunk-cost.md) — "if I were starting fresh today" is inversion applied to a current commitment; it removes sunk cost framing by forcing a clean reference point.
+→ [**Scenario Planning**](../Business/scenario-planning.md) — building the most challenging scenario is an inversion exercise applied to strategic planning: imagine your strategy fails, then ask what environment produced that outcome.
 
 ## References
 

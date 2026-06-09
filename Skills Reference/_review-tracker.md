@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **116**
+- Reviewed (verified + fixed): **117**
 - Flagged: **0**
-- Remaining (todo): **146**
+- Remaining (todo): **145**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -183,7 +183,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#73` **Assumption Mapping** · `Business/assumption-mapping.md` · **st:** fixed · **n:** added --- before ## References, fixed dup footer; refs both in manifest, no gaps; backlinks in experiment-design, situation-assessment (6 others already present)
 - [x] `#74` **Stakeholder Mapping (Salience Model)** · `Business/stakeholder-mapping-salience-model.md` · **st:** fixed · **n:** added --- before ## References, fixed dup footer; refs both in manifest, no gaps; backlinks in incentives, second-order-effects, interdependence (2 others already present)
 - [x] `#116` **Maker's Schedule vs. Manager's Schedule** · `Business/makers-schedule.md` · **st:** fixed · **n:** full rewrite: added all 5 missing --- separators, moved ## References before footer, fixed footer format; Gap-A: added Gloria Mark et al. (2008); backlinks in bottlenecks, activation-energy, friction, incentives, feedback-loops, conways-law
-- [ ] `#123` **Scenario Planning** · `Business/scenario-planning.md` · **st:** todo · **n:** —
+- [x] `#123` **Scenario Planning** · `Business/scenario-planning.md` · **st:** fixed · **n:** added 6 missing --- separators, fixed dup footer, expanded 3 bare refs, removed non-standard Originators heading; refs all in manifest, no gaps; backlinks in pre-mortem, probabilistic-thinking, inversion, second-order-effects (4 others already present)
 - [ ] `#127` **RACI Framework** · `Business/raci-framework.md` · **st:** todo · **n:** —
 - [ ] `#166` **Kernel of Good Strategy** · `Business/kernel-of-strategy.md` · **st:** todo · **n:** —
 - [x] `#210` **Wardley Mapping** · `Business/wardley-mapping.md` · **st:** fixed · **n:** added 5 --- separators, fixed dup footer; replaced bare/vague refs (dropped untitled Moesta & Spiek 2014 — unverifiable; consolidated Wardley chapters into one entry); Gap-B2: Wardley Maps 2016, Art of War; backlinks in exploration-vs-exploitation, build-measure-learn, scenario-planning

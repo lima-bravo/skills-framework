@@ -64,6 +64,7 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 → [**Falsification**](../Psychology/falsification.md) — probabilistic thinking quantifies uncertainty; falsification tests whether the underlying model is structurally sound. Together they form the core of calibrated reasoning.
 → [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the most common failure of probabilistic reasoning: discarding the prior distribution because the individual case has become vivid.
 → [**Experiment Design**](../Business/experiment-design.md) — statistical significance and power are applications of probabilistic thinking to experiment design; a well-designed experiment operationalises a probability-based decision rule.
+→ [**Scenario Planning**](../Business/scenario-planning.md) — scenario planning is probabilistic thinking applied to strategy: it makes the distribution of futures explicit rather than collapsing to a single expected-value forecast.
 
 ## References
 
