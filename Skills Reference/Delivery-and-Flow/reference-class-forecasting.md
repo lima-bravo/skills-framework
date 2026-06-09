@@ -52,6 +52,7 @@ A regional bank plans a core banking modernization. The internal estimate is 24 
 → [**Calibration**](../General-Thinking/calibration.md) — reference class forecasting is the operational technique for anchoring on base rates; calibration is why the technique produces better estimates than inside-view reasoning.
 → [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the cognitive bias RCF directly corrects: ignoring the distributional track record of similar cases in favour of the vivid specifics of the one in front of you.
 → [**Business Case Construction**](../Business/business-case-construction.md) — every credible business case must anchor its projections to a reference class before any inside-view adjustments; RCF is the method that makes that anchor systematic.
+→ [**Value Realization**](../Business/value-realization.md) — the outside-view anchor for building a realization plan: reference class evidence consistently shows realized benefits run below the business case, which is why expecting — and planning for — the gap is the first practitioner heuristic.
 
 ---
 

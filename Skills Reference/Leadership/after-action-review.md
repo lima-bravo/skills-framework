@@ -87,6 +87,9 @@ A consulting team delivers a strategy engagement two weeks late and over budget,
 → [**Hindsight Bias**](../Psychology/hindsight-bias.md) — the primary cognitive contaminant of AARs; well-run AARs counteract it by explicitly reconstructing the information state at decision time before discussing what went wrong.
 → [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — properly run AARs create a safe container for updating on past decisions without triggering consistency defence; the format separates evaluation of the decision from the identity of the decision-maker.
 → [**SRK Framework**](../Psychology/srk-framework.md) — SRK classification sharpens the AAR: separate slip/lapse findings from rule-mistake findings from knowledge-mistake findings; each stream demands a different remediation conversation.
+→ [**Value Realization**](../Business/value-realization.md) — value realization reviews borrow directly from the AAR format: what benefit was expected, what was actually captured, why the gap, what changes next time.
+
+---
 
 ## References
 

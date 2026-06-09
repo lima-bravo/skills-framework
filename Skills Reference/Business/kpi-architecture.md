@@ -62,6 +62,7 @@ The new system has nine metrics, not sixty. Each has a named owner, a threshold 
 → [**Bottlenecks**](../Systems/bottlenecks.md) — the driver-tree logic underneath KPI architecture is the same logic that finds the binding constraint in any system: trace the chain, instrument the links that matter, ignore the ones that don't.
 → [**Hypothesis-Driven Consulting**](../Consulting-Craft/hypothesis-driven.md) — choosing a leading indicator is a falsifiable bet about what drives the outcome; the discipline of stating that bet explicitly is what keeps the metric honest.
 → [**Calibration**](../General-Thinking/calibration.md) — setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal.
+→ [**Value Realization**](value-realization.md) — the value ledger is, in effect, a bespoke KPI system built around a single initiative; the same architecture (named owner, threshold, cadence) applies at both the initiative and the organisation level.
 
 ---
 

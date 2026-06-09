@@ -56,6 +56,10 @@ A software team estimates a feature at 3 weeks. Their own reference class — fe
 → [**Deep Work / Cognitive Capacity**](../Learning/deep-work.md) — plans assuming 8 productive hours per day compound the planning fallacy
 → [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — exceptional early velocity regresses; plans that extrapolate it are doubly wrong
 → [**Base Rate Neglect**](base-rate-neglect.md) — one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
+→ [**Parkinson's Law**](../Business/parkinsons-law.md) — the planning fallacy and Parkinson's Law compound: we underestimate duration, and then fill whatever time we allocate; the result is work that takes exactly as long as planned for the wrong reasons.
+→ [**Value Realization**](../Business/value-realization.md) — the planning fallacy is the empirical basis for building a realization plan: reference class evidence shows realized benefits consistently run below the business case, which a realization system should detect early rather than be surprised by.
+
+---
 
 ## References
 

@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **129**
+- Reviewed (verified + fixed): **130**
 - Flagged: **0**
-- Remaining (todo): **133**
+- Remaining (todo): **132**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -197,7 +197,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#248` **Profit Pool Analysis** · `Business/profit-pool-analysis.md` · **st:** fixed · **n:** refs reformatted (4×), split compound connection; Gap-A (Competitive Advantage), Gap-B2 x3 (2× Gadiesh & Gilbert HBR, Bryce & Dyer HBR); refs 309→312; backlinks in wardley-mapping, long-tail, power-law, red-teaming, kernel-of-strategy, situation-assessment, unit-economics; structural fixes in wardley-mapping/long-tail/power-law
 - [x] `#249` **Customer Segmentation** · `Business/customer-segmentation.md` · **st:** fixed · **n:** refs reformatted (4×); Gap-A x2 (Competing Against Luck, Value Prop Design), Gap-B2 x2 (Moon 2010, Wedel & Kamakura 2000); refs 312→314; backlinks in value-prop-canvas (+struct fix), availability-bias (+struct fix), customer-development (+struct fix), unit-economics, power-law
 - [x] `#250` **KPI Architecture** · `Business/kpi-architecture.md` · **st:** fixed · **n:** refs reformatted (4×); Gap-A x3 (Measure What Matters, Accelerate, Tyranny of Metrics), Gap-B2 (Balanced Scorecard); refs 314→315; backlinks in okrs, dora-metrics, bottlenecks (+struct fix), hypothesis-driven, calibration (+struct fix)
-- [ ] `#251` **Value Realization** · `Business/value-realization.md` · **st:** todo · **n:** —
+- [x] `#251` **Value Realization** · `Business/value-realization.md` · **st:** fixed · **n:** refs reformatted (4×) + title corrected ("Hedgehog"→"Hockey Stick"); split compound connection; Gap-A x2 (How Big Things Get Done, Leading Change), Gap-B2 x2 (Strategy Beyond Hockey Stick, Making the Deal Real HBR); refs 315→317; backlinks in after-action-review (+struct fix), sunk-cost (+struct fix), reference-class-forecasting, planning-fallacy (+struct fix), kpi-architecture
 - [ ] `#254` **Playing to Win** · `Business/playing-to-win.md` · **st:** todo · **n:** —
 
 ## Innovation & Entrepreneurship (23)

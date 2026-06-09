@@ -2448,6 +2448,11 @@
           "id": 206,
           "name": "Base Rate Neglect",
           "color": "#9333EA"
+        },
+        {
+          "id": 251,
+          "name": "Value Realization",
+          "color": "#475569"
         }
       ]
     },
@@ -2700,6 +2705,11 @@
           "id": 125,
           "name": "Change Management",
           "color": "#1E40AF"
+        },
+        {
+          "id": 251,
+          "name": "Value Realization",
+          "color": "#475569"
         }
       ]
     },
@@ -6300,6 +6310,28 @@
         {
           "id": 250,
           "name": "KPI Architecture",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Strategy Beyond the Hockey Stick",
+      "authorYear": "Chris Bradley, Martin Hirt & Sven Smit (2018)",
+      "skills": [
+        {
+          "id": 251,
+          "name": "Value Realization",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "\"Making the Deal Real: How GE Capital Integrates Acquisitions\"",
+      "authorYear": "Ron Ashkenas, Lawrence J. DeMonaco & Suzanne C. Francis, HBR (1998)",
+      "skills": [
+        {
+          "id": 251,
+          "name": "Value Realization",
           "color": "#475569"
         }
       ]
