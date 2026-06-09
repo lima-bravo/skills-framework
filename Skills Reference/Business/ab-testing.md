@@ -1,10 +1,46 @@
+---
+id: 225
+name: A/B Testing
+category: Business
+cardType: standard
+tagline: Let reality choose between two versions — before you commit to either
+connections:
+  - id: 72
+    rationale: A/B testing is the most common operationalisation of experiment design principles in product and marketing practice; the general principles of hypothesis formation, control conditions, and pre-specified criteria apply directly.
+  - id: 204
+    rationale: "A/B testing is falsification made operational: the test is designed to be capable of producing a negative result, and the result updates a belief."
+  - id: 63
+    rationale: A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for learning in validated learning cycles.
+  - id: 7
+    rationale: statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results requires comfort with probability, not just outcome metrics.
+  - id: 55
+    rationale: the peeking problem and HiPPO override are both expressions of confirmation bias corrupting an otherwise valid testing process.
+  - id: 120
+    rationale: "optimising for easy-to-measure A/B metrics can violate Goodhart's Law: the metric becomes a target and ceases to be a good measure of what matters."
+  - id: 224
+    rationale: where A/B testing stress-tests hypotheses with live evidence during execution, red teaming attacks plans before commitment; the two are complementary tools for different phases of uncertainty reduction.
+  - id: 214
+    rationale: 'A/B testing is the primary instrument at the "walk" stage of this chain: does the solution work well enough at limited scale to justify broader rollout?'
+references:
+  - title: The Design of Experiments
+    authorYear: Ronald A. Fisher (1935)
+    supports: the foundational statistical framework for controlled trials; introduces random assignment, control conditions, and significance testing as the basis for causal inference from experiments.
+  - title: "Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing"
+    authorYear: Ron Kohavi, Diane Tang & Ya Xu (2020)
+    supports: the definitive practitioner reference from Microsoft Research; covers experimental design, validity threats, and the organisational challenges of running a high-velocity testing programme.
+  - title: '"The Surprising Power of Online Experiments"'
+    authorYear: Ron Kohavi & Stefan Thomke, *Harvard Business Review* (September–October 2017)
+    supports: documents how organisations that run rigorous A/B testing programmes systematically outperform those that rely on intuition; includes analysis of common testing pitfalls.
+  - title: The Lean Startup
+    authorYear: Eric Ries (2011)
+    supports: popularised validated learning and A/B testing as core instruments in the Build-Measure-Learn loop; the book that brought controlled experimentation to mainstream product development.
+---
+
 # A/B Testing
-*Let reality choose between two versions — before you commit to either*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A/B testing (also called split testing or controlled experimentation) is a method of comparing two versions of something — a product feature, message, price, process, or design — by exposing each version to a randomly assigned subset of a population and measuring a pre-specified outcome metric. The variant that performs better on the outcome metric is selected. The method is grounded in randomised controlled trial design: random assignment eliminates selection bias, a control condition (the "A" or baseline) isolates the effect of the change, and pre-specified success criteria prevent post-hoc rationalisation of results.
@@ -59,26 +95,6 @@ At 3 weeks: variant B (with social proof) shows a 3.9% sign-up rate versus 3.1% 
 Two weeks later, a senior marketer suggests stopping a new test early because "the results look great after 400 users." The team declines: 400 users at a 1% difference has approximately 15% power — the result is statistically meaningless. They run to the required sample.
 
 ---
-
-## Connections
-
-→ [72·Experiment Design](experiment-design.md) — A/B testing is the most common operationalisation of experiment design principles in product and marketing practice; the general principles of hypothesis formation, control conditions, and pre-specified criteria apply directly.
-→ [204·Falsification](../Psychology/falsification.md) — A/B testing is falsification made operational: the test is designed to be capable of producing a negative result, and the result updates a belief.
-→ [63·Build-Measure-Learn](../Innovation-and-Entrepreneurship/build-measure-learn.md) — A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for learning in validated learning cycles.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results requires comfort with probability, not just outcome metrics.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the peeking problem and HiPPO override are both expressions of confirmation bias corrupting an otherwise valid testing process.
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — optimising for easy-to-measure A/B metrics can violate Goodhart's Law: the metric becomes a target and ceases to be a good measure of what matters.
-→ [224·Red Teaming](red-teaming.md) — where A/B testing stress-tests hypotheses with live evidence during execution, red teaming attacks plans before commitment; the two are complementary tools for different phases of uncertainty reduction.
-→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — A/B testing is the primary instrument at the "walk" stage of this chain: does the solution work well enough at limited scale to justify broader rollout?
-
----
-
-## References
-
-- *The Design of Experiments* — Ronald A. Fisher (1935) — the foundational statistical framework for controlled trials; introduces random assignment, control conditions, and significance testing as the basis for causal inference from experiments.
-- *Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing* — Ron Kohavi, Diane Tang & Ya Xu (2020) — the definitive practitioner reference from Microsoft Research; covers experimental design, validity threats, and the organisational challenges of running a high-velocity testing programme.
-- *"The Surprising Power of Online Experiments"* — Ron Kohavi & Stefan Thomke, *Harvard Business Review* (September–October 2017) — documents how organisations that run rigorous A/B testing programmes systematically outperform those that rely on intuition; includes analysis of common testing pitfalls.
-- *The Lean Startup* — Eric Ries (2011) — popularised validated learning and A/B testing as core instruments in the Build-Measure-Learn loop; the book that brought controlled experimentation to mainstream product development.
 
 ---
 

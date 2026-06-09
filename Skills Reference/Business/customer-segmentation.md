@@ -1,10 +1,44 @@
+---
+id: 249
+name: Customer Segmentation
+category: Business
+cardType: standard
+tagline: A segment is not a label you apply to customers. It's a difference that changes what you do.
+connections:
+  - id: 103
+    rationale: "the discovery-side counterpart: JTBD tells you what a customer is trying to accomplish; segmentation groups customers by which jobs they share and how much that's worth."
+  - id: 69
+    rationale: once segments are defined, this is the tool for mapping what each segment actually needs against what the offer actually provides.
+  - id: 162
+    rationale: the structural discipline that keeps a segmentation from collapsing into overlapping, unactionable categories.
+  - id: 216
+    rationale: 'the quantitative backbone of "attractiveness": lifetime value, cost to serve, and expansion potential are what separate a segment worth chasing from one worth deprioritizing.'
+  - id: 56
+    rationale: the bias that elevates the loudest, most visible segment above the one the data actually supports.
+  - id: 66
+    rationale: the qualitative engine that feeds a segmentation with the needs and behavior data it depends on; segmentation without ongoing discovery calcifies into a stale snapshot.
+  - id: 238
+    rationale: many customer bases are power-law distributed in value; a segmentation that treats all segments as roughly equal in size or worth will misallocate resources accordingly.
+references:
+  - title: Competing Against Luck
+    authorYear: C.M. Christensen, T. Hall, K. Dillon & D.S. Duncan (2016)
+    supports: the "jobs" lens that grounds segmentation in what predicts behavior rather than what's easy to label.
+  - title: "Different: Escaping the Competitive Herd"
+    authorYear: Youngme Moon (2010)
+    supports: on the trap of segmenting — and then competing — along the same dimensions as everyone else in the category.
+  - title: "Market Segmentation: Conceptual and Methodological Foundations"
+    authorYear: Michel Wedel & Wagner A. Kamakura (2000)
+    supports: the methodological foundation for needs-based, behavior-based segmentation versus descriptive segmentation.
+  - title: Value Proposition Design
+    authorYear: Alexander Osterwalder et al. (2014)
+    supports: the customer-profile structure (jobs, pains, gains) that makes a segmentation observable and testable rather than aspirational.
+---
+
 # Customer Segmentation
-*A segment is not a label you apply to customers. It's a difference that changes what you do.*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Customer segmentation, in the strategic sense, is the discipline of dividing a customer base into mutually exclusive, collectively exhaustive groups defined by *decision-relevant differences* — needs, economics, behavior, and strategic value — and then scoring those groups by attractiveness and right to win, so that targeting, pricing, product, and coverage decisions can be made deliberately rather than uniformly. It is distinct from customer *discovery* (the activity of learning what any given customer needs) and from demographic labeling (the activity of describing customers in terms that may or may not predict anything useful). A segmentation earns its keep only when it changes what the organization does — what it builds, who it sells to first, how it prices, or where it invests support.
@@ -49,25 +83,6 @@ Re-cut by the dimension that actually predicts behavior — *how the team coordi
 Scored on attractiveness and right to win: structured-process teams are smaller in count but dramatically more valuable per account, and the company's existing integration depth gives it a real advantage that fluid-collaboration-focused competitors can't easily match. The company redirects its roadmap toward workflow and integration depth — the dimension structured-process teams actually buy on — and stops trying to win the price-sensitive, low-switching-cost segment where it was never going to out-compete faster, cheaper rivals. Sales coverage, pricing packaging, and onboarding all reorganize around the same two-segment cut, because the segmentation finally describes a difference that changes what the company does.
 
 ---
-
-## Connections
-
-→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — the discovery-side counterpart: JTBD tells you what a customer is trying to accomplish; segmentation groups customers by which jobs they share and how much that's worth.
-→ [69·Value Prop Canvas](value-prop-canvas.md) — once segments are defined, this is the tool for mapping what each segment actually needs against what the offer actually provides.
-→ [162·MECE](../Consulting-Craft/mece.md) — the structural discipline that keeps a segmentation from collapsing into overlapping, unactionable categories.
-→ [216·Unit Economics](../Economics/unit-economics.md) — the quantitative backbone of "attractiveness": lifetime value, cost to serve, and expansion potential are what separate a segment worth chasing from one worth deprioritizing.
-→ [56·Availability Bias](../Psychology/availability-bias.md) — the bias that elevates the loudest, most visible segment above the one the data actually supports.
-→ [66·Customer Development](../Startups/customer-development.md) — the qualitative engine that feeds a segmentation with the needs and behavior data it depends on; segmentation without ongoing discovery calcifies into a stale snapshot.
-→ [238·Power Law](../Mathematics/power-law.md) — many customer bases are power-law distributed in value; a segmentation that treats all segments as roughly equal in size or worth will misallocate resources accordingly.
-
----
-
-## References
-
-- *Competing Against Luck* — C.M. Christensen, T. Hall, K. Dillon & D.S. Duncan (2016) — the "jobs" lens that grounds segmentation in what predicts behavior rather than what's easy to label.
-- *Different: Escaping the Competitive Herd* — Youngme Moon (2010) — on the trap of segmenting — and then competing — along the same dimensions as everyone else in the category.
-- *Market Segmentation: Conceptual and Methodological Foundations* — Michel Wedel & Wagner A. Kamakura (2000) — the methodological foundation for needs-based, behavior-based segmentation versus descriptive segmentation.
-- *Value Proposition Design* — Alexander Osterwalder et al. (2014) — the customer-profile structure (jobs, pains, gains) that makes a segmentation observable and testable rather than aspirational.
 
 ---
 

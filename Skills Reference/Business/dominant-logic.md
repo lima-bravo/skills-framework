@@ -1,10 +1,42 @@
+---
+id: 173
+name: Dominant Logic
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: How past success becomes future blindspot
+connections:
+  - id: 112
+    rationale: dominant logic explains the organizational mechanism behind why incumbents miss disruption even when they see the technology coming.
+  - id: 55
+    rationale: "dominant logic is confirmation bias institutionalized: the organization systematically attends to evidence that confirms its existing theory."
+  - id: 6
+    rationale: dominant logic is a map that was once accurate but has diverged from the territory; the danger is not having a map but not knowing it's outdated.
+  - id: 172
+    rationale: "structural separation of explore from exploit is partly a response to dominant logic: the explore unit needs to be insulated from the core's logic to function."
+  - id: 122
+    rationale: dominant logic works well in complicated and obvious domains where the environment is stable; it becomes a liability when the environment shifts to complex or chaotic.
+  - id: 102
+    rationale: dominant logic is most dangerous at the top of the S-curve, when the current model is at peak performance and the next curve is just beginning.
+  - id: 188
+    rationale: "dominant logic is the organizational application of Kuhn's paradigm concept: the theory of the business that successful firms encode, and then cannot escape when the environment changes."
+  - id: 203
+    rationale: "dominant logic is narrative instinct institutionalised: the founding story that the organisation encodes and then uses to filter all new evidence."
+  - id: 205
+    rationale: "dominant logic is organisation-level consistency bias: the founding narrative must be defended because it is central to institutional identity."
+references:
+  - title: "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail"
+    authorYear: Clayton M. Christensen (1997)
+    supports: the mechanism by which past success encodes assumptions that block response to disruption.
+  - title: "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company"
+    authorYear: Andrew S. Grove (1996)
+    supports: the practitioner account of recognizing when dominant logic has become a liability.
+---
+
 # Dominant Logic
-*How past success becomes future blindspot*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Dominant logic is the shared mental model — the set of assumptions, beliefs, and decision rules — that a successful organization installs over time about how value is created, who the customer is, what competition looks like, and what capabilities matter. Identified by C.K. Prahalad and Richard Bettis, it describes how an organization's past success encodes a theory of the business into its processes, incentives, hiring criteria, and strategic conversations. Over time this logic becomes invisible — it is no longer a theory, it is simply "how things work."
@@ -44,26 +76,6 @@ The lens is installed through success, not failure. The more thoroughly the orga
 Kodak is the canonical case, but the mechanism is worth examining precisely. Kodak invented the digital camera in 1975. The problem was not that leadership was unaware of digital photography — they were. The problem was that Kodak's dominant logic encoded film as the unit of value: manufacturing scale in film chemistry, retail relationships structured around consumables, profitability models built on recurring film and processing revenue. Digital photography didn't just threaten a product line; it invalidated the entire theory of the business. Every time the digital opportunity was analyzed inside Kodak, it was evaluated using the dominant logic's metrics — and it came up small, low-margin, and threatening to existing relationships. The logic didn't ignore digital. It accurately concluded that digital was bad for the Kodak business model. It just couldn't ask whether the Kodak business model needed to change.
 
 Nokia's decline follows the same structure. Nokia understood touchscreens and app ecosystems technically before the iPhone launched. Their dominant logic — built on hardware scale, carrier relationships, and device proliferation — could not accommodate a model where the software platform was the value, and the hardware was the commodity.
-
----
-
-## Connections
-
-→ [112·Disruptive Innovation](disruptive-innovation.md) — dominant logic explains the organizational mechanism behind why incumbents miss disruption even when they see the technology coming.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — dominant logic is confirmation bias institutionalized: the organization systematically attends to evidence that confirms its existing theory.
-→ [6·Map-Territory](../General-Thinking/map-territory.md) — dominant logic is a map that was once accurate but has diverged from the territory; the danger is not having a map but not knowing it's outdated.
-→ [172·Ambidextrous Organization](ambidextrous-organization.md) — structural separation of explore from exploit is partly a response to dominant logic: the explore unit needs to be insulated from the core's logic to function.
-→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — dominant logic works well in complicated and obvious domains where the environment is stable; it becomes a liability when the environment shifts to complex or chaotic.
-→ [102·S-Curves](../Systems/s-curves.md) — dominant logic is most dangerous at the top of the S-curve, when the current model is at peak performance and the next curve is just beginning.
-→ [188·Paradigm Shift](../General-Thinking/paradigm-shift.md) — dominant logic is the organizational application of Kuhn's paradigm concept: the theory of the business that successful firms encode, and then cannot escape when the environment changes.
-→ [203·Narrative Instinct](../Psychology/narrative-instinct.md) — dominant logic is narrative instinct institutionalised: the founding story that the organisation encodes and then uses to filter all new evidence.
-→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — dominant logic is organisation-level consistency bias: the founding narrative must be defended because it is central to institutional identity.
-
-## References
-
-- *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* — Clayton M. Christensen (1997) — the mechanism by which past success encodes assumptions that block response to disruption.
-- *Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company* — Andrew S. Grove (1996) — the practitioner account of recognizing when dominant logic has become a liability.
-
 
 ---
 

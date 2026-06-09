@@ -1,10 +1,46 @@
+---
+id: 250
+name: KPI Architecture
+category: Business
+cardType: standard
+tagline: The question is never "what can we measure?" It's "what decision does this number need to change?"
+connections:
+  - id: 120
+    rationale: "the failure mode this entire architecture exists partly to defend against: a measure that becomes a target stops being a good measure."
+  - id: 152
+    rationale: the goal-setting structure that a KPI system should serve; OKRs without a measurement architecture underneath them become aspirational statements no one can track.
+  - id: 144
+    rationale: "the foundational distinction this card operationalizes: an outcome-metric-poor, activity-metric-rich system measures motion and calls it progress."
+  - id: 142
+    rationale: a worked example of a small, decision-linked, leading-and-lagging metric set designed from first principles for a specific domain (software delivery).
+  - id: 18
+    rationale: "the driver-tree logic underneath KPI architecture is the same logic that finds the binding constraint in any system: trace the chain, instrument the links that matter, ignore the ones that don't."
+  - id: 161
+    rationale: choosing a leading indicator is a falsifiable bet about what drives the outcome; the discipline of stating that bet explicitly is what keeps the metric honest.
+  - id: 211
+    rationale: setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal.
+  - id: 251
+    rationale: the value ledger is, in effect, a bespoke KPI system built around a single initiative; the same architecture (named owner, threshold, cadence) applies at both the initiative and the organisation level.
+references:
+  - title: The Balanced Scorecard
+    authorYear: Robert S. Kaplan & David P. Norton (1996)
+    supports: the originating discipline of connecting strategic objectives to a small, multi-perspective measurement system.
+  - title: Measure What Matters
+    authorYear: John Doerr (2018)
+    supports: the OKR framing of outcome-linked goal-setting that a well-built KPI architecture supports.
+  - title: "Accelerate: The Science of Lean Software and DevOps"
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: a worked case study in deriving a small, validated, decision-linked metric set (DORA) from a large field of candidates.
+  - title: The Tyranny of Metrics
+    authorYear: Jerry Z. Muller (2018)
+    supports: "the cautionary counterweight: what happens when measurement systems are built by accretion rather than by design, and start measuring themselves instead of the thing they were meant to track."
+---
+
 # KPI Architecture
-*The question is never "what can we measure?" It's "what decision does this number need to change?"*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 KPI architecture is the discipline of designing a measurement *system* — as opposed to accumulating a measurement *list* — by starting from the decisions leaders actually need to make, building a driver tree that connects those decisions to the activities that influence them, and then selecting a small set of outcome, driver, and leading-indicator metrics, each with a named owner, a threshold that triggers action, and a review cadence that closes the loop. It is the method that sits behind the question "what should we measure?" — distinct from understanding any individual metric (which [Goodhart's Law](../Economics/goodharts-law.md), [OKRs](../Delivery-and-Flow/okrs.md), and [DORA Metrics](../Delivery-and-Flow/dora-metrics.md) each address) and distinct from designing the *system* those metrics live inside.
@@ -52,26 +88,6 @@ The redesign starts from the decision: "each month, what should the leadership t
 The new system has nine metrics, not sixty. Each has a named owner, a threshold (e.g., "if time-to-first-value exceeds 14 days for more than 15% of new cohorts, the head of customer success escalates within the week — not at the next monthly review"), and a cadence matched to how fast it can move (leading indicators reviewed weekly by functional owners, the outcome metric reviewed monthly by the executive team). Fifty-one metrics are retired — not because they were wrong, but because none of them was connected to a decision anyone in the room was actually making. The monthly review shrinks from two hours of status recitation to forty minutes of "here's what moved, here's why, here's what we're doing about it."
 
 ---
-
-## Connections
-
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — the failure mode this entire architecture exists partly to defend against: a measure that becomes a target stops being a good measure.
-→ [152·OKRs](../Delivery-and-Flow/okrs.md) — the goal-setting structure that a KPI system should serve; OKRs without a measurement architecture underneath them become aspirational statements no one can track.
-→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — the foundational distinction this card operationalizes: an outcome-metric-poor, activity-metric-rich system measures motion and calls it progress.
-→ [142·DORA Metrics](../Delivery-and-Flow/dora-metrics.md) — a worked example of a small, decision-linked, leading-and-lagging metric set designed from first principles for a specific domain (software delivery).
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — the driver-tree logic underneath KPI architecture is the same logic that finds the binding constraint in any system: trace the chain, instrument the links that matter, ignore the ones that don't.
-→ [161·Hypothesis-Driven Consulting](../Consulting-Craft/hypothesis-driven.md) — choosing a leading indicator is a falsifiable bet about what drives the outcome; the discipline of stating that bet explicitly is what keeps the metric honest.
-→ [211·Calibration](../General-Thinking/calibration.md) — setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal.
-→ [251·Value Realization](value-realization.md) — the value ledger is, in effect, a bespoke KPI system built around a single initiative; the same architecture (named owner, threshold, cadence) applies at both the initiative and the organisation level.
-
----
-
-## References
-
-- *The Balanced Scorecard* — Robert S. Kaplan & David P. Norton (1996) — the originating discipline of connecting strategic objectives to a small, multi-perspective measurement system.
-- *Measure What Matters* — John Doerr (2018) — the OKR framing of outcome-linked goal-setting that a well-built KPI architecture supports.
-- *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble & Gene Kim (2018) — a worked case study in deriving a small, validated, decision-linked metric set (DORA) from a large field of candidates.
-- *The Tyranny of Metrics* — Jerry Z. Muller (2018) — the cautionary counterweight: what happens when measurement systems are built by accretion rather than by design, and start measuring themselves instead of the thing they were meant to track.
 
 ---
 

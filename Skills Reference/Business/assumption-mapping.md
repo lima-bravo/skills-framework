@@ -1,10 +1,46 @@
+---
+id: 73
+name: Assumption Mapping
+category: Business
+cardType: standard
+tagline: Surface and prioritize the beliefs a plan depends on
+connections:
+  - id: 68
+    rationale: the canvas is the source document from which assumptions are extracted.
+  - id: 64
+    rationale: the MVP is the cheapest device for testing the most critical assumptions.
+  - id: 189
+    rationale: assumption mapping defines what to test; the Experiment Ladder selects which type of experiment is appropriate for each assumption class.
+  - id: 72
+    rationale: once the experiment type is selected, experiment design defines how to run it validly — hypothesis, success criteria, sample size.
+  - id: 212
+    rationale: the assumptions an evaluator holds about a candidate or option are the source of expectation that drives observer bias; surfacing assumptions before evaluation is the upstream intervention.
+  - id: 213
+    rationale: assumption mapping is Step 3 in this chain; the full sequence shows how to go from idea to a testable hypothesis with kill criteria
+  - id: 246
+    rationale: the broader diagnostic discipline that surfaces what's known, believed, and unknown about a *situation*; assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy
+  - id: 10
+    rationale: pre-mortem failure causes typically correspond to critical assumptions that weren't tested; running both surfaces risk from two directions.
+  - id: 218
+    rationale: the business case's "assumption stack" is the primary output of assumption mapping applied to a financial argument; high-criticality, low-certainty assumptions are the ones to stress-test before submission.
+  - id: 224
+    rationale: red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of which beliefs are most critical and least supported.
+  - id: 66
+    rationale: customer development produces the evidence that validates or invalidates the critical assumptions surfaced by the map.
+references:
+  - title: "Testing Business Ideas: A Field Guide for Rapid Experimentation"
+    authorYear: David J. Bland & Alexander Osterwalder (2019)
+    supports: the practitioner toolkit for identifying and testing assumptions systematically.
+  - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+    authorYear: Eric Ries (2011)
+    supports: the source discipline of assumption-first product development.
+---
+
 # Assumption Mapping
-*Surface and prioritize the beliefs a plan depends on*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Assumption mapping is the practice of explicitly listing all the beliefs on which a plan, strategy, or product depends — and then ranking them by importance (how much does success depend on this being true?) and evidence (how confident are we that this is true?). The result is a map of where the most dangerous assumptions lie: the high-importance, low-evidence beliefs. These are the assumptions that should be tested first.
@@ -39,27 +75,6 @@ Every plan is built on a stack of assumptions. Some are well-evidenced (near cer
 A team is planning a new market entry. They list their assumptions and find 35. After mapping on importance vs. certainty, five assumptions emerge as critical and low-certainty: (1) the target customer experiences the problem intensely enough to pay for a solution; (2) the customer's current workaround can be disrupted by a software product; (3) the procurement cycle is short enough for the unit economics to work; (4) regulatory approval is achievable within 12 months; and (5) a comparable case study will be sufficient to win enterprise trust. These five assumptions define the next three months of customer development and legal exploration before any product is built.
 
 ---
-
-## Connections
-
-→ [68·Business Model Canvas](business-model-canvas.md) — the canvas is the source document from which assumptions are extracted.
-→ [64·MVP](../Startups/mvp.md) — the MVP is the cheapest device for testing the most critical assumptions.
-→ [189·Experiment Ladder](../Startups/experiment-ladder.md) — assumption mapping defines what to test; the Experiment Ladder selects which type of experiment is appropriate for each assumption class.
-→ [72·Experiment Design](experiment-design.md) — once the experiment type is selected, experiment design defines how to run it validly — hypothesis, success criteria, sample size.
-→ [212·Observer Bias](../Psychology/observer-bias.md) — the assumptions an evaluator holds about a candidate or option are the source of expectation that drives observer bias; surfacing assumptions before evaluation is the upstream intervention.
-→ [213·From Idea to Hypothesis](../Pre-built-Chains/from-idea-to-hypothesis.md) — assumption mapping is Step 3 in this chain; the full sequence shows how to go from idea to a testable hypothesis with kill criteria
-→ [246·Situation Assessment](../Consulting-Craft/situation-assessment.md) — the broader diagnostic discipline that surfaces what's known, believed, and unknown about a *situation*; assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — pre-mortem failure causes typically correspond to critical assumptions that weren't tested; running both surfaces risk from two directions.
-→ [218·Business Case Construction](business-case-construction.md) — the business case's "assumption stack" is the primary output of assumption mapping applied to a financial argument; high-criticality, low-certainty assumptions are the ones to stress-test before submission.
-→ [224·Red Teaming](red-teaming.md) — red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of which beliefs are most critical and least supported.
-→ [66·Customer Development](../Startups/customer-development.md) — customer development produces the evidence that validates or invalidates the critical assumptions surfaced by the map.
-
----
-
-## References
-
-- *Testing Business Ideas: A Field Guide for Rapid Experimentation* — David J. Bland & Alexander Osterwalder (2019) — the practitioner toolkit for identifying and testing assumptions systematically.
-- *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source discipline of assumption-first product development.
 
 ---
 

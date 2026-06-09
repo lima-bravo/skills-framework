@@ -1,10 +1,36 @@
+---
+id: 219
+name: Pricing Logic
+category: Business
+cardType: standard
+tagline: Cost-plus pricing tells the customer what you paid. Value-based pricing asks what it's worth to them. They are not the same question.
+connections:
+  - id: 217
+    rationale: "the upstream model: value-based pricing is only possible if you understand what value is created and what determines how much of it can be captured; this card is the practical expression of that logic. *Note: these cards are closely related — read Value Creation and Capture first if pricing logic is new territory.*"
+  - id: 216
+    rationale: "the downstream check: does the pricing model produce unit economics (LTV:CAC, contribution margin) that make the business viable at scale?"
+  - id: 94
+    rationale: "built Chain) — the full decision sequence including customer psychology, competitive positioning, and pricing change management; this card provides the conceptual foundation that chain operationalises. *Note: there is deliberate overlap — the chain applies these models in sequence.*"
+  - id: 54
+    rationale: the psychological mechanism that makes initial price points sticky; the most important implication is that starting prices are very hard to raise later
+  - id: 52
+    rationale: customers evaluate price increases as losses from their current anchor; the magnitude of the loss response is roughly 2× the magnitude of an equivalent gain response — price increases are psychologically harder than the mathematics suggest
+  - id: 120
+    rationale: when revenue or margin targets become primary pricing drivers, pricing degrades into a number-hitting exercise rather than a value-capture discipline
+references:
+  - title: Power Pricing
+    authorYear: Robert J. Dolan & Hermann Simon (1996)
+    supports: practitioner guide to value-based pricing; introduces the value corridor concept and how to capture a larger share of the value created rather than defaulting to cost-plus logic.
+  - title: '"Customer Value Propositions in Business Markets"'
+    authorYear: James C. Anderson, James A. Narus & Das Narayandas, *Harvard Business Review* (March 2007)
+    supports: shows how articulating quantified value delivered to customers is the foundation of value-based pricing in B2B markets.
+---
+
 # Pricing Logic
-*Cost-plus pricing tells the customer what you paid. Value-based pricing asks what it's worth to them. They are not the same question.*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Pricing logic is the analytical framework for determining what to charge for a product or service. Three dominant approaches exist: cost-plus (price = cost + target margin), competitive (price relative to alternatives), and value-based (price proportional to economic value delivered to the customer). Each reflects a different theory of what pricing should accomplish. A fourth approach — dynamic pricing — applies any of the above in real time as supply, demand, or competitive conditions change. The choice of pricing approach is a strategic decision, not an operational one: it determines the firm's relationship to the value it creates and the share of that value it retains.
@@ -53,24 +79,6 @@ Segmentation analysis: large enterprise customers (500+ employees) have an avera
 Revised pricing: SMB tier at £4,800/year (still discounted vs current), mid-market at £9,600/year, enterprise at £24,000/year. The enterprise tier now captures 12% of created value — still well below the ceiling, leaving substantial consumer surplus to make the purchase compelling, but capturing significantly more for the firm. The pricing change increases average revenue per customer by 60% with no change in product.
 
 ---
-
-## Connections
-
-→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — the upstream model: value-based pricing is only possible if you understand what value is created and what determines how much of it can be captured; this card is the practical expression of that logic. *Note: these cards are closely related — read Value Creation and Capture first if pricing logic is new territory.*
-→ [216·Unit Economics](../Economics/unit-economics.md) — the downstream check: does the pricing model produce unit economics (LTV:CAC, contribution margin) that make the business viable at scale?
-→ [**Pricing Decision**](../Pre-built-Chains/pricing-decision.md) (Pre-built Chain) — the full decision sequence including customer psychology, competitive positioning, and pricing change management; this card provides the conceptual foundation that chain operationalises. *Note: there is deliberate overlap — the chain applies these models in sequence.*
-→ [54·Anchoring](../Psychology/anchoring.md) — the psychological mechanism that makes initial price points sticky; the most important implication is that starting prices are very hard to raise later
-→ [52·Loss Aversion](../Psychology/loss-aversion.md) — customers evaluate price increases as losses from their current anchor; the magnitude of the loss response is roughly 2× the magnitude of an equivalent gain response — price increases are psychologically harder than the mathematics suggest
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — when revenue or margin targets become primary pricing drivers, pricing degrades into a number-hitting exercise rather than a value-capture discipline
-
----
-
-## References
-
-- *The Strategy and Tactics of Pricing*, 6th ed. — Thomas T. Nagle & Georg Müller (2018) — the standard academic and practitioner reference; covers value-based pricing, customer segmentation, price differentiation, and pricing change management.
-- *Pricing: Making Profitable Decisions*, 3rd ed. — Kent B. Monroe (2002) — comprehensive treatment of pricing theory and practice including value pricing, price discrimination, and the psychology of price perception.
-- *Power Pricing* — Robert J. Dolan & Hermann Simon (1996) — practitioner guide to value-based pricing; introduces the value corridor concept and how to capture a larger share of the value created rather than defaulting to cost-plus logic.
-- *"Customer Value Propositions in Business Markets"* — James C. Anderson, James A. Narus & Das Narayandas, *Harvard Business Review* (March 2007) — shows how articulating quantified value delivered to customers is the foundation of value-based pricing in B2B markets.
 
 ---
 

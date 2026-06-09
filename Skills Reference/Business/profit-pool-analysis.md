@@ -1,10 +1,46 @@
+---
+id: 248
+name: Profit Pool Analysis
+category: Business
+cardType: standard
+tagline: Revenue tells you where the money moves through. Profit pools tell you where it stops.
+connections:
+  - id: 217
+    rationale: "the conceptual foundation: profit pool analysis is value-capture analysis applied at the level of a market or value chain rather than a single firm or transaction."
+  - id: 216
+    rationale: the per-customer or per-transaction lens that often explains *why* a pool concentrates where the map shows it does.
+  - id: 210
+    rationale: the discipline of explaining structural position, not just current position; pairs with this card to answer "will this pool still be here in three years?"
+  - id: 239
+    rationale: the mathematical shape profit concentration often takes; distinguishes durable (structural) from fragile (temporary) concentration.
+  - id: 238
+    rationale: profit pools frequently follow a power law distribution; the strategic question is whether that concentration is load-bearing or merely current.
+  - id: 166
+    rationale: a profit pool map is a diagnosis; it becomes strategy only when paired with a guiding policy and coherent actions that follow from where the profit actually sits.
+  - id: 246
+    rationale: profit pool analysis is one lens within a broader current-state view; it specializes the "market position" and "financial performance" dimensions into a single structural question.
+  - id: 224
+    rationale: "once a profit pool map identifies an attractive position, red-team it: if the pool is this attractive, why hasn't it already been contested away?"
+references:
+  - title: '"Profit Pools: A Fresh Look at Strategy"'
+    authorYear: Orit Gadiesh & James L. Gilbert, HBR (1998)
+    supports: the originating framework and the automotive-industry illustration this card draws from.
+  - title: "\"How to Map Your Industry's Profit Pool\""
+    authorYear: Orit Gadiesh & James L. Gilbert, HBR (1998)
+    supports: the companion piece on constructing the map itself.
+  - title: '"Strategies to Crack Well-Guarded Markets"'
+    authorYear: David J. Bryce & Jeffrey H. Dyer, HBR (2007)
+    supports: on identifying where structural barriers create durable profit concentration — and where they don't.
+  - title: Competitive Advantage
+    authorYear: Michael E. Porter (1985)
+    supports: the value-chain decomposition that profit pool mapping is built on top of.
+---
+
 # Profit Pool Analysis
-*Revenue tells you where the money moves through. Profit pools tell you where it stops.*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Profit pool analysis is the discipline of mapping where profit — not revenue — is actually created and captured across a market, value chain, product set, or customer base, and explaining the structural reasons it concentrates where it does. It separates the *revenue pool* (where money flows) from the *profit pool* (where it accumulates after costs), surfaces concentration and leakage, and connects the resulting map to where-to-play, where-to-avoid, and how-to-improve-capture decisions. The discipline was popularized by Gadiesh and Gilbert's work at Bain in the 1990s, built on a single observation that still surprises most strategy conversations: the part of a market that generates the most revenue is very often not the part that generates the most profit.
@@ -49,26 +85,6 @@ The profit pool map reframes the choice entirely. Core distribution generates 60
 The structural explanation is what makes the map actionable rather than merely interesting: the parts-and-service pool is profitable *because* it rides on an installed base that took decades to build — a durable advantage — whereas core distribution is profitable in inverse proportion to how easily a competitor can match the offer, which is to say, not very. The recommendation shifts from "expand the business everyone identifies with" to "treat the installed base as the strategic asset, and grow the service capacity that monetizes it" — with core distribution reframed from a growth engine to the channel that builds the installed base the service business depends on.
 
 ---
-
-## Connections
-
-→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — the conceptual foundation: profit pool analysis is value-capture analysis applied at the level of a market or value chain rather than a single firm or transaction.
-→ [216·Unit Economics](../Economics/unit-economics.md) — the per-customer or per-transaction lens that often explains *why* a pool concentrates where the map shows it does.
-→ [210·Wardley Mapping](wardley-mapping.md) — the discipline of explaining structural position, not just current position; pairs with this card to answer "will this pool still be here in three years?"
-→ [239·Long Tail](../Economics/long-tail.md) — the mathematical shape profit concentration often takes; distinguishes durable (structural) from fragile (temporary) concentration.
-→ [238·Power Law](../Mathematics/power-law.md) — profit pools frequently follow a power law distribution; the strategic question is whether that concentration is load-bearing or merely current.
-→ [166·Kernel of Good Strategy](kernel-of-strategy.md) — a profit pool map is a diagnosis; it becomes strategy only when paired with a guiding policy and coherent actions that follow from where the profit actually sits.
-→ [246·Situation Assessment](../Consulting-Craft/situation-assessment.md) — profit pool analysis is one lens within a broader current-state view; it specializes the "market position" and "financial performance" dimensions into a single structural question.
-→ [224·Red Teaming](red-teaming.md) — once a profit pool map identifies an attractive position, red-team it: if the pool is this attractive, why hasn't it already been contested away?
-
----
-
-## References
-
-- *"Profit Pools: A Fresh Look at Strategy"* — Orit Gadiesh & James L. Gilbert, HBR (1998) — the originating framework and the automotive-industry illustration this card draws from.
-- *"How to Map Your Industry's Profit Pool"* — Orit Gadiesh & James L. Gilbert, HBR (1998) — the companion piece on constructing the map itself.
-- *"Strategies to Crack Well-Guarded Markets"* — David J. Bryce & Jeffrey H. Dyer, HBR (2007) — on identifying where structural barriers create durable profit concentration — and where they don't.
-- *Competitive Advantage* — Michael E. Porter (1985) — the value-chain decomposition that profit pool mapping is built on top of.
 
 ---
 

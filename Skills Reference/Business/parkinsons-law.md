@@ -1,10 +1,35 @@
+---
+id: 241
+name: Parkinson's Law
+category: Business
+cardType: standard
+tagline: Work expands to fill the time available for its completion
+connections:
+  - id: 115
+    rationale: "the Planning Fallacy (underestimating duration) and Parkinson's Law (work expanding to fill duration) are complementary: we underestimate how long things take and then fill whatever time we allocated."
+  - id: 176
+    rationale: Organisational Slack has genuine value for exploration and variance absorption; Parkinson's Law is the failure mode when slack becomes the norm rather than the buffer.
+  - id: 132
+    rationale: "WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion."
+  - id: 237
+    rationale: "interventions designed to reduce bureaucratic expansion (new approval processes, oversight committees) can trigger Parkinson dynamics: the oversight infrastructure itself expands to fill available budget and attention."
+  - id: 242
+    rationale: Parkinson's Law describes how organisations expand; the Peter Principle describes how the people filling that expansion are selected. Together they explain why large organisations systematically underperform their headcount.
+  - id: 243
+    rationale: above Dunbar's Number, organisations rely on process and structure rather than direct relationships; Parkinson expansion accelerates as organisations exceed the scale where informal coordination works.
+  - id: 153
+    rationale: "kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth."
+references:
+  - title: Parkinson's Law, and Other Studies in Administration
+    authorYear: C. Northcote Parkinson (1958)
+    supports: the source text, collected from the 1955 Economist essay and subsequent observations.
+---
+
 # Parkinson's Law
-*Work expands to fill the time available for its completion*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Parkinson's Law states that work expands to fill the time available for its completion. Articulated by C. Northcote Parkinson in 1955, originally as a satirical observation about British civil service bureaucracy, it has proven to be a durable and empirically robust description of how tasks, projects, and organisations behave when time and resource constraints are loose. The law has a complementary form: organisations expand their headcount and complexity regardless of the actual work to be done, because administrators create work for each other and then hire subordinates to handle the work they've created.
@@ -45,22 +70,6 @@ A product team is given six weeks to design and prototype a new onboarding flow.
 Redesign: the team lead introduces a four-week timebox for the next prototype cycle with an explicit scope constraint: "What is the minimum fidelity needed to test the core hypothesis?" The prototype is complete in three weeks. The fourth week is used to recruit and run user tests — work that had previously been squeezed out because the design phase consumed all available time. The constraint didn't reduce quality; it redirected effort toward what actually mattered.
 
 ---
-
-## Connections
-
-→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — the Planning Fallacy (underestimating duration) and Parkinson's Law (work expanding to fill duration) are complementary: we underestimate how long things take and then fill whatever time we allocated.
-→ [176·Organisational Slack](organizational-slack.md) — Organisational Slack has genuine value for exploration and variance absorption; Parkinson's Law is the failure mode when slack becomes the norm rather than the buffer.
-→ [132·WIP Limits](../Delivery-and-Flow/wip-limits.md) — WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion.
-→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — interventions designed to reduce bureaucratic expansion (new approval processes, oversight committees) can trigger Parkinson dynamics: the oversight infrastructure itself expands to fill available budget and attention.
-→ [242·Peter Principle](../Leadership/peter-principle.md) — Parkinson's Law describes how organisations expand; the Peter Principle describes how the people filling that expansion are selected. Together they explain why large organisations systematically underperform their headcount.
-→ [243·Dunbar's Number](../Systems/dunbars-number.md) — above Dunbar's Number, organisations rely on process and structure rather than direct relationships; Parkinson expansion accelerates as organisations exceed the scale where informal coordination works.
-→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth.
-
----
-
-## References
-
-- *Parkinson's Law, and Other Studies in Administration* — C. Northcote Parkinson (1958) — the source text, collected from the 1955 Economist essay and subsequent observations.
 
 ---
 

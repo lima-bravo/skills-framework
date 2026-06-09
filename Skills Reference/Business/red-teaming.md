@@ -1,10 +1,48 @@
+---
+id: 224
+name: Red Teaming
+category: Business
+cardType: standard
+tagline: Mandate a team to attack your plan before your adversary does
+connections:
+  - id: 223
+    rationale: the red team's first obligation; attacking a weak version of the plan is as useless as not attacking at all.
+  - id: 204
+    rationale: red teaming is the organisational mechanism for structured falsification; the red team's mandate is to find the conditions under which the plan is wrong.
+  - id: 10
+    rationale: the pre-mortem is a lighter-weight adversarial tool that can precede or complement a full red team exercise; the pre-mortem engages the whole group, the red team uses a separate designated group.
+  - id: 55
+    rationale: red teaming is a structural countermeasure to confirmation bias in planning; it provides an institutionally-sanctioned source of disconfirming pressure.
+  - id: 73
+    rationale: red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of what to challenge.
+  - id: 104
+    rationale: red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for useful adversarial output.
+  - id: 153
+    rationale: red team findings often generate the conditions that should be pre-specified as kill criteria; converting red team output into kill criteria makes the findings operationally binding.
+  - id: 225
+    rationale: where red teaming attacks plans before commitment, A/B testing attacks hypotheses with live evidence during execution; the two are complementary tools for different phases of uncertainty reduction.
+  - id: 248
+    rationale: "once a profit pool map identifies an attractive position, red-team it: if the pool is this profitable, why hasn't it already been contested away?"
+references:
+  - title: "Red Team: How to Succeed by Thinking Like the Enemy"
+    authorYear: Micah Zenko (2015)
+    supports: comprehensive treatment of how organisations use adversarial red teams; covers military, intelligence, and corporate applications; documents the recurring failure modes (captured teams, cosmetic exercises) in detail.
+  - title: '"Performing a Project Premortem"'
+    authorYear: Gary Klein, *Harvard Business Review* (September 2007)
+    supports: "introduces the pre-mortem as a lightweight adversarial exercise: asking a group to assume the project has failed and reason backward to causes; the most accessible entry point to adversarial planning techniques."
+  - title: "A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis"
+    authorYear: CIA Directorate of Intelligence (2009)
+    supports: foundational intelligence community document on red teaming and structured analytic techniques; describes devil's advocacy, team A/B analysis, and other adversarial methods for stress-testing assessments.
+  - title: '"Before You Make That Big Decision"'
+    authorYear: Daniel Kahneman, Dan Lovallo & Olivier Sibony, *Harvard Business Review* (June 2011)
+    supports: a 12-question checklist for improving strategic decision quality; adversarial review is one of the key recommendations for countering planning and overconfidence bias.
+---
+
 # Red Teaming
-*Mandate a team to attack your plan before your adversary does*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Red teaming is a structured adversarial practice in which a designated group — the red team — is given an explicit mandate to find weaknesses, challenge assumptions, and construct the strongest case against a plan, strategy, or system. The term originates from Cold War military wargaming, where the "red team" represented the opposing force. In organisational practice, red teaming is applied to strategic decisions, product plans, security assessments, policy proposals, and any high-stakes commitment where blind spots and overconfidence are likely.
@@ -57,27 +95,6 @@ The red team's findings: (1) the commercial model assumes a phased payment struc
 None of these were visible to the proposal team — they were too close to the work. Finding (1) requires a commercial restructure; findings (2) and (3) require timeline and scope adjustments. The proposal is revised and wins. The red team exercise took four hours.
 
 ---
-
-## Connections
-
-→ [223·Steelmanning](../General-Thinking/steelmanning.md) — the red team's first obligation; attacking a weak version of the plan is as useless as not attacking at all.
-→ [204·Falsification](../Psychology/falsification.md) — red teaming is the organisational mechanism for structured falsification; the red team's mandate is to find the conditions under which the plan is wrong.
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the pre-mortem is a lighter-weight adversarial tool that can precede or complement a full red team exercise; the pre-mortem engages the whole group, the red team uses a separate designated group.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — red teaming is a structural countermeasure to confirmation bias in planning; it provides an institutionally-sanctioned source of disconfirming pressure.
-→ [73·Assumption Mapping](assumption-mapping.md) — red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of what to challenge.
-→ [104·Psychological Safety](../Psychology/psychological-safety.md) — red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for useful adversarial output.
-→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — red team findings often generate the conditions that should be pre-specified as kill criteria; converting red team output into kill criteria makes the findings operationally binding.
-→ [225·A/B Testing](ab-testing.md) — where red teaming attacks plans before commitment, A/B testing attacks hypotheses with live evidence during execution; the two are complementary tools for different phases of uncertainty reduction.
-→ [248·Profit Pool Analysis](profit-pool-analysis.md) — once a profit pool map identifies an attractive position, red-team it: if the pool is this profitable, why hasn't it already been contested away?
-
----
-
-## References
-
-- *Red Team: How to Succeed by Thinking Like the Enemy* — Micah Zenko (2015) — comprehensive treatment of how organisations use adversarial red teams; covers military, intelligence, and corporate applications; documents the recurring failure modes (captured teams, cosmetic exercises) in detail.
-- *"Performing a Project Premortem"* — Gary Klein, *Harvard Business Review* (September 2007) — introduces the pre-mortem as a lightweight adversarial exercise: asking a group to assume the project has failed and reason backward to causes; the most accessible entry point to adversarial planning techniques.
-- *A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis* — CIA Directorate of Intelligence (2009) — foundational intelligence community document on red teaming and structured analytic techniques; describes devil's advocacy, team A/B analysis, and other adversarial methods for stress-testing assessments.
-- *"Before You Make That Big Decision"* — Daniel Kahneman, Dan Lovallo & Olivier Sibony, *Harvard Business Review* (June 2011) — a 12-question checklist for improving strategic decision quality; adversarial review is one of the key recommendations for countering planning and overconfidence bias.
 
 ---
 

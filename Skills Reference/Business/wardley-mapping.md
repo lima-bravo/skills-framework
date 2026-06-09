@@ -1,10 +1,44 @@
+---
+id: 210
+name: Wardley Mapping
+category: Business
+cardType: standard
+tagline: A map that shows not just where things are, but which direction they're moving.
+connections:
+  - id: 109
+    rationale: "Wardley Maps reveal which moves are adjacent: components at the Genesis/Custom boundary are where the adjacent possible is open; Commodity components are closed."
+  - id: 112
+    rationale: commoditisation is the mechanism Christensen describes from the demand side; Wardley describes it from the supply and evolution side. The two models are complementary diagnostics of the same phenomenon.
+  - id: 113
+    rationale: Horizon 1 maps to Commodity/Product (manage and extend); Horizon 2 to Custom (transition and build); Horizon 3 to Genesis (explore). The frameworks compose naturally.
+  - id: 166
+    rationale: a Wardley Map is a tool for developing the "diagnosis" component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
+  - id: 108
+    rationale: Genesis/Custom components warrant exploration; Product/Commodity components warrant exploitation. The map tells you which mode applies where.
+  - id: 63
+    rationale: applies at the Genesis/Custom end of the map, where hypothesis testing is the right mode; inappropriate at Commodity, where adoption beats experimentation.
+  - id: 123
+    rationale: Wardley Maps can be projected into the future (where will each component sit in three years?), producing the alternative futures that scenario planning works with.
+  - id: 217
+    rationale: evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where value capture is flowing and why.
+  - id: 248
+    rationale: Wardley Mapping explains whether a profit pool will persist; the structural position on the evolution axis determines whether today's concentration is durable or fragile.
+  - id: 254
+    rationale: a Wardley Map sharpens the where-to-play choice in the cascade by revealing which components are commoditising and which remain differentiating.
+references:
+  - title: Wardley Maps
+    authorYear: Simon Wardley (2016), available free at medium.com/wardleymaps and leanpub.com/wardley
+    supports: maps — the source text for the technique; 19 chapters covering the evolution axis, climatic patterns, doctrine, and strategic gameplay. Published under Creative Commons Attribution-ShareAlike 4.0.
+  - title: The Art of War
+    authorYear: Sun Tzu (c. 500 BCE)
+    supports: Wardley cites this as the foundational reference for situational awareness as the precondition of strategy; the core principle that no two battles are won the same way, and that the commander who reads the terrain wins before the battle is joined.
+---
+
 # Wardley Mapping
-*A map that shows not just where things are, but which direction they're moving.*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Wardley Mapping is a strategic situational-awareness technique developed by Simon Wardley (2005, published 2016). A map has two axes: the vertical **value chain** (anchored at the top by user need, with the components that fulfil it arranged below by dependency) and the horizontal **evolution axis** (components positioned by their maturity stage: Genesis → Custom-built → Product → Commodity/Utility). The key insight is movement: all components evolve rightward over time as practices standardise, supply increases, and competition drives commoditisation. A Wardley Map makes visible not just the current structure of a business or system, but the direction of travel — which is what strategy must respond to.
@@ -58,26 +92,6 @@ Plotting these on the evolution axis: the app is Custom (differentiating); the M
 Decision: adopt cloud-native data platform and managed ML tooling; redirect 60% of platform engineering to the recommendation layer where differentiation actually exists. Eighteen months later, model quality improves substantially because the team is working on the right problem.
 
 ---
-
-## Connections
-
-→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — Wardley Maps reveal which moves are adjacent: components at the Genesis/Custom boundary are where the adjacent possible is open; Commodity components are closed.
-→ [112·Disruptive Innovation](disruptive-innovation.md) — commoditisation is the mechanism Christensen describes from the demand side; Wardley describes it from the supply and evolution side. The two models are complementary diagnostics of the same phenomenon.
-→ [113·Three Horizons](three-horizons.md) — Horizon 1 maps to Commodity/Product (manage and extend); Horizon 2 to Custom (transition and build); Horizon 3 to Genesis (explore). The frameworks compose naturally.
-→ [166·Kernel of Good Strategy](kernel-of-strategy.md) — a Wardley Map is a tool for developing the "diagnosis" component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
-→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — Genesis/Custom components warrant exploration; Product/Commodity components warrant exploitation. The map tells you which mode applies where.
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — applies at the Genesis/Custom end of the map, where hypothesis testing is the right mode; inappropriate at Commodity, where adoption beats experimentation.
-→ [123·Scenario Planning](scenario-planning.md) — Wardley Maps can be projected into the future (where will each component sit in three years?), producing the alternative futures that scenario planning works with.
-→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where value capture is flowing and why.
-→ [248·Profit Pool Analysis](profit-pool-analysis.md) — Wardley Mapping explains whether a profit pool will persist; the structural position on the evolution axis determines whether today's concentration is durable or fragile.
-→ [254·Playing to Win](playing-to-win.md) — a Wardley Map sharpens the where-to-play choice in the cascade by revealing which components are commoditising and which remain differentiating.
-
----
-
-## References
-
-- *Wardley Maps* — Simon Wardley (2016), available free at medium.com/wardleymaps and leanpub.com/wardley-maps — the source text for the technique; 19 chapters covering the evolution axis, climatic patterns, doctrine, and strategic gameplay. Published under Creative Commons Attribution-ShareAlike 4.0.
-- *The Art of War* — Sun Tzu (c. 500 BCE) — Wardley cites this as the foundational reference for situational awareness as the precondition of strategy; the core principle that no two battles are won the same way, and that the commander who reads the terrain wins before the battle is joined.
 
 ---
 

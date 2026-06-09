@@ -1,10 +1,42 @@
+---
+id: 247
+name: Growth Barriers
+category: Business
+cardType: standard
+tagline: '"Growth has stalled" is a symptom report. The diagnosis is one binding constraint, named precisely enough to act on.'
+connections:
+  - id: 18
+    rationale: "the systems-theory foundation of this entire card: in any flow system, only the constraint determines throughput, and effort spent elsewhere is an illusion of progress."
+  - id: 246
+    rationale: the broader current-state diagnostic this card specializes; run a situation assessment first if it isn't yet clear that growth (rather than, say, margin or morale) is the actual presenting issue.
+  - id: 171
+    rationale: the discipline that keeps "what changed right before the slowdown" from being mistaken for "what caused the slowdown."
+  - id: 216
+    rationale: when the binding constraint sits in monetization or expansion, unit economics is the lens that makes the leak visible in dollar terms, not just funnel-percentage terms.
+  - id: 144
+    rationale: a growth team that is "shipping a lot" while the binding constraint goes unaddressed is optimizing output while the outcome continues to stall.
+  - id: 161
+    rationale: the binding-constraint diagnosis is a hypothesis, not a verdict; this card supplies the discipline for testing it cheaply before committing to the full-scale fix.
+references:
+  - title: The Goal
+    authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)
+    supports: "the theory-of-constraints logic this card applies to growth specifically: only the binding constraint determines system throughput."
+  - title: The Lean Startup
+    authorYear: Eric Ries (2011)
+    supports: the engine-of-growth framing — paid, viral, sticky — that underlies a clean acquisition/retention/expansion decomposition.
+  - title: Competing Against Luck
+    authorYear: C.M. Christensen, T. Hall, K. Dillon & D.S. Duncan (2016)
+    supports: separating the job a customer is hiring a product to do from the symptom that shows up when it fails to do it.
+  - title: Lean Analytics
+    authorYear: Alistair Croll & Benjamin Yoskovitz (2013)
+    supports: driver-tree style decomposition of a growth system into measurable, falsifiable components.
+---
+
 # Growth Barriers
-*"Growth has stalled" is a symptom report. The diagnosis is one binding constraint, named precisely enough to act on.*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Growth barrier diagnosis is the discipline of treating "why aren't we growing?" as a systems question rather than a list of initiatives. It builds a driver tree across the full growth system — acquisition, activation, conversion, retention, expansion, monetization, and capacity — locates where momentum actually breaks down with evidence, and separates the root cause from the symptoms clustered around it. The output is not a backlog of growth ideas; it is a single binding-constraint diagnosis precise enough that the next move is obvious, and a short evidence plan for confirming it before resources are committed.
@@ -49,24 +81,6 @@ Before committing, the team builds the driver tree and finds: top-of-funnel lead
 The binding constraint is not sales execution or competitive pressure — it is onboarding capacity. New customers are churning before they reach the value the product delivers, because the team that gets them there hasn't scaled with demand. The driver-tree evidence redirects the entire response: instead of a sales reorganization (which would pour more customers into the same under-resourced onboarding funnel and likely *accelerate* the churn), the company invests in customer success capacity and a faster time-to-value path — and proposes a 90-day test on the highest-risk cohort before scaling the fix company-wide.
 
 ---
-
-## Connections
-
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — the systems-theory foundation of this entire card: in any flow system, only the constraint determines throughput, and effort spent elsewhere is an illusion of progress.
-→ [246·Situation Assessment](../Consulting-Craft/situation-assessment.md) — the broader current-state diagnostic this card specializes; run a situation assessment first if it isn't yet clear that growth (rather than, say, margin or morale) is the actual presenting issue.
-→ [171·Causal Analysis](../General-Thinking/causal-analysis.md) — the discipline that keeps "what changed right before the slowdown" from being mistaken for "what caused the slowdown."
-→ [216·Unit Economics](../Economics/unit-economics.md) — when the binding constraint sits in monetization or expansion, unit economics is the lens that makes the leak visible in dollar terms, not just funnel-percentage terms.
-→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — a growth team that is "shipping a lot" while the binding constraint goes unaddressed is optimizing output while the outcome continues to stall.
-→ [161·Hypothesis-Driven Consulting](../Consulting-Craft/hypothesis-driven.md) — the binding-constraint diagnosis is a hypothesis, not a verdict; this card supplies the discipline for testing it cheaply before committing to the full-scale fix.
-
----
-
-## References
-
-- *The Goal* — Eliyahu M. Goldratt & Jeff Cox (1984) — the theory-of-constraints logic this card applies to growth specifically: only the binding constraint determines system throughput.
-- *The Lean Startup* — Eric Ries (2011) — the engine-of-growth framing — paid, viral, sticky — that underlies a clean acquisition/retention/expansion decomposition.
-- *Competing Against Luck* — C.M. Christensen, T. Hall, K. Dillon & D.S. Duncan (2016) — separating the job a customer is hiring a product to do from the symptom that shows up when it fails to do it.
-- *Lean Analytics* — Alistair Croll & Benjamin Yoskovitz (2013) — driver-tree style decomposition of a growth system into measurable, falsifiable components.
 
 ---
 

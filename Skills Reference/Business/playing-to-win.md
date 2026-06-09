@@ -1,10 +1,37 @@
+---
+id: 254
+name: Playing to Win
+category: Business
+cardType: standard
+tagline: Five choices. One cascade. Each enables the next.
+connections:
+  - id: 166
+    rationale: Rumelt's kernel and the Playing to Win cascade address the same question from different angles; Rumelt focuses on naming the diagnosis and guiding policy, Martin/Lafley on ensuring the five choices reinforce each other.
+  - id: 30
+    rationale: the how-to-win choice is a trade-off; the cascade makes explicit which trade-off is being made and why.
+  - id: 210
+    rationale: a Wardley Map sharpens the where-to-play choice by revealing which components are commoditizing and which remain differentiating.
+  - id: 162
+    rationale: the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation.
+  - id: 71
+    rationale: portfolio decisions flow from where-to-play; the cascade makes the linkage explicit rather than leaving it implicit.
+references:
+  - title: "Playing to Win: How Strategy Really Works"
+    authorYear: A.G. Lafley & Roger L. Martin (2013)
+    supports: the source text for the five-choice cascade; built from P&G's strategy practice and documented as a generalisable method.
+  - title: The Design of Business
+    authorYear: Roger L. Martin (2009)
+    supports: Martin's knowledge-funnel model of how businesses move from mystery to algorithm; the epistemological foundation for how-to-win choices.
+  - title: Good Strategy / Bad Strategy
+    authorYear: Richard P. Rumelt (2011)
+    supports: the complementary framework; where Playing to Win specifies the cascade structure, Rumelt specifies what makes the diagnosis and guiding policy coherent.
+---
+
 # Playing to Win
-*Five choices. One cascade. Each enables the next.*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Playing to Win is a strategy framework developed by A.G. Lafley and Roger L. Martin (*Playing to Win*, 2013) that defines strategy as five integrated choices arranged in a cascade: **Winning Aspiration** (what does winning look like, and for whom?), **Where to Play** (which markets, customers, channels, and geographies?), **How to Win** (what is the source of competitive advantage in those arenas?), **Must-Have Capabilities** (which activities must be performed distinctively well?), and **Enabling Management Systems** (what structures and norms sustain those capabilities?). The cascade constraint is the core claim: each choice is only valid if it flows from the choice above it. A how-to-win that doesn't match the where-to-play is not a strategy; it's two unrelated choices.
@@ -43,22 +70,6 @@ Two ways to run a strategy process. First: assign each level of the organization
 A B2B software firm's strategy process produces a comprehensive plan: winning aspiration ("become the market leader"), where to play (enterprise, mid-market, and SMB simultaneously), how to win ("best product, lowest TCO, best customer success"), capabilities (engineering, sales, service). A cascade review finds it broken at every link — "all segments" is not a choice, "best product and lowest TCO" is contradictory, and the capability list matches no specific competitive logic. A refactoring session rebuilds the cascade from the top: winning aspiration — "be the compliance workflow standard for mid-market financial services"; where to play — mid-market financial services only; how to win — deepest regulatory-feature integration in the segment; must-have capabilities — compliance product management and partner-ecosystem depth for integrations; management systems — hire compliance PMs, restructure partner program, reprice for the segment's TCO expectations. The cascade now holds. Two previously approved initiatives (SMB self-serve feature set, enterprise security tier) are killed because they do not flow from the cascade — and the freed capacity accelerates the compliance roadmap.
 
 ---
-
-## Connections
-
-→ [166·Kernel of Good Strategy](kernel-of-strategy.md) — Rumelt's kernel and the Playing to Win cascade address the same question from different angles; Rumelt focuses on naming the diagnosis and guiding policy, Martin/Lafley on ensuring the five choices reinforce each other.
-→ [30·Trade-offs](../Economics/trade-offs.md) — the how-to-win choice is a trade-off; the cascade makes explicit which trade-off is being made and why.
-→ [210·Wardley Mapping](wardley-mapping.md) — a Wardley Map sharpens the where-to-play choice by revealing which components are commoditizing and which remain differentiating.
-→ [162·MECE](../Consulting-Craft/mece.md) — the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation.
-→ [71·Portfolio Map](portfolio-map.md) — portfolio decisions flow from where-to-play; the cascade makes the linkage explicit rather than leaving it implicit.
-
----
-
-## References
-
-- *Playing to Win: How Strategy Really Works* — A.G. Lafley & Roger L. Martin (2013) — the source text for the five-choice cascade; built from P&G's strategy practice and documented as a generalisable method.
-- *The Design of Business* — Roger L. Martin (2009) — Martin's knowledge-funnel model of how businesses move from mystery to algorithm; the epistemological foundation for how-to-win choices.
-- *Good Strategy / Bad Strategy* — Richard P. Rumelt (2011) — the complementary framework; where Playing to Win specifies the cascade structure, Rumelt specifies what makes the diagnosis and guiding policy coherent.
 
 ---
 

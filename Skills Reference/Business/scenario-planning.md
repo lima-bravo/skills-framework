@@ -1,10 +1,43 @@
+---
+id: 123
+name: Scenario Planning
+category: Business
+cardType: standard
+tagline: Plan for multiple fundamentally different futures — build strategy that holds across all of them
+connections:
+  - id: 10
+    rationale: pre-mortem probes a single decision for failure modes; scenario planning probes the environment for the range of futures a strategy must survive.
+  - id: 7
+    rationale: scenario planning makes the distribution of futures explicit rather than collapsing to a single expected value.
+  - id: 122
+    rationale: scenario planning is most valuable in Complex and Chaotic domains where prediction is unreliable and robustness must substitute for optimisation.
+  - id: 1
+    rationale: "building the most challenging scenario is an inversion exercise applied to strategic planning: imagine your strategy fails, then ask what environment produced that outcome."
+  - id: 2
+    rationale: each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that matter most.
+  - id: 128
+    rationale: "complementary: scenario planning asks what futures are plausible; Theory of Change asks what pathway gets you to the target outcome within any given scenario."
+  - id: 240
+    rationale: scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use both tools together, not as substitutes.
+  - id: 210
+    rationale: Wardley Maps can be projected forward to generate the alternative futures that scenario planning then stress-tests.
+references:
+  - title: "The Art of the Long View: Planning for an Uncertain World"
+    authorYear: Peter Schwartz (1991)
+    supports: the practitioner guide to Shell-style scenario planning, written by the co-founder of the Global Business Network, making the methodology accessible for strategic planning beyond the oil industry.
+  - title: "Scenarios: The Art of Strategic Conversation"
+    authorYear: Kees van der Heijden (1996)
+    supports: comprehensive treatment of how to build, use, and institutionalise scenario planning in an organisation; draws on van der Heijden's career at Shell.
+  - title: "The Living Company: Habits for Survival in a Turbulent Business Environment"
+    authorYear: Arie de Geus (1997)
+    supports: explores how long-lived companies use adaptive learning and scenario planning to survive transitions; de Geus led Shell Group Planning during the scenario planning era.
+---
+
 # Scenario Planning
-*Plan for multiple fundamentally different futures — build strategy that holds across all of them*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Scenario Planning is a strategic method for preparing for multiple fundamentally different futures rather than optimising for a single forecast. Developed at Shell Oil in the 1970s by Pierre Wack and Ted Newland, and conceptually pioneered by Herman Kahn at RAND. Shell's successful anticipation of both the 1973 oil shock and the 1986 price collapse — when competitors were caught entirely off guard — established scenario planning as a serious executive tool.
@@ -46,25 +79,6 @@ Each scenario is a coherent narrative — plausible, internally consistent, diff
 Shell is the canonical case for a reason. In the early 1970s its planners, rather than forecasting a single oil price, built scenarios that included one in which the oil-producing states asserted control and prices spiked — a future most competitors treated as implausible. Shell did not predict the 1973 embargo; it had rehearsed a world in which something like it happened, so when prices quadrupled the company already had a strategic response ready while rivals were still orienting. The same discipline let it anticipate the 1986 price collapse from the other direction. The lesson is not that Shell forecast the future accurately; it is that scenario planning made the organisation able to recognise and act on a shift faster than firms whose plans assumed the future would resemble the present.
 
 ---
-
-## Connections
-
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — pre-mortem probes a single decision for failure modes; scenario planning probes the environment for the range of futures a strategy must survive.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — scenario planning makes the distribution of futures explicit rather than collapsing to a single expected value.
-→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — scenario planning is most valuable in Complex and Chaotic domains where prediction is unreliable and robustness must substitute for optimisation.
-→ [1·Inversion](../General-Thinking/inversion.md) — building the most challenging scenario is an inversion exercise applied to strategic planning: imagine your strategy fails, then ask what environment produced that outcome.
-→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that matter most.
-→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — complementary: scenario planning asks what futures are plausible; Theory of Change asks what pathway gets you to the target outcome within any given scenario.
-→ [240·Black Swan](../General-Thinking/black-swan.md) — scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use both tools together, not as substitutes.
-→ [210·Wardley Mapping](wardley-mapping.md) — Wardley Maps can be projected forward to generate the alternative futures that scenario planning then stress-tests.
-
----
-
-## References
-
-- *The Art of the Long View: Planning for an Uncertain World* — Peter Schwartz (1991) — the practitioner guide to Shell-style scenario planning, written by the co-founder of the Global Business Network, making the methodology accessible for strategic planning beyond the oil industry.
-- *Scenarios: The Art of Strategic Conversation* — Kees van der Heijden (1996) — comprehensive treatment of how to build, use, and institutionalise scenario planning in an organisation; draws on van der Heijden's career at Shell.
-- *The Living Company: Habits for Survival in a Turbulent Business Environment* — Arie de Geus (1997) — explores how long-lived companies use adaptive learning and scenario planning to survive transitions; de Geus led Shell Group Planning during the scenario planning era.
 
 ---
 

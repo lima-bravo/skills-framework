@@ -1,10 +1,34 @@
+---
+id: 69
+name: Value Prop Canvas
+category: Business
+cardType: standard
+tagline: Match the product to the job to be done
+connections:
+  - id: 66
+    rationale: the customer development process generates the evidence for the customer profile.
+  - id: 103
+    rationale: the conceptual framework underlying the Jobs column.
+  - id: 62
+    rationale: "fit in the canvas is the same as PMF: the product matches the market."
+  - id: 68
+    rationale: the Value Prop Canvas zooms in on two of the nine BMC boxes; the value proposition only holds if the surrounding business model — channels, revenue streams, cost structure — is also coherent.
+  - id: 249
+    rationale: segmentation defines which customers the canvas is drawn for; a value prop canvas built for "all customers" is built for no one in particular.
+references:
+  - title: "Value Proposition Design: How to Create Products and Services Customers Want"
+    authorYear: Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith (2014)
+    supports: the source text for the value proposition canvas.
+  - title: "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers"
+    authorYear: Alexander Osterwalder & Yves Pigneur (2010)
+    supports: the parent framework from which the canvas is drawn.
+---
+
 # Value Prop Canvas
-*Match the product to the job to be done*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Value Proposition Canvas (Osterwalder, Pigneur, Bernarda) zooms in on two boxes from the Business Model Canvas: the Customer Segment and the Value Proposition. The customer segment is described through three lenses: Jobs (what they're trying to get done), Pains (the negative experiences, risks, and obstacles they face), and Gains (the outcomes and benefits they desire). The value proposition is described through: Products and Services (what you offer), Pain Relievers (how you alleviate pains), and Gain Creators (how you create gains). Fit occurs when the pain relievers and gain creators match the most important pains and gains of the customer segment.
@@ -39,21 +63,6 @@ The canvas prevents the fundamental product mistake: building something that is 
 A team building project management software maps the customer side for their primary segment (small engineering teams). Jobs: coordinating work across the team, tracking progress, identifying blockers. Top pains (from 30 user interviews): losing context when switching between tools, uncertainty about who is doing what, and wasted time in status meetings. Top gains: knowing at a glance what everyone is working on. The product map focuses on: deep integrations with tools they already use (pain reliever: context switching), clear ownership indicators (pain reliever: who-is-doing-what uncertainty), and async status updates that replace the meeting (pain reliever + gain creator). Every feature maps to a ranked pain or gain.
 
 ---
-
-## Connections
-
-→ [66·Customer Development](../Startups/customer-development.md) — the customer development process generates the evidence for the customer profile.
-→ [103·Jobs to be Done](../Startups/jobs-to-be-done.md) — the conceptual framework underlying the Jobs column.
-→ [62·Product-Market Fit](../Startups/product-market-fit.md) — fit in the canvas is the same as PMF: the product matches the market.
-→ [68·Business Model Canvas](business-model-canvas.md) — the Value Prop Canvas zooms in on two of the nine BMC boxes; the value proposition only holds if the surrounding business model — channels, revenue streams, cost structure — is also coherent.
-→ [249·Customer Segmentation](customer-segmentation.md) — segmentation defines which customers the canvas is drawn for; a value prop canvas built for "all customers" is built for no one in particular.
-
----
-
-## References
-
-- *Value Proposition Design: How to Create Products and Services Customers Want* — Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith (2014) — the source text for the value proposition canvas.
-- *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers* — Alexander Osterwalder & Yves Pigneur (2010) — the parent framework from which the canvas is drawn.
 
 ---
 

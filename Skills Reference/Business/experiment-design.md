@@ -1,10 +1,48 @@
+---
+id: 72
+name: Experiment Design
+category: Business
+cardType: standard
+tagline: Structure tests to generate valid learning
+connections:
+  - id: 63
+    rationale: experiment design disciplines the "measure" step of the BML cycle.
+  - id: 7
+    rationale: statistical significance and power are applications of probabilistic thinking to experiment design.
+  - id: 55
+    rationale: rigorous experiment design is the structural antidote to confirmation bias in analysis.
+  - id: 212
+    rationale: a control group is necessary but not sufficient; blinded evaluation ensures assessors cannot unconsciously align measurements with expectations.
+  - id: 214
+    rationale: experiment design disciplines every stage of this chain; the chain specifies what question to answer, experiment design specifies how to answer it validly
+  - id: 225
+    rationale: A/B testing is the most common operationalisation of experiment design in product and marketing practice; the general principles here govern the specifics there
+  - id: 122
+    rationale: in Complex domains, experiments replace analysis as the primary evidence-generating method; Cynefin prescribes when to use safe-to-fail probing over upfront planning.
+  - id: 128
+    rationale: the assumptions in a Theory of Change are hypotheses; experiment design is the method for testing them rigorously before the programme commits to scale.
+  - id: 204
+    rationale: experiment design is the operationalisation of falsification; a good experiment is defined by the conditions under which it would return a negative result.
+  - id: 207
+    rationale: novel situations that require knowledge-based reasoning are the ones where structured experiments matter most; SRK identifies which cognitive regime you are in and therefore how much you need experimental evidence before acting.
+  - id: 209
+    rationale: "experiment design provides the formal structure for EPC's adaptation step: when inspection reveals a gap, a well-designed experiment is the disciplined way to test the response before committing."
+  - id: 73
+    rationale: assumption mapping defines which hypotheses to test; experiment design specifies how to test each one validly.
+references:
+  - title: The Design of Experiments
+    authorYear: Ronald A. Fisher (1935)
+    supports: the foundational text of controlled experimental design and statistical validity.
+  - title: "Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing"
+    authorYear: Ron Kohavi, Diane Tang & Ya Xu (2020)
+    supports: the modern practitioner guide to experiment design in digital products.
+---
+
 # Experiment Design
-*Structure tests to generate valid learning*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Experiment design is the disciplined process of constructing tests that generate valid, actionable evidence. A well-designed experiment isolates the variable of interest, defines success criteria in advance, uses an appropriate sample size, controls for confounders, and generates evidence that distinguishes between the hypothesis being true and the hypothesis being false. The principles come from scientific methodology and apply wherever a decision must be made under uncertainty.
@@ -40,28 +78,6 @@ Every experiment tests a specific hypothesis. The quality of the experiment dete
 An e-commerce team is testing whether a new checkout flow improves conversion. They define the hypothesis ("the new flow increases checkout conversion by at least 5%"), calculate that they need 2,000 users per variant to detect a 5% difference with 80% power, run the test for the required duration with no peeking at results, and analyse only when the sample size is reached. The result: a 4.8% improvement (below threshold). They persevere with the test and, after reaching 4,000 users per variant, see a 6.2% improvement. Pre-defined criteria prevented a premature decision in either direction.
 
 ---
-
-## Connections
-
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — experiment design disciplines the "measure" step of the BML cycle.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — statistical significance and power are applications of probabilistic thinking to experiment design.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — rigorous experiment design is the structural antidote to confirmation bias in analysis.
-→ [212·Observer Bias](../Psychology/observer-bias.md) — a control group is necessary but not sufficient; blinded evaluation ensures assessors cannot unconsciously align measurements with expectations.
-→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — experiment design disciplines every stage of this chain; the chain specifies what question to answer, experiment design specifies how to answer it validly
-→ [225·A/B Testing](ab-testing.md) — A/B testing is the most common operationalisation of experiment design in product and marketing practice; the general principles here govern the specifics there
-→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — in Complex domains, experiments replace analysis as the primary evidence-generating method; Cynefin prescribes when to use safe-to-fail probing over upfront planning.
-→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — the assumptions in a Theory of Change are hypotheses; experiment design is the method for testing them rigorously before the programme commits to scale.
-→ [204·Falsification](../Psychology/falsification.md) — experiment design is the operationalisation of falsification; a good experiment is defined by the conditions under which it would return a negative result.
-→ [207·SRK Framework](../Psychology/srk-framework.md) — novel situations that require knowledge-based reasoning are the ones where structured experiments matter most; SRK identifies which cognitive regime you are in and therefore how much you need experimental evidence before acting.
-→ [209·Empirical Process Control](../Delivery-and-Flow/empirical-process-control.md) — experiment design provides the formal structure for EPC's adaptation step: when inspection reveals a gap, a well-designed experiment is the disciplined way to test the response before committing.
-→ [73·Assumption Mapping](assumption-mapping.md) — assumption mapping defines which hypotheses to test; experiment design specifies how to test each one validly.
-
----
-
-## References
-
-- *The Design of Experiments* — Ronald A. Fisher (1935) — the foundational text of controlled experimental design and statistical validity.
-- *Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing* — Ron Kohavi, Diane Tang & Ya Xu (2020) — the modern practitioner guide to experiment design in digital products.
 
 ---
 

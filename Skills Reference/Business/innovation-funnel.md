@@ -1,10 +1,31 @@
+---
+id: 70
+name: Innovation Funnel
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: Stage-gate the progression from idea to impact
+connections:
+  - id: 63
+    rationale: each stage of the funnel is a BML cycle.
+  - id: 73
+    rationale: each stage tests specific assumptions before advancing.
+  - id: 71
+    rationale: the portfolio map shows the aggregate distribution of bets across stages.
+  - id: 245
+    rationale: "the chain that gates ideas into the funnel: enriches via First Principles + JTBD, then runs a strategic fit check before committing funnel capacity"
+  - id: 213
+    rationale: the chain that converts funnel ideas into testable hypotheses with explicit kill criteria
+references:
+  - title: "Winning at New Products: Accelerating the Process from Idea to Launch"
+    authorYear: Robert G. Cooper (1986; 4th ed. 2011)
+    supports: the Stage-Gate® process that formalized the innovation funnel.
+---
+
 # Innovation Funnel
-*Stage-gate the progression from idea to impact*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The innovation funnel is a staged process for managing ideas from initial generation through progressive filtering, testing, and scaling. Ideas enter at the wide top; through successive stages of testing and validation, the successful ones progress toward deployment; the funnel narrows as ideas are filtered on evidence of viability, feasibility, and strategic fit. The funnel manages the balance between generating enough raw ideas (divergence) and rigorously selecting the best ones (convergence).
@@ -38,20 +59,6 @@ The funnel is a portfolio of bets at different stages of validation. Early stage
 ## Worked Example
 
 A FMCG company runs an annual innovation sprint: 200 ideas entered, 50 developed to concept, 20 consumer tested, 5 piloted, 2 launched at scale. The funnel shape is maintained year-over-year. The stage-gate criteria are published and consistently applied. The failure mode they fixed: previously, pet ideas of senior leaders bypassed the funnel and entered late stages without early-stage validation. Two high-profile failures led to a rule: no idea can skip a funnel stage regardless of sponsor seniority.
-
----
-
-## Connections
-
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — each stage of the funnel is a BML cycle.
-→ [73·Assumption Mapping](assumption-mapping.md) — each stage tests specific assumptions before advancing.
-→ [71·Portfolio Map](portfolio-map.md) — the portfolio map shows the aggregate distribution of bets across stages.
-→ [245·Funnel Intake](../Pre-built-Chains/funnel-intake.md) — the chain that gates ideas into the funnel: enriches via First Principles + JTBD, then runs a strategic fit check before committing funnel capacity
-→ [213·From Idea to Hypothesis](../Pre-built-Chains/from-idea-to-hypothesis.md) — the chain that converts funnel ideas into testable hypotheses with explicit kill criteria
-## References
-
-- *Winning at New Products: Accelerating the Process from Idea to Launch* — Robert G. Cooper (1986; 4th ed. 2011) — the Stage-Gate® process that formalized the innovation funnel.
-
 
 ---
 

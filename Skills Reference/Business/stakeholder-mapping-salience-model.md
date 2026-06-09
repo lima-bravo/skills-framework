@@ -1,10 +1,36 @@
+---
+id: 74
+name: Stakeholder Mapping (Salience Model)
+category: Business
+cardType: standard
+tagline: Know who matters, how much, and why
+connections:
+  - id: 220
+    rationale: "stakeholder mapping analyses interests and salience; power mapping analyses influence structure. Use both: this card for prioritisation, power mapping for understanding how stakeholders relate to each other and who the real decision-makers are."
+  - id: 51
+    rationale: stakeholder salience is determined partly by incentive alignment. High-power stakeholders whose incentives are aligned need less intensive management than those whose incentives are misaligned.
+  - id: 2
+    rationale: underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates. The map is the tool for anticipating this.
+  - id: 39
+    rationale: stakeholders are nodes in an interdependence web; the salience model helps prioritize which dependencies to manage most actively.
+  - id: 252
+    rationale: "the engagement-planning counterpart to this card's analysis: salience mapping tells you who matters and how much; pre-wiring tells you what to do about it before the decision meeting."
+  - id: 127
+    rationale: RACI operationalises the salience analysis into specific accountability assignments; knowing who matters most (salience) determines whose phone rings when an outcome is missed (RACI).
+references:
+  - title: Toward a Theory of Stakeholder Identification and Salience
+    authorYear: Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood, Academy of Management Review Vol. 22 No. 4 (1997)
+    supports: the original paper defining the power-legitimacy-urgency framework.
+  - title: "Strategic Management: A Stakeholder Approach"
+    authorYear: R. Edward Freeman (1984)
+    supports: the foundational text for stakeholder theory in strategic management.
+---
+
 # Stakeholder Mapping (Salience Model)
-*Know who matters, how much, and why*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Stakeholder Salience Model, developed by Mitchell, Agle, and Wood (1997), provides a framework for identifying and prioritizing stakeholders by the degree to which they possess three attributes: **Power** (the ability to impose their will on the organization — financial, regulatory, social, reputational), **Legitimacy** (the social perception that their claim on the organization is valid, appropriate, or desirable given norms and values), and **Urgency** (the degree to which their claims are time-sensitive or critical). Stakeholders with all three attributes are **definitive stakeholders** who demand immediate, sustained attention. Stakeholders with one or two attributes are **expectant** or **latent** stakeholders requiring monitoring and managed engagement.
@@ -40,22 +66,6 @@ Most stakeholder management fails by treating all stakeholders as equally import
 A logistics company plans to build a new sorting facility in a mid-sized town. Initial salience map: Planning authority (power + legitimacy + urgency = definitive), construction contractor (power + legitimacy), local residents' association (legitimacy + urgency, low power currently). Strategy: intensive engagement with the planning authority; management of contractor relationship; routine communication updates to residents. Three months in, the residents' association gets covered in local media and begins organizing a campaign. Legitimacy is high, urgency is extreme, and they have built a coalition with a local councillor (gaining power). Their salience has shifted to definitive; the engagement strategy must shift immediately to active, direct, high-investment engagement. The map predicted this possibility; the monitoring process detected it; the strategy was adjusted.
 
 ---
-
-## Connections
-
-→ [220·Power Mapping](power-mapping.md) — stakeholder mapping analyses interests and salience; power mapping analyses influence structure. Use both: this card for prioritisation, power mapping for understanding how stakeholders relate to each other and who the real decision-makers are.
-→ [51·Incentives](../Psychology/incentives.md) — stakeholder salience is determined partly by incentive alignment. High-power stakeholders whose incentives are aligned need less intensive management than those whose incentives are misaligned.
-→ [2·Second-order Effects](../General-Thinking/second-order-effects.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates. The map is the tool for anticipating this.
-→ [39·Interdependence](../Economics/interdependence.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritize which dependencies to manage most actively.
-→ [252·Stakeholder Pre-Wiring](../Consulting-Craft/stakeholder-pre-wiring.md) — the engagement-planning counterpart to this card's analysis: salience mapping tells you who matters and how much; pre-wiring tells you what to do about it before the decision meeting.
-→ [127·RACI Framework](raci-framework.md) — RACI operationalises the salience analysis into specific accountability assignments; knowing who matters most (salience) determines whose phone rings when an outcome is missed (RACI).
-
----
-
-## References
-
-- *Toward a Theory of Stakeholder Identification and Salience* — Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood, Academy of Management Review Vol. 22 No. 4 (1997) — the original paper defining the power-legitimacy-urgency framework.
-- *Strategic Management: A Stakeholder Approach* — R. Edward Freeman (1984) — the foundational text for stakeholder theory in strategic management.
 
 ---
 

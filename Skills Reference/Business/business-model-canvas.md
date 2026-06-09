@@ -1,10 +1,32 @@
+---
+id: 68
+name: Business Model Canvas
+category: Business
+cardType: standard
+tagline: Map the structure of value creation and capture
+connections:
+  - id: 69
+    rationale: the detailed tool for the Value Proposition and Customer Segment boxes.
+  - id: 73
+    rationale: the canvas produces a comprehensive list of assumptions to map.
+  - id: 62
+    rationale: the canvas is a framework for asking whether a business model around which PMF could be achieved exists.
+  - id: 217
+    rationale: the revenue streams section of the canvas is the capture design; the value proposition is the creation design; misalignment between them is the most common business model failure.
+references:
+  - title: "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers"
+    authorYear: Alexander Osterwalder & Yves Pigneur (2010)
+    supports: the source text for the canvas framework; introduces all nine building blocks and the visual template.
+  - title: "Value Proposition Design: How to Create Products and Services Customers Want"
+    authorYear: Alexander Osterwalder et al. (2014)
+    supports: the companion volume that zooms in on the Value Proposition and Customer Segment boxes; the origin of the Value Proposition Canvas tool.
+---
+
 # Business Model Canvas
-*Map the structure of value creation and capture*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Business Model Canvas (Alexander Osterwalder) is a strategic template for developing or documenting a business model. It organizes nine building blocks onto a single page: Customer Segments, Value Propositions, Channels, Customer Relationships, Revenue Streams, Key Resources, Key Activities, Key Partnerships, and Cost Structure. The power of the canvas is forcing explicit choices about every element of the business and making the interdependencies between elements visible.
@@ -39,18 +61,6 @@ The canvas is a hypothesis map for the entire business, not just the product. Th
 A founder building a B2B SaaS product fills in the canvas. Under Revenue Streams, she writes "subscription." Under Customer Relationships, she writes "self-serve." The interdependency check: are her Customer Segments (enterprise companies with long procurement cycles) actually compatible with self-serve, low-touch relationships? The canvas exposes the mismatch: enterprise customers need high-touch relationships, not self-serve. This changes both the Revenue Streams box (higher ACV, longer contracts) and the Key Activities box (sales, customer success). One canvas review saved six months of building the wrong go-to-market.
 
 ---
-
-## Connections
-
-→ [69·Value Prop Canvas](value-prop-canvas.md) — the detailed tool for the Value Proposition and Customer Segment boxes.
-→ [73·Assumption Mapping](assumption-mapping.md) — the canvas produces a comprehensive list of assumptions to map.
-→ [62·Product-Market Fit](../Startups/product-market-fit.md) — the canvas is a framework for asking whether a business model around which PMF could be achieved exists.
-→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — the revenue streams section of the canvas is the capture design; the value proposition is the creation design; misalignment between them is the most common business model failure.
-
-## References
-
-- *Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers* — Alexander Osterwalder & Yves Pigneur (2010) — the source text for the canvas framework; introduces all nine building blocks and the visual template.
-- *Value Proposition Design: How to Create Products and Services Customers Want* — Alexander Osterwalder et al. (2014) — the companion volume that zooms in on the Value Proposition and Customer Segment boxes; the origin of the Value Proposition Canvas tool.
 
 ---
 

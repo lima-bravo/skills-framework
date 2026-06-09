@@ -1,10 +1,46 @@
+---
+id: 251
+name: Value Realization
+category: Business
+cardType: standard
+tagline: Approval is a forecast. Realization is the discipline of finding out whether the forecast was true — and acting on the answer.
+connections:
+  - id: 218
+    rationale: the upstream discipline this card completes the loop on; a business case that defines a kill condition and a reference class but has no realization plan has built half a system.
+  - id: 153
+    rationale: the same "decide the threshold before you're emotionally invested in the answer" discipline, applied to the post-approval period rather than the in-flight one.
+  - id: 53
+    rationale: "the bias that value realization exists structurally to counteract: the people most invested in an initiative's success are the worst-positioned to judge it honestly."
+  - id: 144
+    rationale: the distinction between "we did the thing" and "the thing produced the result" is the entire discipline of value realization, applied at the scale of a strategic investment.
+  - id: 160
+    rationale: "the outside-view anchor for building a realization plan: what does the historical distribution of similar investments actually deliver?"
+  - id: 115
+    rationale: the evidence base for expecting a gap between promised and realized value; a realization plan that assumes the case will land exactly as forecast has not engaged with the base rate.
+  - id: 196
+    rationale: "the structured-reflection discipline that value realization reviews should borrow from: what was expected, what happened, why the gap, what changes next time."
+  - id: 250
+    rationale: the value ledger is, in effect, a small bespoke KPI system built around a single initiative; the same discipline (owner, threshold, cadence) applies at both scales.
+references:
+  - title: Strategy Beyond the Hockey Stick
+    authorYear: Chris Bradley, Martin Hirt & Sven Smit (2018)
+    supports: on the gap between strategic intent and realized performance, and the discipline required to close it.
+  - title: How Big Things Get Done
+    authorYear: Bent Flyvbjerg & Dan Gardner (2023)
+    supports: the reference-class evidence on how often large investments and transformations under-deliver against their business cases — the empirical basis for "expect the gap."
+  - title: '"Making the Deal Real: How GE Capital Integrates Acquisitions"'
+    authorYear: Ron Ashkenas, Lawrence J. DeMonaco & Suzanne C. Francis, HBR (1998)
+    supports: an early, concrete articulation of post-approval value tracking as a discipline distinct from due diligence.
+  - title: Leading Change
+    authorYear: John P. Kotter (1996)
+    supports: on the tendency of organizations to declare victory — and redirect attention — before the promised benefit has actually been secured.
+---
+
 # Value Realization
-*Approval is a forecast. Realization is the discipline of finding out whether the forecast was true — and acting on the answer.*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Value realization is the discipline of tracking, after a strategy, acquisition, transformation, or initiative is approved and underway, whether the benefits it promised are actually being captured — through a value ledger that names each expected benefit, its baseline, its target, its owner, its proof standard, and the governance rhythm that reviews it. It is the deliberate bridge between *promised* value (the business case that won approval) and *captured* value (the benefit that shows up, measurably, in the business). Distinct from business case construction, which operates *before* approval, and distinct from goal-setting frameworks like OKRs, which define targets — value realization is the specific discipline of closing the loop *after* the money has been spent.
@@ -49,26 +85,6 @@ Because the ledger was built at approval time — with a measured pre-program ba
 Because the governance rhythm included an escalation trigger ("if realized value falls below 70% of plan at the 18-month mark, the program sponsor presents a recovery plan to the board within 60 days"), the conversation isn't "whose fault is this" — it's "here is the specific, traceable cause, here is the recovery plan, and here is the revised timeline against which we'll check again in two quarters." The original investment is salvaged not because it went as planned, but because the realization system was built to surface the gap early enough, and specifically enough, to close it.
 
 ---
-
-## Connections
-
-→ [218·Business Case Construction](business-case-construction.md) — the upstream discipline this card completes the loop on; a business case that defines a kill condition and a reference class but has no realization plan has built half a system.
-→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — the same "decide the threshold before you're emotionally invested in the answer" discipline, applied to the post-approval period rather than the in-flight one.
-→ [53·Sunk Cost](../Psychology/sunk-cost.md) — the bias that value realization exists structurally to counteract: the people most invested in an initiative's success are the worst-positioned to judge it honestly.
-→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — the distinction between "we did the thing" and "the thing produced the result" is the entire discipline of value realization, applied at the scale of a strategic investment.
-→ [160·Reference Class Forecasting](../Delivery-and-Flow/reference-class-forecasting.md) — the outside-view anchor for building a realization plan: what does the historical distribution of similar investments actually deliver?
-→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — the evidence base for expecting a gap between promised and realized value; a realization plan that assumes the case will land exactly as forecast has not engaged with the base rate.
-→ [196·After-Action Review](../Leadership/after-action-review.md) — the structured-reflection discipline that value realization reviews should borrow from: what was expected, what happened, why the gap, what changes next time.
-→ [250·KPI Architecture](kpi-architecture.md) — the value ledger is, in effect, a small bespoke KPI system built around a single initiative; the same discipline (owner, threshold, cadence) applies at both scales.
-
----
-
-## References
-
-- *Strategy Beyond the Hockey Stick* — Chris Bradley, Martin Hirt & Sven Smit (2018) — on the gap between strategic intent and realized performance, and the discipline required to close it.
-- *How Big Things Get Done* — Bent Flyvbjerg & Dan Gardner (2023) — the reference-class evidence on how often large investments and transformations under-deliver against their business cases — the empirical basis for "expect the gap."
-- *"Making the Deal Real: How GE Capital Integrates Acquisitions"* — Ron Ashkenas, Lawrence J. DeMonaco & Suzanne C. Francis, HBR (1998) — an early, concrete articulation of post-approval value tracking as a discipline distinct from due diligence.
-- *Leading Change* — John P. Kotter (1996) — on the tendency of organizations to declare victory — and redirect attention — before the promised benefit has actually been secured.
 
 ---
 

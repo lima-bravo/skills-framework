@@ -1,10 +1,35 @@
+---
+id: 113
+name: Three Horizons
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: Managing innovation investment across three time horizons simultaneously — optimizing the core, building emerging businesses, and creating future options — each requiring a fundamentally different management logic.
+connections:
+  - id: 245
+    rationale: Step 3A of this chain uses Three Horizons to classify ideas by horizon and check that the funnel's management logic matches before committing capacity
+  - id: 108
+    rationale: "Three Horizons is the strategic planning expression of exploration vs. exploitation: H1 is exploitation, H3 is exploration, H2 is the managed transition between them."
+  - id: 71
+    rationale: the portfolio map provides the tool for visualizing and managing the H1/H2/H3 allocation; Three Horizons provides the strategic logic for why the allocation matters.
+  - id: 112
+    rationale: H3 is where disruptive threats and disruptive opportunities are most likely to emerge; managing H3 explicitly is the structural defense against being disrupted and the structural mechanism for disrupting others.
+  - id: 102
+    rationale: "each horizon corresponds to a position on a different S-curve: H1 is the current curve's mature phase, H2 is the emerging curve's growth phase, H3 is the next curve's early phase."
+  - id: 16
+    rationale: H3 investments are reversible (option value, limited commitment); H1 is irreversible (full commitment). Two-Way Doors logic explains why H3 decisions should be made faster and with less analysis than H1 decisions.
+  - id: 210
+    rationale: "Three Horizons and Wardley Maps compose naturally: H1 maps to Commodity/Product, H2 to Custom, H3 to Genesis. The evolution axis tells you which horizon a component actually belongs to."
+references:
+  - title: "The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise"
+    authorYear: Mehrdad Baghai, Stephen Coley & David White (1999)
+    supports: the McKinsey source text for the Three Horizons model.
+---
+
 # Three Horizons
-*Managing innovation investment across three time horizons simultaneously — optimizing the core, building emerging businesses, and creating future options — each requiring a fundamentally different management logic.*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Three Horizons framework, developed by McKinsey consultants Baghai, Coley, and White, provides a structure for managing innovation investment across different time horizons simultaneously. Horizon 1 (H1) encompasses current core businesses that generate the majority of revenue and profit today — the focus is optimization, efficiency, and defense of position. Horizon 2 (H2) encompasses emerging businesses with demonstrated but not yet mature commercial viability — the focus is scaling, building organizational capability, and capturing growth. Horizon 3 (H3) encompasses exploratory initiatives that may define the business's future — the focus is experimentation, option creation, and learning. The critical insight of the framework is that all three horizons must be actively managed simultaneously, not sequentially, and that each requires fundamentally different management logic, success metrics, and organizational approaches.
@@ -42,20 +67,6 @@ An experienced practitioner uses Three Horizons to diagnose the hidden time-bomb
 Amazon's portfolio across the three horizons is a live case study. H1 is the e-commerce and retail business — optimized relentlessly for speed, cost, and selection. H2 in the early 2010s was Prime and the subscription ecosystem — demonstrated commercial viability, being scaled aggressively. AWS, when first launched in 2006, was classic H3: an entirely different business model (computing infrastructure as a utility), different customers (developers and startups), different success metrics (developer adoption, not retail margin). It was managed separately from the retail business, evaluated on its own logic, and funded despite producing minimal near-term returns. By the mid-2010s, AWS graduated from H3 to H2 and eventually became H1 — now generating the majority of Amazon's operating profit. The organization that tried to run AWS as a retail business optimization (H1 logic) would have killed it in its first year. The Three Horizons discipline — maintaining the separation and applying the right management logic to each — is what made it possible.
 
 ---
-
-## Connections
-
-→ [245·Funnel Intake](../Pre-built-Chains/funnel-intake.md) — Step 3A of this chain uses Three Horizons to classify ideas by horizon and check that the funnel's management logic matches before committing capacity
-→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — Three Horizons is the strategic planning expression of exploration vs. exploitation: H1 is exploitation, H3 is exploration, H2 is the managed transition between them.
-→ [71·Portfolio Map](portfolio-map.md) — the portfolio map provides the tool for visualizing and managing the H1/H2/H3 allocation; Three Horizons provides the strategic logic for why the allocation matters.
-→ [112·Disruptive Innovation](disruptive-innovation.md) — H3 is where disruptive threats and disruptive opportunities are most likely to emerge; managing H3 explicitly is the structural defense against being disrupted and the structural mechanism for disrupting others.
-→ [102·S-Curves](../Systems/s-curves.md) — each horizon corresponds to a position on a different S-curve: H1 is the current curve's mature phase, H2 is the emerging curve's growth phase, H3 is the next curve's early phase.
-→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — H3 investments are reversible (option value, limited commitment); H1 is irreversible (full commitment). Two-Way Doors logic explains why H3 decisions should be made faster and with less analysis than H1 decisions.
-→ [210·Wardley Mapping](wardley-mapping.md) — Three Horizons and Wardley Maps compose naturally: H1 maps to Commodity/Product, H2 to Custom, H3 to Genesis. The evolution axis tells you which horizon a component actually belongs to.
-## References
-
-- *The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise* — Mehrdad Baghai, Stephen Coley & David White (1999) — the McKinsey source text for the Three Horizons model.
-
 
 ---
 

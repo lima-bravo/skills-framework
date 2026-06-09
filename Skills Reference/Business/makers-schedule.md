@@ -1,10 +1,41 @@
+---
+id: 116
+name: Maker's Schedule vs. Manager's Schedule
+category: Business
+cardType: standard
+tagline: A single meeting in a maker's afternoon doesn't cost one hour — it costs the whole block; managers and makers need fundamentally different calendars
+connections:
+  - id: 114
+    rationale: the scheduling structure that preserves or destroys deep work time.
+  - id: 18
+    rationale: fragmented schedules make attention the binding bottleneck.
+  - id: 45
+    rationale: every interruption resets the cost of re-entering deep focus.
+  - id: 44
+    rationale: scattered meetings are a structural source of compounding cognitive friction.
+  - id: 51
+    rationale: organisations reward responsiveness; protecting maker time requires counteracting this incentive gradient.
+  - id: 17
+    rationale: fragmentation → lower output → more status meetings → more fragmentation.
+  - id: 28
+    rationale: org communication structures determine scheduling norms as a structural output.
+references:
+  - title: Maker's Schedule, Manager's Schedule
+    authorYear: Paul Graham (paulgraham.com, 2009)
+    supports: the original essay naming the incompatibility.
+  - title: "Deep Work: Rules for Focused Success in a Distracted World"
+    authorYear: Cal Newport (2016)
+    supports: the extended treatment of why uninterrupted focus is the scarce resource in knowledge work.
+  - title: "The Cost of Interrupted Work: More Speed and Stress"
+    authorYear: Gloria Mark, Daniela Gudith & Ulrich Klocke, CHI Proceedings (2008)
+    supports: empirical measurement of the 23-minute re-focus cost after a single interruption.
+---
+
 # Maker's Schedule vs. Manager's Schedule
-*A single meeting in a maker's afternoon doesn't cost one hour — it costs the whole block; managers and makers need fundamentally different calendars*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Managers and makers operate in fundamentally incompatible time structures. Managers use a calendar divided into one-hour slots — switching between meetings, decisions, and status updates every hour is normal and creates no meaningful productivity loss for them. Makers — engineers, writers, designers, analysts — require large uninterrupted blocks to reach and sustain the state of focused concentration that produces their best work.
@@ -45,24 +76,6 @@ Same total hours. Same meeting load. Profoundly different capacity. This is the 
 A senior engineer is allocated full-time to a critical project. Their calendar shows 4 hours of meetings distributed across each day. Nominal availability: 50%. Actual usable deep work: approximately 1–1.5 hours per day, because no contiguous block longer than 75 minutes exists before 4pm. Consolidating all recurring meetings to Tuesday and Thursday mornings frees Monday, Wednesday, and Friday as protected deep work days — same meeting count, roughly 3× the usable cognitive output.
 
 ---
-
-## Connections
-
-→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work.md) — the scheduling structure that preserves or destroys deep work time.
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — fragmented schedules make attention the binding bottleneck.
-→ [45·Activation Energy](../Physics-and-Chemistry/activation-energy.md) — every interruption resets the cost of re-entering deep focus.
-→ [44·Friction](../Physics-and-Chemistry/friction.md) — scattered meetings are a structural source of compounding cognitive friction.
-→ [51·Incentives](../Psychology/incentives.md) — organisations reward responsiveness; protecting maker time requires counteracting this incentive gradient.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — fragmentation → lower output → more status meetings → more fragmentation.
-→ [28·Conway's Law](../Systems/conways-law.md) — org communication structures determine scheduling norms as a structural output.
-
----
-
-## References
-
-- *Maker's Schedule, Manager's Schedule* — Paul Graham (paulgraham.com, 2009) — the original essay naming the incompatibility.
-- *Deep Work: Rules for Focused Success in a Distracted World* — Cal Newport (2016) — the extended treatment of why uninterrupted focus is the scarce resource in knowledge work.
-- *The Cost of Interrupted Work: More Speed and Stress* — Gloria Mark, Daniela Gudith & Ulrich Klocke, CHI Proceedings (2008) — empirical measurement of the 23-minute re-focus cost after a single interruption.
 
 ---
 

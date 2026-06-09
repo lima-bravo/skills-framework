@@ -1,10 +1,37 @@
+---
+id: 71
+name: Portfolio Map
+category: Business
+cardType: standard
+tagline: Manage a balanced set of bets across horizons
+connections:
+  - id: 70
+    rationale: the funnel produces the pipeline from which portfolio bets are drawn.
+  - id: 23
+    rationale: H1 returns diminish; H2 and H3 investments are hedges against that diminishment.
+  - id: 37
+    rationale: H3 is the organization's hedge against being destroyed by external creative destruction.
+  - id: 166
+    rationale: "the portfolio question follows the strategy question: the kernel's diagnosis and guiding policy determine which horizon bets to make and which to cut."
+  - id: 254
+    rationale: portfolio decisions flow from the where-to-play choice in the cascade; Playing to Win makes that linkage explicit rather than leaving portfolio allocation to financial criteria alone.
+references:
+  - title: "The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise"
+    authorYear: Mehrdad Baghai, Stephen Coley & David White (1999)
+    supports: the source of the Three Horizons portfolio framework.
+  - title: "Good Strategy Bad Strategy: The Difference and Why It Matters"
+    authorYear: Richard Rumelt (2011)
+    supports: the complementary treatment of portfolio coherence and strategic focus.
+  - title: Perspectives on Experience
+    authorYear: Boston Consulting Group (1968)
+    supports: the foundational BCG experience-curve and portfolio strategy document underpinning modern portfolio investment logic.
+---
+
 # Portfolio Map
-*Manage a balanced set of bets across horizons*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A portfolio map (McKinsey's Three Horizons framework is the most common version) organizes an organization's initiatives across time horizons and risk profiles. Horizon 1: optimize and extend the core business (near-term, high confidence). Horizon 2: build emerging businesses that will become the new core (medium-term, moderate uncertainty). Horizon 3: explore and create viable options for future growth (long-term, high uncertainty). The portfolio should have active investment at all three horizons; over-concentration in any single horizon is a strategic risk.
@@ -39,22 +66,6 @@ The portfolio map is a visual representation of strategic optionality. H1 genera
 Google's resource allocation explicitly accounts for the 70-20-10 rule: 70% of resources to H1 (search, advertizing), 20% to H2 (Gmail, Maps), 10% to H3 (moonshots, experimental projects). This is not an accident — it is a deliberate portfolio strategy. The 10% generates the optionality that becomes the 20% of the next cycle. YouTube, Android, and Google Cloud each began as sub-20% investments that became H1 businesses.
 
 ---
-
-## Connections
-
-→ [70·Innovation Funnel](innovation-funnel.md) — the funnel produces the pipeline from which portfolio bets are drawn.
-→ [23·Diminishing Returns](../Systems/diminishing-returns.md) — H1 returns diminish; H2 and H3 investments are hedges against that diminishment.
-→ [37·Creative Destruction](../Economics/creative-destruction.md) — H3 is the organization's hedge against being destroyed by external creative destruction.
-→ [166·Kernel of Good Strategy](kernel-of-strategy.md) — the portfolio question follows the strategy question: the kernel's diagnosis and guiding policy determine which horizon bets to make and which to cut.
-→ [254·Playing to Win](playing-to-win.md) — portfolio decisions flow from the where-to-play choice in the cascade; Playing to Win makes that linkage explicit rather than leaving portfolio allocation to financial criteria alone.
-
----
-
-## References
-
-- *The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise* — Mehrdad Baghai, Stephen Coley & David White (1999) — the source of the Three Horizons portfolio framework.
-- *Good Strategy Bad Strategy: The Difference and Why It Matters* — Richard Rumelt (2011) — the complementary treatment of portfolio coherence and strategic focus.
-- *Perspectives on Experience* — Boston Consulting Group (1968) — the foundational BCG experience-curve and portfolio strategy document underpinning modern portfolio investment logic.
 
 ---
 

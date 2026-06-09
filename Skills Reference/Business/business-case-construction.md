@@ -1,10 +1,48 @@
+---
+id: 218
+name: Business Case Construction
+category: Business
+cardType: standard
+tagline: A business case that can only survive friendly scrutiny is not a business case — it is a proposal dressed in numbers.
+connections:
+  - id: 73
+    rationale: the technique for extracting and prioritising the belief stack that underlies the financial projections; the high-criticality, low-certainty assumptions are the ones to stress-test first
+  - id: 160
+    rationale: the method for anchoring projections to what comparable investments have actually delivered; every business case requires a reference class before any inside-view adjustment
+  - id: 211
+    rationale: the discipline of honest uncertainty; a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive
+  - id: 153
+    rationale: every credible business case must state the conditions under which the investment should be stopped; without this, approval is unconditional and accountability is absent
+  - id: 216
+    rationale: for growth investments, unit economics grounds the revenue projections; a case whose revenue model cannot be expressed in unit economic terms is building on unknown foundations
+  - id: 163
+    rationale: "the structural principle for presenting the case: decision and recommendation first, then the supporting analysis"
+  - id: 53
+    rationale: the most common failure in mid-investment reviews; a business case that has been approved becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence
+  - id: 212
+    rationale: the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence
+  - id: 251
+    rationale: "the discipline that completes the loop this card starts: a business case states what should happen if approved; value realization is how the organisation finds out, after the money is spent, whether it actually did"
+references:
+  - title: How Big Things Get Done
+    authorYear: Bent Flyvbjerg & Dan Gardner (2023)
+    supports: the empirical case for reference class anchoring in investment decisions; documents systematic optimism bias across major projects and the outside-view corrective.
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the planning fallacy and inside-view/outside-view distinction; explains why projections built from the inside perspective are systematically over-optimistic.
+  - title: The Pyramid Principle
+    authorYear: Barbara Minto (1987)
+    supports: "structural discipline for analytical communication: answer first, then support; the basis for leading a business case with the decision rather than the background."
+  - title: Thinking in Bets
+    authorYear: Annie Duke (2018)
+    supports: "the decision-quality framing: separating a decision's quality from its outcome; a business case should be evaluated by how well it handles uncertainty, not by whether the outcome was good."
+---
+
 # Business Case Construction
-*A business case that can only survive friendly scrutiny is not a business case — it is a proposal dressed in numbers.*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Business case construction is the discipline of building a structured argument for a proposed investment — covering the problem being solved, the proposed solution, the expected costs and benefits, the key assumptions and their sensitivity, the risks, and the decision criteria — in a form that withstands independent scrutiny. A well-constructed business case does not advocate; it analyses. It presents the best honest estimate of outcomes, including the downside scenarios, and makes the case that investment is justified even accounting for uncertainty. The test of a good business case is whether it would survive review by a reasonably informed sceptic who wants it to fail.
@@ -55,27 +93,6 @@ Revised case: Reference class (12 comparable implementations in European logisti
 The revised case is approved at a reduced headline savings figure (£1.9M base case annual savings) with an explicit review at month six. Actual outcome: 71% adoption at month six, £1.7M savings in year one. The reference class anchor and the downside scenario had set appropriate expectations; the investment is rated a success rather than a disappointment.
 
 ---
-
-## Connections
-
-→ [73·Assumption Mapping](assumption-mapping.md) — the technique for extracting and prioritising the belief stack that underlies the financial projections; the high-criticality, low-certainty assumptions are the ones to stress-test first
-→ [160·Reference Class Forecasting](../Delivery-and-Flow/reference-class-forecasting.md) — the method for anchoring projections to what comparable investments have actually delivered; every business case requires a reference class before any inside-view adjustment
-→ [211·Calibration](../General-Thinking/calibration.md) — the discipline of honest uncertainty; a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive
-→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — every credible business case must state the conditions under which the investment should be stopped; without this, approval is unconditional and accountability is absent
-→ [216·Unit Economics](../Economics/unit-economics.md) — for growth investments, unit economics grounds the revenue projections; a case whose revenue model cannot be expressed in unit economic terms is building on unknown foundations
-→ [163·Pyramid Principle](../Consulting-Craft/pyramid-principle.md) — the structural principle for presenting the case: decision and recommendation first, then the supporting analysis
-→ [53·Sunk Cost](../Psychology/sunk-cost.md) — the most common failure in mid-investment reviews; a business case that has been approved becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence
-→ [212·Observer Bias](../Psychology/observer-bias.md) — the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence
-→ [251·Value Realization](value-realization.md) — the discipline that completes the loop this card starts: a business case states what should happen if approved; value realization is how the organisation finds out, after the money is spent, whether it actually did
-
----
-
-## References
-
-- *How Big Things Get Done* — Bent Flyvbjerg & Dan Gardner (2023) — the empirical case for reference class anchoring in investment decisions; documents systematic optimism bias across major projects and the outside-view corrective.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the planning fallacy and inside-view/outside-view distinction; explains why projections built from the inside perspective are systematically over-optimistic.
-- *The Pyramid Principle* — Barbara Minto (1987) — structural discipline for analytical communication: answer first, then support; the basis for leading a business case with the decision rather than the background.
-- *Thinking in Bets* — Annie Duke (2018) — the decision-quality framing: separating a decision's quality from its outcome; a business case should be evaluated by how well it handles uncertainty, not by whether the outcome was good.
 
 ---
 

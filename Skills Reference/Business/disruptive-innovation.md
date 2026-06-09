@@ -1,10 +1,42 @@
+---
+id: 112
+name: Disruptive Innovation
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: How entrants using simpler, cheaper technology serve overlooked customers and then improve until they displace incumbents — and why rational incumbents consistently fail to respond in time.
+connections:
+  - id: 108
+    rationale: "disruptive innovation exploits the exploitation trap: incumbents rationally over-exploit current capabilities while the disruption develops in territory they are rationally ignoring."
+  - id: 102
+    rationale: disruptive innovations ride a new S-curve that eventually intersects the incumbent's S-curve; recognizing the crossing point before it occurs is the incumbent's primary analytical challenge.
+  - id: 103
+    rationale: disruptions often succeed because they do the job better for a specific customer segment that the incumbent has stopped serving well; JTBD analysis reveals these overlooked segments.
+  - id: 68
+    rationale: disruption is almost always a business model innovation as much as a product innovation; the disruptor's canvas is structurally different from the incumbent's, making direct competition difficult.
+  - id: 111
+    rationale: disruptive innovations often cross from non-consumer or low-end footholds to mainstream markets by a path that differs from the standard early-adopter-to-mainstream chasm crossing.
+  - id: 210
+    rationale: Wardley Maps show commoditisation as an evolution axis movement; disruptive innovation is the demand-side story of the same phenomenon Wardley describes from the supply side.
+  - id: 188
+    rationale: "Christensen's model applies a Kuhnian structure to competitive dynamics: incumbents are locked in a paradigm (the current business model) that blinds them to the new one taking shape below."
+  - id: 109
+    rationale: disruption often begins at the adjacent possible of entrants, who are positioned adjacent to innovations that incumbents cannot reach from their current capabilities.
+  - id: 217
+    rationale: disruption often involves creating a new value creation/capture pairing that incumbents cannot match without destroying their existing capture mechanism.
+references:
+  - title: "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail"
+    authorYear: Clayton M. Christensen (1997)
+    supports: the foundational theory and evidence of disruptive innovation dynamics.
+  - title: "The Innovator's Solution: Creating and Sustaining Successful Growth"
+    authorYear: Clayton M. Christensen & Michael E. Raynor (2003)
+    supports: the prescriptive follow-on for incumbents responding to disruption.
+---
+
 # Disruptive Innovation
-*How entrants using simpler, cheaper technology serve overlooked customers and then improve until they displace incumbents — and why rational incumbents consistently fail to respond in time.*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Disruptive innovation, as defined by Clayton Christensen, describes a specific mechanism by which entrants using initially inferior technology eventually displace established market leaders. It is not synonymous with "breakthrough" or "radical" innovation — many disruptive innovations begin as worse products by conventional metrics. There are two primary forms: low-end disruption, where entrants target over-served customers with a cheaper, simpler product that incumbents are happy to cede; and new-market disruption, where entrants create a new customer population by enabling people who previously couldn't consume (non-consumers) to do so. In both cases, the disruptor improves along a performance trajectory that eventually meets mainstream requirements, at which point it displaces the incumbent from below. The defining feature is the asymmetry: incumbent organizations consistently fail to respond because the rational management decisions that maximize current performance simultaneously make it impossible to invest appropriately in the disruptive trajectory.
@@ -42,24 +74,6 @@ An experienced practitioner understands the innovator's dilemma at its core: goo
 Netflix's disruption of Blockbuster followed the textbook mechanism. Netflix launched with a mail-order DVD service — inferior to Blockbuster on the most-valued dimension (no instant access). It targeted a specific over-served segment: frequent renters who hated late fees and found the Blockbuster store experience frustrating. Blockbuster rationally ignored Netflix: the mail-order segment was small, margin-thin, and served a customer profile that wasn't Blockbuster's most profitable. As Netflix's subscription model improved — more titles, faster delivery, better recommendation — it gradually attracted mainstream customers. By the time Blockbuster recognized the threat, Netflix had a superior cost structure (no stores), a loyal customer base, and a streaming transition already underway. Blockbuster's eventual attempts to respond were hamstrung by its store infrastructure — the assets that had made it dominant were liabilities in the new model. The disruption was not caused by Netflix being technologically superior (initially it wasn't) but by a business model that incumbents couldn't adopt without destroying their existing margins.
 
 ---
-
-## Connections
-
-→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — disruptive innovation exploits the exploitation trap: incumbents rationally over-exploit current capabilities while the disruption develops in territory they are rationally ignoring.
-→ [102·S-Curves](../Systems/s-curves.md) — disruptive innovations ride a new S-curve that eventually intersects the incumbent's S-curve; recognizing the crossing point before it occurs is the incumbent's primary analytical challenge.
-→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — disruptions often succeed because they do the job better for a specific customer segment that the incumbent has stopped serving well; JTBD analysis reveals these overlooked segments.
-→ [68·Business Model Canvas](business-model-canvas.md) — disruption is almost always a business model innovation as much as a product innovation; the disruptor's canvas is structurally different from the incumbent's, making direct competition difficult.
-→ [111·Crossing the Chasm](../Startups/crossing-the-chasm.md) — disruptive innovations often cross from non-consumer or low-end footholds to mainstream markets by a path that differs from the standard early-adopter-to-mainstream chasm crossing.
-→ [210·Wardley Mapping](wardley-mapping.md) — Wardley Maps show commoditisation as an evolution axis movement; disruptive innovation is the demand-side story of the same phenomenon Wardley describes from the supply side.
-→ [188·Paradigm Shift](../General-Thinking/paradigm-shift.md) — Christensen's model applies a Kuhnian structure to competitive dynamics: incumbents are locked in a paradigm (the current business model) that blinds them to the new one taking shape below.
-→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — disruption often begins at the adjacent possible of entrants, who are positioned adjacent to innovations that incumbents cannot reach from their current capabilities.
-→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — disruption often involves creating a new value creation/capture pairing that incumbents cannot match without destroying their existing capture mechanism.
-
-## References
-
-- *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* — Clayton M. Christensen (1997) — the foundational theory and evidence of disruptive innovation dynamics.
-- *The Innovator's Solution: Creating and Sustaining Successful Growth* — Clayton M. Christensen & Michael E. Raynor (2003) — the prescriptive follow-on for incumbents responding to disruption.
-
 
 ---
 

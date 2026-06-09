@@ -1,10 +1,43 @@
+---
+id: 166
+name: Kernel of Good Strategy
+category: Business
+cardType: standard
+tagline: Diagnosis, guiding policy, coherent action
+connections:
+  - id: 151
+    rationale: coherent action requires the discipline of saying no.
+  - id: 128
+    rationale: the policy-action linkage expresses a theory.
+  - id: 30
+    rationale: strategy is the structured form of trade-off reasoning.
+  - id: 0
+    rationale: Rumelt's diagnosis is first-principles thinking applied to a strategic situation.
+  - id: 71
+    rationale: the portfolio question follows the strategy question, not the reverse.
+  - id: 210
+    rationale: a Wardley Map is a tool for developing the diagnosis component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
+  - id: 254
+    rationale: "Lafley & Martin's five-choice cascade is the operational complement to Rumelt's kernel: Rumelt names what a strategy must contain; Playing to Win shows how to build the choices so they reinforce each other."
+  - id: 248
+    rationale: a profit pool map is a diagnosis tool; it becomes strategy only when paired with a guiding policy and coherent actions that follow from where the profit actually sits.
+references:
+  - title: "Good Strategy Bad Strategy: The Difference and Why It Matters"
+    authorYear: Richard P. Rumelt (2011)
+    supports: introduces the diagnosis/guiding-policy/coherent-action kernel; argues that most documents labelled "strategy" are goals, aspirations, or lists masquerading as strategy.
+  - title: "The Crux: How Leaders Become Strategists"
+    authorYear: Richard P. Rumelt (2022)
+    supports: "sequel focused on diagnosis: identifying the pivotal challenge (the crux) that strategy must actually address, and showing why most strategies fail at this first step."
+  - title: "Playing to Win: How Strategy Really Works"
+    authorYear: A.G. Lafley & Roger L. Martin (2013)
+    supports: the five-choice cascade (where to play / how to win / capabilities / management systems); the operational complement to Rumelt's kernel.
+---
+
 # Kernel of Good Strategy
-*Diagnosis, guiding policy, coherent action*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Kernel of Good Strategy is Richard Rumelt's structural definition of what a real strategy is: three connected elements — **diagnosis** (a clear-eyed account of the central challenge or opportunity), **guiding policy** (the overall approach chosen to address the diagnosis), and **coherent action** (the set of mutually reinforcing decisions that implement the policy). Rumelt's *Good Strategy / Bad Strategy* (2011) argues that most documents labelled "strategy" — vision statements, goals, lists of priorities — are not strategies at all. They lack one or more parts of the kernel and so cannot survive contact with reality.
@@ -41,25 +74,6 @@ A strategy is a doctor's prescription. The diagnosis names the disease; the guid
 A mid-market software firm's "strategy" is a slide deck of five priorities (grow ARR, expand internationally, improve NPS, reduce churn, launch enterprise tier). Rumelt's kernel test: there is no diagnosis (what is the central challenge?), no guiding policy (what's the unified approach?), no coherence (the five priorities pull in different directions). A re-write: Diagnosis — the firm's core market is saturating and net retention is declining because the product has not kept pace with the largest customers' needs. Guiding policy — defend the installed base by closing the enterprise gap, accepting slower new-logo growth for 12–18 months. Coherent action — three named investments (enterprise security tier, customer-success structure, account-team expansion) plus three explicit cuts (international expansion paused, two product initiatives killed, marketing redirected). The new strategy is uncomfortable but actionable. Eighteen months later, net retention has stabilized; the diagnosis was correct.
 
 ---
-
-## Connections
-
-→ [151·Strategic Prioritization](../Delivery-and-Flow/one-thing.md) — coherent action requires the discipline of saying no.
-→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — the policy-action linkage expresses a theory.
-→ [30·Trade-offs](../Economics/trade-offs.md) — strategy is the structured form of trade-off reasoning.
-→ [0·First Principles](../General-Thinking/first-principles.md) — Rumelt's diagnosis is first-principles thinking applied to a strategic situation.
-→ [71·Portfolio Map](portfolio-map.md) — the portfolio question follows the strategy question, not the reverse.
-→ [210·Wardley Mapping](wardley-mapping.md) — a Wardley Map is a tool for developing the diagnosis component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
-→ [254·Playing to Win](playing-to-win.md) — Lafley & Martin's five-choice cascade is the operational complement to Rumelt's kernel: Rumelt names what a strategy must contain; Playing to Win shows how to build the choices so they reinforce each other.
-→ [248·Profit Pool Analysis](profit-pool-analysis.md) — a profit pool map is a diagnosis tool; it becomes strategy only when paired with a guiding policy and coherent actions that follow from where the profit actually sits.
-
----
-
-## References
-
-- *Good Strategy Bad Strategy: The Difference and Why It Matters* — Richard P. Rumelt (2011) — introduces the diagnosis/guiding-policy/coherent-action kernel; argues that most documents labelled "strategy" are goals, aspirations, or lists masquerading as strategy.
-- *The Crux: How Leaders Become Strategists* — Richard P. Rumelt (2022) — sequel focused on diagnosis: identifying the pivotal challenge (the crux) that strategy must actually address, and showing why most strategies fail at this first step.
-- *Playing to Win: How Strategy Really Works* — A.G. Lafley & Roger L. Martin (2013) — the five-choice cascade (where to play / how to win / capabilities / management systems); the operational complement to Rumelt's kernel.
 
 ---
 

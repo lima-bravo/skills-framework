@@ -1,10 +1,42 @@
+---
+id: 220
+name: Power Mapping
+category: Business
+cardType: standard
+tagline: The org chart shows who is accountable. The power map shows who decides.
+connections:
+  - id: 74
+    rationale: "the complementary tool: stakeholder mapping analyses interests and salience (power, legitimacy, urgency); power mapping analyses influence *structure*. Use both: stakeholder mapping to prioritise who matters and why, power mapping to understand how they relate to each other. *These cards address adjacent but distinct questions — read both.*"
+  - id: 221
+    rationale: the interpersonal skills for navigating the power map once it is drawn; power mapping is the diagnostic, IWA is the intervention toolkit
+  - id: 222
+    rationale: the structural approach to assembling sustained support; power mapping identifies who needs to be in the coalition and what relationships between them already exist
+  - id: 121
+    rationale: power gaps often correspond to principal–agent misalignments; the people with formal authority (principals) and the people with real influence (agents) may have different incentives
+  - id: 127
+    rationale: the formal accountability layer that power mapping sits beneath; when RACI and power map diverge significantly, the organisation has a governance design problem
+  - id: 203
+    rationale: informal power often flows to those who tell the most compelling organisational story; identifying who shapes the dominant narrative is part of mapping informal influence
+references:
+  - title: '"Power Failure in Management Circuits"'
+    authorYear: Rosabeth Moss Kanter, *Harvard Business Review* (July–August 1979)
+    supports: foundational analysis of how informal power flows (and blocks) in organisations; establishes why formal authority alone does not explain who gets things done.
+  - title: "Influence: The Psychology of Persuasion"
+    authorYear: Robert B. Cialdini (1984)
+    supports: "the mechanisms of informal influence: reciprocity, commitment, social proof, authority, liking, scarcity; the practitioner manual for understanding why some people move others without formal power."
+  - title: "Pre-Suasion: A Revolutionary Way to Influence and Persuade"
+    authorYear: Robert B. Cialdini (2016)
+    supports: the sequel; shows how the moment and context before a request shapes receptivity; directly applicable to the sequencing logic of power mapping.
+  - title: '"Informal Networks: The Company Behind the Chart"'
+    authorYear: David Krackhardt & Jeffrey R. Hanson, *Harvard Business Review* (July–August 1993)
+    supports: the foundational study showing that organisations run on three hidden networks (advice, trust, communication) that diverge significantly from the formal org chart.
+---
+
 # Power Mapping
-*The org chart shows who is accountable. The power map shows who decides.*
 
 **Category:** [Business](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Power mapping is the practice of identifying and visualising the formal and informal influence structure of an organisation or stakeholder system — who holds decision authority, who shapes the opinions of decision-makers, who controls access and information flow, and where the real veto points sit. It is distinct from stakeholder mapping, which analyses interests, salience, and support levels. Power mapping analyses *influence structure*: not what people want, but how much ability they have to make things happen or stop them.
@@ -54,25 +86,6 @@ Before the board update, the initiative stalls. Investigation reveals the inform
 Revised approach: a detailed technical session with the Head of Architecture (who raises two significant design concerns, both addressable); a separate working session with the CFO on the cost model, resulting in a revised presentation that leads with risk-adjusted NPV rather than cost reduction. Both conversations happen before the rescheduled board update. The initiative is approved at the board.
 
 ---
-
-## Connections
-
-→ [74·Stakeholder Mapping (Salience Model)](stakeholder-mapping-salience-model.md) — the complementary tool: stakeholder mapping analyses interests and salience (power, legitimacy, urgency); power mapping analyses influence *structure*. Use both: stakeholder mapping to prioritise who matters and why, power mapping to understand how they relate to each other. *These cards address adjacent but distinct questions — read both.*
-→ [221·Influence Without Authority](../Leadership/influence-without-authority.md) — the interpersonal skills for navigating the power map once it is drawn; power mapping is the diagnostic, IWA is the intervention toolkit
-→ [222·Coalition Building](../Leadership/coalition-building.md) — the structural approach to assembling sustained support; power mapping identifies who needs to be in the coalition and what relationships between them already exist
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — power gaps often correspond to principal–agent misalignments; the people with formal authority (principals) and the people with real influence (agents) may have different incentives
-→ [127·RACI Framework](raci-framework.md) — the formal accountability layer that power mapping sits beneath; when RACI and power map diverge significantly, the organisation has a governance design problem
-→ [203·Narrative Instinct](../Psychology/narrative-instinct.md) — informal power often flows to those who tell the most compelling organisational story; identifying who shapes the dominant narrative is part of mapping informal influence
-
----
-
-## References
-
-- *"Power Failure in Management Circuits"* — Rosabeth Moss Kanter, *Harvard Business Review* (July–August 1979) — foundational analysis of how informal power flows (and blocks) in organisations; establishes why formal authority alone does not explain who gets things done.
-- *Influence: The Psychology of Persuasion* — Robert B. Cialdini (1984) — the mechanisms of informal influence: reciprocity, commitment, social proof, authority, liking, scarcity; the practitioner manual for understanding why some people move others without formal power.
-- *Pre-Suasion: A Revolutionary Way to Influence and Persuade* — Robert B. Cialdini (2016) — the sequel; shows how the moment and context before a request shapes receptivity; directly applicable to the sequencing logic of power mapping.
-- *Power, Politics and Organizational Change*, 2nd ed. — David Buchanan & Richard Badham (2008) — academic treatment with practitioner application; covers the politics of change, coalition dynamics, and why organisational change fails when informal power structures are ignored.
-- *"Informal Networks: The Company Behind the Chart"* — David Krackhardt & Jeffrey R. Hanson, *Harvard Business Review* (July–August 1993) — the foundational study showing that organisations run on three hidden networks (advice, trust, communication) that diverge significantly from the formal org chart.
 
 ---
 
