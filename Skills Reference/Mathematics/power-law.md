@@ -1,10 +1,46 @@
+---
+id: 238
+name: Power Law
+category: Mathematics
+cardType: standard
+tagline: A small number of inputs produce a disproportionate share of outputs
+connections:
+  - id: 239
+    rationale: "the Long Tail is the flip side of the power law head: as distribution costs fall, the aggregate of niche demand becomes economically significant even when individual niches are tiny."
+  - id: 240
+    rationale: "Black Swan events are power law tails made epistemologically dangerous: extreme events that dominate outcomes but fall outside the range of normal distribution thinking."
+  - id: 82
+    rationale: "network effects are a primary generative mechanism for power laws: preferential attachment produces winner-take-most distributions."
+  - id: 75
+    rationale: "compounding is the temporal expression of power law dynamics: multiplicative growth produces the same disproportionality over time that power laws produce across populations."
+  - id: 23
+    rationale: "the counterpoint: where power laws drive concentration, diminishing returns create limits. Understanding which applies determines investment strategy."
+  - id: 227
+    rationale: in power law domains, expected value is dominated by tail events; ignoring the tail produces systematically underestimated EVs in fat-tailed distributions.
+  - id: 24
+    rationale: "power law tails make margin of safety more important, not less: the worst-case event is not negligibly rare."
+  - id: 78
+    rationale: power law distributions and normal distributions are both random processes, but with fundamentally different properties; confusing them is the core analytical error in fat-tailed domains.
+  - id: 199
+    rationale: "in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is, obscuring the full population of attempts."
+  - id: 248
+    rationale: profit pools frequently follow a power law distribution across a value chain; identifying whether that concentration is structural or merely current is the key strategic question.
+  - id: 249
+    rationale: many customer bases are power-law distributed in value; a segmentation that treats all segments as equal will systematically misallocate resources toward lower-value groups.
+references:
+  - title: "The Long Tail: Why the Future of Business Is Selling Less of More"
+    authorYear: Chris Anderson (2006)
+    supports: the business implications of power-law distributions in digital markets.
+  - title: "Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies"
+    authorYear: Geoffrey West (2017)
+    supports: power laws as the universal scaling principle across biological and social systems.
+---
+
 # Power Law
-*A small number of inputs produce a disproportionate share of outputs*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A power law is a mathematical relationship between two quantities where one quantity varies as a power of another: a small change in one variable produces a proportionally large change in the other. In practical terms, power laws produce distributions where a small number of items account for the vast majority of the total — the 80/20 principle (Pareto distribution) being the most familiar expression. Unlike normal (bell-curve) distributions, power laws have no characteristic scale: the same disproportionality appears at every level of magnification, and the tail never converges to zero.
@@ -47,27 +83,6 @@ A SaaS company analyses its customer base and finds that 8% of customers generat
 The strategic implication: stop acquiring broad and start acquiring narrow. The resources spent on the median 50% of customers — who collectively generate 6% of revenue — should be redirected to acquiring more customers in the profile of the top 8%. Unit economics, pricing strategy, and product development all change when this structural reality is made explicit. The average was hiding it.
 
 ---
-
-## Connections
-
-→ [239·Long Tail](../Economics/long-tail.md) — the Long Tail is the flip side of the power law head: as distribution costs fall, the aggregate of niche demand becomes economically significant even when individual niches are tiny.
-→ [240·Black Swan](../General-Thinking/black-swan.md) — Black Swan events are power law tails made epistemologically dangerous: extreme events that dominate outcomes but fall outside the range of normal distribution thinking.
-→ [82·Network Effects](../Network-Effects/network-effects.md) — network effects are a primary generative mechanism for power laws: preferential attachment produces winner-take-most distributions.
-→ [75·Compounding](../Mathematics/compounding.md) — compounding is the temporal expression of power law dynamics: multiplicative growth produces the same disproportionality over time that power laws produce across populations.
-→ [23·Diminishing Returns](../Systems/diminishing-returns.md) — the counterpoint: where power laws drive concentration, diminishing returns create limits. Understanding which applies determines investment strategy.
-→ [227·Expected Value](../Mathematics/expected-value.md) — in power law domains, expected value is dominated by tail events; ignoring the tail produces systematically underestimated EVs in fat-tailed distributions.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — power law tails make margin of safety more important, not less: the worst-case event is not negligibly rare.
-→ [78·Randomness](../Mathematics/randomness.md) — power law distributions and normal distributions are both random processes, but with fundamentally different properties; confusing them is the core analytical error in fat-tailed domains.
-→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is, obscuring the full population of attempts.
-→ [248·Profit Pool Analysis](../Business/profit-pool-analysis.md) — profit pools frequently follow a power law distribution across a value chain; identifying whether that concentration is structural or merely current is the key strategic question.
-→ [249·Customer Segmentation](../Business/customer-segmentation.md) — many customer bases are power-law distributed in value; a segmentation that treats all segments as equal will systematically misallocate resources toward lower-value groups.
-
----
-
-## References
-
-- *The Long Tail: Why the Future of Business Is Selling Less of More* — Chris Anderson (2006) — the business implications of power-law distributions in digital markets.
-- *Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies* — Geoffrey West (2017) — power laws as the universal scaling principle across biological and social systems.
 
 ---
 

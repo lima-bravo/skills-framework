@@ -1,10 +1,36 @@
+---
+id: 233
+name: Fermi Estimation
+category: Mathematics
+cardType: standard
+tagline: Decompose the unknowable into factors you can estimate
+connections:
+  - id: 0
+    rationale: "Fermi estimation is applied first-principles thinking: building up an answer from basic components rather than extrapolating from analogues."
+  - id: 227
+    rationale: Fermi estimation provides the order-of-magnitude inputs (probabilities and magnitudes) that expected value calculations require when precise data is unavailable.
+  - id: 7
+    rationale: both involve reasoning under uncertainty; Fermi estimation provides the structure for quantifying what you don't know.
+  - id: 160
+    rationale: where Fermi estimation builds up from factors, reference class forecasting anchors on base rates from comparable cases; use both as cross-checks.
+  - id: 211
+    rationale: tracking whether your Fermi estimates land within the expected range is a calibration exercise; it tells you which of your decomposition habits are systematically biased.
+  - id: 3
+    rationale: prefer the simplest decomposition that captures the dominant factors; adding more factors increases arithmetic complexity without necessarily improving accuracy.
+references:
+  - title: "How to Solve It: A New Aspect of Mathematical Method"
+    authorYear: George Pólya (1945)
+    supports: the foundational guide to decomposing problems into tractable sub-problems.
+  - title: The Feynman Lectures on Physics
+    authorYear: R.P. Feynman, R.B. Leighton & M. Sands (1963)
+    supports: Feynman's estimation approach in the tradition of his teacher Fermi.
+---
+
 # Fermi Estimation
-*Decompose the unknowable into factors you can estimate*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Fermi Estimation is a technique for arriving at a reasonable order-of-magnitude answer to a question where precise data is unavailable. Named after physicist Enrico Fermi, who was famous for making accurate estimates from minimal information, it works by decomposing a complex unknown quantity into a product of simpler sub-quantities that can each be estimated independently. The individual estimates carry uncertainty, but their product often lands within a factor of two or three of the true answer — close enough for most practical purposes.
@@ -54,20 +80,6 @@ Decomposition:
 Cross-check: the team knows a competitor charges £6k–£12k and has ~200 UK customers. That implies a market of £1.2m–£2.4m at current penetration. The two estimates agree to within a factor of two. Conclusion: this is a real but modest opportunity — worth a focused team, not a six-month all-hands build.
 
 ---
-
-## Connections
-
-→ [0·First Principles](../General-Thinking/first-principles.md) — Fermi estimation is applied first-principles thinking: building up an answer from basic components rather than extrapolating from analogues.
-→ [227·Expected Value](../Mathematics/expected-value.md) — Fermi estimation provides the order-of-magnitude inputs (probabilities and magnitudes) that expected value calculations require when precise data is unavailable.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — both involve reasoning under uncertainty; Fermi estimation provides the structure for quantifying what you don't know.
-→ [160·Reference Class Forecasting](../Delivery-Flow/reference-class-forecasting.md) — where Fermi estimation builds up from factors, reference class forecasting anchors on base rates from comparable cases; use both as cross-checks.
-→ [211·Calibration](../General-Thinking/calibration.md) — tracking whether your Fermi estimates land within the expected range is a calibration exercise; it tells you which of your decomposition habits are systematically biased.
-→ [3·Occam's Razor](../General-Thinking/occams-razor.md) — prefer the simplest decomposition that captures the dominant factors; adding more factors increases arithmetic complexity without necessarily improving accuracy.
-## References
-
-- *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the foundational guide to decomposing problems into tractable sub-problems.
-- *The Feynman Lectures on Physics* — R.P. Feynman, R.B. Leighton & M. Sands (1963) — Feynman's estimation approach in the tradition of his teacher Fermi.
-
 
 ---
 

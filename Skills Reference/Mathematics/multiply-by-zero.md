@@ -1,10 +1,27 @@
+---
+id: 81
+name: Multiply by Zero
+category: Mathematics
+cardType: standard
+tagline: A zero factor nullifies every other factor
+connections:
+  - id: 18
+    rationale: the zero factor is often a system bottleneck taken to its extreme.
+  - id: 0
+    rationale: identifying zeros requires asking what is genuinely necessary vs. merely valuable.
+  - id: 24
+    rationale: zeros are the risks that margin of safety is most important for protecting against.
+references:
+  - title: "The Goal: A Process of Ongoing Improvement"
+    authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)
+    supports: "constraint theory: the weakest link in a system nullifies the capacity of everything else."
+---
+
 # Multiply by Zero
-*A zero factor nullifies every other factor*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Multiplying by zero produces zero regardless of what else is in the equation. In practice, any critical failure point in a product, process, or plan that produces a zero output — a system that never ships, a product with no distribution, a team with no trust — nullifies all the positive factors. A brilliant product that customers cannot discover is a zero. A highly capable team where communication breaks down completely is a zero. The multiply-by-zero model identifies the one thing that must work for everything else to matter.
@@ -37,18 +54,6 @@ Most systems and plans are additive in thinking: we assess each component's valu
 ## Worked Example
 
 A SaaS company has excellent product-market fit, a talented team, and strong unit economics. Growth is stalled. The multiply-by-zero audit: their SEO is producing minimal traffic; their sales team has no repeatable playbook; word-of-mouth is strong but limited in reach. The zero: distribution. Without distribution, the excellent product generates no new customers. The product quality and unit economics were irrelevant to the growth problem — they are non-zero factors being optimized while a distribution zero exists. The next six months are dedicated entirely to cracking a repeatable acquisition channel.
-
----
-
-## Connections
-
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — the zero factor is often a system bottleneck taken to its extreme.
-→ [0·First Principles](../General-Thinking/first-principles.md) — identifying zeros requires asking what is genuinely necessary vs. merely valuable.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — zeros are the risks that margin of safety is most important for protecting against.
-## References
-
-- *The Goal: A Process of Ongoing Improvement* — Eliyahu M. Goldratt & Jeff Cox (1984) — constraint theory: the weakest link in a system nullifies the capacity of everything else.
-
 
 ---
 

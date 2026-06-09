@@ -1,10 +1,30 @@
+---
+id: 79
+name: Sampling
+category: Mathematics
+cardType: standard
+tagline: How to draw valid inferences from incomplete information
+connections:
+  - id: 78
+    rationale: sampling quality determines how much of the variation you observe is signal vs. noise.
+  - id: 7
+    rationale: valid probability estimates require valid sampling.
+  - id: 55
+    rationale: convenience sampling often produces confirmation bias at the data collection stage.
+references:
+  - title: How to Lie with Statistics
+    authorYear: Darrell Huff (1954)
+    supports: the classic guide to sampling biases and how they produce misleading conclusions.
+  - title: "The Signal and the Noise: Why So Many Predictions Fail—but Some Don't"
+    authorYear: Nate Silver (2012)
+    supports: sample quality as the central challenge in forecasting.
+---
+
 # Sampling
-*How to draw valid inferences from incomplete information*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Sampling is the process of drawing conclusions about a population from a subset of its members. The core challenges: ensuring the sample is representative (not systematically biased), ensuring the sample is large enough (not dominated by randomness), and ensuring the inference from sample to population is valid given how the sample was drawn. Most analytical decisions in business are made from samples, not from complete population data — understanding sampling quality is essential to interpreting evidence correctly.
@@ -37,19 +57,6 @@ The sample is a window onto the population. The size of the window determines ho
 ## Worked Example
 
 A startup surveys customers who have been active in the last 30 days about their product satisfaction. Results: 85% satisfied, 10% neutral, 5% dissatisfied. Excellent scores. The question not asked: what is the retention rate among customers who were active 90 days ago? If 60% of 90-day customers have churned, the survey is a satisfaction survey of the customers who stayed — a massively self-selected, happy sample. The 60% who churned had the most informative feedback and weren't surveyed. The correct sampling frame: all customers at day 30 of their cohort, regardless of current activity.
-
----
-
-## Connections
-
-→ [78·Randomness](randomness.md) — sampling quality determines how much of the variation you observe is signal vs. noise.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — valid probability estimates require valid sampling.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — convenience sampling often produces confirmation bias at the data collection stage.
-## References
-
-- *How to Lie with Statistics* — Darrell Huff (1954) — the classic guide to sampling biases and how they produce misleading conclusions.
-- *The Signal and the Noise: Why So Many Predictions Fail—but Some Don't* — Nate Silver (2012) — sample quality as the central challenge in forecasting.
-
 
 ---
 

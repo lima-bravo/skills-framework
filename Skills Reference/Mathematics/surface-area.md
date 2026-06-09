@@ -1,10 +1,27 @@
+---
+id: 80
+name: Surface Area
+category: Mathematics
+cardType: standard
+tagline: More interfaces mean more potential for both gain and risk
+connections:
+  - id: 82
+    rationale: surface area determines the surface over which network effects can operate.
+  - id: 41
+    rationale: high surface area creates high leverage for opportunities; each public artefact multiplies the inbound.
+  - id: 24
+    rationale: high surface area increases vulnerability; margin of safety provides buffer.
+references:
+  - title: "Antifragile: Things That Gain from Disorder"
+    authorYear: Nassim Nicholas Taleb (2012)
+    supports: exposure (positive and negative surface area) as the key variable in fragility and optionality.
+---
+
 # Surface Area
-*More interfaces mean more potential for both gain and risk*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Surface area is the total exposed interface of a system — the points at which it interacts with the external environment. In security, attack surface is the set of points where an attacker can try to enter. In biology, surface area governs absorption and reaction rates. In business and social contexts, surface area is the breadth of connections, opportunities, and exposure points. High surface area increases both opportunity (more potential interactions, partnerships, discoveries) and vulnerability (more attack vectors, failure points, dependencies).
@@ -37,18 +54,6 @@ The practitioner asks: "Where does this system touch the world?" Each touchpoint
 ## Worked Example
 
 An author publishes a book on a technical topic. The book is the expansion of surface area. From the book's publication, the author receives inbound: speaking invitations, podcast requests, consulting inquiries, co-author proposals, and a research collaboration. None of these would have been accessible without the surface area that the book created. The book itself is not the value — the expanded surface area is, through which a portfolio of opportunities flows. The principle generalizes: any high-quality public artefact (article, open-source project, tool, research paper) expands surface area.
-
----
-
-## Connections
-
-→ [82·Network Effects](../Network-Effects/network-effects.md) — surface area determines the surface over which network effects can operate.
-→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — high surface area creates high leverage for opportunities; each public artefact multiplies the inbound.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — high surface area increases vulnerability; margin of safety provides buffer.
-## References
-
-- *Antifragile: Things That Gain from Disorder* — Nassim Nicholas Taleb (2012) — exposure (positive and negative surface area) as the key variable in fragility and optionality.
-
 
 ---
 

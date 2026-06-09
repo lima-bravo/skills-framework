@@ -1,10 +1,36 @@
+---
+id: 77
+name: Regression to the Mean
+category: Mathematics
+cardType: standard
+tagline: Extreme outcomes tend to moderate over time
+connections:
+  - id: 7
+    rationale: regression to the mean is a statistical property that should inform probability estimates about future performance.
+  - id: 54
+    rationale: recent extreme performance anchors expectations in a way that regression to the mean will frustrate.
+  - id: 56
+    rationale: vivid recent extreme outcomes are over-available and lead to over-attribution of the extreme performance to stable underlying causes.
+  - id: 240
+    rationale: regression to the mean applies in Mediocristan; in Extremistan (fat-tailed domains), mean reversion is not a reliable assumption and extreme values may persist or compound.
+  - id: 38
+    rationale: bubble collapses are extreme reversion events; the gap between price and intrinsic value cannot widen indefinitely.
+  - id: 115
+    rationale: exceptional early velocity regresses to the mean; plans that extrapolate it are compounding the planning fallacy with a regression error.
+references:
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the chapter on regression to the mean is the most accessible treatment of why we misinterpret it as causal.
+  - title: "The Drunkard's Walk: How Randomness Rules Our Lives"
+    authorYear: Leonard Mlodinow (2008)
+    supports: the statistical mechanics of regression and why extreme outcomes revert.
+---
+
 # Regression to the Mean
-*Extreme outcomes tend to moderate over time*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Regression to the mean is the statistical phenomenon where extreme values in a sample are followed by values closer to the average. If a student scores in the 99th percentile one week, their next score will, on average, be lower — not because their ability changed, but because the 99th percentile result included an unusually good run of luck. Similarly, a company with an exceptionally good quarter, a city with an unusually high crime year, or an athlete with a career-best performance will tend toward more average results in subsequent periods.
@@ -37,23 +63,6 @@ Every outcome has two components: a stable component (underlying quality or abil
 ## Worked Example
 
 A school introduces a motivational intervention for students who scored exceptionally poorly on a test. The next test, those students score significantly better on average. The school concludes the intervention worked. A statistical analysis reveals that students who scored in the bottom 5% of a test would, on average, score higher on a retest regardless of any intervention — regression to the mean. This doesn't mean the intervention was worthless; it means the design doesn't prove it worked. A control group of equally low-scoring students who did not receive the intervention would have shown similar improvement.
-
----
-
-## Connections
-
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — regression to the mean is a statistical property that should inform probability estimates about future performance.
-→ [54·Anchoring](../Psychology/anchoring.md) — recent extreme performance anchors expectations in a way that regression to the mean will frustrate.
-→ [56·Availability Bias](../Psychology/availability-bias.md) — vivid recent extreme outcomes are over-available and lead to over-attribution of the extreme performance to stable underlying causes.
-→ [240·Black Swan](../General-Thinking/black-swan.md) — regression to the mean applies in Mediocristan; in Extremistan (fat-tailed domains), mean reversion is not a reliable assumption and extreme values may persist or compound.
-→ [38·Bubbles](../Economics/bubbles.md) — bubble collapses are extreme reversion events; the gap between price and intrinsic value cannot widen indefinitely.
-→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — exceptional early velocity regresses to the mean; plans that extrapolate it are compounding the planning fallacy with a regression error.
-
-## References
-
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the chapter on regression to the mean is the most accessible treatment of why we misinterpret it as causal.
-- *The Drunkard's Walk: How Randomness Rules Our Lives* — Leonard Mlodinow (2008) — the statistical mechanics of regression and why extreme outcomes revert.
-
 
 ---
 

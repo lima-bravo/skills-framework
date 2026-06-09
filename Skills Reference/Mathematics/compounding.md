@@ -1,10 +1,43 @@
+---
+id: 75
+name: Compounding
+category: Mathematics
+cardType: standard
+tagline: Small, consistent gains produce exponential outcomes
+connections:
+  - id: 216
+    rationale: "strong unit economics compound over time: retained customers generate expansion revenue, referrals reduce CAC, and the economics improve rather than degrade with scale."
+  - id: 17
+    rationale: compounding is driven by reinforcing feedback loops; they are the same phenomenon.
+  - id: 23
+    rationale: "the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy."
+  - id: 24
+    rationale: protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
+  - id: 25
+    rationale: churn is the subtrahend in the compounding equation; even a small reduction in churn rate compounds forward dramatically over time.
+  - id: 102
+    rationale: the growth phase of an S-curve exhibits near-compounding dynamics; S-curve thinking is what recognises when compounding will eventually stop.
+  - id: 109
+    rationale: "each step through the adjacent possible compounds: entering a new room opens new doors unavailable from the previous one, so early moves have value beyond the immediate problem they solve."
+  - id: 36
+    rationale: unserviced debt compounds the same way returns do but in the wrong direction; compounding explains why small deferrals become existential obligations.
+references:
+  - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
+    authorYear: Charlie Munger, ed. Peter Kaufman (2005)
+    supports: Munger on compounding as the most underrated force in business and learning.
+  - title: "The Snowball: Warren Buffett and the Business of Life"
+    authorYear: Alice Schroeder (2008)
+    supports: the definitive account of compounding as a life philosophy, not just a finance mechanism.
+  - title: "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness"
+    authorYear: Morgan Housel (2020)
+    supports: compounding across wealth, knowledge, and relationships.
+---
+
 # Compounding
-*Small, consistent gains produce exponential outcomes*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Compounding is the process by which the output of a period becomes the input for the next period — gains accumulate on top of prior gains. In finance, compound interest earns returns on returns. In learning, each unit of knowledge makes acquiring the next unit easier. In organizations, each improvement creates a more capable base for the next improvement. The key property: the rate of growth accelerates over time because the base is growing, even with a constant growth rate.
@@ -38,26 +71,6 @@ The exponential curve feels flat at first and steep later. At a 10% annual growt
 ## Worked Example
 
 Amazon's flywheel is the most celebrated corporate compounding engine: lower prices → more customers → more volume → more efficient operations → lower costs → lower prices. Each element feeds the next. The flywheel started slowly in 1994 and accelerated gradually. The exponential curve was not visible in year 5; it was clearly visible by year 20. Each element of the flywheel was built with the understanding that the compound effect would take time to manifest.
-
----
-
-## Connections
-
-→ [216·Unit Economics](../Economics/unit-economics.md) — strong unit economics compound over time: retained customers generate expansion revenue, referrals reduce CAC, and the economics improve rather than degrade with scale.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — compounding is driven by reinforcing feedback loops; they are the same phenomenon.
-→ [23·Diminishing Returns](../Systems/diminishing-returns.md) — the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
-→ [25·Churn](../Systems/churn.md) — churn is the subtrahend in the compounding equation; even a small reduction in churn rate compounds forward dramatically over time.
-→ [102·S-Curves](../Systems/s-curves.md) — the growth phase of an S-curve exhibits near-compounding dynamics; S-curve thinking is what recognises when compounding will eventually stop.
-→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — each step through the adjacent possible compounds: entering a new room opens new doors unavailable from the previous one, so early moves have value beyond the immediate problem they solve.
-→ [36·Debt](../Economics/debt.md) — unserviced debt compounds the same way returns do but in the wrong direction; compounding explains why small deferrals become existential obligations.
-
-## References
-
-- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — Munger on compounding as the most underrated force in business and learning.
-- *The Snowball: Warren Buffett and the Business of Life* — Alice Schroeder (2008) — the definitive account of compounding as a life philosophy, not just a finance mechanism.
-- *The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness* — Morgan Housel (2020) — compounding across wealth, knowledge, and relationships.
-
 
 ---
 

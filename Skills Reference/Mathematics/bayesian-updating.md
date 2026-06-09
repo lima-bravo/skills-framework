@@ -1,10 +1,41 @@
+---
+id: 228
+name: Bayesian Updating
+category: Mathematics
+cardType: standard
+tagline: Revise beliefs in proportion to the strength of new evidence
+connections:
+  - id: 7
+    rationale: "Bayesian updating is the dynamic extension of probabilistic thinking: how beliefs evolve as evidence accumulates."
+  - id: 206
+    rationale: the most common failure in constructing a prior; Bayesian updating cannot correct a prior that ignored base rates.
+  - id: 211
+    rationale: calibrated probability estimates are the foundation of good priors; Bayesian updating assumes you can assign meaningful likelihoods.
+  - id: 55
+    rationale: the psychological tendency to under-update on disconfirming evidence; the main enemy of good Bayesian practice.
+  - id: 227
+    rationale: Bayesian updating revises the probability inputs that feed expected value calculations.
+  - id: 204
+    rationale: falsificationist thinking is the qualitative version of seeking high-diagnostic evidence; Bayesian updating quantifies the update.
+  - id: 201
+    rationale: failure to record the prior before seeing evidence makes it impossible to know whether you updated correctly; hindsight bias retrospectively distorts the prior.
+references:
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the mechanics of belief updating and why humans systematically under- and over-update are a central theme.
+  - title: "The Signal and the Noise: Why So Many Predictions Fail—but Some Don't"
+    authorYear: Nate Silver (2012)
+    supports: Bayesian reasoning as the core discipline of good forecasting.
+  - title: "Against the Gods: The Remarkable Story of Risk"
+    authorYear: Peter L. Bernstein (1996)
+    supports: the history of probability and statistical inference, including Bayes.
+---
+
 # Bayesian Updating
-*Revise beliefs in proportion to the strength of new evidence*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Bayesian updating is the process of revising a prior belief (prior probability) when new evidence arrives, producing a revised belief (posterior probability). The update is proportional to the likelihood ratio: how much more probable the evidence is if your hypothesis is true than if it is false. Strong, distinctive evidence produces large updates; weak or ambiguous evidence produces small ones. The posterior from one update becomes the prior for the next.
@@ -50,22 +81,6 @@ Posterior ≈ 40% × 2.5 / (40% × 2.5 + 60% × 1) = 100 / (100 + 60) ≈ **62%*
 The manager's confidence in hiring has increased substantially — but it remains a probability, not a certainty. A subsequent poor reference check should now update downward from 62%, not from the original 40%.
 
 ---
-
-## Connections
-
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — Bayesian updating is the dynamic extension of probabilistic thinking: how beliefs evolve as evidence accumulates.
-→ [206·Base Rate Neglect](../Psychology/base-rate-neglect.md) — the most common failure in constructing a prior; Bayesian updating cannot correct a prior that ignored base rates.
-→ [211·Calibration](../General-Thinking/calibration.md) — calibrated probability estimates are the foundation of good priors; Bayesian updating assumes you can assign meaningful likelihoods.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the psychological tendency to under-update on disconfirming evidence; the main enemy of good Bayesian practice.
-→ [227·Expected Value](../Mathematics/expected-value.md) — Bayesian updating revises the probability inputs that feed expected value calculations.
-→ [204·Falsification](../Psychology/falsification.md) — falsificationist thinking is the qualitative version of seeking high-diagnostic evidence; Bayesian updating quantifies the update.
-→ [201·Hindsight Bias](../Psychology/hindsight-bias.md) — failure to record the prior before seeing evidence makes it impossible to know whether you updated correctly; hindsight bias retrospectively distorts the prior.
-## References
-
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the mechanics of belief updating and why humans systematically under- and over-update are a central theme.
-- *The Signal and the Noise: Why So Many Predictions Fail—but Some Don't* — Nate Silver (2012) — Bayesian reasoning as the core discipline of good forecasting.
-- *Against the Gods: The Remarkable Story of Risk* — Peter L. Bernstein (1996) — the history of probability and statistical inference, including Bayes.
-
 
 ---
 

@@ -1,10 +1,33 @@
+---
+id: 78
+name: Randomness
+category: Mathematics
+cardType: standard
+tagline: Many outcomes are noise, not signal
+connections:
+  - id: 7
+    rationale: probabilistic thinking is the framework for reasoning about domains with significant randomness.
+  - id: 77
+    rationale: regression to the mean is a specific, predictable form of randomness.
+  - id: 79
+    rationale: the quality of signals depends on sample size; small samples are dominated by randomness.
+references:
+  - title: "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets"
+    authorYear: Nassim Nicholas Taleb (2001)
+    supports: "the source insight: we systematically mistake randomness for skill."
+  - title: "The Drunkard's Walk: How Randomness Rules Our Lives"
+    authorYear: Leonard Mlodinow (2008)
+    supports: how random processes generate the patterns we interpret as meaningful trends.
+  - title: "The Signal and the Noise: Why So Many Predictions Fail—but Some Don't"
+    authorYear: Nate Silver (2012)
+    supports: distinguishing signal from noise in complex systems.
+---
+
 # Randomness
-*Many outcomes are noise, not signal*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Randomness describes outcomes driven by chance rather than deterministic cause. In a world of genuine randomness, distinguishing signal (meaningful patterns) from noise (random variation) is the central analytical challenge. Many patterns that appear meaningful are artefacts of random variation; many outcomes attributed to skill are partially or wholly driven by luck. The practitioner's skill is calibrating the relative contribution of randomness and determinism in any situation — and making better decisions by not acting on noise as if it were signal.
@@ -37,20 +60,6 @@ The practitioner holds two questions simultaneously: "Is there a signal here?" a
 ## Worked Example
 
 A startup's weekly active users fluctuate: 1,200 → 1,050 → 1,350 → 1,100 → 1,400 → 1,200. The team responds to every dip (emergency meeting, feature launch) and every peak (celebration, press release). A statistician points out the weekly variance is consistent with baseline sampling noise and the underlying trend is roughly flat. The team has been responding to noise as signal, generating work and emotional volatility without improving the underlying metric. The correct response: track a 4-week rolling average (which smooths the noise) and respond only to sustained deviation from trend.
-
----
-
-## Connections
-
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — probabilistic thinking is the framework for reasoning about domains with significant randomness.
-→ [77·Regression to the Mean](regression-to-the-mean.md) — regression to the mean is a specific, predictable form of randomness.
-→ [79·Sampling](sampling.md) — the quality of signals depends on sample size; small samples are dominated by randomness.
-## References
-
-- *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets* — Nassim Nicholas Taleb (2001) — the source insight: we systematically mistake randomness for skill.
-- *The Drunkard's Walk: How Randomness Rules Our Lives* — Leonard Mlodinow (2008) — how random processes generate the patterns we interpret as meaningful trends.
-- *The Signal and the Noise: Why So Many Predictions Fail—but Some Don't* — Nate Silver (2012) — distinguishing signal from noise in complex systems.
-
 
 ---
 

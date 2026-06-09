@@ -1,10 +1,43 @@
+---
+id: 227
+name: Expected Value
+category: Mathematics
+cardType: standard
+tagline: Multiply each outcome by its probability; sum the results
+connections:
+  - id: 7
+    rationale: EV is the quantitative expression of probabilistic thinking; you need both the probability estimate and the magnitude to compute it.
+  - id: 211
+    rationale: EV calculations are only as good as the probability estimates; calibration is the discipline of making those estimates accurate.
+  - id: 228
+    rationale: as new evidence arrives, update the probabilities feeding into the EV calculation.
+  - id: 12
+    rationale: asymmetric payoff structures are the cases where EV dramatically outperforms intuitive comparison.
+  - id: 24
+    rationale: EV ignores variance; Margin of Safety is the corrective when downside is catastrophic.
+  - id: 206
+    rationale: the most common source of miscalibrated probabilities feeding into EV calculations.
+  - id: 233
+    rationale: when precise probabilities and magnitudes are unavailable, Fermi estimation provides the order-of-magnitude inputs EV needs.
+  - id: 240
+    rationale: standard EV calculation breaks in Black Swan domains; the tail event that dominates outcomes may have near-zero assigned probability, making EV systematically wrong in fat-tailed distributions.
+references:
+  - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
+    authorYear: Annie Duke (2018)
+    supports: the practitioner's guide to EV thinking under uncertainty.
+  - title: "Against the Gods: The Remarkable Story of Risk"
+    authorYear: Peter L. Bernstein (1996)
+    supports: the historical development of probability and expected value as decision tools.
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: systematic deviations from EV reasoning and the psychology behind them.
+---
+
 # Expected Value
-*Multiply each outcome by its probability; sum the results*
 
 **Category:** [Mathematics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Expected value (EV) is the probability-weighted average of all possible outcomes of a decision. For each possible outcome, multiply its value by its probability of occurring, then sum across all outcomes. A decision with a positive expected value is worth taking on average; a negative EV decision destroys value on average. EV is the foundational tool for comparing options under uncertainty.
@@ -47,24 +80,6 @@ EV = (0.20 × £500k) + (0.50 × £100k) + (0.30 × £0) − £60k
 The calculation argues for building. The team should also check: is the 30% flop scenario truly £0, or could it damage customer trust (hidden negative)? And is the 20% upside scenario correlated with other bets the team is already making?
 
 ---
-
-## Connections
-
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — EV is the quantitative expression of probabilistic thinking; you need both the probability estimate and the magnitude to compute it.
-→ [211·Calibration](../General-Thinking/calibration.md) — EV calculations are only as good as the probability estimates; calibration is the discipline of making those estimates accurate.
-→ [228·Bayesian Updating](../Mathematics/bayesian-updating.md) — as new evidence arrives, update the probabilities feeding into the EV calculation.
-→ [12·Asymmetry/Convexity](../General-Thinking/asymmetry-convexity.md) — asymmetric payoff structures are the cases where EV dramatically outperforms intuitive comparison.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — EV ignores variance; Margin of Safety is the corrective when downside is catastrophic.
-→ [206·Base Rate Neglect](../Psychology/base-rate-neglect.md) — the most common source of miscalibrated probabilities feeding into EV calculations.
-→ [233·Fermi Estimation](../Mathematics/fermi-estimation.md) — when precise probabilities and magnitudes are unavailable, Fermi estimation provides the order-of-magnitude inputs EV needs.
-→ [240·Black Swan](../General-Thinking/black-swan.md) — standard EV calculation breaks in Black Swan domains; the tail event that dominates outcomes may have near-zero assigned probability, making EV systematically wrong in fat-tailed distributions.
-
-## References
-
-- *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts* — Annie Duke (2018) — the practitioner's guide to EV thinking under uncertainty.
-- *Against the Gods: The Remarkable Story of Risk* — Peter L. Bernstein (1996) — the historical development of probability and expected value as decision tools.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — systematic deviations from EV reasoning and the psychology behind them.
-
 
 ---
 
