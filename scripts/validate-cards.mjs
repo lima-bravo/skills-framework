@@ -8,6 +8,7 @@ import path from 'node:path';
 import { REF_DIR, loadManifest, buildLookups } from './lib/manifest.mjs';
 import { resolveConnectionTarget } from './lib/connections.mjs';
 import { parseSkillMarkdown } from './lib/parse-skill.mjs';
+import { validateFrontmatterSync } from './lib/frontmatter.mjs';
 
 const STRICT = process.argv.includes('--strict');
 const SCHEMA = JSON.parse(
@@ -38,8 +39,11 @@ function fail(file, msg) {
   else warn(file, msg);
 }
 
-function validateStandardOrExtended(file, cardType, sections) {
+function validateStandardOrExtended(file, cardType, sections, hasFm) {
   const titles = sections.map((s) => s.title);
+  const bodyRequired = hasFm
+    ? STANDARD_SECTIONS.filter((s) => s !== 'Connections' && s !== 'References')
+    : STANDARD_SECTIONS;
   const defIdx = titles.indexOf('Definition');
   const mmIdx = titles.indexOf('Mental Model');
   const heurIdx = titles.indexOf('Practitioner Heuristics');
@@ -48,11 +52,22 @@ function validateStandardOrExtended(file, cardType, sections) {
   const connIdx = titles.indexOf('Connections');
   const refIdx = titles.indexOf('References');
 
-  for (const req of STANDARD_SECTIONS) {
+  for (const req of bodyRequired) {
     if (!titles.includes(req)) fail(file, `missing required section: ${req}`);
   }
 
-  const order = [defIdx, mmIdx, heurIdx, failIdx, workIdx, connIdx, refIdx];
+  if (hasFm) {
+    if (connIdx !== -1) fail(file, '## Connections must not appear in body when frontmatter present');
+    if (refIdx !== -1) fail(file, '## References must not appear in body when frontmatter present');
+  } else {
+    for (const req of ['Connections', 'References']) {
+      if (!titles.includes(req)) fail(file, `missing required section: ${req}`);
+    }
+  }
+
+  const order = hasFm
+    ? [defIdx, mmIdx, heurIdx, failIdx, workIdx]
+    : [defIdx, mmIdx, heurIdx, failIdx, workIdx, connIdx, refIdx];
   if (order.some((i) => i === -1)) return;
   for (let i = 1; i < order.length; i += 1) {
     if (order[i] <= order[i - 1]) {
@@ -61,12 +76,16 @@ function validateStandardOrExtended(file, cardType, sections) {
     }
   }
 
-  if (refIdx !== titles.length - 1) {
+  if (!hasFm && refIdx !== titles.length - 1) {
     fail(file, '## References must be the last section before footer');
   }
 
   if (cardType === 'standard') {
-    const allowed = new Set(STANDARD_SECTIONS);
+    const allowed = new Set(
+      hasFm
+        ? STANDARD_SECTIONS.filter((s) => s !== 'Connections' && s !== 'References')
+        : STANDARD_SECTIONS,
+    );
     for (const t of titles) {
       if (!allowed.has(t) && !STEP_RE.test(t)) {
         fail(file, `unexpected section on standard card: ${t}`);
@@ -136,6 +155,19 @@ function main() {
     const tagline = parsed.tagline;
     const sections = parsed.allSections;
     const cardType = meta.cardType ?? 'standard';
+    const hasFm = parsed.frontmatter != null;
+
+    if (hasFm) {
+      for (const msg of validateFrontmatterSync(parsed.frontmatter, meta, file)) {
+        fail(file, msg);
+      }
+      if (cardType !== 'chain' && !parsed.connections.length) {
+        fail(file, 'frontmatter card missing connections');
+      }
+      if (cardType !== 'chain' && !parsed.references?.length) {
+        fail(file, 'frontmatter card missing references');
+      }
+    }
 
     if (normalizeText(title) !== normalizeText(meta.name)) {
       fail(file, `title "${title}" != manifest name "${meta.name}"`);
@@ -143,7 +175,7 @@ function main() {
     if (!tagline) fail(file, 'missing tagline');
 
     if (cardType === 'chain') validateChain(file, sections);
-    else validateStandardOrExtended(file, cardType, sections);
+    else validateStandardOrExtended(file, cardType, sections, hasFm);
 
     for (const conn of parsed.connections) {
       const { targetId, resolvedBy } = resolveConnectionTarget(

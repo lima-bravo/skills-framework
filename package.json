@@ -10,6 +10,7 @@
     "build:cowork": "node scripts/build-cowork-skills.mjs",
     "validate:cowork": "node scripts/validate-cowork-skills.mjs",
     "validate:cards": "node scripts/validate-cards.mjs",
+    "validate:frontmatter": "node scripts/validate-cards.mjs --strict",
     "derive:refs": "node scripts/derive-refs.mjs",
     "reconcile:refs": "node scripts/reconcile-refs.mjs",
     "generate:ai-index": "node scripts/generate-ai-index.mjs",
@@ -23,6 +24,7 @@
     "remark-frontmatter": "^5.0.0",
     "remark-parse": "^11.0.0",
     "unified": "^11.0.5",
-    "unist-util-visit": "^5.1.0"
+    "unist-util-visit": "^5.1.0",
+    "yaml": "^2.9.0"
   }
 }

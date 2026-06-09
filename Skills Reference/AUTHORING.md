@@ -11,6 +11,34 @@ Canonical registry: `skills-manifest.json` (`id`, `name`, `category`, `color`, `
 | `chain` | Pre-built Chains category | `## Step 1` … `## Step N`; optional Connections / References |
 | `extended` | Domain cards with extra conceptual sections between Mental Model and Heuristics | Standard seven sections **plus** whitelisted extras (see schema) |
 
+## YAML frontmatter (Phase 7+)
+
+Machine fields live in a YAML block at the top of each card. Narrative sections stay in the markdown body.
+
+```yaml
+---
+id: 183
+name: AI Authority Boundaries
+category: Applied AI
+cardType: extended
+tagline: Programmatically encoding where AI may not become a decision-maker
+connections:
+  - id: 184
+    rationale: Register 2 in practice
+  - id: 185
+    rationale: the attack vector that makes Register 3 necessary
+references:
+  - title: Human Compatible
+    authorYear: Stuart Russell (2019)
+    supports: foundational case for human oversight
+---
+```
+
+- `connections` and `references` must match manifest id/name/category/cardType/tagline.
+- Omit empty `references:` on chain cards.
+- Map trailing reference notes to `supports:`.
+- After migration, `## Connections` and `## References` are removed from the body.
+
 ## standard / extended — required section order
 
 1. `## Definition`

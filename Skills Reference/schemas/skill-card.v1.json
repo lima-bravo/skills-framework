@@ -10,6 +10,44 @@
       "enum": ["standard", "chain", "extended"]
     }
   },
+  "frontmatter": {
+    "required": ["id", "name", "category", "cardType", "tagline"],
+    "properties": {
+      "id": { "type": "integer", "description": "Manifest skill id" },
+      "name": { "type": "string" },
+      "category": { "type": "string" },
+      "cardType": { "type": "string", "enum": ["standard", "chain", "extended"] },
+      "tagline": { "type": "string" },
+      "connections": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["id", "rationale"],
+          "properties": {
+            "id": { "type": "integer" },
+            "rationale": { "type": "string" }
+          }
+        }
+      },
+      "references": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["title", "authorYear"],
+          "properties": {
+            "title": { "type": "string" },
+            "authorYear": { "type": "string" },
+            "supports": { "type": "string", "description": "Optional note on how the source supports the card" }
+          }
+        }
+      }
+    },
+    "bodySections": {
+      "standard": "Definition, Mental Model, Practitioner Heuristics, Common Failure Modes, Worked Example (Connections and References live in frontmatter after migration)",
+      "extended": "standard narrative sections plus whitelisted extras between Mental Model and Practitioner Heuristics",
+      "chain": "Step N sections only; connections/references optional in frontmatter"
+    }
+  },
   "cardTypes": {
     "standard": {
       "requiredSections": [
