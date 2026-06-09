@@ -46,13 +46,14 @@ Zappos founder Nick Swinmurn wanted to test whether people would buy shoes onlin
 → [**Build-Measure-Learn**](build-measure-learn.md) — the MVP is the "build" artefact in each BML cycle.
 → [**Assumption Mapping**](../Business/assumption-mapping.md) — assumption mapping identifies which assumptions the MVP should test.
 → [**Customer Development**](customer-development.md) — customer development generates the hypotheses that the MVP tests.
+
+---
+
 ## References
 
 - *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source definition of MVP as a learning tool.
 - *Running Lean: Iterate from Plan A to a Plan That Works* — Ash Maurya (2012) — the practitioner toolkit for MVP design and iteration.
-
-
----
+- *The Four Steps to the Epiphany: Successful Strategies for Products that Win* — Steve Blank (2003) — the customer development methodology underpinning lean startup thinking; the foundational argument for discovering what customers actually need before committing to a product.
 
 ---
 
