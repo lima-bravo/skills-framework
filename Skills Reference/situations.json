@@ -1,0 +1,1743 @@
+{
+  "sections": [
+    {
+      "label": "Thinking & Deciding",
+      "situations": [
+        {
+          "label": "You have a bad feeling you can't articulate",
+          "keywords": "bad feeling something wrong can't articulate gut instinct",
+          "skills": [
+            {
+              "id": 1,
+              "name": "Inversion",
+              "tag": "Flip the question — what would have to be true for this to fail?",
+              "chain": false
+            },
+            {
+              "id": 10,
+              "name": "Pre-mortem",
+              "tag": "Imagine it's already failed — what went wrong?",
+              "chain": false
+            },
+            {
+              "id": 73,
+              "name": "Assumption Mapping",
+              "tag": "Surface and prioritise the beliefs the plan depends on",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You need to make a decision quickly",
+          "keywords": "decision quickly fast urgent time pressure",
+          "skills": [
+            {
+              "id": 16,
+              "name": "Two-Way Doors",
+              "tag": "Reversible decisions deserve speed; irreversible ones deserve deliberation",
+              "chain": false
+            },
+            {
+              "id": 7,
+              "name": "Probabilistic Thinking",
+              "tag": "Think in distributions, not outcomes",
+              "chain": false
+            },
+            {
+              "id": 0,
+              "name": "First Principles",
+              "tag": "Strip away inherited assumptions, reason from the ground up",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're about to commit significant money or time",
+          "keywords": "spending money time resource commit investment business case proposal",
+          "skills": [
+            {
+              "id": 218,
+              "name": "Business Case Construction",
+              "tag": "A business case that can only survive friendly scrutiny is not a business case",
+              "chain": false
+            },
+            {
+              "id": 227,
+              "name": "Expected Value",
+              "tag": "Multiply each outcome by its probability — that's what the decision is actually worth",
+              "chain": false
+            },
+            {
+              "id": 233,
+              "name": "Fermi Estimation",
+              "tag": "No data? Decompose into estimable factors and triangulate — a rough answer beats a confident guess",
+              "chain": false
+            },
+            {
+              "id": 224,
+              "name": "Red Teaming",
+              "tag": "Mandate an independent team to attack the plan before you commit resources",
+              "chain": false
+            },
+            {
+              "id": 73,
+              "name": "Assumption Mapping",
+              "tag": "Surface and prioritise the beliefs the plan depends on",
+              "chain": false
+            },
+            {
+              "id": 10,
+              "name": "Pre-mortem",
+              "tag": "Imagine it's already failed — what went wrong?",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "A plan feels fragile but you can't say why",
+          "keywords": "plan fragile uncertain risk wrong assumption",
+          "skills": [
+            {
+              "id": 73,
+              "name": "Assumption Mapping",
+              "tag": "Surface and prioritise the beliefs the plan depends on",
+              "chain": false
+            },
+            {
+              "id": 223,
+              "name": "Steelmanning",
+              "tag": "Build the strongest case against the plan — if you can't, you don't understand the fragility",
+              "chain": false
+            },
+            {
+              "id": 10,
+              "name": "Pre-mortem",
+              "tag": "Imagine it's already failed — what went wrong?",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You want to challenge your own reasoning",
+          "keywords": "pressure test reasoning bias blind spot challenge steelman",
+          "skills": [
+            {
+              "id": 1,
+              "name": "Inversion",
+              "tag": "Flip the question — what would have to be true for this to fail?",
+              "chain": false
+            },
+            {
+              "id": 223,
+              "name": "Steelmanning",
+              "tag": "Build the strongest possible version of the opposing view before engaging it",
+              "chain": false
+            },
+            {
+              "id": 55,
+              "name": "Confirmation Bias",
+              "tag": "We seek evidence that confirms what we already believe",
+              "chain": false
+            },
+            {
+              "id": 204,
+              "name": "Falsification",
+              "tag": "A belief you can't break isn't knowledge — it's faith",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You need independent challenge of a high-stakes plan",
+          "keywords": "red team independent challenge high stakes plan adversarial attack review mandate",
+          "skills": [
+            {
+              "id": 224,
+              "name": "Red Teaming",
+              "tag": "Mandate a team to attack your plan before your adversary does",
+              "chain": false
+            },
+            {
+              "id": 223,
+              "name": "Steelmanning",
+              "tag": "The red team's first job: construct the strongest case against the plan, not the most convenient one",
+              "chain": false
+            },
+            {
+              "id": 10,
+              "name": "Pre-mortem",
+              "tag": "Lighter-weight adversarial tool for the whole group — pairs well with a red team",
+              "chain": false
+            },
+            {
+              "id": 73,
+              "name": "Assumption Mapping",
+              "tag": "Give the red team a structured inventory of what to challenge",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Your forecast feels optimistic and needs calibrating",
+          "keywords": "forecast estimate overoptimistic planning time cost baseline calibrate predict",
+          "skills": [
+            {
+              "id": 206,
+              "name": "Base Rate Neglect",
+              "tag": "Anchor to what similar projects actually took before adjusting for specifics",
+              "chain": false
+            },
+            {
+              "id": 67,
+              "name": "Reference Class Forecasting",
+              "tag": "What did similar initiatives actually take? Start there, then adjust",
+              "chain": false
+            },
+            {
+              "id": 143,
+              "name": "Planning Fallacy",
+              "tag": "We systematically underestimate time, cost, and complexity",
+              "chain": false
+            },
+            {
+              "id": 211,
+              "name": "Calibration",
+              "tag": "Being right on any single call is luck — audit whether your confidence levels match your track record",
+              "chain": false
+            },
+            {
+              "id": 228,
+              "name": "Bayesian Updating",
+              "tag": "As new evidence arrives, update your probability estimate — don't anchor to the original forecast",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You need an estimate but have no hard data",
+          "keywords": "estimate size order magnitude no data rough guess unknown quantify",
+          "skills": [
+            {
+              "id": 233,
+              "name": "Fermi Estimation",
+              "tag": "Decompose the unknowable into factors you can estimate — then triangulate two approaches",
+              "chain": false
+            },
+            {
+              "id": 0,
+              "name": "First Principles",
+              "tag": "Strip inherited assumptions and build up the estimate from ground truth",
+              "chain": false
+            },
+            {
+              "id": 227,
+              "name": "Expected Value",
+              "tag": "Once you have rough magnitudes and probabilities, compute what the decision is actually worth",
+              "chain": false
+            },
+            {
+              "id": 160,
+              "name": "Reference Class Forecasting",
+              "tag": "What did similar situations produce? Anchor there before adjusting for specifics",
+              "chain": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Teams & People",
+      "situations": [
+        {
+          "label": "Things are moving slowly and you don't know why",
+          "keywords": "slow moving stuck bottleneck not getting done throughput",
+          "skills": [
+            {
+              "id": 18,
+              "name": "Bottlenecks",
+              "tag": "The constraint that governs throughput — fix here, not elsewhere",
+              "chain": false
+            },
+            {
+              "id": 132,
+              "name": "WIP Limits",
+              "tag": "Explicit caps on in-progress work that pull rather than push",
+              "chain": false
+            },
+            {
+              "id": 255,
+              "name": "Technical Debt",
+              "tag": "Accumulated shortcuts are taxing every delivery — measure the interest payment before reaching for more headcount",
+              "chain": false
+            },
+            {
+              "id": 17,
+              "name": "Feedback Loops",
+              "tag": "Outputs that become inputs — find where the signal is missing",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Delivery has been getting slower despite no reduction in team size",
+          "keywords": "delivery slowing down declining throughput slower output engineering velocity degrading over time months despite headcount stable",
+          "skills": [
+            {
+              "id": 255,
+              "name": "Technical Debt",
+              "tag": "The interest payment on past shortcuts is consuming delivery capacity — quantify the drag before adding headcount",
+              "chain": false
+            },
+            {
+              "id": 18,
+              "name": "Bottlenecks",
+              "tag": "Identify the single constraint; everything else is noise",
+              "chain": false
+            },
+            {
+              "id": 260,
+              "name": "Fixes That Fail",
+              "tag": "Adding engineers is the classic symptomatic fix for a delivery slowdown caused by structural debt — it temporarily relieves pressure while making the root cause harder to address",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "A team isn't working well together",
+          "keywords": "team not working conflict tension trust collaboration",
+          "skills": [
+            {
+              "id": 104,
+              "name": "Psychological Safety",
+              "tag": "Safe to speak up, admit mistakes, challenge assumptions",
+              "chain": false
+            },
+            {
+              "id": 51,
+              "name": "Incentives",
+              "tag": "Behaviour follows reward structures — check the incentives first",
+              "chain": false
+            },
+            {
+              "id": 17,
+              "name": "Feedback Loops",
+              "tag": "Outputs that become inputs — find where the signal is missing",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're trying to change something but hitting resistance",
+          "keywords": "change resistance pushback stuck won't adopt coalition stakeholder",
+          "skills": [
+            {
+              "id": 234,
+              "name": "Overton Window",
+              "tag": "Diagnose whether resistance is intellectual or political — if the idea is outside the window, shift the window before making the ask",
+              "chain": false
+            },
+            {
+              "id": 220,
+              "name": "Power Mapping",
+              "tag": "Map who actually decides and who holds informal veto power before designing the influence strategy",
+              "chain": false
+            },
+            {
+              "id": 222,
+              "name": "Coalition Building",
+              "tag": "Assemble the minimum winning coalition in the right sequence before going public",
+              "chain": false
+            },
+            {
+              "id": 167,
+              "name": "Immunity to Change",
+              "tag": "Why rational plans fail — hidden competing commitments",
+              "chain": false
+            },
+            {
+              "id": 205,
+              "name": "Commitment & Consistency Bias",
+              "tag": "Prior commitments are pulling against the change — this is structural, not personal",
+              "chain": false
+            },
+            {
+              "id": 125,
+              "name": "Change Management",
+              "tag": "Kotter's 8 steps: the human-side architecture of transformation",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "The organisation keeps repeating the same mistakes",
+          "keywords": "same mistakes repeat pattern not learning organisation",
+          "skills": [
+            {
+              "id": 173,
+              "name": "Dominant Logic",
+              "tag": "How past success becomes future blindspot",
+              "chain": false
+            },
+            {
+              "id": 261,
+              "name": "Systems Thinking",
+              "tag": "Repeated mistakes are structural — find the feedback loop that makes the mistake individually rational each time it occurs",
+              "chain": false
+            },
+            {
+              "id": 207,
+              "name": "SRK Framework",
+              "tag": "Classify the error type first — slips, rule mistakes, and knowledge gaps need different fixes",
+              "chain": false
+            },
+            {
+              "id": 200,
+              "name": "Fundamental Attribution Error",
+              "tag": "Check whether you're diagnosing a people problem when it's a system problem",
+              "chain": false
+            },
+            {
+              "id": 17,
+              "name": "Feedback Loops",
+              "tag": "Outputs that become inputs — find where the signal is missing",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "A long-running system or process is quietly deteriorating",
+          "keywords": "degrading declining drift deterioration normalised deviance margin eroding quietly slowly",
+          "skills": [
+            {
+              "id": 208,
+              "name": "Drift to Failure",
+              "tag": "Systems migrate toward unsafe boundaries through accumulated reasonable decisions",
+              "chain": false
+            },
+            {
+              "id": 261,
+              "name": "Systems Thinking",
+              "tag": "Map the feedback loops sustaining the deterioration — the symptom and the structure producing it are rarely in the same place",
+              "chain": false
+            },
+            {
+              "id": 174,
+              "name": "Goodhart's Law",
+              "tag": "When a measure becomes a target, it ceases to be a good measure",
+              "chain": false
+            },
+            {
+              "id": 241,
+              "name": "Parkinson's Law",
+              "tag": "Is complexity and headcount growing faster than output? That's Parkinson, not growth",
+              "chain": false
+            },
+            {
+              "id": 205,
+              "name": "Commitment & Consistency Bias",
+              "tag": "Prior investments are making the deterioration hard to name and act on",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "The organisation is underperforming and you can't name why",
+          "keywords": "organisation underperforming something wrong can't name slow bureaucracy degrading leadership",
+          "skills": [
+            {
+              "id": null,
+              "name": "Organisational Degradation Scan",
+              "tag": "7-step diagnostic: drift → scale → bureaucracy → management → metrics → structure → incentives",
+              "chain": true
+            },
+            {
+              "id": 208,
+              "name": "Drift to Failure",
+              "tag": "The universal precondition: standards eroding without conscious decision",
+              "chain": false
+            },
+            {
+              "id": 243,
+              "name": "Dunbar's Number",
+              "tag": "Has the org outgrown the coordination model that made it effective?",
+              "chain": false
+            },
+            {
+              "id": 241,
+              "name": "Parkinson's Law",
+              "tag": "Is the administrative layer expanding faster than the value-creating layer?",
+              "chain": false
+            },
+            {
+              "id": 242,
+              "name": "Peter Principle",
+              "tag": "Has promotion-on-past-performance filled management roles with the wrong capability?",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "The organisation has grown and what worked before no longer does",
+          "keywords": "organisation scaled grown large team coordination culture broken what worked before",
+          "skills": [
+            {
+              "id": 243,
+              "name": "Dunbar's Number",
+              "tag": "At ~150, relational coordination breaks — you need institutional mechanisms to replace it",
+              "chain": false
+            },
+            {
+              "id": 257,
+              "name": "Span of Control",
+              "tag": "As teams grew past 8–10, did coordination overhead eat the productivity gain? Check team sizes before diagnosing a culture problem",
+              "chain": false
+            },
+            {
+              "id": 28,
+              "name": "Conway's Law",
+              "tag": "The informal communication patterns of the small org become the rigid architecture of the large one",
+              "chain": false
+            },
+            {
+              "id": 241,
+              "name": "Parkinson's Law",
+              "tag": "Growth attracts administrative expansion that consumes the gains from scale",
+              "chain": false
+            },
+            {
+              "id": 242,
+              "name": "Peter Principle",
+              "tag": "Rapid growth accelerates promotion — which accelerates Peter Principle accumulation",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "A shared resource or platform is degrading from underinvestment",
+          "keywords": "shared resource service degrading underinvested free ride team platform commons infrastructure",
+          "skills": [
+            {
+              "id": 231,
+              "name": "Tragedy of the Commons",
+              "tag": "Each team rationally underinvests — the shared resource degrades anyway",
+              "chain": false
+            },
+            {
+              "id": 232,
+              "name": "Free Rider Problem",
+              "tag": "Benefits are shared; contribution isn't — make contribution visible and attributable",
+              "chain": false
+            },
+            {
+              "id": 262,
+              "name": "Incentive Design",
+              "tag": "Redesign who benefits and who pays — the commons collapses when the incentive structure separates reward from contribution",
+              "chain": false
+            },
+            {
+              "id": 51,
+              "name": "Incentives",
+              "tag": "The structure, not the people, is the problem — diagnose the incentives first",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're designing how a team or org should work",
+          "keywords": "design team structure org roles reporting Conway",
+          "skills": [
+            {
+              "id": 243,
+              "name": "Dunbar's Number",
+              "tag": "At ~150 people, relational coordination breaks — design the transition before you need it",
+              "chain": false
+            },
+            {
+              "id": 154,
+              "name": "Team Topologies",
+              "tag": "Four team types and three interaction modes for fast flow",
+              "chain": false
+            },
+            {
+              "id": 257,
+              "name": "Span of Control",
+              "tag": "Teams larger than 8–10 create coordination overhead that grows faster than the headcount — design team size alongside team type",
+              "chain": false
+            },
+            {
+              "id": 28,
+              "name": "Conway's Law",
+              "tag": "Systems mirror the communication structures that build them",
+              "chain": false
+            },
+            {
+              "id": 127,
+              "name": "RACI Framework",
+              "tag": "One Accountable per activity — makes accountability visible",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Your team loses shared understanding during a project",
+          "keywords": "shared understanding brief misaligned execution project",
+          "skills": [
+            {
+              "id": 194,
+              "name": "Leader's Intent",
+              "tag": "Purpose, key tasks, end state — guides judgment when the plan breaks",
+              "chain": false
+            },
+            {
+              "id": 195,
+              "name": "Brief-Back Protocols",
+              "tag": "Two checkpoints that close the gap between intent and execution",
+              "chain": false
+            },
+            {
+              "id": 118,
+              "name": "Mission Command",
+              "tag": "Communicate intent, not method — trust the person closest to the problem",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "People can't say why their work matters",
+          "keywords": "purpose meaning why work matters motivation engagement",
+          "skills": [
+            {
+              "id": 193,
+              "name": "Purpose Clarity",
+              "tag": "If your team can't say it in 30 seconds, that's a leadership diagnostic",
+              "chain": false
+            },
+            {
+              "id": 192,
+              "name": "Self-Determination Theory",
+              "tag": "Autonomy, competence, relatedness — the three conditions for intrinsic motivation",
+              "chain": false
+            },
+            {
+              "id": 118,
+              "name": "Mission Command",
+              "tag": "Communicate intent, not method — trust the person closest to the problem",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Meetings are consuming your team's calendar",
+          "keywords": "meetings too many calendar waste time sync",
+          "skills": [
+            {
+              "id": 191,
+              "name": "Async-First Default",
+              "tag": "Default to writing; a meeting needs an affirmative case for real-time exchange",
+              "chain": false
+            },
+            {
+              "id": 190,
+              "name": "Three-Question Ritual",
+              "tag": "Three questions that close any meeting: decision, owner, who needs to know",
+              "chain": false
+            },
+            {
+              "id": 116,
+              "name": "Maker's Schedule vs. Manager's Schedule",
+              "tag": "One meeting in a maker's afternoon costs the whole block",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Leadership wants a fixed plan but the work is complex",
+          "keywords": "fixed plan roadmap complex uncertain agile deterministic commit governance inspect adapt",
+          "skills": [
+            {
+              "id": 209,
+              "name": "Empirical Process Control",
+              "tag": "In complex work the plan should state the goal — the rest is hypothesis to be tested",
+              "chain": false
+            },
+            {
+              "id": 122,
+              "name": "Cynefin Framework",
+              "tag": "Distinguish complex from complicated — fixed plans suit complicated; probe-sense-respond suits complex",
+              "chain": false
+            },
+            {
+              "id": 141,
+              "name": "Probabilistic Forecasting",
+              "tag": "Replace single-date commitments with confidence-tagged ranges grounded in actual throughput",
+              "chain": false
+            },
+            {
+              "id": 10,
+              "name": "Pre-mortem",
+              "tag": "Name what would have to be true for the fixed plan to survive contact with reality",
+              "chain": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Execution & Delivery",
+      "situations": [
+        {
+          "label": "A metric is going the wrong way",
+          "keywords": "metric wrong KPI number declining performance",
+          "skills": [
+            {
+              "id": 17,
+              "name": "Feedback Loops",
+              "tag": "Find where the system is amplifying the wrong signal",
+              "chain": false
+            },
+            {
+              "id": 2,
+              "name": "Second-Order Effects",
+              "tag": "What happens after what happens — trace the chain",
+              "chain": false
+            },
+            {
+              "id": 250,
+              "name": "KPI Architecture",
+              "tag": "Before chasing the number, check whether it was ever wired to the outcome it claims to represent — a metric in the wrong tier produces confident motion in the wrong direction",
+              "chain": false
+            },
+            {
+              "id": 55,
+              "name": "Confirmation Bias",
+              "tag": "Check whether you're only looking at data that confirms the story",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Work is piling up and not getting shipped",
+          "keywords": "work piling up queue backlog not shipping",
+          "skills": [
+            {
+              "id": 132,
+              "name": "WIP Limits",
+              "tag": "Explicit caps on in-progress work that pull rather than push",
+              "chain": false
+            },
+            {
+              "id": 18,
+              "name": "Bottlenecks",
+              "tag": "Fix the constraint — improvements elsewhere don't move throughput",
+              "chain": false
+            },
+            {
+              "id": 17,
+              "name": "Feedback Loops",
+              "tag": "Outputs that become inputs — find where flow is blocked",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Incidents keep interrupting feature work and you need to decide whether to slow down",
+          "keywords": "incidents interrupting feature work reliability unstable outages error budget service level engineering stability",
+          "skills": [
+            {
+              "id": 256,
+              "name": "Reliability vs. Feature Velocity",
+              "tag": "Make the trade-off explicit with an error budget — what is the allowable failure rate, and are you inside or outside it?",
+              "chain": false
+            },
+            {
+              "id": 255,
+              "name": "Technical Debt",
+              "tag": "Rising incident rate is usually the interest payment on accumulated shortcuts",
+              "chain": false
+            },
+            {
+              "id": 153,
+              "name": "Kill Criteria",
+              "tag": "Pre-commit the pause trigger: if the error budget exhausts, feature releases stop — remove the decision from real-time pressure",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You need to prioritise what to work on",
+          "keywords": "prioritise prioritization what to work on next",
+          "skills": [
+            {
+              "id": 137,
+              "name": "Cost of Delay",
+              "tag": "The economic value of completing something one period sooner",
+              "chain": false
+            },
+            {
+              "id": 152,
+              "name": "OKRs",
+              "tag": "Outcome-anchored alignment — what matters and how you'll measure it",
+              "chain": false
+            },
+            {
+              "id": 16,
+              "name": "Two-Way Doors",
+              "tag": "Reversible decisions deserve speed; irreversible ones deserve deliberation",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "The team is busy but not moving the needle",
+          "keywords": "output outcomes busy not moving needle feature factory",
+          "skills": [
+            {
+              "id": 103,
+              "name": "Jobs to Be Done",
+              "tag": "People hire products to make progress in a moment of struggle",
+              "chain": false
+            },
+            {
+              "id": 152,
+              "name": "OKRs",
+              "tag": "Outcome-anchored alignment — are you measuring what matters?",
+              "chain": false
+            },
+            {
+              "id": 209,
+              "name": "Empirical Process Control",
+              "tag": "Shorten the inspect-and-adapt cycle so feedback drives the next sprint, not next quarter",
+              "chain": false
+            },
+            {
+              "id": 73,
+              "name": "Assumption Mapping",
+              "tag": "Surface and prioritise the beliefs the plan depends on",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "A project has gone off track mid-execution",
+          "keywords": "project off track derailed mid execution wrong direction",
+          "skills": [
+            {
+              "id": 197,
+              "name": "Tactical Pause",
+              "tag": "Deliberate halt: stop, gather, think, move — takes minutes, saves weeks",
+              "chain": false
+            },
+            {
+              "id": 119,
+              "name": "OODA Loop",
+              "tag": "Observe, Orient, Decide, Act — reset the decision cycle",
+              "chain": false
+            },
+            {
+              "id": 209,
+              "name": "Empirical Process Control",
+              "tag": "If the plan can't adapt, the problem is the governance — not the team",
+              "chain": false
+            },
+            {
+              "id": 194,
+              "name": "Leader's Intent",
+              "tag": "Return to purpose and end state when the plan breaks",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Teams aren't learning from completed projects",
+          "keywords": "learning retrospective after project review lessons",
+          "skills": [
+            {
+              "id": 196,
+              "name": "After-Action Review",
+              "tag": "Four questions, immediately after, by the people who did the work",
+              "chain": false
+            },
+            {
+              "id": 11,
+              "name": "Post-mortem",
+              "tag": "Structural learning from what happened — without blame",
+              "chain": false
+            },
+            {
+              "id": 17,
+              "name": "Feedback Loops",
+              "tag": "Outputs that become inputs — close the loop deliberately",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're running a post-mortem and want it to produce honest learning",
+          "keywords": "post-mortem retrospective honest bias hindsight blame what went wrong learning quality",
+          "skills": [
+            {
+              "id": 201,
+              "name": "Hindsight Bias",
+              "tag": "\"I knew it all along\" — reconstruct what was actually known at decision time",
+              "chain": false
+            },
+            {
+              "id": 200,
+              "name": "Fundamental Attribution Error",
+              "tag": "Separate person-factors from system-factors before drawing conclusions",
+              "chain": false
+            },
+            {
+              "id": 199,
+              "name": "Survivorship Bias",
+              "tag": "The failed attempts hold as much signal as the success — include them",
+              "chain": false
+            },
+            {
+              "id": 207,
+              "name": "SRK Framework",
+              "tag": "Was this a slip, a rule mistake, or a knowledge gap? The fix is different each time",
+              "chain": false
+            },
+            {
+              "id": 203,
+              "name": "Narrative Instinct",
+              "tag": "Check whether the post-mortem is fitting evidence to a satisfying story",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Launching a project and need shared understanding from the start",
+          "keywords": "launching project brief team kickoff shared understanding",
+          "skills": [
+            {
+              "id": null,
+              "name": "Mission Execution Protocol",
+              "tag": "6-step protocol: intent → brief-back → execute → pause → learn",
+              "chain": true
+            },
+            {
+              "id": 194,
+              "name": "Leader's Intent",
+              "tag": "Purpose, key tasks, end state — brief before any plan",
+              "chain": false
+            },
+            {
+              "id": 195,
+              "name": "Brief-Back Protocols",
+              "tag": "Close the comprehension gap before resources are committed",
+              "chain": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Strategy & Markets",
+      "situations": [
+        {
+          "label": "You're considering entering a new market",
+          "keywords": "new market enter expand geography segment",
+          "skills": [
+            {
+              "id": null,
+              "name": "Market Entry",
+              "tag": "Structured assessment across attractiveness, fit, and path to scale",
+              "chain": true
+            }
+          ]
+        },
+        {
+          "label": "You need to set or change pricing",
+          "keywords": "pricing price strategy model change value willingness to pay cost floor ceiling",
+          "skills": [
+            {
+              "id": 217,
+              "name": "Value Creation and Capture",
+              "tag": "The upstream question: how much value is created and what fraction can be retained?",
+              "chain": false
+            },
+            {
+              "id": 219,
+              "name": "Pricing Logic",
+              "tag": "Cost-plus tells you what you paid — value-based asks what it's worth to them",
+              "chain": false
+            },
+            {
+              "id": 216,
+              "name": "Unit Economics",
+              "tag": "Downstream check: does this price produce unit economics that work at scale?",
+              "chain": false
+            },
+            {
+              "id": null,
+              "name": "Pricing Decision",
+              "tag": "Full chain: value, cost floor, competitive ceiling, and customer psychology",
+              "chain": true
+            }
+          ]
+        },
+        {
+          "label": "You're thinking about competitive position",
+          "keywords": "competition competitive position moat advantage defend value capture",
+          "skills": [
+            {
+              "id": 248,
+              "name": "Profit Pool Analysis",
+              "tag": "Map where the profit actually concentrates across the value chain — share of revenue and share of profit are rarely the same number",
+              "chain": false
+            },
+            {
+              "id": 217,
+              "name": "Value Creation and Capture",
+              "tag": "Competitive advantage is a value capture problem — identify what forces determine your share of created value",
+              "chain": false
+            },
+            {
+              "id": 229,
+              "name": "Nash Equilibrium",
+              "tag": "What is the stable end-state of this competitive situation — and is it where you want to end up?",
+              "chain": false
+            },
+            {
+              "id": 238,
+              "name": "Power Law",
+              "tag": "In power law markets, the middle is the worst position — choose to dominate a category or own a niche",
+              "chain": false
+            },
+            {
+              "id": 82,
+              "name": "Network Effects",
+              "tag": "Value increases with every additional participant — check if you have them",
+              "chain": false
+            },
+            {
+              "id": 235,
+              "name": "Path Dependence",
+              "tag": "What is your competitor locked into that you can escape — and what are you locked into that they can exploit?",
+              "chain": false
+            },
+            {
+              "id": 173,
+              "name": "Dominant Logic",
+              "tag": "How past success becomes future blindspot for incumbents",
+              "chain": false
+            },
+            {
+              "id": 210,
+              "name": "Wardley Mapping",
+              "tag": "Map the evolution of every component — is your claimed differentiation actually defensible?",
+              "chain": false
+            },
+            {
+              "id": 254,
+              "name": "Playing to Win",
+              "tag": "Where to play, how to win, what capabilities, what systems — five choices that must cascade to form a coherent competitive strategy",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "An incumbent can't see an emerging threat",
+          "keywords": "incumbent threat disruption can't see blind spot",
+          "skills": [
+            {
+              "id": 173,
+              "name": "Dominant Logic",
+              "tag": "How past success becomes future blindspot",
+              "chain": false
+            },
+            {
+              "id": 55,
+              "name": "Confirmation Bias",
+              "tag": "We seek evidence that confirms what we already believe",
+              "chain": false
+            },
+            {
+              "id": 2,
+              "name": "Second-Order Effects",
+              "tag": "What happens after what happens?",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You need to decide what to build vs. buy vs. partner on",
+          "keywords": "build buy partner outsource vendor make or buy component technology decision",
+          "skills": [
+            {
+              "id": 210,
+              "name": "Wardley Mapping",
+              "tag": "Commodity components should be bought; Genesis is where you build — the map makes this explicit",
+              "chain": false
+            },
+            {
+              "id": 73,
+              "name": "Assumption Mapping",
+              "tag": "Surface which assumptions about uniqueness and competitive value actually hold",
+              "chain": false
+            },
+            {
+              "id": 160,
+              "name": "Reference Class Forecasting",
+              "tag": "What did similar build decisions actually cost organisations like yours?",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're making long-term strategic decisions",
+          "keywords": "long term future horizon compounding platform",
+          "skills": [
+            {
+              "id": 240,
+              "name": "Black Swan",
+              "tag": "In fat-tailed domains, the event that dominates outcomes is the one your model excluded — build robustness, not just prediction",
+              "chain": false
+            },
+            {
+              "id": 238,
+              "name": "Power Law",
+              "tag": "Long-run outcomes in most markets are dominated by a small number of inputs — identify and invest in the compounding engine",
+              "chain": false
+            },
+            {
+              "id": 82,
+              "name": "Network Effects",
+              "tag": "Value increases with every additional participant",
+              "chain": false
+            },
+            {
+              "id": 113,
+              "name": "Three Horizons",
+              "tag": "Manage core, emerging, and future businesses simultaneously",
+              "chain": false
+            },
+            {
+              "id": 2,
+              "name": "Second-Order Effects",
+              "tag": "What happens after what happens?",
+              "chain": false
+            },
+            {
+              "id": 210,
+              "name": "Wardley Mapping",
+              "tag": "Show not just where things are but which direction they're moving — strategy responds to movement",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Your risk model may be missing a catastrophic scenario",
+          "keywords": "risk catastrophic tail event model missing scenario extreme unlikely worst case insurance",
+          "skills": [
+            {
+              "id": 240,
+              "name": "Black Swan",
+              "tag": "The event that dominates outcomes is precisely the one your model excluded — build robustness, not prediction",
+              "chain": false
+            },
+            {
+              "id": 238,
+              "name": "Power Law",
+              "tag": "In power law domains, extreme events are not rare — they are structurally expected",
+              "chain": false
+            },
+            {
+              "id": 24,
+              "name": "Margin of Safety",
+              "tag": "Size your buffer to what the system must survive, not to the average case",
+              "chain": false
+            },
+            {
+              "id": 123,
+              "name": "Scenario Planning",
+              "tag": "After completing the scenarios, ask: what event would invalidate all of them simultaneously?",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're building or evaluating a platform or marketplace",
+          "keywords": "platform marketplace two-sided network niche aggregation distribution digital",
+          "skills": [
+            {
+              "id": 239,
+              "name": "Long Tail",
+              "tag": "When distribution costs collapse, the aggregate of niches can beat the hits — and it's the moat",
+              "chain": false
+            },
+            {
+              "id": 82,
+              "name": "Network Effects",
+              "tag": "Value increases with every additional participant — identify your flywheel",
+              "chain": false
+            },
+            {
+              "id": 84,
+              "name": "Marketplace",
+              "tag": "Two-sided markets require solving chicken-and-egg before the network effect kicks in",
+              "chain": false
+            },
+            {
+              "id": 85,
+              "name": "Defensibility",
+              "tag": "Deep tail coverage is harder to replicate than head coverage — that's your moat",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Growth has stalled and you can't name the constraint",
+          "keywords": "growth stalled plateau slowdown can't scale stuck flat revenue not growing barrier constraint",
+          "skills": [
+            {
+              "id": 246,
+              "name": "Situation Assessment",
+              "tag": "Build the fact base before diagnosing — \"growth has slowed\" is a symptom, not a structure; find out what actually changed and when",
+              "chain": false
+            },
+            {
+              "id": 247,
+              "name": "Growth Barriers",
+              "tag": "Name which of the handful of structural patterns is actually constraining you — market, product, channel, or organisational — before reaching for more of what used to work",
+              "chain": false
+            },
+            {
+              "id": 18,
+              "name": "Bottlenecks",
+              "tag": "Whatever the barrier turns out to be, it behaves like a constraint — fix that one thing; improvements elsewhere won't move the number",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "An investment was approved — now you need it to actually deliver",
+          "keywords": "investment approved funded now what make it stick deliver value realize benefits track after the fact follow through programme delivered but",
+          "skills": [
+            {
+              "id": 251,
+              "name": "Value Realization",
+              "tag": "Approval is not delivery — name who owns the benefit, by when, and what would prove it happened, or the business case quietly becomes fiction",
+              "chain": false
+            },
+            {
+              "id": 218,
+              "name": "Business Case Construction",
+              "tag": "Go back to the case that won approval — the benefits it promised are the ones you're now accountable for realising",
+              "chain": false
+            },
+            {
+              "id": 153,
+              "name": "Kill Criteria",
+              "tag": "Set the threshold for \"this isn't working\" before the programme builds momentum that makes it politically impossible to stop",
+              "chain": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Innovation",
+      "situations": [
+        {
+          "label": "You're building something new and need to validate it",
+          "keywords": "building new product service startup validate unit economics",
+          "skills": [
+            {
+              "id": 63,
+              "name": "Build-Measure-Learn",
+              "tag": "Validated learning in minimum iterations",
+              "chain": false
+            },
+            {
+              "id": 62,
+              "name": "Product-Market Fit",
+              "tag": "The product satisfies a strong market need — test before scaling",
+              "chain": false
+            },
+            {
+              "id": 216,
+              "name": "Unit Economics",
+              "tag": "Before scaling, verify the economics work per customer — LTV:CAC, payback period, contribution margin",
+              "chain": false
+            },
+            {
+              "id": 213,
+              "name": "From Idea to Hypothesis",
+              "tag": "Convert the idea into a falsifiable prediction with a kill condition before committing experiment capacity",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're not sure what to build next",
+          "keywords": "what to build next roadmap discovery opportunity",
+          "skills": [
+            {
+              "id": 103,
+              "name": "Jobs to Be Done",
+              "tag": "People hire products to make progress in a moment of struggle",
+              "chain": false
+            },
+            {
+              "id": 249,
+              "name": "Customer Segmentation",
+              "tag": "Discovering jobs and grouping customers by which jobs they share — and how much each group is worth pursuing — are different activities; don't conflate them",
+              "chain": false
+            },
+            {
+              "id": 73,
+              "name": "Assumption Mapping",
+              "tag": "Surface and prioritise the beliefs the plan depends on",
+              "chain": false
+            },
+            {
+              "id": 213,
+              "name": "From Idea to Hypothesis",
+              "tag": "Before committing to the next experiment, convert each candidate into a testable hypothesis with explicit kill criteria",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You have a raw idea and need to enrich it before the funnel",
+          "keywords": "raw idea enrich first principles jobs to be done strategic fit horizon intake funnel gate unclear mechanism analogy",
+          "skills": [
+            {
+              "id": null,
+              "name": "Funnel Intake",
+              "tag": "Strip the idea to its mechanism, anchor it to a real job, run the strategic fit gate — before committing funnel capacity",
+              "chain": true
+            },
+            {
+              "id": 0,
+              "name": "First Principles",
+              "tag": "Strip convention from the idea — separate genuine constraints from inherited assumptions masquerading as facts",
+              "chain": false
+            },
+            {
+              "id": 103,
+              "name": "Jobs to Be Done",
+              "tag": "Anchor to the job the customer is already trying to do — name the workaround before anything else",
+              "chain": false
+            },
+            {
+              "id": 113,
+              "name": "Three Horizons",
+              "tag": "Classify the idea by horizon before applying management logic — H3 ideas killed by H1 metrics are not failures, they are mismatches",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You have a funnel idea and need to make it testable",
+          "keywords": "funnel idea hypothesis testable falsifiable experiment ready test validate innovation lab",
+          "skills": [
+            {
+              "id": 245,
+              "name": "Funnel Intake",
+              "tag": "If the idea hasn't been enriched yet, start here — strips analogy to mechanism and runs the strategic fit gate",
+              "chain": false
+            },
+            {
+              "id": 213,
+              "name": "From Idea to Hypothesis",
+              "tag": "Surface the riskiest assumption, restate it as a falsifiable prediction, agree the kill condition",
+              "chain": false
+            },
+            {
+              "id": 73,
+              "name": "Assumption Mapping",
+              "tag": "Every idea rests on a stack of assumptions — map them before committing to an experiment",
+              "chain": false
+            },
+            {
+              "id": 225,
+              "name": "A/B Testing",
+              "tag": "Once the hypothesis is formed, A/B testing is how you let reality decide — pre-specify success before running",
+              "chain": false
+            },
+            {
+              "id": 153,
+              "name": "Kill Criteria",
+              "tag": "Agree what failure looks like before the experiment runs — without it, every result is a reason to continue",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're running a staged experiment",
+          "keywords": "staged experiment crawl walk run feasibility validation real data proof of concept production ab split test",
+          "skills": [
+            {
+              "id": 214,
+              "name": "Crawl / Walk / Run",
+              "tag": "Does it work? Does it work well enough? Does it work on real data? Fail the gate or earn the next stage",
+              "chain": false
+            },
+            {
+              "id": 225,
+              "name": "A/B Testing",
+              "tag": "At the walk stage: pre-specify the metric, calculate required sample size, run to completion — don't peek",
+              "chain": false
+            },
+            {
+              "id": 72,
+              "name": "Experiment Design",
+              "tag": "Pre-define success criteria before the experiment runs — not after the results come in",
+              "chain": false
+            },
+            {
+              "id": 153,
+              "name": "Kill Criteria",
+              "tag": "Each gate has a kill condition; honouring it is what makes the stages real",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're unsure if your org can actually innovate",
+          "keywords": "innovation capability can organization actually innovate",
+          "skills": [
+            {
+              "id": null,
+              "name": "Innovation Capability Diagnostic",
+              "tag": "Structured assessment of innovation readiness across five dimensions",
+              "chain": true
+            }
+          ]
+        },
+        {
+          "label": "You're setting up an innovation programme",
+          "keywords": "innovation program lab venture studio set up",
+          "skills": [
+            {
+              "id": null,
+              "name": "Design and Launch an Innovation Program",
+              "tag": "End-to-end chain: from diagnosis to operating model",
+              "chain": true
+            },
+            {
+              "id": 113,
+              "name": "Three Horizons",
+              "tag": "Manage core, emerging, and future businesses simultaneously",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "A change programme isn't working — and may be sustaining the problem",
+          "keywords": "change programme not working sustaining problem metrics gaming activity not outcome cobra intervention backfire",
+          "skills": [
+            {
+              "id": 237,
+              "name": "Cobra Effect",
+              "tag": "Ask: who or what now depends on this problem continuing? If the answer includes something the programme created, you have a cobra",
+              "chain": false
+            },
+            {
+              "id": 262,
+              "name": "Incentive Design",
+              "tag": "Model who benefits from the programme continuing vs. the problem being solved — if those are different people, that's your mechanism",
+              "chain": false
+            },
+            {
+              "id": 120,
+              "name": "Goodhart's Law",
+              "tag": "Is the programme measuring activity (ideas submitted, trainings completed) or the outcome it was commissioned to produce?",
+              "chain": false
+            },
+            {
+              "id": 10,
+              "name": "Pre-mortem",
+              "tag": "Run the cobra risk assessment as a pre-mortem: assume the programme became a cobra — what was the mechanism?",
+              "chain": false
+            },
+            {
+              "id": 121,
+              "name": "Principal–Agent Problem",
+              "tag": "Programme owners are accountable for programme delivery — not for the underlying problem. That's the structural misalignment",
+              "chain": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Communication & Influence",
+      "situations": [
+        {
+          "label": "You need to convince someone who is resistant",
+          "keywords": "convince persuade stakeholder buy-in resistant",
+          "skills": [
+            {
+              "id": 252,
+              "name": "Stakeholder Pre-Wiring",
+              "tag": "The room should already agree before the meeting starts — surface objections one-on-one, not for the first time in front of an audience",
+              "chain": false
+            },
+            {
+              "id": 220,
+              "name": "Power Mapping",
+              "tag": "Understand who actually influences the decision before targeting the wrong person",
+              "chain": false
+            },
+            {
+              "id": 221,
+              "name": "Influence Without Authority",
+              "tag": "Lead with their agenda before yours — credibility must be funded before you draw on it",
+              "chain": false
+            },
+            {
+              "id": 52,
+              "name": "Loss Aversion",
+              "tag": "Losses hurt more than equivalent gains — frame around what they'd lose",
+              "chain": false
+            },
+            {
+              "id": 202,
+              "name": "Social Proof",
+              "tag": "Show them who else has already adopted — people look sideways when uncertain",
+              "chain": false
+            },
+            {
+              "id": 51,
+              "name": "Incentives",
+              "tag": "Behaviour follows reward structures — align with what they care about",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're trying to drive adoption of a new practice or behaviour",
+          "keywords": "adoption behaviour spread new practice norm culture shift drive roll out",
+          "skills": [
+            {
+              "id": 202,
+              "name": "Social Proof",
+              "tag": "Make adoption visible — people follow observed behaviour when uncertain",
+              "chain": false
+            },
+            {
+              "id": 21,
+              "name": "Activation Energy",
+              "tag": "Lower the energy required to take the first step",
+              "chain": false
+            },
+            {
+              "id": 205,
+              "name": "Commitment & Consistency Bias",
+              "tag": "A small early public commitment makes future adoption significantly more likely",
+              "chain": false
+            },
+            {
+              "id": 91,
+              "name": "Framing",
+              "tag": "How you describe the change shapes whether it feels like a gain or a loss",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You need to communicate a complex finding clearly",
+          "keywords": "communicate finding insight complex executive senior detail level brief",
+          "skills": [
+            {
+              "id": 226,
+              "name": "Grice's Maxims",
+              "tag": "Calibrate detail to the decision the reader needs to make — no more, no less",
+              "chain": false
+            },
+            {
+              "id": 163,
+              "name": "Pyramid Principle",
+              "tag": "Answer first — then support, then evidence",
+              "chain": false
+            },
+            {
+              "id": 91,
+              "name": "Framing",
+              "tag": "The frame shapes how the content is received",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "Your communication is landing wrong — too much detail, too little, or off-target",
+          "keywords": "too much detail not enough wrong level pitch audience brief board deck memo",
+          "skills": [
+            {
+              "id": 226,
+              "name": "Grice's Maxims",
+              "tag": "The right level isn't about how much you know — it's about what decision the reader needs to make",
+              "chain": false
+            },
+            {
+              "id": 163,
+              "name": "Pyramid Principle",
+              "tag": "Answer first — structure in reading order, not construction order",
+              "chain": false
+            },
+            {
+              "id": 90,
+              "name": "Audience",
+              "tag": "Who is in the room? What do they need to decide? What do they already know?",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You need to structure a complex problem for an executive",
+          "keywords": "structure problem client consulting diagnosis",
+          "skills": [
+            {
+              "id": 253,
+              "name": "Structured Problem Solving",
+              "tag": "Answer-first, hypothesis-led, MECE — the integrated posture that turns scattered facts into a defensible recommendation",
+              "chain": false
+            },
+            {
+              "id": 162,
+              "name": "MECE",
+              "tag": "Mutually Exclusive, Collectively Exhaustive — no gaps, no overlaps",
+              "chain": false
+            },
+            {
+              "id": 163,
+              "name": "Pyramid Principle",
+              "tag": "Answer first — then support, then evidence",
+              "chain": false
+            },
+            {
+              "id": 226,
+              "name": "Grice's Maxims",
+              "tag": "Calibrate detail to the executive's decision — include what changes the call, cut what doesn't",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You're making a significant hire or promotion decision",
+          "keywords": "hiring hire recruit significant role team promote promotion",
+          "skills": [
+            {
+              "id": null,
+              "name": "Hiring Decision",
+              "tag": "Structured chain: role design, evaluation, and decision criteria",
+              "chain": true
+            },
+            {
+              "id": 242,
+              "name": "Peter Principle",
+              "tag": "Promote on demonstrated capability for the target role — not performance in the current one",
+              "chain": false
+            },
+            {
+              "id": 212,
+              "name": "Observer Bias",
+              "tag": "Evaluators who know what they expect to find will find it — blind the scoring before revealing the name",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You want to leave the client more capable, not dependent on you",
+          "keywords": "consultant advisor coach client keeps coming back same problem build capability not dependency leave lasting change practitioner",
+          "skills": [
+            {
+              "id": 258,
+              "name": "Coaching Stance",
+              "tag": "Expert stance builds dependency; coaching stance builds capability — the choice is made at contracting, not in the moment",
+              "chain": false
+            },
+            {
+              "id": 259,
+              "name": "Facilitation",
+              "tag": "Structured participation in diagnosis and design leaves the client owning the conclusion — which is the condition for them being able to reproduce it without you",
+              "chain": false
+            },
+            {
+              "id": 165,
+              "name": "Engagement Lifecycle",
+              "tag": "The \"detach\" phase of the engagement should leave a capability, not a vacuum — design it from the contracting conversation, not the exit review",
+              "chain": false
+            }
+          ]
+        },
+        {
+          "label": "You need to move something without formal authority",
+          "keywords": "influence without authority lateral cross-functional no rank position power matrix lead across boundaries",
+          "skills": [
+            {
+              "id": 220,
+              "name": "Power Mapping",
+              "tag": "Identify who actually decides and where the informal veto points sit before making any moves",
+              "chain": false
+            },
+            {
+              "id": 221,
+              "name": "Influence Without Authority",
+              "tag": "Build credibility before you need it — influence is borrowed from an account that must be funded first",
+              "chain": false
+            },
+            {
+              "id": 222,
+              "name": "Coalition Building",
+              "tag": "The minimum winning coalition, assembled in the right sequence, creates political facts that opposition can't reverse",
+              "chain": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "AI & Agentic Systems",
+      "situations": [
+        {
+          "label": "You're evaluating whether and how to deploy an AI system",
+          "keywords": "deploy AI system autonomy assessment evaluate",
+          "skills": [
+            {
+              "id": null,
+              "name": "AI Use Case Autonomy Assessment",
+              "tag": "Pre-deployment chain: authority, reversibility, and oversight design",
+              "chain": true
+            }
+          ]
+        },
+        {
+          "label": "You're designing governance for an agentic AI system",
+          "keywords": "AI governance design agentic architecture oversight",
+          "skills": [
+            {
+              "id": null,
+              "name": "AI Agent Governance Design",
+              "tag": "Full governance architecture for autonomous AI systems",
+              "chain": true
+            }
+          ]
+        },
+        {
+          "label": "You need to understand what can go wrong with AI agents",
+          "keywords": "AI go wrong risk failure autonomous agent",
+          "skills": [
+            {
+              "id": 183,
+              "name": "AI Authority Boundaries",
+              "tag": "Where AI may not become a decision-maker — the six registers",
+              "chain": false
+            },
+            {
+              "id": 16,
+              "name": "Two-Way Doors",
+              "tag": "Reversible decisions deserve speed; irreversible ones require human oversight",
+              "chain": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
