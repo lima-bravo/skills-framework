@@ -9,6 +9,11 @@
     "build": "node scripts/build-deck.mjs && node scripts/build-graph.mjs && node scripts/build-guides.mjs && node scripts/check-counts.mjs",
     "build:cowork": "node scripts/build-cowork-skills.mjs",
     "validate:cowork": "node scripts/validate-cowork-skills.mjs",
+    "validate:cards": "node scripts/validate-cards.mjs",
+    "derive:refs": "node scripts/derive-refs.mjs",
+    "generate:ai-index": "node scripts/generate-ai-index.mjs",
+    "build:situation-finder": "node scripts/build-situation-finder.mjs",
+    "snapshot:test": "node scripts/snapshot-test.mjs",
     "check:counts": "node scripts/check-counts.mjs"
   }
 }
