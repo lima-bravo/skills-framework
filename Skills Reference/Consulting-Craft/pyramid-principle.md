@@ -54,6 +54,7 @@ A consulting team prepares a CFO-facing recommendation on whether to centralize 
 → [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — the Pyramid Principle operationalises Grice's Maxims of Quantity and Manner in document structure; the Maxims are the underlying theory, the pyramid is one application.
 → [**Stakeholder Pre-Wiring**](stakeholder-pre-wiring.md) — the pyramid structures what gets said in the room; pre-wiring is what ensures the room is already disposed to agree with where the structure lands.
 → [**Structured Problem Solving**](structured-problem-solving.md) — answer-first delivery as one of five components of an integrated posture; the pyramid is its communication architecture.
+→ [**Business Case Construction**](../Business/business-case-construction.md) — the pyramid's answer-first principle applies directly: the approver needs to know what is being asked, why, and on what terms before the supporting analysis, not after.
 
 ---
 

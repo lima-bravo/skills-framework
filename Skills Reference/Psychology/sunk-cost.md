@@ -48,6 +48,7 @@ A company has spent £2M and two years building a B2B product that has found no 
 → [**Opportunity Cost**](../Economics/trade-offs.md) — sunk cost blindness prevents people from seeing the opportunity cost of continuing a failing investment.
 → [**Path Dependence**](../Systems/path-dependence.md) — sunk costs are a primary source of path dependence: the psychology of not wanting to write off prior investment keeps organisations on paths that rational fresh-start analysis would reject.
 → [**Commitment & Consistency Bias**](commitment-consistency-bias.md) — consistency bias is the psychological mechanism amplifying sunk cost: the identity attached to a decision makes abandonment feel like self-betrayal, not just loss.
+→ [**Business Case Construction**](../Business/business-case-construction.md) — the most common failure in mid-investment review; an approved business case becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence, which is why kill conditions must be stated at approval time.
 
 ## References
 

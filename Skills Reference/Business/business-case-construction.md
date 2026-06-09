@@ -72,10 +72,10 @@ The revised case is approved at a reduced headline savings figure (£1.9M base c
 
 ## References
 
-- Flyvbjerg, B. & Gardner, D. (2023) *How Big Things Get Done*. Macmillan. The empirical case for reference class anchoring in investment decisions.
-- Kahneman, D. (2011) *Thinking, Fast and Slow*. Chapters on planning fallacy and inside-view bias.
-- Minto, B. (1987) *The Pyramid Principle*. Pearson. Structural discipline for analytical communication.
-- Duke, A. (2018) *Thinking in Bets*. Portfolio/Penguin. The decision-quality framing for evaluating business cases.
+- *How Big Things Get Done* — Bent Flyvbjerg & Dan Gardner (2023) — the empirical case for reference class anchoring in investment decisions; documents systematic optimism bias across major projects and the outside-view corrective.
+- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the planning fallacy and inside-view/outside-view distinction; explains why projections built from the inside perspective are systematically over-optimistic.
+- *The Pyramid Principle* — Barbara Minto (1987) — structural discipline for analytical communication: answer first, then support; the basis for leading a business case with the decision rather than the background.
+- *Thinking in Bets* — Annie Duke (2018) — the decision-quality framing: separating a decision's quality from its outcome; a business case should be evaluated by how well it handles uncertainty, not by whether the outcome was good.
 
 ---
 

@@ -63,6 +63,7 @@ Updated estimate: 40% (base rate adjusted upward for specific factors she can po
 → [**Reference Class Forecasting**](../Delivery-and-Flow/reference-class-forecasting.md) — the operational technique for anchoring on base rates in project estimation; calibration is why the technique works
 → [**After-Action Review**](../Leadership/after-action-review.md) — the learning cycle that generates the outcome data needed to improve calibration over time
 → [**Observer Bias**](../Psychology/observer-bias.md) — uncorrected observer bias degrades calibration silently; evaluators who systematically favour expected winners build track records that look accurate but are contaminated by their expectations.
+→ [**Business Case Construction**](../Business/business-case-construction.md) — a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive; calibration is what distinguishes analytical from advocacy documents.
 
 ## References
 

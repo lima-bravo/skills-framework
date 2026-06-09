@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **119**
+- Reviewed (verified + fixed): **120**
 - Flagged: **0**
-- Remaining (todo): **143**
+- Remaining (todo): **142**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -187,7 +187,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#127` **RACI Framework** · `Business/raci-framework.md` · **st:** fixed · **n:** added 6 missing --- separators, fixed broken Stakeholder Mapping link, expanded bare refs, removed non-standard Origin heading, fixed dup footer; corrected Stanford year (2015→2013, unverifiable); Gap-B2: added PMBOK 7th (2021) + Stanford (2013) to manifest; refs 300→302; backlinks in stakeholder-mapping, principal-agent-problem, mission-command, conways-law
 - [x] `#166` **Kernel of Good Strategy** · `Business/kernel-of-strategy.md` · **st:** fixed · **n:** fixed Theory of Change link path (wrong dir), expanded 3 bare refs, corrected title slash; Gap-B2: added The Crux (Rumelt 2022) to manifest; refs 302→303; backlinks in one-thing, theory-of-change, trade-offs, first-principles (also fixed dup footer there), portfolio-map
 - [x] `#210` **Wardley Mapping** · `Business/wardley-mapping.md` · **st:** fixed · **n:** added 5 --- separators, fixed dup footer; replaced bare/vague refs (dropped untitled Moesta & Spiek 2014 — unverifiable; consolidated Wardley chapters into one entry); Gap-B2: Wardley Maps 2016, Art of War; backlinks in exploration-vs-exploitation, build-measure-learn, scenario-planning
-- [ ] `#218` **Business Case Construction** · `Business/business-case-construction.md` · **st:** todo · **n:** —
+- [x] `#218` **Business Case Construction** · `Business/business-case-construction.md` · **st:** fixed · **n:** reformatted 4 non-standard refs (author-year style → standard italic-title format); no structural issues, no ref gaps; backlinks in assumption-mapping, reference-class-forecasting, calibration, kill-criteria, pyramid-principle, sunk-cost, observer-bias
 - [ ] `#219` **Pricing Logic** · `Business/pricing-logic.md` · **st:** todo · **n:** —
 - [ ] `#220` **Power Mapping** · `Business/power-mapping.md` · **st:** todo · **n:** —
 - [ ] `#224` **Red Teaming** · `Business/red-teaming.md` · **st:** todo · **n:** —

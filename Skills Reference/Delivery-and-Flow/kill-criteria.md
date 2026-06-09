@@ -55,6 +55,7 @@ A bank's innovation portfolio funds 12 internal startups, each with a 12-month r
 → [**Reliability vs. Feature Velocity**](reliability-vs-velocity.md) — an error-budget exhaustion trigger is a pre-committed kill criterion for feature releases, removing the decision from real-time political pressure.
 → [**Falsification**](../Psychology/falsification.md) — kill criteria are the organisational instrument of falsification: pre-specifying the conditions under which a hypothesis is rejected before investment creates commitment.
 → [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — the structural antidote to consistency bias: pre-specified exit conditions bypass the in-the-moment pressure to remain consistent with prior investment.
+→ [**Business Case Construction**](../Business/business-case-construction.md) — every credible business case must state its kill condition at approval time; a case without one is implicitly claiming the investment is unconditional, which is never true.
 
 ---
 

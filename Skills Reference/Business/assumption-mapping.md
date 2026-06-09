@@ -50,6 +50,7 @@ A team is planning a new market entry. They list their assumptions and find 35. 
 → [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — assumption mapping is Step 3 in this chain; the full sequence shows how to go from idea to a testable hypothesis with kill criteria
 → [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — the broader diagnostic discipline that surfaces what's known, believed, and unknown about a *situation*; assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortem failure causes typically correspond to critical assumptions that weren't tested; running both surfaces risk from two directions.
+→ [**Business Case Construction**](business-case-construction.md) — the business case's "assumption stack" is the primary output of assumption mapping applied to a financial argument; high-criticality, low-certainty assumptions are the ones to stress-test before submission.
 
 ---
 
