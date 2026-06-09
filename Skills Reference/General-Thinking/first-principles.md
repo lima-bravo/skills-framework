@@ -61,6 +61,7 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 → [**Paradigm Shift**](paradigm-shift.md) — first-principles reasoning is the practitioner's attempt to force a paradigm shift intentionally; where Kuhn describes how paradigm shifts happen historically, first principles is the deliberate method for escaping paradigmatic assumptions.
 → [**Survivorship Bias**](../Psychology/survivorship-bias.md) — survivor-sourced conventional wisdom is the paradigm first principles must cut through; the "obvious" move is often only obvious because the failures that disproved it are invisible.
 → [**Narrative Instinct**](../Psychology/narrative-instinct.md) — first principles thinking is the antidote to narrative instinct: it starts from structure and evidence rather than the inherited story the organisation operates inside.
+→ [**Kernel of Good Strategy**](../Business/kernel-of-strategy.md) — Rumelt's diagnosis step is first-principles thinking applied to a strategic situation: stripping away goals and aspirations to identify the central challenge that actually constrains progress.
 
 ## References
 
@@ -68,8 +69,6 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — Munger's practical application of first principles as mental models.
 - *The Feynman Lectures on Physics* — Richard P. Feynman, Robert B. Leighton & Matthew Sands (1963) — the physicist's discipline of deriving results from fundamental laws rather than inherited formulae; the modern scientific template for reasoning up from bedrock.
 
-
----
 
 ---
 

@@ -45,7 +45,7 @@ A mid-market software firm's "strategy" is a slide deck of five priorities (grow
 ## Connections
 
 → [**Strategic Prioritization**](../Delivery-and-Flow/one-thing.md) — coherent action requires the discipline of saying no.
-→ [**Theory of Change**](theory-of-change.md) — the policy-action linkage expresses a theory.
+→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — the policy-action linkage expresses a theory.
 → [**Trade-offs**](../Economics/trade-offs.md) — strategy is the structured form of trade-off reasoning.
 → [**First Principles**](../General-Thinking/first-principles.md) — Rumelt's diagnosis is first-principles thinking applied to a strategic situation.
 → [**Portfolio Map**](portfolio-map.md) — the portfolio question follows the strategy question, not the reverse.
@@ -56,9 +56,9 @@ A mid-market software firm's "strategy" is a slide deck of five priorities (grow
 
 ## References
 
-- *Good Strategy / Bad Strategy* — Richard P. Rumelt (2011).
-- *The Crux* — Richard P. Rumelt (2022).
-- *Playing to Win* — A.G. Lafley & Roger L. Martin (2013).
+- *Good Strategy Bad Strategy: The Difference and Why It Matters* — Richard P. Rumelt (2011) — introduces the diagnosis/guiding-policy/coherent-action kernel; argues that most documents labelled "strategy" are goals, aspirations, or lists masquerading as strategy.
+- *The Crux: How Leaders Become Strategists* — Richard P. Rumelt (2022) — sequel focused on diagnosis: identifying the pivotal challenge (the crux) that strategy must actually address, and showing why most strategies fail at this first step.
+- *Playing to Win: How Strategy Really Works* — A.G. Lafley & Roger L. Martin (2013) — the five-choice cascade (where to play / how to win / capabilities / management systems); the operational complement to Rumelt's kernel.
 
 ---
 

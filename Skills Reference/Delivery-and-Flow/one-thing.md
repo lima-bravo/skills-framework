@@ -49,6 +49,7 @@ An executive team enters a planning offsite with 14 candidate strategic initiati
 → [**Kill Criteria**](kill-criteria.md) — what would change the one thing.
 → [**Exploration vs Exploitation**](../Business/exploration-vs-exploitation.md) — the one thing balances both.
 → [**Outcome vs Output**](outcome-vs-output.md) — the one thing should be an outcome statement.
+→ [**Kernel of Good Strategy**](../Business/kernel-of-strategy.md) — Rumelt's coherent action requires the same discipline: a short, mutually reinforcing set of commitments that rule things out, not a comprehensive list of everything desirable.
 
 ---
 

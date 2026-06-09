@@ -48,6 +48,7 @@ A product team has three months before a major launch. They can ship a feature-c
 → [**Specialization**](specialization.md) — specialization is a trade-off resolution: choosing to go deep in one area requires trading away breadth in others.
 → [**Debt**](debt.md) — taking on debt is an explicit trade-off between present capability and future flexibility.
 → [**Sunk Cost**](../Psychology/sunk-cost.md) — sunk cost blindness prevents recognising the opportunity cost of continuing a failing investment; past spending is not a forward-looking factor in the trade-off.
+→ [**Kernel of Good Strategy**](../Business/kernel-of-strategy.md) — strategy is the structured form of trade-off reasoning: the guiding policy names which trade-offs to accept, and coherent action executes them consistently rather than accommodating every priority.
 
 ## References
 
