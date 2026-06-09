@@ -52,9 +52,12 @@ Dropbox's famous explainer video is a canonical Build-Measure-Learn example. Bef
 → [**Wardley Mapping**](../Business/wardley-mapping.md) — BML is the appropriate learning mode at the Genesis/Custom end of a Wardley Map; at the Commodity end, adoption replaces experimentation.
 → [**A/B Testing**](../Business/ab-testing.md) — A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for producing valid learning in continuous improvement cycles.
 
+---
+
 ## References
 
 - *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source text for the Build-Measure-Learn loop.
+- *Running Lean: Iterate from Plan A to a Plan That Works* — Ash Maurya (2012) — a practitioner's guide to running the BML loop systematically; introduces the Lean Canvas and a structured approach to hypothesis testing and customer interviews.
 
 ---
 
