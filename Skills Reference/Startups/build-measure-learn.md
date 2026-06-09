@@ -1,10 +1,42 @@
+---
+id: 63
+name: Build-Measure-Learn
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: Validated learning in minimum iterations
+connections:
+  - id: 64
+    rationale: the "minimum" in Build-Measure-Learn is operationalized as an MVP.
+  - id: 62
+    rationale: Build-Measure-Learn is the process for discovering and validating PMF.
+  - id: 72
+    rationale: the formal rigor of experiment design disciplines the "measure" phase.
+  - id: 209
+    rationale: Build-Measure-Learn is EPC applied to product hypotheses; EPC is the governing theory behind both.
+  - id: 214
+    rationale: BML is the learning cycle that runs inside the walk stage of this chain
+  - id: 42
+    rationale: BML is the mechanism for maintaining directional alignment while moving at speed; fast loops without directional measurement is speed, not velocity.
+  - id: 210
+    rationale: BML is the appropriate learning mode at the Genesis/Custom end of a Wardley Map; at the Commodity end, adoption replaces experimentation.
+  - id: 225
+    rationale: A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for producing valid learning in continuous improvement cycles.
+  - id: 65
+    rationale: the pivot-or-persevere decision is the "learn" step of the BML loop operationalized as a structured strategy update.
+references:
+  - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+    authorYear: Eric Ries (2011)
+    supports: the source text for the Build-Measure-Learn loop.
+  - title: "Running Lean: Iterate from Plan A to a Plan That Works"
+    authorYear: Ash Maurya (2012)
+    supports: a practitioner's guide to running the BML loop systematically; introduces the Lean Canvas and a structured approach to hypothesis testing and customer interviews.
+---
+
 # Build-Measure-Learn
-*Validated learning in minimum iterations*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Build-Measure-Learn is the core loop of the Lean Startup methodology (Eric Ries). The premise: startups exist in conditions of extreme uncertainty; the primary goal is to reduce uncertainty as fast as possible through validated learning. The loop is: build the minimum thing that generates the learning, measure the outcome, learn whether the hypothesis was correct, and use that learning to determine the next cycle. Speed through the loop — minimizing cycle time — is the primary competitive advantage.
@@ -40,25 +72,6 @@ The loop inverts traditional product development. Instead of building comprehens
 Dropbox's famous explainer video is a canonical Build-Measure-Learn example. Before building the product, Drew Houston created a video demonstrating how Dropbox would work. The video drove 70,000 sign-ups overnight. This was the measurement: strong demand existed for the described product. The learning: build the product. The cost of the build phase: one video. The counterfactual: building the product first and discovering whether demand existed after significant investment.
 
 ---
-
-## Connections
-
-→ [64·MVP](mvp.md) — the "minimum" in Build-Measure-Learn is operationalized as an MVP.
-→ [62·Product-Market Fit](product-market-fit.md) — Build-Measure-Learn is the process for discovering and validating PMF.
-→ [72·Experiment Design](../Business/experiment-design.md) — the formal rigor of experiment design disciplines the "measure" phase.
-→ [209·Empirical Process Control](../Delivery-and-Flow/empirical-process-control.md) — Build-Measure-Learn is EPC applied to product hypotheses; EPC is the governing theory behind both.
-→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — BML is the learning cycle that runs inside the walk stage of this chain
-→ [42·Velocity](../Physics-and-Chemistry/velocity.md) — BML is the mechanism for maintaining directional alignment while moving at speed; fast loops without directional measurement is speed, not velocity.
-→ [210·Wardley Mapping](../Business/wardley-mapping.md) — BML is the appropriate learning mode at the Genesis/Custom end of a Wardley Map; at the Commodity end, adoption replaces experimentation.
-→ [225·A/B Testing](../Business/ab-testing.md) — A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for producing valid learning in continuous improvement cycles.
-→ [65·Pivot or Persevere](pivot-or-persevere.md) — the pivot-or-persevere decision is the "learn" step of the BML loop operationalized as a structured strategy update.
-
----
-
-## References
-
-- *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source text for the Build-Measure-Learn loop.
-- *Running Lean: Iterate from Plan A to a Plan That Works* — Ash Maurya (2012) — a practitioner's guide to running the BML loop systematically; introduces the Lean Canvas and a structured approach to hypothesis testing and customer interviews.
 
 ---
 

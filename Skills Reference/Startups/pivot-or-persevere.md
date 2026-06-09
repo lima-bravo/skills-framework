@@ -1,10 +1,30 @@
+---
+id: 65
+name: Pivot or Persevere
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: Structured decision when the current approach isn't working
+connections:
+  - id: 63
+    rationale: the pivot-or-persevere decision is the "learn" step of the BML loop operationalized.
+  - id: 53
+    rationale: the perseverance trap is often sunk cost; the pivot decision must be separated from sunk cost attachment.
+  - id: 62
+    rationale: the goal of pivots is to find the product-market fit that perseverance is preserving.
+references:
+  - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+    authorYear: Eric Ries (2011)
+    supports: the source framework for defining pivots and the pivot-or-persevere decision.
+  - title: "Disciplined Entrepreneurship: 24 Steps to a Successful Startup"
+    authorYear: Bill Aulet (2013)
+    supports: the structured process for startup execution that frames pivot-or-persevere decisions within a systematic hypothesis-testing workflow.
+---
+
 # Pivot or Persevere
-*Structured decision when the current approach isn't working*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The pivot-or-persevere decision is the structured assessment of whether to change strategy (pivot) or continue executing the current one (persevere) based on learning from experiments and the market. Eric Ries defined a pivot as "a structured course correction designed to test a new fundamental hypothesis about the product, business model, or engine of growth." It is not giving up; it is the deliberate application of learning to direction.
@@ -40,19 +60,6 @@ The pivot-or-persevere decision is a Bayesian update: given what we have learned
 Instagram began as Burbn — a check-in app with gaming elements. The data showed one feature was used by almost all users: photo sharing. Everything else was barely used. The pivot was not a failure; it was a data-informed decision to strip the product to its single point of strength. The pivot preserved the user base, the team, and the core technology. Everything not supported by the usage data was cut. The result: a product with exceptional retention and word-of-mouth because it did one thing excellently.
 
 ---
-
-## Connections
-
-→ [63·Build-Measure-Learn](build-measure-learn.md) — the pivot-or-persevere decision is the "learn" step of the BML loop operationalized.
-→ [53·Sunk Cost](../Psychology/sunk-cost.md) — the perseverance trap is often sunk cost; the pivot decision must be separated from sunk cost attachment.
-→ [62·Product-Market Fit](product-market-fit.md) — the goal of pivots is to find the product-market fit that perseverance is preserving.
-
----
-
-## References
-
-- *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source framework for defining pivots and the pivot-or-persevere decision.
-- *Disciplined Entrepreneurship: 24 Steps to a Successful Startup* — Bill Aulet (2013) — the structured process for startup execution that frames pivot-or-persevere decisions within a systematic hypothesis-testing workflow.
 
 ---
 

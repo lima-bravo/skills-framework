@@ -1,10 +1,27 @@
+---
+id: 67
+name: Innovation Accounting
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: Measure progress toward validated learning
+connections:
+  - id: 63
+    rationale: innovation accounting is the measurement discipline within BML.
+  - id: 62
+    rationale: innovation accounting is the toolkit for measuring progress toward PMF.
+  - id: 72
+    rationale: the rigor of experiment design determines the quality of innovation accounting data.
+references:
+  - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+    authorYear: Eric Ries (2011)
+    supports: the source of innovation accounting as an alternative to traditional metrics.
+---
+
 # Innovation Accounting
-*Measure progress toward validated learning*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Innovation accounting (Eric Ries) is a framework for measuring the progress of a startup in a way that is meaningful when traditional metrics (revenue, profit, growth) are not yet established or are misleading. Traditional accounting measures the output of a business operating in a known market. Innovation accounting measures progress toward finding a validated business model — the learning that occurs before the business model is known.
@@ -39,18 +56,6 @@ In a startup, improving traditional metrics can actually obscure lack of progres
 ## Worked Example
 
 A mobile app team tracks DAU (daily active users) as their north star metric. DAU is growing 20% per month — excellent by any standard. But a cohort analysis reveals that day-30 retention is 3% — almost no one who downloads the app is still using it a month later. The growth in DAU is entirely driven by increasing acquisition spend; the product is not retaining users. Innovation accounting reveals the business is not progressing; traditional accounting (revenue, downloads) shows impressive growth.
-
----
-
-## Connections
-
-→ [63·Build-Measure-Learn](build-measure-learn.md) — innovation accounting is the measurement discipline within BML.
-→ [62·Product-Market Fit](product-market-fit.md) — innovation accounting is the toolkit for measuring progress toward PMF.
-→ [72·Experiment Design](../Business/experiment-design.md) — the rigor of experiment design determines the quality of innovation accounting data.
-## References
-
-- *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source of innovation accounting as an alternative to traditional metrics.
-
 
 ---
 

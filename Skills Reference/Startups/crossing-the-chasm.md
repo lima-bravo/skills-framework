@@ -1,10 +1,34 @@
+---
+id: 111
+name: Crossing the Chasm
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: The gap between early adopters who buy on vision and the early majority who buy on proven results — and why the strategies that win the first group fail with the second.
+connections:
+  - id: 102
+    rationale: the chasm sits at the inflection point between early and late adopters on the S-curve; crossing the chasm is what enables the curve to steepen into the growth phase.
+  - id: 62
+    rationale: early adopter PMF and mainstream PMF are different conditions; a product can have strong early adopter PMF and still fail in the chasm because mainstream fit requires a different product definition.
+  - id: 112
+    rationale: disruptive innovations often cross the chasm by starting with non-consumers rather than competing for the early majority directly, then improving until mainstream requirements are met.
+  - id: 82
+    rationale: beachhead strategies for platforms leverage network effects within a single community first; the beachhead generates the density required before expanding to adjacent communities.
+  - id: 22
+    rationale: in network-effect businesses, the beachhead must reach critical mass within its community for network effects to sustain the expansion into adjacent segments.
+references:
+  - title: "Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers"
+    authorYear: Geoffrey A. Moore (1991; 3rd ed. 2014)
+    supports: the source model for the adoption chasm.
+  - title: "Inside the Tornado: Marketing Strategies from Silicon Valley's Cutting Edge"
+    authorYear: Geoffrey A. Moore (1995)
+    supports: the follow-on treatment of the mainstream market phases beyond the chasm.
+---
+
 # Crossing the Chasm
-*The gap between early adopters who buy on vision and the early majority who buy on proven results — and why the strategies that win the first group fail with the second.*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Crossing the Chasm is Geoffrey Moore's model of the critical gap in technology adoption between early adopters (visionaries) and the early majority (pragmatists). Based on Everett Rogers's diffusion of innovations adoption curve, Moore identified that the transition from niche to mainstream is not a smooth progression — there is a structural discontinuity, or chasm, between the early adopter segment and the early majority. Early adopters buy unproven products because they want competitive advantage from being first; they tolerate roughness and incomplete solutions. Early majority buyers want proven solutions, vendor stability, and references from similar companies; they buy on results, not vision. The strategies that attract early adopters — bold promises, close customer relationships, willingness to customize — actively repel the early majority, and vice versa. Most technology ventures fail in the chasm, having exhausted early adopter markets without successfully transitioning to mainstream.
@@ -42,19 +66,6 @@ An experienced practitioner treats the chasm as a marketing and positioning prob
 Salesforce's crossing from early adopter success to mainstream CRM dominance illustrates the model. Early adopters (small, tech-savvy sales teams) were won on vision: "no software," subscription pricing, fast deployment. The chasm required a different approach. Salesforce picked a beachhead: mid-sized companies with a field sales force that were frustrated with Siebel's cost and complexity. They built out the whole product for this segment — Salesforce-certified implementation partners, Salesforce-specific training programs, a user community — creating the ecosystem mid-market pragmatists needed. They invested heavily in reference customers in the target segment and used those references as the primary sales tool. Critically, they created a defined category ("on-demand CRM") with themselves as the obvious leader — pragmatists buy from category leaders, not from interesting challengers. Once the mid-market beachhead was established, expansion to enterprise and other segments followed through the adjacency of reference communities.
 
 ---
-
-## Connections
-
-→ [102·S-Curves](../Systems/s-curves.md) — the chasm sits at the inflection point between early and late adopters on the S-curve; crossing the chasm is what enables the curve to steepen into the growth phase.
-→ [62·Product-Market Fit](product-market-fit.md) — early adopter PMF and mainstream PMF are different conditions; a product can have strong early adopter PMF and still fail in the chasm because mainstream fit requires a different product definition.
-→ [112·Disruptive Innovation](../Business/disruptive-innovation.md) — disruptive innovations often cross the chasm by starting with non-consumers rather than competing for the early majority directly, then improving until mainstream requirements are met.
-→ [82·Network Effects](../Network-Effects/network-effects.md) — beachhead strategies for platforms leverage network effects within a single community first; the beachhead generates the density required before expanding to adjacent communities.
-→ [22·Critical Mass](../Systems/critical-mass.md) — in network-effect businesses, the beachhead must reach critical mass within its community for network effects to sustain the expansion into adjacent segments.
-## References
-
-- *Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers* — Geoffrey A. Moore (1991; 3rd ed. 2014) — the source model for the adoption chasm.
-- *Inside the Tornado: Marketing Strategies from Silicon Valley's Cutting Edge* — Geoffrey A. Moore (1995) — the follow-on treatment of the mainstream market phases beyond the chasm.
-
 
 ---
 

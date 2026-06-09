@@ -1,10 +1,34 @@
+---
+id: 110
+name: Design Thinking
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: A human-centered innovation process — empathize, define, ideate, prototype, test — that insists on understanding people's actual experience before generating solutions.
+connections:
+  - id: 103
+    rationale: "design thinking's empathy stage and JTBD interviews are complementary: JTBD identifies the functional, social, and emotional job; design thinking uncovers the human experience surrounding it."
+  - id: 66
+    rationale: customer development and design thinking share the commitment to field-based learning before solution building; design thinking adds structured ideation and rapid prototyping to the customer development toolkit.
+  - id: 107
+    rationale: design thinking is structured around alternating divergent phases (empathy, ideation) and convergent phases (problem definition, prototype selection, insight synthesis).
+  - id: 73
+    rationale: "design thinking's prototyping stage is most productive when combined with assumption mapping: the prototype tests the highest-priority assumption explicitly."
+  - id: 63
+    rationale: "build-measure-learn and design thinking are complementary: design thinking produces the right question to test; build-measure-learn provides the quantitative loop to validate the answer at scale."
+references:
+  - title: "Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation"
+    authorYear: Tim Brown (2009)
+    supports: the accessible practitioner treatment from IDEO's CEO.
+  - title: "Creative Confidence: Unleashing the Creative Potential Within Us All"
+    authorYear: Tom Kelley & David Kelley (2013)
+    supports: the human-centered design companion.
+---
+
 # Design Thinking
-*A human-centered innovation process — empathize, define, ideate, prototype, test — that insists on understanding people's actual experience before generating solutions.*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Design thinking is a structured, iterative, human-centered innovation process developed at IDEO and formalized at the Stanford d.school. Its five stages — Empathize, Define, Ideate, Prototype, Test — are designed to ensure that innovation begins with a deep understanding of the people it is intended to serve, rather than with assumptions about what they need. Design thinking is not a linear process; practitioners move back and forth between stages as new insights redefine the problem. It differs from standard product development in two critical ways: it treats problem definition as a design activity in its own right (rather than assuming the problem is already understood), and it uses rapid, low-fidelity prototyping as a thinking tool (rather than a presentation tool).
@@ -42,19 +66,6 @@ An experienced practitioner understands that design thinking's deepest value is 
 IDEO was hired to redesign the patient experience in a large hospital. The standard approach would have been to interview administrators and clinical staff about workflow inefficiencies. Instead, the IDEO team checked a researcher into the hospital as a patient for several days. They found that the defining feature of the patient experience was not clinical quality but unrelenting ceiling-staring: patients spent 90% of their time lying on their backs, looking up at fluorescent lights and ceiling tiles, with no control over information or environment. The redesign that followed was not primarily about clinical processes — it was about giving patients agency over their visual environment, improving the ceiling aesthetics and information displays, and creating interaction points that let patients feel less like subjects being processed. These solutions were invisible to any analysis that started in the conference room with administrators. They emerged only from genuine empathy — inhabiting the user's experience rather than describing it.
 
 ---
-
-## Connections
-
-→ [103·Jobs to Be Done](jobs-to-be-done.md) — design thinking's empathy stage and JTBD interviews are complementary: JTBD identifies the functional, social, and emotional job; design thinking uncovers the human experience surrounding it.
-→ [66·Customer Development](customer-development.md) — customer development and design thinking share the commitment to field-based learning before solution building; design thinking adds structured ideation and rapid prototyping to the customer development toolkit.
-→ [107·Divergent and Convergent Thinking](../General-Thinking/divergent-and-convergent-thinking.md) — design thinking is structured around alternating divergent phases (empathy, ideation) and convergent phases (problem definition, prototype selection, insight synthesis).
-→ [73·Assumption Mapping](../Business/assumption-mapping.md) — design thinking's prototyping stage is most productive when combined with assumption mapping: the prototype tests the highest-priority assumption explicitly.
-→ [63·Build-Measure-Learn](build-measure-learn.md) — build-measure-learn and design thinking are complementary: design thinking produces the right question to test; build-measure-learn provides the quantitative loop to validate the answer at scale.
-## References
-
-- *Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation* — Tim Brown (2009) — the accessible practitioner treatment from IDEO's CEO.
-- *Creative Confidence: Unleashing the Creative Potential Within Us All* — Tom Kelley & David Kelley (2013) — the human-centered design companion.
-
 
 ---
 

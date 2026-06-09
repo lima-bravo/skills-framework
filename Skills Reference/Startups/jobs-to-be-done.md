@@ -1,10 +1,42 @@
+---
+id: 103
+name: Jobs to Be Done
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: People don't buy products — they hire them to make progress in a specific moment of struggle.
+connections:
+  - id: 66
+    rationale: JTBD defines what questions to ask in customer development interviews; the struggling moment and four forces give the interview a specific structure to follow.
+  - id: 69
+    rationale: the customer jobs, pains, and gains sections of the value prop canvas are a direct application of JTBD thinking; the four forces map onto gains (pull), pains (push), and the anxieties/habits that prevent adoption.
+  - id: 62
+    rationale: fit, at its core, means the product does the job better than any alternative for customers with a strong enough push. JTBD is the diagnostic tool for understanding whether and why fit exists or is absent.
+  - id: 63
+    rationale: JTBD defines what to build (job-completing features that reduce anxiety and address the struggling moment) and what to measure; it sharpens the hypothesis in each cycle.
+  - id: 52
+    rationale: "the anxiety and inertia forces in Moesta's model are largely driven by loss aversion: the perceived cost of switching feels larger than the perceived gain, even when the rational calculus favors the switch."
+  - id: 45
+    rationale: "the struggling moment is the threshold of activation energy for demand: until push is strong enough to overcome inertia and anxiety, the customer is not in the market regardless of pull."
+  - id: 43
+    rationale: "the fourth force directly: the tendency of a customer's situation to remain unchanged is a structural property of any adoption problem, not a temporary obstacle to be overcome with better messaging."
+  - id: 249
+    rationale: JTBD discovers which jobs exist and how customers experience them; segmentation is the strategic move of grouping customers by which jobs they share and how much each group is worth pursuing — discovery and grouping are different activities that should not be conflated.
+  - id: 0
+    rationale: "JTBD is an application of first principles to product strategy: stripping away assumptions about product categories to ask what the customer fundamentally needs and what moment makes that need urgent."
+references:
+  - title: "Competing Against Luck: The Story of Innovation and Customer Choice"
+    authorYear: Clayton M. Christensen, Taddy Hall, Karen Dillon & David S. Duncan (2016)
+    supports: the most accessible book-length treatment of JTBD theory.
+  - title: "Jobs to Be Done: Theory to Practice"
+    authorYear: Anthony W. Ulwick (2016)
+    supports: the practitioner guide to applying JTBD through outcome-driven innovation.
+---
+
 # Jobs to Be Done
-*People don't buy products — they hire them to make progress in a specific moment of struggle.*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Jobs to Be Done (JTBD) is a framework for understanding why customers adopt products and services. The central claim is that customers do not buy products for their features or because of their demographic profile — they hire products to make progress in a specific circumstance. The "job" is the functional, social, and emotional progress the customer is trying to achieve. Understanding the job — and the context in which it arises — predicts switching behavior, reveals true competition, and guides feature development far more reliably than product-centric or demographic analysis.
@@ -61,25 +93,6 @@ McDonald's wanted to improve milkshake sales. Conventional market research — d
 Applying the four forces: the **push** was the tedium and hunger of the commute with nothing engaging to consume. The **pull** of the milkshake was that it lasted a long time, was filling, and could be sipped one-handed. The **anxiety** was low — milkshakes are familiar, cheap, and low-risk. The **inertia** was also low — commuters were already stopping at McDonald's. This combination (strong push, meaningful pull, minimal anxiety and inertia) explains why the job was actually being hired for, despite the product having no obvious claim on "commute entertainment."
 
 The competing frame made the product insight clear: the milkshake competed not with other milkshakes but with bananas (finished too fast, not filling), bagels (too crumbly, require two hands), and donuts (messy). To do the job better, the milkshake needed to be thicker (longer engagement time), more interesting in flavor (reduce boredom), and available faster at the drive-through (reduce friction at the decision point). None of these insights came from asking customers what they wanted in a milkshake — they came from understanding the struggling moment, the job it triggered, and the forces that governed the hire decision.
-
----
-
-## Connections
-
-→ [66·Customer Development](customer-development.md) — JTBD defines what questions to ask in customer development interviews; the struggling moment and four forces give the interview a specific structure to follow.
-→ [69·Value Prop Canvas](../Business/value-prop-canvas.md) — the customer jobs, pains, and gains sections of the value prop canvas are a direct application of JTBD thinking; the four forces map onto gains (pull), pains (push), and the anxieties/habits that prevent adoption.
-→ [62·Product-Market Fit](product-market-fit.md) — fit, at its core, means the product does the job better than any alternative for customers with a strong enough push. JTBD is the diagnostic tool for understanding whether and why fit exists or is absent.
-→ [63·Build-Measure-Learn](build-measure-learn.md) — JTBD defines what to build (job-completing features that reduce anxiety and address the struggling moment) and what to measure; it sharpens the hypothesis in each cycle.
-→ [52·Loss Aversion](../Psychology/loss-aversion.md) — the anxiety and inertia forces in Moesta's model are largely driven by loss aversion: the perceived cost of switching feels larger than the perceived gain, even when the rational calculus favors the switch.
-→ [45·Activation Energy](../Physics-and-Chemistry/activation-energy.md) — the struggling moment is the threshold of activation energy for demand: until push is strong enough to overcome inertia and anxiety, the customer is not in the market regardless of pull.
-→ [43·Inertia](../Physics-and-Chemistry/inertia.md) — the fourth force directly: the tendency of a customer's situation to remain unchanged is a structural property of any adoption problem, not a temporary obstacle to be overcome with better messaging.
-→ [249·Customer Segmentation](../Business/customer-segmentation.md) — JTBD discovers which jobs exist and how customers experience them; segmentation is the strategic move of grouping customers by which jobs they share and how much each group is worth pursuing — discovery and grouping are different activities that should not be conflated.
-→ [0·First Principles](../General-Thinking/first-principles.md) — JTBD is an application of first principles to product strategy: stripping away assumptions about product categories to ask what the customer fundamentally needs and what moment makes that need urgent.
-## References
-
-- *Competing Against Luck: The Story of Innovation and Customer Choice* — Clayton M. Christensen, Taddy Hall, Karen Dillon & David S. Duncan (2016) — the most accessible book-length treatment of JTBD theory.
-- *Jobs to Be Done: Theory to Practice* — Anthony W. Ulwick (2016) — the practitioner guide to applying JTBD through outcome-driven innovation.
-
 
 ---
 

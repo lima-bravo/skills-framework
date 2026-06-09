@@ -1,10 +1,39 @@
+---
+id: 62
+name: Product-Market Fit
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: The product satisfies a strong market need
+connections:
+  - id: 63
+    rationale: the loop used to discover PMF efficiently.
+  - id: 66
+    rationale: the process of understanding whether the market pull exists before building.
+  - id: 17
+    rationale: PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth.
+  - id: 68
+    rationale: the canvas is the framework for testing whether a viable business model exists around which PMF could be achieved; strong product pull without a sound model is incomplete validation.
+  - id: 69
+    rationale: "fit in the Value Prop Canvas is the direct diagnostic for PMF: when pain relievers and gain creators match the customer's highest-priority pains and gains, the pull dynamic becomes achievable."
+  - id: 65
+    rationale: the goal of pivots is to find the product-market fit that perseverance is preserving; PMF is the signal that the pivot search can stop.
+references:
+  - title: Product/Market Fit
+    authorYear: Marc Andreessen, pmarchive.com (2007)
+    supports: the original essay coining the term and defining PMF as the only thing that matters for startups.
+  - title: The Lean Startup
+    authorYear: Eric Ries (2011)
+    supports: the Build-Measure-Learn loop as the method for discovering PMF efficiently; validated learning and the pivot as the structural responses to PMF signals.
+  - title: "Zero to One: Notes on Startups, or How to Build the Future"
+    authorYear: Peter Thiel & Blake Masters (2014)
+    supports: "the complementary framing: find a monopoly, which requires genuine PMF before scaling."
+---
+
 # Product-Market Fit
-*The product satisfies a strong market need*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Product-market fit (PMF) is the degree to which a product satisfies the needs of a strong market. Marc Andreessen defined it as "being in a good market with a product that can satisfy that market." The operational hallmark: the market is pulling the product from you — customers return, tell others, and complain loudly when the product is unavailable. Before PMF, growth is manufactured. After PMF, it becomes sustainable.
@@ -40,23 +69,6 @@ PMF is a binary state in practice even though it exists on a spectrum conceptual
 Slack's early users were internal at Stewart Butterfield's game company Glitch. When they shared it with other companies, those users responded with extraordinary engagement. The pull dynamic: users were frustrated when access was interrupted; they spread it to colleagues without prompting; usage expanded to the full organization without a sales effort. These signals preceded the decision to build Slack as a product. PMF was identified before a growth team was assembled.
 
 ---
-
-## Connections
-
-→ [63·Build-Measure-Learn](build-measure-learn.md) — the loop used to discover PMF efficiently.
-→ [66·Customer Development](customer-development.md) — the process of understanding whether the market pull exists before building.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth.
-→ [68·Business Model Canvas](../Business/business-model-canvas.md) — the canvas is the framework for testing whether a viable business model exists around which PMF could be achieved; strong product pull without a sound model is incomplete validation.
-→ [69·Value Prop Canvas](../Business/value-prop-canvas.md) — fit in the Value Prop Canvas is the direct diagnostic for PMF: when pain relievers and gain creators match the customer's highest-priority pains and gains, the pull dynamic becomes achievable.
-→ [65·Pivot or Persevere](pivot-or-persevere.md) — the goal of pivots is to find the product-market fit that perseverance is preserving; PMF is the signal that the pivot search can stop.
-
----
-
-## References
-
-- *Product/Market Fit* — Marc Andreessen, pmarchive.com (2007) — the original essay coining the term and defining PMF as the only thing that matters for startups.
-- *The Lean Startup* — Eric Ries (2011) — the Build-Measure-Learn loop as the method for discovering PMF efficiently; validated learning and the pivot as the structural responses to PMF signals.
-- *Zero to One: Notes on Startups, or How to Build the Future* — Peter Thiel & Blake Masters (2014) — the complementary framing: find a monopoly, which requires genuine PMF before scaling.
 
 ---
 

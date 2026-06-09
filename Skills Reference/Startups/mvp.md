@@ -1,10 +1,33 @@
+---
+id: 64
+name: MVP
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: The minimum viable product generates maximum learning
+connections:
+  - id: 63
+    rationale: the MVP is the "build" artefact in each BML cycle.
+  - id: 73
+    rationale: assumption mapping identifies which assumptions the MVP should test.
+  - id: 66
+    rationale: customer development generates the hypotheses that the MVP tests.
+references:
+  - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+    authorYear: Eric Ries (2011)
+    supports: the source definition of MVP as a learning tool.
+  - title: "Running Lean: Iterate from Plan A to a Plan That Works"
+    authorYear: Ash Maurya (2012)
+    supports: the practitioner toolkit for MVP design and iteration.
+  - title: "The Four Steps to the Epiphany: Successful Strategies for Products that Win"
+    authorYear: Steve Blank (2003)
+    supports: the customer development methodology underpinning lean startup thinking; the foundational argument for discovering what customers actually need before committing to a product.
+---
+
 # MVP
-*The minimum viable product generates maximum learning*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Minimum Viable Product is the version of a product with the minimum set of features required to generate the learning that validates (or invalidates) the riskiest assumptions in the business model. Eric Ries's definition: not a smaller, cheaper product — a fundamentally different artefact designed to learn, not to ship. The purpose of the MVP is not to satisfy customers fully; it is to discover whether the core value hypothesis is correct before investing in the full product.
@@ -40,20 +63,6 @@ The practitioner holds two products in mind simultaneously: the eventual product
 Zappos founder Nick Swinmurn wanted to test whether people would buy shoes online. The riskiest assumption: the demand exists. Rather than building a warehouse, stocking inventory, and launching a platform, he took photos of shoes in local stores, posted them online, and when someone ordered, he bought the shoes from the store and shipped them himself. He had no inventory, no logistics infrastructure, no technology. He had an answer: yes, people buy shoes online. The MVP cost a weekend; the learning was worth a company.
 
 ---
-
-## Connections
-
-→ [63·Build-Measure-Learn](build-measure-learn.md) — the MVP is the "build" artefact in each BML cycle.
-→ [73·Assumption Mapping](../Business/assumption-mapping.md) — assumption mapping identifies which assumptions the MVP should test.
-→ [66·Customer Development](customer-development.md) — customer development generates the hypotheses that the MVP tests.
-
----
-
-## References
-
-- *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source definition of MVP as a learning tool.
-- *Running Lean: Iterate from Plan A to a Plan That Works* — Ash Maurya (2012) — the practitioner toolkit for MVP design and iteration.
-- *The Four Steps to the Epiphany: Successful Strategies for Products that Win* — Steve Blank (2003) — the customer development methodology underpinning lean startup thinking; the foundational argument for discovering what customers actually need before committing to a product.
 
 ---
 

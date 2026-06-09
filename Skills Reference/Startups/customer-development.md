@@ -1,10 +1,34 @@
+---
+id: 66
+name: Customer Development
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: Discover real needs before building solutions
+connections:
+  - id: 64
+    rationale: customer development generates the hypotheses that the MVP tests.
+  - id: 62
+    rationale: customer development is the process of discovering the conditions under which PMF is achievable.
+  - id: 73
+    rationale: customer development produces evidence that validates or invalidates assumptions on the map.
+  - id: 69
+    rationale: the jobs, pains, and gains sections of the canvas are populated from customer development interviews; the canvas provides structure for what customer development uncovers.
+  - id: 249
+    rationale: customer development feeds segmentation with the needs and behavior data that makes segments predictive rather than descriptive.
+references:
+  - title: "The Four Steps to the Epiphany: Successful Strategies for Products that Win"
+    authorYear: Steve Blank (2005)
+    supports: the source text for customer development as a systematic process.
+  - title: "The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company"
+    authorYear: Steve Blank & Bob Dorf (2012)
+    supports: the practical guide to executing customer development.
+---
+
 # Customer Development
-*Discover real needs before building solutions*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Customer development, developed by Steve Blank, is the process of systematically testing business model assumptions through direct customer contact before, during, and after product development. The insight: most startups fail not because they can't build the product, but because they build the wrong product for the wrong customer with the wrong business model. Customer development replaces assumptions about customers with direct evidence.
@@ -42,21 +66,6 @@ The practitioner treats every assumption about customers — their problem, thei
 The founders of Airbnb validated their core hypothesis by manually creating listings for their own apartment and hosting guests themselves. They then went to other Airbnb hosts' apartments personally, helped them photograph their spaces, and asked detailed questions about their hosting motivations, concerns, and pricing logic. This direct evidence — not surveying or desk research — produced the insight that professional photography dramatically increased bookings and that host trust concerns were the primary barrier to listing. Both insights came directly from customer development conversations, not from analysis.
 
 ---
-
-## Connections
-
-→ [64·MVP](mvp.md) — customer development generates the hypotheses that the MVP tests.
-→ [62·Product-Market Fit](product-market-fit.md) — customer development is the process of discovering the conditions under which PMF is achievable.
-→ [73·Assumption Mapping](../Business/assumption-mapping.md) — customer development produces evidence that validates or invalidates assumptions on the map.
-→ [69·Value Prop Canvas](../Business/value-prop-canvas.md) — the jobs, pains, and gains sections of the canvas are populated from customer development interviews; the canvas provides structure for what customer development uncovers.
-→ [249·Customer Segmentation](../Business/customer-segmentation.md) — customer development feeds segmentation with the needs and behavior data that makes segments predictive rather than descriptive.
-
----
-
-## References
-
-- *The Four Steps to the Epiphany: Successful Strategies for Products that Win* — Steve Blank (2005) — the source text for customer development as a systematic process.
-- *The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company* — Steve Blank & Bob Dorf (2012) — the practical guide to executing customer development.
 
 ---
 

@@ -1,10 +1,37 @@
+---
+id: 189
+name: Experiment Ladder
+category: Innovation & Entrepreneurship
+cardType: standard
+tagline: Use the cheapest experiment that can adequately falsify the assumption
+connections:
+  - id: 73
+    rationale: "the upstream step: identify and prioritize which assumptions to test before selecting experiment type. The Experiment Ladder answers *how to test*; Assumption Mapping answers *what to test and in what order*."
+  - id: 72
+    rationale: "the downstream step: once you have selected the right experiment type, Experiment Design provides the discipline for running it rigorously — hypothesis formulation, success criteria, sample size, control conditions."
+  - id: 181
+    rationale: a specific cluster of simulation-level techniques that test desirability before building; pretotyping sits at the simulation rung of the ladder.
+  - id: 64
+    rationale: a specific product-level experiment; the MVP is one instrument at the product rung, not a synonym for the ladder itself.
+  - id: 66
+    rationale: the methodology for discovery-level experiments; customer development interviews are the primary instrument at the discovery rung.
+  - id: 63
+    rationale: the overall cycle within which the ladder operates; the ladder determines which type of "build" is appropriate for each learning loop.
+  - id: 153
+    rationale: pre-defining what result would be insufficient to continue; kill criteria applied at each rung of the ladder prevent motivated reasoning from carrying a failing assumption forward.
+  - id: 16
+    rationale: "the reversibility principle that governs how far up the ladder to go before committing: lower rungs are two-way doors, upper rungs become progressively less reversible."
+references:
+  - title: "Testing Business Ideas: A Field Guide for Rapid Experimentation"
+    authorYear: David J. Bland & Alexander Osterwalder (2019)
+    supports: the source of the experiment ladder and the full library of experiment types.
+---
+
 # Experiment Ladder
-*Use the cheapest experiment that can adequately falsify the assumption*
 
 **Category:** [Innovation & Entrepreneurship](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Experiment Ladder, developed by David Bland and Alexander Osterwalder in *Testing Business Ideas* (2019), is a framework for selecting the right type of experiment given what you need to learn and how much evidence you actually require. It organizes experiment types in ascending order of evidence strength and cost — from cheap, qualitative discovery at the bottom to expensive, quantitative business model tests at the top. The governing principle is that you should always use the cheapest experiment that can adequately falsify the specific assumption you are testing. Overshooting wastes resources and slows learning; undershooting produces insufficient evidence to act on.
@@ -66,23 +93,6 @@ Assumption 3 is a **product** question. They build a wizard-of-oz prototype: the
 Assumption 4 is a **business model** question. They present a pricing proposal to five of their pilot participants and ask for a letter of intent at a specific annual price. Three of five sign. The two who don't cite budget timing, not price sensitivity. Sufficient evidence to proceed to build.
 
 The team has now tested all four critical assumptions — in ascending order of cost — before committing to full development. Total time: eleven weeks. Total cost: interviews plus ad spend plus one human's time for three reporting cycles plus a pricing deck. Compared to building the full product and discovering at launch that compliance teams would not pay for it: a fraction of the cost, and recoverable.
-
----
-
-## Connections
-
-→ [73·Assumption Mapping](../Business/assumption-mapping.md) — the upstream step: identify and prioritize which assumptions to test before selecting experiment type. The Experiment Ladder answers *how to test*; Assumption Mapping answers *what to test and in what order*.
-→ [72·Experiment Design](../Business/experiment-design.md) — the downstream step: once you have selected the right experiment type, Experiment Design provides the discipline for running it rigorously — hypothesis formulation, success criteria, sample size, control conditions.
-→ [181·Pretotyping](pretotyping.md) — a specific cluster of simulation-level techniques that test desirability before building; pretotyping sits at the simulation rung of the ladder.
-→ [64·MVP](mvp.md) — a specific product-level experiment; the MVP is one instrument at the product rung, not a synonym for the ladder itself.
-→ [66·Customer Development](customer-development.md) — the methodology for discovery-level experiments; customer development interviews are the primary instrument at the discovery rung.
-→ [63·Build-Measure-Learn](build-measure-learn.md) — the overall cycle within which the ladder operates; the ladder determines which type of "build" is appropriate for each learning loop.
-→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — pre-defining what result would be insufficient to continue; kill criteria applied at each rung of the ladder prevent motivated reasoning from carrying a failing assumption forward.
-→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — the reversibility principle that governs how far up the ladder to go before committing: lower rungs are two-way doors, upper rungs become progressively less reversible.
-## References
-
-- *Testing Business Ideas: A Field Guide for Rapid Experimentation* — David J. Bland & Alexander Osterwalder (2019) — the source of the experiment ladder and the full library of experiment types.
-
 
 ---
 
