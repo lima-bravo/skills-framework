@@ -64,6 +64,9 @@ Updated estimate: 40% (base rate adjusted upward for specific factors she can po
 → [**After-Action Review**](../Leadership/after-action-review.md) — the learning cycle that generates the outcome data needed to improve calibration over time
 → [**Observer Bias**](../Psychology/observer-bias.md) — uncorrected observer bias degrades calibration silently; evaluators who systematically favour expected winners build track records that look accurate but are contaminated by their expectations.
 → [**Business Case Construction**](../Business/business-case-construction.md) — a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive; calibration is what distinguishes analytical from advocacy documents.
+→ [**KPI Architecture**](../Business/kpi-architecture.md) — setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal; calibration is the cognitive discipline behind threshold design.
+
+---
 
 ## References
 

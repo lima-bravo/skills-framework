@@ -52,6 +52,7 @@ A consulting team is engaged to diagnose declining margin in a 40-product portfo
 → [**Situation Assessment**](situation-assessment.md) — the fact base a day-one hypothesis must be tested against; without it, the "hypothesis" is a guess about a situation no one has actually examined.
 → [**Structured Problem Solving**](structured-problem-solving.md) — hypothesis-driven framing as one of five components of an integrated posture; alone, it risks becoming advocacy dressed as rigor.
 → [**Growth Barriers**](../Business/growth-barriers.md) — the binding-constraint diagnosis is a hypothesis until it survives contact with evidence; this card supplies the discipline for testing it cheaply before committing to a full-scale response.
+→ [**KPI Architecture**](../Business/kpi-architecture.md) — choosing a leading indicator is a falsifiable hypothesis about what drives the outcome; KPI architecture is hypothesis-driven thinking applied to measurement design.
 
 ---
 

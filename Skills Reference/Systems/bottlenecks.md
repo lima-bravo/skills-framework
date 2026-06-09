@@ -56,6 +56,9 @@ An engineering team complains they can't ship fast enough. The diagnosis: pull r
 → [**Velocity**](../Physics-and-Chemistry/velocity.md) — bottlenecks reduce speed; directional confusion reduces velocity even when throughput is high.
 → [**Catalysts**](../Physics-and-Chemistry/catalysts.md) — catalysts are most valuable when applied to the bottleneck; the same enabling investment at the constraint produces system-wide returns.
 → [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — fragmented calendars make attention the binding bottleneck for makers; the scheduling structure is the constraint to elevate.
+→ [**KPI Architecture**](../Business/kpi-architecture.md) — the driver-tree logic underneath KPI architecture is the same constraint-tracing logic: find the binding link in the chain, instrument it, and stop measuring what doesn't move the system.
+
+---
 
 ## References
 

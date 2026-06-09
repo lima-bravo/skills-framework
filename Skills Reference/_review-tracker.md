@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **128**
+- Reviewed (verified + fixed): **129**
 - Flagged: **0**
-- Remaining (todo): **134**
+- Remaining (todo): **133**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -196,7 +196,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#247` **Growth Barriers** · `Business/growth-barriers.md` · **st:** fixed · **n:** refs reformatted (4×), removed duplicate Theory-of-Constraints connection; Gap-A x3 (The Goal, Lean Startup, Competing Against Luck), Gap-B2 (Lean Analytics); backlinks in causal-analysis, unit-economics, outcome-vs-output, hypothesis-driven; structural fixes in causal-analysis + unit-economics (missing ---)
 - [x] `#248` **Profit Pool Analysis** · `Business/profit-pool-analysis.md` · **st:** fixed · **n:** refs reformatted (4×), split compound connection; Gap-A (Competitive Advantage), Gap-B2 x3 (2× Gadiesh & Gilbert HBR, Bryce & Dyer HBR); refs 309→312; backlinks in wardley-mapping, long-tail, power-law, red-teaming, kernel-of-strategy, situation-assessment, unit-economics; structural fixes in wardley-mapping/long-tail/power-law
 - [x] `#249` **Customer Segmentation** · `Business/customer-segmentation.md` · **st:** fixed · **n:** refs reformatted (4×); Gap-A x2 (Competing Against Luck, Value Prop Design), Gap-B2 x2 (Moon 2010, Wedel & Kamakura 2000); refs 312→314; backlinks in value-prop-canvas (+struct fix), availability-bias (+struct fix), customer-development (+struct fix), unit-economics, power-law
-- [ ] `#250` **KPI Architecture** · `Business/kpi-architecture.md` · **st:** todo · **n:** —
+- [x] `#250` **KPI Architecture** · `Business/kpi-architecture.md` · **st:** fixed · **n:** refs reformatted (4×); Gap-A x3 (Measure What Matters, Accelerate, Tyranny of Metrics), Gap-B2 (Balanced Scorecard); refs 314→315; backlinks in okrs, dora-metrics, bottlenecks (+struct fix), hypothesis-driven, calibration (+struct fix)
 - [ ] `#251` **Value Realization** · `Business/value-realization.md` · **st:** todo · **n:** —
 - [ ] `#254` **Playing to Win** · `Business/playing-to-win.md` · **st:** todo · **n:** —
 

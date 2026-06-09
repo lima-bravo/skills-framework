@@ -1727,6 +1727,11 @@
           "id": 196,
           "name": "After-Action Review",
           "color": "#1E40AF"
+        },
+        {
+          "id": 250,
+          "name": "KPI Architecture",
+          "color": "#475569"
         }
       ]
     },
@@ -2781,6 +2786,11 @@
           "id": 152,
           "name": "OKRs",
           "color": "#0891B2"
+        },
+        {
+          "id": 250,
+          "name": "KPI Architecture",
+          "color": "#475569"
         }
       ]
     },
@@ -4470,6 +4480,11 @@
           "id": 120,
           "name": "Goodhart's Law",
           "color": "#16A34A"
+        },
+        {
+          "id": 250,
+          "name": "KPI Architecture",
+          "color": "#475569"
         }
       ]
     },
@@ -6274,6 +6289,17 @@
         {
           "id": 249,
           "name": "Customer Segmentation",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "The Balanced Scorecard",
+      "authorYear": "Robert S. Kaplan & David P. Norton (1996)",
+      "skills": [
+        {
+          "id": 250,
+          "name": "KPI Architecture",
           "color": "#475569"
         }
       ]

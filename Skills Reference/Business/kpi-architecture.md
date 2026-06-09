@@ -67,10 +67,10 @@ The new system has nine metrics, not sixty. Each has a named owner, a threshold 
 
 ## References
 
-- Kaplan, R. S. & Norton, D. P. (1996) *The Balanced Scorecard*. Harvard Business School Press. The originating discipline of connecting strategic objectives to a small, multi-perspective measurement system.
-- Doerr, J. (2018) *Measure What Matters*. Portfolio. The OKR framing of outcome-linked goal-setting that a well-built KPI architecture supports.
-- Forsgren, N., Humble, J. & Kim, G. (2018) *Accelerate*. IT Revolution Press. A worked case study in deriving a small, validated, decision-linked metric set (DORA) from a large field of candidates.
-- Muller, J. Z. (2018) *The Tyranny of Metrics*. Princeton University Press. The cautionary counterweight: what happens when measurement systems are built by accretion rather than by design, and start measuring themselves instead of the thing they were meant to track.
+- *The Balanced Scorecard* — Robert S. Kaplan & David P. Norton (1996) — the originating discipline of connecting strategic objectives to a small, multi-perspective measurement system.
+- *Measure What Matters* — John Doerr (2018) — the OKR framing of outcome-linked goal-setting that a well-built KPI architecture supports.
+- *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble & Gene Kim (2018) — a worked case study in deriving a small, validated, decision-linked metric set (DORA) from a large field of candidates.
+- *The Tyranny of Metrics* — Jerry Z. Muller (2018) — the cautionary counterweight: what happens when measurement systems are built by accretion rather than by design, and start measuring themselves instead of the thing they were meant to track.
 
 ---
 

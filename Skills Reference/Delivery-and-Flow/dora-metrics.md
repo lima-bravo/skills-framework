@@ -51,6 +51,7 @@ An enterprise IT organization with 8 product teams is asked to "improve delivery
 → [**Conway's Law**](../Systems/conways-law.md) — DORA performance correlates with team-aligned-to-stream architecture.
 → [**Technical Debt**](technical-debt.md) — rising Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production.
 → [**Reliability vs. Feature Velocity**](reliability-vs-velocity.md) — DORA's four metrics are the inputs to error budget burn rate; Change Failure Rate and MTTR govern the reliability side of the trade-off.
+→ [**KPI Architecture**](../Business/kpi-architecture.md) — DORA is a worked example of KPI architecture done well: a small set of decision-linked, leading-and-lagging metrics derived from first principles for software delivery.
 
 ---
 
