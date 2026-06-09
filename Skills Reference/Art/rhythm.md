@@ -1,10 +1,30 @@
+---
+id: 93
+name: Rhythm
+category: Art
+cardType: standard
+tagline: Pattern and variation create flow
+connections:
+  - id: 92
+    rationale: "rhythm works through contrast: the variation within the pattern is contrast; the pattern itself is rhythm."
+  - id: 90
+    rationale: the right rhythm for any work depends on the audience's attention span, familiarity with the content, and context.
+  - id: 91
+    rationale: the opening rhythm establishes the frame; a carefully designed opening sets the pace and tone for everything that follows.
+references:
+  - title: The Elements of Style
+    authorYear: William Strunk Jr. & E.B. White (1959)
+    supports: sentence-level rhythm as the craft of prose.
+  - title: "Clear and Simple as the Truth: Writing Classic Prose"
+    authorYear: Francis-Noël Thomas & Mark Turner (1994)
+    supports: prose rhythm as a product of structure, not just word choice.
+---
+
 # Rhythm
-*Pattern and variation create flow*
 
 **Category:** [Art](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Rhythm is the temporal and structural pattern of a work — the recurring structure, cadence, and pacing that creates flow and guides attention. In music, rhythm is literal pulse and meter. In writing, it is the pattern of sentence length, stress, and paragraph structure. In design, it is the repetition and variation of visual elements. In conversation and presentations, it is the cadence of ideas, the pacing of argument, and the pattern of energy and rest. Rhythm creates the sense of inevitability and momentum that makes a work feel complete.
@@ -38,19 +58,6 @@ Rhythm operates through expectation and its satisfaction or violation. A pattern
 ## Worked Example
 
 A keynote speaker is preparing a 20-minute talk. Rhythm design: Open with a provocative statement (high energy, short — 30 seconds). Tell a specific story that grounds the problem (medium pace, 4 minutes). Present the core argument in three parts (alternating conceptual and concrete, 10 minutes, with a 30-second pause between each part to let the concept land). Return to the opening story to close the loop (2 minutes). End with a single clear call to action (30 seconds, slowest pace of the talk). The rhythm is designed — not defaulted into — with deliberate variation between dense and spacious, fast and slow, abstract and concrete.
-
----
-
-## Connections
-
-→ [92·Contrast](contrast.md) — rhythm works through contrast: the variation within the pattern is contrast; the pattern itself is rhythm.
-→ [90·Audience](audience.md) — the right rhythm for any work depends on the audience's attention span, familiarity with the content, and context.
-→ [91·Framing](framing.md) — the opening rhythm establishes the frame; a carefully designed opening sets the pace and tone for everything that follows.
-## References
-
-- *The Elements of Style* — William Strunk Jr. & E.B. White (1959) — sentence-level rhythm as the craft of prose.
-- *Clear and Simple as the Truth: Writing Classic Prose* — Francis-Noël Thomas & Mark Turner (1994) — prose rhythm as a product of structure, not just word choice.
-
 
 ---
 

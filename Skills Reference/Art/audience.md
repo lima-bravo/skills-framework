@@ -1,10 +1,32 @@
+---
+id: 90
+name: Audience
+category: Art
+cardType: standard
+tagline: Design for a specific person, not everyone
+connections:
+  - id: 66
+    rationale: customer development generates the empirical data that makes audience models accurate.
+  - id: 69
+    rationale: the customer profile side is the audience model for product design.
+  - id: 91
+    rationale: how information is framed should be calibrated to the specific audience model.
+  - id: 226
+    rationale: the Maxims are constant across audiences; what changes is the calibration of Quantity and Relation depending on what each audience needs to decide.
+references:
+  - title: "This Is Marketing: You Can't Be Seen Until You Learn to See"
+    authorYear: Seth Godin (2018)
+    supports: "the discipline of specificity: choose the smallest viable audience and serve them precisely."
+  - title: "Made to Stick: Why Some Ideas Survive and Others Die"
+    authorYear: Chip Heath & Dan Heath (2007)
+    supports: what makes ideas land with a specific audience.
+---
+
 # Audience
-*Design for a specific person, not everyone*
 
 **Category:** [Art](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 In art, design, writing, and communication, the audience is the specific person or group for whom the work is created. The most common failure in communication and creative work is designing for an abstract, undifferentiated "everyone" — which typically produces work that resonates with nobody in particular. The discipline of audience is to create a vivid, specific model of the one person most likely to benefit from this work, and to design the work entirely for them.
@@ -37,21 +59,6 @@ Seth Godin's formulation: "Who is it for? What is it for?" Every element of the 
 ## Worked Example
 
 A product team is designing onboarding for a B2B analytics tool. Their default audience model: "our user." After forcing specificity: "a data analyst at a mid-market e-commerce company who has been told by their manager to set up dashboard reporting, has basic SQL knowledge, is under time pressure, and will be blamed if the tool doesn't produce results quickly." Every onboarding design choice — the first template to show, the jargon level in the UI copy, the sample data used in demos — changes based on this specific audience model versus the generic "our user."
-
----
-
-## Connections
-
-→ [66·Customer Development](../Startups/customer-development.md) — customer development generates the empirical data that makes audience models accurate.
-→ [69·Value Prop Canvas](../Business/value-prop-canvas.md) — the customer profile side is the audience model for product design.
-→ [91·Framing](framing.md) — how information is framed should be calibrated to the specific audience model.
-→ [226·Grice's Maxims](../General-Thinking/grices-maxims.md) — the Maxims are constant across audiences; what changes is the calibration of Quantity and Relation depending on what each audience needs to decide.
-
-## References
-
-- *This Is Marketing: You Can't Be Seen Until You Learn to See* — Seth Godin (2018) — the discipline of specificity: choose the smallest viable audience and serve them precisely.
-- *Made to Stick: Why Some Ideas Survive and Others Die* — Chip Heath & Dan Heath (2007) — what makes ideas land with a specific audience.
-
 
 ---
 

@@ -1,10 +1,27 @@
+---
+id: 92
+name: Contrast
+category: Art
+cardType: standard
+tagline: Meaning emerges from difference
+connections:
+  - id: 91
+    rationale: contrast is often used to establish the frame (current state vs. desired state, problem vs. solution).
+  - id: 90
+    rationale: what constitutes meaningful contrast depends on the audience's context and knowledge.
+  - id: 93
+    rationale: contrast is the mechanism that creates variety within rhythm; the two work together.
+references:
+  - title: "Art and Visual Perception: A Psychology of the Creative Eye"
+    authorYear: Rudolf Arnheim (1954)
+    supports: the Gestalt principles of perceptual contrast as the foundation of visual hierarchy.
+---
+
 # Contrast
-*Meaning emerges from difference*
 
 **Category:** [Art](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Contrast is the juxtaposition of different elements to create visual, conceptual, or emotional impact through their difference. In graphic design, contrast between light and dark, large and small, or complex and simple creates hierarchy and focus. In writing, contrast between the expected and the unexpected creates surprise and emphasis. In argument, contrast between the current state and the desired state defines the problem. In teaching, contrast between the wrong answer and the right answer deepens understanding. Meaning emerges more clearly from difference than from uniformity.
@@ -37,18 +54,6 @@ The brain is a difference-detector, not an absolute-value sensor. Sensory percep
 ## Worked Example
 
 A consulting firm's presentations suffer from slide decks with 40 uniformly formatted slides — same font size, same amount of text, same visual weight throughout. The audience loses the thread halfway through. A redesign principle: every deck must have a maximum of five "key message" slides with dramatically different formatting (large text, minimal words, high visual contrast) and supporting evidence slides with normal density. The contrast between the two types signals immediately which slides demand attention and which are background. Audience comprehension of key messages doubles.
-
----
-
-## Connections
-
-→ [91·Framing](framing.md) — contrast is often used to establish the frame (current state vs. desired state, problem vs. solution).
-→ [90·Audience](audience.md) — what constitutes meaningful contrast depends on the audience's context and knowledge.
-→ [93·Rhythm](rhythm.md) — contrast is the mechanism that creates variety within rhythm; the two work together.
-## References
-
-- *Art and Visual Perception: A Psychology of the Creative Eye* — Rudolf Arnheim (1954) — the Gestalt principles of perceptual contrast as the foundation of visual hierarchy.
-
 
 ---
 

@@ -1,10 +1,40 @@
+---
+id: 91
+name: Framing
+category: Art
+cardType: standard
+tagline: The frame shapes how the content is received
+connections:
+  - id: 52
+    rationale: framing as loss vs. gain activates loss aversion differentially; the practitioner chooses frames accordingly.
+  - id: 54
+    rationale: a frame sets the anchor; all subsequent content is evaluated relative to it.
+  - id: 90
+    rationale: the right frame for a given content depends entirely on who the audience is.
+  - id: 234
+    rationale: framing is the mechanism by which Overton Windows are maintained or shifted; whoever controls the frame defines what is thinkable.
+  - id: 236
+    rationale: framing creates salience, which creates Schelling Points; the most prominent framing tends to become the focal point for coordination.
+  - id: 13
+    rationale: each hat is a distinct frame; the Six Hats is a systematic method for cycling through multiple frames of the same problem.
+  - id: 226
+    rationale: Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
+  - id: 202
+    rationale: social proof provides the behaviour signal that framing then shapes; the same adoption behaviour is interpreted differently depending on how it is framed to observers.
+references:
+  - title: "Frame Analysis: An Essay on the Organization of Experience"
+    authorYear: Erving Goffman (1974)
+    supports: "the sociological source text: frames as the cognitive structures that organize perception."
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: "the experimental evidence for framing effects: the same information produces opposite decisions depending on presentation."
+---
+
 # Framing
-*The frame shapes how the content is received*
 
 **Category:** [Art](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Framing is the presentation context that shapes how information is perceived and interpreted. The same fact, option, or situation can produce dramatically different responses depending on how it is framed: as a gain or a loss, as common or rare, as progress or failure, in terms of what it includes or what it excludes. The frame is not the content — it is the interpretive structure that surrounds the content and activates specific mental associations, emotions, and evaluative schemas in the audience.
@@ -38,25 +68,6 @@ Content enters a frame. The frame determines which reference points, mental sche
 ## Worked Example
 
 A CFO needs to present a £2M cost overrun to the board. Two frames: Frame 1: "We exceeded our budget by £2M due to project scope changes." Frame 2: "We invested an incremental £2M in capabilities that position us to capture the £15M market opportunity we identified in Q3 — here's the expected return." Both frames describe the same fact. Frame 1 activates a loss/failure schema. Frame 2 activates an investment/opportunity schema. The content that follows each frame is identical; the interpretive context is entirely different. The choice of frame determines whether the board's response is disciplinary or exploratory.
-
----
-
-## Connections
-
-→ [52·Loss Aversion](../Psychology/loss-aversion.md) — framing as loss vs. gain activates loss aversion differentially; the practitioner chooses frames accordingly.
-→ [54·Anchoring](../Psychology/anchoring.md) — a frame sets the anchor; all subsequent content is evaluated relative to it.
-→ [90·Audience](audience.md) — the right frame for a given content depends entirely on who the audience is.
-→ [234·Overton Window](../General-Thinking/overton-window.md) — framing is the mechanism by which Overton Windows are maintained or shifted; whoever controls the frame defines what is thinkable.
-→ [236·Schelling Points](../Economics/schelling-points.md) — framing creates salience, which creates Schelling Points; the most prominent framing tends to become the focal point for coordination.
-→ [13·De Bono's Six Thinking Hats](../General-Thinking/de-bonos-six-thinking-hats.md) — each hat is a distinct frame; the Six Hats is a systematic method for cycling through multiple frames of the same problem.
-→ [226·Grice's Maxims](../General-Thinking/grices-maxims.md) — Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
-→ [202·Social Proof](../Psychology/social-proof.md) — social proof provides the behaviour signal that framing then shapes; the same adoption behaviour is interpreted differently depending on how it is framed to observers.
-
-## References
-
-- *Frame Analysis: An Essay on the Organization of Experience* — Erving Goffman (1974) — the sociological source text: frames as the cognitive structures that organize perception.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the experimental evidence for framing effects: the same information produces opposite decisions depending on presentation.
-
 
 ---
 
