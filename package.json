@@ -14,6 +14,14 @@
     "generate:ai-index": "node scripts/generate-ai-index.mjs",
     "build:situation-finder": "node scripts/build-situation-finder.mjs",
     "snapshot:test": "node scripts/snapshot-test.mjs",
+    "test:parse-skill": "node scripts/lib/parse-skill.test.mjs",
     "check:counts": "node scripts/check-counts.mjs"
+  },
+  "dependencies": {
+    "mdast-util-to-string": "^4.0.0",
+    "remark-frontmatter": "^5.0.0",
+    "remark-parse": "^11.0.0",
+    "unified": "^11.0.5",
+    "unist-util-visit": "^5.1.0"
   }
 }
