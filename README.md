@@ -6,7 +6,7 @@ A mental-models framework with a publishable **reference website** (`docs/`), pe
 
 ## Where to start
 
-**If you have a specific problem or situation** → open [`docs/situation-finder.html`](docs/situation-finder.html). 45 first-person situations with keyword search, each mapped to 3–4 curated skills and relevant chains. This is the recommended entry point.
+**If you have a specific problem or situation** → open [`docs/situation-finder.html`](docs/situation-finder.html). 60 first-person situations with keyword search, each mapped to curated skills and relevant chains. Source: `Skills Reference/situations.json`. This is the recommended entry point.
 
 **If you're scanning a business across multiple dimensions** → open [`docs/executive-scan.html`](docs/executive-scan.html). Ten business lenses (strategy, portfolio economics, delivery, culture, metric integrity, innovation, incentives, risk, AI exposure, operating model), each with starter skills and diagnostic questions to ask.
 
@@ -77,7 +77,8 @@ Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 | File | Contents |
 |------|----------|
 | `docs/index.html` | Landing page |
-| `docs/situation-finder.html` | 45 situations → skill clusters |
+| `Skills Reference/situations.json` | Situation → skill mappings (source) |
+| `docs/situation-finder.html` | Generated situation finder |
 | `docs/executive-scan.html` | 10-dimension business scan |
 | `docs/quick-reference.html` | Printable cheat sheet |
 
@@ -178,7 +179,9 @@ docs/
   index.html                 # Landing page (edit directly)
   deck.html                  # Generated card deck
   graph.html                 # Generated connection graph
-  situation-finder.html      # 45 situations → skills (edit directly)
+  situations.json            # Situation → skill mappings (source)
+  situation-finder.template.html
+  situation-finder.html      # Generated situation finder
   executive-scan.html        # 10-dimension scan (edit directly)
   quick-reference.html       # Printable cheat sheet (edit directly)
   training-guide.html        # Generated from training-guide.md
