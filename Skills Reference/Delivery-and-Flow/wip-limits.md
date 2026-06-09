@@ -1,10 +1,36 @@
+---
+id: 132
+name: WIP Limits
+category: Delivery & Flow
+cardType: standard
+tagline: Explicit caps on work-in-progress that pull, rather than push, new work
+connections:
+  - id: 131
+    rationale: WIP limits are how Little's Law becomes management practice; lower L, lower W.
+  - id: 138
+    rationale: Kanban is the system; WIP limits are the active ingredient.
+  - id: 18
+    rationale: WIP limits at non-bottleneck stages force the constraint to become visible.
+  - id: 133
+    rationale: limiting WIP cuts wait time, which is where most cycle time hides.
+  - id: 148
+    rationale: individual WIP limits are the personal analogue.
+  - id: 241
+    rationale: "WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion."
+references:
+  - title: "Kanban: Successful Evolutionary Change for Your Technology Business"
+    authorYear: David J. Anderson (2010).
+  - title: The Principles of Product Development Flow
+    authorYear: Donald G. Reinertsen (2009).
+  - title: "Toyota Production System: Beyond Large-Scale Production"
+    authorYear: Taiichi Ohno (1988).
+---
+
 # WIP Limits
-*Explicit caps on work-in-progress that pull, rather than push, new work*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A WIP limit is an explicit cap on the number of items allowed in a stage of work — or in a whole system — at any one time. New items only enter when an in-flight item leaves; this converts a push system (work is assigned when capacity is created) into a pull system (work is pulled when capacity is freed). WIP limits are the operating mechanism that turns Little's Law from arithmetic into management. They originated in the Toyota Production System (Taiichi Ohno, 1950s) and were generalized to knowledge work by David J. Anderson's Kanban Method in 2010.
@@ -42,23 +68,6 @@ Think of a buffet line with one chef and four pans. A pull system says: only whe
 A marketing operations team has 22 campaigns in flight across 8 people. Cycle time has crept from three weeks to nine. Leadership's instinct is "we need to hire." Instead, the team sets a WIP limit of 12 (current minus 10) and a swarm policy for blocked items. In the first two weeks, three campaigns finish, two are killed (no one could justify them), and a stakeholder priority conversation surfaces that wasn't happening before. Cycle time on completed work falls to four weeks. No new hires; the lever was admission control.
 
 ---
-
-## Connections
-
-→ [131·Little's Law](littles-law.md) — WIP limits are how Little's Law becomes management practice; lower L, lower W.
-→ [138·Kanban Method](kanban-method.md) — Kanban is the system; WIP limits are the active ingredient.
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — WIP limits at non-bottleneck stages force the constraint to become visible.
-→ [133·Flow Efficiency](flow-efficiency.md) — limiting WIP cuts wait time, which is where most cycle time hides.
-→ [148·Attention Budget](attention-budget.md) — individual WIP limits are the personal analogue.
-→ [241·Parkinson's Law](../Business/parkinsons-law.md) — WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion.
-
----
-
-## References
-
-- *Kanban: Successful Evolutionary Change for Your Technology Business* — David J. Anderson (2010).
-- *The Principles of Product Development Flow* — Donald G. Reinertsen (2009).
-- *Toyota Production System: Beyond Large-Scale Production* — Taiichi Ohno (1988).
 
 ---
 

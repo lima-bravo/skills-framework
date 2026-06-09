@@ -1,10 +1,36 @@
+---
+id: 158
+name: Lean Portfolio Management
+category: Delivery & Flow
+cardType: standard
+tagline: Flow-based funding and prioritization at the portfolio level
+connections:
+  - id: 137
+    rationale: the economic input that powers LPM prioritization.
+  - id: 159
+    rationale: the practical sequencing rule.
+  - id: 143
+    rationale: the dashboard for portfolio health.
+  - id: 153
+    rationale: the mechanism that prevents portfolio bloat.
+  - id: 70
+    rationale: stage-gate funding is the contrast LPM is designed to replace.
+  - id: 216
+    rationale: portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating LTV:CAC is a kill candidate regardless of revenue trajectory.
+references:
+  - title: SAFe Lean Portfolio Management
+    authorYear: Dean Leffingwell et al. (Scaled Agile).
+  - title: Lean Enterprise
+    authorYear: Jez Humble, Joanne Molesky & Barry O'Reilly (2014).
+  - title: The Principles of Product Development Flow
+    authorYear: Donald G. Reinertsen (2009).
+---
+
 # Lean Portfolio Management
-*Flow-based funding and prioritization at the portfolio level*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Lean Portfolio Management (LPM) applies flow principles — limit WIP, fund value streams (not projects), use cost-of-delay to prioritize, govern with lightweight cadences — to the portfolio level. It contrasts with traditional annual planning, project-based funding, and stage-gate governance, which were designed for low-variability industrial work. LPM's roots are in lean (Womack & Jones), product development flow (Reinertsen), and the Scaled Agile and Flow Framework communities. The operational pattern: persistent funding of teams and value streams; small, frequently-revised portfolio bets; visible WIP across initiatives; cost-of-delay-driven sequencing; and short feedback cycles between investment and outcome.
@@ -42,23 +68,6 @@ Traditional portfolio management funds projects: each gets a budget, a charter, 
 A 2500-person enterprise IT organization runs 28 simultaneous large initiatives funded annually via business cases. Quarterly status reviews are uniformly "green," yet delivery dates routinely slip 30–50%. A six-month LPM transition: (1) fund 14 value streams with persistent capacity; (2) cap portfolio WIP at 12 active large initiatives; (3) install monthly portfolio cadence with cost-of-delay scoring; (4) write kill criteria for all funded initiatives. First-year outcomes: 8 initiatives killed in flight (≈$14M reallocated), median delivery slip down from 38% to 11%, three of 12 active initiatives produce verifiable customer-outcome change vs. zero in the prior year. The new portfolio committee reports the kills as the single most-valued change.
 
 ---
-
-## Connections
-
-→ [137·Cost of Delay](cost-of-delay.md) — the economic input that powers LPM prioritization.
-→ [159·WSJF](wsjf.md) — the practical sequencing rule.
-→ [143·Flow Metrics](flow-metrics.md) — the dashboard for portfolio health.
-→ [153·Kill Criteria](kill-criteria.md) — the mechanism that prevents portfolio bloat.
-→ [70·Innovation Funnel](../Business/innovation-funnel.md) — stage-gate funding is the contrast LPM is designed to replace.
-→ [216·Unit Economics](../Economics/unit-economics.md) — portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating LTV:CAC is a kill candidate regardless of revenue trajectory.
-
----
-
-## References
-
-- *SAFe Lean Portfolio Management* — Dean Leffingwell et al. (Scaled Agile).
-- *Lean Enterprise* — Jez Humble, Joanne Molesky & Barry O'Reilly (2014).
-- *The Principles of Product Development Flow* — Donald G. Reinertsen (2009).
 
 ---
 

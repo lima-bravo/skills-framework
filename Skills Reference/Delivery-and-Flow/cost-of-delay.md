@@ -1,10 +1,32 @@
+---
+id: 137
+name: Cost of Delay
+category: Delivery & Flow
+cardType: standard
+tagline: The economic value of completing something one period sooner
+connections:
+  - id: 159
+    rationale: Weighted Shortest Job First operationalizes CoD into a prioritization rule.
+  - id: 30
+    rationale: CoD is the time dimension of trade-off reasoning.
+  - id: 153
+    rationale: items whose CoD has collapsed are candidates for stopping.
+  - id: 158
+    rationale: CoD is the input that lets portfolio funding follow economic value.
+  - id: 141
+    rationale: pairs with CoD to estimate the dollar value of "ship this six weeks earlier."
+references:
+  - title: The Principles of Product Development Flow
+    authorYear: Donald G. Reinertsen (2009).
+  - title: "SAFe: Scaled Agile Framework"
+    authorYear: Dean Leffingwell (CoD/WSJF practice).
+---
+
 # Cost of Delay
-*The economic value of completing something one period sooner*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Cost of Delay (CoD) is the economic value lost per unit of time that a piece of work is not completed — usually expressed in currency per week. It converts diffuse arguments about importance and urgency into a single comparable number. Donald Reinertsen popularized the metric in product development, framing it as the missing economic input that turns prioritization from politics into arithmetic. CoD is not "how valuable is this?" — it is "what does another week of waiting cost?" That distinction is what makes it usable for ranking work under scarcity.
@@ -41,22 +63,6 @@ Imagine two initiatives, A and B, each worth $1M when shipped. A has a hard regu
 A product portfolio committee has 11 funded initiatives competing for capacity that supports 4. Sorted by business case value, results split four-ways evenly. Adding CoD: two initiatives have hard regulatory or contractual deadlines (CoD = $400k/week), three are quietly bleeding customers to competitors (CoD = $150–250k/week), and the rest are evergreen (CoD < $20k/week). With job-size estimates layered in (WSJF), the queue reorders dramatically. The four initiatives selected ship $3.2M more in the year than the original value-based ranking would have produced.
 
 ---
-
-## Connections
-
-→ [159·WSJF](wsjf.md) — Weighted Shortest Job First operationalizes CoD into a prioritization rule.
-→ [30·Trade-offs](../Economics/trade-offs.md) — CoD is the time dimension of trade-off reasoning.
-→ [153·Kill Criteria](kill-criteria.md) — items whose CoD has collapsed are candidates for stopping.
-→ [158·Lean Portfolio Management](lean-portfolio.md) — CoD is the input that lets portfolio funding follow economic value.
-→ [141·Probabilistic Forecasting](probabilistic-forecasting.md) — pairs with CoD to estimate the dollar value of "ship this six weeks earlier."
-
----
-
-## References
-
-- *The Principles of Product Development Flow* — Donald G. Reinertsen (2009).
-- *SAFe: Scaled Agile Framework* — Dean Leffingwell (CoD/WSJF practice).
-- Joshua Arnold & Özlem Yüce, "Black Swan Farming Using Cost of Delay" (papers, 2013–2015).
 
 ---
 

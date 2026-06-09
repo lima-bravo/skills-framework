@@ -1,10 +1,34 @@
+---
+id: 143
+name: Flow Metrics
+category: Delivery & Flow
+cardType: standard
+tagline: "Portfolio-level health: distribution, velocity, time, efficiency, load"
+connections:
+  - id: 142
+    rationale: DORA measures delivery capability; flow metrics measure portfolio health.
+  - id: 144
+    rationale: flow metrics describe outputs; outcome metrics anchor the why.
+  - id: 158
+    rationale: flow metrics are the dashboard for portfolio decisions.
+  - id: 133
+    rationale: Flow Framework's efficiency metric is the value-stream-level version.
+  - id: 132
+    rationale: Flow Load makes WIP visible at portfolio scale.
+references:
+  - title: Project to Product
+    authorYear: Mik Kersten (2018).
+  - title: Accelerate
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+  - title: The Phoenix Project
+    authorYear: Gene Kim, Kevin Behr & George Spafford (2013).
+---
+
 # Flow Metrics
-*Portfolio-level health: distribution, velocity, time, efficiency, load*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Flow Framework (Mik Kersten, *Project to Product*, 2018) defines five "flow metrics" applied at the value-stream or product level: **Flow Distribution** (mix of features, defects, debt, and risk being worked), **Flow Velocity** (items delivered per period), **Flow Time** (start-to-finish elapsed time per item), **Flow Efficiency** (active work ÷ total time), and **Flow Load** (items in progress). Together they answer the executive question DORA does not: "how is the portfolio investing its capacity, and is the system healthy?" Flow metrics complement DORA — DORA measures how good the engine is; flow metrics measure what the engine is being used for.
@@ -41,22 +65,6 @@ If DORA is the speedometer, flow metrics are the dashboard. Flow Distribution sh
 A 14-value-stream enterprise dashboards Flow Distribution for the first time. Aggregate: 78% features, 11% defects, 6% debt, 5% risk. Leadership had assumed roughly 50/50. The realization triggers a portfolio reset: caps on feature load until incident and debt trends reverse. Six months later, Distribution is 58/15/17/10; defect rates have halved, incident frequency is down 35%, and feature throughput is unchanged because the team is no longer firefighting. The CFO sees the trade and approves a continued bias toward debt and risk for the next two quarters.
 
 ---
-
-## Connections
-
-→ [142·DORA Metrics](dora-metrics.md) — DORA measures delivery capability; flow metrics measure portfolio health.
-→ [144·Outcome vs Output](outcome-vs-output.md) — flow metrics describe outputs; outcome metrics anchor the why.
-→ [158·Lean Portfolio Management](lean-portfolio.md) — flow metrics are the dashboard for portfolio decisions.
-→ [133·Flow Efficiency](flow-efficiency.md) — Flow Framework's efficiency metric is the value-stream-level version.
-→ [132·WIP Limits](wip-limits.md) — Flow Load makes WIP visible at portfolio scale.
-
----
-
-## References
-
-- *Project to Product* — Mik Kersten (2018).
-- *Accelerate* — Nicole Forsgren, Jez Humble & Gene Kim (2018).
-- *The Phoenix Project* — Gene Kim, Kevin Behr & George Spafford (2013).
 
 ---
 

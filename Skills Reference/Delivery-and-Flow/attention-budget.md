@@ -1,10 +1,34 @@
+---
+id: 148
+name: Attention Budget
+category: Delivery & Flow
+cardType: standard
+tagline: Personal WIP discipline — the individual analogue of flow
+connections:
+  - id: 132
+    rationale: the team analogue of personal attention budgeting.
+  - id: 149
+    rationale: the mechanism the attention budget addresses.
+  - id: 116
+    rationale: the day-shape required for cognitively expensive work.
+  - id: 114
+    rationale: the practice the attention budget enables.
+  - id: 150
+    rationale: the team-level variant.
+references:
+  - title: "Deep Work: Rules for Focused Success in a Distracted World"
+    authorYear: Cal Newport (2016).
+  - title: The Principles of Product Development Flow
+    authorYear: Donald G. Reinertsen (2009).
+  - title: Getting Things Done
+    authorYear: David Allen (2001).
+---
+
 # Attention Budget
-*Personal WIP discipline — the individual analogue of flow*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 An attention budget is the explicit limit a knowledge worker — particularly a leader or consultant — places on the number of concurrent commitments their attention is split across. It treats focus as a finite resource subject to Little's Law: the more open loops, the longer each one takes to close, and the more cognitive overhead is consumed by context switching. The concept synthesizes Cal Newport's *Deep Work* (2016), David Allen's *Getting Things Done* (2001), and Reinertsen's individual-WIP framing into a single operational rule: budget attention before time, because attention is the binding constraint.
@@ -42,22 +66,6 @@ A leader who is "on" seven initiatives, six clients, and four programs simultane
 A consulting partner running eight workstreams reports chronic delays and team frustration. An attention audit reveals 22 active commitments on the calendar, 14 of which the partner is the named decision-maker on. A 90-day reset caps concurrent active commitments at four; the remaining 18 are either transferred to other partners, paused with explicit owners, or killed. Within six weeks: response time on the four active commitments drops 4x, the partner reports having time to think for the first time in two years, and client satisfaction on the surviving four rises. The partner had not lacked time; they had lacked attention.
 
 ---
-
-## Connections
-
-→ [132·WIP Limits](wip-limits.md) — the team analogue of personal attention budgeting.
-→ [149·Context-Switching Cost](context-switching.md) — the mechanism the attention budget addresses.
-→ [116·Maker's Schedule](../Business/makers-schedule.md) — the day-shape required for cognitively expensive work.
-→ [114·Deep Work](../Business/deep-work.md) — the practice the attention budget enables.
-→ [150·Cognitive Load Theory](cognitive-load-team.md) — the team-level variant.
-
----
-
-## References
-
-- *Deep Work: Rules for Focused Success in a Distracted World* — Cal Newport (2016).
-- *The Principles of Product Development Flow* — Donald G. Reinertsen (2009).
-- *Getting Things Done* — David Allen (2001).
 
 ---
 

@@ -1,10 +1,38 @@
+---
+id: 154
+name: Team Topologies
+category: Delivery & Flow
+cardType: standard
+tagline: Four team types and three interaction modes — for fast flow
+connections:
+  - id: 28
+    rationale: Team Topologies is an applied Conway maneuver.
+  - id: 155
+    rationale: deliberately shaping teams to produce desired architecture.
+  - id: 150
+    rationale: the constraint Team Topologies optimizes against.
+  - id: 41
+    rationale: platforms are force multipliers; the leverage card explains the underlying mechanism.
+  - id: 156
+    rationale: interaction modes are dependency contracts.
+  - id: 257
+    rationale: Team Topologies defines team *types*; Span of Control governs team *size*. Both constraints must be satisfied for effective flow.
+  - id: 243
+    rationale: "Dunbar's Number is the cognitive constraint Team Topologies operationalises: team sizes and interaction patterns are bounded by what human relationship networks can sustain."
+references:
+  - title: "Team Topologies: Organizing Business and Technology Teams for Fast Flow"
+    authorYear: Matthew Skelton & Manuel Pais (2019).
+  - title: Accelerate
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+  - title: Project to Product
+    authorYear: Mik Kersten (2018).
+---
+
 # Team Topologies
-*Four team types and three interaction modes — for fast flow*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 *Team Topologies* (Matthew Skelton & Manuel Pais, 2019) is a modern model for organizing software-intensive work around the flow of value. It names four team types — **stream-aligned** (own end-to-end flow for a value stream), **enabling** (help stream-aligned teams acquire capabilities), **complicated-subsystem** (carry deep specialist expertise), and **platform** (reduce extraneous load by providing internal services) — and three interaction modes — **collaboration** (close, short-term), **X-as-a-Service** (consume a clean API), and **facilitating** (help, then withdraw). The framing replaces project teams, matrixed teams, and feature teams as the canonical org-design lens for flow.
@@ -41,22 +69,6 @@ Most enterprise org-charts treat teams as boxes labelled by function (engineerin
 A 400-person fintech reorganization moves from a 30-team feature-matrix to a Team Topologies model. The mapping: 14 stream-aligned teams (each owns one customer journey end-to-end), 4 platform teams (identity, deployment, observability, data), 2 complicated-subsystem teams (risk engine, payment connectivity), and a small enabling team that rotates capability uplift through stream-aligned teams. Interaction modes are written and visible on a wall. Within a year, DORA metrics move from low- to high-band on three of four indicators, cross-team dependency tickets fall 60%, and onboarding time for new senior engineers drops from 7 to 9 weeks down to 4. The biggest difficulty was killing two persistent collaboration relationships that the old org-chart had required.
 
 ---
-
-## Connections
-
-→ [28·Conway's Law](../Systems/conways-law.md) — Team Topologies is an applied Conway maneuver.
-→ [155·Inverse Conway Maneuver](inverse-conway.md) — deliberately shaping teams to produce desired architecture.
-→ [150·Cognitive Load (Team)](cognitive-load-team.md) — the constraint Team Topologies optimizes against.
-→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — platforms are force multipliers; the leverage card explains the underlying mechanism.
-→ [156·Dependency Management](dependency-management.md) — interaction modes are dependency contracts.
-→ [257·Span of Control](span-of-control.md) — Team Topologies defines team *types*; Span of Control governs team *size*. Both constraints must be satisfied for effective flow.
-→ [243·Dunbar's Number](../Systems/dunbars-number.md) — Dunbar's Number is the cognitive constraint Team Topologies operationalises: team sizes and interaction patterns are bounded by what human relationship networks can sustain.
-
-## References
-
-- *Team Topologies: Organizing Business and Technology Teams for Fast Flow* — Matthew Skelton & Manuel Pais (2019).
-- *Accelerate* — Nicole Forsgren, Jez Humble & Gene Kim (2018).
-- *Project to Product* — Mik Kersten (2018).
 
 ---
 

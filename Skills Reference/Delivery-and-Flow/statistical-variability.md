@@ -1,10 +1,36 @@
+---
+id: 140
+name: Statistical Variability
+category: Delivery & Flow
+cardType: standard
+tagline: Why percent-complete and single dates are lies the system tells you
+connections:
+  - id: 141
+    rationale: variability is the input to Monte Carlo and other forecast methods.
+  - id: 209
+    rationale: variability is why determinism is unavailable in complex work, and why EPC's inspect-and-adapt cycle is necessary.
+  - id: 135
+    rationale: variability is what makes utilization × variability blow up wait time.
+  - id: 134
+    rationale: variability is why percentile reporting beats mean reporting.
+  - id: 120
+    rationale: single-number commitments become targets and degrade the underlying behavior.
+  - id: 77
+    rationale: short-run extremes will revert; don't overreact.
+references:
+  - title: Out of the Crisis
+    authorYear: W. Edwards Deming (1986).
+  - title: Actionable Agile Metrics for Predictability
+    authorYear: Daniel S. Vacanti (2015).
+  - title: When Will It Be Done?
+    authorYear: Daniel S. Vacanti (2020).
+---
+
 # Statistical Variability
-*Why percent-complete and single dates are lies the system tells you*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Statistical variability is the spread of outcomes a process produces under apparently identical conditions. In delivery, completion times for nominally similar items follow long-tailed distributions: the median is much smaller than the mean, and the 95th percentile is much larger than either. The implication: any planning method that uses a single number — percent-complete, point estimate, target date — is suppressing variability that the system will surface anyway. The work of W. Edwards Deming and Walter Shewhart on statistical process control established this in manufacturing; Daniel Vacanti, Troy Magennis, and Reinertsen adapted it to knowledge work.
@@ -41,23 +67,6 @@ Roll a six-sided die. The "average" outcome is 3.5, but every actual roll is 1, 
 An operations team is held to a 10-day SLA, computed as the mean of last quarter's cycle times. Performance reports show "97% on average," yet customer complaints are constant. The histogram reveals: median 6 days, 85th percentile 19 days, 95th percentile 34 days. The mean was hiding a long tail. Switching the SLA to "85% within 14 days" — honest about the distribution — both reduces customer surprise and points the team's improvement work at the tail items, where the value is. Within a quarter, the 95th-percentile drops to 22 days; the mean barely moves but the complaints fall sharply.
 
 ---
-
-## Connections
-
-→ [141·Probabilistic Forecasting](probabilistic-forecasting.md) — variability is the input to Monte Carlo and other forecast methods.
-→ [209·Empirical Process Control](empirical-process-control.md) — variability is why determinism is unavailable in complex work, and why EPC's inspect-and-adapt cycle is necessary.
-→ [135·Queueing & Wait Time](queueing.md) — variability is what makes utilization × variability blow up wait time.
-→ [134·Lead Time vs Cycle Time](lead-time-cycle-time.md) — variability is why percentile reporting beats mean reporting.
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — single-number commitments become targets and degrade the underlying behavior.
-→ [77·Regression to the Mean](../Mathematics/regression-to-the-mean.md) — short-run extremes will revert; don't overreact.
-
----
-
-## References
-
-- *Out of the Crisis* — W. Edwards Deming (1986).
-- *Actionable Agile Metrics for Predictability* — Daniel S. Vacanti (2015).
-- *When Will It Be Done?* — Daniel S. Vacanti (2020).
 
 ---
 

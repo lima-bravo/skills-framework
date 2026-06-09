@@ -1,10 +1,32 @@
+---
+id: 149
+name: Context-Switching Cost
+category: Delivery & Flow
+cardType: standard
+tagline: The hidden tax on fragmented attention
+connections:
+  - id: 148
+    rationale: the individual-WIP framing that prevents switching tax.
+  - id: 116
+    rationale: calendar design for low-switching days.
+  - id: 132
+    rationale: concurrent items create switching at every level.
+  - id: 150
+    rationale: switching adds extraneous load.
+  - id: 114
+    rationale: the practice context-switching defends against.
+references:
+  - title: "Quality Software Management Vol. 1: Systems Thinking"
+    authorYear: Gerald M. Weinberg (1992).
+  - title: "Peopleware: Productive Projects and Teams"
+    authorYear: Tom DeMarco & Timothy Lister (1987).
+---
+
 # Context-Switching Cost
-*The hidden tax on fragmented attention*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Context-switching cost is the productivity loss incurred when a worker (or team) shifts attention between unrelated tasks. The loss has three components: the time to put one context away, the time to load the next, and a tail of degraded performance while the new context fully reloads. Gerald Weinberg's *Quality Software Management* (1992) estimated that two simultaneous projects cost roughly 20% of capacity to switching; three projects cost roughly 40%; five projects roughly 75%. The exact numbers are contested; the rough shape — non-linear and severe — is robust across studies.
@@ -41,22 +63,6 @@ Think of a chef working on three meals at once versus one at a time. Each time t
 A product lead reports being "fully booked but never finishing anything." A two-week diary study reveals 47 distinct context-switches per day on average, with the longest uninterrupted block being 18 minutes. Three interventions: (1) move 1:1s and reviews into two-day clusters so the other three days have multi-hour open blocks; (2) move team Slack response expectations from "within an hour" to "within four hours" for non-urgent topics; (3) introduce a "no-meetings Wednesday" norm. Six weeks later: deep-work blocks average 90 minutes, total meeting time is unchanged, output is up — measurably so, because three initiatives that had been "stuck for months" cleared in two weeks.
 
 ---
-
-## Connections
-
-→ [148·Attention Budget](attention-budget.md) — the individual-WIP framing that prevents switching tax.
-→ [116·Maker's Schedule](../Business/makers-schedule.md) — calendar design for low-switching days.
-→ [132·WIP Limits](wip-limits.md) — concurrent items create switching at every level.
-→ [150·Cognitive Load Theory](cognitive-load-team.md) — switching adds extraneous load.
-→ [114·Deep Work](../Business/deep-work.md) — the practice context-switching defends against.
-
----
-
-## References
-
-- *Quality Software Management Vol. 1: Systems Thinking* — Gerald M. Weinberg (1992).
-- *Peopleware: Productive Projects and Teams* — Tom DeMarco & Timothy Lister (1987).
-- "Executive Control of Cognitive Processes in Task Switching" — Joshua Rubinstein, David Meyer & Jeffrey Evans (2001).
 
 ---
 

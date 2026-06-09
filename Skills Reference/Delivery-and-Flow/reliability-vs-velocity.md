@@ -1,10 +1,38 @@
+---
+id: 256
+name: Reliability vs. Feature Velocity
+category: Delivery & Flow
+cardType: standard
+tagline: Make the trade-off explicit, or the system will make it for you.
+connections:
+  - id: 142
+    rationale: Change Failure Rate and MTTR are the primary inputs to error budget burn rate.
+  - id: 255
+    rationale: accumulated debt converts error budget into debt-service; the reliability-velocity trade-off becomes structurally unfavorable in high-debt systems.
+  - id: 24
+    rationale: "an error budget is an engineering-specific form of margin-of-safety reasoning: how much slack do we deliberately hold against unexpected demand on the system?"
+  - id: 140
+    rationale: SLO burn rates are probabilistic; variance in incident frequency must be accounted for in budget management, not just expected value.
+  - id: 120
+    rationale: teams that are measured on uptime SLO alone will optimize for it at the expense of other reliability dimensions (latency, correctness, incident frequency) that matter equally to users.
+  - id: 153
+    rationale: an error-budget exhaustion trigger is a pre-committed kill criterion for feature releases; it removes the decision from real-time political pressure.
+references:
+  - title: "Site Reliability Engineering: How Google Runs Production Systems"
+    authorYear: Beyer, Jones, Petoff & Murphy, eds. (2016)
+    supports: Google SRE, O'Reilly. Original SLO/error-budget framework.
+  - title: The Site Reliability Workbook
+    authorYear: Beyer, Murphy, Rensin, Kawahara & Thorne (2018)
+    supports: O'Reilly. Practical implementation guide.
+  - title: "Accelerate: The Science of Lean Software and DevOps"
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+---
+
 # Reliability vs. Feature Velocity
-*Make the trade-off explicit, or the system will make it for you.*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The reliability vs. feature-velocity trade-off is the recognition that every engineering system faces a structural tension between stability (keeping existing commitments working) and advancement (building new capabilities). The Site Reliability Engineering (SRE) model formalizes this tension as an **error budget**: the allowable downtime or failure rate implied by a service-level objective (SLO), expressed as time or events remaining in a window. If the system is within budget, velocity is permitted; if the budget is exhausted, velocity is paused and reliability work takes priority. The budget converts an implicit, politically-charged organizational tension ("should we ship or stabilize?") into a technical fact that the team manages rather than escalates.
@@ -42,23 +70,6 @@ Two ways to manage the tension. First: treat reliability and velocity as separat
 A payment processing team has a 99.9% availability SLO (8.7 hours downtime per year). In Q3, two major incidents consume 6.2 hours of budget. With 2.5 hours remaining and a feature roadmap that historically introduces 1–2 incidents per quarter, the team invokes the error budget policy: no new feature releases until either the quarter resets or the root causes of both incidents are resolved. The product manager's instinct is to push the next release anyway — it is a compliance feature with a hard deadline. The SLO conversation reframes this: the question is not "do we want the compliance feature?" but "are we willing to use the remaining 2.5 hours of our annual reliability commitment on this release?" This framing surfaces a tradeoff that would otherwise have been invisible. The team negotiates: the compliance feature ships, the two root-cause fixes are pulled into the same sprint as mandatory co-deliverables, and the Q4 budget opens at full 8.7 hours.
 
 ---
-
-## Connections
-
-→ [142·DORA Metrics](dora-metrics.md) — Change Failure Rate and MTTR are the primary inputs to error budget burn rate.
-→ [255·Technical Debt](technical-debt.md) — accumulated debt converts error budget into debt-service; the reliability-velocity trade-off becomes structurally unfavorable in high-debt systems.
-→ [24·Margin of Safety](../Physics-and-Chemistry/margin-of-safety.md) — an error budget is an engineering-specific form of margin-of-safety reasoning: how much slack do we deliberately hold against unexpected demand on the system?
-→ [140·Statistical Variability](statistical-variability.md) — SLO burn rates are probabilistic; variance in incident frequency must be accounted for in budget management, not just expected value.
-→ [120·Goodhart's Law](../General-Thinking/goodharts-law.md) — teams that are measured on uptime SLO alone will optimize for it at the expense of other reliability dimensions (latency, correctness, incident frequency) that matter equally to users.
-→ [153·Kill Criteria](kill-criteria.md) — an error-budget exhaustion trigger is a pre-committed kill criterion for feature releases; it removes the decision from real-time political pressure.
-
----
-
-## References
-
-- *Site Reliability Engineering: How Google Runs Production Systems* — Beyer, Jones, Petoff & Murphy, eds. (2016) — Google SRE, O'Reilly. Original SLO/error-budget framework.
-- *The Site Reliability Workbook* — Beyer, Murphy, Rensin, Kawahara & Thorne (2018) — O'Reilly. Practical implementation guide.
-- *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble & Gene Kim (2018).
 
 ---
 

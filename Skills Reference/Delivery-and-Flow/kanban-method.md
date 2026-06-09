@@ -1,10 +1,34 @@
+---
+id: 138
+name: Kanban Method
+category: Delivery & Flow
+cardType: standard
+tagline: Visualize the work, limit WIP, manage the flow
+connections:
+  - id: 132
+    rationale: the active ingredient of the method.
+  - id: 131
+    rationale: the arithmetic that explains why Kanban delivers shorter cycle times.
+  - id: 143
+    rationale: Kanban produces the data; flow metrics interpret it.
+  - id: 18
+    rationale: Kanban makes constraints visible.
+  - id: 17
+    rationale: pull systems are balancing feedback loops; Kanban makes the loop visible.
+references:
+  - title: "Kanban: Successful Evolutionary Change for Your Technology Business"
+    authorYear: David J. Anderson (2010).
+  - title: Kanban from the Inside
+    authorYear: Mike Burrows (2014).
+  - title: "Toyota Production System: Beyond Large-Scale Production"
+    authorYear: Taiichi Ohno (1988).
+---
+
 # Kanban Method
-*Visualize the work, limit WIP, manage the flow*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Kanban Method is an evolutionary approach to managing knowledge work as a flow system. It rests on five practices — visualize work, limit work-in-progress, manage flow, make policies explicit, improve collaboratively — and four foundational principles emphasizing incremental change. Adapted from Toyota's manufacturing kanban (Taiichi Ohno) and codified for knowledge work by David J. Anderson (*Kanban*, 2010), it differs from agile-by-iteration in that it does not require role changes, timeboxes, or estimation. The unit of management is flow, not iteration.
@@ -41,22 +65,6 @@ A kanban board is the system's nervous system made visible. Each column is a sta
 A 14-person platform engineering team manages requests from five product groups. Existing process: a Jira backlog, ad-hoc Slack escalations, weekly status review. Symptoms: requests aged 6–10 weeks, ambiguous priority, no shared view. The team installs a physical-then-digital kanban with four columns (intake → design → build → validate), WIP limits per column, and explicit pull policies. Within three sprints, oldest aged WIP drops from 70 days to 21; the weekly status meeting compresses from 45 minutes to 10 because the board carries the information. The team did not change scope or staffing.
 
 ---
-
-## Connections
-
-→ [132·WIP Limits](wip-limits.md) — the active ingredient of the method.
-→ [131·Little's Law](littles-law.md) — the arithmetic that explains why Kanban delivers shorter cycle times.
-→ [143·Flow Metrics](flow-metrics.md) — Kanban produces the data; flow metrics interpret it.
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — Kanban makes constraints visible.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — pull systems are balancing feedback loops; Kanban makes the loop visible.
-
----
-
-## References
-
-- *Kanban: Successful Evolutionary Change for Your Technology Business* — David J. Anderson (2010).
-- *Kanban from the Inside* — Mike Burrows (2014).
-- *Toyota Production System: Beyond Large-Scale Production* — Taiichi Ohno (1988).
 
 ---
 

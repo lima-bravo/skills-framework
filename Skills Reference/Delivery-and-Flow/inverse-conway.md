@@ -1,10 +1,32 @@
+---
+id: 155
+name: Inverse Conway Maneuver
+category: Delivery & Flow
+cardType: standard
+tagline: Shape teams to produce the architecture you want
+connections:
+  - id: 28
+    rationale: the underlying observation the maneuver inverts.
+  - id: 154
+    rationale: the practical playbook for applying it.
+  - id: 156
+    rationale: interaction modes become dependency contracts.
+  - id: 124
+    rationale: culture is the sociotechnical complement to structural redesign.
+  - id: 28
+    rationale: the original observation that the maneuver inverts.
+references:
+  - title: Accelerate
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+  - title: Team Topologies
+    authorYear: Matthew Skelton & Manuel Pais (2019).
+---
+
 # Inverse Conway Maneuver
-*Shape teams to produce the architecture you want*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Conway's Law observes that systems mirror the communication structure of the organizations that build them. The "inverse Conway maneuver" — coined in *Accelerate* (Forsgren, Humble & Kim, 2018) and developed in *Team Topologies* — is the deliberate application of this law in reverse: design the organization to produce the desired system architecture. Want loosely coupled services? Build loosely coupled teams. Want a clean platform/product separation? Build distinct platform and product teams with API-style interaction. Without the maneuver, every attempted architecture is fighting the org chart that surrounds it.
@@ -41,22 +63,6 @@ Imagine pouring concrete: the shape it sets in is the shape of the formwork. Sof
 A retailer wants a clean separation between order capture and order fulfillment to enable independent scaling and faster feature delivery in capture. The current state: one team of 28 owns both, the codebase is monolithic, and changes to either side risk the other. Rather than start with a refactoring program, the leadership splits the team in two — Order Capture (12 people) and Order Fulfillment (16) — and explicitly designs an API contract between them. Initially the codebase fights this; six months in, the natural fault lines have emerged in the code, and a deliberate refactor follows the team boundary cleanly. Eighteen months later, order-capture deploys daily; fulfillment, weekly; both have independent on-call and release cadences. The architecture followed the formwork.
 
 ---
-
-## Connections
-
-→ [28·Conway's Law](../Systems/conways-law.md) — the underlying observation the maneuver inverts.
-→ [154·Team Topologies](team-topologies.md) — the practical playbook for applying it.
-→ [156·Dependency Management](dependency-management.md) — interaction modes become dependency contracts.
-→ [124·Organizational Culture](../Leadership/organizational-culture.md) — culture is the sociotechnical complement to structural redesign.
-→ [28·Conway's Law](../Systems/conways-law.md) — the original observation that the maneuver inverts.
-
----
-
-## References
-
-- *Accelerate* — Nicole Forsgren, Jez Humble & Gene Kim (2018).
-- *Team Topologies* — Matthew Skelton & Manuel Pais (2019).
-- "How Do Committees Invent?" — Melvin E. Conway (Datamation, 1968).
 
 ---
 

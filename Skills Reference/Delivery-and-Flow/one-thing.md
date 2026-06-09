@@ -1,10 +1,36 @@
+---
+id: 151
+name: Strategic Prioritization (“One Thing”)
+category: Delivery & Flow
+cardType: standard
+tagline: Executive focus is choosing what NOT to do
+connections:
+  - id: 30
+    rationale: strategic prioritization is the executive practice of trade-off reasoning.
+  - id: 152
+    rationale: the structure for stating the one thing as an outcome with measurable progress.
+  - id: 153
+    rationale: what would change the one thing.
+  - id: 108
+    rationale: the one thing balances both.
+  - id: 144
+    rationale: the one thing should be an outcome statement.
+  - id: 166
+    rationale: "Rumelt's coherent action requires the same discipline: a short, mutually reinforcing set of commitments that rule things out, not a comprehensive list of everything desirable."
+references:
+  - title: The One Thing
+    authorYear: Gary Keller & Jay Papasan (2013).
+  - title: The Advantage
+    authorYear: Patrick Lencioni (2012).
+  - title: Good Strategy / Bad Strategy
+    authorYear: Richard Rumelt (2011).
+---
+
 # Strategic Prioritization ("One Thing")
-*Executive focus is choosing what NOT to do*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 "Strategic prioritization" — captured colloquially as "the one thing" — is the executive discipline of identifying, at any given moment, the single highest-leverage focus and protecting the system from competing priorities. Steve Jobs framed it as deciding what *not* to do; Gary Keller and Jay Papasan in *The One Thing* (2013) operationalized it as "what is the one thing such that doing it makes everything else easier or unnecessary?" Patrick Lencioni's *The Advantage* (2012) frames the same idea as the "thematic goal." It is the antidote to the executive failure mode of "five top priorities" — a tell that nothing has been prioritized.
@@ -41,23 +67,6 @@ A leader with five "top priorities" has actually communicated: I have not decide
 An executive team enters a planning offsite with 14 candidate strategic initiatives. The CEO insists on one thematic goal for the year and three at most for the quarter. After 90 minutes of forced ranking and trade-off discussion, the year's "one thing" is named: "become the default platform for our largest customer segment." Two pet initiatives from the leadership team — both genuinely valuable in isolation — are explicitly deferred. The first hard test comes six weeks later when a competitor announces a feature unrelated to the one thing; the instinct is to react. The CEO holds the line; the org keeps shipping toward the platform bet. By year-end, the segment-platform position is established and three of the deferred initiatives turn out to have been unnecessary.
 
 ---
-
-## Connections
-
-→ [30·Trade-offs](../Economics/trade-offs.md) — strategic prioritization is the executive practice of trade-off reasoning.
-→ [152·OKRs](okrs.md) — the structure for stating the one thing as an outcome with measurable progress.
-→ [153·Kill Criteria](kill-criteria.md) — what would change the one thing.
-→ [108·Exploration vs Exploitation](../Business/exploration-vs-exploitation.md) — the one thing balances both.
-→ [144·Outcome vs Output](outcome-vs-output.md) — the one thing should be an outcome statement.
-→ [166·Kernel of Good Strategy](../Business/kernel-of-strategy.md) — Rumelt's coherent action requires the same discipline: a short, mutually reinforcing set of commitments that rule things out, not a comprehensive list of everything desirable.
-
----
-
-## References
-
-- *The One Thing* — Gary Keller & Jay Papasan (2013).
-- *The Advantage* — Patrick Lencioni (2012).
-- *Good Strategy / Bad Strategy* — Richard Rumelt (2011).
 
 ---
 

@@ -1,10 +1,40 @@
+---
+id: 160
+name: Reference Class Forecasting
+category: Delivery & Flow
+cardType: standard
+tagline: Forecast by base rate, not by inside-view storytelling
+connections:
+  - id: 115
+    rationale: the cognitive bias RCF counters.
+  - id: 141
+    rationale: the team-level analogue using a team's own history as reference class.
+  - id: 10
+    rationale: "complementary technique: imagine failure, then forecast it."
+  - id: 24
+    rationale: the buffer RCF justifies in scope, cost, and time.
+  - id: 7
+    rationale: RCF is base-rate, outside-view probabilistic thinking applied to projects.
+  - id: 211
+    rationale: reference class forecasting is the operational technique for anchoring on base rates; calibration is why the technique produces better estimates than inside-view reasoning.
+  - id: 206
+    rationale: "the cognitive bias RCF directly corrects: ignoring the distributional track record of similar cases in favour of the vivid specifics of the one in front of you."
+  - id: 218
+    rationale: every credible business case must anchor its projections to a reference class before any inside-view adjustments; RCF is the method that makes that anchor systematic.
+  - id: 251
+    rationale: "the outside-view anchor for building a realization plan: reference class evidence consistently shows realized benefits run below the business case, which is why expecting — and planning for — the gap is the first practitioner heuristic."
+references:
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011).
+  - title: How Big Things Get Done
+    authorYear: Bent Flyvbjerg & Dan Gardner (2023).
+---
+
 # Reference Class Forecasting
-*Forecast by base rate, not by inside-view storytelling*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Reference Class Forecasting (RCF) is a forecasting method developed by Daniel Kahneman and Amos Tversky and operationalized for large projects by Bent Flyvbjerg: estimate a project's outcome by identifying a class of comparable past projects ("the reference class") and adjusting their base-rate distribution for the specifics of the current project. The method consistently outperforms inside-view forecasts — those built from the bottom up by the people closest to the project — because inside-view forecasts systematically underweight base rates and overweight optimism. Flyvbjerg's research across thousands of major infrastructure projects shows reference-class forecasts cut overruns dramatically.
@@ -41,26 +71,6 @@ Asked to estimate how long a renovation will take, a homeowner reasons: "two mon
 A regional bank plans a core banking modernization. The internal estimate is 24 months and $80M. A reference-class exercise identifies 12 comparable programs at similarly-sized banks completed in the last decade: median duration 41 months, median cost 1.7× budget, two of 12 abandoned before completion. The adjusted forecast: 36–48 months, $110–140M, 15% probability of abandonment. The board rejects the original case, restructures the program into three sequenced phases with explicit kill criteria, and revises the plan to 30 months and $95M with an option to stop after phase 1. The program lands at phase 1 in 14 months — phases 2 and 3 are re-evaluated based on phase 1 outcomes; the total ends at 32 months and $98M. The reference-class exercise saved roughly a year of denial.
 
 ---
-
-## Connections
-
-→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — the cognitive bias RCF counters.
-→ [141·Probabilistic Forecasting](probabilistic-forecasting.md) — the team-level analogue using a team's own history as reference class.
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — complementary technique: imagine failure, then forecast it.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — the buffer RCF justifies in scope, cost, and time.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — RCF is base-rate, outside-view probabilistic thinking applied to projects.
-→ [211·Calibration](../General-Thinking/calibration.md) — reference class forecasting is the operational technique for anchoring on base rates; calibration is why the technique produces better estimates than inside-view reasoning.
-→ [206·Base Rate Neglect](../Psychology/base-rate-neglect.md) — the cognitive bias RCF directly corrects: ignoring the distributional track record of similar cases in favour of the vivid specifics of the one in front of you.
-→ [218·Business Case Construction](../Business/business-case-construction.md) — every credible business case must anchor its projections to a reference class before any inside-view adjustments; RCF is the method that makes that anchor systematic.
-→ [251·Value Realization](../Business/value-realization.md) — the outside-view anchor for building a realization plan: reference class evidence consistently shows realized benefits run below the business case, which is why expecting — and planning for — the gap is the first practitioner heuristic.
-
----
-
-## References
-
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011).
-- *How Big Things Get Done* — Bent Flyvbjerg & Dan Gardner (2023).
-- "From Nobel Prize to Project Management" — Bent Flyvbjerg (Project Management Journal, 2006).
 
 ---
 

@@ -1,10 +1,34 @@
+---
+id: 255
+name: Technical Debt
+category: Delivery & Flow
+cardType: standard
+tagline: Every shortcut you take today is a tax on every delivery tomorrow.
+connections:
+  - id: 133
+    rationale: technical debt is one of the primary causes of low flow efficiency; it converts active work time into rework and incident response.
+  - id: 142
+    rationale: Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production systems.
+  - id: 131
+    rationale: debt reduces effective throughput, which shows up as rising cycle time for a given WIP level.
+  - id: 18
+    rationale: accumulated debt often becomes the primary constraint on delivery throughput; treating it as anything else (a morale problem, a planning problem) misses the leverage point.
+  - id: 260
+    rationale: adding engineers to a high-debt system is a classic symptomatic fix that delays addressing the fundamental problem and often adds more debt in the process.
+  - id: 256
+    rationale: debt increases incident rate, which forces a reliability-vs-velocity trade-off that the team did not choose to make.
+references:
+  - title: Working Effectively with Legacy Code
+    authorYear: Michael C. Feathers (2004).
+  - title: "Accelerate: The Science of Lean Software and DevOps"
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+---
+
 # Technical Debt
-*Every shortcut you take today is a tax on every delivery tomorrow.*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Technical debt is Ward Cunningham's metaphor (1992) for the accumulated cost of design and implementation decisions that were expedient at the time but that now slow down future work. Like financial debt, it compounds: a small shortcut incurs a small interest payment (extra time to work around the decision); left unaddressed, the interest grows until it dominates delivery. Unlike financial debt, technical debt is largely invisible in planning — no one writes it on a balance sheet, and the interest is paid diffusely across hundreds of future tasks rather than as a single line item. This invisibility is its primary organizational danger. The concept is distinct from the financial Debt card (which concerns leverage and balance-sheet structure); technical debt is a **flow constraint** — it degrades throughput, increases incident load, and raises the cost of every change.
@@ -43,24 +67,6 @@ Imagine a kitchen where the previous cook never cleaned as they went. The dishes
 An engineering org has been delivering features at a declining rate for 18 months despite stable team size. Leadership attributes the slowdown to poor planning. A technical debt audit reveals: the core transaction service is 6 years old, has no test coverage, and requires a full regression cycle for any change (average: 3 days). Two teams spend 30–40% of their sprint capacity working around a data model decision made in year one. Incident MTTR is 4× the industry benchmark because the deployment pipeline requires manual steps. Total interest payment: ~35% of engineering capacity per sprint, or ~14 team-months of capacity per year — invisible in any planning document. The debt repayment plan: (1) 20% capacity reserved for debt work; (2) transaction service prioritized first (highest change frequency + highest incident rate); (3) data model remediation next (two-team drag). Twelve months later, deployment frequency has doubled, incident MTTR has returned to benchmark, and feature velocity is back to year-one rates — with no additional headcount.
 
 ---
-
-## Connections
-
-→ [133·Flow Efficiency](flow-efficiency.md) — technical debt is one of the primary causes of low flow efficiency; it converts active work time into rework and incident response.
-→ [142·DORA Metrics](dora-metrics.md) — Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production systems.
-→ [131·Little's Law](littles-law.md) — debt reduces effective throughput, which shows up as rising cycle time for a given WIP level.
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — accumulated debt often becomes the primary constraint on delivery throughput; treating it as anything else (a morale problem, a planning problem) misses the leverage point.
-→ [260·Fixes That Fail](fixes-that-fail.md) — adding engineers to a high-debt system is a classic symptomatic fix that delays addressing the fundamental problem and often adds more debt in the process.
-→ [256·Reliability vs. Feature Velocity](reliability-vs-velocity.md) — debt increases incident rate, which forces a reliability-vs-velocity trade-off that the team did not choose to make.
-
----
-
-## References
-
-- Ward Cunningham, "The WyCash Portfolio Management System" — OOPSLA Experience Report (1992) — original technical debt metaphor.
-- *Working Effectively with Legacy Code* — Michael C. Feathers (2004).
-- *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble & Gene Kim (2018).
-- Martin Fowler, "Technical Debt Quadrant" — martinfowler.com (2009) — distinguishes deliberate/inadvertent × prudent/reckless.
 
 ---
 

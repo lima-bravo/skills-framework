@@ -1,10 +1,34 @@
+---
+id: 145
+name: A3 Problem Solving
+category: Delivery & Flow
+cardType: standard
+tagline: One page, structured, written for thinking and alignment
+connections:
+  - id: 146
+    rationale: A3 is a written form of the Plan-Do-Check-Act cycle.
+  - id: 163
+    rationale: both demand answer-first compression for executive communication.
+  - id: 11
+    rationale: incident A3s are the lean equivalent; structure overlaps.
+  - id: 139
+    rationale: VSM produces the current-state evidence an A3 builds on.
+  - id: 128
+    rationale: countermeasures express a theory; A3 is the operational version.
+references:
+  - title: "Managing to Learn: Using the A3 Management Process"
+    authorYear: John Shook (2008).
+  - title: Toyota Kata
+    authorYear: Mike Rother (2009).
+  - title: The Toyota Way
+    authorYear: Jeffrey K. Liker (2004).
+---
+
 # A3 Problem Solving
-*One page, structured, written for thinking and alignment*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 An A3 is a single sheet of A3-sized paper (or its digital equivalent) that frames an operational problem from background through countermeasures and follow-up. The format was developed at Toyota as a thinking and coaching tool: the constraint of one page forces the author to compress the situation into a few high-leverage facts and to think causally. The structure (background → current state → goal → analysis → countermeasures → plan → follow-up) is canonical; the value is the discipline of writing it. Codified in John Shook's *Managing to Learn* (2008).
@@ -41,22 +65,6 @@ The A3 is to operational improvement what a one-page memo is to decision-making:
 A claims-processing function has cycle time of 14 days against a target of 7. A first A3 attempts to "fix claims processing" and produces vague countermeasures. A second A3 narrows to "reduce wait time between intake and adjudication for property claims, which is responsible for 60% of the gap." Current state: average intake-to-adjudication wait is 5.5 days; goal is 1.5; root-cause analysis traces it to a batched daily handoff. Countermeasures: continuous handoff with a WIP-limited queue. Follow-up dates and owner named. Eight weeks later, wait time is 1.2 days; cycle time has dropped to 8 days; the next A3 picks the next slice.
 
 ---
-
-## Connections
-
-→ [146·PDCA](pdca.md) — A3 is a written form of the Plan-Do-Check-Act cycle.
-→ [163·Pyramid Principle](../Consulting-Craft/pyramid-principle.md) — both demand answer-first compression for executive communication.
-→ [11·Post-mortem](../General-Thinking/post-mortem.md) — incident A3s are the lean equivalent; structure overlaps.
-→ [139·Value Stream Mapping](value-stream-mapping.md) — VSM produces the current-state evidence an A3 builds on.
-→ [128·Theory of Change](../Business/theory-of-change.md) — countermeasures express a theory; A3 is the operational version.
-
----
-
-## References
-
-- *Managing to Learn: Using the A3 Management Process* — John Shook (2008).
-- *Toyota Kata* — Mike Rother (2009).
-- *The Toyota Way* — Jeffrey K. Liker (2004).
 
 ---
 

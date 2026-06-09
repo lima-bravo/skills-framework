@@ -1,10 +1,36 @@
+---
+id: 152
+name: OKRs
+category: Delivery & Flow
+cardType: standard
+tagline: Objectives and Key Results — outcome-anchored alignment
+connections:
+  - id: 144
+    rationale: KRs are outcome statements.
+  - id: 151
+    rationale: Objectives operationalize the "one thing."
+  - id: 153
+    rationale: what changes if a KR fails to move.
+  - id: 120
+    rationale: KRs become targets; design them to resist gaming.
+  - id: 128
+    rationale: KR causal logic is a compressed theory of change.
+  - id: 250
+    rationale: the measurement system that a KPI architecture builds is the infrastructure OKRs depend on; OKRs without a driver-tree measurement architecture underneath them become aspirational statements no one can track.
+references:
+  - title: Measure What Matters
+    authorYear: John Doerr (2018).
+  - title: High Output Management
+    authorYear: Andrew S. Grove (1983).
+  - title: Radical Focus
+    authorYear: Christina Wodtke (2016).
+---
+
 # OKRs
-*Objectives and Key Results — outcome-anchored alignment*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 OKRs — Objectives and Key Results — are a goal-setting structure pairing a qualitative aspiration (the Objective) with 2–5 quantitative outcome measures (the Key Results) that signal whether the Objective is being achieved. Developed by Andy Grove at Intel and popularized by John Doerr (*Measure What Matters*, 2018), the structure forces three disciplines simultaneously: stating intent in customer/business language, defining outcome-based success measures, and exposing both vertically across the organization. The point is alignment without micromanagement: leaders set "what" and "how well"; teams own "how."
@@ -42,23 +68,6 @@ OKRs are an alignment protocol, not a performance management tool. The Objective
 A 600-person enterprise software business introduces OKRs to replace a feature roadmap. Year-1 mistakes: 14 objectives, KRs that are mostly feature ships, no mid-quarter check-ins. Re-baseline: 3 organizational objectives, each with 3–4 outcome KRs (e.g. "lift net retention from 102% to 115%"). Teams self-organize initiatives under the KRs; weekly the leadership team reviews KR movement, not initiative status. Year-2 outcomes: 2 of 3 objectives hit 70%+ on stretch KRs; the third triggers a strategic pivot mid-year because the KR is not moving and the diagnosis is structural. The CEO reports the strategic-pivot conversation as the single most valuable thing OKRs did.
 
 ---
-
-## Connections
-
-→ [144·Outcome vs Output](outcome-vs-output.md) — KRs are outcome statements.
-→ [151·Strategic Prioritization](one-thing.md) — Objectives operationalize the "one thing."
-→ [153·Kill Criteria](kill-criteria.md) — what changes if a KR fails to move.
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — KRs become targets; design them to resist gaming.
-→ [128·Theory of Change](../Business/theory-of-change.md) — KR causal logic is a compressed theory of change.
-→ [250·KPI Architecture](../Business/kpi-architecture.md) — the measurement system that a KPI architecture builds is the infrastructure OKRs depend on; OKRs without a driver-tree measurement architecture underneath them become aspirational statements no one can track.
-
----
-
-## References
-
-- *Measure What Matters* — John Doerr (2018).
-- *High Output Management* — Andrew S. Grove (1983).
-- *Radical Focus* — Christina Wodtke (2016).
 
 ---
 

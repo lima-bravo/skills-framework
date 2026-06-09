@@ -1,10 +1,36 @@
+---
+id: 141
+name: Probabilistic Forecasting
+category: Delivery & Flow
+cardType: standard
+tagline: Replace single-date plans with confidence-tagged ranges
+connections:
+  - id: 140
+    rationale: variability is the engine that probabilistic forecasting harnesses.
+  - id: 160
+    rationale: companion technique using outside-view base rates for larger initiatives.
+  - id: 131
+    rationale: connects throughput, WIP, and cycle time, which feed the simulation.
+  - id: 134
+    rationale: provides the cycle-time inputs to "when" forecasts.
+  - id: 115
+    rationale: the cognitive bias probabilistic forecasting counteracts.
+  - id: 209
+    rationale: probabilistic forecasting requires an inspectable, stable system; EPC provides the governance that keeps the system transparent enough to forecast reliably.
+references:
+  - title: Actionable Agile Metrics for Predictability
+    authorYear: Daniel S. Vacanti (2015).
+  - title: When Will It Be Done?
+    authorYear: Daniel S. Vacanti (2020).
+  - title: Forecasting and Simulating Software Development Projects
+    authorYear: Troy Magennis (2011).
+---
+
 # Probabilistic Forecasting
-*Replace single-date plans with confidence-tagged ranges*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Probabilistic forecasting estimates when work will be done — or how much will be done by a date — as a distribution rather than a single number. The simplest implementation, Monte Carlo simulation over a team's historical throughput, generates thousands of synthetic futures and reports percentile outcomes ("85% confidence we will finish 24–31 items by quarter-end"). Troy Magennis and Daniel Vacanti developed the practice for knowledge work; the technique itself dates from Stanislaw Ulam and John von Neumann's Los Alamos work in the 1940s. The result is plans that survive contact with reality because they encode the variability that reality contains.
@@ -42,23 +68,6 @@ Two ways to plan a road trip. The first: "Google Maps says 4 hours 20 minutes �
 A regulatory delivery program has a hard deadline 14 weeks away. The single-date plan claims comfortable on-time delivery. Monte Carlo simulation on the team's last 12 weeks of throughput, against 38 remaining items, shows 50% confidence of finishing in 13 weeks and 85% confidence at 17 weeks. The plan is therefore at coin-flip risk of missing. The conversation pivots from "are we on track?" to "what do we cut, parallelize, or de-scope to lift 85% confidence inside 14 weeks?" Three weeks of focused scope cuts and a parallel track move 85% confidence to 13 weeks. The deadline is hit; the previous quarter's deadline was missed by 9 days because no one had forecast the distribution.
 
 ---
-
-## Connections
-
-→ [140·Statistical Variability](statistical-variability.md) — variability is the engine that probabilistic forecasting harnesses.
-→ [160·Reference Class Forecasting](reference-class-forecasting.md) — companion technique using outside-view base rates for larger initiatives.
-→ [131·Little's Law](littles-law.md) — connects throughput, WIP, and cycle time, which feed the simulation.
-→ [134·Lead Time vs Cycle Time](lead-time-cycle-time.md) — provides the cycle-time inputs to "when" forecasts.
-→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — the cognitive bias probabilistic forecasting counteracts.
-→ [209·Empirical Process Control](empirical-process-control.md) — probabilistic forecasting requires an inspectable, stable system; EPC provides the governance that keeps the system transparent enough to forecast reliably.
-
----
-
-## References
-
-- *Actionable Agile Metrics for Predictability* — Daniel S. Vacanti (2015).
-- *When Will It Be Done?* — Daniel S. Vacanti (2020).
-- *Forecasting and Simulating Software Development Projects* — Troy Magennis (2011).
 
 ---
 

@@ -1,10 +1,36 @@
+---
+id: 146
+name: PDCA
+category: Delivery & Flow
+cardType: standard
+tagline: Plan, Do, Check, Act — the smallest unit of disciplined learning
+connections:
+  - id: 145
+    rationale: A3 is the structured artifact of a PDCA cycle.
+  - id: 63
+    rationale: the startup-domain restatement of PDCA.
+  - id: 209
+    rationale: PDCA is EPC operationalised; EPC is the governing theory that explains why PDCA works.
+  - id: 119
+    rationale: a faster, decision-making variant of the same discipline.
+  - id: 11
+    rationale: a single PDCA Check applied to an incident.
+  - id: 10
+    rationale: the Plan-step discipline of imagining failure modes before acting.
+references:
+  - title: Out of the Crisis
+    authorYear: W. Edwards Deming (1986).
+  - title: Statistical Method from the Viewpoint of Quality Control
+    authorYear: Walter A. Shewhart (1939).
+  - title: The Toyota Way
+    authorYear: Jeffrey K. Liker (2004).
+---
+
 # PDCA
-*Plan, Do, Check, Act — the smallest unit of disciplined learning*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 PDCA — Plan, Do, Check, Act — is a four-step iterative cycle for continuous improvement. Plan: hypothesize a change and predict its effect. Do: implement on a small scale. Check: compare actual to prediction. Act: standardize what worked, refine what didn't, then loop. The cycle was developed by Walter Shewhart in the 1930s and championed by W. Edwards Deming, who called it PDSA (with "Study" replacing "Check") to emphasize the analytical step. It is the methodological backbone of lean and the conceptual ancestor of agile retrospectives, hypothesis-driven development, and OODA loops.
@@ -41,23 +67,6 @@ PDCA is the metabolism of an improving organization. Each cycle is a small exper
 A platform engineering team's incident rate is rising. Plan: hypothesize that a missing pre-deployment smoke test is responsible; predict that adding it will reduce production incidents by 40% over four weeks. Do: implement the smoke test in the deployment pipeline. Check: four weeks later, incidents are down 31% — close but not the predicted level; investigation reveals that the smoke test caught two-thirds of incidents but missed a class of integration failures. Act: standardize the smoke test, plan the next cycle to address integration coverage. Across six cycles in a quarter, incident rate falls 70%, and the team has a written log of what worked, what didn't, and why.
 
 ---
-
-## Connections
-
-→ [145·A3](a3-problem-solving.md) — A3 is the structured artifact of a PDCA cycle.
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — the startup-domain restatement of PDCA.
-→ [209·Empirical Process Control](empirical-process-control.md) — PDCA is EPC operationalised; EPC is the governing theory that explains why PDCA works.
-→ [119·OODA Loop](../Leadership/ooda-loop.md) — a faster, decision-making variant of the same discipline.
-→ [11·Post-mortem](../General-Thinking/post-mortem.md) — a single PDCA Check applied to an incident.
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the Plan-step discipline of imagining failure modes before acting.
-
----
-
-## References
-
-- *Out of the Crisis* — W. Edwards Deming (1986).
-- *Statistical Method from the Viewpoint of Quality Control* — Walter A. Shewhart (1939).
-- *The Toyota Way* — Jeffrey K. Liker (2004).
 
 ---
 

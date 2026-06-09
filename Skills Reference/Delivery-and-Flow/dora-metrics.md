@@ -1,10 +1,40 @@
+---
+id: 142
+name: DORA Metrics
+category: Delivery & Flow
+cardType: standard
+tagline: Four numbers that distinguish high-performing software delivery
+connections:
+  - id: 134
+    rationale: DORA's "lead time for changes" is a specific cycle-time variant.
+  - id: 133
+    rationale: short DORA lead times imply high flow efficiency.
+  - id: 144
+    rationale: DORA measures delivery capability; outcome measures the value it produces.
+  - id: 30
+    rationale: DORA's stability vs throughput pairing reframes the classic trade-off as falsely posed.
+  - id: 28
+    rationale: DORA performance correlates with team-aligned-to-stream architecture.
+  - id: 255
+    rationale: rising Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production.
+  - id: 256
+    rationale: DORA's four metrics are the inputs to error budget burn rate; Change Failure Rate and MTTR govern the reliability side of the trade-off.
+  - id: 250
+    rationale: "DORA is a worked example of KPI architecture done well: a small set of decision-linked, leading-and-lagging metrics derived from first principles for software delivery."
+references:
+  - title: "Accelerate: The Science of Lean Software and DevOps"
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+  - title: State of DevOps Report
+    authorYear: DORA / Google Cloud (annual, 2014–present).
+  - title: The DevOps Handbook
+    authorYear: Gene Kim, Jez Humble, Patrick Debois & John Willis (2016).
+---
+
 # DORA Metrics
-*Four numbers that distinguish high-performing software delivery*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The DORA metrics — developed by the DevOps Research and Assessment program (Nicole Forsgren, Jez Humble, Gene Kim) and published in *Accelerate* (2018) — are four indicators of software delivery performance: **deployment frequency**, **lead time for changes**, **change failure rate**, and **mean time to restore service**. Multi-year survey research shows these four cluster together: organizations that ship more frequently also have shorter lead times, lower change failure rates, and faster recovery. The metrics are the rare case in technology management where rigorous evidence ties operational behaviour to organizational performance.
@@ -41,25 +71,6 @@ DORA is a balanced scorecard for delivery. Throughput is captured by deployment 
 An enterprise IT organization with 8 product teams is asked to "improve delivery." A baseline DORA reading shows: median deployment frequency monthly, lead time 6 weeks, change failure rate 24%, MTTR 8 hours — clearly in the "low" band. A 12-month investment in trunk-based development, automated testing, feature flags, and on-call runbooks moves the median to weekly deploys, lead time 9 days, change failure rate 9%, MTTR 45 minutes — high-band on all four. The investment cost roughly $2.4M; the avoided cost of major-incident outages alone was $4.1M.
 
 ---
-
-## Connections
-
-→ [134·Lead Time vs Cycle Time](lead-time-cycle-time.md) — DORA's "lead time for changes" is a specific cycle-time variant.
-→ [133·Flow Efficiency](flow-efficiency.md) — short DORA lead times imply high flow efficiency.
-→ [144·Outcome vs Output](outcome-vs-output.md) — DORA measures delivery capability; outcome measures the value it produces.
-→ [30·Trade-offs](../Economics/trade-offs.md) — DORA's stability vs throughput pairing reframes the classic trade-off as falsely posed.
-→ [28·Conway's Law](../Systems/conways-law.md) — DORA performance correlates with team-aligned-to-stream architecture.
-→ [255·Technical Debt](technical-debt.md) — rising Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production.
-→ [256·Reliability vs. Feature Velocity](reliability-vs-velocity.md) — DORA's four metrics are the inputs to error budget burn rate; Change Failure Rate and MTTR govern the reliability side of the trade-off.
-→ [250·KPI Architecture](../Business/kpi-architecture.md) — DORA is a worked example of KPI architecture done well: a small set of decision-linked, leading-and-lagging metrics derived from first principles for software delivery.
-
----
-
-## References
-
-- *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble & Gene Kim (2018).
-- *State of DevOps Report* — DORA / Google Cloud (annual, 2014–present).
-- *The DevOps Handbook* — Gene Kim, Jez Humble, Patrick Debois & John Willis (2016).
 
 ---
 

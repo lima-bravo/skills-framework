@@ -1,10 +1,34 @@
+---
+id: 136
+name: Batch Size Reduction
+category: Delivery & Flow
+cardType: standard
+tagline: Smaller batches reduce wait, variability, and risk
+connections:
+  - id: 135
+    rationale: small batches reduce variability and therefore wait time at any given utilization.
+  - id: 137
+    rationale: batch reduction trades smaller transaction-cost-per-batch for lower holding cost; cost of delay sets the economic frame.
+  - id: 133
+    rationale: large batches inflate the wait component of flow time.
+  - id: 63
+    rationale: small batches are how learning cycles get short.
+  - id: 64
+    rationale: an MVP is a deliberate batch-size reduction on a product bet.
+references:
+  - title: The Principles of Product Development Flow
+    authorYear: Donald G. Reinertsen (2009).
+  - title: Continuous Delivery
+    authorYear: Jez Humble & David Farley (2010).
+  - title: The Toyota Way
+    authorYear: Jeffrey K. Liker (2004).
+---
+
 # Batch Size Reduction
-*Smaller batches reduce wait, variability, and risk*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Batch size is the amount of work packaged together before it moves to the next stage. Reducing batch size shortens lead time, lowers risk, reduces queueing variability, and accelerates feedback — usually with no change in the total amount of work done. The lever was central to the Toyota Production System and was extended to product development by Donald Reinertsen, whose *Principles of Product Development Flow* (2009) treats batch size as the most underused lever in knowledge work. Continuous delivery and trunk-based development are batch-size reduction applied to software changes.
@@ -40,22 +64,6 @@ Imagine moving a stack of bricks across a courtyard. Carrying the whole stack at
 A bank's compliance function reviews vendor changes in monthly cohorts of 40–80 items. Backlog ages 3–8 weeks; defects discovered in review trigger expensive rework. A pilot moves to a rolling weekly cohort capped at 10 items. Transaction-cost reductions (a standard intake template, a shared review checklist) drop per-batch overhead. Within a quarter, lead time is down 70%, rework is down 40%, and the team's perceived workload is lower despite the same total volume. The unintended bonus: feedback to vendors is now timely enough that vendor-side defect rates fall.
 
 ---
-
-## Connections
-
-→ [135·Queueing & Wait Time](queueing.md) — small batches reduce variability and therefore wait time at any given utilization.
-→ [137·Cost of Delay](cost-of-delay.md) — batch reduction trades smaller transaction-cost-per-batch for lower holding cost; cost of delay sets the economic frame.
-→ [133·Flow Efficiency](flow-efficiency.md) — large batches inflate the wait component of flow time.
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — small batches are how learning cycles get short.
-→ [64·MVP](../Startups/mvp.md) — an MVP is a deliberate batch-size reduction on a product bet.
-
----
-
-## References
-
-- *The Principles of Product Development Flow* — Donald G. Reinertsen (2009).
-- *Continuous Delivery* — Jez Humble & David Farley (2010).
-- *The Toyota Way* — Jeffrey K. Liker (2004).
 
 ---
 

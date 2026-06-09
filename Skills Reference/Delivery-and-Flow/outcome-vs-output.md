@@ -1,10 +1,42 @@
+---
+id: 144
+name: Outcome vs Output
+category: Delivery & Flow
+cardType: standard
+tagline: Measure what changed for the customer, not what shipped
+connections:
+  - id: 152
+    rationale: the canonical structure for stating outcomes vs the outputs that pursue them.
+  - id: 157
+    rationale: the diagnostic for organizations addicted to output.
+  - id: 153
+    rationale: outcome thinking forces stopping rules.
+  - id: 251
+    rationale: "outcome-vs-output thinking applied to a strategic investment after approval: did the promised benefit actually land, not just the activity that was supposed to produce it?"
+  - id: 250
+    rationale: the system-design discipline that keeps a measurement set weighted toward outcome and driver metrics rather than activity counts.
+  - id: 63
+    rationale: outcomes are the "measure" in the loop.
+  - id: 120
+    rationale: output metrics become targets and degrade the underlying outcome.
+  - id: 209
+    rationale: EPC's inspection criterion should be outcome, not output; a sprint review that only asks "did we ship?" rather than "did the metric move?" is EPC in form but not function.
+  - id: 247
+    rationale: a growth team shipping features while the binding constraint goes unaddressed is the canonical outcome-vs-output failure in a growth context.
+references:
+  - title: "Outcomes Over Output: Why Customer Behavior Is the Key Metric for Business Success"
+    authorYear: Josh Seiden (2019).
+  - title: Escaping the Build Trap
+    authorYear: Melissa Perri (2018).
+  - title: "Inspired: How to Create Tech Products Customers Love"
+    authorYear: Marty Cagan (2008; 2nd ed. 2017).
+---
+
 # Outcome vs Output
-*Measure what changed for the customer, not what shipped*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 **Output** is what a team produces: features, decks, reports, migrations, deployments. **Outcome** is what changes in the world as a result: customer behaviour shifts, costs drop, decisions get made, revenue moves. Most operating models reward outputs (they're measurable, attributable, and visible) and quietly ignore outcomes (slow to materialize, multi-causal, hard to assign credit for). The mismatch produces "feature factories" — organizations that ship constantly without producing change. The framing was sharpened by Josh Seiden (*Outcomes Over Output*, 2019), Marty Cagan (*Inspired*, 2008), and the OKR canon (Andy Grove, John Doerr).
@@ -41,26 +73,6 @@ A weight-loss program. Output: meals cooked, hours exercised, miles run. Outcome
 A B2B SaaS product team is praised internally for shipping 14 major features in a year. The outcome question — what changed for customers? — surfaces awkward data: activation rate flat, retention flat, expansion revenue flat. The next planning cycle reframes the goal: lift activation from 41% to 55%. Of the 14 candidate initiatives in the queue, only 3 plausibly affect activation. The other 11 are deferred or killed. The team ships fewer features in the next two quarters but moves activation to 51%; the team is then granted explicit license to keep choosing fewer outputs and bigger outcome moves.
 
 ---
-
-## Connections
-
-→ [152·OKRs](okrs.md) — the canonical structure for stating outcomes vs the outputs that pursue them.
-→ [157·Feature Factory](feature-factory.md) — the diagnostic for organizations addicted to output.
-→ [153·Kill Criteria](kill-criteria.md) — outcome thinking forces stopping rules.
-→ [251·Value Realization](../Business/value-realization.md) — outcome-vs-output thinking applied to a strategic investment after approval: did the promised benefit actually land, not just the activity that was supposed to produce it?
-→ [250·KPI Architecture](../Business/kpi-architecture.md) — the system-design discipline that keeps a measurement set weighted toward outcome and driver metrics rather than activity counts.
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — outcomes are the "measure" in the loop.
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — output metrics become targets and degrade the underlying outcome.
-→ [209·Empirical Process Control](empirical-process-control.md) — EPC's inspection criterion should be outcome, not output; a sprint review that only asks "did we ship?" rather than "did the metric move?" is EPC in form but not function.
-→ [247·Growth Barriers](../Business/growth-barriers.md) — a growth team shipping features while the binding constraint goes unaddressed is the canonical outcome-vs-output failure in a growth context.
-
----
-
-## References
-
-- *Outcomes Over Output: Why Customer Behavior Is the Key Metric for Business Success* — Josh Seiden (2019).
-- *Escaping the Build Trap* — Melissa Perri (2018).
-- *Inspired: How to Create Tech Products Customers Love* — Marty Cagan (2008; 2nd ed. 2017).
 
 ---
 

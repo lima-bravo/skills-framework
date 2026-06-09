@@ -1,10 +1,34 @@
+---
+id: 156
+name: Dependency Management
+category: Delivery & Flow
+cardType: standard
+tagline: Cross-team blocking work is the dominant constraint in scaled delivery
+connections:
+  - id: 154
+    rationale: the org-design discipline that reduces dependencies structurally.
+  - id: 28
+    rationale: dependencies follow team boundaries.
+  - id: 155
+    rationale: deliberately reshape teams to remove dependencies.
+  - id: 18
+    rationale: high-fan-in teams are scaled-delivery bottlenecks.
+  - id: 41
+    rationale: internal platforms are the leverage mechanism that reduces dependencies structurally.
+references:
+  - title: Team Topologies
+    authorYear: Matthew Skelton & Manuel Pais (2019).
+  - title: Accelerate
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+  - title: The Phoenix Project
+    authorYear: Gene Kim, Kevin Behr & George Spafford (2013).
+---
+
 # Dependency Management
-*Cross-team blocking work is the dominant constraint in scaled delivery*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Dependency management is the operational discipline of identifying, sequencing, and reducing the inter-team blockers that gate the completion of work. In scaled delivery (more than ~5–8 teams), dependencies — not effort — become the binding constraint on throughput and predictability. A 2018 study of large agile programs found that cross-team dependencies accounted for more than 50% of variability in delivery dates. The discipline combines visibility (dependency maps, dependency boards), reduction (architectural and team redesign to eliminate dependencies), and management (explicit handoffs, capacity contracts) — in that order of preference.
@@ -41,22 +65,6 @@ A single team is an engine; multiple teams are a transmission. Most scaled-deliv
 A 30-team delivery program runs quarterly big-room planning. Each quarter, ~40% of planned work misses its commitment date; 70% of those misses trace to dependency slips. A dedicated dependency reduction effort: (1) maps the current dependency graph, (2) identifies five high-fan-in teams driving 60% of dependencies, (3) launches a platform extraction for two of the five, eliminating ~120 recurring dependencies per quarter. Six months later, dependency count is down 35%, on-time delivery is up 22%, and big-room planning shrinks from three days to one because there are fewer dependencies to negotiate.
 
 ---
-
-## Connections
-
-→ [154·Team Topologies](team-topologies.md) — the org-design discipline that reduces dependencies structurally.
-→ [28·Conway's Law](../Systems/conways-law.md) — dependencies follow team boundaries.
-→ [155·Inverse Conway Maneuver](inverse-conway.md) — deliberately reshape teams to remove dependencies.
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — high-fan-in teams are scaled-delivery bottlenecks.
-→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — internal platforms are the leverage mechanism that reduces dependencies structurally.
-
----
-
-## References
-
-- *Team Topologies* — Matthew Skelton & Manuel Pais (2019).
-- *Accelerate* — Nicole Forsgren, Jez Humble & Gene Kim (2018).
-- *The Phoenix Project* — Gene Kim, Kevin Behr & George Spafford (2013).
 
 ---
 

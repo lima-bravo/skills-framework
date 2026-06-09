@@ -75,18 +75,17 @@ function buildFrontmatter(meta, parsed, file, lookups) {
   const connections = resolveConnections(parsed, file, lookups);
   if (connections.length) fm.connections = connections;
 
-  if (parsed.references.length) {
-    fm.references = parsed.references
-      .filter((r) => r.title)
-      .map((r) => {
-        const entry = {
-          title: r.title,
-          authorYear: r.authorYear || '',
-        };
-        if (r.note || r.supports) entry.supports = r.note || r.supports;
-        return entry;
-      });
-  }
+  const references = parsed.references
+    .filter((r) => r.title)
+    .map((r) => {
+      const entry = {
+        title: r.title,
+        authorYear: r.authorYear || '',
+      };
+      if (r.note || r.supports) entry.supports = r.note || r.supports;
+      return entry;
+    });
+  if (references.length) fm.references = references;
 
   return fm;
 }

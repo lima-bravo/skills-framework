@@ -1,10 +1,34 @@
+---
+id: 147
+name: Gemba
+category: Delivery & Flow
+cardType: standard
+tagline: Go and see — the work, where it happens
+connections:
+  - id: 6
+    rationale: gemba is the corrective for map–territory drift.
+  - id: 139
+    rationale: VSM is a structured form of gemba.
+  - id: 145
+    rationale: the current-state section of an A3 demands gemba evidence.
+  - id: 66
+    rationale: gemba's customer-research analogue; structured discovery interviews at the source of work.
+  - id: 28
+    rationale: gemba surfaces the org boundaries that show up as flow problems.
+references:
+  - title: "Gemba Kaizen: A Commonsense Approach to a Continuous Improvement Strategy"
+    authorYear: Masaaki Imai (1997).
+  - title: "Toyota Production System: Beyond Large-Scale Production"
+    authorYear: Taiichi Ohno (1988).
+  - title: The Toyota Way
+    authorYear: Jeffrey K. Liker (2004).
+---
+
 # Gemba
-*Go and see — the work, where it happens*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Gemba (現場) is Japanese for "the actual place" — the place where value is created. In lean practice, a "gemba walk" is the discipline of leaders going to the work, observing it directly, and asking questions rather than reading reports about it. The practice was central to Taiichi Ohno's coaching at Toyota and is canonized in Masaaki Imai's *Gemba Kaizen* (1997). The discipline counters two pathologies of seniority: relying on filtered reports, and reasoning about systems from inside conference rooms.
@@ -41,22 +65,6 @@ A doctor who has stopped seeing patients can still read journals, attend meeting
 A consulting partner overseeing a transformation reads weekly status reports indicating smooth progress. A two-hour gemba — sitting in a stand-up, observing a handoff between teams, sitting with one engineer through a deployment — reveals: a critical handoff is being handled via personal Slack DMs, one engineer is doing 60% of the load and showing burnout, and the "automated" deployment requires three manual approvals nobody mentioned in the report. None of these would have surfaced in another quarter of status meetings. The follow-up: a redesigned handoff (eliminating the DM channel), a reassignment of load, and removal of two of the three manual gates. The partner now walks every value stream once a quarter.
 
 ---
-
-## Connections
-
-→ [6·Map-Territory](../General-Thinking/map-territory.md) — gemba is the corrective for map–territory drift.
-→ [139·Value Stream Mapping](value-stream-mapping.md) — VSM is a structured form of gemba.
-→ [145·A3 Problem Solving](a3-problem-solving.md) — the current-state section of an A3 demands gemba evidence.
-→ [66·Customer Development](../Startups/customer-development.md) — gemba's customer-research analogue; structured discovery interviews at the source of work.
-→ [28·Conway's Law](../Systems/conways-law.md) — gemba surfaces the org boundaries that show up as flow problems.
-
----
-
-## References
-
-- *Gemba Kaizen: A Commonsense Approach to a Continuous Improvement Strategy* — Masaaki Imai (1997).
-- *Toyota Production System: Beyond Large-Scale Production* — Taiichi Ohno (1988).
-- *The Toyota Way* — Jeffrey K. Liker (2004).
 
 ---
 

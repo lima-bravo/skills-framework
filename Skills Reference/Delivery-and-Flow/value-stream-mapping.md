@@ -1,10 +1,34 @@
+---
+id: 139
+name: Value Stream Mapping
+category: Delivery & Flow
+cardType: standard
+tagline: Diagnose end-to-end flow from customer need to value delivered
+connections:
+  - id: 133
+    rationale: VSM produces the numerator and denominator.
+  - id: 18
+    rationale: the longest wait identifies the constraint.
+  - id: 147
+    rationale: VSM is a structured form of going and seeing.
+  - id: 136
+    rationale: VSM exposes where batches accumulate.
+  - id: 28
+    rationale: handoffs between teams reflect org boundaries; future-state may require org change.
+references:
+  - title: "Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda"
+    authorYear: Mike Rother & John Shook (1999).
+  - title: "Value Stream Mapping: How to Visualize Work and Align Leadership for Organizational Transformation"
+    authorYear: Karen Martin & Mike Osterling (2013).
+  - title: The DevOps Handbook
+    authorYear: Gene Kim, Jez Humble, Patrick Debois & John Willis (2016).
+---
+
 # Value Stream Mapping
-*Diagnose end-to-end flow from customer need to value delivered*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Value Stream Mapping (VSM) is a diagnostic technique that visualizes every step a unit of work passes through from initial trigger to customer delivery, recording for each step both process time (active work) and lead time (wall-clock), plus rework loops and handoffs. Originated in Toyota's "material and information flow mapping" (Mike Rother & John Shook, *Learning to See*, 1999) and adapted to knowledge work by Karen Martin and Mike Osterling (*Value Stream Mapping*, 2013), it surfaces where time is spent — almost always in waits, handoffs, and rework rather than active work.
@@ -41,22 +65,6 @@ Picture an x-ray of a process. The bones (process steps) are visible to managers
 A bank wants to cut loan origination time from 23 days to 7. A VSM workshop traces one loan: trigger to first review (3 days wait), review to underwriting (5 days wait, 2 hours work), underwriting to legal (4 days wait, 4 hours work), legal to operations (6 days wait), ops to disbursement (5 days wait, 1 hour work). Process time totals about 8 hours; lead time totals 23 days. Flow efficiency: 4%. Two interventions emerge: collapse the underwriting/legal handoff into a single review (saves 4 days), and run intake-to-review continuously rather than in daily batches (saves 3 days). Loan origination lead time drops to 10 days in 90 days, with no new headcount.
 
 ---
-
-## Connections
-
-→ [133·Flow Efficiency](flow-efficiency.md) — VSM produces the numerator and denominator.
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — the longest wait identifies the constraint.
-→ [147·Gemba](gemba.md) — VSM is a structured form of going and seeing.
-→ [136·Batch Size Reduction](batch-size-reduction.md) — VSM exposes where batches accumulate.
-→ [28·Conway's Law](../Systems/conways-law.md) — handoffs between teams reflect org boundaries; future-state may require org change.
-
----
-
-## References
-
-- *Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda* — Mike Rother & John Shook (1999).
-- *Value Stream Mapping: How to Visualize Work and Align Leadership for Organizational Transformation* — Karen Martin & Mike Osterling (2013).
-- *The DevOps Handbook* — Gene Kim, Jez Humble, Patrick Debois & John Willis (2016).
 
 ---
 

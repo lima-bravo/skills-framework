@@ -1,10 +1,32 @@
+---
+id: 134
+name: Lead Time vs Cycle Time
+category: Delivery & Flow
+cardType: standard
+tagline: Shared vocabulary for what you commit to and what you control
+connections:
+  - id: 131
+    rationale: both metrics fall out of L = λW; lead and cycle time differ by where you start the clock.
+  - id: 141
+    rationale: percentile lead times are the substrate of commit-able service level expectations.
+  - id: 140
+    rationale: variability of cycle time drives the gap between mean and 85th percentile.
+  - id: 142
+    rationale: '"lead time for changes" is the specific DORA variant for code delivery.'
+references:
+  - title: Actionable Agile Metrics for Predictability
+    authorYear: Daniel S. Vacanti (2015).
+  - title: The Principles of Product Development Flow
+    authorYear: Donald G. Reinertsen (2009).
+  - title: Accelerate
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+---
+
 # Lead Time vs Cycle Time
-*Shared vocabulary for what you commit to and what you control*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 **Lead time** is the elapsed time from the moment a customer's request enters the system until they receive value. **Cycle time** is the elapsed time from the moment the team starts active work on an item until it is delivered. Lead time is what the customer experiences; cycle time is what the team can directly influence. Both are simple, both are routinely confused, and both should be reported. The distinction was formalized in lean manufacturing and adopted into knowledge work via *The Principles of Product Development Flow* (Reinertsen, 2009) and Daniel Vacanti's writing on flow metrics.
@@ -40,21 +62,6 @@ A coffee shop. The customer's lead time begins when they get in line and ends wh
 A regulatory team reports 6-day cycle time on policy reviews and is pressured to "move faster." Investigation: lead time is 41 days because intake sits with a single analyst for triage. The 6-day cycle time was real and unrelated to the customer's experience. Moving the bottleneck (triage) into the team's flow board and applying a WIP limit cuts lead time to 14 days without changing the team's actual review pace.
 
 ---
-
-## Connections
-
-→ [131·Little's Law](littles-law.md) — both metrics fall out of L = λW; lead and cycle time differ by where you start the clock.
-→ [141·Probabilistic Forecasting](probabilistic-forecasting.md) — percentile lead times are the substrate of commit-able service level expectations.
-→ [140·Statistical Variability](statistical-variability.md) — variability of cycle time drives the gap between mean and 85th percentile.
-→ [142·DORA Metrics](dora-metrics.md) — "lead time for changes" is the specific DORA variant for code delivery.
-
----
-
-## References
-
-- *Actionable Agile Metrics for Predictability* — Daniel S. Vacanti (2015).
-- *The Principles of Product Development Flow* — Donald G. Reinertsen (2009).
-- *Accelerate* — Nicole Forsgren, Jez Humble & Gene Kim (2018).
 
 ---
 

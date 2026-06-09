@@ -1,10 +1,32 @@
+---
+id: 157
+name: Feature Factory vs Product Orientation
+category: Delivery & Flow
+cardType: standard
+tagline: Diagnosis for organizations addicted to output
+connections:
+  - id: 144
+    rationale: the diagnostic frame.
+  - id: 152
+    rationale: outcome-anchored alignment that pushes against feature-factory drift.
+  - id: 153
+    rationale: the discipline that distinguishes the two orientations.
+  - id: 63
+    rationale: the loop that closes the outcome connection.
+  - id: 158
+    rationale: the portfolio-level structure that makes product orientation durable.
+references:
+  - title: Escaping the Build Trap
+    authorYear: Melissa Perri (2018).
+  - title: Inspired
+    authorYear: Marty Cagan (2008; 2nd ed. 2017).
+---
+
 # Feature Factory vs Product Orientation
-*Diagnosis for organizations addicted to output*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A "feature factory" — coined by John Cutler in 2016 — is an organization that produces shipped features as its primary output, with limited connection between what is shipped and whether anything changes for customers. A product-oriented organization, by contrast, treats shipped features as a means to behaviour change and is willing to stop, kill, or redirect work when the evidence shows that the means is not producing the end. The dichotomy is diagnostic: most enterprise software organizations are feature factories by default, and recognizing this is the first step toward changing it. The framing builds on Marty Cagan's *Inspired* and Melissa Perri's *Escaping the Build Trap*.
@@ -41,22 +63,6 @@ Two restaurants. One measures performance by meals served, dishes prepped, and k
 A 1500-person enterprise software product organization is praised internally for shipping 230 features in a year. A new CPO asks the diagnostic question: which 10 features moved the customer metrics? Investigation takes weeks; the answer is 3. Of the remaining 227, post-hoc analysis suggests 40–60 had no measurable customer impact. The CPO restructures planning around 6 outcome KRs, mandates an outcome thesis on every initiative above a size threshold, and installs explicit kill criteria. Year 2: 90 features ship; 14 move customer metrics meaningfully; the org reports an 11% lift in net retention. Senior PMs report the second year as "the first time we actually knew what we were doing." The factory was not lacking effort; it was lacking outcome discipline.
 
 ---
-
-## Connections
-
-→ [144·Outcome vs Output](outcome-vs-output.md) — the diagnostic frame.
-→ [152·OKRs](okrs.md) — outcome-anchored alignment that pushes against feature-factory drift.
-→ [153·Kill Criteria](kill-criteria.md) — the discipline that distinguishes the two orientations.
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — the loop that closes the outcome connection.
-→ [158·Lean Portfolio Management](lean-portfolio.md) — the portfolio-level structure that makes product orientation durable.
-
----
-
-## References
-
-- *Escaping the Build Trap* — Melissa Perri (2018).
-- John Cutler, "12 Signs You're Working in a Feature Factory" (blog, 2016).
-- *Inspired* — Marty Cagan (2008; 2nd ed. 2017).
 
 ---
 

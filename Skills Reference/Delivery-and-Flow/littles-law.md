@@ -1,10 +1,35 @@
+---
+id: 131
+name: Little's Law
+category: Delivery & Flow
+cardType: standard
+tagline: WIP equals throughput times cycle time
+connections:
+  - id: 132
+    rationale: Little's Law is the mathematics behind why limiting WIP shortens cycle time.
+  - id: 135
+    rationale: Little's Law is the steady-state result of queueing dynamics; queueing theory explains the variability behind the averages.
+  - id: 18
+    rationale: throughput in L = λW is set by the bottleneck; Little's Law explains why optimizing non-bottlenecks does not move cycle time.
+  - id: 133
+    rationale: cycle time decomposes into work time plus wait time; flow efficiency exposes the ratio.
+references:
+  - title: "A Proof for the Queuing Formula: L = λW"
+    authorYear: John D. C. Little (1961)
+    supports: Operations Research; original proof of Little's Law.
+  - title: The Principles of Product Development Flow
+    authorYear: Donald G. Reinertsen (2009)
+    supports: reframed Little's Law for product development.
+  - title: Actionable Agile Metrics for Predictability
+    authorYear: Daniel S. Vacanti (2015)
+    supports: operationalized Little's Law for knowledge work.
+---
+
 # Little's Law
-*WIP equals throughput times cycle time*
 
 **Category:** [Delivery & Flow](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Little's Law states that for any stable system, the average amount of work-in-progress (WIP) equals the average throughput multiplied by the average cycle time: **L = λW**. Proved by John D. C. Little in 1961 and applicable to any queueing system — from supermarket checkouts to software delivery — it is the most general and most underused law in operations. The strategic implication: cycle time is a function of WIP, not of effort. Push more work into a system and items will spend more time waiting, even if everyone is working harder.
@@ -40,19 +65,6 @@ Picture a highway. The number of cars on the road (WIP) equals how fast cars exi
 A platform team complains that initiatives take six months on average. The portfolio shows 30 active initiatives and the team completes about 5 per month. Little's Law: 30 ÷ 5 = 6 months — the data fit. The executive instinct is "ship faster"; the lever Little's Law surfaces is WIP. Halving active initiatives to 15 should — all else equal — halve average cycle time to three months, without anyone working harder. The conversation shifts from heroics to portfolio discipline.
 
 ---
-
-## Connections
-
-→ [132·WIP Limits](wip-limits.md) — Little's Law is the mathematics behind why limiting WIP shortens cycle time.
-→ [135·Queueing & Wait Time](queueing.md) — Little's Law is the steady-state result of queueing dynamics; queueing theory explains the variability behind the averages.
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — throughput in L = λW is set by the bottleneck; Little's Law explains why optimizing non-bottlenecks does not move cycle time.
-→ [133·Flow Efficiency](flow-efficiency.md) — cycle time decomposes into work time plus wait time; flow efficiency exposes the ratio.
-
----
-
-## References
-
-The law was proved by **John D. C. Little** in *"A Proof for the Queuing Formula: L = λW"* (Operations Research, 1961). Donald G. Reinertsen reframed it for product development in *The Principles of Product Development Flow* (2009). Daniel S. Vacanti operationalized it for knowledge work in *Actionable Agile Metrics for Predictability* (2015).
 
 ---
 
