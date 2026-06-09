@@ -65,6 +65,9 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 → [**Incentives**](../Psychology/incentives.md) — incentives create feedback loops; the loop structure determines whether the incentive produces the intended long-run outcome or an unintended one.
 → [**Psychological Safety**](../Psychology/psychological-safety.md) — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound into larger failures.
 → [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — fragmentation → lower output → more status meetings → more fragmentation is a reinforcing loop; calendar structure is the intervention point.
+→ [**Product-Market Fit**](../Startups/product-market-fit.md) — PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth; the absence of that loop is the diagnostic signal that PMF has not been achieved.
+
+---
 
 ## References
 

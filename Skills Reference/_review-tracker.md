@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **131**
+- Reviewed (verified + fixed): **132**
 - Flagged: **0**
-- Remaining (todo): **131**
+- Remaining (todo): **130**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -202,7 +202,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## Innovation & Entrepreneurship (23)
 
-- [ ] `#62` **Product-Market Fit** · `Startups/product-market-fit.md` · **st:** todo · **n:** —
+- [x] `#62` **Product-Market Fit** · `Startups/product-market-fit.md` · **st:** fixed · **n:** typo fixed ("raizing"→"raising"); added --- before refs, fixed double --- footer; Gap-A: added The Lean Startup (in manifest but missing from card); backlink in feedback-loops (+struct fix)
 - [ ] `#63` **Build-Measure-Learn** · `Startups/build-measure-learn.md` · **st:** todo · **n:** —
 - [ ] `#64` **MVP** · `Startups/mvp.md` · **st:** todo · **n:** —
 - [ ] `#65` **Pivot or Persevere** · `Startups/pivot-or-persevere.md` · **st:** todo · **n:** —

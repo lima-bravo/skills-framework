@@ -30,7 +30,7 @@ PMF is a binary state in practice even though it exists on a spectrum conceptual
 ## Common Failure Modes
 
 - **Vanity metrics as PMF signals.** Downloads, sign-ups, and press coverage are not PMF. Active retention and word-of-mouth are.
-- **Premature scaling.** Hiring aggressively and raizing large rounds before retention is proven. The result: a large team burning cash to acquire customers who leave.
+- **Premature scaling.** Hiring aggressively and raising large rounds before retention is proven. The result: a large team burning cash to acquire customers who leave.
 - **Narrowing too slowly.** Companies that try to serve too broad a market find weak PMF signals everywhere and strong signals nowhere. Narrowing to a specific segment where PMF is strong, then expanding, is the typical path.
 
 ---
@@ -49,13 +49,13 @@ Slack's early users were internal at Stewart Butterfield's game company Glitch. 
 → [**Business Model Canvas**](../Business/business-model-canvas.md) — the canvas is the framework for testing whether a viable business model exists around which PMF could be achieved; strong product pull without a sound model is incomplete validation.
 → [**Value Prop Canvas**](../Business/value-prop-canvas.md) — fit in the Value Prop Canvas is the direct diagnostic for PMF: when pain relievers and gain creators match the customer's highest-priority pains and gains, the pull dynamic becomes achievable.
 
+---
+
 ## References
 
 - *Product/Market Fit* — Marc Andreessen, pmarchive.com (2007) — the original essay coining the term and defining PMF as the only thing that matters for startups.
+- *The Lean Startup* — Eric Ries (2011) — the Build-Measure-Learn loop as the method for discovering PMF efficiently; validated learning and the pivot as the structural responses to PMF signals.
 - *Zero to One: Notes on Startups, or How to Build the Future* — Peter Thiel & Blake Masters (2014) — the complementary framing: find a monopoly, which requires genuine PMF before scaling.
-
-
----
 
 ---
 
