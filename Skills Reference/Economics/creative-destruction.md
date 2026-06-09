@@ -52,6 +52,7 @@ Kodak invented the digital camera in 1975 and buried the invention because it th
 → [**Equilibrium**](../Systems/equilibrium.md) — creative destruction describes the mechanism by which industry equilibria are periodically destabilised and replaced.
 → [**Red Queen Dilemma**](../Systems/red-queen-dilemma.md) — creative destruction is how escape from Red Queen races happens: a new product or model redefines the competitive dimension before others adapt.
 → [**Long Tail**](../Economics/long-tail.md) — Long Tail economics are a mechanism of creative destruction: digital distribution destroys hit-dependent incumbent models and creates platform-aggregator models in their place.
+→ [**Portfolio Map**](../Business/portfolio-map.md) — H3 bets are the organisation's hedge against being destroyed; portfolio strategy and creative destruction together define why exploration investment is not optional.
 
 ## References
 
