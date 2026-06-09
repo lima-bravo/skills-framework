@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **126**
+- Reviewed (verified + fixed): **127**
 - Flagged: **0**
-- Remaining (todo): **136**
+- Remaining (todo): **135**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -194,7 +194,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#225` **A/B Testing** · `Business/ab-testing.md` · **st:** fixed · **n:** reformatted 4 non-standard refs; Gap-A x3: added skill 225 to Design of Experiments, Trustworthy Online Controlled Experiments, Lean Startup in manifest; Gap-B2: added Kohavi & Thomke HBR 2017; refs 307→308; backlinks in build-measure-learn, probabilistic-thinking, goodharts-law
 - [x] `#241` **Parkinson's Law** · `Business/parkinsons-law.md` · **st:** fixed · **n:** missing `---` before refs, double blank before footer, 3 broken connection paths fixed; backlinks in planning-fallacy, organizational-slack (+ structural fixes), wip-limits, cobra-effect (+ structural fixes), kill-criteria
 - [x] `#247` **Growth Barriers** · `Business/growth-barriers.md` · **st:** fixed · **n:** refs reformatted (4×), removed duplicate Theory-of-Constraints connection; Gap-A x3 (The Goal, Lean Startup, Competing Against Luck), Gap-B2 (Lean Analytics); backlinks in causal-analysis, unit-economics, outcome-vs-output, hypothesis-driven; structural fixes in causal-analysis + unit-economics (missing ---)
-- [ ] `#248` **Profit Pool Analysis** · `Business/profit-pool-analysis.md` · **st:** todo · **n:** —
+- [x] `#248` **Profit Pool Analysis** · `Business/profit-pool-analysis.md` · **st:** fixed · **n:** refs reformatted (4×), split compound connection; Gap-A (Competitive Advantage), Gap-B2 x3 (2× Gadiesh & Gilbert HBR, Bryce & Dyer HBR); refs 309→312; backlinks in wardley-mapping, long-tail, power-law, red-teaming, kernel-of-strategy, situation-assessment, unit-economics; structural fixes in wardley-mapping/long-tail/power-law
 - [ ] `#249` **Customer Segmentation** · `Business/customer-segmentation.md` · **st:** todo · **n:** —
 - [ ] `#250` **KPI Architecture** · `Business/kpi-architecture.md` · **st:** todo · **n:** —
 - [ ] `#251` **Value Realization** · `Business/value-realization.md` · **st:** todo · **n:** —

@@ -2026,6 +2026,11 @@
           "id": 217,
           "name": "Value Creation and Capture",
           "color": "#16A34A"
+        },
+        {
+          "id": 248,
+          "name": "Profit Pool Analysis",
+          "color": "#475569"
         }
       ]
     },
@@ -6204,6 +6209,39 @@
         {
           "id": 247,
           "name": "Growth Barriers",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "\"Profit Pools: A Fresh Look at Strategy\"",
+      "authorYear": "Orit Gadiesh & James L. Gilbert, HBR (1998)",
+      "skills": [
+        {
+          "id": 248,
+          "name": "Profit Pool Analysis",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "\"How to Map Your Industry's Profit Pool\"",
+      "authorYear": "Orit Gadiesh & James L. Gilbert, HBR (1998)",
+      "skills": [
+        {
+          "id": 248,
+          "name": "Profit Pool Analysis",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "\"Strategies to Crack Well-Guarded Markets\"",
+      "authorYear": "David J. Bryce & Jeffrey H. Dyer, HBR (2007)",
+      "skills": [
+        {
+          "id": 248,
+          "name": "Profit Pool Analysis",
           "color": "#475569"
         }
       ]

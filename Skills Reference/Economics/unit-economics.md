@@ -63,6 +63,7 @@ The SMB segment is marginally viable at best and is pulling the blended ratio do
 → [**Lean Portfolio Management**](../Delivery-and-Flow/lean-portfolio.md) — portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating unit economics is a kill candidate regardless of revenue trajectory
 → [**Long Tail**](long-tail.md) — Long Tail strategy only works when unit economics at the tail level are sound; high marginal costs per tail unit destroy the model regardless of aggregate tail demand.
 → [**Growth Barriers**](../Business/growth-barriers.md) — when the binding constraint sits in monetization or expansion, unit economics is the lens that makes the leak visible in dollar terms rather than funnel percentages.
+→ [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — unit economics explains at the per-customer level why a profit pool concentrates where the market-level map shows it does.
 
 ---
 

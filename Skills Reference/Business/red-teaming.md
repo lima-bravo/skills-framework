@@ -68,6 +68,7 @@ None of these were visible to the proposal team — they were too close to the w
 → [**Psychological Safety**](../Psychology/psychological-safety.md) — red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for useful adversarial output.
 → [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — red team findings often generate the conditions that should be pre-specified as kill criteria; converting red team output into kill criteria makes the findings operationally binding.
 → [**A/B Testing**](ab-testing.md) — where red teaming attacks plans before commitment, A/B testing attacks hypotheses with live evidence during execution; the two are complementary tools for different phases of uncertainty reduction.
+→ [**Profit Pool Analysis**](profit-pool-analysis.md) — once a profit pool map identifies an attractive position, red-team it: if the pool is this profitable, why hasn't it already been contested away?
 
 ---
 

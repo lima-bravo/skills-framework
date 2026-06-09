@@ -51,6 +51,7 @@ A mid-market software firm's "strategy" is a slide deck of five priorities (grow
 → [**Portfolio Map**](portfolio-map.md) — the portfolio question follows the strategy question, not the reverse.
 → [**Wardley Mapping**](wardley-mapping.md) — a Wardley Map is a tool for developing the diagnosis component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
 → [**Playing to Win**](playing-to-win.md) — Lafley & Martin's five-choice cascade is the operational complement to Rumelt's kernel: Rumelt names what a strategy must contain; Playing to Win shows how to build the choices so they reinforce each other.
+→ [**Profit Pool Analysis**](profit-pool-analysis.md) — a profit pool map is a diagnosis tool; it becomes strategy only when paired with a guiding policy and coherent actions that follow from where the profit actually sits.
 
 ---
 

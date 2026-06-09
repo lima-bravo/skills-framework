@@ -55,7 +55,8 @@ The structural explanation is what makes the map actionable rather than merely i
 → [**Value Creation and Capture**](../Economics/value-creation-capture.md) — the conceptual foundation: profit pool analysis is value-capture analysis applied at the level of a market or value chain rather than a single firm or transaction.
 → [**Unit Economics**](../Economics/unit-economics.md) — the per-customer or per-transaction lens that often explains *why* a pool concentrates where the map shows it does.
 → [**Wardley Mapping**](wardley-mapping.md) — the discipline of explaining structural position, not just current position; pairs with this card to answer "will this pool still be here in three years?"
-→ [**Long Tail**](../Economics/long-tail.md) and [**Power Law**](../Mathematics/power-law.md) — the mathematical shapes that profit concentration often takes, and the difference between durable and fragile concentration.
+→ [**Long Tail**](../Economics/long-tail.md) — the mathematical shape profit concentration often takes; distinguishes durable (structural) from fragile (temporary) concentration.
+→ [**Power Law**](../Mathematics/power-law.md) — profit pools frequently follow a power law distribution; the strategic question is whether that concentration is load-bearing or merely current.
 → [**Kernel of Good Strategy**](kernel-of-strategy.md) — a profit pool map is a diagnosis; it becomes strategy only when paired with a guiding policy and coherent actions that follow from where the profit actually sits.
 → [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — profit pool analysis is one lens within a broader current-state view; it specializes the "market position" and "financial performance" dimensions into a single structural question.
 → [**Red Teaming**](red-teaming.md) — once a profit pool map identifies an attractive position, red-team it: if the pool is this attractive, why hasn't it already been contested away?
@@ -64,10 +65,10 @@ The structural explanation is what makes the map actionable rather than merely i
 
 ## References
 
-- Gadiesh, O. & Gilbert, J. L. (1998) "Profit Pools: A Fresh Look at Strategy" *Harvard Business Review*. The originating framework and the automotive-industry illustration this card draws from.
-- Gadiesh, O. & Gilbert, J. L. (1998) "How to Map Your Industry's Profit Pool" *Harvard Business Review*. The companion piece on constructing the map itself.
-- Bryce, D. J. & Dyer, J. H. (2007) "Strategies to Crack Well-Guarded Markets" *Harvard Business Review*. On identifying where structural barriers create durable profit concentration — and where they don't.
-- Porter, M. E. (1985) *Competitive Advantage*. Free Press. The value-chain decomposition that profit pool mapping is built on top of.
+- *"Profit Pools: A Fresh Look at Strategy"* — Orit Gadiesh & James L. Gilbert, HBR (1998) — the originating framework and the automotive-industry illustration this card draws from.
+- *"How to Map Your Industry's Profit Pool"* — Orit Gadiesh & James L. Gilbert, HBR (1998) — the companion piece on constructing the map itself.
+- *"Strategies to Crack Well-Guarded Markets"* — David J. Bryce & Jeffrey H. Dyer, HBR (2007) — on identifying where structural barriers create durable profit concentration — and where they don't.
+- *Competitive Advantage* — Michael E. Porter (1985) — the value-chain decomposition that profit pool mapping is built on top of.
 
 ---
 

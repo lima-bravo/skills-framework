@@ -59,12 +59,14 @@ The strategic implication: stop acquiring broad and start acquiring narrow. The 
 → [**Margin of Safety**](../Systems/margin-of-safety.md) — power law tails make margin of safety more important, not less: the worst-case event is not negligibly rare.
 → [**Randomness**](../Mathematics/randomness.md) — power law distributions and normal distributions are both random processes, but with fundamentally different properties; confusing them is the core analytical error in fat-tailed domains.
 → [**Survivorship Bias**](../Psychology/survivorship-bias.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is, obscuring the full population of attempts.
+→ [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — profit pools frequently follow a power law distribution across a value chain; identifying whether that concentration is structural or merely current is the key strategic question.
+
+---
 
 ## References
 
 - *The Long Tail: Why the Future of Business Is Selling Less of More* — Chris Anderson (2006) — the business implications of power-law distributions in digital markets.
 - *Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies* — Geoffrey West (2017) — power laws as the universal scaling principle across biological and social systems.
-
 
 ---
 

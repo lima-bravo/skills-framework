@@ -57,11 +57,13 @@ The Long Tail argument: the 340 integrations are exactly why enterprise customer
 → [**S-Curves**](../Systems/s-curves.md) — Long Tail markets often follow an S-curve adoption pattern: slow initial tail growth as discovery infrastructure is built, then rapid expansion as recommendation and search mature.
 → [**Creative Destruction**](../Economics/creative-destruction.md) — Long Tail economics are a mechanism of creative destruction: digital distribution destroys hit-dependent incumbent models and creates platform-aggregator models in their place.
 → [**Unit Economics**](../Economics/unit-economics.md) — Long Tail strategy only works when unit economics at the tail level are sound; high marginal costs per tail unit destroy the model regardless of aggregate tail demand.
+→ [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — profit concentration often follows a Long Tail shape; understanding whether concentration is structural or fragile is the same question asked at the market level.
+
+---
 
 ## References
 
 - *The Long Tail: Why the Future of Business Is Selling Less of More* — Chris Anderson (2006) — the original articulation of the long tail as a business model enabled by digital distribution.
-
 
 ---
 
