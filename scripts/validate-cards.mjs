@@ -6,7 +6,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { REF_DIR, loadManifest, buildLookups } from './lib/manifest.mjs';
-import { parseConnectionsFromMd, resolveConnectionTarget } from './lib/connections.mjs';
+import { resolveConnectionTarget } from './lib/connections.mjs';
+import { parseSkillMarkdown } from './lib/parse-skill.mjs';
 
 const STRICT = process.argv.includes('--strict');
 const SCHEMA = JSON.parse(
@@ -16,37 +17,12 @@ const SCHEMA = JSON.parse(
 const STANDARD_SECTIONS = SCHEMA.cardTypes.standard.requiredSections;
 const STEP_RE = /^Step \d+/i;
 
-function parseSections(md) {
-  let text = md.replace(/\n\*Part of[\s\S]*$/i, '').trim();
-  const firstH2 = text.search(/^## /m);
-  if (firstH2 >= 0) text = text.slice(firstH2);
-  const sections = [];
-  for (const chunk of text.split(/\n(?=## )/)) {
-    const m = chunk.match(/^## ([^\n]+)\n([\s\S]*)/);
-    if (!m) continue;
-    sections.push({ title: m[1].trim(), body: m[2].trim() });
-  }
-  return sections;
-}
-
 function normalizeText(s) {
   return s
     .replace(/[\u201C\u201D]/g, '"')
     .replace(/[\u2018\u2019]/g, "'")
     .replace(/[–—]/g, '-')
     .trim();
-}
-
-function parseTitle(md) {
-  const m = md.match(/^# ([^\n]+)/m);
-  return m ? m[1].trim() : '';
-}
-
-function parseTagline(md) {
-  const tag = md.match(/\*\*Tagline:\*\*\s*(.+)/);
-  if (tag) return tag[1].trim();
-  const italic = md.match(/^\*([^*\n]+)\*/m);
-  return italic ? italic[1].trim() : '';
 }
 
 function warn(file, msg) {
@@ -155,9 +131,10 @@ function main() {
     }
 
     const md = fs.readFileSync(full, 'utf8');
-    const title = parseTitle(md);
-    const tagline = parseTagline(md);
-    const sections = parseSections(md);
+    const parsed = parseSkillMarkdown(md, { includeReferences: true });
+    const title = parsed.title;
+    const tagline = parsed.tagline;
+    const sections = parsed.allSections;
     const cardType = meta.cardType ?? 'standard';
 
     if (normalizeText(title) !== normalizeText(meta.name)) {
@@ -168,7 +145,7 @@ function main() {
     if (cardType === 'chain') validateChain(file, sections);
     else validateStandardOrExtended(file, cardType, sections);
 
-    for (const conn of parseConnectionsFromMd(md)) {
+    for (const conn of parsed.connections) {
       const { targetId, resolvedBy } = resolveConnectionTarget(
         conn,
         lookups,

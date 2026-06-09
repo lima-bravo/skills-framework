@@ -8,7 +8,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildLookups } from './lib/manifest.mjs';
-import { parseConnectionsFromMd, resolveConnectionTarget } from './lib/connections.mjs';
+import { resolveConnectionTarget } from './lib/connections.mjs';
+import { parseSkillMarkdown } from './lib/parse-skill.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -23,15 +24,6 @@ fs.mkdirSync(DOCS_DIR, { recursive: true });
 
 // Ref node IDs start here (matches existing graph.html convention)
 const REF_ID_BASE = 1000;
-
-function parseTagline(md) {
-  // First bold-italic tagline after the h1
-  const m = md.match(/\*\*Tagline:\*\*\s*(.+)/);
-  if (m) return m[1].trim();
-  // Fallback: first *italic* line
-  const m2 = md.match(/^\*([^*]+)\*/m);
-  return m2 ? m2[1].trim() : '';
-}
 
 function truncate(s, len = 60) {
   if (!s) return '';
@@ -68,7 +60,8 @@ function main() {
       continue;
     }
     const md = fs.readFileSync(mdPath, 'utf8');
-    const tagline = parseTagline(md) || '';
+    const parsed = parseSkillMarkdown(md);
+    const tagline = parsed.tagline || '';
 
     nodes.push({
       id: meta.id,
@@ -79,7 +72,7 @@ function main() {
     });
 
     // Parse connections → edges (id-first, name fallback)
-    for (const conn of parseConnectionsFromMd(md)) {
+    for (const conn of parsed.connections) {
       const { targetId } = resolveConnectionTarget(conn, { byId, byName, byPath }, file);
       if (targetId != null && targetId !== meta.id) {
         addLink(meta.id, targetId);
