@@ -1,10 +1,40 @@
+---
+id: 37
+name: Creative Destruction
+category: Economics
+cardType: standard
+tagline: New things displace old things structurally
+connections:
+  - id: 217
+    rationale: "creative destruction reshifts the capture split: incumbents who were capturing significant value find that new entrants restructure who captures what."
+  - id: 34
+    rationale: monopoly positions are the primary targets of creative destruction.
+  - id: 102
+    rationale: creative destruction describes the jump between S-curves.
+  - id: 2
+    rationale: the full impact of creative destruction on industries, workers, and communities takes years to unfold.
+  - id: 20
+    rationale: creative destruction describes the mechanism by which industry equilibria are periodically destabilised and replaced.
+  - id: 29
+    rationale: "creative destruction is how escape from Red Queen races happens: a new product or model redefines the competitive dimension before others adapt."
+  - id: 239
+    rationale: "Long Tail economics are a mechanism of creative destruction: digital distribution destroys hit-dependent incumbent models and creates platform-aggregator models in their place."
+  - id: 71
+    rationale: H3 bets are the organisation's hedge against being destroyed; portfolio strategy and creative destruction together define why exploration investment is not optional.
+references:
+  - title: Capitalism, Socialism and Democracy
+    authorYear: Joseph A. Schumpeter (1942)
+    supports: the original source of creative destruction as the defining mechanism of capitalist development.
+  - title: "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail"
+    authorYear: Clayton M. Christensen (1997)
+    supports: the canonical treatment of why incumbent firms are structurally unable to respond to disruptive innovation; the source of the sustaining versus disruptive distinction.
+---
+
 # Creative Destruction
-*New things displace old things structurally*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Creative destruction, coined by economist Joseph Schumpeter in 1942, describes the process by which capitalism perpetually revolutionises itself from within — new products, processes, and firms destroying existing ones, generating new value in the process. The "destruction" is real: established firms, jobs, and industries are eliminated. The "creative" is also real: the destruction frees resources for higher-value uses and produces net improvement in aggregate productivity and living standards.
@@ -42,22 +72,6 @@ Industries evolve through S-curves: a new technology or business model is introd
 Kodak invented the digital camera in 1975 and buried the invention because it threatened the highly profitable film business. They continued to earn monopoly returns from film through the 1990s while digital photography grew. When the transition happened, it happened faster than Kodak's ability to restructure. The company that invented the disrupting technology was destroyed by it. The failure wasn't technical; it was organizational: their incentive systems, resource allocation, and mental models were all optimized around the old paradigm. Creative destruction rarely fails on the upside; it fails on the incumbent's inability to acknowledge the transition is real.
 
 ---
-
-## Connections
-
-→ [217·Value Creation and Capture](value-creation-capture.md) — creative destruction reshifts the capture split: incumbents who were capturing significant value find that new entrants restructure who captures what.
-→ [34·Monopoly vs. Competition](monopoly-vs-competition.md) — monopoly positions are the primary targets of creative destruction.
-→ [**S-curves**](../Systems/s-curves.md) (see Compounding/Learning) — creative destruction describes the jump between S-curves.
-→ [2·Second-order Effects](../General-Thinking/second-order-effects.md) — the full impact of creative destruction on industries, workers, and communities takes years to unfold.
-→ [20·Equilibrium](../Systems/equilibrium.md) — creative destruction describes the mechanism by which industry equilibria are periodically destabilised and replaced.
-→ [29·Red Queen Dilemma](../Systems/red-queen-dilemma.md) — creative destruction is how escape from Red Queen races happens: a new product or model redefines the competitive dimension before others adapt.
-→ [239·Long Tail](../Economics/long-tail.md) — Long Tail economics are a mechanism of creative destruction: digital distribution destroys hit-dependent incumbent models and creates platform-aggregator models in their place.
-→ [71·Portfolio Map](../Business/portfolio-map.md) — H3 bets are the organisation's hedge against being destroyed; portfolio strategy and creative destruction together define why exploration investment is not optional.
-
-## References
-
-- *Capitalism, Socialism and Democracy* — Joseph A. Schumpeter (1942) — the original source of creative destruction as the defining mechanism of capitalist development.
-- *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* — Clayton M. Christensen (1997) — the canonical treatment of why incumbent firms are structurally unable to respond to disruptive innovation; the source of the sustaining versus disruptive distinction.
 
 ---
 

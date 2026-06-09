@@ -1,10 +1,52 @@
+---
+id: 120
+name: Goodhart's Law
+category: Economics
+cardType: standard
+tagline: When a measure becomes a target, it ceases to be a good measure
+connections:
+  - id: 216
+    rationale: CAC and LTV are the metrics most vulnerable to Goodhart's Law; organisations that target them directly distort the customer acquisition mix or inflate LTV projections
+  - id: 51
+    rationale: Goodhart's Law is the failure mode of incentive systems
+  - id: 237
+    rationale: "the Cobra Effect is Goodhart's Law with structural lock-in: the measurement programme itself sustains the problem it was designed to solve"
+  - id: 121
+    rationale: agents optimise what they're measured on, not necessarily what principals want
+  - id: 17
+    rationale: measurement creates feedback loops that can go reinforcing in the wrong direction
+  - id: 33
+    rationale: local optimisation of a proxy metric is how this failure mode manifests
+  - id: 231
+    rationale: when shared metrics are used to manage shared resources, Goodhart's Law can weaponise the measurement system itself
+  - id: 250
+    rationale: "the design discipline that builds Goodhart-drift detection into the measurement system itself: small metric sets, named owners, and review cadences fast enough to catch a proxy curdling into a target"
+  - id: 260
+    rationale: "symptomatic fixes that target a metric while leaving the underlying dynamic intact are Goodhart's Law in action: the measure improves while the thing it was measuring continues to degrade"
+  - id: 262
+    rationale: every incentive scheme must be designed with Goodhart drift in mind; metric rotation and small indicator sets are the countermeasures
+  - id: 6
+    rationale: "Goodhart's Law is the metric-fixation failure mode of the map-territory gap: the metric (map) diverges from the underlying reality (territory) the moment it becomes a target"
+  - id: 208
+    rationale: "Goodhart's Law is a primary drift mechanism: as teams optimise measured metrics, the underlying system can drift toward risk boundaries while surface indicators look healthy"
+  - id: 219
+    rationale: when revenue or margin targets become the primary pricing driver, pricing degrades into a number-hitting exercise; value capture becomes a side effect of hitting the target rather than the purpose of the decision.
+  - id: 225
+    rationale: "optimising for easy-to-measure A/B metrics (click rates, micro-conversions) is a Goodhart failure: the metric becomes the target and drifts from what actually matters (retention, LTV, brand)."
+references:
+  - title: The Tyranny of Metrics
+    authorYear: Jerry Z. Muller (2018)
+    supports: comprehensive critique of metric-based management across education, medicine, policing, and business; documents the recurring pattern of proxy corruption.
+  - title: Measuring and Managing Performance in Organizations
+    authorYear: Robert D. Austin (1996)
+    supports: the analytical framework showing why measurement systems distort behaviour when they become targets; the theoretical foundation for Goodhart's practical problem.
+---
+
 # Goodhart's Law
-*When a measure becomes a target, it ceases to be a good measure*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Goodhart's Law: **"When a measure becomes a target, it ceases to be a good measure."** First articulated by Charles Goodhart in 1975 with reference to monetary policy, generalised by Marilyn Strathern in 1997. The mechanism: any metric that carries real consequences creates an incentive to optimise the metric itself — to hit the number through whatever means available, including ones that degrade the underlying reality the metric was meant to track.
@@ -47,28 +89,6 @@ Hospital waiting-time targets cause patients to be held in ambulances outside th
 A hospital system under pressure to cut emergency-department waiting times sets a four-hour treatment target with real consequences attached. Measured waiting time falls dramatically — and the correlation it was meant to track breaks. Patients are held in ambulances outside the building (the clock starts at admission), admitted to wards prematurely to stop the clock, and sometimes discharged and readmitted to reset it. The proxy improved while the underlying reality — timely, appropriate care — stayed flat or degraded, and the staff producing the distortion were not cheating; they were rationally responding to a measure that had become a target. Triangulation would have caught it: pairing the waiting-time figure with readmission rates, ambulance-handover times, and patient outcomes would have shown the four-hour number rising while the system it claimed to represent did not.
 
 ---
-
-## Connections
-
-→ [216·Unit Economics](unit-economics.md) — CAC and LTV are the metrics most vulnerable to Goodhart's Law; organisations that target them directly distort the customer acquisition mix or inflate LTV projections
-→ [51·Incentives](../Psychology/incentives.md) — Goodhart's Law is the failure mode of incentive systems
-→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — the Cobra Effect is Goodhart's Law with structural lock-in: the measurement programme itself sustains the problem it was designed to solve
-→ [121·Principal-Agent Problem](principal-agent-problem.md) — agents optimise what they're measured on, not necessarily what principals want
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — measurement creates feedback loops that can go reinforcing in the wrong direction
-→ [33·Optimization](optimization.md) — local optimisation of a proxy metric is how this failure mode manifests
-→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — when shared metrics are used to manage shared resources, Goodhart's Law can weaponise the measurement system itself
-→ [250·KPI Architecture](../Business/kpi-architecture.md) — the design discipline that builds Goodhart-drift detection into the measurement system itself: small metric sets, named owners, and review cadences fast enough to catch a proxy curdling into a target
-→ [260·Fixes That Fail](../Systems/fixes-that-fail.md) — symptomatic fixes that target a metric while leaving the underlying dynamic intact are Goodhart's Law in action: the measure improves while the thing it was measuring continues to degrade
-→ [262·Incentive Design](incentive-design.md) — every incentive scheme must be designed with Goodhart drift in mind; metric rotation and small indicator sets are the countermeasures
-→ [6·Map-Territory](../General-Thinking/map-territory.md) — Goodhart's Law is the metric-fixation failure mode of the map-territory gap: the metric (map) diverges from the underlying reality (territory) the moment it becomes a target
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — Goodhart's Law is a primary drift mechanism: as teams optimise measured metrics, the underlying system can drift toward risk boundaries while surface indicators look healthy
-→ [219·Pricing Logic](../Business/pricing-logic.md) — when revenue or margin targets become the primary pricing driver, pricing degrades into a number-hitting exercise; value capture becomes a side effect of hitting the target rather than the purpose of the decision.
-→ [225·A/B Testing](../Business/ab-testing.md) — optimising for easy-to-measure A/B metrics (click rates, micro-conversions) is a Goodhart failure: the metric becomes the target and drifts from what actually matters (retention, LTV, brand).
-
-## References
-
-- *The Tyranny of Metrics* — Jerry Z. Muller (2018) — comprehensive critique of metric-based management across education, medicine, policing, and business; documents the recurring pattern of proxy corruption.
-- *Measuring and Managing Performance in Organizations* — Robert D. Austin (1996) — the analytical framework showing why measurement systems distort behaviour when they become targets; the theoretical foundation for Goodhart's practical problem.
 
 ---
 

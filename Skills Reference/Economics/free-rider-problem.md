@@ -1,10 +1,38 @@
+---
+id: 232
+name: Free Rider Problem
+category: Economics
+cardType: standard
+tagline: When benefits are shared, individuals undercontribute
+connections:
+  - id: 231
+    rationale: "the complementary failure mode: free riding is underinvestment in shared goods; the commons tragedy is overuse. Both stem from non-excludability."
+  - id: 51
+    rationale: free riding is an incentive design failure; fixing it requires changing what individuals gain from contributing.
+  - id: 121
+    rationale: "free riding within teams is a principal-agent problem: the collective (principal) wants contribution; the individual (agent) optimises for their own metrics."
+  - id: 230
+    rationale: "the free rider problem is a multi-player Prisoner's Dilemma: each individual's dominant strategy (not contributing) produces a collectively worse outcome."
+  - id: 229
+    rationale: "undercontribution is the Nash Equilibrium of public goods games: given that others may not contribute, not contributing is individually rational."
+  - id: 101
+    rationale: high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
+  - id: 82
+    rationale: shared goods often have network effect properties; underinvestment from free riding degrades the very thing that makes the network valuable.
+references:
+  - title: "The Logic of Collective Action: Public Goods and the Theory of Groups"
+    authorYear: Mancur Olson (1965)
+    supports: the formal theory of why rational individuals fail to contribute to collective goods.
+  - title: "Governing the Commons: The Evolution of Institutions for Collective Action"
+    authorYear: Elinor Ostrom (1990)
+    supports: the empirical evidence for how communities solve free-rider problems without top-down enforcement.
+---
+
 # Free Rider Problem
-*When benefits are shared, individuals undercontribute*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Free Rider Problem arises when individuals can benefit from a shared resource, public good, or collective effort without contributing to its cost or maintenance. Because exclusion is difficult or impossible, each individual has an incentive to let others bear the cost while still receiving the benefit. The result is systematic underinvestment in anything whose benefits are non-excludable — from public infrastructure and open-source software to team documentation and shared code standards.
@@ -45,22 +73,6 @@ An engineering organisation runs a shared platform team responsible for core too
 Interventions: (1) Platform contribution time is written into each squad's capacity allocation — embedded in the workflow, not optional. (2) Contributions are attributed publicly in release notes and the all-hands. (3) Squads that contribute above their allocation receive priority access to roadmap influence. Within two quarters, platform investment increases by 40% and the platform team's backlog clears.
 
 ---
-
-## Connections
-
-→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — the complementary failure mode: free riding is underinvestment in shared goods; the commons tragedy is overuse. Both stem from non-excludability.
-→ [51·Incentives](../Psychology/incentives.md) — free riding is an incentive design failure; fixing it requires changing what individuals gain from contributing.
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — free riding within teams is a principal-agent problem: the collective (principal) wants contribution; the individual (agent) optimises for their own metrics.
-→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — the free rider problem is a multi-player Prisoner's Dilemma: each individual's dominant strategy (not contributing) produces a collectively worse outcome.
-→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — undercontribution is the Nash Equilibrium of public goods games: given that others may not contribute, not contributing is individually rational.
-→ [101·Trust](../Psychology/trust.md) — high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
-→ [82·Network Effects](../Network-Effects/network-effects.md) — shared goods often have network effect properties; underinvestment from free riding degrades the very thing that makes the network valuable.
-
-## References
-
-- *The Logic of Collective Action: Public Goods and the Theory of Groups* — Mancur Olson (1965) — the formal theory of why rational individuals fail to contribute to collective goods.
-- *Governing the Commons: The Evolution of Institutions for Collective Action* — Elinor Ostrom (1990) — the empirical evidence for how communities solve free-rider problems without top-down enforcement.
-
 
 ---
 

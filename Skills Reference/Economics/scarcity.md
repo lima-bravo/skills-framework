@@ -1,10 +1,34 @@
+---
+id: 31
+name: Scarcity
+category: Economics
+cardType: standard
+tagline: Resources are finite; wants are not
+connections:
+  - id: 30
+    rationale: trade-offs only exist because of scarcity; unlimited resources eliminate most trade-offs.
+  - id: 18
+    rationale: the bottleneck is the point of maximum scarcity in a process.
+references:
+  - title: The Wealth of Nations
+    authorYear: Adam Smith (1776)
+    supports: the foundational economic text grounded in scarcity as the driver of exchange and specialization.
+  - title: "Scarcity: Why Having Too Little Means So Much"
+    authorYear: Sendhil Mullainathan & Eldar Shafir (2013)
+    supports: the cognitive and behavioral science of how scarcity shapes attention and decision-making.
+  - title: An Essay on the Nature and Significance of Economic Science
+    authorYear: Lionel Robbins (1932)
+    supports: defines economics as the study of human behaviour in relation to scarce means with alternative uses; the source of scarcity as economics' foundational condition.
+  - title: An Essay on the Principle of Population
+    authorYear: Thomas Robert Malthus (1798)
+    supports: the seminal argument that resource scarcity is a permanent structural condition, as population growth outpaces supply growth.
+---
+
 # Scarcity
-*Resources are finite; wants are not*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Scarcity is the foundational condition of economics: the available supply of any resource is finite while the potential demand for it is not. This gives rise to all the core economic concepts — prices, trade-offs, opportunity costs, allocation decisions — as mechanisms for managing the gap between what is desired and what is available. In practice, every resource that matters in organizational life is scarce: capital, time, attention, talent, trust, regulatory goodwill.
@@ -40,18 +64,6 @@ Scarcity creates competition and forces prioritization. Where a resource is scar
 A Series B startup has raised successfully and has 24 months of runway. Capital is no longer the scarce resource. But the team is treating every decision as if it were constrained by capital. They decline to hire a critical sales leader because of annual cost. Meanwhile, they are burning the founders' time on sales activities that a VP could handle. The actual scarce resource is founder time and strategic bandwidth. Reframing the scarcity correctly — time and attention, not money — inverts the hiring decision: the VP is cheap relative to the value of the founders' time freed up.
 
 ---
-
-## Connections
-
-→ [30·Trade-offs](trade-offs.md) — trade-offs only exist because of scarcity; unlimited resources eliminate most trade-offs.
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — the bottleneck is the point of maximum scarcity in a process.
-
-## References
-
-- *The Wealth of Nations* — Adam Smith (1776) — the foundational economic text grounded in scarcity as the driver of exchange and specialization.
-- *Scarcity: Why Having Too Little Means So Much* — Sendhil Mullainathan & Eldar Shafir (2013) — the cognitive and behavioral science of how scarcity shapes attention and decision-making.
-- *An Essay on the Nature and Significance of Economic Science* — Lionel Robbins (1932) — defines economics as the study of human behaviour in relation to scarce means with alternative uses; the source of scarcity as economics' foundational condition.
-- *An Essay on the Principle of Population* — Thomas Robert Malthus (1798) — the seminal argument that resource scarcity is a permanent structural condition, as population growth outpaces supply growth.
 
 ---
 

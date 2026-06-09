@@ -1,10 +1,42 @@
+---
+id: 231
+name: Tragedy of the Commons
+category: Economics
+cardType: standard
+tagline: Shared resources are destroyed by individually rational behaviour
+connections:
+  - id: 230
+    rationale: "the Tragedy of the Commons is the multi-player version of the Prisoner's Dilemma: individually rational behaviour produces collectively catastrophic outcomes."
+  - id: 51
+    rationale: the tragedy is an incentive design problem; aligning individual incentives with collective welfare is the structural fix.
+  - id: 120
+    rationale: measurement systems designed to manage commons can become commons themselves, subject to gaming.
+  - id: 232
+    rationale: "closely related: the free rider captures benefits of a shared resource without contributing to its maintenance."
+  - id: 229
+    rationale: "overuse of the commons is the Nash Equilibrium: each player's best response to others' extraction is to extract more."
+  - id: 17
+    rationale: making commons depletion visible creates feedback loops that enable self-regulation.
+  - id: 208
+    rationale: "commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse."
+  - id: 262
+    rationale: incentive design can make individual rationality and collective welfare coincide; the commons tragedy is what happens when it does not
+  - id: 121
+    rationale: "when multiple agents share a resource owned by a principal, commons dynamics compound the agency problem: each agent's rational self-interest depletes the shared resource."
+references:
+  - title: The Tragedy of the Commons
+    authorYear: Garrett Hardin, Science Vol. 162 No. 3859 (1968)
+    supports: the original articulation of the commons problem.
+  - title: "Governing the Commons: The Evolution of Institutions for Collective Action"
+    authorYear: Elinor Ostrom (1990)
+    supports: the Nobel Prize–winning empirical evidence that communities can and do solve commons problems without privatization or state control.
+---
+
 # Tragedy of the Commons
-*Shared resources are destroyed by individually rational behaviour*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Tragedy of the Commons describes how a shared resource — a commons — is depleted or degraded when individuals, each acting rationally in their own interest, collectively overuse it. Each user captures the full benefit of their consumption but shares the cost of depletion across all users. This asymmetry creates an incentive to consume more than is collectively sustainable. The tragedy: no individual does anything irrational, yet the shared resource collapses.
@@ -45,24 +77,6 @@ An engineering team shares a continuous integration pipeline. Each team is incen
 Resolution: the platform team appoints a CI steward role, introduces build-time quotas by team, publishes a weekly leaderboard, and creates a shared incentive (a team-wide velocity metric) that makes overuse costly. Build times return to 12 minutes within a quarter.
 
 ---
-
-## Connections
-
-→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — the Tragedy of the Commons is the multi-player version of the Prisoner's Dilemma: individually rational behaviour produces collectively catastrophic outcomes.
-→ [51·Incentives](../Psychology/incentives.md) — the tragedy is an incentive design problem; aligning individual incentives with collective welfare is the structural fix.
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — measurement systems designed to manage commons can become commons themselves, subject to gaming.
-→ [232·Free Rider Problem](../Economics/free-rider-problem.md) — closely related: the free rider captures benefits of a shared resource without contributing to its maintenance.
-→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — overuse of the commons is the Nash Equilibrium: each player's best response to others' extraction is to extract more.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — making commons depletion visible creates feedback loops that enable self-regulation.
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse.
-→ [262·Incentive Design](incentive-design.md) — incentive design can make individual rationality and collective welfare coincide; the commons tragedy is what happens when it does not
-→ [121·Principal–Agent Problem](principal-agent-problem.md) — when multiple agents share a resource owned by a principal, commons dynamics compound the agency problem: each agent's rational self-interest depletes the shared resource.
-
-## References
-
-- *The Tragedy of the Commons* — Garrett Hardin, Science Vol. 162 No. 3859 (1968) — the original articulation of the commons problem.
-- *Governing the Commons: The Evolution of Institutions for Collective Action* — Elinor Ostrom (1990) — the Nobel Prize–winning empirical evidence that communities can and do solve commons problems without privatization or state control.
-
 
 ---
 

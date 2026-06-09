@@ -1,10 +1,33 @@
+---
+id: 38
+name: Bubbles
+category: Economics
+cardType: standard
+tagline: When price detaches from value
+connections:
+  - id: 17
+    rationale: bubble dynamics are driven by reinforcing feedback loops (rising prices attract more buyers, which drives prices higher).
+  - id: 77
+    rationale: asset prices that have deviated far from intrinsic value tend to revert; bubbles are extreme cases.
+  - id: 51
+    rationale: understanding the incentives of capital allocators, analysts, and media during bubble phases explains why they persist beyond what fundamental analysis would suggest.
+references:
+  - title: Irrational Exuberance
+    authorYear: Robert J. Shiller (2000; 3rd ed. 2015)
+    supports: the empirical treatment of asset price bubbles and the psychology that sustains them.
+  - title: "Manias, Panics, and Crashes: A History of Financial Crises"
+    authorYear: Charles P. Kindleberger (1978; 7th ed. 2015)
+    supports: the historical anatomy of bubble formation and collapse.
+  - title: "This Time Is Different: Eight Centuries of Financial Folly"
+    authorYear: Carmen M. Reinhart & Kenneth S. Rogoff (2009)
+    supports: systematic evidence that every era's bubble is rationalized as unique.
+---
+
 # Bubbles
-*When price detaches from value*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 An economic bubble is a period during which asset prices rise significantly above intrinsic value, sustained by investor expectations of continued price appreciation rather than underlying cash flow or utility. Bubbles are amplified by credit, narrative, and social dynamics; they end when the price-value gap becomes impossible to sustain and prices revert, often sharply. The defining characteristic: the price becomes self-referentially justified by the expectation that prices will continue to rise — a circular logic that eventually collapses under its own weight.
@@ -40,18 +63,6 @@ Bubbles have a recognisable structure: displacement (a genuine innovation create
 The 2000-2001 dot-com bubble followed the classic structure. The displacement: the internet was genuinely transformational. The euphoria: revenue multiples of 40x on firms with no path to profitability, justified by "eyeball economics" and "first mover advantage." The tell: valuation frameworks were invented to justify prices rather than derived from fundamentals. The collapse: 78% drawdown in the NASDAQ from peak to trough. The lesson: the internet was genuinely important (Amazon, Google survived and thrived), but the price paid for "internet exposure" embedded years of future returns at zero, and for most companies, returned nothing.
 
 ---
-
-## Connections
-
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — bubble dynamics are driven by reinforcing feedback loops (rising prices attract more buyers, which drives prices higher).
-→ [77·Regression to the Mean](../Mathematics/regression-to-the-mean.md) — asset prices that have deviated far from intrinsic value tend to revert; bubbles are extreme cases.
-→ [51·Incentives](../Psychology/incentives.md) — understanding the incentives of capital allocators, analysts, and media during bubble phases explains why they persist beyond what fundamental analysis would suggest.
-
-## References
-
-- *Irrational Exuberance* — Robert J. Shiller (2000; 3rd ed. 2015) — the empirical treatment of asset price bubbles and the psychology that sustains them.
-- *Manias, Panics, and Crashes: A History of Financial Crises* — Charles P. Kindleberger (1978; 7th ed. 2015) — the historical anatomy of bubble formation and collapse.
-- *This Time Is Different: Eight Centuries of Financial Folly* — Carmen M. Reinhart & Kenneth S. Rogoff (2009) — systematic evidence that every era's bubble is rationalized as unique.
 
 ---
 

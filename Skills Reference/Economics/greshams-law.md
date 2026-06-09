@@ -1,10 +1,30 @@
+---
+id: 40
+name: Gresham's Law
+category: Economics
+cardType: standard
+tagline: Bad drives out good when forced to coexist at the same price
+connections:
+  - id: 51
+    rationale: Gresham's Law is driven by incentive differentials; change the incentives and the dynamic changes.
+  - id: 35
+    rationale: Gresham's Law is a market efficiency failure when quality is not priced.
+  - id: 56
+    rationale: information that is more available (because it's cheap to produce) gets more attention, driving out slower, more careful analysis.
+references:
+  - title: "Money: The Unauthorized Biography"
+    authorYear: Felix Martin (2013)
+    supports: situates Gresham's Law in the history of monetary debasement and currency competition.
+  - title: "The Ascent of Money: A Financial History of the World"
+    authorYear: Niall Ferguson (2008)
+    supports: the historical treatment of currency debasement and the dynamics Gresham identified.
+---
+
 # Gresham's Law
-*Bad drives out good when forced to coexist at the same price*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Gresham's Law, originally from monetary economics: "bad money drives out good money." When two forms of currency are treated as equivalent by law (legal tender) but one is intrinsically more valuable (gold vs. debased coins), people spend the debased coins and hoard the good ones. The good money disappears from circulation. The generalized principle: when a high-quality option and a low-quality option are forced to compete at the same price or in the same pool, the low-quality option tends to dominate because the incentive to preserve the high-quality option is stronger than the incentive to offer it.
@@ -40,17 +60,6 @@ Gresham's Law operates anywhere quality differences are hidden and pricing is un
 A Slack workspace creates a single all-company channel. Initially, it contains valuable company updates, thoughtful discussions, and useful information. As the company grows, the channel fills with noise: announcements, casual chat, memes, and low-signal messages. The high-value contributors — who are selective about where they invest communication time — stop posting to the all-company channel. The low-value contributors continue because the signal-to-noise ratio doesn't bother them (they don't have to read as carefully). The channel becomes progressively noisier. Gresham's Law in information environments: the fix is channel differentiation (separate channels for different purposes, with different norms and moderation standards).
 
 ---
-
-## Connections
-
-→ [51·Incentives](../Psychology/incentives.md) — Gresham's Law is driven by incentive differentials; change the incentives and the dynamic changes.
-→ [35·Efficiency](efficiency.md) — Gresham's Law is a market efficiency failure when quality is not priced.
-→ [56·Availability Bias](../Psychology/availability-bias.md) — information that is more available (because it's cheap to produce) gets more attention, driving out slower, more careful analysis.
-
-## References
-
-- *Money: The Unauthorized Biography* — Felix Martin (2013) — situates Gresham's Law in the history of monetary debasement and currency competition.
-- *The Ascent of Money: A Financial History of the World* — Niall Ferguson (2008) — the historical treatment of currency debasement and the dynamics Gresham identified.
 
 ---
 

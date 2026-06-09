@@ -1,10 +1,42 @@
+---
+id: 229
+name: Nash Equilibrium
+category: Economics
+cardType: standard
+tagline: A stable state where no player can improve by changing strategy alone
+connections:
+  - id: 230
+    rationale: the archetypal Nash Equilibrium where mutual defection is individually rational but collectively catastrophic.
+  - id: 51
+    rationale: equilibria are determined by the incentive structure; change the incentives and you change the equilibrium.
+  - id: 29
+    rationale: an arms-race dynamic is a Nash Equilibrium in which all players keep escalating because unilateral de-escalation makes them worse off.
+  - id: 231
+    rationale: "overuse of shared resources is a Nash Equilibrium: each individual's best response is to extract more, regardless of what others do."
+  - id: 236
+    rationale: when multiple equilibria exist, Schelling Points explain which one players coordinate on without communication.
+  - id: 121
+    rationale: misaligned incentives between principals and agents create equilibria where agents act against the principal's interest.
+  - id: 101
+    rationale: trust enables escape from bad equilibria (like the Prisoner's Dilemma) by enabling credible commitments to cooperate.
+  - id: 262
+    rationale: "incentive design aims to move the equilibrium: make the Nash outcome the collectively desirable one"
+  - id: 232
+    rationale: "undercontribution is a Nash Equilibrium in public goods games: given uncertainty about others' contributions, not contributing is individually rational."
+references:
+  - title: A Beautiful Mind
+    authorYear: Sylvia Nasar (1998)
+    supports: the accessible biography of Nash that explains the equilibrium concept in context.
+  - title: The Evolution of Cooperation
+    authorYear: Robert Axelrod (1984)
+    supports: empirical exploration of when cooperation emerges from Nash-equilibrium dynamics.
+---
+
 # Nash Equilibrium
-*A stable state where no player can improve by changing strategy alone*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A Nash Equilibrium is a set of strategies — one for each player in a game — where no individual player can improve their outcome by unilaterally changing their own strategy, given the strategies of all other players. It is a state of mutual best-responses: each player is doing as well as they can, given what everyone else is doing. Named after mathematician John Nash, it is the central solution concept of game theory and the foundation for analysing strategic interaction.
@@ -45,24 +77,6 @@ Two competing supermarket chains are each deciding whether to keep current price
 Each chain reasons: "If the other holds, I earn more by cutting (£15m vs £10m). If the other cuts, I earn more by cutting (£6m vs £4m). Cutting is my dominant strategy regardless." Both cut. Nash Equilibrium: both earn £6m — worse than if both had held at £10m. The stable outcome is a price war that harms both players. Changing the equilibrium requires either a credible commitment mechanism (binding price agreements — often illegal) or a repeated game where reputation for not cutting is worth maintaining.
 
 ---
-
-## Connections
-
-→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — the archetypal Nash Equilibrium where mutual defection is individually rational but collectively catastrophic.
-→ [51·Incentives](../Psychology/incentives.md) — equilibria are determined by the incentive structure; change the incentives and you change the equilibrium.
-→ [29·Red Queen Dilemma](../Systems/red-queen-dilemma.md) — an arms-race dynamic is a Nash Equilibrium in which all players keep escalating because unilateral de-escalation makes them worse off.
-→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — overuse of shared resources is a Nash Equilibrium: each individual's best response is to extract more, regardless of what others do.
-→ [236·Schelling Points](../Economics/schelling-points.md) — when multiple equilibria exist, Schelling Points explain which one players coordinate on without communication.
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — misaligned incentives between principals and agents create equilibria where agents act against the principal's interest.
-→ [101·Trust](../Psychology/trust.md) — trust enables escape from bad equilibria (like the Prisoner's Dilemma) by enabling credible commitments to cooperate.
-→ [262·Incentive Design](incentive-design.md) — incentive design aims to move the equilibrium: make the Nash outcome the collectively desirable one
-→ [232·Free Rider Problem](free-rider-problem.md) — undercontribution is a Nash Equilibrium in public goods games: given uncertainty about others' contributions, not contributing is individually rational.
-
-## References
-
-- *A Beautiful Mind* — Sylvia Nasar (1998) — the accessible biography of Nash that explains the equilibrium concept in context.
-- *The Evolution of Cooperation* — Robert Axelrod (1984) — empirical exploration of when cooperation emerges from Nash-equilibrium dynamics.
-
 
 ---
 

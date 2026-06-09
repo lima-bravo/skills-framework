@@ -1,10 +1,32 @@
+---
+id: 32
+name: Specialization
+category: Economics
+cardType: standard
+tagline: Do what you do best; trade for the rest
+connections:
+  - id: 30
+    rationale: specialization requires trading away activities you could do yourself; this is the fundamental trade-off.
+  - id: 87
+    rationale: the learning model that operationalizes specialization at the individual level.
+  - id: 34
+    rationale: extreme specialization can create a monopoly position in a narrow domain.
+  - id: 48
+    rationale: "alloying is the strategic counterpoint: where specialization goes deep in one element, alloying combines specialized elements to produce properties neither possesses alone."
+references:
+  - title: Principles of Political Economy and Taxation
+    authorYear: David Ricardo (1817)
+    supports: formal statement of comparative advantage as the basis for specialization and trade.
+  - title: The Wealth of Nations
+    authorYear: Adam Smith (1776)
+    supports: the foundational case for the division of labour as the engine of productivity.
+---
+
 # Specialization
-*Do what you do best; trade for the rest*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Specialization is the economic principle that individuals, organizations, and nations produce more total value by focusing on the activities where they have a comparative advantage, and trading for everything else, rather than attempting self-sufficiency across all activities. David Ricardo's comparative advantage is the underlying theory: even if one party is absolutely better at everything, trade still benefits both parties if each focuses on their relatively stronger areas.
@@ -42,18 +64,6 @@ Imagine two people, each with 10 hours of time. If both try to do everything the
 Amazon's decision to build AWS illustrates comparative advantage analysis at the organizational level. Amazon had built world-class distributed computing infrastructure to run its own e-commerce operations. The comparative advantage — infrastructure, reliability, scale — could be productized and offered to others who lacked it. The insight was that Amazon's cost of providing cloud computing was lower than anyone else's, and the market's willingness to pay was above that cost. This is the structure of comparative advantage: you can produce something at lower cost (or higher quality) than others, and trade produces surplus for both parties.
 
 ---
-
-## Connections
-
-→ [30·Trade-offs](trade-offs.md) — specialization requires trading away activities you could do yourself; this is the fundamental trade-off.
-→ [87·T-shaped](../Learning/t-shaped.md) — the learning model that operationalizes specialization at the individual level.
-→ [34·Monopoly vs. Competition](monopoly-vs-competition.md) — extreme specialization can create a monopoly position in a narrow domain.
-→ [48·Alloying](../Physics-and-Chemistry/alloying.md) — alloying is the strategic counterpoint: where specialization goes deep in one element, alloying combines specialized elements to produce properties neither possesses alone.
-
-## References
-
-- *Principles of Political Economy and Taxation* — David Ricardo (1817) — formal statement of comparative advantage as the basis for specialization and trade.
-- *The Wealth of Nations* — Adam Smith (1776) — the foundational case for the division of labour as the engine of productivity.
 
 ---
 

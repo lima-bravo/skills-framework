@@ -1,10 +1,48 @@
+---
+id: 262
+name: Incentive Design
+category: Economics
+cardType: standard
+tagline: The behavior you get is the behavior you designed for — whether you meant to or not
+connections:
+  - id: 121
+    rationale: "incentive design is the constructive discipline for the misalignment this model describes: the agent's interests diverge from the principal's wherever the incentive structure allows it"
+  - id: 120
+    rationale: every incentive attached to a metric eventually produces Goodhart drift; incentive design must build in rotation and drift detection
+  - id: 237
+    rationale: the failure mode where an incentive structure makes the problem profitable; adversarial modelling is the design countermeasure
+  - id: 231
+    rationale: incentive design can create or dissolve commons tragedies; the right structure makes individual rationality and collective good coincide
+  - id: 229
+    rationale: the goal of incentive design is to make the individually rational equilibrium the collectively desirable one
+  - id: 192
+    rationale: intrinsic motivation and crowding-out effects set the boundary conditions for what extrinsic incentive structures can achieve
+  - id: 261
+    rationale: incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
+  - id: 200
+    rationale: FAE leads to redesigning the person rather than the incentive structure; recognising the situational lens is what makes incentive design the right intervention
+  - id: 202
+    rationale: formal incentives and social proof can work with or against each other; designing incentives without accounting for what peers are visibly doing often produces weaker effects than expected
+references:
+  - title: The Handbook of Organizational Economics
+    authorYear: Robert Gibbons & John Roberts eds. (2013)
+    supports: the definitive academic treatment of incentive theory in organizations, including principal-agent models and mechanism design.
+  - title: "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
+    authorYear: Steven D. Levitt & Stephen J. Dubner (2005)
+    supports: case studies in how incentive structures produce unexpected and often perverse behaviors.
+  - title: "Drive: The Surprising Truth About What Motivates Us"
+    authorYear: Daniel H. Pink (2009)
+    supports: the intrinsic motivation research and why extrinsic rewards crowd out performance on complex tasks.
+  - title: "Thinking in Systems: A Primer"
+    authorYear: Donella H. Meadows (2008)
+    supports: "incentives as feedback loops: the systems lens that reveals why well-designed incentives still produce unintended dynamics."
+---
+
 # Incentive Design
-*The behavior you get is the behavior you designed for — whether you meant to or not*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Incentive design is the discipline of structuring rewards, penalties, recognition, and accountability to produce desired behavior while avoiding perverse and unintended outcomes. The central problem: people respond to incentives as experienced, not as intended. The gap between the incentive the designer believes they created and the one people actually face — shaped by their risk preferences, time horizons, social context, and ability to game the structure — is where most incentive systems fail. Good incentive design closes that gap by working backwards from the behavior you want, identifying what would make that behavior individually rational, and verifying that no alternative behavior produces a better outcome for the individual under your scheme.
@@ -46,25 +84,6 @@ The economist's version: you get what you measure, reward, and punish. The syste
 A support team is measured on tickets closed per day. Close rates rise; customer satisfaction falls. Investigation reveals agents are closing tickets quickly as "resolved" after brief contact rather than ensuring the issue is actually fixed. Reopened tickets count as new tickets, which helps close rates further. The incentive is perfectly aligned with fast closing and completely misaligned with resolution quality. Redesign: measure 7-day resolution rate (was the issue actually resolved?) and first-contact resolution. Close rate is retained as a health indicator but removed from reward calculation. The unwanted behavior stops because the incentive no longer makes it individually rational.
 
 ---
-
-## Connections
-
-→ [121·Principal-Agent Problem](principal-agent-problem.md) — incentive design is the constructive discipline for the misalignment this model describes: the agent's interests diverge from the principal's wherever the incentive structure allows it
-→ [120·Goodhart's Law](goodharts-law.md) — every incentive attached to a metric eventually produces Goodhart drift; incentive design must build in rotation and drift detection
-→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — the failure mode where an incentive structure makes the problem profitable; adversarial modelling is the design countermeasure
-→ [231·Tragedy of the Commons](tragedy-of-the-commons.md) — incentive design can create or dissolve commons tragedies; the right structure makes individual rationality and collective good coincide
-→ [229·Nash Equilibrium](nash-equilibrium.md) — the goal of incentive design is to make the individually rational equilibrium the collectively desirable one
-→ [192·Self-Determination Theory](../Psychology/self-determination-theory.md) — intrinsic motivation and crowding-out effects set the boundary conditions for what extrinsic incentive structures can achieve
-→ [261·Systems Thinking](../Systems/systems-thinking.md) — incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
-→ [200·Fundamental Attribution Error](../Psychology/fundamental-attribution-error.md) — FAE leads to redesigning the person rather than the incentive structure; recognising the situational lens is what makes incentive design the right intervention
-→ [202·Social Proof](../Psychology/social-proof.md) — formal incentives and social proof can work with or against each other; designing incentives without accounting for what peers are visibly doing often produces weaker effects than expected
-
-## References
-
-- *The Handbook of Organizational Economics* — Robert Gibbons & John Roberts eds. (2013) — the definitive academic treatment of incentive theory in organizations, including principal-agent models and mechanism design.
-- *Freakonomics: A Rogue Economist Explores the Hidden Side of Everything* — Steven D. Levitt & Stephen J. Dubner (2005) — case studies in how incentive structures produce unexpected and often perverse behaviors.
-- *Drive: The Surprising Truth About What Motivates Us* — Daniel H. Pink (2009) — the intrinsic motivation research and why extrinsic rewards crowd out performance on complex tasks.
-- *Thinking in Systems: A Primer* — Donella H. Meadows (2008) — incentives as feedback loops: the systems lens that reveals why well-designed incentives still produce unintended dynamics.
 
 ---
 

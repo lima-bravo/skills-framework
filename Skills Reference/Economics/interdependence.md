@@ -1,10 +1,34 @@
+---
+id: 39
+name: Interdependence
+category: Economics
+cardType: standard
+tagline: Systems are more connected than they appear
+connections:
+  - id: 2
+    rationale: interdependence is the mechanism by which second-order effects propagate through systems.
+  - id: 17
+    rationale: interdependent systems have more feedback loops, more of which are invisible.
+  - id: 19
+    rationale: complex system behavior that appears emergent is often the result of untracked interdependencies.
+  - id: 28
+    rationale: "Conway's Law is the specific version of interdependence applied to system design: team communication structures become system integration structures."
+  - id: 74
+    rationale: stakeholders are nodes in an interdependence web; the salience model helps prioritise which dependencies to manage most actively.
+references:
+  - title: "Power and Interdependence: World Politics in Transition"
+    authorYear: Robert O. Keohane & Joseph S. Nye (1977; 4th ed. 2011)
+    supports: the political science framework for analyzing mutual dependence and its strategic implications.
+  - title: The Wealth of Nations
+    authorYear: Adam Smith (1776)
+    supports: the division of labour generates specialisation, which in turn creates deep economic interdependence between producers and markets.
+---
+
 # Interdependence
-*Systems are more connected than they appear*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Interdependence describes the mutual dependence between elements of a system — where the performance, failure, or behavior of one element affects others, often through non-obvious pathways. In economic systems, global supply chains create interdependence between suppliers in different countries, industries, and legal systems. In organizations, teams are interdependent through shared resources, information flows, and sequential processes. In ecology, the removal of one species reshapes the system for all others.
@@ -42,19 +66,6 @@ Think of a web of strings, each representing a dependency. Pull one string and o
 A large software company reorganizes into product squads, each responsible for a user-facing product. The reorganization improves product ownership and team morale. But the squads share a monolithic backend codebase. A change made by Squad A to improve their product inadvertently degrades a backend service that Squad C's product depends on. Neither squad mapped the interdependency; the interface between them was informal. The resolution requires either formalizing the backend interface (decoupling), merging the squads (consolidating decision-making), or investing in a shared platform team (managing the interdependence explicitly).
 
 ---
-
-## Connections
-
-→ [2·Second-order Effects](../General-Thinking/second-order-effects.md) — interdependence is the mechanism by which second-order effects propagate through systems.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — interdependent systems have more feedback loops, more of which are invisible.
-→ [19·Emergence](../Systems/emergence.md) — complex system behavior that appears emergent is often the result of untracked interdependencies.
-→ [28·Conway's Law](../Systems/conways-law.md) — Conway's Law is the specific version of interdependence applied to system design: team communication structures become system integration structures.
-→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritise which dependencies to manage most actively.
-
-## References
-
-- *Power and Interdependence: World Politics in Transition* — Robert O. Keohane & Joseph S. Nye (1977; 4th ed. 2011) — the political science framework for analyzing mutual dependence and its strategic implications.
-- *The Wealth of Nations* — Adam Smith (1776) — the division of labour generates specialisation, which in turn creates deep economic interdependence between producers and markets.
 
 ---
 

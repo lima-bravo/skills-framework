@@ -1,10 +1,35 @@
+---
+id: 34
+name: Monopoly vs. Competition
+category: Economics
+cardType: standard
+tagline: Market structure determines strategy
+connections:
+  - id: 85
+    rationale: monopoly position must be defended; defensibility describes the mechanisms.
+  - id: 37
+    rationale: monopolies are destroyed by new entrants competing on new dimensions.
+  - id: 82
+    rationale: the most powerful monopoly-creating force in digital markets.
+  - id: 32
+    rationale: deep specialization in a narrow domain is one path to monopoly; the practitioner must judge whether the domain is durable.
+references:
+  - title: "Competitive Strategy: Techniques for Analyzing Industries and Competitors"
+    authorYear: Michael E. Porter (1980)
+    supports: the systematic framework for analysing competitive position.
+  - title: "Zero to One: Notes on Startups, or How to Build the Future"
+    authorYear: Peter Thiel & Blake Masters (2014)
+    supports: the argument for building monopoly rather than competing.
+  - title: "Competition Demystified: A Radically Simplified Approach to Business Strategy"
+    authorYear: Bruce Greenwald & Judd Kahn (2005)
+    supports: the analytical framework for distinguishing competitive from monopolistic positions.
+---
+
 # Monopoly vs. Competition
-*Market structure determines strategy*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The spectrum from perfect competition (many identical sellers, no pricing power, economic profit eventually zero) to monopoly (single seller, full pricing power, sustained above-normal returns) describes the fundamental strategic landscape. Peter Thiel's formulation — "competition is for losers; build a monopoly" — is deliberately provocative but contains a deep truth: in perfectly competitive markets, ruthless competition drives margins toward zero for everyone. Durable excess returns require some form of market power, which requires differentiation, barriers to entry, and network effects or other moats.
@@ -40,20 +65,6 @@ Every business is somewhere on this spectrum. The honest strategic question is: 
 Stripe entered the payments market dominated by established processors (PayPal, Braintree, legacy acquirers). Rather than competing on price in an already-competitive market, they competed on a new dimension: developer experience. Their seven-lines-of-code integration was categorically better for developers building new products. This redefined the competitive basis, creating a temporary monopoly in "payments for modern developers" before others caught up. The lesson: the question isn't "how do we compete?" but "in what market can we be the monopolist?"
 
 ---
-
-## Connections
-
-→ [85·Defensibility](../Network-Effects/defensibility.md) — monopoly position must be defended; defensibility describes the mechanisms.
-→ [37·Creative Destruction](creative-destruction.md) — monopolies are destroyed by new entrants competing on new dimensions.
-→ [82·Network Effects](../Network-Effects/network-effects.md) — the most powerful monopoly-creating force in digital markets.
-→ [32·Specialization](specialization.md) — deep specialization in a narrow domain is one path to monopoly; the practitioner must judge whether the domain is durable.
-
-## References
-
-- *Competitive Strategy: Techniques for Analyzing Industries and Competitors* — Michael E. Porter (1980) — the systematic framework for analysing competitive position.
-- *Zero to One: Notes on Startups, or How to Build the Future* — Peter Thiel & Blake Masters (2014) — the argument for building monopoly rather than competing.
-- *Competition Demystified: A Radically Simplified Approach to Business Strategy* — Bruce Greenwald & Judd Kahn (2005) — the analytical framework for distinguishing competitive from monopolistic positions.
-
 
 ---
 

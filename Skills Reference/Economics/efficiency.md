@@ -1,10 +1,35 @@
+---
+id: 35
+name: Efficiency
+category: Economics
+cardType: standard
+tagline: Output per unit of input
+connections:
+  - id: 18
+    rationale: efficiency is most improved by addressing bottlenecks; improving non-bottleneck steps doesn't improve system efficiency.
+  - id: 23
+    rationale: efficiency improvements face diminishing returns; the easiest gains come early.
+  - id: 30
+    rationale: the efficiency-resilience trade-off is structural and requires explicit management.
+  - id: 40
+    rationale: "Gresham's Law is a market efficiency failure: when quality is not priced, low-quality options systematically displace high-quality ones."
+references:
+  - title: The Wealth of Nations
+    authorYear: Adam Smith (1776)
+    supports: the foundational treatment of productive efficiency through specialization and market allocation.
+  - title: "The Goal: A Process of Ongoing Improvement"
+    authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)
+    supports: "the Theory of Constraints applied to efficiency: system throughput is determined by the bottleneck, not by average utilization."
+  - title: The Principles of Scientific Management
+    authorYear: Frederick Winslow Taylor (1911)
+    supports: the founding text of systematic workplace efficiency analysis; introduced time-and-motion study and standardised work methods.
+---
+
 # Efficiency
-*Output per unit of input*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Efficiency is the ratio of useful output to input consumed. An efficient system produces the same output with less input, or more output with the same input, relative to a baseline or an alternative. Economic efficiency (Pareto efficiency) is the state where no reallocation of resources can make one party better off without making another worse off. Operational efficiency is about processes and resource utilization. Energy efficiency is the physics concept. All versions share the core: the elimination of waste.
@@ -40,19 +65,6 @@ Efficiency and effectiveness are different. Effectiveness asks: are we doing the
 Toyota's Production System (Lean manufacturing) is the canonical example of systematic efficiency improvement. The five principles — identify value, map the value stream, create flow, establish pull, seek perfection — constitute a complete methodology for eliminating waste at every stage of production. The key insight that makes it more than cost-cutting: efficiency is defined from the customer's perspective. A step is efficient if and only if it creates value the customer would pay for. Steps that don't meet this test are waste, regardless of how productively they are being performed.
 
 ---
-
-## Connections
-
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — efficiency is most improved by addressing bottlenecks; improving non-bottleneck steps doesn't improve system efficiency.
-→ [23·Diminishing Returns](../Systems/diminishing-returns.md) — efficiency improvements face diminishing returns; the easiest gains come early.
-→ [30·Trade-offs](trade-offs.md) — the efficiency-resilience trade-off is structural and requires explicit management.
-→ [40·Gresham's Law](greshams-law.md) — Gresham's Law is a market efficiency failure: when quality is not priced, low-quality options systematically displace high-quality ones.
-
-## References
-
-- *The Wealth of Nations* — Adam Smith (1776) — the foundational treatment of productive efficiency through specialization and market allocation.
-- *The Goal: A Process of Ongoing Improvement* — Eliyahu M. Goldratt & Jeff Cox (1984) — the Theory of Constraints applied to efficiency: system throughput is determined by the bottleneck, not by average utilization.
-- *The Principles of Scientific Management* — Frederick Winslow Taylor (1911) — the founding text of systematic workplace efficiency analysis; introduced time-and-motion study and standardised work methods.
 
 ---
 

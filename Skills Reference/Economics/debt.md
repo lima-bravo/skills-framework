@@ -1,10 +1,33 @@
+---
+id: 36
+name: Debt
+category: Economics
+cardType: standard
+tagline: Borrowing against future capacity
+connections:
+  - id: 75
+    rationale: debt compounds when not serviced; understanding compounding makes debt dynamics legible.
+  - id: 24
+    rationale: debt reduces margin of safety by creating fixed future obligations; the two must be considered together.
+  - id: 30
+    rationale: taking on debt is a trade-off between present capability and future flexibility.
+references:
+  - title: "Money: The Unauthorized Biography"
+    authorYear: Felix Martin (2013)
+    supports: the conceptual history of debt and money as social technologies.
+  - title: "This Time Is Different: Eight Centuries of Financial Folly"
+    authorYear: Carmen M. Reinhart & Kenneth S. Rogoff (2009)
+    supports: the cross-historical evidence of debt cycles and crises.
+  - title: Stabilizing an Unstable Economy
+    authorYear: Hyman P. Minsky (1986)
+    supports: the foundational theoretical treatment of financial fragility and debt cycles; source of the Minsky Moment concept.
+---
+
 # Debt
-*Borrowing against future capacity*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Debt is the practice of using future resources to meet present needs — creating an obligation to the future in exchange for present capability. In finance, debt is capital borrowed and repaid with interest. In technology, "technical debt" is the accumulated cost of expedient code decisions. In organizations, "process debt" is the backlog of operational improvements deferred. In personal life, any commitment of future time or attention that limits future optionality is a form of debt.
@@ -42,18 +65,6 @@ Think of debt as trading future optionality for present action. When the present
 A startup ships their MVP with no automated testing, a monolithic architecture, and hardcoded configuration values. They took on significant technical debt to reach market quickly. This was probably correct — the alternative was shipping much later with less evidence of product-market fit. Eighteen months later, the codebase has grown substantially, the team has doubled, and every feature takes three times longer to ship than it did at month 6. Deployment failures are frequent. The interest on the technical debt is now being paid daily in engineering velocity. The team schedules a six-week "debt sprint" — roughly the interest rate made explicit as a required investment.
 
 ---
-
-## Connections
-
-→ [75·Compounding](../Mathematics/compounding.md) — debt compounds when not serviced; understanding compounding makes debt dynamics legible.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — debt reduces margin of safety by creating fixed future obligations; the two must be considered together.
-→ [30·Trade-offs](trade-offs.md) — taking on debt is a trade-off between present capability and future flexibility.
-
-## References
-
-- *Money: The Unauthorized Biography* — Felix Martin (2013) — the conceptual history of debt and money as social technologies.
-- *This Time Is Different: Eight Centuries of Financial Folly* — Carmen M. Reinhart & Kenneth S. Rogoff (2009) — the cross-historical evidence of debt cycles and crises.
-- *Stabilizing an Unstable Economy* — Hyman P. Minsky (1986) — the foundational theoretical treatment of financial fragility and debt cycles; source of the Minsky Moment concept.
 
 ---
 

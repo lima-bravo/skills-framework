@@ -1,10 +1,35 @@
+---
+id: 236
+name: Schelling Points
+category: Economics
+cardType: standard
+tagline: Coordination happens around salient focal points, even without communication
+connections:
+  - id: 229
+    rationale: when multiple Nash Equilibria exist, Schelling Points explain which equilibrium players coordinate on; salience selects among equivalent stable states.
+  - id: 54
+    rationale: "anchoring is the psychological mechanism underlying Schelling Points in negotiation: the first prominent number shapes all subsequent evaluation."
+  - id: 91
+    rationale: framing creates salience; whoever controls the frame establishes the Schelling Points around which a conversation coordinates.
+  - id: 82
+    rationale: "technology standards are Schelling Points with network effects: once enough users coordinate on one option, switching cost makes it permanent."
+  - id: 235
+    rationale: "Schelling Points often create path dependence: coordination around a focal point accumulates switching costs that lock in the initially arbitrary choice."
+  - id: 230
+    rationale: in repeated games, Schelling Points help players coordinate on cooperative equilibria without explicit communication.
+  - id: 234
+    rationale: what's inside the Overton Window is partly determined by which positions are salient enough to be thinkable; Schelling Points and the Overton Window both operate through prominence.
+references:
+  - title: The Strategy of Conflict
+    authorYear: Thomas C. Schelling (1960)
+    supports: the original treatment of focal points as coordination devices in strategic interaction.
+---
+
 # Schelling Points
-*Coordination happens around salient focal points, even without communication*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A Schelling Point (also called a focal point) is a solution that people tend to converge on in the absence of communication, simply because it is salient, prominent, or natural-seeming in a given context. Named after economist Thomas Schelling, the concept explains how coordination can occur without explicit agreement: when two parties must coordinate independently, they both choose the option that "stands out" — not because it is objectively best, but because it is the most prominent option in their shared mental landscape.
@@ -47,21 +72,6 @@ Two companies are negotiating a revenue share for a co-developed product. Neithe
 The smaller company's advisor suggests anchoring on 60/40 — not because it's the most defensible split economically, but because it's the most prominent round-number split between 50/50 and 70/30. They introduce it early: "We'd suggest starting from a 60/40 framework, which reflects your larger distribution footprint." The larger company counter-proposes 65/35. The negotiation settles at 62/38 — close to the Schelling Point the smaller company introduced, rather than the economically unconstrained outcome that might have favoured the larger party more.
 
 ---
-
-## Connections
-
-→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — when multiple Nash Equilibria exist, Schelling Points explain which equilibrium players coordinate on; salience selects among equivalent stable states.
-→ [54·Anchoring](../Psychology/anchoring.md) — anchoring is the psychological mechanism underlying Schelling Points in negotiation: the first prominent number shapes all subsequent evaluation.
-→ [91·Framing](../Art/framing.md) — framing creates salience; whoever controls the frame establishes the Schelling Points around which a conversation coordinates.
-→ [82·Network Effects](../Network-Effects/network-effects.md) — technology standards are Schelling Points with network effects: once enough users coordinate on one option, switching cost makes it permanent.
-→ [235·Path Dependence](../Systems/path-dependence.md) — Schelling Points often create path dependence: coordination around a focal point accumulates switching costs that lock in the initially arbitrary choice.
-→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — in repeated games, Schelling Points help players coordinate on cooperative equilibria without explicit communication.
-→ [234·Overton Window](../General-Thinking/overton-window.md) — what's inside the Overton Window is partly determined by which positions are salient enough to be thinkable; Schelling Points and the Overton Window both operate through prominence.
-
-## References
-
-- *The Strategy of Conflict* — Thomas C. Schelling (1960) — the original treatment of focal points as coordination devices in strategic interaction.
-
 
 ---
 

@@ -1,10 +1,50 @@
+---
+id: 216
+name: Unit Economics
+category: Economics
+cardType: standard
+tagline: The business model works in the boardroom. The question is whether it works per customer.
+connections:
+  - id: 217
+    rationale: unit economics measures value capture at the customer level; the split between created value and captured revenue is the structural constraint that sets the ceiling on LTV
+  - id: 219
+    rationale: pricing decisions directly set the revenue component of contribution margin and LTV; unit economics provides the feedback loop that determines whether a pricing model is working
+  - id: 218
+    rationale: unit economics is a required input to any credible business case for a growth investment; a case without unit economic analysis is a projection without a foundation
+  - id: 75
+    rationale: "strong unit economics compound: retained customers generate expansion revenue, referrals reduce CAC, and the business improves its economics over time rather than degrading them"
+  - id: 120
+    rationale: CAC and LTV are the two metrics most vulnerable to gaming; organisations that target them directly often distort the customer acquisition mix or inflate LTV projections
+  - id: 158
+    rationale: portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating unit economics is a kill candidate regardless of revenue trajectory
+  - id: 239
+    rationale: Long Tail strategy only works when unit economics at the tail level are sound; high marginal costs per tail unit destroy the model regardless of aggregate tail demand.
+  - id: 247
+    rationale: when the binding constraint sits in monetization or expansion, unit economics is the lens that makes the leak visible in dollar terms rather than funnel percentages.
+  - id: 248
+    rationale: unit economics explains at the per-customer level why a profit pool concentrates where the market-level map shows it does.
+  - id: 249
+    rationale: "the quantitative backbone of segment attractiveness scoring: lifetime value, cost to serve, and expansion potential are what separate a segment worth chasing from one worth deprioritizing."
+references:
+  - title: SaaS Metrics 2.0
+    authorYear: David Skok (2010)
+    supports: "the definitive practitioner guide to SaaS unit economics: CAC, LTV, payback period, and cohort analysis."
+  - title: Product/Market Fit
+    authorYear: Marc Andreessen (2011)
+    supports: introduces the LTV:CAC framework in the venture context.
+  - title: The Retail Revival
+    authorYear: Doug Stephens (2013)
+    supports: unit economics applied to physical retail.
+  - title: "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
+    authorYear: Ben Horowitz (2014)
+    supports: chapter on business model economics under pressure.
+---
+
 # Unit Economics
-*The business model works in the boardroom. The question is whether it works per customer.*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Unit economics is the analysis of revenue and cost at the level of a single unit — typically one customer, one transaction, or one product — to determine whether the business model is fundamentally viable before scale. The core metrics: Customer Acquisition Cost (CAC, what it costs to win one customer), Customer Lifetime Value (LTV, the net revenue a customer generates over their relationship with the business), payback period (how long before CAC is recovered from gross margin), and contribution margin (revenue minus variable cost per unit). The relationship between these metrics — particularly the LTV:CAC ratio and the payback period — determines whether growth creates value or destroys it.
@@ -52,28 +92,6 @@ Segment analysis reveals the reality: enterprise customers (30% of volume) have 
 The SMB segment is marginally viable at best and is pulling the blended ratio down. The enterprise segment is generating almost all the economic value. Strategic implication: shift acquisition investment toward enterprise, exit the SMB segment, or restructure the SMB model to reduce CAC (product-led growth) or reduce churn (better onboarding and success). Continuing to grow blended will grow both the profitable and the loss-making segments equally.
 
 ---
-
-## Connections
-
-→ [217·Value Creation and Capture](value-creation-capture.md) — unit economics measures value capture at the customer level; the split between created value and captured revenue is the structural constraint that sets the ceiling on LTV
-→ [219·Pricing Logic](../Business/pricing-logic.md) — pricing decisions directly set the revenue component of contribution margin and LTV; unit economics provides the feedback loop that determines whether a pricing model is working
-→ [218·Business Case Construction](../Business/business-case-construction.md) — unit economics is a required input to any credible business case for a growth investment; a case without unit economic analysis is a projection without a foundation
-→ [75·Compounding](../Mathematics/compounding.md) — strong unit economics compound: retained customers generate expansion revenue, referrals reduce CAC, and the business improves its economics over time rather than degrading them
-→ [120·Goodhart's Law](goodharts-law.md) — CAC and LTV are the two metrics most vulnerable to gaming; organisations that target them directly often distort the customer acquisition mix or inflate LTV projections
-→ [158·Lean Portfolio Management](../Delivery-and-Flow/lean-portfolio.md) — portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating unit economics is a kill candidate regardless of revenue trajectory
-→ [239·Long Tail](long-tail.md) — Long Tail strategy only works when unit economics at the tail level are sound; high marginal costs per tail unit destroy the model regardless of aggregate tail demand.
-→ [247·Growth Barriers](../Business/growth-barriers.md) — when the binding constraint sits in monetization or expansion, unit economics is the lens that makes the leak visible in dollar terms rather than funnel percentages.
-→ [248·Profit Pool Analysis](../Business/profit-pool-analysis.md) — unit economics explains at the per-customer level why a profit pool concentrates where the market-level map shows it does.
-→ [249·Customer Segmentation](../Business/customer-segmentation.md) — the quantitative backbone of segment attractiveness scoring: lifetime value, cost to serve, and expansion potential are what separate a segment worth chasing from one worth deprioritizing.
-
----
-
-## References
-
-- *SaaS Metrics 2.0* — David Skok (2010) — the definitive practitioner guide to SaaS unit economics: CAC, LTV, payback period, and cohort analysis.
-- *Product/Market Fit* — Marc Andreessen (2011) — introduces the LTV:CAC framework in the venture context.
-- *The Retail Revival* — Doug Stephens (2013) — unit economics applied to physical retail.
-- *The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers* — Ben Horowitz (2014) — chapter on business model economics under pressure.
 
 ---
 

@@ -1,10 +1,48 @@
+---
+id: 217
+name: Value Creation and Capture
+category: Economics
+cardType: standard
+tagline: Creating value and keeping some of it are two different problems. Solving one doesn't solve the other.
+connections:
+  - id: 216
+    rationale: unit economics measures value capture at the customer level; this card explains the structural reasons capture rates are what they are
+  - id: 219
+    rationale: pricing is the primary mechanism for setting the producer's share of created value; value-based pricing is the discipline of pricing to value created rather than cost incurred
+  - id: 210
+    rationale: evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where capture is flowing
+  - id: 34
+    rationale: competitive markets drive capture toward zero; monopoly structures maximise capture; most real businesses operate between these poles
+  - id: 82
+    rationale: "network effects are one of the strongest capture mechanisms: as the network grows, switching costs rise and the share of created value that can be captured increases"
+  - id: 112
+    rationale: disruption often involves creating a new value creation/capture pairing that incumbent players can't match without destroying their existing capture mechanism
+  - id: 68
+    rationale: the revenue streams section of the canvas is the capture design; the value proposition section is the creation design; misalignment between the two is the most common business model failure
+  - id: 248
+    rationale: this card explains *why* value capture concentrates where it does at the level of a single firm or transaction; profit pool analysis maps the same dynamic across an entire market or value chain, asking where the capture concentrates system-wide and why
+  - id: 37
+    rationale: "creative destruction reshifts who captures value: new entrants restructure the capture split that incumbents had established."
+references:
+  - title: Value-based Business Strategy
+    authorYear: Adam Brandenburger & Harborne Stuart, Journal of Economics and Management Strategy Vol. 5 No. 1 (1996)
+    supports: the foundational academic treatment of value creation, capture, and added value.
+  - title: "Competitive Advantage: Creating and Sustaining Superior Performance"
+    authorYear: Michael E. Porter (1985)
+    supports: value chain analysis as a framework for understanding where in a system value is created and captured.
+  - title: Measuring the Moat
+    authorYear: Michael Mauboussin & Dan Callahan, Credit Suisse Global Financial Strategies (2014)
+    supports: practitioner guide to assessing durable value capture and competitive advantage.
+  - title: "Zero to One: Notes on Startups, or How to Build the Future"
+    authorYear: Peter Thiel & Blake Masters (2014)
+    supports: the case for building capture mechanisms through monopoly rather than competing in undifferentiated markets.
+---
+
 # Value Creation and Capture
-*Creating value and keeping some of it are two different problems. Solving one doesn't solve the other.*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Value creation is the act of producing something worth more to a recipient than it costs to produce. Value capture is the act of converting a portion of that created value into revenue or other durable benefit for the producer. The two are analytically distinct: a business can create enormous value while capturing very little of it (many software tools, infrastructure, and platform businesses have this problem), or can capture value without creating much (rent-seeking, regulatory monopoly). Strategy must address both — what value is created, and what determines how much of it can be retained.
@@ -54,25 +92,6 @@ The capture problem: hospitals receive the readmission cost savings but don't pa
 Strategic options: (1) Sell to payers who bear the readmission cost — direct capture from the party who benefits most financially. (2) Sell to hospital systems under a shared-savings contract — align capture with clinical partnership. (3) Shift the product from B2C to B2B2C, routing through employers who self-insure. Each option restructures *who* captures value and *how* the firm accesses it. The clinical value creation is identical across all three; the capture varies dramatically.
 
 ---
-
-## Connections
-
-→ [216·Unit Economics](unit-economics.md) — unit economics measures value capture at the customer level; this card explains the structural reasons capture rates are what they are
-→ [219·Pricing Logic](../Business/pricing-logic.md) — pricing is the primary mechanism for setting the producer's share of created value; value-based pricing is the discipline of pricing to value created rather than cost incurred
-→ [210·Wardley Mapping](../Business/wardley-mapping.md) — evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where capture is flowing
-→ [34·Monopoly vs. Competition](monopoly-vs-competition.md) — competitive markets drive capture toward zero; monopoly structures maximise capture; most real businesses operate between these poles
-→ [82·Network Effects](../Network-Effects/network-effects.md) — network effects are one of the strongest capture mechanisms: as the network grows, switching costs rise and the share of created value that can be captured increases
-→ [112·Disruptive Innovation](../Business/disruptive-innovation.md) — disruption often involves creating a new value creation/capture pairing that incumbent players can't match without destroying their existing capture mechanism
-→ [68·Business Model Canvas](../Business/business-model-canvas.md) — the revenue streams section of the canvas is the capture design; the value proposition section is the creation design; misalignment between the two is the most common business model failure
-→ [248·Profit Pool Analysis](../Business/profit-pool-analysis.md) — this card explains *why* value capture concentrates where it does at the level of a single firm or transaction; profit pool analysis maps the same dynamic across an entire market or value chain, asking where the capture concentrates system-wide and why
-→ [37·Creative Destruction](creative-destruction.md) — creative destruction reshifts who captures value: new entrants restructure the capture split that incumbents had established.
-
-## References
-
-- *Value-based Business Strategy* — Adam Brandenburger & Harborne Stuart, Journal of Economics and Management Strategy Vol. 5 No. 1 (1996) — the foundational academic treatment of value creation, capture, and added value.
-- *Competitive Advantage: Creating and Sustaining Superior Performance* — Michael E. Porter (1985) — value chain analysis as a framework for understanding where in a system value is created and captured.
-- *Measuring the Moat* — Michael Mauboussin & Dan Callahan, Credit Suisse Global Financial Strategies (2014) — practitioner guide to assessing durable value capture and competitive advantage.
-- *Zero to One: Notes on Startups, or How to Build the Future* — Peter Thiel & Blake Masters (2014) — the case for building capture mechanisms through monopoly rather than competing in undifferentiated markets.
 
 ---
 

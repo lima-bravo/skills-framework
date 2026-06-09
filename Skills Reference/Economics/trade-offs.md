@@ -1,10 +1,41 @@
+---
+id: 30
+name: Trade-offs
+category: Economics
+cardType: standard
+tagline: Every choice forecloses others
+connections:
+  - id: 31
+    rationale: trade-offs exist because scarcity makes it impossible to have everything; remove scarcity and the trade-off dissolves.
+  - id: 33
+    rationale: optimization is the formal approach to finding the best point on the trade-off frontier.
+  - id: 32
+    rationale: "specialization is a trade-off resolution: choosing to go deep in one area requires trading away breadth in others."
+  - id: 36
+    rationale: taking on debt is an explicit trade-off between present capability and future flexibility.
+  - id: 53
+    rationale: sunk cost blindness prevents recognising the opportunity cost of continuing a failing investment; past spending is not a forward-looking factor in the trade-off.
+  - id: 166
+    rationale: "strategy is the structured form of trade-off reasoning: the guiding policy names which trade-offs to accept, and coherent action executes them consistently rather than accommodating every priority."
+  - id: 254
+    rationale: the how-to-win choice in the cascade is explicitly a trade-off; Playing to Win provides the structure that connects that trade-off to capabilities and management systems.
+references:
+  - title: An Essay on the Nature and Significance of Economic Science
+    authorYear: Lionel Robbins (1932)
+    supports: defines economics as the study of trade-offs under scarcity.
+  - title: The Wealth of Nations
+    authorYear: Adam Smith (1776)
+    supports: grounded in the principle that every economic decision involves opportunity cost.
+  - title: "Basic Economics: A Citizen's Guide to the Economy"
+    authorYear: Thomas Sowell (2000)
+    supports: accessible treatment of core economic principles including trade-offs, opportunity cost, and scarcity.
+---
+
 # Trade-offs
-*Every choice forecloses others*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A trade-off is the relationship between two desirable outcomes that cannot both be maximized simultaneously — gaining more of one requires sacrificing some of the other. Economics is fundamentally the study of trade-offs under scarcity: trade-offs between present and future consumption, between risk and return, between speed and quality, between cost and scope. The practitioner's discipline is making trade-offs explicit rather than pretending they don't exist, and making them deliberately rather than by default.
@@ -40,24 +71,6 @@ The production possibility frontier (PPF) is the formal model: a curve showing t
 A product team has three months before a major launch. They can ship a feature-complete product with known quality risks, or a scoped-down product with high quality confidence. The trade-off: scope vs. quality. Making this explicit allows a constructive decision: they identify which features are genuinely launch-critical, cut the non-critical ones, and ship a smaller but high-quality product. The decision they made was not "feature-complete vs. quality" — it was "which features are in scope?" — a much more tractable question.
 
 ---
-
-## Connections
-
-→ [31·Scarcity](scarcity.md) — trade-offs exist because scarcity makes it impossible to have everything; remove scarcity and the trade-off dissolves.
-→ [33·Optimization](optimization.md) — optimization is the formal approach to finding the best point on the trade-off frontier.
-→ [32·Specialization](specialization.md) — specialization is a trade-off resolution: choosing to go deep in one area requires trading away breadth in others.
-→ [36·Debt](debt.md) — taking on debt is an explicit trade-off between present capability and future flexibility.
-→ [53·Sunk Cost](../Psychology/sunk-cost.md) — sunk cost blindness prevents recognising the opportunity cost of continuing a failing investment; past spending is not a forward-looking factor in the trade-off.
-→ [166·Kernel of Good Strategy](../Business/kernel-of-strategy.md) — strategy is the structured form of trade-off reasoning: the guiding policy names which trade-offs to accept, and coherent action executes them consistently rather than accommodating every priority.
-→ [254·Playing to Win](../Business/playing-to-win.md) — the how-to-win choice in the cascade is explicitly a trade-off; Playing to Win provides the structure that connects that trade-off to capabilities and management systems.
-
----
-
-## References
-
-- *An Essay on the Nature and Significance of Economic Science* — Lionel Robbins (1932) — defines economics as the study of trade-offs under scarcity.
-- *The Wealth of Nations* — Adam Smith (1776) — grounded in the principle that every economic decision involves opportunity cost.
-- *Basic Economics: A Citizen's Guide to the Economy* — Thomas Sowell (2000) — accessible treatment of core economic principles including trade-offs, opportunity cost, and scarcity.
 
 ---
 

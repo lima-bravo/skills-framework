@@ -1,10 +1,34 @@
+---
+id: 33
+name: Optimization
+category: Economics
+cardType: standard
+tagline: Find the best among the available options
+connections:
+  - id: 30
+    rationale: multi-objective optimization makes trade-offs explicit and quantified.
+  - id: 76
+    rationale: the systematic failure mode of optimization.
+  - id: 26
+    rationale: optimization algorithms are the computational tools for solving formal optimization problems.
+  - id: 23
+    rationale: optimization works with marginal returns; diminishing returns is the curve that determines where to stop allocating.
+  - id: 120
+    rationale: "local optimisation of a proxy metric is how Goodhart's Law manifests in practice: the optimiser hits the number while the underlying objective degrades."
+references:
+  - title: "Algorithms to Live By: The Computer Science of Human Decisions"
+    authorYear: Brian Christian & Tom Griffiths (2016)
+    supports: applies optimization algorithms (explore/exploit, secretary problem) to everyday decision-making.
+  - title: "How to Solve It: A New Aspect of Mathematical Method"
+    authorYear: George Pólya (1945)
+    supports: the systematic method for finding solutions to constrained problems.
+---
+
 # Optimization
-*Find the best among the available options*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Optimization is the process of finding the input values that maximize (or minimize) an objective function subject to constraints. In mathematics, this is formal and precise. In practice, optimization describes any systematic approach to improving performance toward a defined goal: A/B testing a landing page, allocating marketing budget across channels, scheduling resources across projects, or tuning a machine learning model.
@@ -42,20 +66,6 @@ Imagine a landscape of hills and valleys where altitude represents objective fun
 A growth team is optimizing email campaign performance. They define the objective as open rate and optimize ruthlessly — subject lines with urgency, personalization, controversy. Open rates improve 40%. Then they notice that the next-step metrics (click-through, conversion, trial-to-paid) are flat or declining. The optimization was genuine; the objective function was wrong. Open rate is a leading indicator of engagement but not a reliable proxy for it — users open out of curiosity and don't engage. The reframed objective: revenue attributed to email within 30 days. The strategy that optimizes for this looks quite different.
 
 ---
-
-## Connections
-
-→ [30·Trade-offs](trade-offs.md) — multi-objective optimization makes trade-offs explicit and quantified.
-→ [76·Local Maxima](../Mathematics/local-maxima.md) — the systematic failure mode of optimization.
-→ [26·Algorithms](../Systems/algorithms.md) — optimization algorithms are the computational tools for solving formal optimization problems.
-→ [23·Diminishing Returns](../Systems/diminishing-returns.md) — optimization works with marginal returns; diminishing returns is the curve that determines where to stop allocating.
-→ [120·Goodhart's Law](goodharts-law.md) — local optimisation of a proxy metric is how Goodhart's Law manifests in practice: the optimiser hits the number while the underlying objective degrades.
-
-## References
-
-- *Algorithms to Live By: The Computer Science of Human Decisions* — Brian Christian & Tom Griffiths (2016) — applies optimization algorithms (explore/exploit, secretary problem) to everyday decision-making.
-- *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the systematic method for finding solutions to constrained problems.
-
 
 ---
 

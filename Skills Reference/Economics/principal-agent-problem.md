@@ -1,10 +1,53 @@
+---
+id: 121
+name: Principal–Agent Problem
+category: Economics
+cardType: standard
+tagline: When you delegate, the person acting on your behalf has different information and different incentives
+connections:
+  - id: 120
+    rationale: "the operational mechanism: the metrics principals use to monitor agents become gameable targets"
+  - id: 220
+    rationale: power gaps often correspond to principal-agent misalignments; mapping who actually decides versus who formally decides surfaces where the agency problem is structurally embedded
+  - id: 222
+    rationale: coalition members are agents whose private incentives may not fully align with the coalition's stated purpose; the principal-agent lens predicts where fracture is most likely
+  - id: 51
+    rationale: the primary tool for mitigation
+  - id: 237
+    rationale: "many cobra dynamics are principal-agent problems: agents responsible for a change programme optimise for programme metrics rather than the underlying outcome"
+  - id: 14
+    rationale: principals draw conclusions about agents from limited observable data
+  - id: 104
+    rationale: agents with low psychological safety optimise for appearance, worsening the gap
+  - id: 229
+    rationale: misaligned principal-agent incentives create equilibria where agents act against the principal's interest; changing the equilibrium requires changing the payoff structure
+  - id: 230
+    rationale: "principal-agent relationships often have a Prisoner's Dilemma structure: agents defect from principal interests when individual incentives dominate"
+  - id: 231
+    rationale: when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
+  - id: 262
+    rationale: "the constructive discipline: incentive design is how you narrow the gap this model describes"
+  - id: 232
+    rationale: agents who benefit from a shared resource without contributing create a free-rider structure that compounds the principal-agent misalignment
+  - id: 127
+    rationale: RACI makes accountability expectations explicit so agents can't credibly claim they didn't know who owned the outcome; it is the structural intervention that closes the principal-agent information gap at the task level.
+references:
+  - title: "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"
+    authorYear: Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976)
+    supports: the foundational paper formalising the principal–agent relationship, agency costs, and the structural role of information asymmetry.
+  - title: The Handbook of Organizational Economics
+    authorYear: Robert Gibbons & John Roberts eds. (2013)
+    supports: comprehensive academic treatment of organisational economics including principal–agent theory, incentive design, and firm boundaries.
+  - title: "Predictably Irrational: The Hidden Forces That Shape Our Decisions"
+    authorYear: Dan Ariely (2008)
+    supports: illustrates how agents behave against their stated interests in ways that are predictable and structural rather than random.
+---
+
 # Principal–Agent Problem
-*When you delegate, the person acting on your behalf has different information and different incentives*
 
 **Category:** [Economics](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Principal-Agent Problem describes the tension that arises when one party (the **principal**) delegates decision-making authority to another party (the **agent**) who has different information and potentially different interests. Formalised by Jensen and Meckling in 1976, the problem is pervasive: shareholders vs. executives, executives vs. managers, clients vs. contractors, patients vs. doctors.
@@ -45,28 +88,6 @@ Each mitigation has costs: incentive alignment introduces Goodhart's Law risk; m
 A company pays its sales force a commission purely on bookings to align reps (agents) with growth (the principal's goal). The incentive aligns the wrong thing: reps optimise the metric they are paid on, closing low-quality deals with generous discounts and over-promised terms that inflate bookings while customer churn and support cost rise. This is a textbook principal-agent failure with a Goodhart mechanism inside it — the proxy (bookings) was aligned, the actual goal (profitable, durable revenue) was not. The fix is not more monitoring of the reps but better-specified alignment: pay on retained, profitable revenue measured over time, screen for reps whose track record signals the right type (adverse selection), and make the real objective explicit so that "I hit my number" can no longer mean "I acted against the company's interest."
 
 ---
-
-## Connections
-
-→ [120·Goodhart's Law](goodharts-law.md) — the operational mechanism: the metrics principals use to monitor agents become gameable targets
-→ [220·Power Mapping](../Business/power-mapping.md) — power gaps often correspond to principal-agent misalignments; mapping who actually decides versus who formally decides surfaces where the agency problem is structurally embedded
-→ [222·Coalition Building](../Leadership/coalition-building.md) — coalition members are agents whose private incentives may not fully align with the coalition's stated purpose; the principal-agent lens predicts where fracture is most likely
-→ [51·Incentives](../Psychology/incentives.md) — the primary tool for mitigation
-→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — many cobra dynamics are principal-agent problems: agents responsible for a change programme optimise for programme metrics rather than the underlying outcome
-→ [14·Ladder of Inference](../General-Thinking/ladder-of-inference.md) — principals draw conclusions about agents from limited observable data
-→ [104·Psychological Safety](../Psychology/psychological-safety.md) — agents with low psychological safety optimise for appearance, worsening the gap
-→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — misaligned principal-agent incentives create equilibria where agents act against the principal's interest; changing the equilibrium requires changing the payoff structure
-→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — principal-agent relationships often have a Prisoner's Dilemma structure: agents defect from principal interests when individual incentives dominate
-→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
-→ [262·Incentive Design](incentive-design.md) — the constructive discipline: incentive design is how you narrow the gap this model describes
-→ [232·Free Rider Problem](free-rider-problem.md) — agents who benefit from a shared resource without contributing create a free-rider structure that compounds the principal-agent misalignment
-→ [127·RACI Framework](../Business/raci-framework.md) — RACI makes accountability expectations explicit so agents can't credibly claim they didn't know who owned the outcome; it is the structural intervention that closes the principal-agent information gap at the task level.
-
-## References
-
-- *Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure* — Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976) — the foundational paper formalising the principal–agent relationship, agency costs, and the structural role of information asymmetry.
-- *The Handbook of Organizational Economics* — Robert Gibbons & John Roberts eds. (2013) — comprehensive academic treatment of organisational economics including principal–agent theory, incentive design, and firm boundaries.
-- *Predictably Irrational: The Hidden Forces That Shape Our Decisions* — Dan Ariely (2008) — illustrates how agents behave against their stated interests in ways that are predictable and structural rather than random.
 
 ---
 

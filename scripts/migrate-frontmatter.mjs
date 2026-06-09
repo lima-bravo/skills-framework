@@ -9,7 +9,8 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { REF_DIR, loadManifest } from './lib/manifest.mjs';
+import { REF_DIR, loadManifest, buildLookups } from './lib/manifest.mjs';
+import { resolveConnectionTarget } from './lib/connections.mjs';
 import { parseSkillMarkdown } from './lib/parse-skill.mjs';
 import { hasFrontmatter, stringifyFrontmatter } from './lib/frontmatter.mjs';
 
@@ -45,7 +46,24 @@ function buildBodyFromMd(md, meta) {
   return body + footer;
 }
 
-function buildFrontmatter(meta, parsed) {
+function resolveConnections(parsed, file, lookups) {
+  const resolved = [];
+  for (const c of parsed.connections) {
+    let id = c.id;
+    if (id == null) {
+      const { targetId } = resolveConnectionTarget(c, lookups, file);
+      id = targetId;
+    }
+    if (id == null) {
+      console.warn(`  WARN ${file}: unresolved connection ${c.name || c.raw}`);
+      continue;
+    }
+    resolved.push({ id, rationale: c.rationale || '' });
+  }
+  return resolved;
+}
+
+function buildFrontmatter(meta, parsed, file, lookups) {
   const fm = {
     id: meta.id,
     name: meta.name,
@@ -54,14 +72,8 @@ function buildFrontmatter(meta, parsed) {
     tagline: parsed.tagline || meta.name,
   };
 
-  if (parsed.connections.length) {
-    fm.connections = parsed.connections
-      .filter((c) => c.id != null)
-      .map((c) => ({
-        id: c.id,
-        rationale: c.rationale || '',
-      }));
-  }
+  const connections = resolveConnections(parsed, file, lookups);
+  if (connections.length) fm.connections = connections;
 
   if (parsed.references.length) {
     fm.references = parsed.references
@@ -79,13 +91,13 @@ function buildFrontmatter(meta, parsed) {
   return fm;
 }
 
-function migrateFile(file, meta) {
+function migrateFile(file, meta, lookups) {
   const full = path.join(REF_DIR, file);
   const md = fs.readFileSync(full, 'utf8');
   if (hasFrontmatter(md)) return { file, status: 'skip', reason: 'already has frontmatter' };
 
   const parsed = parseSkillMarkdown(md, { includeReferences: true });
-  const fm = buildFrontmatter(meta, parsed);
+  const fm = buildFrontmatter(meta, parsed, file, lookups);
   const body = buildBodyFromMd(md, meta);
   const out = stringifyFrontmatter(fm) + body;
 
@@ -95,6 +107,7 @@ function migrateFile(file, meta) {
 
 function main() {
   const manifest = loadManifest();
+  const lookups = buildLookups(manifest);
   let files = Object.entries(manifest.skills);
 
   if (fileArg) {
@@ -110,7 +123,7 @@ function main() {
   let migrated = 0;
   let skipped = 0;
   for (const [file, meta] of files) {
-    const r = migrateFile(file, meta);
+    const r = migrateFile(file, meta, lookups);
     if (r.status === 'skip') {
       skipped += 1;
       console.log(`  skip ${file}: ${r.reason}`);

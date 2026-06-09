@@ -14,53 +14,57 @@ function normName(s) {
  * Parse a Connections section body into connection records.
  * @returns {{ id: number|null, name: string, href: string|null, rationale: string, raw: string, resolvedBy: 'id'|'name'|null }[]}
  */
+function parseConnectionContent(content) {
+  const idLink = content.match(/\[(\*\*)?(\d+)·([^\]*]+)(\*\*)?\]\(([^)]+)\)/);
+  if (idLink) {
+    const rest = content.slice(idLink.index + idLink[0].length);
+    const dashM = rest.match(/\s*(?:—|-)\s*(.*)/);
+    if (!dashM) return null;
+    return {
+      id: Number(idLink[2]),
+      name: idLink[3].trim(),
+      href: idLink[5],
+      rationale: dashM[1].trim(),
+      resolvedBy: 'id',
+    };
+  }
+
+  const anyLink = content.match(/\[(?:\*\*)?([^\]*]+)(?:\*\*)?\]\(([^)]+)\)/);
+  if (anyLink) {
+    const rest = content.slice(anyLink.index + anyLink[0].length);
+    const dashM = rest.match(/\s*(?:—|-)\s*(.*)/);
+    if (!dashM) return null;
+    return {
+      id: null,
+      name: anyLink[1].replace(/\*\*/g, '').trim(),
+      href: anyLink[2],
+      rationale: dashM[1].trim(),
+      resolvedBy: null,
+    };
+  }
+
+  const boldM = content.match(/\*\*([^*]+)\*\*\s*(?:—|-)\s*(.*)/);
+  if (boldM) {
+    return {
+      id: null,
+      name: boldM[1].trim(),
+      href: null,
+      rationale: boldM[2].trim(),
+      resolvedBy: null,
+    };
+  }
+
+  return null;
+}
+
 export function parseConnectionLines(body) {
   const results = [];
   for (const line of body.split('\n')) {
     const trimmed = line.trim();
     if (!trimmed.startsWith('→') && !trimmed.startsWith('-')) continue;
     const content = trimmed.replace(/^[→-]\s*/, '');
-
-    // [142·Name](path) or [**142·Name**](path) or [**Name**](path)
-    const linkM = content.match(
-      /\[(\*\*)?(\d+)·([^\]*]+)(\*\*)?\]\(([^)]+)\)\s*(?:—|-)\s*(.*)/,
-    );
-    if (linkM) {
-      results.push({
-        id: Number(linkM[2]),
-        name: linkM[3].trim(),
-        href: linkM[5],
-        rationale: (linkM[6] || '').trim(),
-        raw: line,
-        resolvedBy: 'id',
-      });
-      continue;
-    }
-
-    const legacyM = content.match(/\[\*\*([^*]+)\*\*\]\(([^)]+)\)\s*(?:—|-)\s*(.*)/);
-    if (legacyM) {
-      results.push({
-        id: null,
-        name: legacyM[1].trim(),
-        href: legacyM[2],
-        rationale: (legacyM[3] || '').trim(),
-        raw: line,
-        resolvedBy: null,
-      });
-      continue;
-    }
-
-    const boldM = content.match(/\*\*([^*]+)\*\*\s*(?:—|-)\s*(.*)/);
-    if (boldM) {
-      results.push({
-        id: null,
-        name: boldM[1].trim(),
-        href: null,
-        rationale: (boldM[2] || '').trim(),
-        raw: line,
-        resolvedBy: null,
-      });
-    }
+    const parsed = parseConnectionContent(content);
+    if (parsed) results.push({ ...parsed, raw: line });
   }
   return results;
 }
