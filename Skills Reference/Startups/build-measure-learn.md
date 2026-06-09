@@ -51,6 +51,7 @@ Dropbox's famous explainer video is a canonical Build-Measure-Learn example. Bef
 → [**Velocity**](../Physics-and-Chemistry/velocity.md) — BML is the mechanism for maintaining directional alignment while moving at speed; fast loops without directional measurement is speed, not velocity.
 → [**Wardley Mapping**](../Business/wardley-mapping.md) — BML is the appropriate learning mode at the Genesis/Custom end of a Wardley Map; at the Commodity end, adoption replaces experimentation.
 → [**A/B Testing**](../Business/ab-testing.md) — A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for producing valid learning in continuous improvement cycles.
+→ [**Pivot or Persevere**](pivot-or-persevere.md) — the pivot-or-persevere decision is the "learn" step of the BML loop operationalized as a structured strategy update.
 
 ---
 

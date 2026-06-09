@@ -50,6 +50,7 @@ A company has spent £2M and two years building a B2B product that has found no 
 → [**Commitment & Consistency Bias**](commitment-consistency-bias.md) — consistency bias is the psychological mechanism amplifying sunk cost: the identity attached to a decision makes abandonment feel like self-betrayal, not just loss.
 → [**Business Case Construction**](../Business/business-case-construction.md) — the most common failure in mid-investment review; an approved business case becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence, which is why kill conditions must be stated at approval time.
 → [**Value Realization**](../Business/value-realization.md) — value realization exists structurally to counteract sunk-cost bias: the independent ledger and named owner remove the most invested party from judging their own work.
+→ [**Pivot or Persevere**](../Startups/pivot-or-persevere.md) — the perseverance trap in startup pivots is often sunk-cost reasoning; the structured pivot decision requires separating evidence from prior investment.
 
 ---
 

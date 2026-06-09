@@ -48,6 +48,7 @@ Slack's early users were internal at Stewart Butterfield's game company Glitch. 
 → [**Feedback Loops**](../Systems/feedback-loops.md) — PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth.
 → [**Business Model Canvas**](../Business/business-model-canvas.md) — the canvas is the framework for testing whether a viable business model exists around which PMF could be achieved; strong product pull without a sound model is incomplete validation.
 → [**Value Prop Canvas**](../Business/value-prop-canvas.md) — fit in the Value Prop Canvas is the direct diagnostic for PMF: when pain relievers and gain creators match the customer's highest-priority pains and gains, the pull dynamic becomes achievable.
+→ [**Pivot or Persevere**](pivot-or-persevere.md) — the goal of pivots is to find the product-market fit that perseverance is preserving; PMF is the signal that the pivot search can stop.
 
 ---
 
