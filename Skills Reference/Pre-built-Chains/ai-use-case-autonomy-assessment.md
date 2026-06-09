@@ -1,10 +1,16 @@
+---
+id: 187
+name: AI Use Case Autonomy Assessment
+category: Pre-built Chains
+cardType: chain
+tagline: Determining what level of AI autonomy is appropriate and what governance it requires
+---
+
 # AI Use Case Autonomy Assessment
-*Determining what level of AI autonomy is appropriate and what governance it requires*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Use this chain when evaluating a proposed AI use case — whether your own lab is building it, a client is proposing it, or you are reviewing a vendor's deployment. The goal is to move from "should we use AI for this?" to a specific answer about what autonomy level is appropriate and what governance architecture is required before deployment can responsibly proceed.
@@ -112,6 +118,8 @@ A governance model without an evaluation harness is a policy document, not an op
 **Review cadence:** who reviews the audit log, on what schedule, and against what criteria? The review should be performed by someone with accountability for the system, not only by the engineering team.
 
 Run a [Pre-mortem](../General-Thinking/pre-mortem.md) at this stage: assume the system causes a significant incident six months from now. What does that incident look like, and which step of this chain would have caught it?
+
+---
 
 ---
 

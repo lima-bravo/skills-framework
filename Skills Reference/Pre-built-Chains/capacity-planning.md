@@ -1,10 +1,33 @@
+---
+id: 117
+name: Capacity Planning
+category: Pre-built Chains
+cardType: chain
+tagline: Eight-step chain to pressure-test a resource plan before committing to execution
+connections:
+  - id: 114
+    rationale: "foundational capacity metric: realistic deep work hours, not calendar hours"
+  - id: 116
+    rationale: fragmentation adjustment applied in Step 2
+  - id: 115
+    rationale: demand-side correction applied in Step 3
+  - id: 18
+    rationale: binding constraint identification in Step 4
+  - id: 36
+    rationale: pre-existing capacity tax accounted for in Step 5
+  - id: 2
+    rationale: feedback loop modeled in Step 6
+  - id: 24
+    rationale: final buffer applied in Step 7
+  - id: 51
+    rationale: process integrity check in Step 8
+---
+
 # Capacity Planning
-*Eight-step chain to pressure-test a resource plan before committing to execution*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Before committing to a delivery timeline, resourcing a project, or agreeing to a scope of work. Use when you need to determine whether your team actually has the cognitive capacity to execute a plan — accounting for realistic productivity rates, calendar fragmentation, and planning optimism bias, not just headcount and nominal hours.
@@ -39,15 +62,6 @@ Confirm the planning process rewards honesty about constraints, not optimism tha
 
 If Steps 1–7 show the plan is viable with honest numbers, and Step 8 confirms the process was honest, commit. Otherwise: reduce scope, extend the timeline, add resourcing to the binding constraint, or resolve debt first.
 
-## Connections
-→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work.md) — foundational capacity metric: realistic deep work hours, not calendar hours
-→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — fragmentation adjustment applied in Step 2
-→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — demand-side correction applied in Step 3
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — binding constraint identification in Step 4
-→ [36·Debt](../Economics/debt.md) — pre-existing capacity tax accounted for in Step 5
-→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — feedback loop modeled in Step 6
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — final buffer applied in Step 7
-→ [51·Incentives](../Psychology/incentives.md) — process integrity check in Step 8
-
 ---
-*Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

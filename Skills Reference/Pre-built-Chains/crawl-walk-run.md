@@ -1,10 +1,43 @@
+---
+id: 214
+name: Crawl / Walk / Run
+category: Pre-built Chains
+cardType: chain
+tagline: Each stage earns the right to the next. Failing the gate is not failure — running past it is.
+connections:
+  - id: 213
+    rationale: the chain that precedes this one; produces the hypothesis card that specifies the crawl experiment
+  - id: 181
+    rationale: the crawl-stage instrument for testing mechanism feasibility at minimal cost
+  - id: 64
+    rationale: the crawl-stage instrument when a product interaction is needed to test the assumption
+  - id: 72
+    rationale: the method for designing valid experiments at every stage
+  - id: 212
+    rationale: the risk at crawl stage; the team that built the thing should not be the primary evaluator of whether it works
+  - id: 153
+    rationale: the commitment at every gate; without pre-defined kill criteria, the chain has no gates, only stages
+  - id: 63
+    rationale: the learning cycle that runs inside the walk stage
+  - id: 140
+    rationale: the discipline for distinguishing real walk-stage effects from noise
+  - id: 211
+    rationale: the honesty check on whether "good enough" thresholds were set before or after seeing the results
+  - id: 209
+    rationale: "the governing principle for the run stage: transparency, inspection, adaptation"
+  - id: 160
+    rationale: the outside-view calibration instrument for interpreting run-stage results
+  - id: 143
+    rationale: the operational measurement layer for run-stage experiments on process or delivery mechanisms
+  - id: 204
+    rationale: "the principle that makes every gate honest: results must be capable of disconfirming, not just confirming"
+---
+
 # Crawl / Walk / Run
-*Each stage earns the right to the next. Failing the gate is not failure — running past it is.*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Use this chain when you have a well-formed hypothesis (from the From Idea to Hypothesis chain) and are ready to commit experimental capacity. The chain runs the hypothesis through three sequenced stages, each with a binary gate question and pre-defined kill criteria. Pass the gate or stop — there is no "proceed with reservations" in a working crawl/walk/run discipline.
@@ -84,22 +117,6 @@ Gate decisions should be made by people who were not running the experiment. The
 The record of gate decisions — what was decided, why, and what the results showed — is the institutional memory that makes subsequent experiments faster and better calibrated. Organisations that skip the documentation produce experiments that have to be re-run because no one can remember what was learned.
 
 ---
-
-## Connections
-
-→ [213·From Idea to Hypothesis](from-idea-to-hypothesis.md) — the chain that precedes this one; produces the hypothesis card that specifies the crawl experiment
-→ [181·Pretotyping](../Startups/pretotyping.md) — the crawl-stage instrument for testing mechanism feasibility at minimal cost
-→ [64·MVP](../Startups/mvp.md) — the crawl-stage instrument when a product interaction is needed to test the assumption
-→ [72·Experiment Design](../Business/experiment-design.md) — the method for designing valid experiments at every stage
-→ [212·Observer Bias](../Psychology/observer-bias.md) — the risk at crawl stage; the team that built the thing should not be the primary evaluator of whether it works
-→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — the commitment at every gate; without pre-defined kill criteria, the chain has no gates, only stages
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — the learning cycle that runs inside the walk stage
-→ [140·Statistical Variability](../Delivery-and-Flow/statistical-variability.md) — the discipline for distinguishing real walk-stage effects from noise
-→ [211·Calibration](../General-Thinking/calibration.md) — the honesty check on whether "good enough" thresholds were set before or after seeing the results
-→ [209·Empirical Process Control](../Delivery-and-Flow/empirical-process-control.md) — the governing principle for the run stage: transparency, inspection, adaptation
-→ [160·Reference Class Forecasting](../Delivery-and-Flow/reference-class-forecasting.md) — the outside-view calibration instrument for interpreting run-stage results
-→ [143·Flow Metrics](../Delivery-and-Flow/flow-metrics.md) — the operational measurement layer for run-stage experiments on process or delivery mechanisms
-→ [204·Falsification](../Psychology/falsification.md) — the principle that makes every gate honest: results must be capable of disconfirming, not just confirming
 
 ---
 

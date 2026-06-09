@@ -1,10 +1,16 @@
+---
+id: 186
+name: AI Agent Governance Design
+category: Pre-built Chains
+cardType: chain
+tagline: Designing the authority boundary architecture before an agentic system goes into production
+---
+
 # AI Agent Governance Design
-*Designing the authority boundary architecture before an agentic system goes into production*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Use this chain when you are designing, reviewing, or commissioning an agentic AI system — one that takes real-world actions, runs with reduced human supervision, chains multiple agents, or processes external untrusted content. Use it before deployment, not after the first incident. The chain applies equally to systems you are building, systems a client is building with your guidance, and systems you are evaluating for adoption.
@@ -146,6 +152,8 @@ Before the system goes live, run the following checks:
 5. **Walk a Tier 3 escalation:** Deliberately trigger a Tier 3 action without authorization; verify the system halts, logs, and queues for review rather than proceeding.
 
 Run a [Pre-mortem](../General-Thinking/pre-mortem.md) with the design team: what does a governance failure look like, and which step of this chain would have caught it?
+
+---
 
 ---
 

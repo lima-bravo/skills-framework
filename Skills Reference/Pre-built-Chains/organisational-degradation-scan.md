@@ -1,10 +1,35 @@
+---
+id: 244
+name: Organisational Degradation Scan
+category: Pre-built Chains
+cardType: chain
+tagline: Diagnose why the organisation is getting worse before prescribing how to fix it
+connections:
+  - id: 208
+    rationale: the universal precondition for organisational degradation; the point at which standards erode without conscious decision.
+  - id: 243
+    rationale: the scale threshold at which relational coordination breaks; crossing it without redesigning coordination is a primary degradation trigger.
+  - id: 241
+    rationale: "the institutional form of degradation: headcount and process expanding without expanding output."
+  - id: 242
+    rationale: management layer incompetence accumulating through promotion-on-past-performance; the primary human mechanism sustaining degradation.
+  - id: 120
+    rationale: measurement programmes decoupling from the outcomes they were designed to track.
+  - id: 237
+    rationale: intervention programmes sustaining the problems they were designed to solve.
+  - id: 28
+    rationale: organisational structure mirroring and entrenching the system architecture that creates drag.
+  - id: 121
+    rationale: the agency dimension running through every degradation mechanism; identifies where structural incentive redesign is necessary.
+  - id: 130
+    rationale: the action chain that follows from this diagnosis; do not enter it without completing the scan first.
+---
+
 # Organisational Degradation Scan
-*Diagnose why the organisation is getting worse before prescribing how to fix it*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Use this chain when leadership senses that the organisation is underperforming but cannot name the cause — when "something is off" but the diagnosis keeps reverting to symptoms (slow decisions, talent attrition, cultural drift, declining output quality) without reaching structural causes. Also use it before launching any transformation programme: the Organisational Degradation Scan is the diagnostic prerequisite to the Transformation Chain (#130). Treating symptoms without identifying the operative degradation mechanism produces interventions that address the visible problem while the structural cause continues unimpeded.
@@ -117,18 +142,6 @@ This chain produces a diagnosis, not a remediation plan. The outputs feed direct
 - [**Hiring Decision**](hiring-decision.md) (#96) — if Peter Principle accumulation is the primary mechanism and role redesign or replacement is indicated
 
 ---
-
-## Connections
-
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — the universal precondition for organisational degradation; the point at which standards erode without conscious decision.
-→ [243·Dunbar's Number](../Systems/dunbars-number.md) — the scale threshold at which relational coordination breaks; crossing it without redesigning coordination is a primary degradation trigger.
-→ [241·Parkinson's Law](../Business/parkinsons-law.md) — the institutional form of degradation: headcount and process expanding without expanding output.
-→ [242·Peter Principle](../Leadership/peter-principle.md) — management layer incompetence accumulating through promotion-on-past-performance; the primary human mechanism sustaining degradation.
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — measurement programmes decoupling from the outcomes they were designed to track.
-→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — intervention programmes sustaining the problems they were designed to solve.
-→ [28·Conway's Law](../Systems/conways-law.md) — organisational structure mirroring and entrenching the system architecture that creates drag.
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — the agency dimension running through every degradation mechanism; identifies where structural incentive redesign is necessary.
-→ [130·Transformation Chain](transformation.md) — the action chain that follows from this diagnosis; do not enter it without completing the scan first.
 
 ---
 

@@ -1,10 +1,16 @@
+---
+id: 97
+name: Product Launch
+category: Pre-built Chains
+cardType: chain
+tagline: Product Launch
+---
+
 # Product Launch
-*Product Launch*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Step 1 — Product-Market Fit: Is PMF established, and for whom?
 
 Before launching, be explicit about the customer segment for whom you have evidence of strong PMF. Retention curves that flatten, cohort NPS above threshold, and organic word-of-mouth are the evidence. Don't launch before PMF is established in a specific, named segment — you will be paying to acquire customers who will churn.
@@ -50,6 +56,8 @@ Who is the specific person the launch communication is designed for? Is the fram
 ## Step 8 — Innovation Accounting: What will we measure in the first 30/60/90 days?
 
 Define the innovation accounting metrics before launch. What does success look like? What would indicate the need to pivot vs. continue? Set the thresholds in advance.
+
+---
 
 ---
 

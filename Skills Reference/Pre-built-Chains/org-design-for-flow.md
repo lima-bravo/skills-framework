@@ -1,10 +1,16 @@
+---
+id: 169
+name: Org Design for Flow Diagnostic
+category: Pre-built Chains
+cardType: chain
+tagline: Org Design for Flow Diagnostic
+---
+
 # Org Design for Flow Diagnostic
-*Org Design for Flow Diagnostic*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Step 1 — Value Stream Mapping: What are the actual streams of value?
 
 Before any team conversation, list the value streams the org serves — by customer journey, by product, by regulated process. Each stream has a customer at the end of it. The list often surprises leaders who navigate by org chart rather than by customer flow. Distinguish customer-facing streams from internal ones.
@@ -52,6 +58,8 @@ Structure alone does not produce flow. Stream-aligned teams need authority to ma
 Instrument the new topology with DORA (for software streams) and Flow Metrics at the value-stream level. Set a six-month and 18-month target. The structural redesign should show as: shorter lead time for changes, fewer cross-team dependencies, lower change failure rate, smaller cognitive-load surface area per team. The metrics are the runway light at the end of the reorg.
 
 **Key failure modes to avoid:** renaming teams without changing scope or interactions; designing platforms top-down as mandates; treating cognitive load as personal fragility; reorganizing every two quarters before the architecture has time to follow.
+
+---
 
 ---
 

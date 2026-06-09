@@ -1,10 +1,16 @@
+---
+id: 95
+name: Market Entry
+category: Pre-built Chains
+cardType: chain
+tagline: Market Entry
+---
+
 # Market Entry
-*Market Entry*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Step 1 — First Principles: What is this market actually?
 
 Define the market by the job-to-be-done, not by the incumbents. Who has this need? How are they currently getting it satisfied? What is the size of the unmet portion? Avoid working from competitor analysis — define the market from the customer's perspective first.
@@ -50,6 +56,8 @@ Model the entry under worst-credible conditions: customer acquisition takes thre
 ## Step 8 — MVP: What is the minimum entry that generates valid learning?
 
 Design the entry as a structured experiment. What is the cheapest way to test the entry thesis before deploying full capital? A pilot geography, a lighthouse customer, a partnership — whatever generates maximum learning at minimum commitment.
+
+---
 
 ---
 

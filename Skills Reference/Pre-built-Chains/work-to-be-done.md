@@ -1,10 +1,43 @@
+---
+id: 170
+name: Work to Be Done
+category: Pre-built Chains
+cardType: chain
+tagline: From desired outcome to a refined, prioritized body of work
+connections:
+  - id: 144
+    rationale: Step 1
+  - id: 103
+    rationale: Step 2 (customer-facing)
+  - id: 166
+    rationale: Steps 3, 7
+  - id: 128
+    rationale: Step 4
+  - id: 162
+    rationale: Step 5
+  - id: 161
+    rationale: Step 6
+  - id: 10
+    rationale: Step 6
+  - id: 139
+    rationale: Step 8
+  - id: 156
+    rationale: Step 8
+  - id: 151
+    rationale: Step 9
+  - id: 117
+    rationale: Step 10
+  - id: 168
+    rationale: follow-on when flow must be improved
+  - id: 165
+    rationale: Step 1 for engagements
+---
+
 # Work to Be Done
-*From desired outcome to a refined, prioritized body of work*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Before committing to a build, transformation, program, or consulting engagement. Use when stakeholders agree on a goal but not on **what work is required**, in what order, or under what assumptions. Use after a strategy is set but before detailed planning, resourcing, or flow optimization. Run **Improve Delivery Flow** or **Capacity Planning** after this chain when execution mechanics need depth.
@@ -84,24 +117,6 @@ A single **Work to Be Done** artifact containing:
 7. **Capacity verdict** (viable / viable with cuts / not viable without constraint relief)
 
 ---
-
-## Connections
-
-→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — Step 1
-→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — Step 2 (customer-facing)
-→ [166·Kernel of Good Strategy](../Business/kernel-of-strategy.md) — Steps 3, 7
-→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — Step 4
-→ [162·MECE](../Consulting-Craft/mece.md) — Step 5
-→ [161·Hypothesis-Driven Consulting](../Consulting-Craft/hypothesis-driven.md) — Step 6
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — Step 6
-→ [139·Value Stream Mapping](../Delivery-and-Flow/value-stream-mapping.md) — Step 8
-→ [156·Dependency Management](../Delivery-and-Flow/dependency-management.md) — Step 8
-→ [151·One Thing](../Delivery-and-Flow/one-thing.md) — Step 9
-→ [117·Capacity Planning](capacity-planning.md) — Step 10
-→ [168·Improve Delivery Flow](improve-delivery-flow.md) — follow-on when flow must be improved
-→ [165·Contracting & Scope](../Consulting-Craft/contracting-scope.md) — Step 1 for engagements
-
-**Key failure modes to avoid:** confusing customer job with internal work; activity plans with no causal theory; MECE trees that mirror org charts; hypotheses never tested; fifteen "priorities"; flow optimization before the right work is defined; capacity plans built on calendar hours and optimism.
 
 ---
 

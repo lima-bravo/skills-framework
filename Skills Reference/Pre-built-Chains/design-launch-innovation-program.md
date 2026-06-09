@@ -1,10 +1,16 @@
+---
+id: 178
+name: Design and Launch an Innovation Program
+category: Pre-built Chains
+cardType: chain
+tagline: From diagnostic output to operating reality
+---
+
 # Design and Launch an Innovation Program
-*From diagnostic output to operating reality*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Use this chain after completing the Innovation Capability Diagnostic — when the organization has committed to building a structured innovation capability and needs to move from diagnosis to design. The chain assumes an incumbent organization with an existing core business. It covers the seven decisions that determine whether an innovation program becomes real or remains theater.
@@ -58,6 +64,8 @@ Before the program produces any results, agree with the sponsoring executive on 
 Run a monthly program review with the sponsor covering: experiments completed and learned, pipeline movement, resource consumption vs. plan, and any structural issues requiring intervention (dominant logic pushback, capacity erosion, integration conflicts). Keep the review focused on learning rate, not activity rate. A quarterly portfolio review — separate from the monthly operational review — examines horizon balance and strategic fit of what's in the funnel. The program should produce a deployment or a deliberate kill decision on at least one significant bet within 18 months; anything older than that is almost certainly stalled.
 
 **Key failure modes to avoid:** launching without genuine capacity commitment; applying operational metrics before the program has had time to validate anything; skipping customer discovery in favor of solution generation; failing to design the integration mechanism before the first successful experiment hits the deployment question.
+
+---
 
 ---
 

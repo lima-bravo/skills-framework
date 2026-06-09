@@ -1,10 +1,16 @@
+---
+id: 98
+name: Investment Decision
+category: Pre-built Chains
+cardType: chain
+tagline: Investment Decision
+---
+
 # Investment Decision
-*Investment Decision*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Step 1 — First Principles: What is the intrinsic value?
 
 Before looking at the price, establish a view on value. What cash flows will this asset produce, over what time horizon, at what level of certainty? What is the replacement cost? What is the liquidation value in the downside scenario? Build your value estimate independently before exposing it to the asking price.
@@ -50,6 +56,8 @@ List the specific conditions that would produce a catastrophic return. Are these
 ## Step 8 — Incentives: Are the principals aligned with my interests?
 
 Management/founder incentives, fund structure incentives, and board incentives all shape whether the people responsible for this investment are optimizing for the same outcome you are. Misaligned incentives produce systematic underperformance relative to potential.
+
+---
 
 ---
 

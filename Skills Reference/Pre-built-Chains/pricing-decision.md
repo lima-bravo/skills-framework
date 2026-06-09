@@ -1,10 +1,16 @@
+---
+id: 94
+name: Pricing Decision
+category: Pre-built Chains
+cardType: chain
+tagline: Pricing Decision
+---
+
 # Pricing Decision
-*Pricing Decision*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Step 1 — First Principles: What are we actually selling?
 
 Strip away existing pricing conventions in your category. Ask: what value does the customer actually receive, and what would they pay to get that value from their best alternative (time, other products, doing without)?
@@ -46,6 +52,8 @@ If possible, test multiple price points with new prospects simultaneously. Defin
 At the lowest credible volume, does this price cover fully loaded cost of delivery with adequate margin? Model the stress scenario before committing.
 
 **Key failure modes to avoid:** Anchoring to your cost structure rather than customer value; underpricing out of fear rather than evidence; setting price that contradicts positioning.
+
+---
 
 ---
 

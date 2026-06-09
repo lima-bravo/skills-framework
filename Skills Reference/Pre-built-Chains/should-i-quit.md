@@ -1,10 +1,16 @@
+---
+id: 99
+name: Should I Quit
+category: Pre-built Chains
+cardType: chain
+tagline: Should I Quit
+---
+
 # Should I Quit
-*Should I Quit*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Step 1 — Sunk Cost check: Am I staying because it makes forward sense, or because of what I've invested?
 
 Explicitly acknowledge the investment made (years, relationships, identity, opportunity costs forgone). Then bracket it: "If this were year one, knowing what I know now, would I choose this role/company/endeavor?" The sunk cost should not be a reason to stay; it is done.
@@ -50,6 +56,8 @@ Assign rough probabilities to the scenarios under each option: stay and conditio
 ## Step 8 — Margin of Safety: Do I have the financial and personal runway to make this decision well?
 
 Decisions made under acute financial pressure or emotional exhaustion are compromized. Assess your runway — financial, relational, psychological — and make the decision at a moment of adequate stability if possible.
+
+---
 
 ---
 

@@ -1,10 +1,16 @@
+---
+id: 177
+name: Innovation Capability Diagnostic
+category: Pre-built Chains
+cardType: chain
+tagline: Take an honest inventory before you prescribe
+---
+
 # Innovation Capability Diagnostic
-*Take an honest inventory before you prescribe*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Use this chain at the start of any innovation engagement — before recommending structure, programs, or investment. It is also useful when an organization believes it is "doing innovation" but isn't seeing results, and needs to understand why. The output is a clear picture across six dimensions: cognitive constraints, portfolio balance, structural conditions, exploration/exploitation balance, capacity protection, and pipeline health.
@@ -52,6 +58,8 @@ Assess the end-to-end innovation pipeline: idea generation (volume, diversity, s
 The six steps produce a picture across six dimensions. Summarize your findings by naming the primary constraint — the one factor that, if addressed, would most unlock the others. Common primary constraints: dominant logic filtering out genuine exploration before it starts; structural absence of ambidexterity (everything measured on H1 metrics); slack squeezed to zero by operational pressure; integration gap blocking the funnel's exit. The primary constraint determines where to intervene first. Trying to fix all six simultaneously diffuses attention and produces superficial change.
 
 **Key signals that the diagnosis is complete:** you can name what the dominant logic protects; you have actual resource allocation data across horizons; you have identified whether separation or integration is the structural problem; you know where in the funnel value is being lost.
+
+---
 
 ---
 

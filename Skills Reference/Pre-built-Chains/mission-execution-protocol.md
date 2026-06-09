@@ -1,8 +1,15 @@
+---
+id: 198
+name: Mission Execution Protocol
+category: Pre-built Chains
+cardType: chain
+tagline: Six-step US Army-derived protocol for turning a brief into shared understanding, executing adaptively, and capturing learning — addresses vague briefs, plans that break on contact, and the absence of structured reflection
+---
+
 # Mission Execution Protocol
 
 **Category:** Pre-built Chains
 **Tagline:** Six-step US Army-derived protocol for turning a brief into shared understanding, executing adaptively, and capturing learning — addresses vague briefs, plans that break on contact, and the absence of structured reflection
-
 ## When to Use
 
 At the start of any significant project, programme, or initiative — particularly where the brief comes from above, multiple people need to execute in a coordinated way, or the situation is likely to change during execution. This protocol is equally applicable to a two-week sprint and a six-month transformation. It is a drill: its value comes from consistent application, not selective deployment.
@@ -130,3 +137,7 @@ Explicitly name what worked and should be preserved — not just what should cha
 - **Tactical Pause** — the mid-execution halt and reassessment
 - **After-Action Review** — the four-question learning drill
 - **Psychological Safety** — the cultural precondition for honest Brief-Backs and AARs
+
+---
+
+*Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

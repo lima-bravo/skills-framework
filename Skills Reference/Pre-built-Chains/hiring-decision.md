@@ -1,10 +1,16 @@
+---
+id: 96
+name: Hiring Decision
+category: Pre-built Chains
+cardType: chain
+tagline: Hiring Decision
+---
+
 # Hiring Decision
-*Hiring Decision*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Step 1 — First Principles: What does this role actually need to accomplish?
 
 Before assessing candidates, define the role outputs — not the activities, not the required skills, but the specific outcomes that will be true in 12 months if this person is excellent. If you can't articulate these clearly, you cannot hire well for the role.
@@ -50,6 +56,8 @@ If you are hiring for a capability you don't deeply understand, bring in externa
 ## Step 8 — Margin of Safety: What is the cost of a wrong hire, and are we calibrated for it?
 
 The cost of a senior hire that doesn't work out is typically 2-4x annual salary when you include opportunity cost, management overhead, and the disruption of exit. The margin of safety should be proportional: the higher the role, the higher the evidence bar before committing.
+
+---
 
 ---
 

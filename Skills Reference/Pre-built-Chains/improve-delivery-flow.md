@@ -1,10 +1,16 @@
+---
+id: 168
+name: Improve Delivery Flow
+category: Pre-built Chains
+cardType: chain
+tagline: Improve Delivery Flow
+---
+
 # Improve Delivery Flow
-*Improve Delivery Flow*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Step 1 — Value Stream Mapping: Where is time actually being spent?
 
 Pick one item type with sustained complaints (long lead time, missed dates, customer escalations). Walk the stream from trigger to delivered value, timing every step. Record process time and lead time at each step; mark every wait and every handoff. The output is one current-state map per item type, with a system-level flow efficiency at the bottom. Almost every team is shocked by the number — typical knowledge-work flow efficiency runs 5–15%.
@@ -52,6 +58,8 @@ Instrument the work with flow metrics — flow time, flow velocity, flow efficie
 Write the predicted improvement (e.g., "85th-percentile lead time falls from 41 to 22 days within 8 weeks") before changing anything. Implement the intervention. Compare actual to prediction. The "Check" step is where most flow improvements die — without explicit prediction-vs-actual, the team can declare victory regardless of the outcome.
 
 **Key failure modes to avoid:** improving non-bottlenecks because they are easier; setting WIP limits theoretically rather than empirically; reporting averages rather than percentiles; declaring success on outputs (process changes) rather than outcomes (cycle time, throughput, cost of delay realised).
+
+---
 
 ---
 

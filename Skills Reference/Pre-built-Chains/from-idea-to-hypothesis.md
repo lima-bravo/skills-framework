@@ -1,10 +1,37 @@
+---
+id: 213
+name: From Idea to Hypothesis
+category: Pre-built Chains
+cardType: chain
+tagline: An idea is a guess. A hypothesis is a bet you can settle.
+connections:
+  - id: 245
+    rationale: the chain that precedes this one; enriches the idea via First Principles + JTBD and runs a strategic fit gate before assumption mapping begins
+  - id: 70
+    rationale: the pipeline this chain operates within; funnel stage determines the appropriate level of hypothesis rigour
+  - id: 180
+    rationale: the framework for tracing ideas back to customer outcomes
+  - id: 103
+    rationale: anchors the opportunity to the functional and emotional job the customer is hiring for
+  - id: 73
+    rationale: the tool for surfacing and prioritising the belief stack
+  - id: 204
+    rationale: the discipline that converts assumptions into testable predictions
+  - id: 159
+    rationale: the sequencing rule for deciding which hypothesis to run first
+  - id: 153
+    rationale: the commitment that makes experiments meaningful
+  - id: 72
+    rationale: the method for specifying the minimum test
+  - id: 214
+    rationale: the chain that takes over from here
+---
+
 # From Idea to Hypothesis
-*An idea is a guess. A hypothesis is a bet you can settle.*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Use this chain when an idea has entered the innovation funnel and you need to decide whether to invest experimental capacity in it — and if so, what exactly to test. The chain converts a raw idea (a belief that something might be valuable) into a well-formed hypothesis (a falsifiable prediction about a specific assumption, with a defined test and explicit success criterion). Without this conversion, experiments confirm rather than test: they are run to validate what the team already believes, not to discover whether the belief is warranted.
@@ -95,19 +122,6 @@ This card is the input to the Crawl / Walk / Run chain and the standing record o
 **No agreed kill condition.** Without a pre-defined kill condition, every result is interpreted as a reason to continue. The idea becomes immortal and consumes capacity indefinitely.
 
 ---
-
-## Connections
-
-→ [245·Funnel Intake](funnel-intake.md) — the chain that precedes this one; enriches the idea via First Principles + JTBD and runs a strategic fit gate before assumption mapping begins
-→ [70·Innovation Funnel](../Business/innovation-funnel.md) — the pipeline this chain operates within; funnel stage determines the appropriate level of hypothesis rigour
-→ [180·Opportunity Solution Trees](../Startups/opportunity-solution-trees.md) — the framework for tracing ideas back to customer outcomes
-→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — anchors the opportunity to the functional and emotional job the customer is hiring for
-→ [73·Assumption Mapping](../Business/assumption-mapping.md) — the tool for surfacing and prioritising the belief stack
-→ [204·Falsification](../Psychology/falsification.md) — the discipline that converts assumptions into testable predictions
-→ [159·WSJF](../Delivery-and-Flow/wsjf.md) — the sequencing rule for deciding which hypothesis to run first
-→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — the commitment that makes experiments meaningful
-→ [72·Experiment Design](../Business/experiment-design.md) — the method for specifying the minimum test
-→ [214·Crawl / Walk / Run](crawl-walk-run.md) — the chain that takes over from here
 
 ---
 

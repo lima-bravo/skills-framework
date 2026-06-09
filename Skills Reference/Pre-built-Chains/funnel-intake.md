@@ -1,10 +1,31 @@
+---
+id: 245
+name: Funnel Intake
+category: Pre-built Chains
+cardType: chain
+tagline: An unenriched idea is a bet placed before the odds are known.
+connections:
+  - id: 0
+    rationale: Step 1; strips the idea from analogy to mechanism
+  - id: 103
+    rationale: Step 2; anchors the mechanism to an active customer job
+  - id: 113
+    rationale: Step 3A; classifies the idea by horizon and checks funnel/management logic fit
+  - id: 71
+    rationale: Step 3A complement; checks whether the portfolio has capacity for a bet at this horizon
+  - id: 166
+    rationale: Step 3B; tests whether the idea serves the central strategic challenge
+  - id: 70
+    rationale: the pipeline this chain gates into; intake discipline prevents zombies and maintains stage integrity
+  - id: 213
+    rationale: the chain that follows; the Enriched Idea Brief is its input document
+---
+
 # Funnel Intake
-*An unenriched idea is a bet placed before the odds are known.*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## When to Use
 
 Use this chain before committing an idea to the innovation funnel — before assumption mapping, before experiment design, before any experimental capacity is allocated. It runs in the window between "this is an interesting idea" and "this idea has entered the funnel and has a hypothesis to test."
@@ -94,16 +115,6 @@ Ideas that receive an "intake decision: proceed" are handed directly to Chain 21
 **Applying H1 urgency to H3 ideas at the gate.** H3 ideas correctly fail Check A when the funnel is an H1 funnel — but that failure should redirect, not kill. The failure mode is using the intake gate to eliminate all exploratory ideas because "we need results this year."
 
 ---
-
-## Connections
-
-→ [0·First Principles](../General-Thinking/first-principles.md) — Step 1; strips the idea from analogy to mechanism
-→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — Step 2; anchors the mechanism to an active customer job
-→ [113·Three Horizons](../Business/three-horizons.md) — Step 3A; classifies the idea by horizon and checks funnel/management logic fit
-→ [71·Portfolio Map](../Business/portfolio-map.md) — Step 3A complement; checks whether the portfolio has capacity for a bet at this horizon
-→ [166·Kernel of Good Strategy](../Business/kernel-of-strategy.md) — Step 3B; tests whether the idea serves the central strategic challenge
-→ [70·Innovation Funnel](../Business/innovation-funnel.md) — the pipeline this chain gates into; intake discipline prevents zombies and maintains stage integrity
-→ [213·From Idea to Hypothesis](from-idea-to-hypothesis.md) — the chain that follows; the Enriched Idea Brief is its input document
 
 ---
 

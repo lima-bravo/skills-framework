@@ -1,10 +1,16 @@
+---
+id: 100
+name: Life Decision
+category: Pre-built Chains
+cardType: chain
+tagline: Life Decision
+---
+
 # Life Decision
-*Life Decision*
 
 **Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Step 1 — First Principles: What do you actually value?
 
 Before weighing options, articulate your values — not the values you think you should have, not the values your culture endorses, but the conditions under which you have been most alive, most engaged, and most satisfied. These are your first principles for the decision. The options that maximize your stated values (not your assumed values) are the ones worth exploring.
@@ -59,6 +65,8 @@ Reversible decisions (moving cities, taking a new job) deserve less analysis and
 
 **Version:** 1.1 | **Last updated:** May 2026
 **Skills covered:** 262 across 16 categories
+
+---
 
 ---
 
