@@ -49,6 +49,7 @@ A large software company reorganizes into product squads, each responsible for a
 → [**Feedback Loops**](../Systems/feedback-loops.md) — interdependent systems have more feedback loops, more of which are invisible.
 → [**Emergence**](../Systems/emergence.md) — complex system behavior that appears emergent is often the result of untracked interdependencies.
 → [**Conway's Law**](../Systems/conways-law.md) — Conway's Law is the specific version of interdependence applied to system design: team communication structures become system integration structures.
+→ [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritise which dependencies to manage most actively.
 
 ## References
 

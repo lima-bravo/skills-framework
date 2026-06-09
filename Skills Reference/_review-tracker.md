@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **114**
+- Reviewed (verified + fixed): **115**
 - Flagged: **0**
-- Remaining (todo): **148**
+- Remaining (todo): **147**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -181,7 +181,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#71` **Portfolio Map** · `Business/portfolio-map.md` · **st:** fixed · **n:** added --- before ## References, fixed dup footer, fixed "Good Strategy / Bad Strategy" title; Gap-A: added Perspectives on Experience (BCG 1968); backlinks in diminishing-returns, creative-destruction
 - [x] `#72` **Experiment Design** · `Business/experiment-design.md` · **st:** fixed · **n:** added --- before ## References, fixed dup footer; refs both in manifest, no gaps; backlinks in probabilistic-thinking, confirmation-bias (9 others already present)
 - [x] `#73` **Assumption Mapping** · `Business/assumption-mapping.md` · **st:** fixed · **n:** added --- before ## References, fixed dup footer; refs both in manifest, no gaps; backlinks in experiment-design, situation-assessment (6 others already present)
-- [ ] `#74` **Stakeholder Mapping (Salience Model)** · `Business/stakeholder-mapping-salience-model.md` · **st:** todo · **n:** —
+- [x] `#74` **Stakeholder Mapping (Salience Model)** · `Business/stakeholder-mapping-salience-model.md` · **st:** fixed · **n:** added --- before ## References, fixed dup footer; refs both in manifest, no gaps; backlinks in incentives, second-order-effects, interdependence (2 others already present)
 - [ ] `#116` **Maker's Schedule vs. Manager's Schedule** · `Business/makers-schedule.md` · **st:** todo · **n:** —
 - [ ] `#123` **Scenario Planning** · `Business/scenario-planning.md` · **st:** todo · **n:** —
 - [ ] `#127` **RACI Framework** · `Business/raci-framework.md` · **st:** todo · **n:** —

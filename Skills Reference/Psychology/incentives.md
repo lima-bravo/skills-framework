@@ -62,6 +62,7 @@ A software company introduces a bug bounty program: developers find and report b
 → [**Trust**](trust.md) — trust and incentives are interdependent: misaligned incentives structurally destroy trust, and low trust drives demand for more incentive-based control as a substitute.
 → [**Psychological Safety**](psychological-safety.md) — incentive structures that punish failure or reward concealment are the primary structural mechanism by which organisations destroy psychological safety.
 → [**Self-Determination Theory**](self-determination-theory.md) — SDT's crowding-out effect is the most important caveat in incentive design: rewards applied to intrinsically motivating work degrade the motivation they were meant to boost.
+→ [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — stakeholder salience is partly determined by incentive alignment; a high-power stakeholder whose incentives are misaligned requires more intensive management than one who is aligned.
 
 ## References
 
