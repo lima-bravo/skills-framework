@@ -50,11 +50,11 @@ The CEO's initial instinct (a major platform investment) is not in the top three
 
 ## Connections
 
-→ [**Coaching Stance**](coaching-stance.md) — facilitation is the set of techniques; coaching stance is the orientation that determines when and how to apply them. A facilitator using expert stance (steering toward a predetermined answer) defeats the purpose of the structure.
-→ [**Stakeholder Pre-Wiring**](stakeholder-pre-wiring.md) — facilitation builds alignment in the room; pre-wiring builds alignment before the room convenes. Both are needed for high-stakes decisions; pre-wiring without facilitation produces false consensus; facilitation without pre-wiring surfaces alignment gaps that were already known but not named.
-→ [**Psychological Safety**](../Psychology/psychological-safety.md) — Liberating Structures reduce the cost of speaking; they do not eliminate it. In low-safety environments, structural protections must be stronger (anonymity, pre-meeting interviews) for genuine intelligence to surface.
-→ [**Situation Assessment**](situation-assessment.md) — a well-facilitated session is an effective diagnostic tool; the process of separating fact from interpretation from open question in a group surfaces what the group collectively knows vs. what it is assuming.
-→ [**Structured Problem Solving**](structured-problem-solving.md) — MECE issue-tree construction can be done as a facilitated group activity; this distributes the framing work and increases the likelihood that important branches are not missed by a single analyst.
+→ [258·Coaching Stance](coaching-stance.md) — facilitation is the set of techniques; coaching stance is the orientation that determines when and how to apply them. A facilitator using expert stance (steering toward a predetermined answer) defeats the purpose of the structure.
+→ [252·Stakeholder Pre-Wiring](stakeholder-pre-wiring.md) — facilitation builds alignment in the room; pre-wiring builds alignment before the room convenes. Both are needed for high-stakes decisions; pre-wiring without facilitation produces false consensus; facilitation without pre-wiring surfaces alignment gaps that were already known but not named.
+→ [104·Psychological Safety](../Psychology/psychological-safety.md) — Liberating Structures reduce the cost of speaking; they do not eliminate it. In low-safety environments, structural protections must be stronger (anonymity, pre-meeting interviews) for genuine intelligence to surface.
+→ [246·Situation Assessment](situation-assessment.md) — a well-facilitated session is an effective diagnostic tool; the process of separating fact from interpretation from open question in a group surfaces what the group collectively knows vs. what it is assuming.
+→ [253·Structured Problem Solving](structured-problem-solving.md) — MECE issue-tree construction can be done as a facilitated group activity; this distributes the framing work and increases the likelihood that important branches are not missed by a single analyst.
 
 ---
 

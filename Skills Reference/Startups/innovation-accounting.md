@@ -44,9 +44,9 @@ A mobile app team tracks DAU (daily active users) as their north star metric. DA
 
 ## Connections
 
-→ [**Build-Measure-Learn**](build-measure-learn.md) — innovation accounting is the measurement discipline within BML.
-→ [**Product-Market Fit**](product-market-fit.md) — innovation accounting is the toolkit for measuring progress toward PMF.
-→ [**Experiment Design**](../Business/experiment-design.md) — the rigor of experiment design determines the quality of innovation accounting data.
+→ [63·Build-Measure-Learn](build-measure-learn.md) — innovation accounting is the measurement discipline within BML.
+→ [62·Product-Market Fit](product-market-fit.md) — innovation accounting is the toolkit for measuring progress toward PMF.
+→ [72·Experiment Design](../Business/experiment-design.md) — the rigor of experiment design determines the quality of innovation accounting data.
 ## References
 
 - *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source of innovation accounting as an alternative to traditional metrics.

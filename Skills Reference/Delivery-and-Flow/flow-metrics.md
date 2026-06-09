@@ -44,11 +44,11 @@ A 14-value-stream enterprise dashboards Flow Distribution for the first time. Ag
 
 ## Connections
 
-→ [**DORA Metrics**](dora-metrics.md) — DORA measures delivery capability; flow metrics measure portfolio health.
-→ [**Outcome vs Output**](outcome-vs-output.md) — flow metrics describe outputs; outcome metrics anchor the why.
-→ [**Lean Portfolio Management**](lean-portfolio.md) — flow metrics are the dashboard for portfolio decisions.
-→ [**Flow Efficiency**](flow-efficiency.md) — Flow Framework's efficiency metric is the value-stream-level version.
-→ [**WIP Limits**](wip-limits.md) — Flow Load makes WIP visible at portfolio scale.
+→ [142·DORA Metrics](dora-metrics.md) — DORA measures delivery capability; flow metrics measure portfolio health.
+→ [144·Outcome vs Output](outcome-vs-output.md) — flow metrics describe outputs; outcome metrics anchor the why.
+→ [158·Lean Portfolio Management](lean-portfolio.md) — flow metrics are the dashboard for portfolio decisions.
+→ [133·Flow Efficiency](flow-efficiency.md) — Flow Framework's efficiency metric is the value-stream-level version.
+→ [132·WIP Limits](wip-limits.md) — Flow Load makes WIP visible at portfolio scale.
 
 ---
 

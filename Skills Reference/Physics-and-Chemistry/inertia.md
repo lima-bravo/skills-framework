@@ -45,12 +45,12 @@ A company decides to shift from annual to quarterly planning cycles. The change 
 
 ## Connections
 
-→ [**Equilibrium**](../Systems/equilibrium.md) — inertia is the mechanism that maintains equilibrium; disrupting equilibrium requires overcoming inertia.
-→ [**Activation Energy**](activation-energy.md) — the energy required to overcome inertia and initiate change.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — existing feedback loops embody and perpetuate inertia; changing direction often requires redesigning feedback loops.
-→ [**Path Dependence**](../Systems/path-dependence.md) — path dependence is the structural form of inertia: the system is locked in by its own history, not by simple resistance to change.
-→ [**Velocity**](velocity.md) — inertia is the force that must be overcome to change direction; velocity requires both speed and directional alignment.
-→ [**Friction**](friction.md) — friction and inertia compound: friction is the energy cost of each movement; inertia is the resistance to changing direction at all.
+→ [20·Equilibrium](../Systems/equilibrium.md) — inertia is the mechanism that maintains equilibrium; disrupting equilibrium requires overcoming inertia.
+→ [45·Activation Energy](activation-energy.md) — the energy required to overcome inertia and initiate change.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — existing feedback loops embody and perpetuate inertia; changing direction often requires redesigning feedback loops.
+→ [235·Path Dependence](../Systems/path-dependence.md) — path dependence is the structural form of inertia: the system is locked in by its own history, not by simple resistance to change.
+→ [42·Velocity](velocity.md) — inertia is the force that must be overcome to change direction; velocity requires both speed and directional alignment.
+→ [44·Friction](friction.md) — friction and inertia compound: friction is the energy cost of each movement; inertia is the resistance to changing direction at all.
 
 ## References
 

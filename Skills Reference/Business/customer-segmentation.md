@@ -52,13 +52,13 @@ Scored on attractiveness and right to win: structured-process teams are smaller 
 
 ## Connections
 
-→ [**Jobs to Be Done**](../Startups/jobs-to-be-done.md) — the discovery-side counterpart: JTBD tells you what a customer is trying to accomplish; segmentation groups customers by which jobs they share and how much that's worth.
-→ [**Value Prop Canvas**](value-prop-canvas.md) — once segments are defined, this is the tool for mapping what each segment actually needs against what the offer actually provides.
-→ [**MECE**](../Consulting-Craft/mece.md) — the structural discipline that keeps a segmentation from collapsing into overlapping, unactionable categories.
-→ [**Unit Economics**](../Economics/unit-economics.md) — the quantitative backbone of "attractiveness": lifetime value, cost to serve, and expansion potential are what separate a segment worth chasing from one worth deprioritizing.
-→ [**Availability Bias**](../Psychology/availability-bias.md) — the bias that elevates the loudest, most visible segment above the one the data actually supports.
-→ [**Customer Development**](../Startups/customer-development.md) — the qualitative engine that feeds a segmentation with the needs and behavior data it depends on; segmentation without ongoing discovery calcifies into a stale snapshot.
-→ [**Power Law**](../Mathematics/power-law.md) — many customer bases are power-law distributed in value; a segmentation that treats all segments as roughly equal in size or worth will misallocate resources accordingly.
+→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — the discovery-side counterpart: JTBD tells you what a customer is trying to accomplish; segmentation groups customers by which jobs they share and how much that's worth.
+→ [69·Value Prop Canvas](value-prop-canvas.md) — once segments are defined, this is the tool for mapping what each segment actually needs against what the offer actually provides.
+→ [162·MECE](../Consulting-Craft/mece.md) — the structural discipline that keeps a segmentation from collapsing into overlapping, unactionable categories.
+→ [216·Unit Economics](../Economics/unit-economics.md) — the quantitative backbone of "attractiveness": lifetime value, cost to serve, and expansion potential are what separate a segment worth chasing from one worth deprioritizing.
+→ [56·Availability Bias](../Psychology/availability-bias.md) — the bias that elevates the loudest, most visible segment above the one the data actually supports.
+→ [66·Customer Development](../Startups/customer-development.md) — the qualitative engine that feeds a segmentation with the needs and behavior data it depends on; segmentation without ongoing discovery calcifies into a stale snapshot.
+→ [238·Power Law](../Mathematics/power-law.md) — many customer bases are power-law distributed in value; a segmentation that treats all segments as roughly equal in size or worth will misallocate resources accordingly.
 
 ---
 

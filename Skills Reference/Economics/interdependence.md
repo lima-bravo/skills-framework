@@ -45,11 +45,11 @@ A large software company reorganizes into product squads, each responsible for a
 
 ## Connections
 
-→ [**Second-order Effects**](../General-Thinking/second-order-effects.md) — interdependence is the mechanism by which second-order effects propagate through systems.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — interdependent systems have more feedback loops, more of which are invisible.
-→ [**Emergence**](../Systems/emergence.md) — complex system behavior that appears emergent is often the result of untracked interdependencies.
-→ [**Conway's Law**](../Systems/conways-law.md) — Conway's Law is the specific version of interdependence applied to system design: team communication structures become system integration structures.
-→ [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritise which dependencies to manage most actively.
+→ [2·Second-order Effects](../General-Thinking/second-order-effects.md) — interdependence is the mechanism by which second-order effects propagate through systems.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — interdependent systems have more feedback loops, more of which are invisible.
+→ [19·Emergence](../Systems/emergence.md) — complex system behavior that appears emergent is often the result of untracked interdependencies.
+→ [28·Conway's Law](../Systems/conways-law.md) — Conway's Law is the specific version of interdependence applied to system design: team communication structures become system integration structures.
+→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritise which dependencies to manage most actively.
 
 ## References
 

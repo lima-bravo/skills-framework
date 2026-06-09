@@ -44,14 +44,14 @@ A mid-market software firm's "strategy" is a slide deck of five priorities (grow
 
 ## Connections
 
-→ [**Strategic Prioritization**](../Delivery-and-Flow/one-thing.md) — coherent action requires the discipline of saying no.
-→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — the policy-action linkage expresses a theory.
-→ [**Trade-offs**](../Economics/trade-offs.md) — strategy is the structured form of trade-off reasoning.
-→ [**First Principles**](../General-Thinking/first-principles.md) — Rumelt's diagnosis is first-principles thinking applied to a strategic situation.
-→ [**Portfolio Map**](portfolio-map.md) — the portfolio question follows the strategy question, not the reverse.
-→ [**Wardley Mapping**](wardley-mapping.md) — a Wardley Map is a tool for developing the diagnosis component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
-→ [**Playing to Win**](playing-to-win.md) — Lafley & Martin's five-choice cascade is the operational complement to Rumelt's kernel: Rumelt names what a strategy must contain; Playing to Win shows how to build the choices so they reinforce each other.
-→ [**Profit Pool Analysis**](profit-pool-analysis.md) — a profit pool map is a diagnosis tool; it becomes strategy only when paired with a guiding policy and coherent actions that follow from where the profit actually sits.
+→ [151·Strategic Prioritization](../Delivery-and-Flow/one-thing.md) — coherent action requires the discipline of saying no.
+→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — the policy-action linkage expresses a theory.
+→ [30·Trade-offs](../Economics/trade-offs.md) — strategy is the structured form of trade-off reasoning.
+→ [0·First Principles](../General-Thinking/first-principles.md) — Rumelt's diagnosis is first-principles thinking applied to a strategic situation.
+→ [71·Portfolio Map](portfolio-map.md) — the portfolio question follows the strategy question, not the reverse.
+→ [210·Wardley Mapping](wardley-mapping.md) — a Wardley Map is a tool for developing the diagnosis component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
+→ [254·Playing to Win](playing-to-win.md) — Lafley & Martin's five-choice cascade is the operational complement to Rumelt's kernel: Rumelt names what a strategy must contain; Playing to Win shows how to build the choices so they reinforce each other.
+→ [248·Profit Pool Analysis](profit-pool-analysis.md) — a profit pool map is a diagnosis tool; it becomes strategy only when paired with a guiding policy and coherent actions that follow from where the profit actually sits.
 
 ---
 

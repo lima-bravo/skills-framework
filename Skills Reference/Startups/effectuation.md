@@ -61,12 +61,12 @@ The founding of Starbucks illustrates the lemonade principle. Howard Schultz vis
 
 ## Connections
 
-→ [**Build-Measure-Learn**](build-measure-learn.md) — effectuation provides the decision logic for the early cycle; Build-Measure-Learn provides the process structure. Together they describe how expert entrepreneurs move through uncertainty.
-→ [**MVP**](mvp.md) — the minimum viable product is an effectual instrument: a bird-in-hand commitment that produces learning without requiring a fully specified goal.
-→ [**Asymmetry / Convexity**](../General-Thinking/asymmetry-convexity.md) — affordable loss is a strategy for ensuring your downside is capped while your upside remains open; convexity thinking formalizes this logic.
-→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — effectuation is the appropriate reasoning mode during exploration; causation is the appropriate mode during exploitation.
-→ [**Adjacent Possible**](../Systems/adjacent-possible.md) — the crazy quilt principle expands the adjacent possible through partner commitments; each new partner opens doors that weren't accessible from the original starting position.
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — effectuation doesn't abandon probabilistic reasoning; it acknowledges when the distribution is too unknown to compute and uses affordable loss as a substitute for expected value.
+→ [63·Build-Measure-Learn](build-measure-learn.md) — effectuation provides the decision logic for the early cycle; Build-Measure-Learn provides the process structure. Together they describe how expert entrepreneurs move through uncertainty.
+→ [64·MVP](mvp.md) — the minimum viable product is an effectual instrument: a bird-in-hand commitment that produces learning without requiring a fully specified goal.
+→ [12·Asymmetry / Convexity](../General-Thinking/asymmetry-convexity.md) — affordable loss is a strategy for ensuring your downside is capped while your upside remains open; convexity thinking formalizes this logic.
+→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — effectuation is the appropriate reasoning mode during exploration; causation is the appropriate mode during exploitation.
+→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — the crazy quilt principle expands the adjacent possible through partner commitments; each new partner opens doors that weren't accessible from the original starting position.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — effectuation doesn't abandon probabilistic reasoning; it acknowledges when the distribution is too unknown to compute and uses affordable loss as a substitute for expected value.
 ## References
 
 - *Effectuation: Elements of Entrepreneurial Expertise* — Saras D. Sarasvathy (2008) — the academic foundation of effectual reasoning derived from research into expert entrepreneurs.

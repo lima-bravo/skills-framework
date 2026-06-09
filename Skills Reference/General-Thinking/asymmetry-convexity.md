@@ -43,11 +43,11 @@ A startup's investment in attending a major industry conference is asymmetric: t
 
 ## Connections
 
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — asymmetry thinking and margin of safety are complementary: both protect against the downside while keeping upside accessible.
-→ [**Two-Way Doors**](two-way-doors.md) — reversible decisions are structurally asymmetric: the downside is limited (you can reverse); the upside is the potential gain from trying.
-→ [**Probabilistic Thinking**](probabilistic-thinking.md) — asymmetry analysis requires explicit probability-and-magnitude estimation, not just probability alone.
-→ [**Black Swan**](black-swan.md) — Black Swan events are the tail events that convex positions are designed to survive and benefit from; asymmetric positioning is both the defense and the offense against tail risk.
-→ [**Regret Minimization Framework**](regret-minimization-framework.md) — the regret asymmetry (inactions outweigh actions at 80) is the psychological form of the payoff asymmetry described here; both point toward taking the bounded-downside bet.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — asymmetry thinking and margin of safety are complementary: both protect against the downside while keeping upside accessible.
+→ [16·Two-Way Doors](two-way-doors.md) — reversible decisions are structurally asymmetric: the downside is limited (you can reverse); the upside is the potential gain from trying.
+→ [7·Probabilistic Thinking](probabilistic-thinking.md) — asymmetry analysis requires explicit probability-and-magnitude estimation, not just probability alone.
+→ [240·Black Swan](black-swan.md) — Black Swan events are the tail events that convex positions are designed to survive and benefit from; asymmetric positioning is both the defense and the offense against tail risk.
+→ [15·Regret Minimization Framework](regret-minimization-framework.md) — the regret asymmetry (inactions outweigh actions at 80) is the psychological form of the payoff asymmetry described here; both point toward taking the bounded-downside bet.
 
 ## References
 

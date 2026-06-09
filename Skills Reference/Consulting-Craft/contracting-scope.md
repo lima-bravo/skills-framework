@@ -44,11 +44,11 @@ A regional health system engages a consultancy to "improve operational efficienc
 
 ## Connections
 
-→ [**Engagement Lifecycle**](engagement-lifecycle.md) — contracting frames the lifecycle.
-→ [**Outcome vs Output**](../Delivery-and-Flow/outcome-vs-output.md) — contracts on outcomes, not outputs.
-→ [**Stakeholder Mapping**](../Business/stakeholder-mapping-salience-model.md) — contracting requires stakeholder alignment.
-→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — contracts should include stopping conditions.
-→ [**Trade-offs**](../Economics/trade-offs.md) — scope decisions are explicit trade-offs.
+→ [164·Engagement Lifecycle](engagement-lifecycle.md) — contracting frames the lifecycle.
+→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — contracts on outcomes, not outputs.
+→ [74·Stakeholder Mapping](../Business/stakeholder-mapping-salience-model.md) — contracting requires stakeholder alignment.
+→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — contracts should include stopping conditions.
+→ [30·Trade-offs](../Economics/trade-offs.md) — scope decisions are explicit trade-offs.
 
 ---
 

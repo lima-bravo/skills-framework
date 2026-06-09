@@ -44,20 +44,20 @@ A bank's innovation portfolio funds 12 internal startups, each with a 12-month r
 
 ## Connections
 
-→ [**Pivot or Persevere**](../Startups/pivot-or-persevere.md) — kill criteria are a third option (quit) often missing from the binary.
-→ [**Sunk Cost**](../Psychology/sunk-cost.md) — the bias kill criteria are designed to counter.
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortem evidence is one source of kill criteria.
-→ [**Value Realization**](../Business/value-realization.md) — the same "decide the threshold before you're invested in the answer" discipline, extended past launch into the post-approval period: when does a shortfall trigger an honest reckoning rather than a quiet redefinition of success?
-→ [**Cost of Delay**](cost-of-delay.md) — initiatives with collapsed cost of delay are kill candidates.
-→ [**OKRs**](okrs.md) — failed KRs should trigger kill discussions, not redoubled effort.
-→ [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — kill criteria are agreed at Step 5 before any experiment runs; without them, ideas become immortal
-→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — kill criteria appear at every stage gate; the chain only works if gate decisions are honoured
-→ [**Reliability vs. Feature Velocity**](reliability-vs-velocity.md) — an error-budget exhaustion trigger is a pre-committed kill criterion for feature releases, removing the decision from real-time political pressure.
-→ [**Falsification**](../Psychology/falsification.md) — kill criteria are the organisational instrument of falsification: pre-specifying the conditions under which a hypothesis is rejected before investment creates commitment.
-→ [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — the structural antidote to consistency bias: pre-specified exit conditions bypass the in-the-moment pressure to remain consistent with prior investment.
-→ [**Business Case Construction**](../Business/business-case-construction.md) — every credible business case must state its kill condition at approval time; a case without one is implicitly claiming the investment is unconditional, which is never true.
-→ [**Red Teaming**](../Business/red-teaming.md) — red team findings often generate the conditions that should be pre-specified as kill criteria; converting adversarial output into operationally binding exit conditions is how the exercise produces durable accountability.
-→ [**Parkinson's Law**](../Business/parkinsons-law.md) — kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth.
+→ [65·Pivot or Persevere](../Startups/pivot-or-persevere.md) — kill criteria are a third option (quit) often missing from the binary.
+→ [53·Sunk Cost](../Psychology/sunk-cost.md) — the bias kill criteria are designed to counter.
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — pre-mortem evidence is one source of kill criteria.
+→ [251·Value Realization](../Business/value-realization.md) — the same "decide the threshold before you're invested in the answer" discipline, extended past launch into the post-approval period: when does a shortfall trigger an honest reckoning rather than a quiet redefinition of success?
+→ [137·Cost of Delay](cost-of-delay.md) — initiatives with collapsed cost of delay are kill candidates.
+→ [152·OKRs](okrs.md) — failed KRs should trigger kill discussions, not redoubled effort.
+→ [213·From Idea to Hypothesis](../Pre-built-Chains/from-idea-to-hypothesis.md) — kill criteria are agreed at Step 5 before any experiment runs; without them, ideas become immortal
+→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — kill criteria appear at every stage gate; the chain only works if gate decisions are honoured
+→ [256·Reliability vs. Feature Velocity](reliability-vs-velocity.md) — an error-budget exhaustion trigger is a pre-committed kill criterion for feature releases, removing the decision from real-time political pressure.
+→ [204·Falsification](../Psychology/falsification.md) — kill criteria are the organisational instrument of falsification: pre-specifying the conditions under which a hypothesis is rejected before investment creates commitment.
+→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — the structural antidote to consistency bias: pre-specified exit conditions bypass the in-the-moment pressure to remain consistent with prior investment.
+→ [218·Business Case Construction](../Business/business-case-construction.md) — every credible business case must state its kill condition at approval time; a case without one is implicitly claiming the investment is unconditional, which is never true.
+→ [224·Red Teaming](../Business/red-teaming.md) — red team findings often generate the conditions that should be pre-specified as kill criteria; converting adversarial output into operationally binding exit conditions is how the exercise produces durable accountability.
+→ [241·Parkinson's Law](../Business/parkinsons-law.md) — kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth.
 
 ---
 

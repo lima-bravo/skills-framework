@@ -43,27 +43,27 @@ A software company introduces a bug bounty program: developers find and report b
 
 ## Connections
 
-→ [**Second-order Effects**](../General-Thinking/second-order-effects.md) — incentive systems produce second-order effects that are often the opposite of the intended first-order effect.
-→ [**Gresham's Law**](../Economics/greshams-law.md) — Gresham's Law is incentive dynamics applied to market competition between quality tiers.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — incentives create feedback loops; the loop structure determines whether the incentive produces the intended long-run outcome.
-→ [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — equilibria are determined by the incentive structure; redesigning incentives is the primary lever for changing which equilibrium players land in.
-→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — the Prisoner's Dilemma is an incentive structure where individual rationality produces collective irrationality.
-→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — commons tragedies are incentive design failures: individual incentives point toward overuse of a shared resource.
-→ [**Hanlon's Razor**](../General-Thinking/hanlons-razor.md) — before attributing malice, map incentives first; misaligned incentives are the most common structural explanation for behaviour that looks deliberate.
-→ [**Bubbles**](../Economics/bubbles.md) — bubble dynamics persist because incentives (fees, career risk, peer pressure) reward participation even when participants know valuations are stretched.
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — Goodhart's Law is the failure mode of incentive systems: when a metric carries real consequences, people optimise the metric rather than the outcome it was tracking.
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — incentives are the primary mitigation tool for principal-agent misalignment; designing them well requires understanding both adverse selection and moral hazard.
-→ [**Free Rider Problem**](../Economics/free-rider-problem.md) — free riding is an incentive design failure: when contribution is not individually rewarded, the rational actor doesn't contribute.
-→ [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — reciprocity is a social incentive that operates independently of formal systems; it often drives collaboration more reliably than financial incentives in relational contexts.
-→ [**Maslow's Hierarchy of Needs**](maslows-hierarchy-of-needs.md) — Maslow provides the motivational structure that determines which incentives are active; salary only motivates until lower needs are met.
-→ [**McClelland's Acquired Needs**](mcclellands-acquired-needs-theory.md) — McClelland's three-need framework determines which type of incentive will land: nAch responds to challenge and autonomy, nPow to influence, nAff to belonging.
-→ [**Max-Neef's Fundamental Human Needs**](max-neefs-fundamental-human-needs.md) — the satisfier-need distinction is the most important refinement to incentive design: ensure incentives meet actual needs, not just their most obvious satisfiers.
-→ [**ERG Theory**](erg-theory.md) — ERG's frustration-regression principle predicts incentive failures: an employee regressing to Existence focus may signal blocked Growth, not a genuine preference for pay over challenge.
-→ [**Trust**](trust.md) — trust and incentives are interdependent: misaligned incentives structurally destroy trust, and low trust drives demand for more incentive-based control as a substitute.
-→ [**Psychological Safety**](psychological-safety.md) — incentive structures that punish failure or reward concealment are the primary structural mechanism by which organisations destroy psychological safety.
-→ [**Self-Determination Theory**](self-determination-theory.md) — SDT's crowding-out effect is the most important caveat in incentive design: rewards applied to intrinsically motivating work degrade the motivation they were meant to boost.
-→ [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — stakeholder salience is partly determined by incentive alignment; a high-power stakeholder whose incentives are misaligned requires more intensive management than one who is aligned.
-→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — organisations reward responsiveness over deep work; protecting maker time requires counteracting the incentive gradient that makes availability feel productive.
+→ [2·Second-order Effects](../General-Thinking/second-order-effects.md) — incentive systems produce second-order effects that are often the opposite of the intended first-order effect.
+→ [40·Gresham's Law](../Economics/greshams-law.md) — Gresham's Law is incentive dynamics applied to market competition between quality tiers.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — incentives create feedback loops; the loop structure determines whether the incentive produces the intended long-run outcome.
+→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — equilibria are determined by the incentive structure; redesigning incentives is the primary lever for changing which equilibrium players land in.
+→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — the Prisoner's Dilemma is an incentive structure where individual rationality produces collective irrationality.
+→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — commons tragedies are incentive design failures: individual incentives point toward overuse of a shared resource.
+→ [4·Hanlon's Razor](../General-Thinking/hanlons-razor.md) — before attributing malice, map incentives first; misaligned incentives are the most common structural explanation for behaviour that looks deliberate.
+→ [38·Bubbles](../Economics/bubbles.md) — bubble dynamics persist because incentives (fees, career risk, peer pressure) reward participation even when participants know valuations are stretched.
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — Goodhart's Law is the failure mode of incentive systems: when a metric carries real consequences, people optimise the metric rather than the outcome it was tracking.
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — incentives are the primary mitigation tool for principal-agent misalignment; designing them well requires understanding both adverse selection and moral hazard.
+→ [232·Free Rider Problem](../Economics/free-rider-problem.md) — free riding is an incentive design failure: when contribution is not individually rewarded, the rational actor doesn't contribute.
+→ [49·Reciprocity](../Physics-and-Chemistry/reciprocity.md) — reciprocity is a social incentive that operates independently of formal systems; it often drives collaboration more reliably than financial incentives in relational contexts.
+→ [58·Maslow's Hierarchy of Needs](maslows-hierarchy-of-needs.md) — Maslow provides the motivational structure that determines which incentives are active; salary only motivates until lower needs are met.
+→ [59·McClelland's Acquired Needs](mcclellands-acquired-needs-theory.md) — McClelland's three-need framework determines which type of incentive will land: nAch responds to challenge and autonomy, nPow to influence, nAff to belonging.
+→ [60·Max-Neef's Fundamental Human Needs](max-neefs-fundamental-human-needs.md) — the satisfier-need distinction is the most important refinement to incentive design: ensure incentives meet actual needs, not just their most obvious satisfiers.
+→ [61·ERG Theory](erg-theory.md) — ERG's frustration-regression principle predicts incentive failures: an employee regressing to Existence focus may signal blocked Growth, not a genuine preference for pay over challenge.
+→ [101·Trust](trust.md) — trust and incentives are interdependent: misaligned incentives structurally destroy trust, and low trust drives demand for more incentive-based control as a substitute.
+→ [104·Psychological Safety](psychological-safety.md) — incentive structures that punish failure or reward concealment are the primary structural mechanism by which organisations destroy psychological safety.
+→ [192·Self-Determination Theory](self-determination-theory.md) — SDT's crowding-out effect is the most important caveat in incentive design: rewards applied to intrinsically motivating work degrade the motivation they were meant to boost.
+→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — stakeholder salience is partly determined by incentive alignment; a high-power stakeholder whose incentives are misaligned requires more intensive management than one who is aligned.
+→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — organisations reward responsiveness over deep work; protecting maker time requires counteracting the incentive gradient that makes availability feel productive.
 
 ## References
 

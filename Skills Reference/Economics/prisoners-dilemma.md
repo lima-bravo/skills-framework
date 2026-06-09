@@ -48,15 +48,15 @@ The escape: an industry consortium (commitment mechanism) that makes the coopera
 
 ## Connections
 
-→ [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — mutual defection is the Nash Equilibrium of the Prisoner's Dilemma: each player's strategy is a best-response to the other's.
-→ [**Trust**](../Psychology/trust.md) — trust enables the binding commitments that allow players to escape defection equilibria; without it, the dilemma holds.
-→ [**Incentives**](../Psychology/incentives.md) — the dilemma is a product of the incentive structure; redesigning incentives is the primary intervention.
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — misaligned incentives between principals and agents create Prisoner's Dilemma structures within organisations.
-→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — the multi-player extension of the Prisoner's Dilemma: individually rational extraction that destroys shared resources.
-→ [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — the psychological mechanism that makes Tit-for-Tat work in repeated games.
-→ [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — public commitments to cooperate can serve as credible signals that shift the equilibrium.
-→ [**Free Rider Problem**](free-rider-problem.md) — the free rider problem is a multi-player Prisoner's Dilemma: each actor's dominant strategy (not contributing) produces a collectively worse outcome.
-→ [**Schelling Points**](schelling-points.md) — in repeated games, Schelling Points help players coordinate on cooperative equilibria without explicit communication.
+→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — mutual defection is the Nash Equilibrium of the Prisoner's Dilemma: each player's strategy is a best-response to the other's.
+→ [101·Trust](../Psychology/trust.md) — trust enables the binding commitments that allow players to escape defection equilibria; without it, the dilemma holds.
+→ [51·Incentives](../Psychology/incentives.md) — the dilemma is a product of the incentive structure; redesigning incentives is the primary intervention.
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — misaligned incentives between principals and agents create Prisoner's Dilemma structures within organisations.
+→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — the multi-player extension of the Prisoner's Dilemma: individually rational extraction that destroys shared resources.
+→ [49·Reciprocity](../Physics-and-Chemistry/reciprocity.md) — the psychological mechanism that makes Tit-for-Tat work in repeated games.
+→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — public commitments to cooperate can serve as credible signals that shift the equilibrium.
+→ [232·Free Rider Problem](free-rider-problem.md) — the free rider problem is a multi-player Prisoner's Dilemma: each actor's dominant strategy (not contributing) produces a collectively worse outcome.
+→ [236·Schelling Points](schelling-points.md) — in repeated games, Schelling Points help players coordinate on cooperative equilibria without explicit communication.
 
 ## References
 

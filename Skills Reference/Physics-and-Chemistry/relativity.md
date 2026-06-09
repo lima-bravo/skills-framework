@@ -43,9 +43,9 @@ A startup raises a £3M seed round. The founder announces this to the team as a 
 
 ## Connections
 
-→ [**Anchoring**](../Psychology/anchoring.md) — anchoring is the psychological mechanism by which reference frames are set and exploited.
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — base rates are reference frames; probabilistic thinking requires choosing the right reference class.
-→ [**Map-Territory**](../General-Thinking/map-territory.md) — the reference frame is part of the map; changing the frame is changing the map.
+→ [54·Anchoring](../Psychology/anchoring.md) — anchoring is the psychological mechanism by which reference frames are set and exploited.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — base rates are reference frames; probabilistic thinking requires choosing the right reference class.
+→ [6·Map-Territory](../General-Thinking/map-territory.md) — the reference frame is part of the map; changing the frame is changing the map.
 
 ## References
 

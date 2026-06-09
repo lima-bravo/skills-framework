@@ -43,11 +43,11 @@ A product team is pressured by finance to raise developer utilization from 75% t
 
 ## Connections
 
-→ [**Little's Law**](littles-law.md) — flow efficiency is the inverse of the multiplier between work time and lead time.
-→ [**Queueing & Wait Time**](queueing.md) — high resource efficiency drives high wait time through queueing dynamics.
-→ [**WIP Limits**](wip-limits.md) — the primary lever to raise flow efficiency.
-→ [**Efficiency**](../Economics/efficiency.md) — the economics card; this is the operational specialization.
-→ [**Maker's Schedule**](../Business/makers-schedule.md) — slack at the individual level is the analogue of slack at the team level.
+→ [131·Little's Law](littles-law.md) — flow efficiency is the inverse of the multiplier between work time and lead time.
+→ [135·Queueing & Wait Time](queueing.md) — high resource efficiency drives high wait time through queueing dynamics.
+→ [132·WIP Limits](wip-limits.md) — the primary lever to raise flow efficiency.
+→ [35·Efficiency](../Economics/efficiency.md) — the economics card; this is the operational specialization.
+→ [116·Maker's Schedule](../Business/makers-schedule.md) — slack at the individual level is the analogue of slack at the team level.
 
 ---
 

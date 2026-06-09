@@ -36,16 +36,16 @@ A company announces a shift to a customer-centric operating model with a town ha
 
 ## Connections
 
-→ [**Organizational Culture**](organizational-culture.md) — Kotter's step 8 only succeeds when new behaviours reach the basic assumptions level
-→ [**Mission Command**](mission-command.md) — enlisting volunteers requires intent-based communication
-→ **Stakeholder Mapping** — the guiding coalition is built from stakeholder analysis
-→ [**Coalition Building**](coalition-building.md) — Kotter's guiding coalition is a coalition; this card operationalises how to assemble and sustain it
-→ [**Power Mapping**](../Business/power-mapping.md) — identify who the real decision-makers and opinion leaders are before designing the guiding coalition
-→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — change approach must match the domain type
-→ [**RACI Framework**](../Business/raci-framework.md) — ambiguous accountability is a top cause of transformation failure
-→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — Kotter's model is itself a Theory of Change with embedded assumptions about human psychology and organisations; making those assumptions explicit reveals where a specific transformation is most likely to fail.
-→ [**Overton Window**](../General-Thinking/overton-window.md) — Overton Window analysis is a prerequisite for change management: understanding what the organisation is currently prepared to accept determines sequencing and pacing.
-→ [**Immunity to Change**](../Psychology/immunity-to-change.md) — the missing chapter in most change-management playbooks: why willing, intelligent people consistently fail to change even when the plan is clear.
+→ [124·Organizational Culture](organizational-culture.md) — Kotter's step 8 only succeeds when new behaviours reach the basic assumptions level
+→ [118·Mission Command](mission-command.md) — enlisting volunteers requires intent-based communication
+→ [74·Stakeholder Mapping](../Business/stakeholder-mapping-salience-model.md) — the guiding coalition is built from stakeholder analysis
+→ [222·Coalition Building](coalition-building.md) — Kotter's guiding coalition is a coalition; this card operationalises how to assemble and sustain it
+→ [220·Power Mapping](../Business/power-mapping.md) — identify who the real decision-makers and opinion leaders are before designing the guiding coalition
+→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — change approach must match the domain type
+→ [127·RACI Framework](../Business/raci-framework.md) — ambiguous accountability is a top cause of transformation failure
+→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — Kotter's model is itself a Theory of Change with embedded assumptions about human psychology and organisations; making those assumptions explicit reveals where a specific transformation is most likely to fail.
+→ [234·Overton Window](../General-Thinking/overton-window.md) — Overton Window analysis is a prerequisite for change management: understanding what the organisation is currently prepared to accept determines sequencing and pacing.
+→ [167·Immunity to Change](../Psychology/immunity-to-change.md) — the missing chapter in most change-management playbooks: why willing, intelligent people consistently fail to change even when the plan is clear.
 
 ## References
 

@@ -55,16 +55,16 @@ The narrative instinct produced a story centred on a protagonist (the founder), 
 
 ## Connections
 
-→ [**Hindsight Bias**](hindsight-bias.md) — narrative instinct is the mechanism by which hindsight bias operates; we impose a causal story on the past that makes outcomes feel inevitable
-→ [**Fundamental Attribution Error**](fundamental-attribution-error.md) — both involve preferring agent-causal stories (someone did this) over system-causal explanations
-→ [**Dominant Logic**](../Business/dominant-logic.md) — the organisational-level instantiation of narrative instinct: the founding story that filters all new evidence
-→ [**First Principles Thinking**](../General-Thinking/first-principles.md) — the antidote; it starts from structure and evidence rather than inherited narrative
-→ [**Pre-Mortem**](../General-Thinking/pre-mortem.md) — deliberately invokes a failure narrative to surface what the success narrative suppresses
-→ [**Survivorship Bias**](survivorship-bias.md) — the survivor record is almost always presented as a success narrative, which makes the missing failure data even harder to notice
-→ [**Overton Window**](../General-Thinking/overton-window.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts what ideas are considered acceptable for serious discussion
-→ [**Social Proof**](social-proof.md) — the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when attached to a compelling narrative
-→ [**Base Rate Neglect**](base-rate-neglect.md) — the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
-→ [**Power Mapping**](../Business/power-mapping.md) — informal organisational power often flows to whoever shapes the dominant narrative; identifying who controls the story is part of mapping informal influence.
+→ [201·Hindsight Bias](hindsight-bias.md) — narrative instinct is the mechanism by which hindsight bias operates; we impose a causal story on the past that makes outcomes feel inevitable
+→ [200·Fundamental Attribution Error](fundamental-attribution-error.md) — both involve preferring agent-causal stories (someone did this) over system-causal explanations
+→ [173·Dominant Logic](../Business/dominant-logic.md) — the organisational-level instantiation of narrative instinct: the founding story that filters all new evidence
+→ [0·First Principles Thinking](../General-Thinking/first-principles.md) — the antidote; it starts from structure and evidence rather than inherited narrative
+→ [10·Pre-Mortem](../General-Thinking/pre-mortem.md) — deliberately invokes a failure narrative to surface what the success narrative suppresses
+→ [199·Survivorship Bias](survivorship-bias.md) — the survivor record is almost always presented as a success narrative, which makes the missing failure data even harder to notice
+→ [234·Overton Window](../General-Thinking/overton-window.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts what ideas are considered acceptable for serious discussion
+→ [202·Social Proof](social-proof.md) — the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when attached to a compelling narrative
+→ [206·Base Rate Neglect](base-rate-neglect.md) — the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
+→ [220·Power Mapping](../Business/power-mapping.md) — informal organisational power often flows to whoever shapes the dominant narrative; identifying who controls the story is part of mapping informal influence.
 
 ## References
 

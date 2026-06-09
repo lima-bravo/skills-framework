@@ -45,12 +45,12 @@ The emergence of the smartphone illustrates the sequential logic of the adjacent
 
 ## Connections
 
-→ [**S-Curves**](s-curves.md) — S-curves describe adoption trajectories once an innovation is accessible; the adjacent possible explains when and why an innovation first becomes accessible.
-→ [**Exploration vs. Exploitation**](exploration-vs-exploitation.md) — exploration is the active search through the adjacent possible for next innovations; the adjacent possible defines the boundary of productive exploration.
-→ [**Analogical Reasoning**](../General-Thinking/analogical-reasoning.md) — analogical reasoning expands the adjacent possible by making solutions developed in distant domains available to import, effectively opening new doors without passing through all intermediate rooms.
-→ [**Disruptive Innovation**](../Business/disruptive-innovation.md) — disruption often begins at the adjacent possible of entrants, who are positioned (by lower cost structures and different customer focus) adjacent to innovations incumbents cannot reach.
-→ [**Compounding**](../Mathematics/compounding.md) — each step through the adjacent possible compounds: entering a new room doesn't just solve today's problem, it opens new doors unavailable from the previous room. The value of early steps is partly the future steps they make accessible.
-→ [**Wardley Mapping**](../Business/wardley-mapping.md) — Wardley Maps reveal the adjacent possible in strategic terms: components at the Genesis/Custom boundary are where new moves become accessible; Commodity components are closed territory.
+→ [102·S-Curves](s-curves.md) — S-curves describe adoption trajectories once an innovation is accessible; the adjacent possible explains when and why an innovation first becomes accessible.
+→ [108·Exploration vs. Exploitation](exploration-vs-exploitation.md) — exploration is the active search through the adjacent possible for next innovations; the adjacent possible defines the boundary of productive exploration.
+→ [106·Analogical Reasoning](../General-Thinking/analogical-reasoning.md) — analogical reasoning expands the adjacent possible by making solutions developed in distant domains available to import, effectively opening new doors without passing through all intermediate rooms.
+→ [112·Disruptive Innovation](../Business/disruptive-innovation.md) — disruption often begins at the adjacent possible of entrants, who are positioned (by lower cost structures and different customer focus) adjacent to innovations incumbents cannot reach.
+→ [75·Compounding](../Mathematics/compounding.md) — each step through the adjacent possible compounds: entering a new room doesn't just solve today's problem, it opens new doors unavailable from the previous room. The value of early steps is partly the future steps they make accessible.
+→ [210·Wardley Mapping](../Business/wardley-mapping.md) — Wardley Maps reveal the adjacent possible in strategic terms: components at the Genesis/Custom boundary are where new moves become accessible; Commodity components are closed territory.
 
 ## References
 

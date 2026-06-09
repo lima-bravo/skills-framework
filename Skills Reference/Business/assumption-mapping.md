@@ -42,17 +42,17 @@ A team is planning a new market entry. They list their assumptions and find 35. 
 
 ## Connections
 
-→ [**Business Model Canvas**](business-model-canvas.md) — the canvas is the source document from which assumptions are extracted.
-→ [**MVP**](../Startups/mvp.md) — the MVP is the cheapest device for testing the most critical assumptions.
-→ [**Experiment Ladder**](../Startups/experiment-ladder.md) — assumption mapping defines what to test; the Experiment Ladder selects which type of experiment is appropriate for each assumption class.
-→ [**Experiment Design**](experiment-design.md) — once the experiment type is selected, experiment design defines how to run it validly — hypothesis, success criteria, sample size.
-→ [**Observer Bias**](../Psychology/observer-bias.md) — the assumptions an evaluator holds about a candidate or option are the source of expectation that drives observer bias; surfacing assumptions before evaluation is the upstream intervention.
-→ [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — assumption mapping is Step 3 in this chain; the full sequence shows how to go from idea to a testable hypothesis with kill criteria
-→ [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — the broader diagnostic discipline that surfaces what's known, believed, and unknown about a *situation*; assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortem failure causes typically correspond to critical assumptions that weren't tested; running both surfaces risk from two directions.
-→ [**Business Case Construction**](business-case-construction.md) — the business case's "assumption stack" is the primary output of assumption mapping applied to a financial argument; high-criticality, low-certainty assumptions are the ones to stress-test before submission.
-→ [**Red Teaming**](red-teaming.md) — red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of which beliefs are most critical and least supported.
-→ [**Customer Development**](../Startups/customer-development.md) — customer development produces the evidence that validates or invalidates the critical assumptions surfaced by the map.
+→ [68·Business Model Canvas](business-model-canvas.md) — the canvas is the source document from which assumptions are extracted.
+→ [64·MVP](../Startups/mvp.md) — the MVP is the cheapest device for testing the most critical assumptions.
+→ [189·Experiment Ladder](../Startups/experiment-ladder.md) — assumption mapping defines what to test; the Experiment Ladder selects which type of experiment is appropriate for each assumption class.
+→ [72·Experiment Design](experiment-design.md) — once the experiment type is selected, experiment design defines how to run it validly — hypothesis, success criteria, sample size.
+→ [212·Observer Bias](../Psychology/observer-bias.md) — the assumptions an evaluator holds about a candidate or option are the source of expectation that drives observer bias; surfacing assumptions before evaluation is the upstream intervention.
+→ [213·From Idea to Hypothesis](../Pre-built-Chains/from-idea-to-hypothesis.md) — assumption mapping is Step 3 in this chain; the full sequence shows how to go from idea to a testable hypothesis with kill criteria
+→ [246·Situation Assessment](../Consulting-Craft/situation-assessment.md) — the broader diagnostic discipline that surfaces what's known, believed, and unknown about a *situation*; assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — pre-mortem failure causes typically correspond to critical assumptions that weren't tested; running both surfaces risk from two directions.
+→ [218·Business Case Construction](business-case-construction.md) — the business case's "assumption stack" is the primary output of assumption mapping applied to a financial argument; high-criticality, low-certainty assumptions are the ones to stress-test before submission.
+→ [224·Red Teaming](red-teaming.md) — red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of which beliefs are most critical and least supported.
+→ [66·Customer Development](../Startups/customer-development.md) — customer development produces the evidence that validates or invalidates the critical assumptions surfaced by the map.
 
 ---
 

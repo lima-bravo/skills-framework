@@ -44,11 +44,11 @@ A claims-processing function has cycle time of 14 days against a target of 7. A 
 
 ## Connections
 
-→ [**PDCA**](pdca.md) — A3 is a written form of the Plan-Do-Check-Act cycle.
-→ [**Pyramid Principle**](../Consulting-Craft/pyramid-principle.md) — both demand answer-first compression for executive communication.
-→ [**Post-mortem**](../General-Thinking/post-mortem.md) — incident A3s are the lean equivalent; structure overlaps.
-→ [**Value Stream Mapping**](value-stream-mapping.md) — VSM produces the current-state evidence an A3 builds on.
-→ [**Theory of Change**](../Business/theory-of-change.md) — countermeasures express a theory; A3 is the operational version.
+→ [146·PDCA](pdca.md) — A3 is a written form of the Plan-Do-Check-Act cycle.
+→ [163·Pyramid Principle](../Consulting-Craft/pyramid-principle.md) — both demand answer-first compression for executive communication.
+→ [11·Post-mortem](../General-Thinking/post-mortem.md) — incident A3s are the lean equivalent; structure overlaps.
+→ [139·Value Stream Mapping](value-stream-mapping.md) — VSM produces the current-state evidence an A3 builds on.
+→ [128·Theory of Change](../Business/theory-of-change.md) — countermeasures express a theory; A3 is the operational version.
 
 ---
 

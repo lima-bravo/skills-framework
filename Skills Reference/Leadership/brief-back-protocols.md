@@ -66,12 +66,12 @@ A leader briefs a team to "improve customer retention this quarter" and, pressed
 
 ## Connections
 
-→ [**Leader's Intent**](leaders-intent.md) — Brief-Back Protocols are the verification layer that follows a Leader's Intent briefing; they only function if the intent was structured clearly enough to be checked
-→ [**Mission Command**](mission-command.md) — Brief-Backs are the communication discipline that makes Mission Command operationally reliable; without them, intent communication is assumed rather than verified
-→ [**Psychological Safety**](../Psychology/psychological-safety.md) — teams will only surface honest comprehension gaps and plan concerns if the environment is safe enough to be wrong in front of their leader; psychological safety is the precondition for Brief-Backs to work
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — the Back Brief and the pre-mortem address the same failure (plans that look fine until they meet reality) at the same moment (before execution); they are complementary, not substitutes
-→ [**Three-Question Ritual**](three-question-ritual.md) — the Three-Question Ritual closes meetings at the end; Brief-Back Protocols close the alignment gap at the beginning; together they create a full-cycle communication discipline
-→ [**After-Action Review**](after-action-review.md) — the AAR retroactively surfaces the misalignments that Brief-Backs should have caught; patterns in AAR findings should improve briefing quality
+→ [194·Leader's Intent](leaders-intent.md) — Brief-Back Protocols are the verification layer that follows a Leader's Intent briefing; they only function if the intent was structured clearly enough to be checked
+→ [118·Mission Command](mission-command.md) — Brief-Backs are the communication discipline that makes Mission Command operationally reliable; without them, intent communication is assumed rather than verified
+→ [104·Psychological Safety](../Psychology/psychological-safety.md) — teams will only surface honest comprehension gaps and plan concerns if the environment is safe enough to be wrong in front of their leader; psychological safety is the precondition for Brief-Backs to work
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the Back Brief and the pre-mortem address the same failure (plans that look fine until they meet reality) at the same moment (before execution); they are complementary, not substitutes
+→ [190·Three-Question Ritual](three-question-ritual.md) — the Three-Question Ritual closes meetings at the end; Brief-Back Protocols close the alignment gap at the beginning; together they create a full-cycle communication discipline
+→ [196·After-Action Review](after-action-review.md) — the AAR retroactively surfaces the misalignments that Brief-Backs should have caught; patterns in AAR findings should improve briefing quality
 
 ## References
 

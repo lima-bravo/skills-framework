@@ -42,9 +42,9 @@ A startup surveys customers who have been active in the last 30 days about their
 
 ## Connections
 
-→ [**Randomness**](randomness.md) — sampling quality determines how much of the variation you observe is signal vs. noise.
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — valid probability estimates require valid sampling.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — convenience sampling often produces confirmation bias at the data collection stage.
+→ [78·Randomness](randomness.md) — sampling quality determines how much of the variation you observe is signal vs. noise.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — valid probability estimates require valid sampling.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — convenience sampling often produces confirmation bias at the data collection stage.
 ## References
 
 - *How to Lie with Statistics* — Darrell Huff (1954) — the classic guide to sampling biases and how they produce misleading conclusions.

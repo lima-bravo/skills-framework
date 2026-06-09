@@ -52,15 +52,15 @@ By the time the planning meeting happens, the CFO is a confirmed advocate, the H
 
 ## Connections
 
-→ [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — the analytical precursor: this card answers "who matters and how much"; pre-wiring answers "what do I do about that, in what order, saying what."
-→ [**Power Mapping**](../Business/power-mapping.md) — the influence-network view that should drive the *sequencing* of pre-wire conversations — talk to the people whose support changes how others receive the message.
-→ [**Influence Without Authority**](../Leadership/influence-without-authority.md) — the broader discipline of moving people toward a position without formal power to compel them; pre-wiring is that discipline applied specifically to the run-up to a decision meeting.
-→ [**Coalition Building**](../Leadership/coalition-building.md) — the multi-stakeholder version of pre-wiring: securing early allies whose support changes the calculus for everyone who comes after them.
-→ [**Psychological Safety**](../Psychology/psychological-safety.md) — the condition that makes a one-on-one pre-wire conversation actually surface a real objection rather than a polite, performed agreement that resurfaces — unresolved — in the room.
-→ [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — once someone has voiced a position privately and had it heard, they are far more likely to hold a consistent, considered position in the room — which is exactly why surfacing resistance early changes how it shows up later.
-→ [**Pyramid Principle**](pyramid-principle.md) — the structure for the formal recommendation; pre-wiring is what ensures the room receiving that structure is already disposed to agree with where it lands.
-→ [**Facilitation**](facilitation.md) — pre-wiring builds alignment before the room; facilitation builds it in the room. Both are needed for high-stakes decisions; pre-wiring without facilitation surfaces alignment gaps that were already known but not named.
-→ [**Coaching Stance**](coaching-stance.md) — pre-wiring is easier when the client has been built to diagnose with you rather than waiting for your answer; coaching stance creates the conditions for genuine alignment rather than performed agreement.
+→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — the analytical precursor: this card answers "who matters and how much"; pre-wiring answers "what do I do about that, in what order, saying what."
+→ [220·Power Mapping](../Business/power-mapping.md) — the influence-network view that should drive the *sequencing* of pre-wire conversations — talk to the people whose support changes how others receive the message.
+→ [221·Influence Without Authority](../Leadership/influence-without-authority.md) — the broader discipline of moving people toward a position without formal power to compel them; pre-wiring is that discipline applied specifically to the run-up to a decision meeting.
+→ [222·Coalition Building](../Leadership/coalition-building.md) — the multi-stakeholder version of pre-wiring: securing early allies whose support changes the calculus for everyone who comes after them.
+→ [104·Psychological Safety](../Psychology/psychological-safety.md) — the condition that makes a one-on-one pre-wire conversation actually surface a real objection rather than a polite, performed agreement that resurfaces — unresolved — in the room.
+→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — once someone has voiced a position privately and had it heard, they are far more likely to hold a consistent, considered position in the room — which is exactly why surfacing resistance early changes how it shows up later.
+→ [163·Pyramid Principle](pyramid-principle.md) — the structure for the formal recommendation; pre-wiring is what ensures the room receiving that structure is already disposed to agree with where it lands.
+→ [259·Facilitation](facilitation.md) — pre-wiring builds alignment before the room; facilitation builds it in the room. Both are needed for high-stakes decisions; pre-wiring without facilitation surfaces alignment gaps that were already known but not named.
+→ [258·Coaching Stance](coaching-stance.md) — pre-wiring is easier when the client has been built to diagnose with you rather than waiting for your answer; coaching stance creates the conditions for genuine alignment rather than performed agreement.
 
 ---
 

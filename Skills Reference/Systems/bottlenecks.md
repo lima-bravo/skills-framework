@@ -43,20 +43,20 @@ An engineering team complains they can't ship fast enough. The diagnosis: pull r
 
 ## Connections
 
-→ [**Feedback Loops**](feedback-loops.md) — the bottleneck often sits where a balancing feedback loop operates most tightly.
-→ [**Algorithms**](algorithms.md) — scheduling algorithms are explicitly designed to route work around bottlenecks.
-→ [**Scale**](scale.md) — as organizations scale, the bottleneck migrates; strategic planning requires anticipating the next constraint.
-→ [**Growth Barriers**](../Business/growth-barriers.md) — the same constraint logic applied specifically to a stalled growth system: find the binding constraint in the acquisition-to-expansion chain before pulling levers elsewhere.
-→ [**Technical Debt**](../Delivery-and-Flow/technical-debt.md) — accumulated technical debt increases the unit cost of every change processed through the constraint; it is one of the most common hidden causes of a delivery bottleneck.
-→ [**Fixes That Fail**](fixes-that-fail.md) — adding capacity at non-bottleneck points is a classic symptomatic fix that relieves local pressure without improving system throughput.
-→ [**Churn**](churn.md) — in a growth system, churn is often the binding constraint on net growth; treating acquisition as the bottleneck when churn is the true constraint is a misidentification.
-→ [**Conway's Law**](conways-law.md) — system integration points between teams are common bottlenecks; Conway's Law explains why: the interface quality tracks the team relationship quality.
-→ [**Scarcity**](../Economics/scarcity.md) — the bottleneck is the point of maximum scarcity in a process; bottleneck management is the operational discipline for allocating the scarcest resource.
-→ [**Leverage**](../Physics-and-Chemistry/leverage.md) — applying leverage to bottlenecks produces the highest system-wide return; the bottleneck is where leverage compounds most powerfully.
-→ [**Velocity**](../Physics-and-Chemistry/velocity.md) — bottlenecks reduce speed; directional confusion reduces velocity even when throughput is high.
-→ [**Catalysts**](../Physics-and-Chemistry/catalysts.md) — catalysts are most valuable when applied to the bottleneck; the same enabling investment at the constraint produces system-wide returns.
-→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — fragmented calendars make attention the binding bottleneck for makers; the scheduling structure is the constraint to elevate.
-→ [**KPI Architecture**](../Business/kpi-architecture.md) — the driver-tree logic underneath KPI architecture is the same constraint-tracing logic: find the binding link in the chain, instrument it, and stop measuring what doesn't move the system.
+→ [17·Feedback Loops](feedback-loops.md) — the bottleneck often sits where a balancing feedback loop operates most tightly.
+→ [26·Algorithms](algorithms.md) — scheduling algorithms are explicitly designed to route work around bottlenecks.
+→ [21·Scale](scale.md) — as organizations scale, the bottleneck migrates; strategic planning requires anticipating the next constraint.
+→ [247·Growth Barriers](../Business/growth-barriers.md) — the same constraint logic applied specifically to a stalled growth system: find the binding constraint in the acquisition-to-expansion chain before pulling levers elsewhere.
+→ [255·Technical Debt](../Delivery-and-Flow/technical-debt.md) — accumulated technical debt increases the unit cost of every change processed through the constraint; it is one of the most common hidden causes of a delivery bottleneck.
+→ [260·Fixes That Fail](fixes-that-fail.md) — adding capacity at non-bottleneck points is a classic symptomatic fix that relieves local pressure without improving system throughput.
+→ [25·Churn](churn.md) — in a growth system, churn is often the binding constraint on net growth; treating acquisition as the bottleneck when churn is the true constraint is a misidentification.
+→ [28·Conway's Law](conways-law.md) — system integration points between teams are common bottlenecks; Conway's Law explains why: the interface quality tracks the team relationship quality.
+→ [31·Scarcity](../Economics/scarcity.md) — the bottleneck is the point of maximum scarcity in a process; bottleneck management is the operational discipline for allocating the scarcest resource.
+→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — applying leverage to bottlenecks produces the highest system-wide return; the bottleneck is where leverage compounds most powerfully.
+→ [42·Velocity](../Physics-and-Chemistry/velocity.md) — bottlenecks reduce speed; directional confusion reduces velocity even when throughput is high.
+→ [47·Catalysts](../Physics-and-Chemistry/catalysts.md) — catalysts are most valuable when applied to the bottleneck; the same enabling investment at the constraint produces system-wide returns.
+→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — fragmented calendars make attention the binding bottleneck for makers; the scheduling structure is the constraint to elevate.
+→ [250·KPI Architecture](../Business/kpi-architecture.md) — the driver-tree logic underneath KPI architecture is the same constraint-tracing logic: find the binding link in the chain, instrument it, and stop measuring what doesn't move the system.
 
 ---
 

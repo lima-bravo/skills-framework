@@ -42,9 +42,9 @@ A consulting firm's presentations suffer from slide decks with 40 uniformly form
 
 ## Connections
 
-→ [**Framing**](framing.md) — contrast is often used to establish the frame (current state vs. desired state, problem vs. solution).
-→ [**Audience**](audience.md) — what constitutes meaningful contrast depends on the audience's context and knowledge.
-→ [**Rhythm**](rhythm.md) — contrast is the mechanism that creates variety within rhythm; the two work together.
+→ [91·Framing](framing.md) — contrast is often used to establish the frame (current state vs. desired state, problem vs. solution).
+→ [90·Audience](audience.md) — what constitutes meaningful contrast depends on the audience's context and knowledge.
+→ [93·Rhythm](rhythm.md) — contrast is the mechanism that creates variety within rhythm; the two work together.
 ## References
 
 - *Art and Visual Perception: A Psychology of the Creative Eye* — Rudolf Arnheim (1954) — the Gestalt principles of perceptual contrast as the foundation of visual hierarchy.

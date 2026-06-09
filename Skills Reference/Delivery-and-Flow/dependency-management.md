@@ -44,11 +44,11 @@ A 30-team delivery program runs quarterly big-room planning. Each quarter, ~40% 
 
 ## Connections
 
-→ [**Team Topologies**](team-topologies.md) — the org-design discipline that reduces dependencies structurally.
-→ [**Conway's Law**](../Systems/conways-law.md) — dependencies follow team boundaries.
-→ [**Inverse Conway Maneuver**](inverse-conway.md) — deliberately reshape teams to remove dependencies.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — high-fan-in teams are scaled-delivery bottlenecks.
-→ [**Leverage**](../Physics-and-Chemistry/leverage.md) — internal platforms are the leverage mechanism that reduces dependencies structurally.
+→ [154·Team Topologies](team-topologies.md) — the org-design discipline that reduces dependencies structurally.
+→ [28·Conway's Law](../Systems/conways-law.md) — dependencies follow team boundaries.
+→ [155·Inverse Conway Maneuver](inverse-conway.md) — deliberately reshape teams to remove dependencies.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — high-fan-in teams are scaled-delivery bottlenecks.
+→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — internal platforms are the leverage mechanism that reduces dependencies structurally.
 
 ---
 

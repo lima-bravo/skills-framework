@@ -42,9 +42,9 @@ A data scientist builds deep expertise in machine learning (vertical). Over five
 
 ## Connections
 
-→ [**Model Chaining**](model-chaining.md) — T-shaped breadth is the raw material for model chaining.
-→ [**Specialization**](../Economics/specialization.md) — the T is the individual-level application of specialization with deliberate breadth.
-→ [**Alloying**](../Physics-and-Chemistry/alloying.md) — the T-shape is an alloy: depth provides the vertical, breadth enables the horizontal cross-domain connections.
+→ [86·Model Chaining](model-chaining.md) — T-shaped breadth is the raw material for model chaining.
+→ [32·Specialization](../Economics/specialization.md) — the T is the individual-level application of specialization with deliberate breadth.
+→ [48·Alloying](../Physics-and-Chemistry/alloying.md) — the T-shape is an alloy: depth provides the vertical, breadth enables the horizontal cross-domain connections.
 ## References
 
 - *Range: Why Generalists Triumph in a Specialized World* — David Epstein (2019) — the empirical case for breadth (the T's crossbar) as the foundation for deep expertise.

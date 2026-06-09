@@ -43,12 +43,12 @@ Reddit's early growth strategy was to create fake accounts and post content them
 
 ## Connections
 
-→ [**Network Effects**](../Network-Effects/network-effects.md) — network effects describe the dynamics above critical mass.
-→ [**Feedback Loops**](feedback-loops.md) — the self-reinforcing dynamic above critical mass is a reinforcing feedback loop.
-→ [**Viral Growth**](../Network-Effects/viral-growth.md) — viral coefficient above 1 is the mechanism by which critical mass, once approached, is crossed.
-→ [**Emergence**](emergence.md) — many emergent phenomena require a critical mass of interactions before the system-level property materialises.
-→ [**Scale**](scale.md) — critical mass is a specific threshold in a scale curve: the point at which a scale effect activates or a network becomes self-sustaining.
-→ [**S-Curves**](s-curves.md) — the inflection point of an S-curve often coincides with reaching critical mass: the moment adoption accelerates under its own momentum.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — network effects describe the dynamics above critical mass.
+→ [17·Feedback Loops](feedback-loops.md) — the self-reinforcing dynamic above critical mass is a reinforcing feedback loop.
+→ [83·Viral Growth](../Network-Effects/viral-growth.md) — viral coefficient above 1 is the mechanism by which critical mass, once approached, is crossed.
+→ [19·Emergence](emergence.md) — many emergent phenomena require a critical mass of interactions before the system-level property materialises.
+→ [21·Scale](scale.md) — critical mass is a specific threshold in a scale curve: the point at which a scale effect activates or a network becomes self-sustaining.
+→ [102·S-Curves](s-curves.md) — the inflection point of an S-curve often coincides with reaching critical mass: the moment adoption accelerates under its own momentum.
 
 ## References
 

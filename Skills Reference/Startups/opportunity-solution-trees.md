@@ -60,12 +60,12 @@ A fintech team is accountable for an outcome: increase the percentage of custome
 
 ## Connections
 
-→ [**Jobs to Be Done**](jobs-to-be-done.md) — JTBD framing is the primary method for deriving well-formed opportunities; the tree gives JTBD findings a structure to live in.
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — assumption mapping is the method for identifying which experiments to run at the leaf level of the tree.
-→ [**Build-Measure-Learn**](build-measure-learn.md) — the BML cycle operates at the experiment level of the tree; the tree gives each cycle a context and a connection to a broader learning agenda.
-→ [**Continuous Discovery**](continuous-discovery.md) — continuous discovery is the practice that keeps the opportunity level of the tree current; the tree is the artifact that discovery populates.
-→ [**Divergent and Convergent Thinking**](../General-Thinking/divergent-and-convergent-thinking.md) — the tree enforces divergence at the opportunity and solution levels before convergence at the experiment level; it is a structural implementation of the diverge-converge discipline.
-→ [**Innovation Funnel**](../Business/innovation-funnel.md) — the OST operates inside the funnel; it is the tool that makes the funnel a learning accelerator rather than a filter.
+→ [103·Jobs to Be Done](jobs-to-be-done.md) — JTBD framing is the primary method for deriving well-formed opportunities; the tree gives JTBD findings a structure to live in.
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — assumption mapping is the method for identifying which experiments to run at the leaf level of the tree.
+→ [63·Build-Measure-Learn](build-measure-learn.md) — the BML cycle operates at the experiment level of the tree; the tree gives each cycle a context and a connection to a broader learning agenda.
+→ [182·Continuous Discovery](continuous-discovery.md) — continuous discovery is the practice that keeps the opportunity level of the tree current; the tree is the artifact that discovery populates.
+→ [107·Divergent and Convergent Thinking](../General-Thinking/divergent-and-convergent-thinking.md) — the tree enforces divergence at the opportunity and solution levels before convergence at the experiment level; it is a structural implementation of the diverge-converge discipline.
+→ [70·Innovation Funnel](../Business/innovation-funnel.md) — the OST operates inside the funnel; it is the tool that makes the funnel a learning accelerator rather than a filter.
 ## References
 
 - *Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value* — Teresa Torres (2021) — the source text for the Opportunity Solution Tree framework.

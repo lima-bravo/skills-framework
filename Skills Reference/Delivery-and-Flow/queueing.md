@@ -43,11 +43,11 @@ An enterprise architecture review board reports 95% reviewer utilization and is 
 
 ## Connections
 
-→ [**Little's Law**](littles-law.md) — Little's Law is the steady-state arithmetic; queueing theory explains the dynamics.
-→ [**Flow Efficiency**](flow-efficiency.md) — flow efficiency is the operational metric that surfaces queueing pathology.
-→ [**Statistical Variability**](statistical-variability.md) — variability is the multiplier on queueing wait time.
-→ [**Batch Size Reduction**](batch-size-reduction.md) — large batches are a primary source of variability.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — queues form upstream of bottlenecks; finding the longest queue locates the constraint.
+→ [131·Little's Law](littles-law.md) — Little's Law is the steady-state arithmetic; queueing theory explains the dynamics.
+→ [133·Flow Efficiency](flow-efficiency.md) — flow efficiency is the operational metric that surfaces queueing pathology.
+→ [140·Statistical Variability](statistical-variability.md) — variability is the multiplier on queueing wait time.
+→ [136·Batch Size Reduction](batch-size-reduction.md) — large batches are a primary source of variability.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — queues form upstream of bottlenecks; finding the longest queue locates the constraint.
 
 ---
 

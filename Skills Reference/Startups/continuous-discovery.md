@@ -60,12 +60,12 @@ Spotify's product squads operate a continuous discovery model in which each squa
 
 ## Connections
 
-→ [**Opportunity Solution Trees**](opportunity-solution-trees.md) — the OST is the artifact that continuous discovery populates; interviews update the opportunity level of the tree.
-→ [**Jobs to Be Done**](jobs-to-be-done.md) — the continuous interview format is structured around JTBD: what job is the customer trying to accomplish, what triggers it, what gets in the way?
-→ [**Build-Measure-Learn**](build-measure-learn.md) — continuous discovery runs upstream of the BML cycle; it continuously generates the opportunities and hypotheses that BML cycles test.
-→ [**Design Thinking**](design-thinking.md) — the empathize phase of design thinking is continuous discovery done once at the start of a project; continuous discovery makes empathy an ongoing practice rather than a phase.
-→ [**Customer Development**](customer-development.md) — customer development (Steve Blank) is the project-level methodology; continuous discovery is the always-on practice that sustains customer understanding after the initial development stage.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — continuous discovery installs a reinforcing feedback loop between customer reality and product decisions; the loop is the mechanism that prevents the team from drifting away from what customers need.
+→ [180·Opportunity Solution Trees](opportunity-solution-trees.md) — the OST is the artifact that continuous discovery populates; interviews update the opportunity level of the tree.
+→ [103·Jobs to Be Done](jobs-to-be-done.md) — the continuous interview format is structured around JTBD: what job is the customer trying to accomplish, what triggers it, what gets in the way?
+→ [63·Build-Measure-Learn](build-measure-learn.md) — continuous discovery runs upstream of the BML cycle; it continuously generates the opportunities and hypotheses that BML cycles test.
+→ [110·Design Thinking](design-thinking.md) — the empathize phase of design thinking is continuous discovery done once at the start of a project; continuous discovery makes empathy an ongoing practice rather than a phase.
+→ [66·Customer Development](customer-development.md) — customer development (Steve Blank) is the project-level methodology; continuous discovery is the always-on practice that sustains customer understanding after the initial development stage.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — continuous discovery installs a reinforcing feedback loop between customer reality and product decisions; the loop is the mechanism that prevents the team from drifting away from what customers need.
 ## References
 
 - *Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value* — Teresa Torres (2021) — the source text for the weekly cadence discovery practice and opportunity solution trees.

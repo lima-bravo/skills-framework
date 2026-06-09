@@ -44,15 +44,15 @@ A retailer's CFO asks why operating margin is down 3 points. A first analyst res
 
 ## Connections
 
-→ [**Hypothesis-Driven Consulting**](hypothesis-driven.md) — MECE provides the structure for sub-hypotheses.
-→ [**Pyramid Principle**](pyramid-principle.md) — supporting points at each level should be MECE.
-→ [**First Principles**](../General-Thinking/first-principles.md) — MECE problem statements often reveal the first principles structure.
-→ [**Socratic Thinking**](../General-Thinking/socratic-thinking.md) — issue trees decompose problems by structured questioning; MECE is the shape of good questions.
-→ [**Trade-offs**](../Economics/trade-offs.md) — trade-off analysis requires MECE alternatives.
-→ [**Situation Assessment**](situation-assessment.md) — the six-lens current-state scan is only diagnostic if its lenses are MECE; overlapping categories hide where the real issue sits.
-→ [**Customer Segmentation**](../Business/customer-segmentation.md) — a worked application of MECE to a strategic-grouping problem: segments that overlap or leave gaps cannot drive a clean targeting or pricing decision.
-→ [**Structured Problem Solving**](structured-problem-solving.md) — MECE as one of five components of an integrated operating posture, not a standalone technique.
-→ [**Playing to Win**](../Business/playing-to-win.md) — the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation that would leave the cascade internally inconsistent.
+→ [161·Hypothesis-Driven Consulting](hypothesis-driven.md) — MECE provides the structure for sub-hypotheses.
+→ [163·Pyramid Principle](pyramid-principle.md) — supporting points at each level should be MECE.
+→ [0·First Principles](../General-Thinking/first-principles.md) — MECE problem statements often reveal the first principles structure.
+→ [9·Socratic Thinking](../General-Thinking/socratic-thinking.md) — issue trees decompose problems by structured questioning; MECE is the shape of good questions.
+→ [30·Trade-offs](../Economics/trade-offs.md) — trade-off analysis requires MECE alternatives.
+→ [246·Situation Assessment](situation-assessment.md) — the six-lens current-state scan is only diagnostic if its lenses are MECE; overlapping categories hide where the real issue sits.
+→ [249·Customer Segmentation](../Business/customer-segmentation.md) — a worked application of MECE to a strategic-grouping problem: segments that overlap or leave gaps cannot drive a clean targeting or pricing decision.
+→ [253·Structured Problem Solving](structured-problem-solving.md) — MECE as one of five components of an integrated operating posture, not a standalone technique.
+→ [254·Playing to Win](../Business/playing-to-win.md) — the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation that would leave the cascade internally inconsistent.
 
 ---
 

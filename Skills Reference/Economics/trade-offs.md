@@ -43,13 +43,13 @@ A product team has three months before a major launch. They can ship a feature-c
 
 ## Connections
 
-→ [**Scarcity**](scarcity.md) — trade-offs exist because scarcity makes it impossible to have everything; remove scarcity and the trade-off dissolves.
-→ [**Optimization**](optimization.md) — optimization is the formal approach to finding the best point on the trade-off frontier.
-→ [**Specialization**](specialization.md) — specialization is a trade-off resolution: choosing to go deep in one area requires trading away breadth in others.
-→ [**Debt**](debt.md) — taking on debt is an explicit trade-off between present capability and future flexibility.
-→ [**Sunk Cost**](../Psychology/sunk-cost.md) — sunk cost blindness prevents recognising the opportunity cost of continuing a failing investment; past spending is not a forward-looking factor in the trade-off.
-→ [**Kernel of Good Strategy**](../Business/kernel-of-strategy.md) — strategy is the structured form of trade-off reasoning: the guiding policy names which trade-offs to accept, and coherent action executes them consistently rather than accommodating every priority.
-→ [**Playing to Win**](../Business/playing-to-win.md) — the how-to-win choice in the cascade is explicitly a trade-off; Playing to Win provides the structure that connects that trade-off to capabilities and management systems.
+→ [31·Scarcity](scarcity.md) — trade-offs exist because scarcity makes it impossible to have everything; remove scarcity and the trade-off dissolves.
+→ [33·Optimization](optimization.md) — optimization is the formal approach to finding the best point on the trade-off frontier.
+→ [32·Specialization](specialization.md) — specialization is a trade-off resolution: choosing to go deep in one area requires trading away breadth in others.
+→ [36·Debt](debt.md) — taking on debt is an explicit trade-off between present capability and future flexibility.
+→ [53·Sunk Cost](../Psychology/sunk-cost.md) — sunk cost blindness prevents recognising the opportunity cost of continuing a failing investment; past spending is not a forward-looking factor in the trade-off.
+→ [166·Kernel of Good Strategy](../Business/kernel-of-strategy.md) — strategy is the structured form of trade-off reasoning: the guiding policy names which trade-offs to accept, and coherent action executes them consistently rather than accommodating every priority.
+→ [254·Playing to Win](../Business/playing-to-win.md) — the how-to-win choice in the cascade is explicitly a trade-off; Playing to Win provides the structure that connects that trade-off to capabilities and management systems.
 
 ---
 

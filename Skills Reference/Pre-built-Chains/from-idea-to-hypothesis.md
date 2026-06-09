@@ -98,16 +98,16 @@ This card is the input to the Crawl / Walk / Run chain and the standing record o
 
 ## Connections
 
-→ [**Funnel Intake**](funnel-intake.md) — the chain that precedes this one; enriches the idea via First Principles + JTBD and runs a strategic fit gate before assumption mapping begins
-→ [**Innovation Funnel**](../Business/innovation-funnel.md) — the pipeline this chain operates within; funnel stage determines the appropriate level of hypothesis rigour
-→ [**Opportunity Solution Trees**](../Startups/opportunity-solution-trees.md) — the framework for tracing ideas back to customer outcomes
-→ [**Jobs to Be Done**](../Startups/jobs-to-be-done.md) — anchors the opportunity to the functional and emotional job the customer is hiring for
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — the tool for surfacing and prioritising the belief stack
-→ [**Falsification**](../Psychology/falsification.md) — the discipline that converts assumptions into testable predictions
-→ [**WSJF**](../Delivery-and-Flow/wsjf.md) — the sequencing rule for deciding which hypothesis to run first
-→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — the commitment that makes experiments meaningful
-→ [**Experiment Design**](../Business/experiment-design.md) — the method for specifying the minimum test
-→ [**Crawl / Walk / Run**](crawl-walk-run.md) — the chain that takes over from here
+→ [245·Funnel Intake](funnel-intake.md) — the chain that precedes this one; enriches the idea via First Principles + JTBD and runs a strategic fit gate before assumption mapping begins
+→ [70·Innovation Funnel](../Business/innovation-funnel.md) — the pipeline this chain operates within; funnel stage determines the appropriate level of hypothesis rigour
+→ [180·Opportunity Solution Trees](../Startups/opportunity-solution-trees.md) — the framework for tracing ideas back to customer outcomes
+→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — anchors the opportunity to the functional and emotional job the customer is hiring for
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — the tool for surfacing and prioritising the belief stack
+→ [204·Falsification](../Psychology/falsification.md) — the discipline that converts assumptions into testable predictions
+→ [159·WSJF](../Delivery-and-Flow/wsjf.md) — the sequencing rule for deciding which hypothesis to run first
+→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — the commitment that makes experiments meaningful
+→ [72·Experiment Design](../Business/experiment-design.md) — the method for specifying the minimum test
+→ [214·Crawl / Walk / Run](crawl-walk-run.md) — the chain that takes over from here
 
 ---
 

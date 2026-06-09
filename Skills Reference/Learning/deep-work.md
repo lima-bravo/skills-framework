@@ -37,14 +37,14 @@ Once the deep work capacity is exhausted, the hours remaining produce output tha
 A product manager plans a 4-week sprint for 6 engineers. Conventional capacity: 6 × 4 × 5 × 8 = 960 person-hours. Realistic deep work capacity: 6 × 4 × 5 × 3.5 = 420 hours — less than half, before meetings. If engineers average 2 hours of meetings per day, usable deep work drops to roughly 1.5 hours each: 6 × 4 × 5 × 1.5 = 180 hours. A backlog sized against 960 hours will fail regardless of effort. Resizing to 160–180 hours produces a plan that matches reality.
 
 ## Connections
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — human cognitive capacity is the binding constraint
-→ [**Diminishing Returns**](../Systems/diminishing-returns.md) — after the deep work threshold, output quality degrades rapidly
-→ [**Scarcity**](../Economics/scarcity.md) — directed attention is the scarce resource in knowledge work
-→ [**Five-Hour Rule**](five-hour-rule.md) — deliberate learning draws from the same cognitive capacity pool
-→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — the scheduling structure that preserves or destroys deep work time
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — cognitive limits are among the most underestimated planning constraints
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — capacity plans must include buffer for depletion and unplanned work
-→ [**Activation Energy**](../Physics-and-Chemistry/activation-energy.md) — every interruption resets the cognitive cost of re-entering deep focus
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — human cognitive capacity is the binding constraint
+→ [23·Diminishing Returns](../Systems/diminishing-returns.md) — after the deep work threshold, output quality degrades rapidly
+→ [31·Scarcity](../Economics/scarcity.md) — directed attention is the scarce resource in knowledge work
+→ [88·Five-Hour Rule](five-hour-rule.md) — deliberate learning draws from the same cognitive capacity pool
+→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — the scheduling structure that preserves or destroys deep work time
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — cognitive limits are among the most underestimated planning constraints
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — capacity plans must include buffer for depletion and unplanned work
+→ [45·Activation Energy](../Physics-and-Chemistry/activation-energy.md) — every interruption resets the cognitive cost of re-entering deep focus
 
 ---
 *Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*

@@ -45,11 +45,11 @@ A management team wants to shift from a hierarchical to a flat decision-making c
 
 ## Connections
 
-→ [**Feedback Loops**](feedback-loops.md) — equilibrium is maintained by balancing feedback loops; it is disrupted by reinforcing ones.
-→ [**Activation Energy**](../Physics-and-Chemistry/activation-energy.md) — shifting between equilibria requires an energy input to overcome the barrier between them.
-→ [**Creative Destruction**](../Economics/creative-destruction.md) — industry equilibria are periodically disrupted; understanding the mechanism of disruption is the creative destruction mental model.
-→ [**Red Queen Dilemma**](red-queen-dilemma.md) — Red Queen dynamics maintain a competitive equilibrium in which all parties improve but relative positions stay constant.
-→ [**Inertia**](../Physics-and-Chemistry/inertia.md) — inertia is the mechanism that maintains equilibrium; disrupting equilibrium requires overcoming inertia.
+→ [17·Feedback Loops](feedback-loops.md) — equilibrium is maintained by balancing feedback loops; it is disrupted by reinforcing ones.
+→ [45·Activation Energy](../Physics-and-Chemistry/activation-energy.md) — shifting between equilibria requires an energy input to overcome the barrier between them.
+→ [37·Creative Destruction](../Economics/creative-destruction.md) — industry equilibria are periodically disrupted; understanding the mechanism of disruption is the creative destruction mental model.
+→ [29·Red Queen Dilemma](red-queen-dilemma.md) — Red Queen dynamics maintain a competitive equilibrium in which all parties improve but relative positions stay constant.
+→ [43·Inertia](../Physics-and-Chemistry/inertia.md) — inertia is the mechanism that maintains equilibrium; disrupting equilibrium requires overcoming inertia.
 
 ## References
 

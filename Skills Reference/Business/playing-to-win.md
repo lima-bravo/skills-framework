@@ -46,11 +46,11 @@ A B2B software firm's strategy process produces a comprehensive plan: winning as
 
 ## Connections
 
-→ [**Kernel of Good Strategy**](kernel-of-strategy.md) — Rumelt's kernel and the Playing to Win cascade address the same question from different angles; Rumelt focuses on naming the diagnosis and guiding policy, Martin/Lafley on ensuring the five choices reinforce each other.
-→ [**Trade-offs**](../Economics/trade-offs.md) — the how-to-win choice is a trade-off; the cascade makes explicit which trade-off is being made and why.
-→ [**Wardley Mapping**](wardley-mapping.md) — a Wardley Map sharpens the where-to-play choice by revealing which components are commoditizing and which remain differentiating.
-→ [**MECE**](../Consulting-Craft/mece.md) — the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation.
-→ [**Portfolio Map**](portfolio-map.md) — portfolio decisions flow from where-to-play; the cascade makes the linkage explicit rather than leaving it implicit.
+→ [166·Kernel of Good Strategy](kernel-of-strategy.md) — Rumelt's kernel and the Playing to Win cascade address the same question from different angles; Rumelt focuses on naming the diagnosis and guiding policy, Martin/Lafley on ensuring the five choices reinforce each other.
+→ [30·Trade-offs](../Economics/trade-offs.md) — the how-to-win choice is a trade-off; the cascade makes explicit which trade-off is being made and why.
+→ [210·Wardley Mapping](wardley-mapping.md) — a Wardley Map sharpens the where-to-play choice by revealing which components are commoditizing and which remain differentiating.
+→ [162·MECE](../Consulting-Craft/mece.md) — the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation.
+→ [71·Portfolio Map](portfolio-map.md) — portfolio decisions flow from where-to-play; the cascade makes the linkage explicit rather than leaving it implicit.
 
 ---
 

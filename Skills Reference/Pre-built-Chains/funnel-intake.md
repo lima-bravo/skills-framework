@@ -97,13 +97,13 @@ Ideas that receive an "intake decision: proceed" are handed directly to Chain 21
 
 ## Connections
 
-→ [**First Principles**](../General-Thinking/first-principles.md) — Step 1; strips the idea from analogy to mechanism
-→ [**Jobs to Be Done**](../Startups/jobs-to-be-done.md) — Step 2; anchors the mechanism to an active customer job
-→ [**Three Horizons**](../Business/three-horizons.md) — Step 3A; classifies the idea by horizon and checks funnel/management logic fit
-→ [**Portfolio Map**](../Business/portfolio-map.md) — Step 3A complement; checks whether the portfolio has capacity for a bet at this horizon
-→ [**Kernel of Good Strategy**](../Business/kernel-of-strategy.md) — Step 3B; tests whether the idea serves the central strategic challenge
-→ [**Innovation Funnel**](../Business/innovation-funnel.md) — the pipeline this chain gates into; intake discipline prevents zombies and maintains stage integrity
-→ [**From Idea to Hypothesis**](from-idea-to-hypothesis.md) — the chain that follows; the Enriched Idea Brief is its input document
+→ [0·First Principles](../General-Thinking/first-principles.md) — Step 1; strips the idea from analogy to mechanism
+→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — Step 2; anchors the mechanism to an active customer job
+→ [113·Three Horizons](../Business/three-horizons.md) — Step 3A; classifies the idea by horizon and checks funnel/management logic fit
+→ [71·Portfolio Map](../Business/portfolio-map.md) — Step 3A complement; checks whether the portfolio has capacity for a bet at this horizon
+→ [166·Kernel of Good Strategy](../Business/kernel-of-strategy.md) — Step 3B; tests whether the idea serves the central strategic challenge
+→ [70·Innovation Funnel](../Business/innovation-funnel.md) — the pipeline this chain gates into; intake discipline prevents zombies and maintains stage integrity
+→ [213·From Idea to Hypothesis](from-idea-to-hypothesis.md) — the chain that follows; the Enriched Idea Brief is its input document
 
 ---
 

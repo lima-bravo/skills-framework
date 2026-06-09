@@ -38,11 +38,11 @@ A challenger retailer competing against an incumbent with a slow annual planning
 
 ## Connections
 
-→ [**Mission Command**](mission-command.md) — creates the organisational permission structure for fast OODA cycling
-→ [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — Orient must model what your Act will cause others to do next
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the single biggest degrader of the Orient stage
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — holding multiple orientations in parallel
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — stress-testing the current orientation by running the loop backwards
+→ [118·Mission Command](mission-command.md) — creates the organisational permission structure for fast OODA cycling
+→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — Orient must model what your Act will cause others to do next
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the single biggest degrader of the Orient stage
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — holding multiple orientations in parallel
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — stress-testing the current orientation by running the loop backwards
 
 ## References
 

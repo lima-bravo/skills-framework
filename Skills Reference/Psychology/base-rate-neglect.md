@@ -57,13 +57,13 @@ Armed with the base rate, the team can ask the right question: what specific fea
 
 ## Connections
 
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — base rate neglect is a specific and common failure of probabilistic reasoning; this card operationalises the correction
-→ [**Reference Class Forecasting**](../Delivery-and-Flow/reference-class-forecasting.md) — the formal methodology for applying outside-view base rates to project and investment estimation
-→ [**Planning Fallacy**](planning-fallacy.md) — base rate neglect is one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
-→ [**Survivorship Bias**](survivorship-bias.md) — both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
-→ [**Falsification**](falsification.md) — base rate anchoring is a form of outside-view challenge to inside-view narratives; both practices discipline against uncritical acceptance of the case in front of you
-→ [**Narrative Instinct**](narrative-instinct.md) — the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
-→ [**Calibration**](../General-Thinking/calibration.md) — base rate neglect is the most common source of overconfidence; good calibration requires anchoring on base rates before adjusting for specifics
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — base rate neglect is a specific and common failure of probabilistic reasoning; this card operationalises the correction
+→ [160·Reference Class Forecasting](../Delivery-and-Flow/reference-class-forecasting.md) — the formal methodology for applying outside-view base rates to project and investment estimation
+→ [115·Planning Fallacy](planning-fallacy.md) — base rate neglect is one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
+→ [199·Survivorship Bias](survivorship-bias.md) — both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
+→ [204·Falsification](falsification.md) — base rate anchoring is a form of outside-view challenge to inside-view narratives; both practices discipline against uncritical acceptance of the case in front of you
+→ [203·Narrative Instinct](narrative-instinct.md) — the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
+→ [211·Calibration](../General-Thinking/calibration.md) — base rate neglect is the most common source of overconfidence; good calibration requires anchoring on base rates before adjusting for specifics
 
 ## References
 

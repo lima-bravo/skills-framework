@@ -50,15 +50,15 @@ The correct response would have been: (1) recognise that correlated housing expo
 
 ## Connections
 
-→ [**Power Law**](../Mathematics/power-law.md) — Black Swans are the epistemological face of power law distributions: extreme events that are structurally expected in fat-tailed domains but excluded from normal-distribution risk models.
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — the primary structural response to Black Swan exposure: size buffers not to the expected case but to what the system must survive.
-→ [**Asymmetry/Convexity**](../General-Thinking/asymmetry-convexity.md) — asymmetric positioning is both the defensive and offensive application of Black Swan thinking: cap downside, preserve upside, survive the tail.
-→ [**Expected Value**](../Mathematics/expected-value.md) — standard EV calculation breaks in Black Swan domains: the tail event that dominates outcomes may have near-zero assigned probability, making the calculation systematically wrong.
-→ [**Scenario Planning**](../Business/scenario-planning.md) — scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use scenario planning and Black Swan thinking together, not as substitutes.
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — the pre-mortem is the closest operational tool to Black Swan thinking: imagining failure in advance, including failure modes not in the current plan.
-→ [**Survivorship Bias**](../Psychology/survivorship-bias.md) — survivorship bias compounds the Black Swan problem: we study organisations and strategies that survived, which systematically underrepresents the tail events that destroyed the others.
-→ [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — regression to the mean applies in Mediocristan; in Extremistan, mean reversion is not a reliable assumption and extreme values may persist or compound.
+→ [238·Power Law](../Mathematics/power-law.md) — Black Swans are the epistemological face of power law distributions: extreme events that are structurally expected in fat-tailed domains but excluded from normal-distribution risk models.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — the primary structural response to Black Swan exposure: size buffers not to the expected case but to what the system must survive.
+→ [12·Asymmetry/Convexity](../General-Thinking/asymmetry-convexity.md) — asymmetric positioning is both the defensive and offensive application of Black Swan thinking: cap downside, preserve upside, survive the tail.
+→ [227·Expected Value](../Mathematics/expected-value.md) — standard EV calculation breaks in Black Swan domains: the tail event that dominates outcomes may have near-zero assigned probability, making the calculation systematically wrong.
+→ [123·Scenario Planning](../Business/scenario-planning.md) — scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use scenario planning and Black Swan thinking together, not as substitutes.
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the pre-mortem is the closest operational tool to Black Swan thinking: imagining failure in advance, including failure modes not in the current plan.
+→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — survivorship bias compounds the Black Swan problem: we study organisations and strategies that survived, which systematically underrepresents the tail events that destroyed the others.
+→ [77·Regression to the Mean](../Mathematics/regression-to-the-mean.md) — regression to the mean applies in Mediocristan; in Extremistan, mean reversion is not a reliable assumption and extreme values may persist or compound.
 
 ## References
 

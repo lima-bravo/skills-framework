@@ -55,16 +55,16 @@ Updated estimate: 40% (base rate adjusted upward for specific factors she can po
 
 ## Connections
 
-→ [**Probabilistic Thinking**](probabilistic-thinking.md) — calibration is the goal that probabilistic thinking pursues; thinking in distributions is the method, being calibrated is the standard of success
-→ [**Circle of Competence**](circle-of-competence.md) — the honest map of your circle is the first step toward calibration; overconfident people draw their circles too large
-→ [**Dunning-Kruger**](../Psychology/dunning-kruger.md) — Dunning-Kruger describes the mechanism that produces miscalibration at low competence; calibration is the corrective practice
-→ [**Falsification**](../Psychology/falsification.md) — the habit of seeking disconfirming evidence is the practical expression of calibration; a belief you won't test is a belief with infinite stated confidence
-→ [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the most common source of overconfidence; calibration requires anchoring on base rates before adjusting for specifics
-→ [**Reference Class Forecasting**](../Delivery-and-Flow/reference-class-forecasting.md) — the operational technique for anchoring on base rates in project estimation; calibration is why the technique works
-→ [**After-Action Review**](../Leadership/after-action-review.md) — the learning cycle that generates the outcome data needed to improve calibration over time
-→ [**Observer Bias**](../Psychology/observer-bias.md) — uncorrected observer bias degrades calibration silently; evaluators who systematically favour expected winners build track records that look accurate but are contaminated by their expectations.
-→ [**Business Case Construction**](../Business/business-case-construction.md) — a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive; calibration is what distinguishes analytical from advocacy documents.
-→ [**KPI Architecture**](../Business/kpi-architecture.md) — setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal; calibration is the cognitive discipline behind threshold design.
+→ [7·Probabilistic Thinking](probabilistic-thinking.md) — calibration is the goal that probabilistic thinking pursues; thinking in distributions is the method, being calibrated is the standard of success
+→ [5·Circle of Competence](circle-of-competence.md) — the honest map of your circle is the first step toward calibration; overconfident people draw their circles too large
+→ [57·Dunning-Kruger](../Psychology/dunning-kruger.md) — Dunning-Kruger describes the mechanism that produces miscalibration at low competence; calibration is the corrective practice
+→ [204·Falsification](../Psychology/falsification.md) — the habit of seeking disconfirming evidence is the practical expression of calibration; a belief you won't test is a belief with infinite stated confidence
+→ [206·Base Rate Neglect](../Psychology/base-rate-neglect.md) — the most common source of overconfidence; calibration requires anchoring on base rates before adjusting for specifics
+→ [160·Reference Class Forecasting](../Delivery-and-Flow/reference-class-forecasting.md) — the operational technique for anchoring on base rates in project estimation; calibration is why the technique works
+→ [196·After-Action Review](../Leadership/after-action-review.md) — the learning cycle that generates the outcome data needed to improve calibration over time
+→ [212·Observer Bias](../Psychology/observer-bias.md) — uncorrected observer bias degrades calibration silently; evaluators who systematically favour expected winners build track records that look accurate but are contaminated by their expectations.
+→ [218·Business Case Construction](../Business/business-case-construction.md) — a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive; calibration is what distinguishes analytical from advocacy documents.
+→ [250·KPI Architecture](../Business/kpi-architecture.md) — setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal; calibration is the cognitive discipline behind threshold design.
 
 ---
 

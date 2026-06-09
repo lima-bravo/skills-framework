@@ -45,16 +45,16 @@ A retail chain builds an inventory optimization model that performs excellently 
 
 ## Connections
 
-→ [**First Principles**](first-principles.md) — a method for building better maps from scratch.
-→ [**Probabilistic Thinking**](probabilistic-thinking.md) — maps should carry explicit confidence levels; treating map outputs as certain is the core failure mode.
-→ [**Emergence**](../Systems/emergence.md) — emergent phenomena are definitionally hard to represent on maps because they arise from interactions the map does not capture.
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — the metric-fixation failure mode named in this card; when a map measure becomes a target, the map and territory diverge by design.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — confirmation bias prevents the map from updating when the territory changes; it is the cognitive mechanism behind model lock-in.
-→ [**Ladder of Inference**](ladder-of-inference.md) — the ladder is a detailed account of how maps (beliefs, conclusions) are constructed from territory (data) rung by rung; errors in the climb produce systematically wrong maps.
-→ [**Paradigm Shift**](paradigm-shift.md) — a paradigm is the invisible framework that shapes which maps practitioners draw; paradigm shift is what happens when the framework itself requires replacement, not just a particular map.
-→ [**Algorithms**](../Systems/algorithms.md) — an algorithm is a formalised map of a decision process; its failure modes are precisely the cases where the map diverges from the territory.
-→ [**Irreducibility**](../Systems/irreducibility.md) — irreducible systems resist accurate mapping; any map of them systematically loses essential behavior.
-→ [**Relativity**](../Physics-and-Chemistry/relativity.md) — the reference frame is part of the map; different observers draw different maps of the same territory.
+→ [0·First Principles](first-principles.md) — a method for building better maps from scratch.
+→ [7·Probabilistic Thinking](probabilistic-thinking.md) — maps should carry explicit confidence levels; treating map outputs as certain is the core failure mode.
+→ [19·Emergence](../Systems/emergence.md) — emergent phenomena are definitionally hard to represent on maps because they arise from interactions the map does not capture.
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — the metric-fixation failure mode named in this card; when a map measure becomes a target, the map and territory diverge by design.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — confirmation bias prevents the map from updating when the territory changes; it is the cognitive mechanism behind model lock-in.
+→ [14·Ladder of Inference](ladder-of-inference.md) — the ladder is a detailed account of how maps (beliefs, conclusions) are constructed from territory (data) rung by rung; errors in the climb produce systematically wrong maps.
+→ [188·Paradigm Shift](paradigm-shift.md) — a paradigm is the invisible framework that shapes which maps practitioners draw; paradigm shift is what happens when the framework itself requires replacement, not just a particular map.
+→ [26·Algorithms](../Systems/algorithms.md) — an algorithm is a formalised map of a decision process; its failure modes are precisely the cases where the map diverges from the territory.
+→ [27·Irreducibility](../Systems/irreducibility.md) — irreducible systems resist accurate mapping; any map of them systematically loses essential behavior.
+→ [50·Relativity](../Physics-and-Chemistry/relativity.md) — the reference frame is part of the map; different observers draw different maps of the same territory.
 
 ## References
 

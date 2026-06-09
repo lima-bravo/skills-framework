@@ -43,18 +43,18 @@ An e-commerce team is testing whether a new checkout flow improves conversion. T
 
 ## Connections
 
-→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — experiment design disciplines the "measure" step of the BML cycle.
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — statistical significance and power are applications of probabilistic thinking to experiment design.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — rigorous experiment design is the structural antidote to confirmation bias in analysis.
-→ [**Observer Bias**](../Psychology/observer-bias.md) — a control group is necessary but not sufficient; blinded evaluation ensures assessors cannot unconsciously align measurements with expectations.
-→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — experiment design disciplines every stage of this chain; the chain specifies what question to answer, experiment design specifies how to answer it validly
-→ [**A/B Testing**](ab-testing.md) — A/B testing is the most common operationalisation of experiment design in product and marketing practice; the general principles here govern the specifics there
-→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — in Complex domains, experiments replace analysis as the primary evidence-generating method; Cynefin prescribes when to use safe-to-fail probing over upfront planning.
-→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — the assumptions in a Theory of Change are hypotheses; experiment design is the method for testing them rigorously before the programme commits to scale.
-→ [**Falsification**](../Psychology/falsification.md) — experiment design is the operationalisation of falsification; a good experiment is defined by the conditions under which it would return a negative result.
-→ [**SRK Framework**](../Psychology/srk-framework.md) — novel situations that require knowledge-based reasoning are the ones where structured experiments matter most; SRK identifies which cognitive regime you are in and therefore how much you need experimental evidence before acting.
-→ [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — experiment design provides the formal structure for EPC's adaptation step: when inspection reveals a gap, a well-designed experiment is the disciplined way to test the response before committing.
-→ [**Assumption Mapping**](assumption-mapping.md) — assumption mapping defines which hypotheses to test; experiment design specifies how to test each one validly.
+→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — experiment design disciplines the "measure" step of the BML cycle.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — statistical significance and power are applications of probabilistic thinking to experiment design.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — rigorous experiment design is the structural antidote to confirmation bias in analysis.
+→ [212·Observer Bias](../Psychology/observer-bias.md) — a control group is necessary but not sufficient; blinded evaluation ensures assessors cannot unconsciously align measurements with expectations.
+→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — experiment design disciplines every stage of this chain; the chain specifies what question to answer, experiment design specifies how to answer it validly
+→ [225·A/B Testing](ab-testing.md) — A/B testing is the most common operationalisation of experiment design in product and marketing practice; the general principles here govern the specifics there
+→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — in Complex domains, experiments replace analysis as the primary evidence-generating method; Cynefin prescribes when to use safe-to-fail probing over upfront planning.
+→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — the assumptions in a Theory of Change are hypotheses; experiment design is the method for testing them rigorously before the programme commits to scale.
+→ [204·Falsification](../Psychology/falsification.md) — experiment design is the operationalisation of falsification; a good experiment is defined by the conditions under which it would return a negative result.
+→ [207·SRK Framework](../Psychology/srk-framework.md) — novel situations that require knowledge-based reasoning are the ones where structured experiments matter most; SRK identifies which cognitive regime you are in and therefore how much you need experimental evidence before acting.
+→ [209·Empirical Process Control](../Delivery-and-Flow/empirical-process-control.md) — experiment design provides the formal structure for EPC's adaptation step: when inspection reveals a gap, a well-designed experiment is the disciplined way to test the response before committing.
+→ [73·Assumption Mapping](assumption-mapping.md) — assumption mapping defines which hypotheses to test; experiment design specifies how to test each one validly.
 
 ---
 

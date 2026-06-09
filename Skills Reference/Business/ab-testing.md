@@ -62,14 +62,14 @@ Two weeks later, a senior marketer suggests stopping a new test early because "t
 
 ## Connections
 
-→ [**Experiment Design**](experiment-design.md) — A/B testing is the most common operationalisation of experiment design principles in product and marketing practice; the general principles of hypothesis formation, control conditions, and pre-specified criteria apply directly.
-→ [**Falsification**](../Psychology/falsification.md) — A/B testing is falsification made operational: the test is designed to be capable of producing a negative result, and the result updates a belief.
-→ [**Build-Measure-Learn**](../Innovation-and-Entrepreneurship/build-measure-learn.md) — A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for learning in validated learning cycles.
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results requires comfort with probability, not just outcome metrics.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the peeking problem and HiPPO override are both expressions of confirmation bias corrupting an otherwise valid testing process.
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — optimising for easy-to-measure A/B metrics can violate Goodhart's Law: the metric becomes a target and ceases to be a good measure of what matters.
-→ [**Red Teaming**](red-teaming.md) — where A/B testing stress-tests hypotheses with live evidence during execution, red teaming attacks plans before commitment; the two are complementary tools for different phases of uncertainty reduction.
-→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — A/B testing is the primary instrument at the "walk" stage of this chain: does the solution work well enough at limited scale to justify broader rollout?
+→ [72·Experiment Design](experiment-design.md) — A/B testing is the most common operationalisation of experiment design principles in product and marketing practice; the general principles of hypothesis formation, control conditions, and pre-specified criteria apply directly.
+→ [204·Falsification](../Psychology/falsification.md) — A/B testing is falsification made operational: the test is designed to be capable of producing a negative result, and the result updates a belief.
+→ [63·Build-Measure-Learn](../Innovation-and-Entrepreneurship/build-measure-learn.md) — A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for learning in validated learning cycles.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results requires comfort with probability, not just outcome metrics.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the peeking problem and HiPPO override are both expressions of confirmation bias corrupting an otherwise valid testing process.
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — optimising for easy-to-measure A/B metrics can violate Goodhart's Law: the metric becomes a target and ceases to be a good measure of what matters.
+→ [224·Red Teaming](red-teaming.md) — where A/B testing stress-tests hypotheses with live evidence during execution, red teaming attacks plans before commitment; the two are complementary tools for different phases of uncertainty reduction.
+→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — A/B testing is the primary instrument at the "walk" stage of this chain: does the solution work well enough at limited scale to justify broader rollout?
 
 ---
 

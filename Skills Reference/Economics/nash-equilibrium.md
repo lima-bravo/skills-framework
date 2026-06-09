@@ -48,15 +48,15 @@ Each chain reasons: "If the other holds, I earn more by cutting (£15m vs £10m)
 
 ## Connections
 
-→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — the archetypal Nash Equilibrium where mutual defection is individually rational but collectively catastrophic.
-→ [**Incentives**](../Psychology/incentives.md) — equilibria are determined by the incentive structure; change the incentives and you change the equilibrium.
-→ [**Red Queen Dilemma**](../Systems/red-queen-dilemma.md) — an arms-race dynamic is a Nash Equilibrium in which all players keep escalating because unilateral de-escalation makes them worse off.
-→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — overuse of shared resources is a Nash Equilibrium: each individual's best response is to extract more, regardless of what others do.
-→ [**Schelling Points**](../Economics/schelling-points.md) — when multiple equilibria exist, Schelling Points explain which one players coordinate on without communication.
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — misaligned incentives between principals and agents create equilibria where agents act against the principal's interest.
-→ [**Trust**](../Psychology/trust.md) — trust enables escape from bad equilibria (like the Prisoner's Dilemma) by enabling credible commitments to cooperate.
-→ [**Incentive Design**](incentive-design.md) — incentive design aims to move the equilibrium: make the Nash outcome the collectively desirable one
-→ [**Free Rider Problem**](free-rider-problem.md) — undercontribution is a Nash Equilibrium in public goods games: given uncertainty about others' contributions, not contributing is individually rational.
+→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — the archetypal Nash Equilibrium where mutual defection is individually rational but collectively catastrophic.
+→ [51·Incentives](../Psychology/incentives.md) — equilibria are determined by the incentive structure; change the incentives and you change the equilibrium.
+→ [29·Red Queen Dilemma](../Systems/red-queen-dilemma.md) — an arms-race dynamic is a Nash Equilibrium in which all players keep escalating because unilateral de-escalation makes them worse off.
+→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — overuse of shared resources is a Nash Equilibrium: each individual's best response is to extract more, regardless of what others do.
+→ [236·Schelling Points](../Economics/schelling-points.md) — when multiple equilibria exist, Schelling Points explain which one players coordinate on without communication.
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — misaligned incentives between principals and agents create equilibria where agents act against the principal's interest.
+→ [101·Trust](../Psychology/trust.md) — trust enables escape from bad equilibria (like the Prisoner's Dilemma) by enabling credible commitments to cooperate.
+→ [262·Incentive Design](incentive-design.md) — incentive design aims to move the equilibrium: make the Nash outcome the collectively desirable one
+→ [232·Free Rider Problem](free-rider-problem.md) — undercontribution is a Nash Equilibrium in public goods games: given uncertainty about others' contributions, not contributing is individually rational.
 
 ## References
 

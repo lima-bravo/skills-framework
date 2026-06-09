@@ -36,11 +36,11 @@ The collapses that produced modern governance codes follow one pattern. At Enron
 
 ## Connections
 
-→ [**Principal-Agent Problem**](../Economics/principal-agent-problem.md) — board governance is the institutional architecture for managing owner/executive agency risk
-→ [**Risk Management**](risk-management.md) — the board sets risk appetite and receives assurance that residual risk is within it
-→ [**RACI Framework**](../Business/raci-framework.md) — the board/management boundary is the highest-stakes RACI distinction in the organisation
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — boards that over-rely on quantitative reporting create Goodhart pressure throughout the organisation
-→ [**Organizational Culture**](organizational-culture.md) — the board both reflects and shapes organisational culture
+→ [121·Principal-Agent Problem](../Economics/principal-agent-problem.md) — board governance is the institutional architecture for managing owner/executive agency risk
+→ [126·Risk Management](risk-management.md) — the board sets risk appetite and receives assurance that residual risk is within it
+→ [127·RACI Framework](../Business/raci-framework.md) — the board/management boundary is the highest-stakes RACI distinction in the organisation
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — boards that over-rely on quantitative reporting create Goodhart pressure throughout the organisation
+→ [124·Organizational Culture](organizational-culture.md) — the board both reflects and shapes organisational culture
 
 ## References
 

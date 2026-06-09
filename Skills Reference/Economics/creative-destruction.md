@@ -45,14 +45,14 @@ Kodak invented the digital camera in 1975 and buried the invention because it th
 
 ## Connections
 
-→ [**Value Creation and Capture**](value-creation-capture.md) — creative destruction reshifts the capture split: incumbents who were capturing significant value find that new entrants restructure who captures what.
-→ [**Monopoly vs. Competition**](monopoly-vs-competition.md) — monopoly positions are the primary targets of creative destruction.
+→ [217·Value Creation and Capture](value-creation-capture.md) — creative destruction reshifts the capture split: incumbents who were capturing significant value find that new entrants restructure who captures what.
+→ [34·Monopoly vs. Competition](monopoly-vs-competition.md) — monopoly positions are the primary targets of creative destruction.
 → [**S-curves**](../Systems/s-curves.md) (see Compounding/Learning) — creative destruction describes the jump between S-curves.
-→ [**Second-order Effects**](../General-Thinking/second-order-effects.md) — the full impact of creative destruction on industries, workers, and communities takes years to unfold.
-→ [**Equilibrium**](../Systems/equilibrium.md) — creative destruction describes the mechanism by which industry equilibria are periodically destabilised and replaced.
-→ [**Red Queen Dilemma**](../Systems/red-queen-dilemma.md) — creative destruction is how escape from Red Queen races happens: a new product or model redefines the competitive dimension before others adapt.
-→ [**Long Tail**](../Economics/long-tail.md) — Long Tail economics are a mechanism of creative destruction: digital distribution destroys hit-dependent incumbent models and creates platform-aggregator models in their place.
-→ [**Portfolio Map**](../Business/portfolio-map.md) — H3 bets are the organisation's hedge against being destroyed; portfolio strategy and creative destruction together define why exploration investment is not optional.
+→ [2·Second-order Effects](../General-Thinking/second-order-effects.md) — the full impact of creative destruction on industries, workers, and communities takes years to unfold.
+→ [20·Equilibrium](../Systems/equilibrium.md) — creative destruction describes the mechanism by which industry equilibria are periodically destabilised and replaced.
+→ [29·Red Queen Dilemma](../Systems/red-queen-dilemma.md) — creative destruction is how escape from Red Queen races happens: a new product or model redefines the competitive dimension before others adapt.
+→ [239·Long Tail](../Economics/long-tail.md) — Long Tail economics are a mechanism of creative destruction: digital distribution destroys hit-dependent incumbent models and creates platform-aggregator models in their place.
+→ [71·Portfolio Map](../Business/portfolio-map.md) — H3 bets are the organisation's hedge against being destroyed; portfolio strategy and creative destruction together define why exploration investment is not optional.
 
 ## References
 

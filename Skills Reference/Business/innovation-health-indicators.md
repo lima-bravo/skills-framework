@@ -99,16 +99,16 @@ A CPO inherits an innovation programme that reports glowing numbers: 200 ideas i
 
 ## Connections
 
-→ [**Innovation Funnel**](innovation-funnel.md) — the pipeline indicators instrument the funnel directly; health indicators give the funnel quantitative teeth.
-→ [**Three Horizons**](three-horizons.md) — H2+H3 investment ratio is the portfolio-level health indicator; Three Horizons provides the framework for interpreting it.
-→ [**Innovation Accounting**](../Startups/innovation-accounting.md) — innovation accounting (Lean Startup) covers the experiment-level metrics; health indicators operate at the program and organizational level.
-→ [**Organizational Slack**](organizational-slack.md) — exploration capacity protection rate is the slack indicator operationalized; the two cards work together.
-→ [**DORA Metrics**](../Delivery-and-Flow/dora-metrics.md) — the structural analogy: DORA measures delivery system health; innovation health indicators measure innovation system health. Both measure conditions and flow rather than only outcomes.
-→ [**Ambidextrous Organization**](ambidextrous-organization.md) — governance independence and structural separation indicators directly measure whether the ambidextrous design is functioning in practice.
-→ [**Opportunity Solution Trees**](../Startups/opportunity-solution-trees.md) — hypothesis quality at stage gate is largely a measure of whether teams are building and updating OSTs; the tree is the artifact the gate assesses.
-→ [**Continuous Discovery**](../Startups/continuous-discovery.md) — discovery continuity rate directly measures whether the continuous discovery practice is being maintained; the practice is the source of the customer grounding that learning quality depends on.
-→ [**Pretotyping**](../Startups/pretotyping.md) — time-to-first-experiment improves when teams use pretotyping techniques; cheap demand tests before expensive builds compress the pipeline clock.
-→ [**Jobs to Be Done**](../Startups/jobs-to-be-done.md) — JTBD framing is the method behind hypothesis quality; a hypothesis without a JTBD-grounded customer need is not yet a well-formed hypothesis.
+→ [70·Innovation Funnel](innovation-funnel.md) — the pipeline indicators instrument the funnel directly; health indicators give the funnel quantitative teeth.
+→ [113·Three Horizons](three-horizons.md) — H2+H3 investment ratio is the portfolio-level health indicator; Three Horizons provides the framework for interpreting it.
+→ [67·Innovation Accounting](../Startups/innovation-accounting.md) — innovation accounting (Lean Startup) covers the experiment-level metrics; health indicators operate at the program and organizational level.
+→ [176·Organizational Slack](organizational-slack.md) — exploration capacity protection rate is the slack indicator operationalized; the two cards work together.
+→ [142·DORA Metrics](../Delivery-and-Flow/dora-metrics.md) — the structural analogy: DORA measures delivery system health; innovation health indicators measure innovation system health. Both measure conditions and flow rather than only outcomes.
+→ [172·Ambidextrous Organization](ambidextrous-organization.md) — governance independence and structural separation indicators directly measure whether the ambidextrous design is functioning in practice.
+→ [180·Opportunity Solution Trees](../Startups/opportunity-solution-trees.md) — hypothesis quality at stage gate is largely a measure of whether teams are building and updating OSTs; the tree is the artifact the gate assesses.
+→ [182·Continuous Discovery](../Startups/continuous-discovery.md) — discovery continuity rate directly measures whether the continuous discovery practice is being maintained; the practice is the source of the customer grounding that learning quality depends on.
+→ [181·Pretotyping](../Startups/pretotyping.md) — time-to-first-experiment improves when teams use pretotyping techniques; cheap demand tests before expensive builds compress the pipeline clock.
+→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — JTBD framing is the method behind hypothesis quality; a hypothesis without a JTBD-grounded customer need is not yet a well-formed hypothesis.
 ## References
 
 - *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble & Gene Kim (2018) — the model for leading-indicator metrics in complex capability systems that inspired this card.

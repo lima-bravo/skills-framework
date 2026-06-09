@@ -44,11 +44,11 @@ A 1500-person enterprise software product organization is praised internally for
 
 ## Connections
 
-→ [**Outcome vs Output**](outcome-vs-output.md) — the diagnostic frame.
-→ [**OKRs**](okrs.md) — outcome-anchored alignment that pushes against feature-factory drift.
-→ [**Kill Criteria**](kill-criteria.md) — the discipline that distinguishes the two orientations.
-→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — the loop that closes the outcome connection.
-→ [**Lean Portfolio Management**](lean-portfolio.md) — the portfolio-level structure that makes product orientation durable.
+→ [144·Outcome vs Output](outcome-vs-output.md) — the diagnostic frame.
+→ [152·OKRs](okrs.md) — outcome-anchored alignment that pushes against feature-factory drift.
+→ [153·Kill Criteria](kill-criteria.md) — the discipline that distinguishes the two orientations.
+→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — the loop that closes the outcome connection.
+→ [158·Lean Portfolio Management](lean-portfolio.md) — the portfolio-level structure that makes product orientation durable.
 
 ---
 

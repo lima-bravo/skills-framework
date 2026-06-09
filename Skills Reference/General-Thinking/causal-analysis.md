@@ -56,13 +56,13 @@ Causal loop analysis reveals the feedback structure: time pressure → test-skip
 
 ## Connections
 
-→ [**Second-Order Effects**](second-order-effects.md) — causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the loop.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — the systems-based mode of causal analysis is feedback loop analysis applied to problem diagnosis.
-→ [**Pre-mortem**](pre-mortem.md) — applies causal analysis forward in time: what causal structure would produce failure from here?
-→ [**Post-mortem**](post-mortem.md) — the primary context for causal analysis in engineering and delivery practice.
-→ [**Cynefin Framework**](cynefin-framework.md) — Cynefin tells you which domain you're in; the domain tells you which causal mode is appropriate. Complicated → 5 Whys or fishbone. Complex → causal loops.
-→ [**First Principles**](first-principles.md) — both disciplines strip away assumption layers; causal analysis strips backward from an outcome, first principles strips downward from a belief.
-→ [**Growth Barriers**](../Business/growth-barriers.md) — growth barrier diagnosis relies on causal analysis to distinguish root cause from symptom; "growth stalled after we changed pricing" is a timing correlation, not a traced mechanism.
+→ [2·Second-Order Effects](second-order-effects.md) — causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the loop.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — the systems-based mode of causal analysis is feedback loop analysis applied to problem diagnosis.
+→ [10·Pre-mortem](pre-mortem.md) — applies causal analysis forward in time: what causal structure would produce failure from here?
+→ [11·Post-mortem](post-mortem.md) — the primary context for causal analysis in engineering and delivery practice.
+→ [122·Cynefin Framework](cynefin-framework.md) — Cynefin tells you which domain you're in; the domain tells you which causal mode is appropriate. Complicated → 5 Whys or fishbone. Complex → causal loops.
+→ [0·First Principles](first-principles.md) — both disciplines strip away assumption layers; causal analysis strips backward from an outcome, first principles strips downward from a belief.
+→ [247·Growth Barriers](../Business/growth-barriers.md) — growth barrier diagnosis relies on causal analysis to distinguish root cause from symptom; "growth stalled after we changed pricing" is a timing correlation, not a traced mechanism.
 
 ---
 

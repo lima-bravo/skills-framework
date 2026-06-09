@@ -48,13 +48,13 @@ Interventions: (1) Platform contribution time is written into each squad's capac
 
 ## Connections
 
-→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — the complementary failure mode: free riding is underinvestment in shared goods; the commons tragedy is overuse. Both stem from non-excludability.
-→ [**Incentives**](../Psychology/incentives.md) — free riding is an incentive design failure; fixing it requires changing what individuals gain from contributing.
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — free riding within teams is a principal-agent problem: the collective (principal) wants contribution; the individual (agent) optimises for their own metrics.
-→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — the free rider problem is a multi-player Prisoner's Dilemma: each individual's dominant strategy (not contributing) produces a collectively worse outcome.
-→ [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — undercontribution is the Nash Equilibrium of public goods games: given that others may not contribute, not contributing is individually rational.
-→ [**Trust**](../Psychology/trust.md) — high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
-→ [**Network Effects**](../Network-Effects/network-effects.md) — shared goods often have network effect properties; underinvestment from free riding degrades the very thing that makes the network valuable.
+→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — the complementary failure mode: free riding is underinvestment in shared goods; the commons tragedy is overuse. Both stem from non-excludability.
+→ [51·Incentives](../Psychology/incentives.md) — free riding is an incentive design failure; fixing it requires changing what individuals gain from contributing.
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — free riding within teams is a principal-agent problem: the collective (principal) wants contribution; the individual (agent) optimises for their own metrics.
+→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — the free rider problem is a multi-player Prisoner's Dilemma: each individual's dominant strategy (not contributing) produces a collectively worse outcome.
+→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — undercontribution is the Nash Equilibrium of public goods games: given that others may not contribute, not contributing is individually rational.
+→ [101·Trust](../Psychology/trust.md) — high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — shared goods often have network effect properties; underinvestment from free riding degrades the very thing that makes the network valuable.
 
 ## References
 

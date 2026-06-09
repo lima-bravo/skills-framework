@@ -55,12 +55,12 @@ The post-mortem asks: was she undertrained? No. Was the procedure unclear? No. W
 
 ## Connections
 
-→ [**After-Action Review**](../Leadership/after-action-review.md) — SRK classification is a useful structuring lens for AARs: separate the slip/lapse findings from the rule mistake findings from the knowledge mistake findings; each stream requires a different remediation discussion
-→ [**Fundamental Attribution Error**](fundamental-attribution-error.md) — the most common misapplication of SRK findings: attributing skill-level slips to carelessness or rule-level mistakes to incompetence, when both are normal features of how cognition works
-→ [**Drift to Failure**](../Systems/drift-to-failure.md) — organisations drift toward unsafe conditions partly because rule-based and skill-based performance masks growing mismatches between mental models and system reality
-→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — maps partly onto SRK: complicated domain maps to rule-based, complex/chaotic domains force knowledge-based engagement; SRK explains the cognitive mechanics behind Cynefin's prescriptions
-→ [**Experiment Design**](../Business/experiment-design.md) — novel situations that require knowledge-based reasoning are the ones that most benefit from structured hypothesis testing; SRK identifies when you are in the regime where experimentation is needed
-→ [**Leader's Intent**](../Leadership/leaders-intent.md) — intent-based leadership works partly because it allows operators to apply knowledge-based reasoning in novel situations without waiting for rule-based authorisation
+→ [196·After-Action Review](../Leadership/after-action-review.md) — SRK classification is a useful structuring lens for AARs: separate the slip/lapse findings from the rule mistake findings from the knowledge mistake findings; each stream requires a different remediation discussion
+→ [200·Fundamental Attribution Error](fundamental-attribution-error.md) — the most common misapplication of SRK findings: attributing skill-level slips to carelessness or rule-level mistakes to incompetence, when both are normal features of how cognition works
+→ [208·Drift to Failure](../Systems/drift-to-failure.md) — organisations drift toward unsafe conditions partly because rule-based and skill-based performance masks growing mismatches between mental models and system reality
+→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — maps partly onto SRK: complicated domain maps to rule-based, complex/chaotic domains force knowledge-based engagement; SRK explains the cognitive mechanics behind Cynefin's prescriptions
+→ [72·Experiment Design](../Business/experiment-design.md) — novel situations that require knowledge-based reasoning are the ones that most benefit from structured hypothesis testing; SRK identifies when you are in the regime where experimentation is needed
+→ [194·Leader's Intent](../Leadership/leaders-intent.md) — intent-based leadership works partly because it allows operators to apply knowledge-based reasoning in novel situations without waiting for rule-based authorisation
 
 ## References
 

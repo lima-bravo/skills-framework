@@ -48,15 +48,15 @@ Resolution: the platform team appoints a CI steward role, introduces build-time 
 
 ## Connections
 
-→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — the Tragedy of the Commons is the multi-player version of the Prisoner's Dilemma: individually rational behaviour produces collectively catastrophic outcomes.
-→ [**Incentives**](../Psychology/incentives.md) — the tragedy is an incentive design problem; aligning individual incentives with collective welfare is the structural fix.
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — measurement systems designed to manage commons can become commons themselves, subject to gaming.
-→ [**Free Rider Problem**](../Economics/free-rider-problem.md) — closely related: the free rider captures benefits of a shared resource without contributing to its maintenance.
-→ [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — overuse of the commons is the Nash Equilibrium: each player's best response to others' extraction is to extract more.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — making commons depletion visible creates feedback loops that enable self-regulation.
-→ [**Drift to Failure**](../Systems/drift-to-failure.md) — commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse.
-→ [**Incentive Design**](incentive-design.md) — incentive design can make individual rationality and collective welfare coincide; the commons tragedy is what happens when it does not
-→ [**Principal–Agent Problem**](principal-agent-problem.md) — when multiple agents share a resource owned by a principal, commons dynamics compound the agency problem: each agent's rational self-interest depletes the shared resource.
+→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — the Tragedy of the Commons is the multi-player version of the Prisoner's Dilemma: individually rational behaviour produces collectively catastrophic outcomes.
+→ [51·Incentives](../Psychology/incentives.md) — the tragedy is an incentive design problem; aligning individual incentives with collective welfare is the structural fix.
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — measurement systems designed to manage commons can become commons themselves, subject to gaming.
+→ [232·Free Rider Problem](../Economics/free-rider-problem.md) — closely related: the free rider captures benefits of a shared resource without contributing to its maintenance.
+→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — overuse of the commons is the Nash Equilibrium: each player's best response to others' extraction is to extract more.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — making commons depletion visible creates feedback loops that enable self-regulation.
+→ [208·Drift to Failure](../Systems/drift-to-failure.md) — commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse.
+→ [262·Incentive Design](incentive-design.md) — incentive design can make individual rationality and collective welfare coincide; the commons tragedy is what happens when it does not
+→ [121·Principal–Agent Problem](principal-agent-problem.md) — when multiple agents share a resource owned by a principal, commons dynamics compound the agency problem: each agent's rational self-interest depletes the shared resource.
 
 ## References
 

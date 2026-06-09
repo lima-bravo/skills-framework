@@ -45,12 +45,12 @@ A 600-person enterprise software business introduces OKRs to replace a feature r
 
 ## Connections
 
-→ [**Outcome vs Output**](outcome-vs-output.md) — KRs are outcome statements.
-→ [**Strategic Prioritization**](one-thing.md) — Objectives operationalize the "one thing."
-→ [**Kill Criteria**](kill-criteria.md) — what changes if a KR fails to move.
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — KRs become targets; design them to resist gaming.
-→ [**Theory of Change**](../Business/theory-of-change.md) — KR causal logic is a compressed theory of change.
-→ [**KPI Architecture**](../Business/kpi-architecture.md) — the measurement system that a KPI architecture builds is the infrastructure OKRs depend on; OKRs without a driver-tree measurement architecture underneath them become aspirational statements no one can track.
+→ [144·Outcome vs Output](outcome-vs-output.md) — KRs are outcome statements.
+→ [151·Strategic Prioritization](one-thing.md) — Objectives operationalize the "one thing."
+→ [153·Kill Criteria](kill-criteria.md) — what changes if a KR fails to move.
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — KRs become targets; design them to resist gaming.
+→ [128·Theory of Change](../Business/theory-of-change.md) — KR causal logic is a compressed theory of change.
+→ [250·KPI Architecture](../Business/kpi-architecture.md) — the measurement system that a KPI architecture builds is the infrastructure OKRs depend on; OKRs without a driver-tree measurement architecture underneath them become aspirational statements no one can track.
 
 ---
 

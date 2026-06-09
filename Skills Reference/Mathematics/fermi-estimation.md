@@ -57,12 +57,12 @@ Cross-check: the team knows a competitor charges £6k–£12k and has ~200 UK cu
 
 ## Connections
 
-→ [**First Principles**](../General-Thinking/first-principles.md) — Fermi estimation is applied first-principles thinking: building up an answer from basic components rather than extrapolating from analogues.
-→ [**Expected Value**](../Mathematics/expected-value.md) — Fermi estimation provides the order-of-magnitude inputs (probabilities and magnitudes) that expected value calculations require when precise data is unavailable.
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — both involve reasoning under uncertainty; Fermi estimation provides the structure for quantifying what you don't know.
-→ [**Reference Class Forecasting**](../Delivery-Flow/reference-class-forecasting.md) — where Fermi estimation builds up from factors, reference class forecasting anchors on base rates from comparable cases; use both as cross-checks.
-→ [**Calibration**](../General-Thinking/calibration.md) — tracking whether your Fermi estimates land within the expected range is a calibration exercise; it tells you which of your decomposition habits are systematically biased.
-→ [**Occam's Razor**](../General-Thinking/occams-razor.md) — prefer the simplest decomposition that captures the dominant factors; adding more factors increases arithmetic complexity without necessarily improving accuracy.
+→ [0·First Principles](../General-Thinking/first-principles.md) — Fermi estimation is applied first-principles thinking: building up an answer from basic components rather than extrapolating from analogues.
+→ [227·Expected Value](../Mathematics/expected-value.md) — Fermi estimation provides the order-of-magnitude inputs (probabilities and magnitudes) that expected value calculations require when precise data is unavailable.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — both involve reasoning under uncertainty; Fermi estimation provides the structure for quantifying what you don't know.
+→ [160·Reference Class Forecasting](../Delivery-Flow/reference-class-forecasting.md) — where Fermi estimation builds up from factors, reference class forecasting anchors on base rates from comparable cases; use both as cross-checks.
+→ [211·Calibration](../General-Thinking/calibration.md) — tracking whether your Fermi estimates land within the expected range is a calibration exercise; it tells you which of your decomposition habits are systematically biased.
+→ [3·Occam's Razor](../General-Thinking/occams-razor.md) — prefer the simplest decomposition that captures the dominant factors; adding more factors increases arithmetic complexity without necessarily improving accuracy.
 ## References
 
 - *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the foundational guide to decomposing problems into tractable sub-problems.

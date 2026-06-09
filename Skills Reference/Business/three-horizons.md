@@ -45,13 +45,13 @@ Amazon's portfolio across the three horizons is a live case study. H1 is the e-c
 
 ## Connections
 
-→ [**Funnel Intake**](../Pre-built-Chains/funnel-intake.md) — Step 3A of this chain uses Three Horizons to classify ideas by horizon and check that the funnel's management logic matches before committing capacity
-→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — Three Horizons is the strategic planning expression of exploration vs. exploitation: H1 is exploitation, H3 is exploration, H2 is the managed transition between them.
-→ [**Portfolio Map**](portfolio-map.md) — the portfolio map provides the tool for visualizing and managing the H1/H2/H3 allocation; Three Horizons provides the strategic logic for why the allocation matters.
-→ [**Disruptive Innovation**](disruptive-innovation.md) — H3 is where disruptive threats and disruptive opportunities are most likely to emerge; managing H3 explicitly is the structural defense against being disrupted and the structural mechanism for disrupting others.
-→ [**S-Curves**](../Systems/s-curves.md) — each horizon corresponds to a position on a different S-curve: H1 is the current curve's mature phase, H2 is the emerging curve's growth phase, H3 is the next curve's early phase.
-→ [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — H3 investments are reversible (option value, limited commitment); H1 is irreversible (full commitment). Two-Way Doors logic explains why H3 decisions should be made faster and with less analysis than H1 decisions.
-→ [**Wardley Mapping**](wardley-mapping.md) — Three Horizons and Wardley Maps compose naturally: H1 maps to Commodity/Product, H2 to Custom, H3 to Genesis. The evolution axis tells you which horizon a component actually belongs to.
+→ [245·Funnel Intake](../Pre-built-Chains/funnel-intake.md) — Step 3A of this chain uses Three Horizons to classify ideas by horizon and check that the funnel's management logic matches before committing capacity
+→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — Three Horizons is the strategic planning expression of exploration vs. exploitation: H1 is exploitation, H3 is exploration, H2 is the managed transition between them.
+→ [71·Portfolio Map](portfolio-map.md) — the portfolio map provides the tool for visualizing and managing the H1/H2/H3 allocation; Three Horizons provides the strategic logic for why the allocation matters.
+→ [112·Disruptive Innovation](disruptive-innovation.md) — H3 is where disruptive threats and disruptive opportunities are most likely to emerge; managing H3 explicitly is the structural defense against being disrupted and the structural mechanism for disrupting others.
+→ [102·S-Curves](../Systems/s-curves.md) — each horizon corresponds to a position on a different S-curve: H1 is the current curve's mature phase, H2 is the emerging curve's growth phase, H3 is the next curve's early phase.
+→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — H3 investments are reversible (option value, limited commitment); H1 is irreversible (full commitment). Two-Way Doors logic explains why H3 decisions should be made faster and with less analysis than H1 decisions.
+→ [210·Wardley Mapping](wardley-mapping.md) — Three Horizons and Wardley Maps compose naturally: H1 maps to Commodity/Product, H2 to Custom, H3 to Genesis. The evolution axis tells you which horizon a component actually belongs to.
 ## References
 
 - *The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise* — Mehrdad Baghai, Stephen Coley & David White (1999) — the McKinsey source text for the Three Horizons model.

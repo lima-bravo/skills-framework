@@ -42,9 +42,9 @@ A SaaS company has excellent product-market fit, a talented team, and strong uni
 
 ## Connections
 
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — the zero factor is often a system bottleneck taken to its extreme.
-→ [**First Principles**](../General-Thinking/first-principles.md) — identifying zeros requires asking what is genuinely necessary vs. merely valuable.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — zeros are the risks that margin of safety is most important for protecting against.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — the zero factor is often a system bottleneck taken to its extreme.
+→ [0·First Principles](../General-Thinking/first-principles.md) — identifying zeros requires asking what is genuinely necessary vs. merely valuable.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — zeros are the risks that margin of safety is most important for protecting against.
 ## References
 
 - *The Goal: A Process of Ongoing Improvement* — Eliyahu M. Goldratt & Jeff Cox (1984) — constraint theory: the weakest link in a system nullifies the capacity of everything else.

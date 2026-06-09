@@ -45,11 +45,11 @@ A consulting partner running eight workstreams reports chronic delays and team f
 
 ## Connections
 
-→ [**WIP Limits**](wip-limits.md) — the team analogue of personal attention budgeting.
-→ [**Context-Switching Cost**](context-switching.md) — the mechanism the attention budget addresses.
-→ [**Maker's Schedule**](../Business/makers-schedule.md) — the day-shape required for cognitively expensive work.
-→ [**Deep Work**](../Business/deep-work.md) — the practice the attention budget enables.
-→ [**Cognitive Load Theory**](cognitive-load-team.md) — the team-level variant.
+→ [132·WIP Limits](wip-limits.md) — the team analogue of personal attention budgeting.
+→ [149·Context-Switching Cost](context-switching.md) — the mechanism the attention budget addresses.
+→ [116·Maker's Schedule](../Business/makers-schedule.md) — the day-shape required for cognitively expensive work.
+→ [114·Deep Work](../Business/deep-work.md) — the practice the attention budget enables.
+→ [150·Cognitive Load Theory](cognitive-load-team.md) — the team-level variant.
 
 ---
 

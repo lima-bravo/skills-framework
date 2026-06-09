@@ -76,13 +76,13 @@ A system relying only on normative defenses ("do not follow instructions in retr
 
 ## Connections
 
-→ [**AI Authority Boundaries**](ai-authority-boundaries.md) — the governance framework; prompt injection is the attack vector that makes Register 3 (code enforcement) necessary.
-→ [**Minimal Capability Principle**](minimal-capability-principle.md) — the structural defense that limits what a successfully injected agent can do; separating reader and writer agents is the primary injection mitigation.
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — before deploying an agentic system, map the assumptions that must hold for the system to be safe; injection resistance is one of them.
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — run a pre-mortem specifically on injection scenarios before deployment: what would a successful injection look like, and what would it cause?
-→ [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — a successful injection may not cause immediate visible harm; the second-order effects (corrupted downstream outputs, cascading agent behavior) are often the real risk.
-→ [**Causal Analysis**](../General-Thinking/causal-analysis.md) — when an agentic system behaves unexpectedly, prompt injection should be in the causal hypothesis space, not just model error.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — multi-agent systems with injection vulnerabilities at the seam create reinforcing loops where injected content compounds through agent handoffs.
+→ [183·AI Authority Boundaries](ai-authority-boundaries.md) — the governance framework; prompt injection is the attack vector that makes Register 3 (code enforcement) necessary.
+→ [184·Minimal Capability Principle](minimal-capability-principle.md) — the structural defense that limits what a successfully injected agent can do; separating reader and writer agents is the primary injection mitigation.
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — before deploying an agentic system, map the assumptions that must hold for the system to be safe; injection resistance is one of them.
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — run a pre-mortem specifically on injection scenarios before deployment: what would a successful injection look like, and what would it cause?
+→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — a successful injection may not cause immediate visible harm; the second-order effects (corrupted downstream outputs, cascading agent behavior) are often the real risk.
+→ [171·Causal Analysis](../General-Thinking/causal-analysis.md) — when an agentic system behaves unexpectedly, prompt injection should be in the causal hypothesis space, not just model error.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — multi-agent systems with injection vulnerabilities at the seam create reinforcing loops where injected content compounds through agent handoffs.
 ## References
 
 - *The Alignment Problem: Machine Learning and Human Values* — Brian Christian (2020) — the background on how AI systems interpret and act on instructions.

@@ -61,16 +61,16 @@ Decision: adopt cloud-native data platform and managed ML tooling; redirect 60% 
 
 ## Connections
 
-→ [**Adjacent Possible**](../Systems/adjacent-possible.md) — Wardley Maps reveal which moves are adjacent: components at the Genesis/Custom boundary are where the adjacent possible is open; Commodity components are closed.
-→ [**Disruptive Innovation**](disruptive-innovation.md) — commoditisation is the mechanism Christensen describes from the demand side; Wardley describes it from the supply and evolution side. The two models are complementary diagnostics of the same phenomenon.
-→ [**Three Horizons**](three-horizons.md) — Horizon 1 maps to Commodity/Product (manage and extend); Horizon 2 to Custom (transition and build); Horizon 3 to Genesis (explore). The frameworks compose naturally.
-→ [**Kernel of Good Strategy**](kernel-of-strategy.md) — a Wardley Map is a tool for developing the "diagnosis" component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
-→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — Genesis/Custom components warrant exploration; Product/Commodity components warrant exploitation. The map tells you which mode applies where.
-→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — applies at the Genesis/Custom end of the map, where hypothesis testing is the right mode; inappropriate at Commodity, where adoption beats experimentation.
-→ [**Scenario Planning**](scenario-planning.md) — Wardley Maps can be projected into the future (where will each component sit in three years?), producing the alternative futures that scenario planning works with.
-→ [**Value Creation and Capture**](../Economics/value-creation-capture.md) — evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where value capture is flowing and why.
-→ [**Profit Pool Analysis**](profit-pool-analysis.md) — Wardley Mapping explains whether a profit pool will persist; the structural position on the evolution axis determines whether today's concentration is durable or fragile.
-→ [**Playing to Win**](playing-to-win.md) — a Wardley Map sharpens the where-to-play choice in the cascade by revealing which components are commoditising and which remain differentiating.
+→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — Wardley Maps reveal which moves are adjacent: components at the Genesis/Custom boundary are where the adjacent possible is open; Commodity components are closed.
+→ [112·Disruptive Innovation](disruptive-innovation.md) — commoditisation is the mechanism Christensen describes from the demand side; Wardley describes it from the supply and evolution side. The two models are complementary diagnostics of the same phenomenon.
+→ [113·Three Horizons](three-horizons.md) — Horizon 1 maps to Commodity/Product (manage and extend); Horizon 2 to Custom (transition and build); Horizon 3 to Genesis (explore). The frameworks compose naturally.
+→ [166·Kernel of Good Strategy](kernel-of-strategy.md) — a Wardley Map is a tool for developing the "diagnosis" component of Rumelt's kernel; it reveals the structural challenge the guiding policy must address.
+→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — Genesis/Custom components warrant exploration; Product/Commodity components warrant exploitation. The map tells you which mode applies where.
+→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — applies at the Genesis/Custom end of the map, where hypothesis testing is the right mode; inappropriate at Commodity, where adoption beats experimentation.
+→ [123·Scenario Planning](scenario-planning.md) — Wardley Maps can be projected into the future (where will each component sit in three years?), producing the alternative futures that scenario planning works with.
+→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where value capture is flowing and why.
+→ [248·Profit Pool Analysis](profit-pool-analysis.md) — Wardley Mapping explains whether a profit pool will persist; the structural position on the evolution axis determines whether today's concentration is durable or fragile.
+→ [254·Playing to Win](playing-to-win.md) — a Wardley Map sharpens the where-to-play choice in the cascade by revealing which components are commoditising and which remain differentiating.
 
 ---
 

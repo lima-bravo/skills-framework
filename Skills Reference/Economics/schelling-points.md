@@ -50,13 +50,13 @@ The smaller company's advisor suggests anchoring on 60/40 — not because it's t
 
 ## Connections
 
-→ [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — when multiple Nash Equilibria exist, Schelling Points explain which equilibrium players coordinate on; salience selects among equivalent stable states.
-→ [**Anchoring**](../Psychology/anchoring.md) — anchoring is the psychological mechanism underlying Schelling Points in negotiation: the first prominent number shapes all subsequent evaluation.
-→ [**Framing**](../Art/framing.md) — framing creates salience; whoever controls the frame establishes the Schelling Points around which a conversation coordinates.
-→ [**Network Effects**](../Network-Effects/network-effects.md) — technology standards are Schelling Points with network effects: once enough users coordinate on one option, switching cost makes it permanent.
-→ [**Path Dependence**](../Systems/path-dependence.md) — Schelling Points often create path dependence: coordination around a focal point accumulates switching costs that lock in the initially arbitrary choice.
-→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — in repeated games, Schelling Points help players coordinate on cooperative equilibria without explicit communication.
-→ [**Overton Window**](../General-Thinking/overton-window.md) — what's inside the Overton Window is partly determined by which positions are salient enough to be thinkable; Schelling Points and the Overton Window both operate through prominence.
+→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — when multiple Nash Equilibria exist, Schelling Points explain which equilibrium players coordinate on; salience selects among equivalent stable states.
+→ [54·Anchoring](../Psychology/anchoring.md) — anchoring is the psychological mechanism underlying Schelling Points in negotiation: the first prominent number shapes all subsequent evaluation.
+→ [91·Framing](../Art/framing.md) — framing creates salience; whoever controls the frame establishes the Schelling Points around which a conversation coordinates.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — technology standards are Schelling Points with network effects: once enough users coordinate on one option, switching cost makes it permanent.
+→ [235·Path Dependence](../Systems/path-dependence.md) — Schelling Points often create path dependence: coordination around a focal point accumulates switching costs that lock in the initially arbitrary choice.
+→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — in repeated games, Schelling Points help players coordinate on cooperative equilibria without explicit communication.
+→ [234·Overton Window](../General-Thinking/overton-window.md) — what's inside the Overton Window is partly determined by which positions are salient enough to be thinkable; Schelling Points and the Overton Window both operate through prominence.
 
 ## References
 

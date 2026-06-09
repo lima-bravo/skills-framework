@@ -66,12 +66,12 @@ The result: a hostile regulatory document that contains injected instructions ca
 
 ## Connections
 
-→ [**AI Authority Boundaries**](ai-authority-boundaries.md) — the master framework; minimal capability implements Register 2 (capability enforcement) within the six-register architecture.
-→ [**Prompt Injection**](prompt-injection.md) — the attack vector minimal capability defends against structurally; separating the agent that reads untrusted content from the agent that acts is the primary defense.
-→ [**Conway's Law**](../Delivery-and-Flow/conways-law.md) — system architecture mirrors organizational structure; tool grant architecture mirrors authorized accountability structure.
-→ [**Dependency Management**](../Delivery-and-Flow/dependency-management.md) — multi-agent tool grant design creates structural dependencies; these should be made explicit and reviewed.
-→ [**RACI Framework**](../Business/raci.md) — who has authority to act is the human-layer question; minimal capability is the machine-layer answer to the same question.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — the general principle of designing with buffer against worst-case scenarios; minimal capability applies this to AI agent architecture.
+→ [183·AI Authority Boundaries](ai-authority-boundaries.md) — the master framework; minimal capability implements Register 2 (capability enforcement) within the six-register architecture.
+→ [185·Prompt Injection](prompt-injection.md) — the attack vector minimal capability defends against structurally; separating the agent that reads untrusted content from the agent that acts is the primary defense.
+→ [28·Conway's Law](../Delivery-and-Flow/conways-law.md) — system architecture mirrors organizational structure; tool grant architecture mirrors authorized accountability structure.
+→ [156·Dependency Management](../Delivery-and-Flow/dependency-management.md) — multi-agent tool grant design creates structural dependencies; these should be made explicit and reviewed.
+→ [127·RACI Framework](../Business/raci.md) — who has authority to act is the human-layer question; minimal capability is the machine-layer answer to the same question.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — the general principle of designing with buffer against worst-case scenarios; minimal capability applies this to AI agent architecture.
 ## References
 
 - *The Protection of Information in Computer Systems* — Jerome H. Saltzer & Michael D. Schroeder, Proceedings of the IEEE Vol. 63 No. 9 (1975) — the original statement of the principle of least privilege in computer security.

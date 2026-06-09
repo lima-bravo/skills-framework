@@ -45,14 +45,14 @@ A company redesigns its physical office to improve collaboration — open plan, 
 
 ## Connections
 
-→ [**Feedback Loops**](feedback-loops.md) — emergence often arises from feedback dynamics that aren't visible at the component level.
-→ [**Critical Mass**](critical-mass.md) — many emergent phenomena require a critical mass of interactions before they materialize.
-→ [**Map-Territory**](../General-Thinking/map-territory.md) — emergent properties are particularly hard to represent on maps because they only exist at the system level.
-→ [**Systems Thinking**](systems-thinking.md) — systems thinking is the meta-discipline that makes emergence legible: the whole-system view required to see what components alone cannot produce
-→ [**Irreducibility**](irreducibility.md) — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
-→ [**Conway's Law**](conways-law.md) — the architecture that emerges from a team structure is an emergent property of the communication dynamics; it cannot be designed away without changing the interactions.
-→ [**Interdependence**](../Economics/interdependence.md) — interdependence is the structural condition that makes emergence possible: tightly coupled elements interact in ways that produce system-level properties invisible at the component level.
-→ [**Alloying**](../Physics-and-Chemistry/alloying.md) — alloy properties are a concrete instance of emergence: the combination of metals produces properties none of the components possess in isolation.
+→ [17·Feedback Loops](feedback-loops.md) — emergence often arises from feedback dynamics that aren't visible at the component level.
+→ [22·Critical Mass](critical-mass.md) — many emergent phenomena require a critical mass of interactions before they materialize.
+→ [6·Map-Territory](../General-Thinking/map-territory.md) — emergent properties are particularly hard to represent on maps because they only exist at the system level.
+→ [261·Systems Thinking](systems-thinking.md) — systems thinking is the meta-discipline that makes emergence legible: the whole-system view required to see what components alone cannot produce
+→ [27·Irreducibility](irreducibility.md) — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
+→ [28·Conway's Law](conways-law.md) — the architecture that emerges from a team structure is an emergent property of the communication dynamics; it cannot be designed away without changing the interactions.
+→ [39·Interdependence](../Economics/interdependence.md) — interdependence is the structural condition that makes emergence possible: tightly coupled elements interact in ways that produce system-level properties invisible at the component level.
+→ [48·Alloying](../Physics-and-Chemistry/alloying.md) — alloy properties are a concrete instance of emergence: the combination of metals produces properties none of the components possess in isolation.
 
 ## References
 

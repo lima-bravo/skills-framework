@@ -44,12 +44,12 @@ An executive team enters a planning offsite with 14 candidate strategic initiati
 
 ## Connections
 
-→ [**Trade-offs**](../Economics/trade-offs.md) — strategic prioritization is the executive practice of trade-off reasoning.
-→ [**OKRs**](okrs.md) — the structure for stating the one thing as an outcome with measurable progress.
-→ [**Kill Criteria**](kill-criteria.md) — what would change the one thing.
-→ [**Exploration vs Exploitation**](../Business/exploration-vs-exploitation.md) — the one thing balances both.
-→ [**Outcome vs Output**](outcome-vs-output.md) — the one thing should be an outcome statement.
-→ [**Kernel of Good Strategy**](../Business/kernel-of-strategy.md) — Rumelt's coherent action requires the same discipline: a short, mutually reinforcing set of commitments that rule things out, not a comprehensive list of everything desirable.
+→ [30·Trade-offs](../Economics/trade-offs.md) — strategic prioritization is the executive practice of trade-off reasoning.
+→ [152·OKRs](okrs.md) — the structure for stating the one thing as an outcome with measurable progress.
+→ [153·Kill Criteria](kill-criteria.md) — what would change the one thing.
+→ [108·Exploration vs Exploitation](../Business/exploration-vs-exploitation.md) — the one thing balances both.
+→ [144·Outcome vs Output](outcome-vs-output.md) — the one thing should be an outcome statement.
+→ [166·Kernel of Good Strategy](../Business/kernel-of-strategy.md) — Rumelt's coherent action requires the same discipline: a short, mutually reinforcing set of commitments that rule things out, not a comprehensive list of everything desirable.
 
 ---
 

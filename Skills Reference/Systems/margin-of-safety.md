@@ -43,16 +43,16 @@ A startup plans to raise 18 months of runway. Their model shows they'll reach pr
 
 ## Connections
 
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — margin of safety is the practical application of probabilistic thinking to plan design.
-→ [**Inversion**](../General-Thinking/inversion.md) — inversion identifies what could go wrong; margin of safety is the structural response.
-→ [**Irreducibility**](irreducibility.md) — some systems cannot be simplified without losing the properties you need; margin of safety is especially important in those cases.
-→ [**Black Swan**](../General-Thinking/black-swan.md) — Black Swan events are the tail events that margin of safety must be sized to survive; in fat-tailed domains, margin of safety must be sized to the tail, not the average.
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortems identify the specific failure modes that margin of safety should buffer against; the two tools pair naturally at the planning stage.
-→ [**Asymmetry / Convexity**](../General-Thinking/asymmetry-convexity.md) — margin of safety is the downside-protection component of asymmetric positioning; together they define the structure of a sound bet.
-→ [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — irreversible decisions require more margin of safety than reversible ones; the two frameworks pair naturally when sizing the buffer needed before committing.
-→ [**Debt**](../Economics/debt.md) — debt directly reduces margin of safety by creating fixed future obligations; sizing debt and sizing buffers are the same calculation.
-→ [**Thermodynamics**](../Physics-and-Chemistry/thermodynamics.md) — the second law predicts system degradation; margin of safety is the buffer sized for entropy's guarantee.
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — the planning fallacy is why buffers are needed: systematic underestimation makes margin of safety not a luxury but a structural requirement.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — margin of safety is the practical application of probabilistic thinking to plan design.
+→ [1·Inversion](../General-Thinking/inversion.md) — inversion identifies what could go wrong; margin of safety is the structural response.
+→ [27·Irreducibility](irreducibility.md) — some systems cannot be simplified without losing the properties you need; margin of safety is especially important in those cases.
+→ [240·Black Swan](../General-Thinking/black-swan.md) — Black Swan events are the tail events that margin of safety must be sized to survive; in fat-tailed domains, margin of safety must be sized to the tail, not the average.
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — pre-mortems identify the specific failure modes that margin of safety should buffer against; the two tools pair naturally at the planning stage.
+→ [12·Asymmetry / Convexity](../General-Thinking/asymmetry-convexity.md) — margin of safety is the downside-protection component of asymmetric positioning; together they define the structure of a sound bet.
+→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — irreversible decisions require more margin of safety than reversible ones; the two frameworks pair naturally when sizing the buffer needed before committing.
+→ [36·Debt](../Economics/debt.md) — debt directly reduces margin of safety by creating fixed future obligations; sizing debt and sizing buffers are the same calculation.
+→ [46·Thermodynamics](../Physics-and-Chemistry/thermodynamics.md) — the second law predicts system degradation; margin of safety is the buffer sized for entropy's guarantee.
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — the planning fallacy is why buffers are needed: systematic underestimation makes margin of safety not a luxury but a structural requirement.
 
 ## References
 

@@ -87,19 +87,19 @@ The record of gate decisions — what was decided, why, and what the results sho
 
 ## Connections
 
-→ [**From Idea to Hypothesis**](from-idea-to-hypothesis.md) — the chain that precedes this one; produces the hypothesis card that specifies the crawl experiment
-→ [**Pretotyping**](../Startups/pretotyping.md) — the crawl-stage instrument for testing mechanism feasibility at minimal cost
-→ [**MVP**](../Startups/mvp.md) — the crawl-stage instrument when a product interaction is needed to test the assumption
-→ [**Experiment Design**](../Business/experiment-design.md) — the method for designing valid experiments at every stage
-→ [**Observer Bias**](../Psychology/observer-bias.md) — the risk at crawl stage; the team that built the thing should not be the primary evaluator of whether it works
-→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — the commitment at every gate; without pre-defined kill criteria, the chain has no gates, only stages
-→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — the learning cycle that runs inside the walk stage
-→ [**Statistical Variability**](../Delivery-and-Flow/statistical-variability.md) — the discipline for distinguishing real walk-stage effects from noise
-→ [**Calibration**](../General-Thinking/calibration.md) — the honesty check on whether "good enough" thresholds were set before or after seeing the results
-→ [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — the governing principle for the run stage: transparency, inspection, adaptation
-→ [**Reference Class Forecasting**](../Delivery-and-Flow/reference-class-forecasting.md) — the outside-view calibration instrument for interpreting run-stage results
-→ [**Flow Metrics**](../Delivery-and-Flow/flow-metrics.md) — the operational measurement layer for run-stage experiments on process or delivery mechanisms
-→ [**Falsification**](../Psychology/falsification.md) — the principle that makes every gate honest: results must be capable of disconfirming, not just confirming
+→ [213·From Idea to Hypothesis](from-idea-to-hypothesis.md) — the chain that precedes this one; produces the hypothesis card that specifies the crawl experiment
+→ [181·Pretotyping](../Startups/pretotyping.md) — the crawl-stage instrument for testing mechanism feasibility at minimal cost
+→ [64·MVP](../Startups/mvp.md) — the crawl-stage instrument when a product interaction is needed to test the assumption
+→ [72·Experiment Design](../Business/experiment-design.md) — the method for designing valid experiments at every stage
+→ [212·Observer Bias](../Psychology/observer-bias.md) — the risk at crawl stage; the team that built the thing should not be the primary evaluator of whether it works
+→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — the commitment at every gate; without pre-defined kill criteria, the chain has no gates, only stages
+→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — the learning cycle that runs inside the walk stage
+→ [140·Statistical Variability](../Delivery-and-Flow/statistical-variability.md) — the discipline for distinguishing real walk-stage effects from noise
+→ [211·Calibration](../General-Thinking/calibration.md) — the honesty check on whether "good enough" thresholds were set before or after seeing the results
+→ [209·Empirical Process Control](../Delivery-and-Flow/empirical-process-control.md) — the governing principle for the run stage: transparency, inspection, adaptation
+→ [160·Reference Class Forecasting](../Delivery-and-Flow/reference-class-forecasting.md) — the outside-view calibration instrument for interpreting run-stage results
+→ [143·Flow Metrics](../Delivery-and-Flow/flow-metrics.md) — the operational measurement layer for run-stage experiments on process or delivery mechanisms
+→ [204·Falsification](../Psychology/falsification.md) — the principle that makes every gate honest: results must be capable of disconfirming, not just confirming
 
 ---
 

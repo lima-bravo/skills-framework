@@ -51,15 +51,15 @@ The fact base reframes the question entirely. The presenting problem ("we need a
 
 ## Connections
 
-→ [**Hypothesis-Driven Consulting**](hypothesis-driven.md) — situation assessment builds the fact base that a day-one hypothesis must be tested against; skipping it produces hypotheses built on assumption rather than evidence.
-→ [**MECE**](mece.md) — the six-lens scan is only useful if the lenses are exhaustive and non-overlapping; a current-state view organized around overlapping categories hides where the real issue sits.
-→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — situation assessment is also an act of classification: a "stalled growth" situation may be complicated (analyzable, as in the worked example) or complex (requiring probes before any diagnosis can be trusted).
-→ [**Growth Barriers**](../Business/growth-barriers.md) — when the situation assessment surfaces a growth problem specifically, this is the card that takes the diagnosis from "growth has stalled" to "here is the binding constraint."
-→ [**Calibration**](../General-Thinking/calibration.md) — the discipline of stating confidence honestly is what keeps "interpretation" from being smuggled into the document as "fact."
-→ [**Pyramid Principle**](pyramid-principle.md) — once the assessment is built, this is how its implications get communicated without losing the fact/interpretation distinction in the retelling.
-→ [**Survivorship Bias**](../Psychology/survivorship-bias.md) — a fact base built only from the customers, deals, or initiatives still visible today will systematically miss the ones that already left — often the most diagnostic group of all.
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — where situation assessment surfaces what is known and believed about the current state, assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy.
-→ [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — profit pool analysis is one lens within a broader current-state view; it specialises the "market position" and "financial performance" dimensions into a single structural question about where profit concentrates and why.
+→ [161·Hypothesis-Driven Consulting](hypothesis-driven.md) — situation assessment builds the fact base that a day-one hypothesis must be tested against; skipping it produces hypotheses built on assumption rather than evidence.
+→ [162·MECE](mece.md) — the six-lens scan is only useful if the lenses are exhaustive and non-overlapping; a current-state view organized around overlapping categories hides where the real issue sits.
+→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — situation assessment is also an act of classification: a "stalled growth" situation may be complicated (analyzable, as in the worked example) or complex (requiring probes before any diagnosis can be trusted).
+→ [247·Growth Barriers](../Business/growth-barriers.md) — when the situation assessment surfaces a growth problem specifically, this is the card that takes the diagnosis from "growth has stalled" to "here is the binding constraint."
+→ [211·Calibration](../General-Thinking/calibration.md) — the discipline of stating confidence honestly is what keeps "interpretation" from being smuggled into the document as "fact."
+→ [163·Pyramid Principle](pyramid-principle.md) — once the assessment is built, this is how its implications get communicated without losing the fact/interpretation distinction in the retelling.
+→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — a fact base built only from the customers, deals, or initiatives still visible today will systematically miss the ones that already left — often the most diagnostic group of all.
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — where situation assessment surfaces what is known and believed about the current state, assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy.
+→ [248·Profit Pool Analysis](../Business/profit-pool-analysis.md) — profit pool analysis is one lens within a broader current-state view; it specialises the "market position" and "financial performance" dimensions into a single structural question about where profit concentrates and why.
 
 ---
 

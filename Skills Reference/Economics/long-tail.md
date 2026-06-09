@@ -50,14 +50,14 @@ The Long Tail argument: the 340 integrations are exactly why enterprise customer
 
 ## Connections
 
-→ [**Power Law**](../Mathematics/power-law.md) — the Long Tail is the power law distribution read from the tail rather than the head; the structural mathematics are the same.
-→ [**Network Effects**](../Network-Effects/network-effects.md) — Long Tail platforms are built on network effects: more supply attracts more demand, which attracts more supply, which deepens the tail.
-→ [**Marketplace**](../Network-Effects/marketplace.md) — marketplace business models are the primary commercial expression of Long Tail economics; the platform aggregates supply and demand across the full distribution.
-→ [**Defensibility**](../Network-Effects/defensibility.md) — deep tail coverage is a defensibility mechanism: it is expensive and time-consuming to replicate, creating a switching cost moat.
-→ [**S-Curves**](../Systems/s-curves.md) — Long Tail markets often follow an S-curve adoption pattern: slow initial tail growth as discovery infrastructure is built, then rapid expansion as recommendation and search mature.
-→ [**Creative Destruction**](../Economics/creative-destruction.md) — Long Tail economics are a mechanism of creative destruction: digital distribution destroys hit-dependent incumbent models and creates platform-aggregator models in their place.
-→ [**Unit Economics**](../Economics/unit-economics.md) — Long Tail strategy only works when unit economics at the tail level are sound; high marginal costs per tail unit destroy the model regardless of aggregate tail demand.
-→ [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — profit concentration often follows a Long Tail shape; understanding whether concentration is structural or fragile is the same question asked at the market level.
+→ [238·Power Law](../Mathematics/power-law.md) — the Long Tail is the power law distribution read from the tail rather than the head; the structural mathematics are the same.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — Long Tail platforms are built on network effects: more supply attracts more demand, which attracts more supply, which deepens the tail.
+→ [84·Marketplace](../Network-Effects/marketplace.md) — marketplace business models are the primary commercial expression of Long Tail economics; the platform aggregates supply and demand across the full distribution.
+→ [85·Defensibility](../Network-Effects/defensibility.md) — deep tail coverage is a defensibility mechanism: it is expensive and time-consuming to replicate, creating a switching cost moat.
+→ [102·S-Curves](../Systems/s-curves.md) — Long Tail markets often follow an S-curve adoption pattern: slow initial tail growth as discovery infrastructure is built, then rapid expansion as recommendation and search mature.
+→ [37·Creative Destruction](../Economics/creative-destruction.md) — Long Tail economics are a mechanism of creative destruction: digital distribution destroys hit-dependent incumbent models and creates platform-aggregator models in their place.
+→ [216·Unit Economics](../Economics/unit-economics.md) — Long Tail strategy only works when unit economics at the tail level are sound; high marginal costs per tail unit destroy the model regardless of aggregate tail demand.
+→ [248·Profit Pool Analysis](../Business/profit-pool-analysis.md) — profit concentration often follows a Long Tail shape; understanding whether concentration is structural or fragile is the same question asked at the market level.
 
 ---
 

@@ -44,14 +44,14 @@ An enterprise IT organization with 8 product teams is asked to "improve delivery
 
 ## Connections
 
-→ [**Lead Time vs Cycle Time**](lead-time-cycle-time.md) — DORA's "lead time for changes" is a specific cycle-time variant.
-→ [**Flow Efficiency**](flow-efficiency.md) — short DORA lead times imply high flow efficiency.
-→ [**Outcome vs Output**](outcome-vs-output.md) — DORA measures delivery capability; outcome measures the value it produces.
-→ [**Trade-offs**](../Economics/trade-offs.md) — DORA's stability vs throughput pairing reframes the classic trade-off as falsely posed.
-→ [**Conway's Law**](../Systems/conways-law.md) — DORA performance correlates with team-aligned-to-stream architecture.
-→ [**Technical Debt**](technical-debt.md) — rising Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production.
-→ [**Reliability vs. Feature Velocity**](reliability-vs-velocity.md) — DORA's four metrics are the inputs to error budget burn rate; Change Failure Rate and MTTR govern the reliability side of the trade-off.
-→ [**KPI Architecture**](../Business/kpi-architecture.md) — DORA is a worked example of KPI architecture done well: a small set of decision-linked, leading-and-lagging metrics derived from first principles for software delivery.
+→ [134·Lead Time vs Cycle Time](lead-time-cycle-time.md) — DORA's "lead time for changes" is a specific cycle-time variant.
+→ [133·Flow Efficiency](flow-efficiency.md) — short DORA lead times imply high flow efficiency.
+→ [144·Outcome vs Output](outcome-vs-output.md) — DORA measures delivery capability; outcome measures the value it produces.
+→ [30·Trade-offs](../Economics/trade-offs.md) — DORA's stability vs throughput pairing reframes the classic trade-off as falsely posed.
+→ [28·Conway's Law](../Systems/conways-law.md) — DORA performance correlates with team-aligned-to-stream architecture.
+→ [255·Technical Debt](technical-debt.md) — rising Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production.
+→ [256·Reliability vs. Feature Velocity](reliability-vs-velocity.md) — DORA's four metrics are the inputs to error budget burn rate; Change Failure Rate and MTTR govern the reliability side of the trade-off.
+→ [250·KPI Architecture](../Business/kpi-architecture.md) — DORA is a worked example of KPI architecture done well: a small set of decision-linked, leading-and-lagging metrics derived from first principles for software delivery.
 
 ---
 

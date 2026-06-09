@@ -45,11 +45,11 @@ A growth team is optimizing email campaign performance. They define the objectiv
 
 ## Connections
 
-→ [**Trade-offs**](trade-offs.md) — multi-objective optimization makes trade-offs explicit and quantified.
-→ [**Local Maxima**](../Mathematics/local-maxima.md) — the systematic failure mode of optimization.
-→ [**Algorithms**](../Systems/algorithms.md) — optimization algorithms are the computational tools for solving formal optimization problems.
-→ [**Diminishing Returns**](../Systems/diminishing-returns.md) — optimization works with marginal returns; diminishing returns is the curve that determines where to stop allocating.
-→ [**Goodhart's Law**](goodharts-law.md) — local optimisation of a proxy metric is how Goodhart's Law manifests in practice: the optimiser hits the number while the underlying objective degrades.
+→ [30·Trade-offs](trade-offs.md) — multi-objective optimization makes trade-offs explicit and quantified.
+→ [76·Local Maxima](../Mathematics/local-maxima.md) — the systematic failure mode of optimization.
+→ [26·Algorithms](../Systems/algorithms.md) — optimization algorithms are the computational tools for solving formal optimization problems.
+→ [23·Diminishing Returns](../Systems/diminishing-returns.md) — optimization works with marginal returns; diminishing returns is the curve that determines where to stop allocating.
+→ [120·Goodhart's Law](goodharts-law.md) — local optimisation of a proxy metric is how Goodhart's Law manifests in practice: the optimiser hits the number while the underlying objective degrades.
 
 ## References
 

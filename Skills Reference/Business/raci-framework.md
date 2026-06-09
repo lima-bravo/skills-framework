@@ -45,12 +45,12 @@ A transformation programme stalls when a critical integration milestone slips, a
 
 ## Connections
 
-→ [**Stakeholder Mapping (Salience Model)**](stakeholder-mapping-salience-model.md) — RACI operationalises power and interest into specific accountability; stakeholder salience tells you who matters most, RACI tells you who owns each outcome.
-→ [**Principal-Agent Problem**](../Economics/principal-agent-problem.md) — RACI makes expectations explicit so agents can't credibly claim they didn't know who owned the outcome.
-→ [**Mission Command**](../Leadership/mission-command.md) — RACI clarifies who is accountable; mission command specifies the intent within which they act.
-→ [**Conway's Law**](../Systems/conways-law.md) — RACI matrices mirror organisational structure; the gaps and overlaps in a RACI are often direct reflections of ambiguous org design.
-→ [**Change Management**](../Leadership/change-management.md) — RACI should be built during change design alongside the guiding coalition, not after accountability disputes have already begun.
-→ [**Power Mapping**](power-mapping.md) — the RACI is the formal accountability layer; power mapping reveals the informal influence structure beneath it; when the two diverge significantly, the organisation has a governance design problem.
+→ [74·Stakeholder Mapping (Salience Model)](stakeholder-mapping-salience-model.md) — RACI operationalises power and interest into specific accountability; stakeholder salience tells you who matters most, RACI tells you who owns each outcome.
+→ [121·Principal-Agent Problem](../Economics/principal-agent-problem.md) — RACI makes expectations explicit so agents can't credibly claim they didn't know who owned the outcome.
+→ [118·Mission Command](../Leadership/mission-command.md) — RACI clarifies who is accountable; mission command specifies the intent within which they act.
+→ [28·Conway's Law](../Systems/conways-law.md) — RACI matrices mirror organisational structure; the gaps and overlaps in a RACI are often direct reflections of ambiguous org design.
+→ [125·Change Management](../Leadership/change-management.md) — RACI should be built during change design alongside the guiding coalition, not after accountability disputes have already begun.
+→ [220·Power Mapping](power-mapping.md) — the RACI is the formal accountability layer; power mapping reveals the informal influence structure beneath it; when the two diverge significantly, the organisation has a governance design problem.
 
 ---
 

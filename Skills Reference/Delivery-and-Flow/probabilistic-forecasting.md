@@ -45,12 +45,12 @@ A regulatory delivery program has a hard deadline 14 weeks away. The single-date
 
 ## Connections
 
-→ [**Statistical Variability**](statistical-variability.md) — variability is the engine that probabilistic forecasting harnesses.
-→ [**Reference Class Forecasting**](reference-class-forecasting.md) — companion technique using outside-view base rates for larger initiatives.
-→ [**Little's Law**](littles-law.md) — connects throughput, WIP, and cycle time, which feed the simulation.
-→ [**Lead Time vs Cycle Time**](lead-time-cycle-time.md) — provides the cycle-time inputs to "when" forecasts.
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — the cognitive bias probabilistic forecasting counteracts.
-→ [**Empirical Process Control**](empirical-process-control.md) — probabilistic forecasting requires an inspectable, stable system; EPC provides the governance that keeps the system transparent enough to forecast reliably.
+→ [140·Statistical Variability](statistical-variability.md) — variability is the engine that probabilistic forecasting harnesses.
+→ [160·Reference Class Forecasting](reference-class-forecasting.md) — companion technique using outside-view base rates for larger initiatives.
+→ [131·Little's Law](littles-law.md) — connects throughput, WIP, and cycle time, which feed the simulation.
+→ [134·Lead Time vs Cycle Time](lead-time-cycle-time.md) — provides the cycle-time inputs to "when" forecasts.
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — the cognitive bias probabilistic forecasting counteracts.
+→ [209·Empirical Process Control](empirical-process-control.md) — probabilistic forecasting requires an inspectable, stable system; EPC provides the governance that keeps the system transparent enough to forecast reliably.
 
 ---
 

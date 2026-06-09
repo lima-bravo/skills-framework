@@ -45,11 +45,11 @@ IDEO was hired to redesign the patient experience in a large hospital. The stand
 
 ## Connections
 
-→ [**Jobs to Be Done**](jobs-to-be-done.md) — design thinking's empathy stage and JTBD interviews are complementary: JTBD identifies the functional, social, and emotional job; design thinking uncovers the human experience surrounding it.
-→ [**Customer Development**](customer-development.md) — customer development and design thinking share the commitment to field-based learning before solution building; design thinking adds structured ideation and rapid prototyping to the customer development toolkit.
-→ [**Divergent and Convergent Thinking**](../General-Thinking/divergent-and-convergent-thinking.md) — design thinking is structured around alternating divergent phases (empathy, ideation) and convergent phases (problem definition, prototype selection, insight synthesis).
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — design thinking's prototyping stage is most productive when combined with assumption mapping: the prototype tests the highest-priority assumption explicitly.
-→ [**Build-Measure-Learn**](build-measure-learn.md) — build-measure-learn and design thinking are complementary: design thinking produces the right question to test; build-measure-learn provides the quantitative loop to validate the answer at scale.
+→ [103·Jobs to Be Done](jobs-to-be-done.md) — design thinking's empathy stage and JTBD interviews are complementary: JTBD identifies the functional, social, and emotional job; design thinking uncovers the human experience surrounding it.
+→ [66·Customer Development](customer-development.md) — customer development and design thinking share the commitment to field-based learning before solution building; design thinking adds structured ideation and rapid prototyping to the customer development toolkit.
+→ [107·Divergent and Convergent Thinking](../General-Thinking/divergent-and-convergent-thinking.md) — design thinking is structured around alternating divergent phases (empathy, ideation) and convergent phases (problem definition, prototype selection, insight synthesis).
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — design thinking's prototyping stage is most productive when combined with assumption mapping: the prototype tests the highest-priority assumption explicitly.
+→ [63·Build-Measure-Learn](build-measure-learn.md) — build-measure-learn and design thinking are complementary: design thinking produces the right question to test; build-measure-learn provides the quantitative loop to validate the answer at scale.
 ## References
 
 - *Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation* — Tim Brown (2009) — the accessible practitioner treatment from IDEO's CEO.

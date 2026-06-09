@@ -57,14 +57,14 @@ Total elapsed time: eight weeks. No formal authority was used. The outcome was b
 
 ## Connections
 
-→ [**Power Mapping**](../Business/power-mapping.md) — the prerequisite diagnostic: understand who has influence and how influence flows before designing your influence approach. *Read Power Mapping first.*
-→ [**Coalition Building**](coalition-building.md) — the collective and structural complement to this card: where Influence Without Authority addresses individual relationships and interpersonal dynamics, Coalition Building addresses assembling and sustaining group-level support. *These cards address related but distinct levels of the same challenge.*
-→ [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — the foundational mechanism: influence without authority operates largely through reciprocal exchange of genuine value; the physics card applies directly
-→ [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — small initial compliance creates a pattern that makes larger subsequent asks more natural; this bias works in favour of influence-builders who start with small, easy asks
-→ [**Trust**](../Psychology/trust.md) — the substrate on which influence is built; without trust, credibility claims are not believed and reciprocity offers are treated with suspicion
-→ [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — maps who has legitimate standing and what they care about; complements power mapping as input to an influence strategy
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — when you influence an agent whose interests diverge from the principal's, the influence may not produce the organisational outcome you intended; understand whose interests you are actually activating
-→ [**Overton Window**](../General-Thinking/overton-window.md) — Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask.
+→ [220·Power Mapping](../Business/power-mapping.md) — the prerequisite diagnostic: understand who has influence and how influence flows before designing your influence approach. *Read Power Mapping first.*
+→ [222·Coalition Building](coalition-building.md) — the collective and structural complement to this card: where Influence Without Authority addresses individual relationships and interpersonal dynamics, Coalition Building addresses assembling and sustaining group-level support. *These cards address related but distinct levels of the same challenge.*
+→ [49·Reciprocity](../Physics-and-Chemistry/reciprocity.md) — the foundational mechanism: influence without authority operates largely through reciprocal exchange of genuine value; the physics card applies directly
+→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — small initial compliance creates a pattern that makes larger subsequent asks more natural; this bias works in favour of influence-builders who start with small, easy asks
+→ [101·Trust](../Psychology/trust.md) — the substrate on which influence is built; without trust, credibility claims are not believed and reciprocity offers are treated with suspicion
+→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — maps who has legitimate standing and what they care about; complements power mapping as input to an influence strategy
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — when you influence an agent whose interests diverge from the principal's, the influence may not produce the organisational outcome you intended; understand whose interests you are actually activating
+→ [234·Overton Window](../General-Thinking/overton-window.md) — Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask.
 
 ---
 

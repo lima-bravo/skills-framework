@@ -45,12 +45,12 @@ A payment processing team has a 99.9% availability SLO (8.7 hours downtime per y
 
 ## Connections
 
-→ [**DORA Metrics**](dora-metrics.md) — Change Failure Rate and MTTR are the primary inputs to error budget burn rate.
-→ [**Technical Debt**](technical-debt.md) — accumulated debt converts error budget into debt-service; the reliability-velocity trade-off becomes structurally unfavorable in high-debt systems.
-→ [**Margin of Safety**](../Physics-and-Chemistry/margin-of-safety.md) — an error budget is an engineering-specific form of margin-of-safety reasoning: how much slack do we deliberately hold against unexpected demand on the system?
-→ [**Statistical Variability**](statistical-variability.md) — SLO burn rates are probabilistic; variance in incident frequency must be accounted for in budget management, not just expected value.
-→ [**Goodhart's Law**](../General-Thinking/goodharts-law.md) — teams that are measured on uptime SLO alone will optimize for it at the expense of other reliability dimensions (latency, correctness, incident frequency) that matter equally to users.
-→ [**Kill Criteria**](kill-criteria.md) — an error-budget exhaustion trigger is a pre-committed kill criterion for feature releases; it removes the decision from real-time political pressure.
+→ [142·DORA Metrics](dora-metrics.md) — Change Failure Rate and MTTR are the primary inputs to error budget burn rate.
+→ [255·Technical Debt](technical-debt.md) — accumulated debt converts error budget into debt-service; the reliability-velocity trade-off becomes structurally unfavorable in high-debt systems.
+→ [24·Margin of Safety](../Physics-and-Chemistry/margin-of-safety.md) — an error budget is an engineering-specific form of margin-of-safety reasoning: how much slack do we deliberately hold against unexpected demand on the system?
+→ [140·Statistical Variability](statistical-variability.md) — SLO burn rates are probabilistic; variance in incident frequency must be accounted for in budget management, not just expected value.
+→ [120·Goodhart's Law](../General-Thinking/goodharts-law.md) — teams that are measured on uptime SLO alone will optimize for it at the expense of other reliability dimensions (latency, correctness, incident frequency) that matter equally to users.
+→ [153·Kill Criteria](kill-criteria.md) — an error-budget exhaustion trigger is a pre-committed kill criterion for feature releases; it removes the decision from real-time political pressure.
 
 ---
 

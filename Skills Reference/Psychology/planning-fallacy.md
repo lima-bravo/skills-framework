@@ -48,16 +48,16 @@ A software team estimates a feature at 3 weeks. Their own reference class — fe
 
 ## Connections
 
-→ [**Confirmation Bias**](confirmation-bias.md) — the inside view is an exercise in confirmation — estimating from a success scenario
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — the direct structural remedy: build buffer proportional to underestimation tendency
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — the most effective tactical intervention against the planning fallacy
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — thinking in distributions is the cognitive toolkit of the outside view
-→ [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — cascading dependencies and rework are the most commonly ignored planning costs
-→ [**Deep Work / Cognitive Capacity**](../Learning/deep-work.md) — plans assuming 8 productive hours per day compound the planning fallacy
-→ [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — exceptional early velocity regresses; plans that extrapolate it are doubly wrong
-→ [**Base Rate Neglect**](base-rate-neglect.md) — one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
-→ [**Parkinson's Law**](../Business/parkinsons-law.md) — the planning fallacy and Parkinson's Law compound: we underestimate duration, and then fill whatever time we allocate; the result is work that takes exactly as long as planned for the wrong reasons.
-→ [**Value Realization**](../Business/value-realization.md) — the planning fallacy is the empirical basis for building a realization plan: reference class evidence shows realized benefits consistently run below the business case, which a realization system should detect early rather than be surprised by.
+→ [55·Confirmation Bias](confirmation-bias.md) — the inside view is an exercise in confirmation — estimating from a success scenario
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — the direct structural remedy: build buffer proportional to underestimation tendency
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the most effective tactical intervention against the planning fallacy
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — thinking in distributions is the cognitive toolkit of the outside view
+→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — cascading dependencies and rework are the most commonly ignored planning costs
+→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work.md) — plans assuming 8 productive hours per day compound the planning fallacy
+→ [77·Regression to the Mean](../Mathematics/regression-to-the-mean.md) — exceptional early velocity regresses; plans that extrapolate it are doubly wrong
+→ [206·Base Rate Neglect](base-rate-neglect.md) — one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
+→ [241·Parkinson's Law](../Business/parkinsons-law.md) — the planning fallacy and Parkinson's Law compound: we underestimate duration, and then fill whatever time we allocate; the result is work that takes exactly as long as planned for the wrong reasons.
+→ [251·Value Realization](../Business/value-realization.md) — the planning fallacy is the empirical basis for building a realization plan: reference class evidence shows realized benefits consistently run below the business case, which a realization system should detect early rather than be surprised by.
 
 ---
 

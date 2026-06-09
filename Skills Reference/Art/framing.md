@@ -43,14 +43,14 @@ A CFO needs to present a £2M cost overrun to the board. Two frames: Frame 1: "W
 
 ## Connections
 
-→ [**Loss Aversion**](../Psychology/loss-aversion.md) — framing as loss vs. gain activates loss aversion differentially; the practitioner chooses frames accordingly.
-→ [**Anchoring**](../Psychology/anchoring.md) — a frame sets the anchor; all subsequent content is evaluated relative to it.
-→ [**Audience**](audience.md) — the right frame for a given content depends entirely on who the audience is.
-→ [**Overton Window**](../General-Thinking/overton-window.md) — framing is the mechanism by which Overton Windows are maintained or shifted; whoever controls the frame defines what is thinkable.
-→ [**Schelling Points**](../Economics/schelling-points.md) — framing creates salience, which creates Schelling Points; the most prominent framing tends to become the focal point for coordination.
-→ [**De Bono's Six Thinking Hats**](../General-Thinking/de-bonos-six-thinking-hats.md) — each hat is a distinct frame; the Six Hats is a systematic method for cycling through multiple frames of the same problem.
-→ [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
-→ [**Social Proof**](../Psychology/social-proof.md) — social proof provides the behaviour signal that framing then shapes; the same adoption behaviour is interpreted differently depending on how it is framed to observers.
+→ [52·Loss Aversion](../Psychology/loss-aversion.md) — framing as loss vs. gain activates loss aversion differentially; the practitioner chooses frames accordingly.
+→ [54·Anchoring](../Psychology/anchoring.md) — a frame sets the anchor; all subsequent content is evaluated relative to it.
+→ [90·Audience](audience.md) — the right frame for a given content depends entirely on who the audience is.
+→ [234·Overton Window](../General-Thinking/overton-window.md) — framing is the mechanism by which Overton Windows are maintained or shifted; whoever controls the frame defines what is thinkable.
+→ [236·Schelling Points](../Economics/schelling-points.md) — framing creates salience, which creates Schelling Points; the most prominent framing tends to become the focal point for coordination.
+→ [13·De Bono's Six Thinking Hats](../General-Thinking/de-bonos-six-thinking-hats.md) — each hat is a distinct frame; the Six Hats is a systematic method for cycling through multiple frames of the same problem.
+→ [226·Grice's Maxims](../General-Thinking/grices-maxims.md) — Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
+→ [202·Social Proof](../Psychology/social-proof.md) — social proof provides the behaviour signal that framing then shapes; the same adoption behaviour is interpreted differently depending on how it is framed to observers.
 
 ## References
 

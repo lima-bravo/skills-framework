@@ -59,13 +59,13 @@ The steelman doesn't kill the opportunity — but it reframes the timeline and c
 
 ## Connections
 
-→ [**Falsification**](../Psychology/falsification.md) — steelmanning is the prerequisite for genuine falsification; testing weak versions of opposing arguments doesn't falsify anything meaningful.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — steelmanning is a structural countermeasure to confirmation bias in deliberation; it forces genuine engagement with disconfirming views.
-→ [**Pre-mortem**](pre-mortem.md) — the pre-mortem applies steelmanning prospectively to a plan: what is the strongest case that this will fail?
-→ [**Red Teaming**](../Business/red-teaming.md) — red teams are the organisational mechanism for institutionalising steelmanning at scale; a red team that doesn't steelman the dominant view is not doing its job.
-→ [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning and steelmanning are complementary practices; one surfaces hidden assumptions, the other ensures the opposition is understood at its strongest.
-→ [**De Bono's Six Thinking Hats**](de-bonos-six-thinking-hats.md) — the Black Hat (critical thinking) role benefits from steelmanning discipline; without it, the Black Hat produces weak objections rather than genuine challenges.
-→ [**Ladder of Inference**](ladder-of-inference.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its conclusions.
+→ [204·Falsification](../Psychology/falsification.md) — steelmanning is the prerequisite for genuine falsification; testing weak versions of opposing arguments doesn't falsify anything meaningful.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — steelmanning is a structural countermeasure to confirmation bias in deliberation; it forces genuine engagement with disconfirming views.
+→ [10·Pre-mortem](pre-mortem.md) — the pre-mortem applies steelmanning prospectively to a plan: what is the strongest case that this will fail?
+→ [224·Red Teaming](../Business/red-teaming.md) — red teams are the organisational mechanism for institutionalising steelmanning at scale; a red team that doesn't steelman the dominant view is not doing its job.
+→ [9·Socratic Thinking](socratic-thinking.md) — Socratic questioning and steelmanning are complementary practices; one surfaces hidden assumptions, the other ensures the opposition is understood at its strongest.
+→ [13·De Bono's Six Thinking Hats](de-bonos-six-thinking-hats.md) — the Black Hat (critical thinking) role benefits from steelmanning discipline; without it, the Black Hat produces weak objections rather than genuine challenges.
+→ [14·Ladder of Inference](ladder-of-inference.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its conclusions.
 
 ## References
 

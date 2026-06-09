@@ -80,14 +80,14 @@ A team ships an AI agent that drafts and sends customer refund approvals overnig
 
 ## Connections
 
-→ [**Minimal Capability Principle**](minimal-capability-principle.md) — the design discipline that implements Register 2; capability enforcement in practice.
-→ [**Prompt Injection**](prompt-injection.md) — the attack vector that makes Register 3 necessary; why free text from external sources must never become steering prompts.
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — the classical framing of misaligned incentives between principal and agent; AI authority boundaries are its operational implementation in agentic systems.
-→ [**RACI Framework**](../Business/raci.md) — defines who is Responsible, Accountable, Consulted, Informed in human workflows; authority boundary design answers the same question for human-AI workflows.
-→ [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — the reversibility lens for decision-making; irreversible actions require the hardest gates.
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — the governance design tool: run a pre-mortem on the agentic system before deployment to surface which gates are insufficient.
-→ [**Risk Management**](../Leadership/risk-management.md) — the organizational context for authority boundary decisions; boundary design is a form of operational risk management.
-→ [**DORA Metrics**](../Delivery-and-Flow/dora-metrics.md) — structural analogy: DORA measures delivery system health; authority boundary registers measure governance system health.
+→ [184·Minimal Capability Principle](minimal-capability-principle.md) — the design discipline that implements Register 2; capability enforcement in practice.
+→ [185·Prompt Injection](prompt-injection.md) — the attack vector that makes Register 3 necessary; why free text from external sources must never become steering prompts.
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — the classical framing of misaligned incentives between principal and agent; AI authority boundaries are its operational implementation in agentic systems.
+→ [127·RACI Framework](../Business/raci.md) — defines who is Responsible, Accountable, Consulted, Informed in human workflows; authority boundary design answers the same question for human-AI workflows.
+→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — the reversibility lens for decision-making; irreversible actions require the hardest gates.
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the governance design tool: run a pre-mortem on the agentic system before deployment to surface which gates are insufficient.
+→ [126·Risk Management](../Leadership/risk-management.md) — the organizational context for authority boundary decisions; boundary design is a form of operational risk management.
+→ [142·DORA Metrics](../Delivery-and-Flow/dora-metrics.md) — structural analogy: DORA measures delivery system health; authority boundary registers measure governance system health.
 ## References
 
 - *Human Compatible: Artificial Intelligence and the Problem of Control* — Stuart Russell (2019) — the foundational case for human oversight as AI systems become more autonomous.

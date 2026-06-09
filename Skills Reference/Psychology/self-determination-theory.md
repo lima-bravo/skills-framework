@@ -80,14 +80,14 @@ A software company introduces a per-feature shipping bonus to lift engineering o
 
 ## Connections
 
-→ [**ERG Theory**](erg-theory.md) — Alderfer's Relatedness and Growth needs map onto SDT's Relatedness and Competence; SDT adds the autonomy dimension and the internalisation continuum ERG lacks
-→ [**Maslow's Hierarchy of Needs**](maslows-hierarchy-of-needs.md) — SDT's three needs cut across Maslow's hierarchy rather than following it; SDT is more empirically robust and more applicable to knowledge work contexts
-→ [**Incentives**](incentives.md) — the crowding-out effect is the most important caveat to incentive design; SDT explains when incentives help and when they harm
-→ [**Psychological Safety**](psychological-safety.md) — autonomy need satisfaction requires an environment where people can express genuine views without threat; psychological safety is the social condition that makes autonomy possible
-→ [**Organizational Culture**](../Leadership/organizational-culture.md) — culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed
-→ [**Purpose Clarity**](../Leadership/purpose-clarity.md) — leadership's primary mechanism for meeting the Relatedness need at scale; people cannot feel their work connects to something meaningful if no one has made that connection explicit
-→ [**McClelland's Acquired Needs Theory**](mcclellands-acquired-needs-theory.md) — McClelland's Achievement, Affiliation, and Power needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture
-→ [**Incentive Design**](../Economics/incentive-design.md) — self-determination theory defines the intrinsic motivation boundary that extrinsic incentive structures must work within or risk crowding out
+→ [61·ERG Theory](erg-theory.md) — Alderfer's Relatedness and Growth needs map onto SDT's Relatedness and Competence; SDT adds the autonomy dimension and the internalisation continuum ERG lacks
+→ [58·Maslow's Hierarchy of Needs](maslows-hierarchy-of-needs.md) — SDT's three needs cut across Maslow's hierarchy rather than following it; SDT is more empirically robust and more applicable to knowledge work contexts
+→ [51·Incentives](incentives.md) — the crowding-out effect is the most important caveat to incentive design; SDT explains when incentives help and when they harm
+→ [104·Psychological Safety](psychological-safety.md) — autonomy need satisfaction requires an environment where people can express genuine views without threat; psychological safety is the social condition that makes autonomy possible
+→ [124·Organizational Culture](../Leadership/organizational-culture.md) — culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed
+→ [193·Purpose Clarity](../Leadership/purpose-clarity.md) — leadership's primary mechanism for meeting the Relatedness need at scale; people cannot feel their work connects to something meaningful if no one has made that connection explicit
+→ [59·McClelland's Acquired Needs Theory](mcclellands-acquired-needs-theory.md) — McClelland's Achievement, Affiliation, and Power needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture
+→ [262·Incentive Design](../Economics/incentive-design.md) — self-determination theory defines the intrinsic motivation boundary that extrinsic incentive structures must work within or risk crowding out
 
 ## References
 

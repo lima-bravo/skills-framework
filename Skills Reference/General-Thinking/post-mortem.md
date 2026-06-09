@@ -44,11 +44,11 @@ Amazon's culture of written post-mortems after production incidents includes a s
 
 ## Connections
 
-→ [**Pre-mortem**](pre-mortem.md) — the bookends: the pre-mortem imagines future failure; the post-mortem analyses actual failure. A mature team practices both.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — the post-mortem closes the feedback loop: action → outcome → learning → updated action.
-→ [**Five-Hour Rule**](../Learning/five-hour-rule.md) — post-mortems are one of the most efficient uses of deliberate learning time because they are grounded in direct organizational experience.
-→ [**After-Action Review**](../Leadership/after-action-review.md) — complementary disciplines at different scales: the AAR is the lightweight operational habit after every project; the post-mortem is the deep investigation triggered by significant failure or a repeated pattern.
-→ [**Causal Analysis**](causal-analysis.md) — the post-mortem is the primary organizational context for causal analysis; choosing the right mode (5 Whys, fishbone, causal loop) determines whether the investigation finds the actual cause or just a plausible one.
+→ [10·Pre-mortem](pre-mortem.md) — the bookends: the pre-mortem imagines future failure; the post-mortem analyses actual failure. A mature team practices both.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — the post-mortem closes the feedback loop: action → outcome → learning → updated action.
+→ [88·Five-Hour Rule](../Learning/five-hour-rule.md) — post-mortems are one of the most efficient uses of deliberate learning time because they are grounded in direct organizational experience.
+→ [196·After-Action Review](../Leadership/after-action-review.md) — complementary disciplines at different scales: the AAR is the lightweight operational habit after every project; the post-mortem is the deep investigation triggered by significant failure or a repeated pattern.
+→ [171·Causal Analysis](causal-analysis.md) — the post-mortem is the primary organizational context for causal analysis; choosing the right mode (5 Whys, fishbone, causal loop) determines whether the investigation finds the actual cause or just a plausible one.
 
 ## References
 

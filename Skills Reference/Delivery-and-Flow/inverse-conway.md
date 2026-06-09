@@ -44,11 +44,11 @@ A retailer wants a clean separation between order capture and order fulfillment 
 
 ## Connections
 
-→ [**Conway's Law**](../Systems/conways-law.md) — the underlying observation the maneuver inverts.
-→ [**Team Topologies**](team-topologies.md) — the practical playbook for applying it.
-→ [**Dependency Management**](dependency-management.md) — interaction modes become dependency contracts.
-→ [**Organizational Culture**](../Leadership/organizational-culture.md) — culture is the sociotechnical complement to structural redesign.
-→ [**Conway's Law**](../Systems/conways-law.md) — the original observation that the maneuver inverts.
+→ [28·Conway's Law](../Systems/conways-law.md) — the underlying observation the maneuver inverts.
+→ [154·Team Topologies](team-topologies.md) — the practical playbook for applying it.
+→ [156·Dependency Management](dependency-management.md) — interaction modes become dependency contracts.
+→ [124·Organizational Culture](../Leadership/organizational-culture.md) — culture is the sociotechnical complement to structural redesign.
+→ [28·Conway's Law](../Systems/conways-law.md) — the original observation that the maneuver inverts.
 
 ---
 

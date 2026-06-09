@@ -44,13 +44,13 @@ A 400-person fintech reorganization moves from a 30-team feature-matrix to a Tea
 
 ## Connections
 
-→ [**Conway's Law**](../Systems/conways-law.md) — Team Topologies is an applied Conway maneuver.
-→ [**Inverse Conway Maneuver**](inverse-conway.md) — deliberately shaping teams to produce desired architecture.
-→ [**Cognitive Load (Team)**](cognitive-load-team.md) — the constraint Team Topologies optimizes against.
-→ [**Leverage**](../Physics-and-Chemistry/leverage.md) — platforms are force multipliers; the leverage card explains the underlying mechanism.
-→ [**Dependency Management**](dependency-management.md) — interaction modes are dependency contracts.
-→ [**Span of Control**](span-of-control.md) — Team Topologies defines team *types*; Span of Control governs team *size*. Both constraints must be satisfied for effective flow.
-→ [**Dunbar's Number**](../Systems/dunbars-number.md) — Dunbar's Number is the cognitive constraint Team Topologies operationalises: team sizes and interaction patterns are bounded by what human relationship networks can sustain.
+→ [28·Conway's Law](../Systems/conways-law.md) — Team Topologies is an applied Conway maneuver.
+→ [155·Inverse Conway Maneuver](inverse-conway.md) — deliberately shaping teams to produce desired architecture.
+→ [150·Cognitive Load (Team)](cognitive-load-team.md) — the constraint Team Topologies optimizes against.
+→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — platforms are force multipliers; the leverage card explains the underlying mechanism.
+→ [156·Dependency Management](dependency-management.md) — interaction modes are dependency contracts.
+→ [257·Span of Control](span-of-control.md) — Team Topologies defines team *types*; Span of Control governs team *size*. Both constraints must be satisfied for effective flow.
+→ [243·Dunbar's Number](../Systems/dunbars-number.md) — Dunbar's Number is the cognitive constraint Team Topologies operationalises: team sizes and interaction patterns are bounded by what human relationship networks can sustain.
 
 ## References
 

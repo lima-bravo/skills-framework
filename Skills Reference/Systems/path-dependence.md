@@ -50,15 +50,15 @@ The path dependence is severe: decades of integration debt mean that hundreds of
 
 ## Connections
 
-→ [**Inertia**](../Physics-and-Chemistry/inertia.md) — inertia is resistance to change without structural basis; path dependence is structural lock-in. Both produce resistance but require different interventions.
-→ [**Conway's Law**](../Systems/conways-law.md) — organisational structure creates path dependence in system architecture; the communication paths of the past become the software dependencies of the present.
-→ [**Drift to Failure**](../Systems/drift-to-failure.md) — path dependence and drift often compound: the system drifts incrementally in a direction it cannot easily reverse, and each drift step increases switching costs.
-→ [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — the antidote to path dependence in decision-making: prefer reversible decisions over irreversible ones, especially early in a system's life.
-→ [**Sunk Cost**](../Psychology/sunk-cost.md) — sunk costs are a major source of path dependence; the psychology of sunk costs causes organisations to continue on a bad path rather than accept the switching cost.
-→ [**S-Curves**](../Systems/s-curves.md) — path dependence often locks organisations onto a mature S-curve; platform shifts create new curves where switching cost is temporarily lower.
-→ [**Network Effects**](../Network-Effects/network-effects.md) — network effects are the most powerful source of path dependence in markets: the larger an installed base, the higher the switching cost for any individual user or provider.
-→ [**Systems Thinking**](systems-thinking.md) — path dependence is a systems property: only visible when you map the full system's structural evolution, not individual component choices
-→ [**Schelling Points**](../Economics/schelling-points.md) — Schelling Points often create path dependence: coordination around a focal point accumulates switching costs that lock in the initially arbitrary choice.
+→ [43·Inertia](../Physics-and-Chemistry/inertia.md) — inertia is resistance to change without structural basis; path dependence is structural lock-in. Both produce resistance but require different interventions.
+→ [28·Conway's Law](../Systems/conways-law.md) — organisational structure creates path dependence in system architecture; the communication paths of the past become the software dependencies of the present.
+→ [208·Drift to Failure](../Systems/drift-to-failure.md) — path dependence and drift often compound: the system drifts incrementally in a direction it cannot easily reverse, and each drift step increases switching costs.
+→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — the antidote to path dependence in decision-making: prefer reversible decisions over irreversible ones, especially early in a system's life.
+→ [53·Sunk Cost](../Psychology/sunk-cost.md) — sunk costs are a major source of path dependence; the psychology of sunk costs causes organisations to continue on a bad path rather than accept the switching cost.
+→ [102·S-Curves](../Systems/s-curves.md) — path dependence often locks organisations onto a mature S-curve; platform shifts create new curves where switching cost is temporarily lower.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — network effects are the most powerful source of path dependence in markets: the larger an installed base, the higher the switching cost for any individual user or provider.
+→ [261·Systems Thinking](systems-thinking.md) — path dependence is a systems property: only visible when you map the full system's structural evolution, not individual component choices
+→ [236·Schelling Points](../Economics/schelling-points.md) — Schelling Points often create path dependence: coordination around a focal point accumulates switching costs that lock in the initially arbitrary choice.
 
 ## References
 

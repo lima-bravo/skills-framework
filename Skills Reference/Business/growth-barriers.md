@@ -52,12 +52,12 @@ The binding constraint is not sales execution or competitive pressure — it is 
 
 ## Connections
 
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — the systems-theory foundation of this entire card: in any flow system, only the constraint determines throughput, and effort spent elsewhere is an illusion of progress.
-→ [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — the broader current-state diagnostic this card specializes; run a situation assessment first if it isn't yet clear that growth (rather than, say, margin or morale) is the actual presenting issue.
-→ [**Causal Analysis**](../General-Thinking/causal-analysis.md) — the discipline that keeps "what changed right before the slowdown" from being mistaken for "what caused the slowdown."
-→ [**Unit Economics**](../Economics/unit-economics.md) — when the binding constraint sits in monetization or expansion, unit economics is the lens that makes the leak visible in dollar terms, not just funnel-percentage terms.
-→ [**Outcome vs Output**](../Delivery-and-Flow/outcome-vs-output.md) — a growth team that is "shipping a lot" while the binding constraint goes unaddressed is optimizing output while the outcome continues to stall.
-→ [**Hypothesis-Driven Consulting**](../Consulting-Craft/hypothesis-driven.md) — the binding-constraint diagnosis is a hypothesis, not a verdict; this card supplies the discipline for testing it cheaply before committing to the full-scale fix.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — the systems-theory foundation of this entire card: in any flow system, only the constraint determines throughput, and effort spent elsewhere is an illusion of progress.
+→ [246·Situation Assessment](../Consulting-Craft/situation-assessment.md) — the broader current-state diagnostic this card specializes; run a situation assessment first if it isn't yet clear that growth (rather than, say, margin or morale) is the actual presenting issue.
+→ [171·Causal Analysis](../General-Thinking/causal-analysis.md) — the discipline that keeps "what changed right before the slowdown" from being mistaken for "what caused the slowdown."
+→ [216·Unit Economics](../Economics/unit-economics.md) — when the binding constraint sits in monetization or expansion, unit economics is the lens that makes the leak visible in dollar terms, not just funnel-percentage terms.
+→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — a growth team that is "shipping a lot" while the binding constraint goes unaddressed is optimizing output while the outcome continues to stall.
+→ [161·Hypothesis-Driven Consulting](../Consulting-Craft/hypothesis-driven.md) — the binding-constraint diagnosis is a hypothesis, not a verdict; this card supplies the discipline for testing it cheaply before committing to the full-scale fix.
 
 ---
 

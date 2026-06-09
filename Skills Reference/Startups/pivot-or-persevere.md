@@ -43,9 +43,9 @@ Instagram began as Burbn — a check-in app with gaming elements. The data showe
 
 ## Connections
 
-→ [**Build-Measure-Learn**](build-measure-learn.md) — the pivot-or-persevere decision is the "learn" step of the BML loop operationalized.
-→ [**Sunk Cost**](../Psychology/sunk-cost.md) — the perseverance trap is often sunk cost; the pivot decision must be separated from sunk cost attachment.
-→ [**Product-Market Fit**](product-market-fit.md) — the goal of pivots is to find the product-market fit that perseverance is preserving.
+→ [63·Build-Measure-Learn](build-measure-learn.md) — the pivot-or-persevere decision is the "learn" step of the BML loop operationalized.
+→ [53·Sunk Cost](../Psychology/sunk-cost.md) — the perseverance trap is often sunk cost; the pivot decision must be separated from sunk cost attachment.
+→ [62·Product-Market Fit](product-market-fit.md) — the goal of pivots is to find the product-market fit that perseverance is preserving.
 
 ---
 

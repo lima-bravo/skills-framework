@@ -44,12 +44,12 @@ An operations team is held to a 10-day SLA, computed as the mean of last quarter
 
 ## Connections
 
-→ [**Probabilistic Forecasting**](probabilistic-forecasting.md) — variability is the input to Monte Carlo and other forecast methods.
-→ [**Empirical Process Control**](empirical-process-control.md) — variability is why determinism is unavailable in complex work, and why EPC's inspect-and-adapt cycle is necessary.
-→ [**Queueing & Wait Time**](queueing.md) — variability is what makes utilization × variability blow up wait time.
-→ [**Lead Time vs Cycle Time**](lead-time-cycle-time.md) — variability is why percentile reporting beats mean reporting.
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — single-number commitments become targets and degrade the underlying behavior.
-→ [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — short-run extremes will revert; don't overreact.
+→ [141·Probabilistic Forecasting](probabilistic-forecasting.md) — variability is the input to Monte Carlo and other forecast methods.
+→ [209·Empirical Process Control](empirical-process-control.md) — variability is why determinism is unavailable in complex work, and why EPC's inspect-and-adapt cycle is necessary.
+→ [135·Queueing & Wait Time](queueing.md) — variability is what makes utilization × variability blow up wait time.
+→ [134·Lead Time vs Cycle Time](lead-time-cycle-time.md) — variability is why percentile reporting beats mean reporting.
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — single-number commitments become targets and degrade the underlying behavior.
+→ [77·Regression to the Mean](../Mathematics/regression-to-the-mean.md) — short-run extremes will revert; don't overreact.
 
 ---
 

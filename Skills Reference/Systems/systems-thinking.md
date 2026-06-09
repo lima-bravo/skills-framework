@@ -49,14 +49,14 @@ A software team faces growing bug counts. The linear fix: add QA headcount. Bug 
 
 ## Connections
 
-→ [**Feedback Loops**](feedback-loops.md) — the structural mechanism through which systems behavior emerges; systems thinking is the discipline of reading and redesigning them
-→ [**Emergence**](emergence.md) — systems thinking explains why emergent properties arise from component interactions rather than from any single part
-→ [**Fixes That Fail**](fixes-that-fail.md) — the archetype systems thinking makes visible: symptomatic fixes that leave the generating structure intact
-→ [**Drift to Failure**](drift-to-failure.md) — drift is invisible at the component level; only visible as a system-level trajectory over time
-→ [**Path Dependence**](path-dependence.md) — history constrains a system's current behavior through its structural evolution, not its components' independent choices
-→ [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — systems thinking provides the causal map for tracing second and higher-order effects across a system's structure
-→ [**Incentive Design**](../Economics/incentive-design.md) — incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
-→ [**Fundamental Attribution Error**](../Psychology/fundamental-attribution-error.md) — the antidote to FAE at scale; systems thinking makes situational forces legible where individual observation only sees the person
+→ [17·Feedback Loops](feedback-loops.md) — the structural mechanism through which systems behavior emerges; systems thinking is the discipline of reading and redesigning them
+→ [19·Emergence](emergence.md) — systems thinking explains why emergent properties arise from component interactions rather than from any single part
+→ [260·Fixes That Fail](fixes-that-fail.md) — the archetype systems thinking makes visible: symptomatic fixes that leave the generating structure intact
+→ [208·Drift to Failure](drift-to-failure.md) — drift is invisible at the component level; only visible as a system-level trajectory over time
+→ [235·Path Dependence](path-dependence.md) — history constrains a system's current behavior through its structural evolution, not its components' independent choices
+→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — systems thinking provides the causal map for tracing second and higher-order effects across a system's structure
+→ [262·Incentive Design](../Economics/incentive-design.md) — incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
+→ [200·Fundamental Attribution Error](../Psychology/fundamental-attribution-error.md) — the antidote to FAE at scale; systems thinking makes situational forces legible where individual observation only sees the person
 
 ## References
 

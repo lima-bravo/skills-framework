@@ -55,13 +55,13 @@ The FAE led the manager to replace the person rather than redesign the system. T
 
 ## Connections
 
-→ [**After-Action Review**](../Leadership/after-action-review.md) — AARs done well explicitly surface situational factors; FAE is a common contaminator of poorly-run retrospectives
-→ [**Survivorship Bias**](survivorship-bias.md) — combining FAE with survivorship produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had
-→ [**Systems Thinking**](../Systems/systems-thinking.md) — the antidote to FAE at scale; systems thinking makes situational forces legible
-→ [**Narrative Instinct**](narrative-instinct.md) — humans favour agent-causal stories (someone did this for reasons) over system-causal stories (conditions made this outcome likely); FAE is narrative instinct applied to blame
-→ [**Incentive Design**](../Economics/incentive-design.md) — if FAE leads you to keep redesigning the person instead of the incentive structure, you'll keep solving the wrong problem
-→ [**Hanlon's Razor**](../General-Thinking/hanlons-razor.md) — Hanlon's Razor is the practical decision rule that FAE explains: the tendency to default to malice is the FAE applied to intentionality.
-→ [**SRK Framework**](srk-framework.md) — SRK makes FAE's practical cost concrete: attributing skill-level slips to carelessness or rule-level mistakes to incompetence produces interventions aimed at people rather than at the cognitive mechanics that generated the error.
+→ [196·After-Action Review](../Leadership/after-action-review.md) — AARs done well explicitly surface situational factors; FAE is a common contaminator of poorly-run retrospectives
+→ [199·Survivorship Bias](survivorship-bias.md) — combining FAE with survivorship produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had
+→ [261·Systems Thinking](../Systems/systems-thinking.md) — the antidote to FAE at scale; systems thinking makes situational forces legible
+→ [203·Narrative Instinct](narrative-instinct.md) — humans favour agent-causal stories (someone did this for reasons) over system-causal stories (conditions made this outcome likely); FAE is narrative instinct applied to blame
+→ [262·Incentive Design](../Economics/incentive-design.md) — if FAE leads you to keep redesigning the person instead of the incentive structure, you'll keep solving the wrong problem
+→ [4·Hanlon's Razor](../General-Thinking/hanlons-razor.md) — Hanlon's Razor is the practical decision rule that FAE explains: the tendency to default to malice is the FAE applied to intentionality.
+→ [207·SRK Framework](srk-framework.md) — SRK makes FAE's practical cost concrete: attributing skill-level slips to carelessness or rule-level mistakes to incompetence produces interventions aimed at people rather than at the cognitive mechanics that generated the error.
 
 ## References
 

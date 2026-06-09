@@ -42,9 +42,9 @@ A company's internal knowledge base is excellent when first built. Three years l
 
 ## Connections
 
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — balancing feedback loops are the mechanisms that fight entropy; they require energy to operate.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — the second law suggests things will degrade; margin of safety is the buffer for that degradation.
-→ [**Churn**](../Systems/churn.md) — churn is entropy in a customer base; it is the natural tendency absent active retention investment.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — balancing feedback loops are the mechanisms that fight entropy; they require energy to operate.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — the second law suggests things will degrade; margin of safety is the buffer for that degradation.
+→ [25·Churn](../Systems/churn.md) — churn is entropy in a customer base; it is the natural tendency absent active retention investment.
 
 ## References
 

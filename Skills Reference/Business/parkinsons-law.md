@@ -48,13 +48,13 @@ Redesign: the team lead introduces a four-week timebox for the next prototype cy
 
 ## Connections
 
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — the Planning Fallacy (underestimating duration) and Parkinson's Law (work expanding to fill duration) are complementary: we underestimate how long things take and then fill whatever time we allocated.
-→ [**Organisational Slack**](organizational-slack.md) — Organisational Slack has genuine value for exploration and variance absorption; Parkinson's Law is the failure mode when slack becomes the norm rather than the buffer.
-→ [**WIP Limits**](../Delivery-and-Flow/wip-limits.md) — WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion.
-→ [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — interventions designed to reduce bureaucratic expansion (new approval processes, oversight committees) can trigger Parkinson dynamics: the oversight infrastructure itself expands to fill available budget and attention.
-→ [**Peter Principle**](../Leadership/peter-principle.md) — Parkinson's Law describes how organisations expand; the Peter Principle describes how the people filling that expansion are selected. Together they explain why large organisations systematically underperform their headcount.
-→ [**Dunbar's Number**](../Systems/dunbars-number.md) — above Dunbar's Number, organisations rely on process and structure rather than direct relationships; Parkinson expansion accelerates as organisations exceed the scale where informal coordination works.
-→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth.
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — the Planning Fallacy (underestimating duration) and Parkinson's Law (work expanding to fill duration) are complementary: we underestimate how long things take and then fill whatever time we allocated.
+→ [176·Organisational Slack](organizational-slack.md) — Organisational Slack has genuine value for exploration and variance absorption; Parkinson's Law is the failure mode when slack becomes the norm rather than the buffer.
+→ [132·WIP Limits](../Delivery-and-Flow/wip-limits.md) — WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion.
+→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — interventions designed to reduce bureaucratic expansion (new approval processes, oversight committees) can trigger Parkinson dynamics: the oversight infrastructure itself expands to fill available budget and attention.
+→ [242·Peter Principle](../Leadership/peter-principle.md) — Parkinson's Law describes how organisations expand; the Peter Principle describes how the people filling that expansion are selected. Together they explain why large organisations systematically underperform their headcount.
+→ [243·Dunbar's Number](../Systems/dunbars-number.md) — above Dunbar's Number, organisations rely on process and structure rather than direct relationships; Parkinson expansion accelerates as organisations exceed the scale where informal coordination works.
+→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth.
 
 ---
 

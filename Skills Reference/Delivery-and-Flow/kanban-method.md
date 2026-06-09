@@ -44,11 +44,11 @@ A 14-person platform engineering team manages requests from five product groups.
 
 ## Connections
 
-→ [**WIP Limits**](wip-limits.md) — the active ingredient of the method.
-→ [**Little's Law**](littles-law.md) — the arithmetic that explains why Kanban delivers shorter cycle times.
-→ [**Flow Metrics**](flow-metrics.md) — Kanban produces the data; flow metrics interpret it.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — Kanban makes constraints visible.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — pull systems are balancing feedback loops; Kanban makes the loop visible.
+→ [132·WIP Limits](wip-limits.md) — the active ingredient of the method.
+→ [131·Little's Law](littles-law.md) — the arithmetic that explains why Kanban delivers shorter cycle times.
+→ [143·Flow Metrics](flow-metrics.md) — Kanban produces the data; flow metrics interpret it.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — Kanban makes constraints visible.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — pull systems are balancing feedback loops; Kanban makes the loop visible.
 
 ---
 

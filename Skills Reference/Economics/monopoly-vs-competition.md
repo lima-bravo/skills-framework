@@ -43,10 +43,10 @@ Stripe entered the payments market dominated by established processors (PayPal, 
 
 ## Connections
 
-→ [**Defensibility**](../Network-Effects/defensibility.md) — monopoly position must be defended; defensibility describes the mechanisms.
-→ [**Creative Destruction**](creative-destruction.md) — monopolies are destroyed by new entrants competing on new dimensions.
-→ [**Network Effects**](../Network-Effects/network-effects.md) — the most powerful monopoly-creating force in digital markets.
-→ [**Specialization**](specialization.md) — deep specialization in a narrow domain is one path to monopoly; the practitioner must judge whether the domain is durable.
+→ [85·Defensibility](../Network-Effects/defensibility.md) — monopoly position must be defended; defensibility describes the mechanisms.
+→ [37·Creative Destruction](creative-destruction.md) — monopolies are destroyed by new entrants competing on new dimensions.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — the most powerful monopoly-creating force in digital markets.
+→ [32·Specialization](specialization.md) — deep specialization in a narrow domain is one path to monopoly; the practitioner must judge whether the domain is durable.
 
 ## References
 

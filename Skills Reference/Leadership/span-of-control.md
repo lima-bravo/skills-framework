@@ -46,11 +46,11 @@ A software delivery program is running 18 months behind schedule. The programme 
 
 ## Connections
 
-→ [**Team Topologies**](../Delivery-and-Flow/team-topologies.md) — Team Topologies defines team *types* (stream-aligned, platform, enabling, complicated-subsystem); span of control governs team *size* within each type. Both constraints must be satisfied.
-→ [**Cognitive Load (Team)**](../Delivery-and-Flow/cognitive-load-team.md) — team cognitive load is a function of both the complexity of the domain and the coordination overhead of the team size; the two interact.
-→ [**Dependency Management**](../Delivery-and-Flow/dependency-management.md) — cross-team dependencies scale with the number of teams, which is itself a function of how span-of-control limits have been applied.
-→ [**Inverse Conway Maneuver**](../Delivery-and-Flow/inverse-conway.md) — team size and structure determine what architectures are buildable; span-of-control decisions are therefore architectural decisions.
-→ [**Mission Command**](mission-command.md) — effective mission command requires a team small enough for mutual understanding of intent; teams larger than Dunbar's 15 cannot maintain the shared context that autonomous action requires.
+→ [154·Team Topologies](../Delivery-and-Flow/team-topologies.md) — Team Topologies defines team *types* (stream-aligned, platform, enabling, complicated-subsystem); span of control governs team *size* within each type. Both constraints must be satisfied.
+→ [150·Cognitive Load (Team)](../Delivery-and-Flow/cognitive-load-team.md) — team cognitive load is a function of both the complexity of the domain and the coordination overhead of the team size; the two interact.
+→ [156·Dependency Management](../Delivery-and-Flow/dependency-management.md) — cross-team dependencies scale with the number of teams, which is itself a function of how span-of-control limits have been applied.
+→ [155·Inverse Conway Maneuver](../Delivery-and-Flow/inverse-conway.md) — team size and structure determine what architectures are buildable; span-of-control decisions are therefore architectural decisions.
+→ [118·Mission Command](mission-command.md) — effective mission command requires a team small enough for mutual understanding of intent; teams larger than Dunbar's 15 cannot maintain the shared context that autonomous action requires.
 
 ---
 

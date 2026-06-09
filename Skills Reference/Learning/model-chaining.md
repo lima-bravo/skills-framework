@@ -42,8 +42,8 @@ A company is experiencing high customer churn despite strong product reviews. Mo
 
 ## Connections
 
-→ [**First Principles**](../General-Thinking/first-principles.md) — model chains are built from principled building blocks, not arbitrary combinations.
-→ [**Pre-built Chains**](pre-built-chains.md) — the pre-built chains in this framework are curated model chains for specific recurring decisions.
+→ [0·First Principles](../General-Thinking/first-principles.md) — model chains are built from principled building blocks, not arbitrary combinations.
+→ [105·Pre-built Chains](pre-built-chains.md) — the pre-built chains in this framework are curated model chains for specific recurring decisions.
 ## References
 
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — the latticework of mental models is Munger's central concept: models chain, not stack.

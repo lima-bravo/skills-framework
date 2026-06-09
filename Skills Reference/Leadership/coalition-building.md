@@ -57,14 +57,14 @@ By the time the ExCo discussion occurs, the framework has five active divisional
 
 ## Connections
 
-→ [**Power Mapping**](../Business/power-mapping.md) — the essential prerequisite: the power map identifies who needs to be in the coalition, who the opinion leaders are, and what relationships between potential members already exist. *Build the power map before building the coalition.*
-→ [**Influence Without Authority**](influence-without-authority.md) — the interpersonal skill set applied to each coalition member individually; coalition building is what happens when those individual influence relationships are assembled into a coherent group. *These cards are complementary — this one addresses the group level, IWA addresses the individual level.*
-→ [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — maps who has legitimate standing and what they care about; informs coalition recruitment by identifying the constituencies that must be represented
-→ [**Change Management**](change-management.md) — coalition building is the political infrastructure of change management; Kotter's model names the "guiding coalition" as the second step for a reason
-→ [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — coalition members who have publicly committed to the initiative are significantly more likely to sustain that support under pressure than those who have only privately agreed
-→ [**Social Proof**](../Psychology/social-proof.md) — the visible size and credibility of the coalition influences undecided stakeholders; announcing coalition membership strategically is a social proof intervention
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — coalition members are agents whose individual interests may not fully align with the coalition's stated purpose; understanding each member's private incentives is necessary for predicting where fracture is most likely
-→ [**Overton Window**](../General-Thinking/overton-window.md) — moving the Overton Window requires building a coalition of advocates who normalise boundary positions before the main proposal is made; coalition building is the organisational mechanism of window-shifting.
+→ [220·Power Mapping](../Business/power-mapping.md) — the essential prerequisite: the power map identifies who needs to be in the coalition, who the opinion leaders are, and what relationships between potential members already exist. *Build the power map before building the coalition.*
+→ [221·Influence Without Authority](influence-without-authority.md) — the interpersonal skill set applied to each coalition member individually; coalition building is what happens when those individual influence relationships are assembled into a coherent group. *These cards are complementary — this one addresses the group level, IWA addresses the individual level.*
+→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — maps who has legitimate standing and what they care about; informs coalition recruitment by identifying the constituencies that must be represented
+→ [125·Change Management](change-management.md) — coalition building is the political infrastructure of change management; Kotter's model names the "guiding coalition" as the second step for a reason
+→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — coalition members who have publicly committed to the initiative are significantly more likely to sustain that support under pressure than those who have only privately agreed
+→ [202·Social Proof](../Psychology/social-proof.md) — the visible size and credibility of the coalition influences undecided stakeholders; announcing coalition membership strategically is a social proof intervention
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — coalition members are agents whose individual interests may not fully align with the coalition's stated purpose; understanding each member's private incentives is necessary for predicting where fracture is most likely
+→ [234·Overton Window](../General-Thinking/overton-window.md) — moving the Overton Window requires building a coalition of advocates who normalise boundary positions before the main proposal is made; coalition building is the organisational mechanism of window-shifting.
 
 ---
 

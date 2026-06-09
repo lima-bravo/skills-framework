@@ -53,14 +53,14 @@ Outcome: the hired candidate is not either of the pre-championed individuals. Po
 
 ## Connections
 
-→ [**Experiment Design**](../Business/experiment-design.md) — blinded evaluation is the structural application of observer bias control to formal experiments; the control group alone is not sufficient if assessors know which condition is which
-→ [**Confirmation Bias**](confirmation-bias.md) — observer bias is confirmation bias operating at the point of measurement; the fix (blinding) prevents expectation from shaping the evidence rather than trying to correct it after the fact
-→ [**Falsification**](falsification.md) — producing genuinely falsifiable evidence requires that the measurement process be insulated from the hypothesis; observer bias is the mechanism by which measurements quietly align with hypotheses
-→ [**Calibration**](../General-Thinking/calibration.md) — uncorrected observer bias degrades calibration; evaluators who systematically rate expected winners higher develop track records that look accurate but are contaminated
+→ [72·Experiment Design](../Business/experiment-design.md) — blinded evaluation is the structural application of observer bias control to formal experiments; the control group alone is not sufficient if assessors know which condition is which
+→ [55·Confirmation Bias](confirmation-bias.md) — observer bias is confirmation bias operating at the point of measurement; the fix (blinding) prevents expectation from shaping the evidence rather than trying to correct it after the fact
+→ [204·Falsification](falsification.md) — producing genuinely falsifiable evidence requires that the measurement process be insulated from the hypothesis; observer bias is the mechanism by which measurements quietly align with hypotheses
+→ [211·Calibration](../General-Thinking/calibration.md) — uncorrected observer bias degrades calibration; evaluators who systematically rate expected winners higher develop track records that look accurate but are contaminated
 → [**Hiring Decision**](../Pre-built-Chains/hiring-decision.md) (Pre-built Chain) — blind review of written assessments and structured independent scoring are the two highest-leverage interventions in the hiring chain
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — the assumptions an evaluator holds about a candidate or option are the exact source of the expectation that drives observer bias; surfacing those assumptions before evaluation is the upstream intervention
-→ [**Psychological Safety**](psychological-safety.md) — in low-safety environments, evaluators are more likely to anchor on the dominant view rather than submit independent assessments; observer bias is amplified by social pressure
-→ [**Business Case Construction**](../Business/business-case-construction.md) — the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence against the observer bias that makes advocacy look like analysis.
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — the assumptions an evaluator holds about a candidate or option are the exact source of the expectation that drives observer bias; surfacing those assumptions before evaluation is the upstream intervention
+→ [104·Psychological Safety](psychological-safety.md) — in low-safety environments, evaluators are more likely to anchor on the dominant view rather than submit independent assessments; observer bias is amplified by social pressure
+→ [218·Business Case Construction](../Business/business-case-construction.md) — the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence against the observer bias that makes advocacy look like analysis.
 
 ## References
 

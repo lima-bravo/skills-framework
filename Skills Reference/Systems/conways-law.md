@@ -42,13 +42,13 @@ A startup grows from 10 to 60 engineers. At 10, everyone talks to everyone, the 
 
 ## Connections
 
-→ [**Bottlenecks**](bottlenecks.md) — system integration points between teams are common bottlenecks; Conway's Law explains why.
-→ [**Emergence**](emergence.md) — the architecture that emerges from a team structure is an emergent property of the communication dynamics.
-→ [**Interdependence**](../Economics/interdependence.md) — Conway's Law is the specific version of the interdependence principle applied to system design.
-→ [**Path Dependence**](../Systems/path-dependence.md) — the communication structures of the past create the architectural paths of the present; Conway's Law is a primary mechanism of path dependence in software systems.
-→ [**Dunbar's Number**](dunbars-number.md) — Dunbar's Number is the cognitive constraint behind Conway's Law: the communication structure of the organisation is shaped by what humans can track, and this shapes the architecture.
-→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — org communication structures determine scheduling norms as a structural output; how an organisation communicates becomes how makers' days are fragmented.
-→ [**RACI Framework**](../Business/raci-framework.md) — RACI matrices mirror organisational structure; the gaps and overlaps in a RACI are often direct reflections of ambiguous org design that Conway's Law predicts will appear in the work product too.
+→ [18·Bottlenecks](bottlenecks.md) — system integration points between teams are common bottlenecks; Conway's Law explains why.
+→ [19·Emergence](emergence.md) — the architecture that emerges from a team structure is an emergent property of the communication dynamics.
+→ [39·Interdependence](../Economics/interdependence.md) — Conway's Law is the specific version of the interdependence principle applied to system design.
+→ [235·Path Dependence](../Systems/path-dependence.md) — the communication structures of the past create the architectural paths of the present; Conway's Law is a primary mechanism of path dependence in software systems.
+→ [243·Dunbar's Number](dunbars-number.md) — Dunbar's Number is the cognitive constraint behind Conway's Law: the communication structure of the organisation is shaped by what humans can track, and this shapes the architecture.
+→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — org communication structures determine scheduling norms as a structural output; how an organisation communicates becomes how makers' days are fragmented.
+→ [127·RACI Framework](../Business/raci-framework.md) — RACI matrices mirror organisational structure; the gaps and overlaps in a RACI are often direct reflections of ambiguous org design that Conway's Law predicts will appear in the work product too.
 
 ## References
 

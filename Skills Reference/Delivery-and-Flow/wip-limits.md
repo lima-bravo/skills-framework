@@ -45,12 +45,12 @@ A marketing operations team has 22 campaigns in flight across 8 people. Cycle ti
 
 ## Connections
 
-→ [**Little's Law**](littles-law.md) — WIP limits are how Little's Law becomes management practice; lower L, lower W.
-→ [**Kanban Method**](kanban-method.md) — Kanban is the system; WIP limits are the active ingredient.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — WIP limits at non-bottleneck stages force the constraint to become visible.
-→ [**Flow Efficiency**](flow-efficiency.md) — limiting WIP cuts wait time, which is where most cycle time hides.
-→ [**Attention Budget**](attention-budget.md) — individual WIP limits are the personal analogue.
-→ [**Parkinson's Law**](../Business/parkinsons-law.md) — WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion.
+→ [131·Little's Law](littles-law.md) — WIP limits are how Little's Law becomes management practice; lower L, lower W.
+→ [138·Kanban Method](kanban-method.md) — Kanban is the system; WIP limits are the active ingredient.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — WIP limits at non-bottleneck stages force the constraint to become visible.
+→ [133·Flow Efficiency](flow-efficiency.md) — limiting WIP cuts wait time, which is where most cycle time hides.
+→ [148·Attention Budget](attention-budget.md) — individual WIP limits are the personal analogue.
+→ [241·Parkinson's Law](../Business/parkinsons-law.md) — WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion.
 
 ---
 

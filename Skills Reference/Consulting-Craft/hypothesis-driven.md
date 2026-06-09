@@ -44,15 +44,15 @@ A consulting team is engaged to diagnose declining margin in a 40-product portfo
 
 ## Connections
 
-→ [**MECE**](mece.md) — sub-hypotheses should be mutually exclusive and collectively exhaustive.
-→ [**Pyramid Principle**](pyramid-principle.md) — the communication structure that pairs naturally with hypothesis-driven work.
-→ [**Experiment Design**](../Business/experiment-design.md) — the operational discipline behind testing hypotheses.
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — imagine the hypothesis is wrong; what would tell you?
-→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — strategy as a falsifiable hypothesis.
-→ [**Situation Assessment**](situation-assessment.md) — the fact base a day-one hypothesis must be tested against; without it, the "hypothesis" is a guess about a situation no one has actually examined.
-→ [**Structured Problem Solving**](structured-problem-solving.md) — hypothesis-driven framing as one of five components of an integrated posture; alone, it risks becoming advocacy dressed as rigor.
-→ [**Growth Barriers**](../Business/growth-barriers.md) — the binding-constraint diagnosis is a hypothesis until it survives contact with evidence; this card supplies the discipline for testing it cheaply before committing to a full-scale response.
-→ [**KPI Architecture**](../Business/kpi-architecture.md) — choosing a leading indicator is a falsifiable hypothesis about what drives the outcome; KPI architecture is hypothesis-driven thinking applied to measurement design.
+→ [162·MECE](mece.md) — sub-hypotheses should be mutually exclusive and collectively exhaustive.
+→ [163·Pyramid Principle](pyramid-principle.md) — the communication structure that pairs naturally with hypothesis-driven work.
+→ [72·Experiment Design](../Business/experiment-design.md) — the operational discipline behind testing hypotheses.
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — imagine the hypothesis is wrong; what would tell you?
+→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — strategy as a falsifiable hypothesis.
+→ [246·Situation Assessment](situation-assessment.md) — the fact base a day-one hypothesis must be tested against; without it, the "hypothesis" is a guess about a situation no one has actually examined.
+→ [253·Structured Problem Solving](structured-problem-solving.md) — hypothesis-driven framing as one of five components of an integrated posture; alone, it risks becoming advocacy dressed as rigor.
+→ [247·Growth Barriers](../Business/growth-barriers.md) — the binding-constraint diagnosis is a hypothesis until it survives contact with evidence; this card supplies the discipline for testing it cheaply before committing to a full-scale response.
+→ [250·KPI Architecture](../Business/kpi-architecture.md) — choosing a leading indicator is a falsifiable hypothesis about what drives the outcome; KPI architecture is hypothesis-driven thinking applied to measurement design.
 
 ---
 

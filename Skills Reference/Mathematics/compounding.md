@@ -43,14 +43,14 @@ Amazon's flywheel is the most celebrated corporate compounding engine: lower pri
 
 ## Connections
 
-→ [**Unit Economics**](../Economics/unit-economics.md) — strong unit economics compound over time: retained customers generate expansion revenue, referrals reduce CAC, and the economics improve rather than degrade with scale.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — compounding is driven by reinforcing feedback loops; they are the same phenomenon.
-→ [**Diminishing Returns**](../Systems/diminishing-returns.md) — the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
-→ [**Churn**](../Systems/churn.md) — churn is the subtrahend in the compounding equation; even a small reduction in churn rate compounds forward dramatically over time.
-→ [**S-Curves**](../Systems/s-curves.md) — the growth phase of an S-curve exhibits near-compounding dynamics; S-curve thinking is what recognises when compounding will eventually stop.
-→ [**Adjacent Possible**](../Systems/adjacent-possible.md) — each step through the adjacent possible compounds: entering a new room opens new doors unavailable from the previous one, so early moves have value beyond the immediate problem they solve.
-→ [**Debt**](../Economics/debt.md) — unserviced debt compounds the same way returns do but in the wrong direction; compounding explains why small deferrals become existential obligations.
+→ [216·Unit Economics](../Economics/unit-economics.md) — strong unit economics compound over time: retained customers generate expansion revenue, referrals reduce CAC, and the economics improve rather than degrade with scale.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — compounding is driven by reinforcing feedback loops; they are the same phenomenon.
+→ [23·Diminishing Returns](../Systems/diminishing-returns.md) — the counterpoint: some processes compound initially and then hit diminishing returns. Understanding which applies determines investment strategy.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — protecting the base is critical to maintaining compounding; margin of safety is the mechanism.
+→ [25·Churn](../Systems/churn.md) — churn is the subtrahend in the compounding equation; even a small reduction in churn rate compounds forward dramatically over time.
+→ [102·S-Curves](../Systems/s-curves.md) — the growth phase of an S-curve exhibits near-compounding dynamics; S-curve thinking is what recognises when compounding will eventually stop.
+→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — each step through the adjacent possible compounds: entering a new room opens new doors unavailable from the previous one, so early moves have value beyond the immediate problem they solve.
+→ [36·Debt](../Economics/debt.md) — unserviced debt compounds the same way returns do but in the wrong direction; compounding explains why small deferrals become existential obligations.
 
 ## References
 

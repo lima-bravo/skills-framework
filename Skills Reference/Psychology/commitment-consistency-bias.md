@@ -57,14 +57,14 @@ A consistency-aware culture would have pre-specified the conditions under which 
 
 ## Connections
 
-→ [**Sunk Cost**](sunk-cost.md) — consistency bias is the psychological mechanism; sunk cost fallacy is the economic framing of the same error
-→ [**Dominant Logic**](../Business/dominant-logic.md) — organisation-level consistency bias: the founding narrative that must be defended because it is central to institutional identity
-→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — the structural antidote: pre-specified exit conditions that bypass the in-the-moment consistency pull
-→ [**Falsification**](falsification.md) — both concern the failure to update on disconfirming evidence; consistency bias describes the motivational barrier, falsification describes the epistemic discipline
-→ [**Confirmation Bias**](confirmation-bias.md) — closely related; consistency bias generates the motivation to seek confirming evidence rather than falsifying evidence
-→ [**After-Action Review**](../Leadership/after-action-review.md) — properly run AARs create a safe container for updating on past decisions without triggering consistency defence
-→ [**Drift to Failure**](../Systems/drift-to-failure.md) — each step of drift is reinforced by consistency bias; having taken each prior step, reversing course requires acknowledging that an accumulation of reasonable decisions has produced an unreasonable aggregate state
-→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — public commitments to cooperate can serve as credible signals that shift the equilibrium away from mutual defection
+→ [53·Sunk Cost](sunk-cost.md) — consistency bias is the psychological mechanism; sunk cost fallacy is the economic framing of the same error
+→ [173·Dominant Logic](../Business/dominant-logic.md) — organisation-level consistency bias: the founding narrative that must be defended because it is central to institutional identity
+→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — the structural antidote: pre-specified exit conditions that bypass the in-the-moment consistency pull
+→ [204·Falsification](falsification.md) — both concern the failure to update on disconfirming evidence; consistency bias describes the motivational barrier, falsification describes the epistemic discipline
+→ [55·Confirmation Bias](confirmation-bias.md) — closely related; consistency bias generates the motivation to seek confirming evidence rather than falsifying evidence
+→ [196·After-Action Review](../Leadership/after-action-review.md) — properly run AARs create a safe container for updating on past decisions without triggering consistency defence
+→ [208·Drift to Failure](../Systems/drift-to-failure.md) — each step of drift is reinforced by consistency bias; having taken each prior step, reversing course requires acknowledging that an accumulation of reasonable decisions has produced an unreasonable aggregate state
+→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — public commitments to cooperate can serve as credible signals that shift the equilibrium away from mutual defection
 
 ## References
 

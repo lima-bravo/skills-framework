@@ -71,14 +71,14 @@ The team has now tested all four critical assumptions — in ascending order of 
 
 ## Connections
 
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — the upstream step: identify and prioritize which assumptions to test before selecting experiment type. The Experiment Ladder answers *how to test*; Assumption Mapping answers *what to test and in what order*.
-→ [**Experiment Design**](../Business/experiment-design.md) — the downstream step: once you have selected the right experiment type, Experiment Design provides the discipline for running it rigorously — hypothesis formulation, success criteria, sample size, control conditions.
-→ [**Pretotyping**](pretotyping.md) — a specific cluster of simulation-level techniques that test desirability before building; pretotyping sits at the simulation rung of the ladder.
-→ [**MVP**](mvp.md) — a specific product-level experiment; the MVP is one instrument at the product rung, not a synonym for the ladder itself.
-→ [**Customer Development**](customer-development.md) — the methodology for discovery-level experiments; customer development interviews are the primary instrument at the discovery rung.
-→ [**Build-Measure-Learn**](build-measure-learn.md) — the overall cycle within which the ladder operates; the ladder determines which type of "build" is appropriate for each learning loop.
-→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — pre-defining what result would be insufficient to continue; kill criteria applied at each rung of the ladder prevent motivated reasoning from carrying a failing assumption forward.
-→ [**Two-Way Doors**](../General-Thinking/two-way-doors.md) — the reversibility principle that governs how far up the ladder to go before committing: lower rungs are two-way doors, upper rungs become progressively less reversible.
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — the upstream step: identify and prioritize which assumptions to test before selecting experiment type. The Experiment Ladder answers *how to test*; Assumption Mapping answers *what to test and in what order*.
+→ [72·Experiment Design](../Business/experiment-design.md) — the downstream step: once you have selected the right experiment type, Experiment Design provides the discipline for running it rigorously — hypothesis formulation, success criteria, sample size, control conditions.
+→ [181·Pretotyping](pretotyping.md) — a specific cluster of simulation-level techniques that test desirability before building; pretotyping sits at the simulation rung of the ladder.
+→ [64·MVP](mvp.md) — a specific product-level experiment; the MVP is one instrument at the product rung, not a synonym for the ladder itself.
+→ [66·Customer Development](customer-development.md) — the methodology for discovery-level experiments; customer development interviews are the primary instrument at the discovery rung.
+→ [63·Build-Measure-Learn](build-measure-learn.md) — the overall cycle within which the ladder operates; the ladder determines which type of "build" is appropriate for each learning loop.
+→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — pre-defining what result would be insufficient to continue; kill criteria applied at each rung of the ladder prevent motivated reasoning from carrying a failing assumption forward.
+→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — the reversibility principle that governs how far up the ladder to go before committing: lower rungs are two-way doors, upper rungs become progressively less reversible.
 ## References
 
 - *Testing Business Ideas: A Field Guide for Rapid Experimentation* — David J. Bland & Alexander Osterwalder (2019) — the source of the experiment ladder and the full library of experiment types.

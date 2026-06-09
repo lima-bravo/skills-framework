@@ -48,13 +48,13 @@ A senior engineer is allocated full-time to a critical project. Their calendar s
 
 ## Connections
 
-→ [**Deep Work / Cognitive Capacity**](../Learning/deep-work.md) — the scheduling structure that preserves or destroys deep work time.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — fragmented schedules make attention the binding bottleneck.
-→ [**Activation Energy**](../Physics-and-Chemistry/activation-energy.md) — every interruption resets the cost of re-entering deep focus.
-→ [**Friction**](../Physics-and-Chemistry/friction.md) — scattered meetings are a structural source of compounding cognitive friction.
-→ [**Incentives**](../Psychology/incentives.md) — organisations reward responsiveness; protecting maker time requires counteracting this incentive gradient.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — fragmentation → lower output → more status meetings → more fragmentation.
-→ [**Conway's Law**](../Systems/conways-law.md) — org communication structures determine scheduling norms as a structural output.
+→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work.md) — the scheduling structure that preserves or destroys deep work time.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — fragmented schedules make attention the binding bottleneck.
+→ [45·Activation Energy](../Physics-and-Chemistry/activation-energy.md) — every interruption resets the cost of re-entering deep focus.
+→ [44·Friction](../Physics-and-Chemistry/friction.md) — scattered meetings are a structural source of compounding cognitive friction.
+→ [51·Incentives](../Psychology/incentives.md) — organisations reward responsiveness; protecting maker time requires counteracting this incentive gradient.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — fragmentation → lower output → more status meetings → more fragmentation.
+→ [28·Conway's Law](../Systems/conways-law.md) — org communication structures determine scheduling norms as a structural output.
 
 ---
 

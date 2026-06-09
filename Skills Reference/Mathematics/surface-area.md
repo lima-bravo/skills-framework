@@ -42,9 +42,9 @@ An author publishes a book on a technical topic. The book is the expansion of su
 
 ## Connections
 
-→ [**Network Effects**](../Network-Effects/network-effects.md) — surface area determines the surface over which network effects can operate.
-→ [**Leverage**](../Physics-and-Chemistry/leverage.md) — high surface area creates high leverage for opportunities; each public artefact multiplies the inbound.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — high surface area increases vulnerability; margin of safety provides buffer.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — surface area determines the surface over which network effects can operate.
+→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — high surface area creates high leverage for opportunities; each public artefact multiplies the inbound.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — high surface area increases vulnerability; margin of safety provides buffer.
 ## References
 
 - *Antifragile: Things That Gain from Disorder* — Nassim Nicholas Taleb (2012) — exposure (positive and negative surface area) as the key variable in fragility and optionality.

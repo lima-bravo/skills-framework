@@ -43,14 +43,14 @@ A company has spent £2M and two years building a B2B product that has found no 
 
 ## Connections
 
-→ [**Loss Aversion**](loss-aversion.md) — sunk cost fallacy is driven by loss aversion: abandoning the project makes the prior loss "real."
-→ [**Inversion**](../General-Thinking/inversion.md) — "if I were starting fresh today" is an inversion of the current position; it removes the sunk cost framing.
-→ [**Opportunity Cost**](../Economics/trade-offs.md) — sunk cost blindness prevents people from seeing the opportunity cost of continuing a failing investment.
-→ [**Path Dependence**](../Systems/path-dependence.md) — sunk costs are a primary source of path dependence: the psychology of not wanting to write off prior investment keeps organisations on paths that rational fresh-start analysis would reject.
-→ [**Commitment & Consistency Bias**](commitment-consistency-bias.md) — consistency bias is the psychological mechanism amplifying sunk cost: the identity attached to a decision makes abandonment feel like self-betrayal, not just loss.
-→ [**Business Case Construction**](../Business/business-case-construction.md) — the most common failure in mid-investment review; an approved business case becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence, which is why kill conditions must be stated at approval time.
-→ [**Value Realization**](../Business/value-realization.md) — value realization exists structurally to counteract sunk-cost bias: the independent ledger and named owner remove the most invested party from judging their own work.
-→ [**Pivot or Persevere**](../Startups/pivot-or-persevere.md) — the perseverance trap in startup pivots is often sunk-cost reasoning; the structured pivot decision requires separating evidence from prior investment.
+→ [52·Loss Aversion](loss-aversion.md) — sunk cost fallacy is driven by loss aversion: abandoning the project makes the prior loss "real."
+→ [1·Inversion](../General-Thinking/inversion.md) — "if I were starting fresh today" is an inversion of the current position; it removes the sunk cost framing.
+→ [30·Opportunity Cost](../Economics/trade-offs.md) — sunk cost blindness prevents people from seeing the opportunity cost of continuing a failing investment.
+→ [235·Path Dependence](../Systems/path-dependence.md) — sunk costs are a primary source of path dependence: the psychology of not wanting to write off prior investment keeps organisations on paths that rational fresh-start analysis would reject.
+→ [205·Commitment & Consistency Bias](commitment-consistency-bias.md) — consistency bias is the psychological mechanism amplifying sunk cost: the identity attached to a decision makes abandonment feel like self-betrayal, not just loss.
+→ [218·Business Case Construction](../Business/business-case-construction.md) — the most common failure in mid-investment review; an approved business case becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence, which is why kill conditions must be stated at approval time.
+→ [251·Value Realization](../Business/value-realization.md) — value realization exists structurally to counteract sunk-cost bias: the independent ledger and named owner remove the most invested party from judging their own work.
+→ [65·Pivot or Persevere](../Startups/pivot-or-persevere.md) — the perseverance trap in startup pivots is often sunk-cost reasoning; the structured pivot decision requires separating evidence from prior investment.
 
 ---
 

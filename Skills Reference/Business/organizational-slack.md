@@ -60,13 +60,13 @@ For innovation purposes, unabsorbed slack — particularly in human attention an
 
 ## Connections
 
-→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — slack is a prerequisite for exploration; without protected capacity, exploration is crowded out by exploitation regardless of strategic intent.
-→ [**Ambidextrous Organization**](ambidextrous-organization.md) — ambidextrous structure without protected slack is structural theater; the explore unit needs real capacity, not nominal assignment.
-→ [**Deep Work / Cognitive Capacity**](../Learning/deep-work-cognitive-capacity.md) — innovation requires focused, uninterrupted cognitive work; slack policy and deep work norms are the organizational and individual sides of the same requirement.
-→ [**Context-Switching Cost**](../Delivery-and-Flow/context-switching-cost.md) — fragmented attention destroys cognitive slack even when calendar slack nominally exists; the two must be managed together.
-→ [**Three Horizons**](three-horizons.md) — H2 and H3 work requires slack; organizations that run H1 at 100% efficiency consume the capacity needed to develop the next horizons.
-→ [**Lean Portfolio Management**](../Delivery-and-Flow/lean-portfolio-management.md) — portfolio-level slack policy — explicit capacity reservation for strategic bets — is the mechanism for protecting exploration investment at scale.
-→ [**Parkinson's Law**](parkinsons-law.md) — Parkinson's Law is the failure mode of slack: unstructured spare capacity fills with low-value activity; the value of slack depends on it being deliberately allocated rather than simply available.
+→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — slack is a prerequisite for exploration; without protected capacity, exploration is crowded out by exploitation regardless of strategic intent.
+→ [172·Ambidextrous Organization](ambidextrous-organization.md) — ambidextrous structure without protected slack is structural theater; the explore unit needs real capacity, not nominal assignment.
+→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work-cognitive-capacity.md) — innovation requires focused, uninterrupted cognitive work; slack policy and deep work norms are the organizational and individual sides of the same requirement.
+→ [149·Context-Switching Cost](../Delivery-and-Flow/context-switching-cost.md) — fragmented attention destroys cognitive slack even when calendar slack nominally exists; the two must be managed together.
+→ [113·Three Horizons](three-horizons.md) — H2 and H3 work requires slack; organizations that run H1 at 100% efficiency consume the capacity needed to develop the next horizons.
+→ [158·Lean Portfolio Management](../Delivery-and-Flow/lean-portfolio-management.md) — portfolio-level slack policy — explicit capacity reservation for strategic bets — is the mechanism for protecting exploration investment at scale.
+→ [241·Parkinson's Law](parkinsons-law.md) — Parkinson's Law is the failure mode of slack: unstructured spare capacity fills with low-value activity; the value of slack depends on it being deliberately allocated rather than simply available.
 
 ---
 

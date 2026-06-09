@@ -40,14 +40,14 @@ Confirm the planning process rewards honesty about constraints, not optimism tha
 If Steps 1–7 show the plan is viable with honest numbers, and Step 8 confirms the process was honest, commit. Otherwise: reduce scope, extend the timeline, add resourcing to the binding constraint, or resolve debt first.
 
 ## Connections
-→ [**Deep Work / Cognitive Capacity**](../Learning/deep-work.md) — foundational capacity metric: realistic deep work hours, not calendar hours
-→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — fragmentation adjustment applied in Step 2
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — demand-side correction applied in Step 3
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — binding constraint identification in Step 4
-→ [**Debt**](../Economics/debt.md) — pre-existing capacity tax accounted for in Step 5
-→ [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — feedback loop modeled in Step 6
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — final buffer applied in Step 7
-→ [**Incentives**](../Psychology/incentives.md) — process integrity check in Step 8
+→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work.md) — foundational capacity metric: realistic deep work hours, not calendar hours
+→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — fragmentation adjustment applied in Step 2
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — demand-side correction applied in Step 3
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — binding constraint identification in Step 4
+→ [36·Debt](../Economics/debt.md) — pre-existing capacity tax accounted for in Step 5
+→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — feedback loop modeled in Step 6
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — final buffer applied in Step 7
+→ [51·Incentives](../Psychology/incentives.md) — process integrity check in Step 8
 
 ---
 *Part of the [Skills Framework](../../docs/deck.html) — a structured collection of mental models for better thinking and decision-making.*

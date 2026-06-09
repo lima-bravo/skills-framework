@@ -43,11 +43,11 @@ A FMCG company runs an annual innovation sprint: 200 ideas entered, 50 developed
 
 ## Connections
 
-→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — each stage of the funnel is a BML cycle.
-→ [**Assumption Mapping**](assumption-mapping.md) — each stage tests specific assumptions before advancing.
-→ [**Portfolio Map**](portfolio-map.md) — the portfolio map shows the aggregate distribution of bets across stages.
-→ [**Funnel Intake**](../Pre-built-Chains/funnel-intake.md) — the chain that gates ideas into the funnel: enriches via First Principles + JTBD, then runs a strategic fit check before committing funnel capacity
-→ [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — the chain that converts funnel ideas into testable hypotheses with explicit kill criteria
+→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — each stage of the funnel is a BML cycle.
+→ [73·Assumption Mapping](assumption-mapping.md) — each stage tests specific assumptions before advancing.
+→ [71·Portfolio Map](portfolio-map.md) — the portfolio map shows the aggregate distribution of bets across stages.
+→ [245·Funnel Intake](../Pre-built-Chains/funnel-intake.md) — the chain that gates ideas into the funnel: enriches via First Principles + JTBD, then runs a strategic fit check before committing funnel capacity
+→ [213·From Idea to Hypothesis](../Pre-built-Chains/from-idea-to-hypothesis.md) — the chain that converts funnel ideas into testable hypotheses with explicit kill criteria
 ## References
 
 - *Winning at New Products: Accelerating the Process from Idea to Launch* — Robert G. Cooper (1986; 4th ed. 2011) — the Stage-Gate® process that formalized the innovation funnel.

@@ -39,15 +39,15 @@ L. David Marquet took command of the USS Santa Fe, the worst-performing submarin
 
 ## Connections
 
-→ [**OODA Loop**](ooda-loop.md) — the decision cycle that mission command enables
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — mission briefs should surface the trigger conditions for improvisation
-→ [**First Principles**](../General-Thinking/first-principles.md) — communicating intent forces articulation of the first-principles rationale
-→ [**Capacity Planning**](../Pre-built-Chains/capacity-planning.md) — requires delegated accountability; mission command is the cultural infrastructure
+→ [119·OODA Loop](ooda-loop.md) — the decision cycle that mission command enables
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — mission briefs should surface the trigger conditions for improvisation
+→ [0·First Principles](../General-Thinking/first-principles.md) — communicating intent forces articulation of the first-principles rationale
+→ [117·Capacity Planning](../Pre-built-Chains/capacity-planning.md) — requires delegated accountability; mission command is the cultural infrastructure
 
-→ [**Span of Control**](../Delivery-and-Flow/span-of-control.md) — effective mission command requires a team small enough for shared understanding of intent; groups larger than Dunbar's 15 cannot maintain the mutual context that autonomous action requires.
+→ [257·Span of Control](../Delivery-and-Flow/span-of-control.md) — effective mission command requires a team small enough for shared understanding of intent; groups larger than Dunbar's 15 cannot maintain the mutual context that autonomous action requires.
 
-→ [**Coaching Stance**](../Consulting-Craft/coaching-stance.md) — mission command and coaching stance share the same underlying belief: those closest to the problem have better information than the center, and the center's job is to enable their judgment, not replace it.
-→ [**RACI Framework**](../Business/raci-framework.md) — RACI clarifies who is accountable for each outcome; mission command specifies the intent within which that accountable person acts autonomously.
+→ [258·Coaching Stance](../Consulting-Craft/coaching-stance.md) — mission command and coaching stance share the same underlying belief: those closest to the problem have better information than the center, and the center's job is to enable their judgment, not replace it.
+→ [127·RACI Framework](../Business/raci-framework.md) — RACI clarifies who is accountable for each outcome; mission command specifies the intent within which that accountable person acts autonomously.
 
 ## References
 

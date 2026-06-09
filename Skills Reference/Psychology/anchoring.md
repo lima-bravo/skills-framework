@@ -43,14 +43,14 @@ A founder is raising a Series A. The first VC she meets opens with "we're thinki
 
 ## Connections
 
-→ [**Relativity**](../Physics-and-Chemistry/relativity.md) — anchoring is the mechanism by which reference frames are installed; relativity is the general principle.
-→ [**Loss Aversion**](loss-aversion.md) — anchors work partly by framing deviations as losses (below anchor) or gains (above anchor).
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — the antidote to anchoring is independent base-rate analysis before exposure to anchors.
-→ [**Schelling Points**](../Economics/schelling-points.md) — Schelling Points are manufactured anchors: salient options that coordinate behaviour by standing out as the obvious choice.
-→ [**Overton Window**](../General-Thinking/overton-window.md) — the extreme-position-then-moderate tactic that shifts the window is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable.
-→ [**Availability Bias**](availability-bias.md) — recent vivid events set anchors; the two biases compound when a memorable event both inflates perceived probability and anchors subsequent estimates.
-→ [**Social Proof**](social-proof.md) — both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one.
-→ [**Pricing Logic**](../Business/pricing-logic.md) — initial price points become anchors that are very hard to raise later; the most expensive pricing mistake is starting too low, because customers anchor to that level and experience increases as losses.
+→ [50·Relativity](../Physics-and-Chemistry/relativity.md) — anchoring is the mechanism by which reference frames are installed; relativity is the general principle.
+→ [52·Loss Aversion](loss-aversion.md) — anchors work partly by framing deviations as losses (below anchor) or gains (above anchor).
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — the antidote to anchoring is independent base-rate analysis before exposure to anchors.
+→ [236·Schelling Points](../Economics/schelling-points.md) — Schelling Points are manufactured anchors: salient options that coordinate behaviour by standing out as the obvious choice.
+→ [234·Overton Window](../General-Thinking/overton-window.md) — the extreme-position-then-moderate tactic that shifts the window is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable.
+→ [56·Availability Bias](availability-bias.md) — recent vivid events set anchors; the two biases compound when a memorable event both inflates perceived probability and anchors subsequent estimates.
+→ [202·Social Proof](social-proof.md) — both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one.
+→ [219·Pricing Logic](../Business/pricing-logic.md) — initial price points become anchors that are very hard to raise later; the most expensive pricing mistake is starting too low, because customers anchor to that level and experience increases as losses.
 
 ## References
 

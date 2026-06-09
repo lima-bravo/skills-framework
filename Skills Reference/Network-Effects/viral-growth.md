@@ -43,9 +43,9 @@ Hotmail's early growth is the canonical example. Every email sent by a Hotmail u
 
 ## Connections
 
-→ [**Network Effects**](network-effects.md) — viral growth is the acquisition mechanism; network effects are the retention mechanism.
-→ [**Critical Mass**](../Systems/critical-mass.md) — viral growth above k=1 is the fastest path to critical mass.
-→ [**Compounding**](../Mathematics/compounding.md) — k > 1 viral growth produces compound user acquisition.
+→ [82·Network Effects](network-effects.md) — viral growth is the acquisition mechanism; network effects are the retention mechanism.
+→ [22·Critical Mass](../Systems/critical-mass.md) — viral growth above k=1 is the fastest path to critical mass.
+→ [75·Compounding](../Mathematics/compounding.md) — k > 1 viral growth produces compound user acquisition.
 ## References
 
 - *The Cold Start Problem: How to Start and Scale Network Effects* — Andrew Chen (2021) — viral loops, viral coefficient, and how early growth strategies shape long-term network structure.

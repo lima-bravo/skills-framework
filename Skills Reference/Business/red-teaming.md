@@ -60,15 +60,15 @@ None of these were visible to the proposal team — they were too close to the w
 
 ## Connections
 
-→ [**Steelmanning**](../General-Thinking/steelmanning.md) — the red team's first obligation; attacking a weak version of the plan is as useless as not attacking at all.
-→ [**Falsification**](../Psychology/falsification.md) — red teaming is the organisational mechanism for structured falsification; the red team's mandate is to find the conditions under which the plan is wrong.
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — the pre-mortem is a lighter-weight adversarial tool that can precede or complement a full red team exercise; the pre-mortem engages the whole group, the red team uses a separate designated group.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — red teaming is a structural countermeasure to confirmation bias in planning; it provides an institutionally-sanctioned source of disconfirming pressure.
-→ [**Assumption Mapping**](assumption-mapping.md) — red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of what to challenge.
-→ [**Psychological Safety**](../Psychology/psychological-safety.md) — red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for useful adversarial output.
-→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — red team findings often generate the conditions that should be pre-specified as kill criteria; converting red team output into kill criteria makes the findings operationally binding.
-→ [**A/B Testing**](ab-testing.md) — where red teaming attacks plans before commitment, A/B testing attacks hypotheses with live evidence during execution; the two are complementary tools for different phases of uncertainty reduction.
-→ [**Profit Pool Analysis**](profit-pool-analysis.md) — once a profit pool map identifies an attractive position, red-team it: if the pool is this profitable, why hasn't it already been contested away?
+→ [223·Steelmanning](../General-Thinking/steelmanning.md) — the red team's first obligation; attacking a weak version of the plan is as useless as not attacking at all.
+→ [204·Falsification](../Psychology/falsification.md) — red teaming is the organisational mechanism for structured falsification; the red team's mandate is to find the conditions under which the plan is wrong.
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the pre-mortem is a lighter-weight adversarial tool that can precede or complement a full red team exercise; the pre-mortem engages the whole group, the red team uses a separate designated group.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — red teaming is a structural countermeasure to confirmation bias in planning; it provides an institutionally-sanctioned source of disconfirming pressure.
+→ [73·Assumption Mapping](assumption-mapping.md) — red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of what to challenge.
+→ [104·Psychological Safety](../Psychology/psychological-safety.md) — red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for useful adversarial output.
+→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — red team findings often generate the conditions that should be pre-specified as kill criteria; converting red team output into kill criteria makes the findings operationally binding.
+→ [225·A/B Testing](ab-testing.md) — where red teaming attacks plans before commitment, A/B testing attacks hypotheses with live evidence during execution; the two are complementary tools for different phases of uncertainty reduction.
+→ [248·Profit Pool Analysis](profit-pool-analysis.md) — once a profit pool map identifies an attractive position, red-team it: if the pool is this profitable, why hasn't it already been contested away?
 
 ---
 

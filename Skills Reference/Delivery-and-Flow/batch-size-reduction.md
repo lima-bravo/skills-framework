@@ -43,11 +43,11 @@ A bank's compliance function reviews vendor changes in monthly cohorts of 40–8
 
 ## Connections
 
-→ [**Queueing & Wait Time**](queueing.md) — small batches reduce variability and therefore wait time at any given utilization.
-→ [**Cost of Delay**](cost-of-delay.md) — batch reduction trades smaller transaction-cost-per-batch for lower holding cost; cost of delay sets the economic frame.
-→ [**Flow Efficiency**](flow-efficiency.md) — large batches inflate the wait component of flow time.
-→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — small batches are how learning cycles get short.
-→ [**MVP**](../Startups/mvp.md) — an MVP is a deliberate batch-size reduction on a product bet.
+→ [135·Queueing & Wait Time](queueing.md) — small batches reduce variability and therefore wait time at any given utilization.
+→ [137·Cost of Delay](cost-of-delay.md) — batch reduction trades smaller transaction-cost-per-batch for lower holding cost; cost of delay sets the economic frame.
+→ [133·Flow Efficiency](flow-efficiency.md) — large batches inflate the wait component of flow time.
+→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — small batches are how learning cycles get short.
+→ [64·MVP](../Startups/mvp.md) — an MVP is a deliberate batch-size reduction on a product bet.
 
 ---
 

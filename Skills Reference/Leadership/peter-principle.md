@@ -50,13 +50,13 @@ Three years later, the firm has lost its best producer and has an underperformin
 
 ## Connections
 
-→ [**Dunning-Kruger**](../Psychology/dunning-kruger.md) — people promoted beyond their competence often lack the metacognitive awareness to recognise their own incompetence; Dunning-Kruger compounds the Peter Principle by making self-correction less likely.
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — the Peter Principle creates principal-agent misalignment: the organisation promotes believing it is rewarding performance, while inadvertently degrading the capability of the role the promoted person now occupies.
-→ [**Incentives**](../Psychology/incentives.md) — the Peter Principle is an incentive design failure: if promotion is the only path to status and compensation, individual contributors are incentivised to pursue roles they may be unsuited for.
-→ [**Dunbar's Number**](../Systems/dunbars-number.md) — Peter Principle dynamics are most damaging in large organisations that have grown beyond Dunbar's Number, where informal trust networks can no longer compensate for management incompetence.
-→ [**Parkinson's Law**](../Business/parkinsons-law.md) — Parkinson's Law describes how organisations fill the positions that Peter Principle accumulation creates; together they explain much of why large organisations underperform their headcount.
-→ [**Hiring Decision**](../Pre-built-Chains/hiring-decision.md) — the Hiring Decision chain should explicitly address whether promotion is the right mechanism, or whether an external hire or role redesign better serves the need.
-→ [**Organisational Culture**](../Leadership/organisational-culture.md) — the Peter Principle accumulates faster in cultures that equate career progression with management hierarchy; cultures that genuinely value specialist excellence are more resistant.
+→ [57·Dunning-Kruger](../Psychology/dunning-kruger.md) — people promoted beyond their competence often lack the metacognitive awareness to recognise their own incompetence; Dunning-Kruger compounds the Peter Principle by making self-correction less likely.
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — the Peter Principle creates principal-agent misalignment: the organisation promotes believing it is rewarding performance, while inadvertently degrading the capability of the role the promoted person now occupies.
+→ [51·Incentives](../Psychology/incentives.md) — the Peter Principle is an incentive design failure: if promotion is the only path to status and compensation, individual contributors are incentivised to pursue roles they may be unsuited for.
+→ [243·Dunbar's Number](../Systems/dunbars-number.md) — Peter Principle dynamics are most damaging in large organisations that have grown beyond Dunbar's Number, where informal trust networks can no longer compensate for management incompetence.
+→ [241·Parkinson's Law](../Business/parkinsons-law.md) — Parkinson's Law describes how organisations fill the positions that Peter Principle accumulation creates; together they explain much of why large organisations underperform their headcount.
+→ [96·Hiring Decision](../Pre-built-Chains/hiring-decision.md) — the Hiring Decision chain should explicitly address whether promotion is the right mechanism, or whether an external hire or role redesign better serves the need.
+→ [124·Organizational Culture](../Leadership/organizational-culture.md) — the Peter Principle accumulates faster in cultures that equate career progression with management hierarchy; cultures that genuinely value specialist excellence are more resistant.
 ## References
 
 - *The Peter Principle: Why Things Always Go Wrong* — Laurence J. Peter & Raymond Hull (1969) — the source text coining the principle and documenting its mechanics.

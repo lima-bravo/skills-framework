@@ -44,11 +44,11 @@ A leadership team meets weekly and leaves each meeting feeling productive, yet t
 
 ## Connections
 
-→ [**RACI Framework**](../Business/raci-framework.md) — Q2 (one Accountable) and Q3 (Informed list) are RACI applied at meeting granularity
-→ [**Mission Command**](mission-command.md) — Q1 clarifies the decision boundary; Mission Command specifies the intent within which the owner executes
-→ **Stakeholder Mapping** — Q3 is a quick stakeholder salience scan under time pressure
-→ [**Change Management**](change-management.md) — consistent use builds a cultural norm: meetings produce decisions, not just discussion
-→ [**Board Governance**](board-governance.md) — the alignment/decision distinction (Q1) is the same boundary the board/management split operates on
+→ [127·RACI Framework](../Business/raci-framework.md) — Q2 (one Accountable) and Q3 (Informed list) are RACI applied at meeting granularity
+→ [118·Mission Command](mission-command.md) — Q1 clarifies the decision boundary; Mission Command specifies the intent within which the owner executes
+→ [74·Stakeholder Mapping](../Business/stakeholder-mapping-salience-model.md) — Q3 is a quick stakeholder salience scan under time pressure
+→ [125·Change Management](change-management.md) — consistent use builds a cultural norm: meetings produce decisions, not just discussion
+→ [129·Board Governance](board-governance.md) — the alignment/decision distinction (Q1) is the same boundary the board/management split operates on
 
 ## Origin Note
 

@@ -43,11 +43,11 @@ A security team is allocating their budget. They've just experienced a phishing 
 
 ## Connections
 
-→ [**Confirmation Bias**](confirmation-bias.md) — both biases filter information through existing beliefs and experience; availability contributes to confirmation (the vivid examples that come to mind are usually consistent with existing beliefs).
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — the antidote to availability bias is explicit base-rate reasoning.
-→ [**Anchoring**](anchoring.md) — recent vivid events anchor subsequent probability estimates.
-→ [**Gresham's Law**](../Economics/greshams-law.md) — availability bias amplifies Gresham's Law in information markets: cheap-to-produce, vivid content outcompetes careful analysis when both circulate in the same undifferentiated feed.
-→ [**Customer Segmentation**](../Business/customer-segmentation.md) — the loudest, most visible customer segment is often over-weighted in strategy because of availability bias; segmentation discipline is a structural countermeasure.
+→ [55·Confirmation Bias](confirmation-bias.md) — both biases filter information through existing beliefs and experience; availability contributes to confirmation (the vivid examples that come to mind are usually consistent with existing beliefs).
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — the antidote to availability bias is explicit base-rate reasoning.
+→ [54·Anchoring](anchoring.md) — recent vivid events anchor subsequent probability estimates.
+→ [40·Gresham's Law](../Economics/greshams-law.md) — availability bias amplifies Gresham's Law in information markets: cheap-to-produce, vivid content outcompetes careful analysis when both circulate in the same undifferentiated feed.
+→ [249·Customer Segmentation](../Business/customer-segmentation.md) — the loudest, most visible customer segment is often over-weighted in strategy because of availability bias; segmentation discipline is a structural countermeasure.
 
 ---
 

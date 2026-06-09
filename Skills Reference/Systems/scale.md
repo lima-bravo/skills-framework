@@ -43,10 +43,10 @@ A startup's customer support is handled personally by the founders — every ema
 
 ## Connections
 
-→ [**Bottlenecks**](bottlenecks.md) — scale transitions almost always involve discovering a new bottleneck that was invisible at smaller scale.
-→ [**Diminishing Returns**](diminishing-returns.md) — a common scale dynamic: early growth is supralinear, later growth hits diminishing returns.
-→ [**Critical Mass**](critical-mass.md) — some scale effects only activate above a critical threshold; below it, they don't exist at all.
-→ [**Leverage**](../Physics-and-Chemistry/leverage.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
+→ [18·Bottlenecks](bottlenecks.md) — scale transitions almost always involve discovering a new bottleneck that was invisible at smaller scale.
+→ [23·Diminishing Returns](diminishing-returns.md) — a common scale dynamic: early growth is supralinear, later growth hits diminishing returns.
+→ [22·Critical Mass](critical-mass.md) — some scale effects only activate above a critical threshold; below it, they don't exist at all.
+→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
 
 ## References
 

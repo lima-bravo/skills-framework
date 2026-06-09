@@ -44,11 +44,11 @@ A consulting partner overseeing a transformation reads weekly status reports ind
 
 ## Connections
 
-→ [**Map-Territory**](../General-Thinking/map-territory.md) — gemba is the corrective for map–territory drift.
-→ [**Value Stream Mapping**](value-stream-mapping.md) — VSM is a structured form of gemba.
-→ [**A3 Problem Solving**](a3-problem-solving.md) — the current-state section of an A3 demands gemba evidence.
-→ [**Discovery Interviews**](../Consulting-Craft/#) — gemba's customer-research analogue.
-→ [**Conway's Law**](../Systems/conways-law.md) — gemba surfaces the org boundaries that show up as flow problems.
+→ [6·Map-Territory](../General-Thinking/map-territory.md) — gemba is the corrective for map–territory drift.
+→ [139·Value Stream Mapping](value-stream-mapping.md) — VSM is a structured form of gemba.
+→ [145·A3 Problem Solving](a3-problem-solving.md) — the current-state section of an A3 demands gemba evidence.
+→ [66·Customer Development](../Startups/customer-development.md) — gemba's customer-research analogue; structured discovery interviews at the source of work.
+→ [28·Conway's Law](../Systems/conways-law.md) — gemba surfaces the org boundaries that show up as flow problems.
 
 ---
 

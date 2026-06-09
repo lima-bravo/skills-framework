@@ -45,9 +45,9 @@ A startup ships their MVP with no automated testing, a monolithic architecture, 
 
 ## Connections
 
-→ [**Compounding**](../Mathematics/compounding.md) — debt compounds when not serviced; understanding compounding makes debt dynamics legible.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — debt reduces margin of safety by creating fixed future obligations; the two must be considered together.
-→ [**Trade-offs**](trade-offs.md) — taking on debt is a trade-off between present capability and future flexibility.
+→ [75·Compounding](../Mathematics/compounding.md) — debt compounds when not serviced; understanding compounding makes debt dynamics legible.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — debt reduces margin of safety by creating fixed future obligations; the two must be considered together.
+→ [30·Trade-offs](trade-offs.md) — taking on debt is a trade-off between present capability and future flexibility.
 
 ## References
 

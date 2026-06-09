@@ -43,13 +43,13 @@ A manager concludes that an employee "doesn't care about quality." Walking back 
 
 ## Connections
 
-→ [**Map-Territory**](map-territory.md) — the ladder is a map of how maps (beliefs and conclusions) are built from territory (data). Errors in the climb produce maps that don't reflect territory.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the reflexive loop of the ladder is confirmation bias operating structurally.
-→ [**Socratic Thinking**](socratic-thinking.md) — Socratic questioning walks back down the ladder, questioning each inference.
-→ [**Steelmanning**](steelmanning.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its surface conclusions.
-→ [**Grice's Maxims**](grices-maxims.md) — listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — principals draw conclusions about agents from limited observable data, climbing the inference ladder on incomplete information; the higher they climb without checking, the wider the gap they diagnose.
-→ [**Immunity to Change**](../Psychology/immunity-to-change.md) — surfacing the big assumption is an act of climbing back down the ladder: tracing the inference chain from behavior to the belief that drives it.
+→ [6·Map-Territory](map-territory.md) — the ladder is a map of how maps (beliefs and conclusions) are built from territory (data). Errors in the climb produce maps that don't reflect territory.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the reflexive loop of the ladder is confirmation bias operating structurally.
+→ [9·Socratic Thinking](socratic-thinking.md) — Socratic questioning walks back down the ladder, questioning each inference.
+→ [223·Steelmanning](steelmanning.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its surface conclusions.
+→ [226·Grice's Maxims](grices-maxims.md) — listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — principals draw conclusions about agents from limited observable data, climbing the inference ladder on incomplete information; the higher they climb without checking, the wider the gap they diagnose.
+→ [167·Immunity to Change](../Psychology/immunity-to-change.md) — surfacing the big assumption is an act of climbing back down the ladder: tracing the inference chain from behavior to the belief that drives it.
 
 ## References
 

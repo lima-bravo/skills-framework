@@ -44,13 +44,13 @@ A senior partner has been told for three years that they need to delegate more. 
 
 ## Connections
 
-→ [**Change Management**](../Leadership/change-management.md) — immunity to change is the missing chapter in most change-management playbooks.
-→ [**Psychological Safety**](psychological-safety.md) — the conditions under which immunity work is possible.
-→ [**Confirmation Bias**](confirmation-bias.md) — big assumptions persist because we collect evidence for them.
-→ [**Ladder of Inference**](../General-Thinking/ladder-of-inference.md) — surfacing the assumption climbs back down the ladder.
-→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — organizational change theories often miss the immunity layer.
-→ [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — Immunity to Change explains individual-level resistance; the Cobra Effect explains how the change programme architecture itself can sustain the status quo at the organisational level.
-→ [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — the individual-level architecture that maps onto organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks.
+→ [125·Change Management](../Leadership/change-management.md) — immunity to change is the missing chapter in most change-management playbooks.
+→ [104·Psychological Safety](psychological-safety.md) — the conditions under which immunity work is possible.
+→ [55·Confirmation Bias](confirmation-bias.md) — big assumptions persist because we collect evidence for them.
+→ [14·Ladder of Inference](../General-Thinking/ladder-of-inference.md) — surfacing the assumption climbs back down the ladder.
+→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — organizational change theories often miss the immunity layer.
+→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — Immunity to Change explains individual-level resistance; the Cobra Effect explains how the change programme architecture itself can sustain the status quo at the organisational level.
+→ [188·Paradigm Shift](../General-Thinking/paradigm-shift.md) — the individual-level architecture that maps onto organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks.
 
 ## References
 

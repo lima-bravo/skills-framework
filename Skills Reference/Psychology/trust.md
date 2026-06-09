@@ -45,14 +45,14 @@ A new engineering manager inherits a team that was previously micromanaged. The 
 
 ## Connections
 
-→ [**Incentives**](incentives.md) — trust and incentives interact bidirectionally: misaligned incentives destroy trust structurally, and low trust drives the demand for more incentive-based control.
-→ [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — trust is built partly through reciprocal vulnerability; extending trust invites trust in return. Reciprocity is the mechanism; trust is the result.
-→ [**Psychological Safety**](psychological-safety.md) — psychological safety is the team-level expression of trust: the shared belief that interpersonal risk-taking won't be punished.
-→ [**Loss Aversion**](loss-aversion.md) — trust violations feel disproportionately large because losses hurt more than equivalent gains. The asymmetry of trust building vs. breaking is a direct consequence of loss aversion.
-→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — trust enables the binding commitments that allow players to escape defection equilibria; without it, mutual defection is rational.
-→ [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — trust shifts players from bad equilibria (mutual defection) to better ones (mutual cooperation) by making cooperative commitments credible.
-→ [**Dunbar's Number**](../Systems/dunbars-number.md) — trust is built relationally within Dunbar limits; above them, it must be institutionalised through transparency, track record, and structural accountability rather than personal relationship.
-→ [**Free Rider Problem**](../Economics/free-rider-problem.md) — high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
+→ [51·Incentives](incentives.md) — trust and incentives interact bidirectionally: misaligned incentives destroy trust structurally, and low trust drives the demand for more incentive-based control.
+→ [49·Reciprocity](../Physics-and-Chemistry/reciprocity.md) — trust is built partly through reciprocal vulnerability; extending trust invites trust in return. Reciprocity is the mechanism; trust is the result.
+→ [104·Psychological Safety](psychological-safety.md) — psychological safety is the team-level expression of trust: the shared belief that interpersonal risk-taking won't be punished.
+→ [52·Loss Aversion](loss-aversion.md) — trust violations feel disproportionately large because losses hurt more than equivalent gains. The asymmetry of trust building vs. breaking is a direct consequence of loss aversion.
+→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — trust enables the binding commitments that allow players to escape defection equilibria; without it, mutual defection is rational.
+→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — trust shifts players from bad equilibria (mutual defection) to better ones (mutual cooperation) by making cooperative commitments credible.
+→ [243·Dunbar's Number](../Systems/dunbars-number.md) — trust is built relationally within Dunbar limits; above them, it must be institutionalised through transparency, track record, and structural accountability rather than personal relationship.
+→ [232·Free Rider Problem](../Economics/free-rider-problem.md) — high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
 
 ## References
 

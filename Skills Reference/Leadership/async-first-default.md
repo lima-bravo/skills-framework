@@ -77,12 +77,12 @@ A 40-person team institutes "async-first" by decree and meeting load barely drop
 
 ## Connections
 
-→ [**Three-Question Ritual**](three-question-ritual.md) — the closing discipline for meetings that pass the triage filter; async-first is the entry gate, the three questions are the exit discipline
-→ **Maker's Schedule** — both concern the cost of synchronous time; async-first reduces meeting load, Maker's Schedule manages what remains
-→ [**RACI Framework**](../Business/raci-framework.md) — decision memos (the async alternative to alignment meetings) need a named Accountable to replace the implicit accountability a meeting provides
-→ **Stakeholder Mapping** — knowing who needs to be in the room vs. who needs only async notification is the informational prerequisite for the triage filter
-→ [**Deep Work / Cognitive Capacity**](../Learning/deep-work.md) — async-first is the organisational practice that makes deep work structurally possible at scale
-→ [**Incentives**](../Psychology/incentives.md) — meetings proliferate because calling one is costless and signals effort; async-first requires counteracting visibility incentives
+→ [190·Three-Question Ritual](three-question-ritual.md) — the closing discipline for meetings that pass the triage filter; async-first is the entry gate, the three questions are the exit discipline
+→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — both concern the cost of synchronous time; async-first reduces meeting load, Maker's Schedule manages what remains
+→ [127·RACI Framework](../Business/raci-framework.md) — decision memos (the async alternative to alignment meetings) need a named Accountable to replace the implicit accountability a meeting provides
+→ [74·Stakeholder Mapping](../Business/stakeholder-mapping-salience-model.md) — knowing who needs to be in the room vs. who needs only async notification is the informational prerequisite for the triage filter
+→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work.md) — async-first is the organisational practice that makes deep work structurally possible at scale
+→ [51·Incentives](../Psychology/incentives.md) — meetings proliferate because calling one is costless and signals effort; async-first requires counteracting visibility incentives
 
 ## References
 

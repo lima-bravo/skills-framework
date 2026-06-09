@@ -42,10 +42,10 @@ A founder building a B2B SaaS product fills in the canvas. Under Revenue Streams
 
 ## Connections
 
-→ [**Value Prop Canvas**](value-prop-canvas.md) — the detailed tool for the Value Proposition and Customer Segment boxes.
-→ [**Assumption Mapping**](assumption-mapping.md) — the canvas produces a comprehensive list of assumptions to map.
-→ [**Product-Market Fit**](../Startups/product-market-fit.md) — the canvas is a framework for asking whether a business model around which PMF could be achieved exists.
-→ [**Value Creation and Capture**](../Economics/value-creation-capture.md) — the revenue streams section of the canvas is the capture design; the value proposition is the creation design; misalignment between them is the most common business model failure.
+→ [69·Value Prop Canvas](value-prop-canvas.md) — the detailed tool for the Value Proposition and Customer Segment boxes.
+→ [73·Assumption Mapping](assumption-mapping.md) — the canvas produces a comprehensive list of assumptions to map.
+→ [62·Product-Market Fit](../Startups/product-market-fit.md) — the canvas is a framework for asking whether a business model around which PMF could be achieved exists.
+→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — the revenue streams section of the canvas is the capture design; the value proposition is the creation design; misalignment between them is the most common business model failure.
 
 ## References
 

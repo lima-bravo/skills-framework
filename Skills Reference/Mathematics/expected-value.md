@@ -50,14 +50,14 @@ The calculation argues for building. The team should also check: is the 30% flop
 
 ## Connections
 
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — EV is the quantitative expression of probabilistic thinking; you need both the probability estimate and the magnitude to compute it.
-→ [**Calibration**](../General-Thinking/calibration.md) — EV calculations are only as good as the probability estimates; calibration is the discipline of making those estimates accurate.
-→ [**Bayesian Updating**](../Mathematics/bayesian-updating.md) — as new evidence arrives, update the probabilities feeding into the EV calculation.
-→ [**Asymmetry/Convexity**](../General-Thinking/asymmetry-convexity.md) — asymmetric payoff structures are the cases where EV dramatically outperforms intuitive comparison.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — EV ignores variance; Margin of Safety is the corrective when downside is catastrophic.
-→ [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the most common source of miscalibrated probabilities feeding into EV calculations.
-→ [**Fermi Estimation**](../Mathematics/fermi-estimation.md) — when precise probabilities and magnitudes are unavailable, Fermi estimation provides the order-of-magnitude inputs EV needs.
-→ [**Black Swan**](../General-Thinking/black-swan.md) — standard EV calculation breaks in Black Swan domains; the tail event that dominates outcomes may have near-zero assigned probability, making EV systematically wrong in fat-tailed distributions.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — EV is the quantitative expression of probabilistic thinking; you need both the probability estimate and the magnitude to compute it.
+→ [211·Calibration](../General-Thinking/calibration.md) — EV calculations are only as good as the probability estimates; calibration is the discipline of making those estimates accurate.
+→ [228·Bayesian Updating](../Mathematics/bayesian-updating.md) — as new evidence arrives, update the probabilities feeding into the EV calculation.
+→ [12·Asymmetry/Convexity](../General-Thinking/asymmetry-convexity.md) — asymmetric payoff structures are the cases where EV dramatically outperforms intuitive comparison.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — EV ignores variance; Margin of Safety is the corrective when downside is catastrophic.
+→ [206·Base Rate Neglect](../Psychology/base-rate-neglect.md) — the most common source of miscalibrated probabilities feeding into EV calculations.
+→ [233·Fermi Estimation](../Mathematics/fermi-estimation.md) — when precise probabilities and magnitudes are unavailable, Fermi estimation provides the order-of-magnitude inputs EV needs.
+→ [240·Black Swan](../General-Thinking/black-swan.md) — standard EV calculation breaks in Black Swan domains; the tail event that dominates outcomes may have near-zero assigned probability, making EV systematically wrong in fat-tailed distributions.
 
 ## References
 

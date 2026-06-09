@@ -49,15 +49,15 @@ Nokia's decline follows the same structure. Nokia understood touchscreens and ap
 
 ## Connections
 
-→ [**Disruptive Innovation**](disruptive-innovation.md) — dominant logic explains the organizational mechanism behind why incumbents miss disruption even when they see the technology coming.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — dominant logic is confirmation bias institutionalized: the organization systematically attends to evidence that confirms its existing theory.
-→ [**Map-Territory**](../General-Thinking/map-territory.md) — dominant logic is a map that was once accurate but has diverged from the territory; the danger is not having a map but not knowing it's outdated.
-→ [**Ambidextrous Organization**](ambidextrous-organization.md) — structural separation of explore from exploit is partly a response to dominant logic: the explore unit needs to be insulated from the core's logic to function.
-→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — dominant logic works well in complicated and obvious domains where the environment is stable; it becomes a liability when the environment shifts to complex or chaotic.
-→ [**S-Curves**](../Systems/s-curves.md) — dominant logic is most dangerous at the top of the S-curve, when the current model is at peak performance and the next curve is just beginning.
-→ [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — dominant logic is the organizational application of Kuhn's paradigm concept: the theory of the business that successful firms encode, and then cannot escape when the environment changes.
-→ [**Narrative Instinct**](../Psychology/narrative-instinct.md) — dominant logic is narrative instinct institutionalised: the founding story that the organisation encodes and then uses to filter all new evidence.
-→ [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — dominant logic is organisation-level consistency bias: the founding narrative must be defended because it is central to institutional identity.
+→ [112·Disruptive Innovation](disruptive-innovation.md) — dominant logic explains the organizational mechanism behind why incumbents miss disruption even when they see the technology coming.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — dominant logic is confirmation bias institutionalized: the organization systematically attends to evidence that confirms its existing theory.
+→ [6·Map-Territory](../General-Thinking/map-territory.md) — dominant logic is a map that was once accurate but has diverged from the territory; the danger is not having a map but not knowing it's outdated.
+→ [172·Ambidextrous Organization](ambidextrous-organization.md) — structural separation of explore from exploit is partly a response to dominant logic: the explore unit needs to be insulated from the core's logic to function.
+→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — dominant logic works well in complicated and obvious domains where the environment is stable; it becomes a liability when the environment shifts to complex or chaotic.
+→ [102·S-Curves](../Systems/s-curves.md) — dominant logic is most dangerous at the top of the S-curve, when the current model is at peak performance and the next curve is just beginning.
+→ [188·Paradigm Shift](../General-Thinking/paradigm-shift.md) — dominant logic is the organizational application of Kuhn's paradigm concept: the theory of the business that successful firms encode, and then cannot escape when the environment changes.
+→ [203·Narrative Instinct](../Psychology/narrative-instinct.md) — dominant logic is narrative instinct institutionalised: the founding story that the organisation encodes and then uses to filter all new evidence.
+→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — dominant logic is organisation-level consistency bias: the founding narrative must be defended because it is central to institutional identity.
 
 ## References
 

@@ -53,13 +53,13 @@ The manager's confidence in hiring has increased substantially — but it remain
 
 ## Connections
 
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — Bayesian updating is the dynamic extension of probabilistic thinking: how beliefs evolve as evidence accumulates.
-→ [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the most common failure in constructing a prior; Bayesian updating cannot correct a prior that ignored base rates.
-→ [**Calibration**](../General-Thinking/calibration.md) — calibrated probability estimates are the foundation of good priors; Bayesian updating assumes you can assign meaningful likelihoods.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the psychological tendency to under-update on disconfirming evidence; the main enemy of good Bayesian practice.
-→ [**Expected Value**](../Mathematics/expected-value.md) — Bayesian updating revises the probability inputs that feed expected value calculations.
-→ [**Falsification**](../Psychology/falsification.md) — falsificationist thinking is the qualitative version of seeking high-diagnostic evidence; Bayesian updating quantifies the update.
-→ [**Hindsight Bias**](../Psychology/hindsight-bias.md) — failure to record the prior before seeing evidence makes it impossible to know whether you updated correctly; hindsight bias retrospectively distorts the prior.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — Bayesian updating is the dynamic extension of probabilistic thinking: how beliefs evolve as evidence accumulates.
+→ [206·Base Rate Neglect](../Psychology/base-rate-neglect.md) — the most common failure in constructing a prior; Bayesian updating cannot correct a prior that ignored base rates.
+→ [211·Calibration](../General-Thinking/calibration.md) — calibrated probability estimates are the foundation of good priors; Bayesian updating assumes you can assign meaningful likelihoods.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the psychological tendency to under-update on disconfirming evidence; the main enemy of good Bayesian practice.
+→ [227·Expected Value](../Mathematics/expected-value.md) — Bayesian updating revises the probability inputs that feed expected value calculations.
+→ [204·Falsification](../Psychology/falsification.md) — falsificationist thinking is the qualitative version of seeking high-diagnostic evidence; Bayesian updating quantifies the update.
+→ [201·Hindsight Bias](../Psychology/hindsight-bias.md) — failure to record the prior before seeing evidence makes it impossible to know whether you updated correctly; hindsight bias retrospectively distorts the prior.
 ## References
 
 - *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the mechanics of belief updating and why humans systematically under- and over-update are a central theme.

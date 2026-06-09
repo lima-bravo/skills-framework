@@ -52,17 +52,17 @@ A survivorship-aware analysis would start with all 18 acquisition attempts, code
 
 ## Connections
 
-→ [**Confirmation Bias**](confirmation-bias.md) — both biases filter evidence; survivorship filters by visibility, confirmation filters by desirability
-→ [**After-Action Review**](../Leadership/after-action-review.md) — AAR is the structural antidote: it forces examination of what went wrong, not just what worked
-→ [**Hindsight Bias**](hindsight-bias.md) — frequently co-occurs; once you know something succeeded, survivorship bias reinforces the illusion that it was always going to
-→ [**First Principles Thinking**](../General-Thinking/first-principles.md) — cutting through survivor-sourced conventional wisdom requires rebuilding reasoning from ground truth
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — the correction for survivorship bias is explicitly reasoning over the full distribution, not just the visible tail
-→ [**Black Swan**](../General-Thinking/black-swan.md) — survivorship bias compounds the Black Swan problem: we study organisations that survived tail events, which systematically underrepresents the frequency and impact of those events
-→ [**Power Law**](../Mathematics/power-law.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is
-→ [**Drift to Failure**](../Systems/drift-to-failure.md) — survivorship bias is a primary enabler of drift: the absence of past failure is mistaken for evidence of safety, suppressing corrective action and allowing the system to drift further toward the risk boundary
-→ [**Fundamental Attribution Error**](fundamental-attribution-error.md) — combining survivorship bias with FAE produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had
-→ [**Falsification**](falsification.md) — reporting only confirming outcomes is how survivorship bias causes falsification to fail in practice; the graveyard of disconfirming cases is exactly what falsification requires you to look at
-→ [**Base Rate Neglect**](base-rate-neglect.md) — both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
+→ [55·Confirmation Bias](confirmation-bias.md) — both biases filter evidence; survivorship filters by visibility, confirmation filters by desirability
+→ [196·After-Action Review](../Leadership/after-action-review.md) — AAR is the structural antidote: it forces examination of what went wrong, not just what worked
+→ [201·Hindsight Bias](hindsight-bias.md) — frequently co-occurs; once you know something succeeded, survivorship bias reinforces the illusion that it was always going to
+→ [0·First Principles Thinking](../General-Thinking/first-principles.md) — cutting through survivor-sourced conventional wisdom requires rebuilding reasoning from ground truth
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — the correction for survivorship bias is explicitly reasoning over the full distribution, not just the visible tail
+→ [240·Black Swan](../General-Thinking/black-swan.md) — survivorship bias compounds the Black Swan problem: we study organisations that survived tail events, which systematically underrepresents the frequency and impact of those events
+→ [238·Power Law](../Mathematics/power-law.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is
+→ [208·Drift to Failure](../Systems/drift-to-failure.md) — survivorship bias is a primary enabler of drift: the absence of past failure is mistaken for evidence of safety, suppressing corrective action and allowing the system to drift further toward the risk boundary
+→ [200·Fundamental Attribution Error](fundamental-attribution-error.md) — combining survivorship bias with FAE produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had
+→ [204·Falsification](falsification.md) — reporting only confirming outcomes is how survivorship bias causes falsification to fail in practice; the graveyard of disconfirming cases is exactly what falsification requires you to look at
+→ [206·Base Rate Neglect](base-rate-neglect.md) — both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
 
 ## References
 

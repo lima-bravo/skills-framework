@@ -45,10 +45,10 @@ Amazon's decision to build AWS illustrates comparative advantage analysis at the
 
 ## Connections
 
-→ [**Trade-offs**](trade-offs.md) — specialization requires trading away activities you could do yourself; this is the fundamental trade-off.
-→ [**T-shaped**](../Learning/t-shaped.md) — the learning model that operationalizes specialization at the individual level.
-→ [**Monopoly vs. Competition**](monopoly-vs-competition.md) — extreme specialization can create a monopoly position in a narrow domain.
-→ [**Alloying**](../Physics-and-Chemistry/alloying.md) — alloying is the strategic counterpoint: where specialization goes deep in one element, alloying combines specialized elements to produce properties neither possesses alone.
+→ [30·Trade-offs](trade-offs.md) — specialization requires trading away activities you could do yourself; this is the fundamental trade-off.
+→ [87·T-shaped](../Learning/t-shaped.md) — the learning model that operationalizes specialization at the individual level.
+→ [34·Monopoly vs. Competition](monopoly-vs-competition.md) — extreme specialization can create a monopoly position in a narrow domain.
+→ [48·Alloying](../Physics-and-Chemistry/alloying.md) — alloying is the strategic counterpoint: where specialization goes deep in one element, alloying combines specialized elements to produce properties neither possesses alone.
 
 ## References
 

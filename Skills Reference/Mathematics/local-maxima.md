@@ -42,10 +42,10 @@ A law firm has a highly profitable and well-optimized practice serving mid-marke
 
 ## Connections
 
-→ [**Optimization**](../Economics/optimization.md) — local maxima are the primary failure mode of optimization algorithms.
-→ [**Diminishing Returns**](../Systems/diminishing-returns.md) — diminishing returns is the signature of approaching a local maximum.
-→ [**Creative Destruction**](../Economics/creative-destruction.md) — large-scale local maxima (industry structures) are escaped by creative destruction, not incremental improvement.
-→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — exploitation is the process of climbing a local maximum; exploration is the search for higher maxima elsewhere.
+→ [33·Optimization](../Economics/optimization.md) — local maxima are the primary failure mode of optimization algorithms.
+→ [23·Diminishing Returns](../Systems/diminishing-returns.md) — diminishing returns is the signature of approaching a local maximum.
+→ [37·Creative Destruction](../Economics/creative-destruction.md) — large-scale local maxima (industry structures) are escaped by creative destruction, not incremental improvement.
+→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — exploitation is the process of climbing a local maximum; exploration is the search for higher maxima elsewhere.
 
 ## References
 

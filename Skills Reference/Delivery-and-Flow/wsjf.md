@@ -44,11 +44,11 @@ A platform team's quarterly intake holds 22 candidate initiatives funded for cap
 
 ## Connections
 
-→ [**Cost of Delay**](cost-of-delay.md) — the numerator of WSJF.
-→ [**Lean Portfolio Management**](lean-portfolio.md) — WSJF is the LPM sequencing rule.
-→ [**Trade-offs**](../Economics/trade-offs.md) — WSJF is a structured trade-off mechanism.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — WSJF works on bottleneck capacity.
-→ [**Probabilistic Forecasting**](probabilistic-forecasting.md) — pairs to forecast value delivery under a WSJF queue.
+→ [137·Cost of Delay](cost-of-delay.md) — the numerator of WSJF.
+→ [158·Lean Portfolio Management](lean-portfolio.md) — WSJF is the LPM sequencing rule.
+→ [30·Trade-offs](../Economics/trade-offs.md) — WSJF is a structured trade-off mechanism.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — WSJF works on bottleneck capacity.
+→ [141·Probabilistic Forecasting](probabilistic-forecasting.md) — pairs to forecast value delivery under a WSJF queue.
 
 ---
 

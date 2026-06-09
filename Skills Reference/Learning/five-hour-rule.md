@@ -43,10 +43,10 @@ Naval Ravikant has described his reading practice: he reads many books simultane
 
 ## Connections
 
-→ [**Compounding**](../Mathematics/compounding.md) — five-hour rule learning is compounding applied to human capital.
-→ [**T-shaped**](t-shaped.md) — the five-hour rule is the mechanism for maintaining and expanding the horizontal bar.
-→ [**Model Chaining**](model-chaining.md) — deliberate cross-domain reading is how the model library that enables chaining is built.
-→ [**Post-mortem**](../General-Thinking/post-mortem.md) — post-mortems are among the most efficient uses of deliberate learning time, being grounded in direct organizational experience rather than abstract study.
+→ [75·Compounding](../Mathematics/compounding.md) — five-hour rule learning is compounding applied to human capital.
+→ [87·T-shaped](t-shaped.md) — the five-hour rule is the mechanism for maintaining and expanding the horizontal bar.
+→ [86·Model Chaining](model-chaining.md) — deliberate cross-domain reading is how the model library that enables chaining is built.
+→ [11·Post-mortem](../General-Thinking/post-mortem.md) — post-mortems are among the most efficient uses of deliberate learning time, being grounded in direct organizational experience rather than abstract study.
 
 ## References
 

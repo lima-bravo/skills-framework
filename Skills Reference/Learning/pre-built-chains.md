@@ -45,11 +45,11 @@ A founder is deciding whether to raise a Series A or continue bootstrapping. She
 
 ## Connections
 
-→ **Model Chaining** — model chaining is the general practice of sequencing multiple mental models; pre-built chains are the specific, curated form of that practice applied to known decision types.
-→ **First Principles** — pre-built chains encode first principles reasoning about each decision type: they are the distilled answer to "what are the irreducible questions to ask about a pricing / hiring / market entry decision?"
-→ **Inversion** — every pre-built chain includes an inversion step (pre-mortem or assumption check) as a structural disconfirmation mechanism.
-→ **Confirmation Bias** — the primary purpose of chain structure is to prevent confirmation bias from narrowing the analysis to only the models that support the preferred conclusion.
-→ **Two-Way Doors** — chains are most valuable for irreversible or high-stakes decisions (two-way doors logic: reversible decisions deserve fast analysis; irreversible ones deserve chain-level rigor).
+→ [86·Model Chaining](model-chaining.md) — model chaining is the general practice of sequencing multiple mental models; pre-built chains are the specific, curated form of that practice applied to known decision types.
+→ [0·First Principles](../General-Thinking/first-principles.md) — pre-built chains encode first principles reasoning about each decision type: they are the distilled answer to "what are the irreducible questions to ask about a pricing / hiring / market entry decision?"
+→ [1·Inversion](../General-Thinking/inversion.md) — every pre-built chain includes an inversion step (pre-mortem or assumption check) as a structural disconfirmation mechanism.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the primary purpose of chain structure is to prevent confirmation bias from narrowing the analysis to only the models that support the preferred conclusion.
+→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — chains are most valuable for irreversible or high-stakes decisions (two-way doors logic: reversible decisions deserve fast analysis; irreversible ones deserve chain-level rigor).
 ## References
 
 - *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — Munger's checklist-based approach to decision-making is the conceptual ancestor of pre-built chains.

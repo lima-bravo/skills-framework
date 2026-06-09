@@ -52,18 +52,18 @@ The failure mode: a contractor's credentials are compromised, they access an unr
 
 ## Connections
 
-→ [**SRK Framework**](../Psychology/srk-framework.md) — drift is partially enabled by skill- and rule-based performance that masks growing mismatches between operators' mental models and the actual state of the system
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — when teams optimise for measured performance metrics, they can drift toward meeting the metric while degrading the underlying reality the metric was meant to represent
-→ [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — each step of drift is easier to take because of commitment to prior decisions; reversal requires acknowledging that the accumulation of reasonable decisions has produced an unreasonable aggregate state
-→ [**Survivorship Bias**](../Psychology/survivorship-bias.md) — long periods without visible failure are mistaken for evidence of safety; the absence of past accidents is used to justify continued drift
-→ [**Systems Thinking**](systems-thinking.md) — drift to failure is a systems phenomenon; it is invisible at the component level and only visible in the system's trajectory
-→ [**After-Action Review**](../Leadership/after-action-review.md) — well-run AARs should look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" is drift analysis
-→ [**Tactical Pause**](../Leadership/tactical-pause.md) — the operational intervention that creates the conditions for drift to become visible before it reaches the boundary
-→ [**Organisational Degradation Scan**](../Pre-built-Chains/organisational-degradation-scan.md) — Drift to Failure is the universal precondition for organisational degradation; the scan begins here before examining the specific mechanisms that compound it
-→ [**Fixes That Fail**](fixes-that-fail.md) — Fixes That Fail is the mechanism that produces drift: each symptomatic fix relieves the pressure that would force a fundamental solution, allowing the root cause to persist and grow.
-→ [**Path Dependence**](path-dependence.md) — drift and path dependence compound: each drift step increases switching costs, making it progressively harder to reverse course as the system moves toward the risk boundary.
-→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse.
-→ [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — disabling transparency or inspection mechanisms is exactly how organisations lose the ability to detect drift before it reaches the boundary; EPC is the structural defence against Drift to Failure.
+→ [207·SRK Framework](../Psychology/srk-framework.md) — drift is partially enabled by skill- and rule-based performance that masks growing mismatches between operators' mental models and the actual state of the system
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — when teams optimise for measured performance metrics, they can drift toward meeting the metric while degrading the underlying reality the metric was meant to represent
+→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — each step of drift is easier to take because of commitment to prior decisions; reversal requires acknowledging that the accumulation of reasonable decisions has produced an unreasonable aggregate state
+→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — long periods without visible failure are mistaken for evidence of safety; the absence of past accidents is used to justify continued drift
+→ [261·Systems Thinking](systems-thinking.md) — drift to failure is a systems phenomenon; it is invisible at the component level and only visible in the system's trajectory
+→ [196·After-Action Review](../Leadership/after-action-review.md) — well-run AARs should look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" is drift analysis
+→ [197·Tactical Pause](../Leadership/tactical-pause.md) — the operational intervention that creates the conditions for drift to become visible before it reaches the boundary
+→ [244·Organisational Degradation Scan](../Pre-built-Chains/organisational-degradation-scan.md) — Drift to Failure is the universal precondition for organisational degradation; the scan begins here before examining the specific mechanisms that compound it
+→ [260·Fixes That Fail](fixes-that-fail.md) — Fixes That Fail is the mechanism that produces drift: each symptomatic fix relieves the pressure that would force a fundamental solution, allowing the root cause to persist and grow.
+→ [235·Path Dependence](path-dependence.md) — drift and path dependence compound: each drift step increases switching costs, making it progressively harder to reverse course as the system moves toward the risk boundary.
+→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse.
+→ [209·Empirical Process Control](../Delivery-and-Flow/empirical-process-control.md) — disabling transparency or inspection mechanisms is exactly how organisations lose the ability to detect drift before it reaches the boundary; EPC is the structural defence against Drift to Failure.
 
 ## References
 

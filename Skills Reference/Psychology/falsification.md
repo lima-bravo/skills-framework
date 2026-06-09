@@ -55,21 +55,21 @@ The falsification-oriented redesign: run a controlled comparison, with explicitl
 
 ## Connections
 
-→ [**Confirmation Bias**](confirmation-bias.md) — falsification is the corrective practice; confirmation bias is what happens in its absence
-→ [**Experiment Design**](../Business/experiment-design.md) — the operationalisation of falsification; good experiments are defined by the conditions under which they would return negative results
-→ [**Pre-Mortem**](../General-Thinking/pre-mortem.md) — applies falsification thinking prospectively: "what would have had to go wrong for this to fail?"
-→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — the organisational instrument of falsification; pre-specified conditions that would trigger exit or pivot
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — falsification and probabilistic thinking together form the core of calibrated reasoning; probabilistic thinking quantifies uncertainty, falsification tests whether the model is structurally sound
-→ [**Calibration**](../General-Thinking/calibration.md) — falsification is the habit that keeps calibration honest; a belief you won't test is a belief with unstated infinite confidence
-→ [**Observer Bias**](observer-bias.md) — observer bias corrupts the measurement that falsification depends on; blinded evaluation ensures the test can actually disconfirm the hypothesis
-→ [**From Idea to Hypothesis**](../Pre-built-Chains/from-idea-to-hypothesis.md) — falsification is Step 4 in this chain; restating assumptions as falsifiable predictions is the step most commonly skipped
-→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — the principle that makes every gate honest: results must be capable of disconfirming, not just confirming
-→ [**Survivorship Bias**](survivorship-bias.md) — reporting only confirming outcomes is a common way that falsification fails in practice
-→ [**Steelmanning**](../General-Thinking/steelmanning.md) — the prerequisite practice: a belief should be tested against the strongest possible opposing case, not a convenient weak version
-→ [**Red Teaming**](../Business/red-teaming.md) — the organisational mechanism for structured falsification at scale; red teams are mandated to find disconfirming evidence
-→ [**A/B Testing**](../Business/ab-testing.md) — the operational instrument of falsification in product and marketing contexts; the test is designed so that reality, not opinion, settles the question
-→ [**Commitment & Consistency Bias**](commitment-consistency-bias.md) — consistency bias is the motivational barrier that falsification must overcome; the discipline of seeking disconfirming evidence runs directly against the pull toward defending prior positions
-→ [**Base Rate Neglect**](base-rate-neglect.md) — base rate anchoring is a form of outside-view challenge to inside-view narratives; both practices discipline against uncritical acceptance of the case in front of you
+→ [55·Confirmation Bias](confirmation-bias.md) — falsification is the corrective practice; confirmation bias is what happens in its absence
+→ [72·Experiment Design](../Business/experiment-design.md) — the operationalisation of falsification; good experiments are defined by the conditions under which they would return negative results
+→ [10·Pre-Mortem](../General-Thinking/pre-mortem.md) — applies falsification thinking prospectively: "what would have had to go wrong for this to fail?"
+→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — the organisational instrument of falsification; pre-specified conditions that would trigger exit or pivot
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — falsification and probabilistic thinking together form the core of calibrated reasoning; probabilistic thinking quantifies uncertainty, falsification tests whether the model is structurally sound
+→ [211·Calibration](../General-Thinking/calibration.md) — falsification is the habit that keeps calibration honest; a belief you won't test is a belief with unstated infinite confidence
+→ [212·Observer Bias](observer-bias.md) — observer bias corrupts the measurement that falsification depends on; blinded evaluation ensures the test can actually disconfirm the hypothesis
+→ [213·From Idea to Hypothesis](../Pre-built-Chains/from-idea-to-hypothesis.md) — falsification is Step 4 in this chain; restating assumptions as falsifiable predictions is the step most commonly skipped
+→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — the principle that makes every gate honest: results must be capable of disconfirming, not just confirming
+→ [199·Survivorship Bias](survivorship-bias.md) — reporting only confirming outcomes is a common way that falsification fails in practice
+→ [223·Steelmanning](../General-Thinking/steelmanning.md) — the prerequisite practice: a belief should be tested against the strongest possible opposing case, not a convenient weak version
+→ [224·Red Teaming](../Business/red-teaming.md) — the organisational mechanism for structured falsification at scale; red teams are mandated to find disconfirming evidence
+→ [225·A/B Testing](../Business/ab-testing.md) — the operational instrument of falsification in product and marketing contexts; the test is designed so that reality, not opinion, settles the question
+→ [205·Commitment & Consistency Bias](commitment-consistency-bias.md) — consistency bias is the motivational barrier that falsification must overcome; the discipline of seeking disconfirming evidence runs directly against the pull toward defending prior positions
+→ [206·Base Rate Neglect](base-rate-neglect.md) — base rate anchoring is a form of outside-view challenge to inside-view narratives; both practices discipline against uncritical acceptance of the case in front of you
 
 ## References
 

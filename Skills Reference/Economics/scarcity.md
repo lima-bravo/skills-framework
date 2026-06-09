@@ -43,8 +43,8 @@ A Series B startup has raised successfully and has 24 months of runway. Capital 
 
 ## Connections
 
-→ [**Trade-offs**](trade-offs.md) — trade-offs only exist because of scarcity; unlimited resources eliminate most trade-offs.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — the bottleneck is the point of maximum scarcity in a process.
+→ [30·Trade-offs](trade-offs.md) — trade-offs only exist because of scarcity; unlimited resources eliminate most trade-offs.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — the bottleneck is the point of maximum scarcity in a process.
 
 ## References
 

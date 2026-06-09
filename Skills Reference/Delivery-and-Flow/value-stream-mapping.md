@@ -44,11 +44,11 @@ A bank wants to cut loan origination time from 23 days to 7. A VSM workshop trac
 
 ## Connections
 
-→ [**Flow Efficiency**](flow-efficiency.md) — VSM produces the numerator and denominator.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — the longest wait identifies the constraint.
-→ [**Gemba**](gemba.md) — VSM is a structured form of going and seeing.
-→ [**Batch Size Reduction**](batch-size-reduction.md) — VSM exposes where batches accumulate.
-→ [**Conway's Law**](../Systems/conways-law.md) — handoffs between teams reflect org boundaries; future-state may require org change.
+→ [133·Flow Efficiency](flow-efficiency.md) — VSM produces the numerator and denominator.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — the longest wait identifies the constraint.
+→ [147·Gemba](gemba.md) — VSM is a structured form of going and seeing.
+→ [136·Batch Size Reduction](batch-size-reduction.md) — VSM exposes where batches accumulate.
+→ [28·Conway's Law](../Systems/conways-law.md) — handoffs between teams reflect org boundaries; future-state may require org change.
 
 ---
 

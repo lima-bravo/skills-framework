@@ -45,15 +45,15 @@ Netflix's disruption of Blockbuster followed the textbook mechanism. Netflix lau
 
 ## Connections
 
-→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — disruptive innovation exploits the exploitation trap: incumbents rationally over-exploit current capabilities while the disruption develops in territory they are rationally ignoring.
-→ [**S-Curves**](../Systems/s-curves.md) — disruptive innovations ride a new S-curve that eventually intersects the incumbent's S-curve; recognizing the crossing point before it occurs is the incumbent's primary analytical challenge.
-→ [**Jobs to Be Done**](../Startups/jobs-to-be-done.md) — disruptions often succeed because they do the job better for a specific customer segment that the incumbent has stopped serving well; JTBD analysis reveals these overlooked segments.
-→ [**Business Model Canvas**](business-model-canvas.md) — disruption is almost always a business model innovation as much as a product innovation; the disruptor's canvas is structurally different from the incumbent's, making direct competition difficult.
-→ [**Crossing the Chasm**](../Startups/crossing-the-chasm.md) — disruptive innovations often cross from non-consumer or low-end footholds to mainstream markets by a path that differs from the standard early-adopter-to-mainstream chasm crossing.
-→ [**Wardley Mapping**](wardley-mapping.md) — Wardley Maps show commoditisation as an evolution axis movement; disruptive innovation is the demand-side story of the same phenomenon Wardley describes from the supply side.
-→ [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — Christensen's model applies a Kuhnian structure to competitive dynamics: incumbents are locked in a paradigm (the current business model) that blinds them to the new one taking shape below.
-→ [**Adjacent Possible**](../Systems/adjacent-possible.md) — disruption often begins at the adjacent possible of entrants, who are positioned adjacent to innovations that incumbents cannot reach from their current capabilities.
-→ [**Value Creation and Capture**](../Economics/value-creation-capture.md) — disruption often involves creating a new value creation/capture pairing that incumbents cannot match without destroying their existing capture mechanism.
+→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — disruptive innovation exploits the exploitation trap: incumbents rationally over-exploit current capabilities while the disruption develops in territory they are rationally ignoring.
+→ [102·S-Curves](../Systems/s-curves.md) — disruptive innovations ride a new S-curve that eventually intersects the incumbent's S-curve; recognizing the crossing point before it occurs is the incumbent's primary analytical challenge.
+→ [103·Jobs to Be Done](../Startups/jobs-to-be-done.md) — disruptions often succeed because they do the job better for a specific customer segment that the incumbent has stopped serving well; JTBD analysis reveals these overlooked segments.
+→ [68·Business Model Canvas](business-model-canvas.md) — disruption is almost always a business model innovation as much as a product innovation; the disruptor's canvas is structurally different from the incumbent's, making direct competition difficult.
+→ [111·Crossing the Chasm](../Startups/crossing-the-chasm.md) — disruptive innovations often cross from non-consumer or low-end footholds to mainstream markets by a path that differs from the standard early-adopter-to-mainstream chasm crossing.
+→ [210·Wardley Mapping](wardley-mapping.md) — Wardley Maps show commoditisation as an evolution axis movement; disruptive innovation is the demand-side story of the same phenomenon Wardley describes from the supply side.
+→ [188·Paradigm Shift](../General-Thinking/paradigm-shift.md) — Christensen's model applies a Kuhnian structure to competitive dynamics: incumbents are locked in a paradigm (the current business model) that blinds them to the new one taking shape below.
+→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — disruption often begins at the adjacent possible of entrants, who are positioned adjacent to innovations that incumbents cannot reach from their current capabilities.
+→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — disruption often involves creating a new value creation/capture pairing that incumbents cannot match without destroying their existing capture mechanism.
 
 ## References
 

@@ -120,15 +120,15 @@ This chain produces a diagnosis, not a remediation plan. The outputs feed direct
 
 ## Connections
 
-→ [**Drift to Failure**](../Systems/drift-to-failure.md) — the universal precondition for organisational degradation; the point at which standards erode without conscious decision.
-→ [**Dunbar's Number**](../Systems/dunbars-number.md) — the scale threshold at which relational coordination breaks; crossing it without redesigning coordination is a primary degradation trigger.
-→ [**Parkinson's Law**](../Business/parkinsons-law.md) — the institutional form of degradation: headcount and process expanding without expanding output.
-→ [**Peter Principle**](../Leadership/peter-principle.md) — management layer incompetence accumulating through promotion-on-past-performance; the primary human mechanism sustaining degradation.
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — measurement programmes decoupling from the outcomes they were designed to track.
-→ [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — intervention programmes sustaining the problems they were designed to solve.
-→ [**Conway's Law**](../Systems/conways-law.md) — organisational structure mirroring and entrenching the system architecture that creates drag.
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — the agency dimension running through every degradation mechanism; identifies where structural incentive redesign is necessary.
-→ [**Transformation Chain**](transformation.md) — the action chain that follows from this diagnosis; do not enter it without completing the scan first.
+→ [208·Drift to Failure](../Systems/drift-to-failure.md) — the universal precondition for organisational degradation; the point at which standards erode without conscious decision.
+→ [243·Dunbar's Number](../Systems/dunbars-number.md) — the scale threshold at which relational coordination breaks; crossing it without redesigning coordination is a primary degradation trigger.
+→ [241·Parkinson's Law](../Business/parkinsons-law.md) — the institutional form of degradation: headcount and process expanding without expanding output.
+→ [242·Peter Principle](../Leadership/peter-principle.md) — management layer incompetence accumulating through promotion-on-past-performance; the primary human mechanism sustaining degradation.
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — measurement programmes decoupling from the outcomes they were designed to track.
+→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — intervention programmes sustaining the problems they were designed to solve.
+→ [28·Conway's Law](../Systems/conways-law.md) — organisational structure mirroring and entrenching the system architecture that creates drag.
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — the agency dimension running through every degradation mechanism; identifies where structural incentive redesign is necessary.
+→ [130·Transformation Chain](transformation.md) — the action chain that follows from this diagnosis; do not enter it without completing the scan first.
 
 ---
 

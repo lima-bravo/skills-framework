@@ -58,12 +58,12 @@ Procter & Gamble's Connect + Develop program is the defining case. In the early 
 
 ## Connections
 
-→ [**Ambidextrous Organization**](ambidextrous-organization.md) — open innovation is a sourcing strategy; ambidextrous structure determines whether the organization can actually deploy what it sources.
-→ [**Adjacent Possible**](../Systems/adjacent-possible.md) — external knowledge flows expand the organization's adjacent possible, making combinations available that internal resources alone couldn't reach.
-→ [**Network Effects**](../Network-Effects/network-effects.md) — open ecosystems and platform strategies often generate network effects that amplify the value of open innovation approaches.
-→ [**Absorptive Capacity**](../Learning/absorptive-capacity.md) — the organization's ability to recognize and integrate external knowledge is the binding constraint on inbound open innovation.
-→ [**Dominant Logic**](dominant-logic.md) — NIH syndrome is dominant logic applied to external sourcing; the same cognitive filters that cause organizations to miss disruption also cause them to discount external innovation.
-→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — open innovation expands the surface area for experimentation; the same learning loop applies whether the experiment originates internally or externally.
+→ [172·Ambidextrous Organization](ambidextrous-organization.md) — open innovation is a sourcing strategy; ambidextrous structure determines whether the organization can actually deploy what it sources.
+→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — external knowledge flows expand the organization's adjacent possible, making combinations available that internal resources alone couldn't reach.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — open ecosystems and platform strategies often generate network effects that amplify the value of open innovation approaches.
+→ [89·Learning Transfer](../Learning/learning-transfer.md) — the organization's ability to recognize and integrate external knowledge is the binding constraint on inbound open innovation (absorptive capacity in practice).
+→ [173·Dominant Logic](dominant-logic.md) — NIH syndrome is dominant logic applied to external sourcing; the same cognitive filters that cause organizations to miss disruption also cause them to discount external innovation.
+→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — open innovation expands the surface area for experimentation; the same learning loop applies whether the experiment originates internally or externally.
 ## References
 
 - *Open Innovation: The New Imperative for Creating and Profiting from Technology* — Henry W. Chesbrough (2003) — the originating text for open innovation as a strategic discipline.

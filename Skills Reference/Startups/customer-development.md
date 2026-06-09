@@ -45,11 +45,11 @@ The founders of Airbnb validated their core hypothesis by manually creating list
 
 ## Connections
 
-→ [**MVP**](mvp.md) — customer development generates the hypotheses that the MVP tests.
-→ [**Product-Market Fit**](product-market-fit.md) — customer development is the process of discovering the conditions under which PMF is achievable.
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — customer development produces evidence that validates or invalidates assumptions on the map.
-→ [**Value Prop Canvas**](../Business/value-prop-canvas.md) — the jobs, pains, and gains sections of the canvas are populated from customer development interviews; the canvas provides structure for what customer development uncovers.
-→ [**Customer Segmentation**](../Business/customer-segmentation.md) — customer development feeds segmentation with the needs and behavior data that makes segments predictive rather than descriptive.
+→ [64·MVP](mvp.md) — customer development generates the hypotheses that the MVP tests.
+→ [62·Product-Market Fit](product-market-fit.md) — customer development is the process of discovering the conditions under which PMF is achievable.
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — customer development produces evidence that validates or invalidates assumptions on the map.
+→ [69·Value Prop Canvas](../Business/value-prop-canvas.md) — the jobs, pains, and gains sections of the canvas are populated from customer development interviews; the canvas provides structure for what customer development uncovers.
+→ [249·Customer Segmentation](../Business/customer-segmentation.md) — customer development feeds segmentation with the needs and behavior data that makes segments predictive rather than descriptive.
 
 ---
 

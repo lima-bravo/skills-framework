@@ -62,13 +62,13 @@ In the early development of Google Glass, one team wanted to test demand for a p
 
 ## Connections
 
-→ [**MVP**](mvp.md) — pretotyping answers the demand question that precedes the MVP; an MVP is built after pretotyping confirms there is an audience worth building for.
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — the DYOD discipline in pretotyping is assumption mapping applied to a single test; assumption mapping identifies which assumption to pretotype first.
+→ [64·MVP](mvp.md) — pretotyping answers the demand question that precedes the MVP; an MVP is built after pretotyping confirms there is an audience worth building for.
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — the DYOD discipline in pretotyping is assumption mapping applied to a single test; assumption mapping identifies which assumption to pretotype first.
 → [**Build-Measure-Learn**](build-measure-learn.md)
-→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — pretotyping is the crawl-stage instrument; the chain shows how it gates into walk and run — pretotyping is an accelerated BML cycle operating before the build investment; it makes the loop cheaper by answering the most critical question at the lowest cost.
-→ [**Experiment Design**](../Business/experiment-design.md) — pretotype techniques are specific experiment designs optimized for demand testing; the choice of technique follows from what assumption is being tested.
-→ [**Effectuation**](effectuation.md) — the pretotype's DYOD threshold is affordable-loss thinking applied to a single test: commit only what you can afford to lose if the result is negative.
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — interpreting pretotype results requires holding the result as a probability update, not a confirmation or refutation; a 12% Fake Door click rate shifts the probability of demand, it doesn't prove or disprove it.
+→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — pretotyping is the crawl-stage instrument; the chain shows how it gates into walk and run — pretotyping is an accelerated BML cycle operating before the build investment; it makes the loop cheaper by answering the most critical question at the lowest cost.
+→ [72·Experiment Design](../Business/experiment-design.md) — pretotype techniques are specific experiment designs optimized for demand testing; the choice of technique follows from what assumption is being tested.
+→ [175·Effectuation](effectuation.md) — the pretotype's DYOD threshold is affordable-loss thinking applied to a single test: commit only what you can afford to lose if the result is negative.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — interpreting pretotype results requires holding the result as a probability update, not a confirmation or refutation; a 12% Fake Door click rate shifts the probability of demand, it doesn't prove or disprove it.
 ## References
 
 - *The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed* — Alberto Savoia (2019) — the source text for pretotyping techniques and the Law of Market Failure.

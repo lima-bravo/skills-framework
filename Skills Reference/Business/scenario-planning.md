@@ -49,14 +49,14 @@ Shell is the canonical case for a reason. In the early 1970s its planners, rathe
 
 ## Connections
 
-→ [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortem probes a single decision for failure modes; scenario planning probes the environment for the range of futures a strategy must survive.
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — scenario planning makes the distribution of futures explicit rather than collapsing to a single expected value.
-→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — scenario planning is most valuable in Complex and Chaotic domains where prediction is unreliable and robustness must substitute for optimisation.
-→ [**Inversion**](../General-Thinking/inversion.md) — building the most challenging scenario is an inversion exercise applied to strategic planning: imagine your strategy fails, then ask what environment produced that outcome.
-→ [**Second-Order Effects**](../General-Thinking/second-order-effects.md) — each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that matter most.
-→ [**Theory of Change**](../General-Thinking/theory-of-change.md) — complementary: scenario planning asks what futures are plausible; Theory of Change asks what pathway gets you to the target outcome within any given scenario.
-→ [**Black Swan**](../General-Thinking/black-swan.md) — scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use both tools together, not as substitutes.
-→ [**Wardley Mapping**](wardley-mapping.md) — Wardley Maps can be projected forward to generate the alternative futures that scenario planning then stress-tests.
+→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — pre-mortem probes a single decision for failure modes; scenario planning probes the environment for the range of futures a strategy must survive.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — scenario planning makes the distribution of futures explicit rather than collapsing to a single expected value.
+→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — scenario planning is most valuable in Complex and Chaotic domains where prediction is unreliable and robustness must substitute for optimisation.
+→ [1·Inversion](../General-Thinking/inversion.md) — building the most challenging scenario is an inversion exercise applied to strategic planning: imagine your strategy fails, then ask what environment produced that outcome.
+→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that matter most.
+→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — complementary: scenario planning asks what futures are plausible; Theory of Change asks what pathway gets you to the target outcome within any given scenario.
+→ [240·Black Swan](../General-Thinking/black-swan.md) — scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use both tools together, not as substitutes.
+→ [210·Wardley Mapping](wardley-mapping.md) — Wardley Maps can be projected forward to generate the alternative futures that scenario planning then stress-tests.
 
 ---
 

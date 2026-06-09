@@ -66,14 +66,14 @@ A strategy team completes a market entry analysis. Three communication failures 
 
 ## Connections
 
-→ [**Pyramid Principle**](../Consulting-Craft/pyramid-principle.md) — the Pyramid Principle operationalises the Maxims in document structure; it answers Manner (orderly, conclusion-first) and Quantity (the apex carries the minimum required claim).
-→ [**Audience**](../Art/audience.md) — the Maxims are constant; what changes with audience is the calibration of each one. Relation and Quantity especially depend on knowing what the audience is trying to decide.
-→ [**Occam's Razor**](occams-razor.md) — both are parsimony principles operating in different domains; Occam's Razor governs explanatory economy, Grice governs communicative economy.
-→ [**Leader's Intent**](../Leadership/leaders-intent.md) — a well-formed Leader's Intent is a direct application of Grice: purpose, key tasks, end state — enough to guide judgment, not so much that it constrains initiative.
-→ [**Cognitive Load (Team)**](../Delivery-and-Flow/cognitive-load-team.md) — excess detail is one of the primary sources of unnecessary cognitive load; Quantity and Relation violations directly tax team capacity.
-→ [**Ladder of Inference**](ladder-of-inference.md) — listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the completeness trap and the Quality-anxiety violation are both driven by motivated reasoning; Grice's Quality maxim requires confidence calibration, not just accuracy.
-→ [**Framing**](../Art/framing.md) — Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
+→ [163·Pyramid Principle](../Consulting-Craft/pyramid-principle.md) — the Pyramid Principle operationalises the Maxims in document structure; it answers Manner (orderly, conclusion-first) and Quantity (the apex carries the minimum required claim).
+→ [90·Audience](../Art/audience.md) — the Maxims are constant; what changes with audience is the calibration of each one. Relation and Quantity especially depend on knowing what the audience is trying to decide.
+→ [3·Occam's Razor](occams-razor.md) — both are parsimony principles operating in different domains; Occam's Razor governs explanatory economy, Grice governs communicative economy.
+→ [194·Leader's Intent](../Leadership/leaders-intent.md) — a well-formed Leader's Intent is a direct application of Grice: purpose, key tasks, end state — enough to guide judgment, not so much that it constrains initiative.
+→ [150·Cognitive Load (Team)](../Delivery-and-Flow/cognitive-load-team.md) — excess detail is one of the primary sources of unnecessary cognitive load; Quantity and Relation violations directly tax team capacity.
+→ [14·Ladder of Inference](ladder-of-inference.md) — listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the completeness trap and the Quality-anxiety violation are both driven by motivated reasoning; Grice's Quality maxim requires confidence calibration, not just accuracy.
+→ [91·Framing](../Art/framing.md) — Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
 
 ## References
 

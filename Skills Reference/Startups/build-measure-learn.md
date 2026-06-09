@@ -43,15 +43,15 @@ Dropbox's famous explainer video is a canonical Build-Measure-Learn example. Bef
 
 ## Connections
 
-→ [**MVP**](mvp.md) — the "minimum" in Build-Measure-Learn is operationalized as an MVP.
-→ [**Product-Market Fit**](product-market-fit.md) — Build-Measure-Learn is the process for discovering and validating PMF.
-→ [**Experiment Design**](../Business/experiment-design.md) — the formal rigor of experiment design disciplines the "measure" phase.
-→ [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — Build-Measure-Learn is EPC applied to product hypotheses; EPC is the governing theory behind both.
-→ [**Crawl / Walk / Run**](../Pre-built-Chains/crawl-walk-run.md) — BML is the learning cycle that runs inside the walk stage of this chain
-→ [**Velocity**](../Physics-and-Chemistry/velocity.md) — BML is the mechanism for maintaining directional alignment while moving at speed; fast loops without directional measurement is speed, not velocity.
-→ [**Wardley Mapping**](../Business/wardley-mapping.md) — BML is the appropriate learning mode at the Genesis/Custom end of a Wardley Map; at the Commodity end, adoption replaces experimentation.
-→ [**A/B Testing**](../Business/ab-testing.md) — A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for producing valid learning in continuous improvement cycles.
-→ [**Pivot or Persevere**](pivot-or-persevere.md) — the pivot-or-persevere decision is the "learn" step of the BML loop operationalized as a structured strategy update.
+→ [64·MVP](mvp.md) — the "minimum" in Build-Measure-Learn is operationalized as an MVP.
+→ [62·Product-Market Fit](product-market-fit.md) — Build-Measure-Learn is the process for discovering and validating PMF.
+→ [72·Experiment Design](../Business/experiment-design.md) — the formal rigor of experiment design disciplines the "measure" phase.
+→ [209·Empirical Process Control](../Delivery-and-Flow/empirical-process-control.md) — Build-Measure-Learn is EPC applied to product hypotheses; EPC is the governing theory behind both.
+→ [214·Crawl / Walk / Run](../Pre-built-Chains/crawl-walk-run.md) — BML is the learning cycle that runs inside the walk stage of this chain
+→ [42·Velocity](../Physics-and-Chemistry/velocity.md) — BML is the mechanism for maintaining directional alignment while moving at speed; fast loops without directional measurement is speed, not velocity.
+→ [210·Wardley Mapping](../Business/wardley-mapping.md) — BML is the appropriate learning mode at the Genesis/Custom end of a Wardley Map; at the Commodity end, adoption replaces experimentation.
+→ [225·A/B Testing](../Business/ab-testing.md) — A/B testing disciplines the "measure" step of the BML loop; it is the quantitative method for producing valid learning in continuous improvement cycles.
+→ [65·Pivot or Persevere](pivot-or-persevere.md) — the pivot-or-persevere decision is the "learn" step of the BML loop operationalized as a structured strategy update.
 
 ---
 

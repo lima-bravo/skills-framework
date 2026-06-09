@@ -45,16 +45,16 @@ A software company built its business on desktop applications through the 1990s.
 
 ## Connections
 
-→ [**Creative Destruction**](../Economics/creative-destruction.md) — each creative destruction event is a moment where a new S-curve displaces the previous one; the two frameworks explain the same phenomenon at different levels of abstraction.
-→ [**Critical Mass**](critical-mass.md) — the inflection point of an S-curve often coincides with reaching critical mass: the threshold at which adoption accelerates under its own momentum.
-→ [**Compounding**](../Mathematics/compounding.md) — the growth phase of an S-curve exhibits near-compounding dynamics; recognizing when compounding will eventually stop is what S-curve thinking adds.
-→ [**Diminishing Returns**](diminishing-returns.md) — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns at the system level.
-→ [**Network Effects**](../Network-Effects/network-effects.md) — network effects accelerate the growth phase and raise the saturation ceiling, but do not eliminate the S-curve structure.
-→ [**Paradigm Shift**](../General-Thinking/paradigm-shift.md) — S-curves describe the adoption trajectory of a new paradigm after the shift; Kuhn's model explains the crisis mechanism that precedes the inflection point.
-→ [**Exploration vs. Exploitation**](exploration-vs-exploitation.md) — exploitation maximizes current S-curve position; exploration develops the next S-curve; both must be managed simultaneously because S-curve transitions are unpredictable.
-→ [**Adjacent Possible**](adjacent-possible.md) — S-curves describe adoption trajectories once an innovation is accessible; the adjacent possible explains when and why an innovation first becomes accessible.
-→ [**Path Dependence**](path-dependence.md) — path dependence locks organisations onto mature S-curves; platform shifts create new curves where switching costs are temporarily lower, enabling a path exit.
-→ [**Long Tail**](../Economics/long-tail.md) — Long Tail markets often follow an S-curve adoption pattern: slow initial tail growth as discovery infrastructure is built, then rapid expansion as recommendation and search mature.
+→ [37·Creative Destruction](../Economics/creative-destruction.md) — each creative destruction event is a moment where a new S-curve displaces the previous one; the two frameworks explain the same phenomenon at different levels of abstraction.
+→ [22·Critical Mass](critical-mass.md) — the inflection point of an S-curve often coincides with reaching critical mass: the threshold at which adoption accelerates under its own momentum.
+→ [75·Compounding](../Mathematics/compounding.md) — the growth phase of an S-curve exhibits near-compounding dynamics; recognizing when compounding will eventually stop is what S-curve thinking adds.
+→ [23·Diminishing Returns](diminishing-returns.md) — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns at the system level.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — network effects accelerate the growth phase and raise the saturation ceiling, but do not eliminate the S-curve structure.
+→ [188·Paradigm Shift](../General-Thinking/paradigm-shift.md) — S-curves describe the adoption trajectory of a new paradigm after the shift; Kuhn's model explains the crisis mechanism that precedes the inflection point.
+→ [108·Exploration vs. Exploitation](exploration-vs-exploitation.md) — exploitation maximizes current S-curve position; exploration develops the next S-curve; both must be managed simultaneously because S-curve transitions are unpredictable.
+→ [109·Adjacent Possible](adjacent-possible.md) — S-curves describe adoption trajectories once an innovation is accessible; the adjacent possible explains when and why an innovation first becomes accessible.
+→ [235·Path Dependence](path-dependence.md) — path dependence locks organisations onto mature S-curves; platform shifts create new curves where switching costs are temporarily lower, enabling a path exit.
+→ [239·Long Tail](../Economics/long-tail.md) — Long Tail markets often follow an S-curve adoption pattern: slow initial tail growth as discovery infrastructure is built, then rapid expansion as recommendation and search mature.
 
 ## References
 

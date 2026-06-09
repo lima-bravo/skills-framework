@@ -45,17 +45,17 @@ A team is designing a new onboarding flow for a SaaS product. Forward thinking g
 
 ## Connections
 
-→ [**Second-order Effects**](second-order-effects.md) — inversion exposes first-order failure; second-order thinking asks what happens after the failure cascades.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — inversion is the structural antidote to confirmation bias: you are explicitly seeking disconfirmation.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — inversion identifies what can go wrong; margin of safety quantifies how much buffer to hold against it.
-→ [**First Principles**](first-principles.md) — first principles builds up from what is true; inversion works down from what would make the answer wrong. Run both together.
-→ [**Pre-mortem**](pre-mortem.md) — the pre-mortem is inversion applied to a plan: assume it has already failed, then work backward to the causes you can prevent now.
-→ [**Thought Experiment**](thought-experiment.md) — inversion is one of the most powerful thought-experiment structures; the pre-mortem is the most common organizational form of it.
-→ [**Regret Minimization Framework**](regret-minimization-framework.md) — the RMF is inversion applied to life decisions: instead of asking "what should I choose?", ask "which choice would I regret more at 80?"
-→ [**Divergent and Convergent Thinking**](divergent-and-convergent-thinking.md) — inversion is a structured divergent technique: approaching the problem from the opposite direction breaks conventional attractors and generates non-obvious possibilities.
-→ [**Loss Aversion**](../Psychology/loss-aversion.md) — framing a decision in loss terms (what you risk losing) is inversion applied to motivation; loss aversion makes this framing more viscerally compelling than gain framing.
-→ [**Sunk Cost**](../Psychology/sunk-cost.md) — "if I were starting fresh today" is inversion applied to a current commitment; it removes sunk cost framing by forcing a clean reference point.
-→ [**Scenario Planning**](../Business/scenario-planning.md) — building the most challenging scenario is an inversion exercise applied to strategic planning: imagine your strategy fails, then ask what environment produced that outcome.
+→ [2·Second-order Effects](second-order-effects.md) — inversion exposes first-order failure; second-order thinking asks what happens after the failure cascades.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — inversion is the structural antidote to confirmation bias: you are explicitly seeking disconfirmation.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — inversion identifies what can go wrong; margin of safety quantifies how much buffer to hold against it.
+→ [0·First Principles](first-principles.md) — first principles builds up from what is true; inversion works down from what would make the answer wrong. Run both together.
+→ [10·Pre-mortem](pre-mortem.md) — the pre-mortem is inversion applied to a plan: assume it has already failed, then work backward to the causes you can prevent now.
+→ [8·Thought Experiment](thought-experiment.md) — inversion is one of the most powerful thought-experiment structures; the pre-mortem is the most common organizational form of it.
+→ [15·Regret Minimization Framework](regret-minimization-framework.md) — the RMF is inversion applied to life decisions: instead of asking "what should I choose?", ask "which choice would I regret more at 80?"
+→ [107·Divergent and Convergent Thinking](divergent-and-convergent-thinking.md) — inversion is a structured divergent technique: approaching the problem from the opposite direction breaks conventional attractors and generates non-obvious possibilities.
+→ [52·Loss Aversion](../Psychology/loss-aversion.md) — framing a decision in loss terms (what you risk losing) is inversion applied to motivation; loss aversion makes this framing more viscerally compelling than gain framing.
+→ [53·Sunk Cost](../Psychology/sunk-cost.md) — "if I were starting fresh today" is inversion applied to a current commitment; it removes sunk cost framing by forcing a clean reference point.
+→ [123·Scenario Planning](../Business/scenario-planning.md) — building the most challenging scenario is an inversion exercise applied to strategic planning: imagine your strategy fails, then ask what environment produced that outcome.
 
 ## References
 

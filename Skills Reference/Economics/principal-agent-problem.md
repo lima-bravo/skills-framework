@@ -48,19 +48,19 @@ A company pays its sales force a commission purely on bookings to align reps (ag
 
 ## Connections
 
-→ [**Goodhart's Law**](goodharts-law.md) — the operational mechanism: the metrics principals use to monitor agents become gameable targets
-→ [**Power Mapping**](../Business/power-mapping.md) — power gaps often correspond to principal-agent misalignments; mapping who actually decides versus who formally decides surfaces where the agency problem is structurally embedded
-→ [**Coalition Building**](../Leadership/coalition-building.md) — coalition members are agents whose private incentives may not fully align with the coalition's stated purpose; the principal-agent lens predicts where fracture is most likely
-→ [**Incentives**](../Psychology/incentives.md) — the primary tool for mitigation
-→ [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — many cobra dynamics are principal-agent problems: agents responsible for a change programme optimise for programme metrics rather than the underlying outcome
-→ [**Ladder of Inference**](../General-Thinking/ladder-of-inference.md) — principals draw conclusions about agents from limited observable data
-→ [**Psychological Safety**](../Psychology/psychological-safety.md) — agents with low psychological safety optimise for appearance, worsening the gap
-→ [**Nash Equilibrium**](../Economics/nash-equilibrium.md) — misaligned principal-agent incentives create equilibria where agents act against the principal's interest; changing the equilibrium requires changing the payoff structure
-→ [**Prisoner's Dilemma**](../Economics/prisoners-dilemma.md) — principal-agent relationships often have a Prisoner's Dilemma structure: agents defect from principal interests when individual incentives dominate
-→ [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
-→ [**Incentive Design**](incentive-design.md) — the constructive discipline: incentive design is how you narrow the gap this model describes
-→ [**Free Rider Problem**](free-rider-problem.md) — agents who benefit from a shared resource without contributing create a free-rider structure that compounds the principal-agent misalignment
-→ [**RACI Framework**](../Business/raci-framework.md) — RACI makes accountability expectations explicit so agents can't credibly claim they didn't know who owned the outcome; it is the structural intervention that closes the principal-agent information gap at the task level.
+→ [120·Goodhart's Law](goodharts-law.md) — the operational mechanism: the metrics principals use to monitor agents become gameable targets
+→ [220·Power Mapping](../Business/power-mapping.md) — power gaps often correspond to principal-agent misalignments; mapping who actually decides versus who formally decides surfaces where the agency problem is structurally embedded
+→ [222·Coalition Building](../Leadership/coalition-building.md) — coalition members are agents whose private incentives may not fully align with the coalition's stated purpose; the principal-agent lens predicts where fracture is most likely
+→ [51·Incentives](../Psychology/incentives.md) — the primary tool for mitigation
+→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — many cobra dynamics are principal-agent problems: agents responsible for a change programme optimise for programme metrics rather than the underlying outcome
+→ [14·Ladder of Inference](../General-Thinking/ladder-of-inference.md) — principals draw conclusions about agents from limited observable data
+→ [104·Psychological Safety](../Psychology/psychological-safety.md) — agents with low psychological safety optimise for appearance, worsening the gap
+→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — misaligned principal-agent incentives create equilibria where agents act against the principal's interest; changing the equilibrium requires changing the payoff structure
+→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — principal-agent relationships often have a Prisoner's Dilemma structure: agents defect from principal interests when individual incentives dominate
+→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
+→ [262·Incentive Design](incentive-design.md) — the constructive discipline: incentive design is how you narrow the gap this model describes
+→ [232·Free Rider Problem](free-rider-problem.md) — agents who benefit from a shared resource without contributing create a free-rider structure that compounds the principal-agent misalignment
+→ [127·RACI Framework](../Business/raci-framework.md) — RACI makes accountability expectations explicit so agents can't credibly claim they didn't know who owned the outcome; it is the structural intervention that closes the principal-agent information gap at the task level.
 
 ## References
 

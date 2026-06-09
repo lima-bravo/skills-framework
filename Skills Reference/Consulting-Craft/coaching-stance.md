@@ -46,11 +46,11 @@ A consulting team is brought in to redesign a large organisation's operating mod
 
 ## Connections
 
-→ [**Engagement Lifecycle**](consulting-engagement.md) — coaching stance is a design choice made at the contracting stage; it shapes the whole engagement model, not just individual interactions.
-→ [**Facilitation**](facilitation.md) — coaching stance is the orientation; facilitation provides the specific techniques for building client thinking at scale.
-→ [**Stakeholder Pre-Wiring**](stakeholder-pre-wiring.md) — building stakeholder alignment before a recommendation is presented is easier when stakeholders have participated in building the diagnosis; coaching stance creates the conditions for genuine pre-wiring.
-→ [**Mission Command**](../Leadership/mission-command.md) — both coaching stance and mission command share the same underlying belief: the people closest to the problem have better information than the person at the center, and the center's job is to build their capacity to act, not to replace their judgment.
-→ [**Psychological Safety**](../Psychology/psychological-safety.md) — coaching stance can only work in an environment where clients feel safe to say "we don't know" and "we were wrong." If the client is managing up, they will not share the real diagnosis regardless of the questions asked.
+→ [164·Engagement Lifecycle](consulting-engagement.md) — coaching stance is a design choice made at the contracting stage; it shapes the whole engagement model, not just individual interactions.
+→ [259·Facilitation](facilitation.md) — coaching stance is the orientation; facilitation provides the specific techniques for building client thinking at scale.
+→ [252·Stakeholder Pre-Wiring](stakeholder-pre-wiring.md) — building stakeholder alignment before a recommendation is presented is easier when stakeholders have participated in building the diagnosis; coaching stance creates the conditions for genuine pre-wiring.
+→ [118·Mission Command](../Leadership/mission-command.md) — both coaching stance and mission command share the same underlying belief: the people closest to the problem have better information than the person at the center, and the center's job is to build their capacity to act, not to replace their judgment.
+→ [104·Psychological Safety](../Psychology/psychological-safety.md) — coaching stance can only work in an environment where clients feel safe to say "we don't know" and "we were wrong." If the client is managing up, they will not share the real diagnosis regardless of the questions asked.
 
 ---
 

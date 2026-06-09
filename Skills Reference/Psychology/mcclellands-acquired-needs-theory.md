@@ -42,11 +42,11 @@ A startup's two founders are diagnostically different: one is high-nAch (driven 
 
 ## Connections
 
-→ [**Incentives**](incentives.md) — McClelland's theory maps directly to incentive design: different dominant needs require different incentive structures.
-→ [**Maslow's Hierarchy**](maslows-hierarchy-of-needs.md) — Maslow describes universal motivational needs by level; McClelland describes individual variation in dominant needs.
-→ [**Max-Neef's Fundamental Human Needs**](max-neefs-fundamental-human-needs.md) — a broader non-hierarchical complement that includes existential and relational dimensions McClelland doesn't address.
-→ [**ERG Theory**](erg-theory.md) — ERG complements McClelland: McClelland identifies which need domain dominates for a person; ERG describes what happens when that domain is blocked.
-→ [**Self-Determination Theory**](self-determination-theory.md) — McClelland's needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture.
+→ [51·Incentives](incentives.md) — McClelland's theory maps directly to incentive design: different dominant needs require different incentive structures.
+→ [58·Maslow's Hierarchy](maslows-hierarchy-of-needs.md) — Maslow describes universal motivational needs by level; McClelland describes individual variation in dominant needs.
+→ [60·Max-Neef's Fundamental Human Needs](max-neefs-fundamental-human-needs.md) — a broader non-hierarchical complement that includes existential and relational dimensions McClelland doesn't address.
+→ [61·ERG Theory](erg-theory.md) — ERG complements McClelland: McClelland identifies which need domain dominates for a person; ERG describes what happens when that domain is blocked.
+→ [192·Self-Determination Theory](self-determination-theory.md) — McClelland's needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture.
 
 ## References
 

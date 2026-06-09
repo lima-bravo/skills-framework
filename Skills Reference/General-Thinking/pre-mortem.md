@@ -43,23 +43,23 @@ A company is about to launch a new pricing model. Pre-mortem: "It is Q4 and the 
 
 ## Connections
 
-→ [**Inversion**](inversion.md) — the pre-mortem is inversion operationalized as a group process.
-→ [**Assumption Mapping**](../Business/assumption-mapping.md) — failure causes in a pre-mortem often correspond to critical assumptions that weren't tested.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — pre-mortems identify the specific risks that margin of safety should buffer against.
-→ [**Red Teaming**](../Business/red-teaming.md) — the pre-mortem is a lightweight adversarial tool for a whole group; red teaming uses a designated independent team for more rigorous challenge.
-→ [**Steelmanning**](steelmanning.md) — steelmanning applied prospectively: what is the strongest case that this plan will fail?
-→ [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — the Pre-launch Cobra Risk Assessment is best run as a pre-mortem: assume the intervention became a cobra and work backward to identify the mechanism.
-→ [**Post-mortem**](post-mortem.md) — the bookends: the pre-mortem imagines future failure before commitment; the post-mortem analyses actual failure after it occurs. A mature team practices both.
-→ [**De Bono's Six Thinking Hats**](de-bonos-six-thinking-hats.md) — the Black Hat is the group-thinking equivalent of the pre-mortem; the Six Hats framework provides the structure for running one without triggering ego-defense dynamics.
-→ [**Cynefin Framework**](cynefin-framework.md) — pre-mortems are most predictive in Complicated domains; in Complex domains, cause-and-effect visibility only emerges in retrospect, which limits how much a pre-mortem can anticipate.
-→ [**Theory of Change**](theory-of-change.md) — the pre-mortem stress-tests which assumptions in a Theory of Change's causal chain are most likely to fail; together they form a risk-first planning discipline.
-→ [**Causal Analysis**](causal-analysis.md) — the pre-mortem applies causal analysis forward in time: what causal structure would produce failure from here, and which link in that chain is the most likely point of failure?
-→ [**Black Swan**](black-swan.md) — the pre-mortem is the closest operational tool to Black Swan thinking: imagining failure in advance surfaces failure modes not in the current plan, including tail events.
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — the pre-mortem is the most effective tactical intervention against the planning fallacy: imagining the plan has failed forces engagement with the outside view.
-→ [**Hindsight Bias**](../Psychology/hindsight-bias.md) — the pre-mortem proactively creates a written record of uncertainty before the outcome is known, providing the honest baseline that counteracts hindsight bias in later retrospection.
-→ [**Narrative Instinct**](../Psychology/narrative-instinct.md) — the pre-mortem deliberately invokes a failure narrative to surface what the success narrative suppresses; it uses narrative instinct against itself.
-→ [**Falsification**](../Psychology/falsification.md) — the pre-mortem applies falsification thinking prospectively: imagining the plan has failed is asking "what evidence would show this doesn't work?"
-→ [**Scenario Planning**](../Business/scenario-planning.md) — pre-mortem probes a single decision for failure modes; scenario planning probes the environment for the range of futures a strategy must survive.
+→ [1·Inversion](inversion.md) — the pre-mortem is inversion operationalized as a group process.
+→ [73·Assumption Mapping](../Business/assumption-mapping.md) — failure causes in a pre-mortem often correspond to critical assumptions that weren't tested.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — pre-mortems identify the specific risks that margin of safety should buffer against.
+→ [224·Red Teaming](../Business/red-teaming.md) — the pre-mortem is a lightweight adversarial tool for a whole group; red teaming uses a designated independent team for more rigorous challenge.
+→ [223·Steelmanning](steelmanning.md) — steelmanning applied prospectively: what is the strongest case that this plan will fail?
+→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — the Pre-launch Cobra Risk Assessment is best run as a pre-mortem: assume the intervention became a cobra and work backward to identify the mechanism.
+→ [11·Post-mortem](post-mortem.md) — the bookends: the pre-mortem imagines future failure before commitment; the post-mortem analyses actual failure after it occurs. A mature team practices both.
+→ [13·De Bono's Six Thinking Hats](de-bonos-six-thinking-hats.md) — the Black Hat is the group-thinking equivalent of the pre-mortem; the Six Hats framework provides the structure for running one without triggering ego-defense dynamics.
+→ [122·Cynefin Framework](cynefin-framework.md) — pre-mortems are most predictive in Complicated domains; in Complex domains, cause-and-effect visibility only emerges in retrospect, which limits how much a pre-mortem can anticipate.
+→ [128·Theory of Change](theory-of-change.md) — the pre-mortem stress-tests which assumptions in a Theory of Change's causal chain are most likely to fail; together they form a risk-first planning discipline.
+→ [171·Causal Analysis](causal-analysis.md) — the pre-mortem applies causal analysis forward in time: what causal structure would produce failure from here, and which link in that chain is the most likely point of failure?
+→ [240·Black Swan](black-swan.md) — the pre-mortem is the closest operational tool to Black Swan thinking: imagining failure in advance surfaces failure modes not in the current plan, including tail events.
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — the pre-mortem is the most effective tactical intervention against the planning fallacy: imagining the plan has failed forces engagement with the outside view.
+→ [201·Hindsight Bias](../Psychology/hindsight-bias.md) — the pre-mortem proactively creates a written record of uncertainty before the outcome is known, providing the honest baseline that counteracts hindsight bias in later retrospection.
+→ [203·Narrative Instinct](../Psychology/narrative-instinct.md) — the pre-mortem deliberately invokes a failure narrative to surface what the success narrative suppresses; it uses narrative instinct against itself.
+→ [204·Falsification](../Psychology/falsification.md) — the pre-mortem applies falsification thinking prospectively: imagining the plan has failed is asking "what evidence would show this doesn't work?"
+→ [123·Scenario Planning](../Business/scenario-planning.md) — pre-mortem probes a single decision for failure modes; scenario planning probes the environment for the range of futures a strategy must survive.
 
 ## References
 

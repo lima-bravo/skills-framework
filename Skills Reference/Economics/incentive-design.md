@@ -49,15 +49,15 @@ A support team is measured on tickets closed per day. Close rates rise; customer
 
 ## Connections
 
-→ [**Principal-Agent Problem**](principal-agent-problem.md) — incentive design is the constructive discipline for the misalignment this model describes: the agent's interests diverge from the principal's wherever the incentive structure allows it
-→ [**Goodhart's Law**](goodharts-law.md) — every incentive attached to a metric eventually produces Goodhart drift; incentive design must build in rotation and drift detection
-→ [**Cobra Effect**](../Innovation-Entrepreneurship/cobra-effect.md) — the failure mode where an incentive structure makes the problem profitable; adversarial modelling is the design countermeasure
-→ [**Tragedy of the Commons**](tragedy-of-the-commons.md) — incentive design can create or dissolve commons tragedies; the right structure makes individual rationality and collective good coincide
-→ [**Nash Equilibrium**](nash-equilibrium.md) — the goal of incentive design is to make the individually rational equilibrium the collectively desirable one
-→ [**Self-Determination Theory**](../Psychology/self-determination-theory.md) — intrinsic motivation and crowding-out effects set the boundary conditions for what extrinsic incentive structures can achieve
-→ [**Systems Thinking**](../Systems/systems-thinking.md) — incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
-→ [**Fundamental Attribution Error**](../Psychology/fundamental-attribution-error.md) — FAE leads to redesigning the person rather than the incentive structure; recognising the situational lens is what makes incentive design the right intervention
-→ [**Social Proof**](../Psychology/social-proof.md) — formal incentives and social proof can work with or against each other; designing incentives without accounting for what peers are visibly doing often produces weaker effects than expected
+→ [121·Principal-Agent Problem](principal-agent-problem.md) — incentive design is the constructive discipline for the misalignment this model describes: the agent's interests diverge from the principal's wherever the incentive structure allows it
+→ [120·Goodhart's Law](goodharts-law.md) — every incentive attached to a metric eventually produces Goodhart drift; incentive design must build in rotation and drift detection
+→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — the failure mode where an incentive structure makes the problem profitable; adversarial modelling is the design countermeasure
+→ [231·Tragedy of the Commons](tragedy-of-the-commons.md) — incentive design can create or dissolve commons tragedies; the right structure makes individual rationality and collective good coincide
+→ [229·Nash Equilibrium](nash-equilibrium.md) — the goal of incentive design is to make the individually rational equilibrium the collectively desirable one
+→ [192·Self-Determination Theory](../Psychology/self-determination-theory.md) — intrinsic motivation and crowding-out effects set the boundary conditions for what extrinsic incentive structures can achieve
+→ [261·Systems Thinking](../Systems/systems-thinking.md) — incentive structures are feedback loops; systems thinking reveals whether they will produce their intended effect or generate unintended dynamics
+→ [200·Fundamental Attribution Error](../Psychology/fundamental-attribution-error.md) — FAE leads to redesigning the person rather than the incentive structure; recognising the situational lens is what makes incentive design the right intervention
+→ [202·Social Proof](../Psychology/social-proof.md) — formal incentives and social proof can work with or against each other; designing incentives without accounting for what peers are visibly doing often produces weaker effects than expected
 
 ## References
 

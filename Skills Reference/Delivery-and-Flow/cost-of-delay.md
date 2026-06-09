@@ -44,11 +44,11 @@ A product portfolio committee has 11 funded initiatives competing for capacity t
 
 ## Connections
 
-→ [**WSJF**](wsjf.md) — Weighted Shortest Job First operationalizes CoD into a prioritization rule.
-→ [**Trade-offs**](../Economics/trade-offs.md) — CoD is the time dimension of trade-off reasoning.
-→ [**Kill Criteria**](kill-criteria.md) — items whose CoD has collapsed are candidates for stopping.
-→ [**Lean Portfolio Management**](lean-portfolio.md) — CoD is the input that lets portfolio funding follow economic value.
-→ [**Probabilistic Forecasting**](probabilistic-forecasting.md) — pairs with CoD to estimate the dollar value of "ship this six weeks earlier."
+→ [159·WSJF](wsjf.md) — Weighted Shortest Job First operationalizes CoD into a prioritization rule.
+→ [30·Trade-offs](../Economics/trade-offs.md) — CoD is the time dimension of trade-off reasoning.
+→ [153·Kill Criteria](kill-criteria.md) — items whose CoD has collapsed are candidates for stopping.
+→ [158·Lean Portfolio Management](lean-portfolio.md) — CoD is the input that lets portfolio funding follow economic value.
+→ [141·Probabilistic Forecasting](probabilistic-forecasting.md) — pairs with CoD to estimate the dollar value of "ship this six weeks earlier."
 
 ---
 

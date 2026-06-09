@@ -76,12 +76,12 @@ A capable analyst is repeatedly passed over for advancement despite strong techn
 
 ## Connections
 
-→ [**Self-Determination Theory**](../Psychology/self-determination-theory.md) — purpose clarity is the primary mechanism for meeting the Relatedness need; it also supports Competence (knowing why your work matters makes effectiveness legible) and Autonomy (people who understand purpose can make autonomous decisions aligned with intent)
-→ [**Mission Command**](mission-command.md) — Mission Command clarifies intent for execution; Purpose Clarity clarifies meaning for motivation. Both are needed; Mission Command without Purpose Clarity produces technically correct but disengaged execution
-→ [**Organizational Culture**](organizational-culture.md) — purpose clarity is both a product of culture (in cultures that communicate openly, it emerges naturally) and a driver of it (when leaders make purpose explicit, they model the communication standard)
-→ [**RACI Framework**](../Business/raci-framework.md) — the Accountable role in RACI is only meaningful if the person holding it understands why the outcome matters; purpose clarity is the prerequisite for RACI to work at the human level
-→ [**Async-First Default**](async-first-default.md) — decision memos and written communications are the async alternative to alignment meetings; they only work if the writer can articulate purpose clearly enough to convey it in writing
-→ [**Three-Question Ritual**](three-question-ritual.md) — Q1 of the meeting close ("what is the decision?") implicitly requires purpose clarity; people who don't know why their work matters cannot reliably identify which decisions are load-bearing
+→ [192·Self-Determination Theory](../Psychology/self-determination-theory.md) — purpose clarity is the primary mechanism for meeting the Relatedness need; it also supports Competence (knowing why your work matters makes effectiveness legible) and Autonomy (people who understand purpose can make autonomous decisions aligned with intent)
+→ [118·Mission Command](mission-command.md) — Mission Command clarifies intent for execution; Purpose Clarity clarifies meaning for motivation. Both are needed; Mission Command without Purpose Clarity produces technically correct but disengaged execution
+→ [124·Organizational Culture](organizational-culture.md) — purpose clarity is both a product of culture (in cultures that communicate openly, it emerges naturally) and a driver of it (when leaders make purpose explicit, they model the communication standard)
+→ [127·RACI Framework](../Business/raci-framework.md) — the Accountable role in RACI is only meaningful if the person holding it understands why the outcome matters; purpose clarity is the prerequisite for RACI to work at the human level
+→ [191·Async-First Default](async-first-default.md) — decision memos and written communications are the async alternative to alignment meetings; they only work if the writer can articulate purpose clearly enough to convey it in writing
+→ [190·Three-Question Ritual](three-question-ritual.md) — Q1 of the meeting close ("what is the decision?") implicitly requires purpose clarity; people who don't know why their work matters cannot reliably identify which decisions are load-bearing
 
 ## References
 

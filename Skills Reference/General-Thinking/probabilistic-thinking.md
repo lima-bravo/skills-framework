@@ -45,27 +45,27 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 
 ## Connections
 
-→ [**Circle of Competence**](circle-of-competence.md) — probability estimates are only as good as your underlying knowledge. Outside your circle, confidence intervals should be much wider.
-→ [**Regression to the Mean**](../Mathematics/regression-to-the-mean.md) — understanding that extreme outcomes tend toward average is a structural input to probabilistic thinking.
-→ [**Margin of Safety**](../Systems/margin-of-safety.md) — once you have a probability distribution on outcomes, margin of safety tells you how much buffer to hold.
-→ [**Calibration**](calibration.md) — calibration is the standard that probabilistic thinking is measured against; thinking in distributions is the method, being calibrated across many predictions is the goal.
-→ [**Expected Value**](../Mathematics/expected-value.md) — EV is the quantitative expression of probabilistic thinking; once you have a probability distribution, expected value tells you what a decision is worth.
-→ [**Bayesian Updating**](../Mathematics/bayesian-updating.md) — the mechanism for keeping probability estimates current as new evidence arrives.
-→ [**Occam's Razor**](occams-razor.md) — when explanations are roughly equally probable, Occam's Razor provides the tiebreaker toward the simpler hypothesis.
-→ [**Map-Territory**](map-territory.md) — probability distributions are maps of uncertainty; treating a confidence interval as certain collapses the map onto one point and ignores the territory's actual range.
-→ [**Asymmetry / Convexity**](asymmetry-convexity.md) — asymmetry analysis is an extension of probabilistic thinking: it requires tracking both probability and magnitude of outcomes, not probability alone.
-→ [**Black Swan**](black-swan.md) — Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
-→ [**Relativity**](../Physics-and-Chemistry/relativity.md) — base rates are reference frames; sound probabilistic thinking requires choosing the right reference class before assigning probabilities.
-→ [**Anchoring**](../Psychology/anchoring.md) — the antidote to anchoring is independent base-rate analysis before exposure; probabilistic thinking provides the method for forming that prior independently.
-→ [**Availability Bias**](../Psychology/availability-bias.md) — availability bias is the primary distortion that probabilistic thinking corrects: it replaces vivid-example frequency estimates with explicit base rates.
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — thinking in distributions (outside view) is the cognitive toolkit that directly counters the planning fallacy's reliance on optimistic single-scenario narratives.
-→ [**Survivorship Bias**](../Psychology/survivorship-bias.md) — the correction for survivorship bias is explicit probabilistic reasoning over the full distribution, not just the visible tail of survivors.
-→ [**Hindsight Bias**](../Psychology/hindsight-bias.md) — the antidote to hindsight bias is evaluating decisions by the probability distribution reasonably estimable at decision time, not the single outcome that occurred.
-→ [**Falsification**](../Psychology/falsification.md) — probabilistic thinking quantifies uncertainty; falsification tests whether the underlying model is structurally sound. Together they form the core of calibrated reasoning.
-→ [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the most common failure of probabilistic reasoning: discarding the prior distribution because the individual case has become vivid.
-→ [**Experiment Design**](../Business/experiment-design.md) — statistical significance and power are applications of probabilistic thinking to experiment design; a well-designed experiment operationalises a probability-based decision rule.
-→ [**Scenario Planning**](../Business/scenario-planning.md) — scenario planning is probabilistic thinking applied to strategy: it makes the distribution of futures explicit rather than collapsing to a single expected-value forecast.
-→ [**A/B Testing**](../Business/ab-testing.md) — statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results correctly requires understanding probability, not just reading outcome metrics.
+→ [5·Circle of Competence](circle-of-competence.md) — probability estimates are only as good as your underlying knowledge. Outside your circle, confidence intervals should be much wider.
+→ [77·Regression to the Mean](../Mathematics/regression-to-the-mean.md) — understanding that extreme outcomes tend toward average is a structural input to probabilistic thinking.
+→ [24·Margin of Safety](../Systems/margin-of-safety.md) — once you have a probability distribution on outcomes, margin of safety tells you how much buffer to hold.
+→ [211·Calibration](calibration.md) — calibration is the standard that probabilistic thinking is measured against; thinking in distributions is the method, being calibrated across many predictions is the goal.
+→ [227·Expected Value](../Mathematics/expected-value.md) — EV is the quantitative expression of probabilistic thinking; once you have a probability distribution, expected value tells you what a decision is worth.
+→ [228·Bayesian Updating](../Mathematics/bayesian-updating.md) — the mechanism for keeping probability estimates current as new evidence arrives.
+→ [3·Occam's Razor](occams-razor.md) — when explanations are roughly equally probable, Occam's Razor provides the tiebreaker toward the simpler hypothesis.
+→ [6·Map-Territory](map-territory.md) — probability distributions are maps of uncertainty; treating a confidence interval as certain collapses the map onto one point and ignores the territory's actual range.
+→ [12·Asymmetry / Convexity](asymmetry-convexity.md) — asymmetry analysis is an extension of probabilistic thinking: it requires tracking both probability and magnitude of outcomes, not probability alone.
+→ [240·Black Swan](black-swan.md) — Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
+→ [50·Relativity](../Physics-and-Chemistry/relativity.md) — base rates are reference frames; sound probabilistic thinking requires choosing the right reference class before assigning probabilities.
+→ [54·Anchoring](../Psychology/anchoring.md) — the antidote to anchoring is independent base-rate analysis before exposure; probabilistic thinking provides the method for forming that prior independently.
+→ [56·Availability Bias](../Psychology/availability-bias.md) — availability bias is the primary distortion that probabilistic thinking corrects: it replaces vivid-example frequency estimates with explicit base rates.
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — thinking in distributions (outside view) is the cognitive toolkit that directly counters the planning fallacy's reliance on optimistic single-scenario narratives.
+→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — the correction for survivorship bias is explicit probabilistic reasoning over the full distribution, not just the visible tail of survivors.
+→ [201·Hindsight Bias](../Psychology/hindsight-bias.md) — the antidote to hindsight bias is evaluating decisions by the probability distribution reasonably estimable at decision time, not the single outcome that occurred.
+→ [204·Falsification](../Psychology/falsification.md) — probabilistic thinking quantifies uncertainty; falsification tests whether the underlying model is structurally sound. Together they form the core of calibrated reasoning.
+→ [206·Base Rate Neglect](../Psychology/base-rate-neglect.md) — the most common failure of probabilistic reasoning: discarding the prior distribution because the individual case has become vivid.
+→ [72·Experiment Design](../Business/experiment-design.md) — statistical significance and power are applications of probabilistic thinking to experiment design; a well-designed experiment operationalises a probability-based decision rule.
+→ [123·Scenario Planning](../Business/scenario-planning.md) — scenario planning is probabilistic thinking applied to strategy: it makes the distribution of futures explicit rather than collapsing to a single expected-value forecast.
+→ [225·A/B Testing](../Business/ab-testing.md) — statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results correctly requires understanding probability, not just reading outcome metrics.
 
 ## References
 

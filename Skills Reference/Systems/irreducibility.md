@@ -45,10 +45,10 @@ A consultancy builds a unified pricing model for a client, arguing that the curr
 
 ## Connections
 
-→ [**Emergence**](emergence.md) — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
-→ [**Algorithms**](algorithms.md) — irreducible systems are those that resist algorithmic shortcuts; for them, simulation or direct evolution is the only reliable approach.
-→ [**Map-Territory**](../General-Thinking/map-territory.md) — an irreducible system resists accurate mapping; the practitioner must hold the map loosely.
-→ [**Margin of Safety**](margin-of-safety.md) — irreducible systems cannot be fully anticipated; margin of safety is especially important when the system cannot be simplified without losing essential properties.
+→ [19·Emergence](emergence.md) — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
+→ [26·Algorithms](algorithms.md) — irreducible systems are those that resist algorithmic shortcuts; for them, simulation or direct evolution is the only reliable approach.
+→ [6·Map-Territory](../General-Thinking/map-territory.md) — an irreducible system resists accurate mapping; the practitioner must hold the map loosely.
+→ [24·Margin of Safety](margin-of-safety.md) — irreducible systems cannot be fully anticipated; margin of safety is especially important when the system cannot be simplified without losing essential properties.
 
 ## References
 

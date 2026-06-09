@@ -45,12 +45,12 @@ A 2500-person enterprise IT organization runs 28 simultaneous large initiatives 
 
 ## Connections
 
-→ [**Cost of Delay**](cost-of-delay.md) — the economic input that powers LPM prioritization.
-→ [**WSJF**](wsjf.md) — the practical sequencing rule.
-→ [**Flow Metrics**](flow-metrics.md) — the dashboard for portfolio health.
-→ [**Kill Criteria**](kill-criteria.md) — the mechanism that prevents portfolio bloat.
-→ [**Innovation Funnel**](../Business/innovation-funnel.md) — stage-gate funding is the contrast LPM is designed to replace.
-→ [**Unit Economics**](../Economics/unit-economics.md) — portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating LTV:CAC is a kill candidate regardless of revenue trajectory.
+→ [137·Cost of Delay](cost-of-delay.md) — the economic input that powers LPM prioritization.
+→ [159·WSJF](wsjf.md) — the practical sequencing rule.
+→ [143·Flow Metrics](flow-metrics.md) — the dashboard for portfolio health.
+→ [153·Kill Criteria](kill-criteria.md) — the mechanism that prevents portfolio bloat.
+→ [70·Innovation Funnel](../Business/innovation-funnel.md) — stage-gate funding is the contrast LPM is designed to replace.
+→ [216·Unit Economics](../Economics/unit-economics.md) — portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating LTV:CAC is a kill candidate regardless of revenue trajectory.
 
 ---
 

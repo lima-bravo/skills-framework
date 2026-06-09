@@ -53,17 +53,17 @@ A bank rolls out a process-improvement methodology that worked beautifully in it
 
 ## Connections
 
-→ [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — EPC is the correct governing mechanism for Complex-domain work; Cynefin tells you when to apply it
-→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — clear/complicated domains favour exploitation; complex domains require exploration
-→ [**Experiment Design**](../Business/experiment-design.md) — in Complex domains, safe-to-fail experiments replace analysis
-→ [**First Principles**](first-principles.md) — applicable in Clear and Complicated domains; less reliable in Complex
-→ [**Pre-mortem**](pre-mortem.md) — less predictive in Complex domains; knowing the domain calibrates how much to trust pre-mortems
-→ [**Scenario Planning**](../Business/scenario-planning.md) — most valuable in Complex and Chaotic domains where single-point forecasting fails
-→ [**Structured Problem Solving**](../Consulting-Craft/structured-problem-solving.md) — the integrated answer-first, hypothesis-led, MECE posture is built for Complicated-domain problems with enough precedent to support a credible day-one guess; forcing it onto Complex-domain situations produces false confidence rather than clarity
-→ [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — classifying the domain is itself part of the diagnostic move: a "current-state" question can be Complicated (analysable, as in the worked example) or Complex (requiring probes before any diagnosis can be trusted), and a fact base should say which
-→ [**Causal Analysis**](causal-analysis.md) — Cynefin identifies which causal mode is appropriate: Complicated domains suit 5 Whys or fishbone; Complex domains require causal loop analysis because the cause-and-effect relationship is a feedback structure, not a chain.
-→ [**Paradigm Shift**](paradigm-shift.md) — normal science operates in Clear and Complicated domains where methods are settled; paradigm crisis often signals that a domain has become Complex and the existing methods have lost their predictive validity.
-→ [**SRK Framework**](../Psychology/srk-framework.md) — Cynefin prescribes which response mode a domain calls for; SRK explains the cognitive mechanics underneath: rule-based performance in Complicated domains, knowledge-based reasoning when the domain is Complex or novel.
+→ [209·Empirical Process Control](../Delivery-and-Flow/empirical-process-control.md) — EPC is the correct governing mechanism for Complex-domain work; Cynefin tells you when to apply it
+→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — clear/complicated domains favour exploitation; complex domains require exploration
+→ [72·Experiment Design](../Business/experiment-design.md) — in Complex domains, safe-to-fail experiments replace analysis
+→ [0·First Principles](first-principles.md) — applicable in Clear and Complicated domains; less reliable in Complex
+→ [10·Pre-mortem](pre-mortem.md) — less predictive in Complex domains; knowing the domain calibrates how much to trust pre-mortems
+→ [123·Scenario Planning](../Business/scenario-planning.md) — most valuable in Complex and Chaotic domains where single-point forecasting fails
+→ [253·Structured Problem Solving](../Consulting-Craft/structured-problem-solving.md) — the integrated answer-first, hypothesis-led, MECE posture is built for Complicated-domain problems with enough precedent to support a credible day-one guess; forcing it onto Complex-domain situations produces false confidence rather than clarity
+→ [246·Situation Assessment](../Consulting-Craft/situation-assessment.md) — classifying the domain is itself part of the diagnostic move: a "current-state" question can be Complicated (analysable, as in the worked example) or Complex (requiring probes before any diagnosis can be trusted), and a fact base should say which
+→ [171·Causal Analysis](causal-analysis.md) — Cynefin identifies which causal mode is appropriate: Complicated domains suit 5 Whys or fishbone; Complex domains require causal loop analysis because the cause-and-effect relationship is a feedback structure, not a chain.
+→ [188·Paradigm Shift](paradigm-shift.md) — normal science operates in Clear and Complicated domains where methods are settled; paradigm crisis often signals that a domain has become Complex and the existing methods have lost their predictive validity.
+→ [207·SRK Framework](../Psychology/srk-framework.md) — Cynefin prescribes which response mode a domain calls for; SRK explains the cognitive mechanics underneath: rule-based performance in Complicated domains, knowledge-based reasoning when the domain is Complex or novel.
 
 ## References
 

@@ -43,11 +43,11 @@ A founder spends the first year of her company answering customer support person
 
 ## Connections
 
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — applying leverage to bottlenecks produces the highest system-wide return.
-→ [**Scale**](../Systems/scale.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
-→ [**Algorithms**](../Systems/algorithms.md) — code and algorithms are the highest-leverage form of knowledge work.
-→ [**Friction**](friction.md) — friction reduces the effective multiple of leverage; a high-leverage action in a high-friction system produces less output than expected.
-→ [**Catalysts**](catalysts.md) — a catalyst creates leverage by making others more productive; the reusable mechanism produces compounding rather than linear returns.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — applying leverage to bottlenecks produces the highest system-wide return.
+→ [21·Scale](../Systems/scale.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
+→ [26·Algorithms](../Systems/algorithms.md) — code and algorithms are the highest-leverage form of knowledge work.
+→ [44·Friction](friction.md) — friction reduces the effective multiple of leverage; a high-leverage action in a high-friction system produces less output than expected.
+→ [47·Catalysts](catalysts.md) — a catalyst creates leverage by making others more productive; the reusable mechanism produces compounding rather than linear returns.
 
 ## References
 

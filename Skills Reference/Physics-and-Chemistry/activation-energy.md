@@ -43,11 +43,11 @@ A company wants engineers to write more documentation. They mandate it, incentiv
 
 ## Connections
 
-→ [**Friction**](friction.md) — activation energy is the specific form of friction at the start of a process.
-→ [**Catalysts**](catalysts.md) — the chemical mechanism for reducing activation energy; organizations have analogous catalysts.
-→ [**Inertia**](inertia.md) — activation energy is required to overcome inertia; they are related but distinct.
-→ [**Equilibrium**](../Systems/equilibrium.md) — shifting between equilibria requires an energy input to cross the barrier between stable states; activation energy is that barrier's mechanism.
-→ [**Maker's Schedule vs. Manager's Schedule**](../Business/makers-schedule.md) — every interruption resets the activation energy required to re-enter deep focus; protecting unbroken time eliminates the repeated re-entry cost.
+→ [44·Friction](friction.md) — activation energy is the specific form of friction at the start of a process.
+→ [47·Catalysts](catalysts.md) — the chemical mechanism for reducing activation energy; organizations have analogous catalysts.
+→ [43·Inertia](inertia.md) — activation energy is required to overcome inertia; they are related but distinct.
+→ [20·Equilibrium](../Systems/equilibrium.md) — shifting between equilibria requires an energy input to cross the barrier between stable states; activation energy is that barrier's mechanism.
+→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — every interruption resets the activation energy required to re-enter deep focus; protecting unbroken time eliminates the repeated re-entry cost.
 
 ## References
 

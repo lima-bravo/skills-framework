@@ -43,12 +43,12 @@ A logistics company plans to build a new sorting facility in a mid-sized town. I
 
 ## Connections
 
-→ [**Power Mapping**](power-mapping.md) — stakeholder mapping analyses interests and salience; power mapping analyses influence structure. Use both: this card for prioritisation, power mapping for understanding how stakeholders relate to each other and who the real decision-makers are.
-→ [**Incentives**](../Psychology/incentives.md) — stakeholder salience is determined partly by incentive alignment. High-power stakeholders whose incentives are aligned need less intensive management than those whose incentives are misaligned.
-→ [**Second-order Effects**](../General-Thinking/second-order-effects.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates. The map is the tool for anticipating this.
-→ [**Interdependence**](../Economics/interdependence.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritize which dependencies to manage most actively.
-→ [**Stakeholder Pre-Wiring**](../Consulting-Craft/stakeholder-pre-wiring.md) — the engagement-planning counterpart to this card's analysis: salience mapping tells you who matters and how much; pre-wiring tells you what to do about it before the decision meeting.
-→ [**RACI Framework**](raci-framework.md) — RACI operationalises the salience analysis into specific accountability assignments; knowing who matters most (salience) determines whose phone rings when an outcome is missed (RACI).
+→ [220·Power Mapping](power-mapping.md) — stakeholder mapping analyses interests and salience; power mapping analyses influence structure. Use both: this card for prioritisation, power mapping for understanding how stakeholders relate to each other and who the real decision-makers are.
+→ [51·Incentives](../Psychology/incentives.md) — stakeholder salience is determined partly by incentive alignment. High-power stakeholders whose incentives are aligned need less intensive management than those whose incentives are misaligned.
+→ [2·Second-order Effects](../General-Thinking/second-order-effects.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates. The map is the tool for anticipating this.
+→ [39·Interdependence](../Economics/interdependence.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritize which dependencies to manage most actively.
+→ [252·Stakeholder Pre-Wiring](../Consulting-Craft/stakeholder-pre-wiring.md) — the engagement-planning counterpart to this card's analysis: salience mapping tells you who matters and how much; pre-wiring tells you what to do about it before the decision meeting.
+→ [127·RACI Framework](raci-framework.md) — RACI operationalises the salience analysis into specific accountability assignments; knowing who matters most (salience) determines whose phone rings when an outcome is missed (RACI).
 
 ---
 

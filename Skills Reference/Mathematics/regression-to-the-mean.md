@@ -42,12 +42,12 @@ A school introduces a motivational intervention for students who scored exceptio
 
 ## Connections
 
-→ [**Probabilistic Thinking**](../General-Thinking/probabilistic-thinking.md) — regression to the mean is a statistical property that should inform probability estimates about future performance.
-→ [**Anchoring**](../Psychology/anchoring.md) — recent extreme performance anchors expectations in a way that regression to the mean will frustrate.
-→ [**Availability Bias**](../Psychology/availability-bias.md) — vivid recent extreme outcomes are over-available and lead to over-attribution of the extreme performance to stable underlying causes.
-→ [**Black Swan**](../General-Thinking/black-swan.md) — regression to the mean applies in Mediocristan; in Extremistan (fat-tailed domains), mean reversion is not a reliable assumption and extreme values may persist or compound.
-→ [**Bubbles**](../Economics/bubbles.md) — bubble collapses are extreme reversion events; the gap between price and intrinsic value cannot widen indefinitely.
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — exceptional early velocity regresses to the mean; plans that extrapolate it are compounding the planning fallacy with a regression error.
+→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — regression to the mean is a statistical property that should inform probability estimates about future performance.
+→ [54·Anchoring](../Psychology/anchoring.md) — recent extreme performance anchors expectations in a way that regression to the mean will frustrate.
+→ [56·Availability Bias](../Psychology/availability-bias.md) — vivid recent extreme outcomes are over-available and lead to over-attribution of the extreme performance to stable underlying causes.
+→ [240·Black Swan](../General-Thinking/black-swan.md) — regression to the mean applies in Mediocristan; in Extremistan (fat-tailed domains), mean reversion is not a reliable assumption and extreme values may persist or compound.
+→ [38·Bubbles](../Economics/bubbles.md) — bubble collapses are extreme reversion events; the gap between price and intrinsic value cannot widen indefinitely.
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — exceptional early velocity regresses to the mean; plans that extrapolate it are compounding the planning fallacy with a regression error.
 
 ## References
 

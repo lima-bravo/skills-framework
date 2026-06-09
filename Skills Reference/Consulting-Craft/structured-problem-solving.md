@@ -54,14 +54,14 @@ A team practicing the integrated posture starts differently. **Decision-orientat
 
 ## Connections
 
-→ [**Hypothesis-Driven Consulting**](hypothesis-driven.md) — one of the five integrated components; this card frames it as inseparable from the other four rather than as a standalone technique.
-→ [**MECE**](mece.md) — the structural discipline that makes a hypothesis testable and an 80/20 ranking trustworthy; without it, both of the other two collapse into guesswork dressed as rigor.
-→ [**Pyramid Principle**](pyramid-principle.md) — the communication architecture that makes answer-first delivery legible; this card treats it as a *posture* component, not merely a slide-writing technique.
-→ [**Strategic Prioritization ("One Thing")**](../Delivery-and-Flow/one-thing.md) — the focus discipline that 80/20 thinking specializes into a single operating habit: of everything that could matter, what is the one thing that, if done, makes the rest easier or unnecessary?
-→ [**Outcome vs Output**](../Delivery-and-Flow/outcome-vs-output.md) — the decision-orientation component restated for delivery contexts: an output that doesn't move an outcome someone cares about is activity, not contribution.
-→ [**Situation Assessment**](situation-assessment.md) — the diagnostic discipline that should run *before* this posture engages; you cannot frame a credible day-one hypothesis about a situation you haven't yet honestly looked at.
-→ [**Cynefin Framework**](../General-Thinking/cynefin-framework.md) — the boundary condition: this posture is built for complicated problems with enough precedent to support a credible hypothesis; in genuinely complex or chaotic domains, forcing it produces false confidence rather than clarity.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the failure mode that the posture's hardest discipline — willingness to rewrite the day-one answer — exists specifically to defend against.
+→ [161·Hypothesis-Driven Consulting](hypothesis-driven.md) — one of the five integrated components; this card frames it as inseparable from the other four rather than as a standalone technique.
+→ [162·MECE](mece.md) — the structural discipline that makes a hypothesis testable and an 80/20 ranking trustworthy; without it, both of the other two collapse into guesswork dressed as rigor.
+→ [163·Pyramid Principle](pyramid-principle.md) — the communication architecture that makes answer-first delivery legible; this card treats it as a *posture* component, not merely a slide-writing technique.
+→ [151·Strategic Prioritization ("One Thing")](../Delivery-and-Flow/one-thing.md) — the focus discipline that 80/20 thinking specializes into a single operating habit: of everything that could matter, what is the one thing that, if done, makes the rest easier or unnecessary?
+→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — the decision-orientation component restated for delivery contexts: an output that doesn't move an outcome someone cares about is activity, not contribution.
+→ [246·Situation Assessment](situation-assessment.md) — the diagnostic discipline that should run *before* this posture engages; you cannot frame a credible day-one hypothesis about a situation you haven't yet honestly looked at.
+→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — the boundary condition: this posture is built for complicated problems with enough precedent to support a credible hypothesis; in genuinely complex or chaotic domains, forcing it produces false confidence rather than clarity.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the failure mode that the posture's hardest discipline — willingness to rewrite the day-one answer — exists specifically to defend against.
 
 ---
 

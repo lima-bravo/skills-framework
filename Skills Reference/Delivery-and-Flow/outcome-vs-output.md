@@ -44,15 +44,15 @@ A B2B SaaS product team is praised internally for shipping 14 major features in 
 
 ## Connections
 
-→ [**OKRs**](okrs.md) — the canonical structure for stating outcomes vs the outputs that pursue them.
-→ [**Feature Factory**](feature-factory.md) — the diagnostic for organizations addicted to output.
-→ [**Kill Criteria**](kill-criteria.md) — outcome thinking forces stopping rules.
-→ [**Value Realization**](../Business/value-realization.md) — outcome-vs-output thinking applied to a strategic investment after approval: did the promised benefit actually land, not just the activity that was supposed to produce it?
-→ [**KPI Architecture**](../Business/kpi-architecture.md) — the system-design discipline that keeps a measurement set weighted toward outcome and driver metrics rather than activity counts.
-→ [**Build-Measure-Learn**](../Startups/build-measure-learn.md) — outcomes are the "measure" in the loop.
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — output metrics become targets and degrade the underlying outcome.
-→ [**Empirical Process Control**](empirical-process-control.md) — EPC's inspection criterion should be outcome, not output; a sprint review that only asks "did we ship?" rather than "did the metric move?" is EPC in form but not function.
-→ [**Growth Barriers**](../Business/growth-barriers.md) — a growth team shipping features while the binding constraint goes unaddressed is the canonical outcome-vs-output failure in a growth context.
+→ [152·OKRs](okrs.md) — the canonical structure for stating outcomes vs the outputs that pursue them.
+→ [157·Feature Factory](feature-factory.md) — the diagnostic for organizations addicted to output.
+→ [153·Kill Criteria](kill-criteria.md) — outcome thinking forces stopping rules.
+→ [251·Value Realization](../Business/value-realization.md) — outcome-vs-output thinking applied to a strategic investment after approval: did the promised benefit actually land, not just the activity that was supposed to produce it?
+→ [250·KPI Architecture](../Business/kpi-architecture.md) — the system-design discipline that keeps a measurement set weighted toward outcome and driver metrics rather than activity counts.
+→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — outcomes are the "measure" in the loop.
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — output metrics become targets and degrade the underlying outcome.
+→ [209·Empirical Process Control](empirical-process-control.md) — EPC's inspection criterion should be outcome, not output; a sprint review that only asks "did we ship?" rather than "did the metric move?" is EPC in form but not function.
+→ [247·Growth Barriers](../Business/growth-barriers.md) — a growth team shipping features while the binding constraint goes unaddressed is the canonical outcome-vs-output failure in a growth context.
 
 ---
 

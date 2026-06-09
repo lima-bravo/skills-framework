@@ -46,12 +46,12 @@ An engineering org has been delivering features at a declining rate for 18 month
 
 ## Connections
 
-→ [**Flow Efficiency**](flow-efficiency.md) — technical debt is one of the primary causes of low flow efficiency; it converts active work time into rework and incident response.
-→ [**DORA Metrics**](dora-metrics.md) — Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production systems.
-→ [**Little's Law**](littles-law.md) — debt reduces effective throughput, which shows up as rising cycle time for a given WIP level.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — accumulated debt often becomes the primary constraint on delivery throughput; treating it as anything else (a morale problem, a planning problem) misses the leverage point.
-→ [**Fixes That Fail**](fixes-that-fail.md) — adding engineers to a high-debt system is a classic symptomatic fix that delays addressing the fundamental problem and often adds more debt in the process.
-→ [**Reliability vs. Feature Velocity**](reliability-vs-velocity.md) — debt increases incident rate, which forces a reliability-vs-velocity trade-off that the team did not choose to make.
+→ [133·Flow Efficiency](flow-efficiency.md) — technical debt is one of the primary causes of low flow efficiency; it converts active work time into rework and incident response.
+→ [142·DORA Metrics](dora-metrics.md) — Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production systems.
+→ [131·Little's Law](littles-law.md) — debt reduces effective throughput, which shows up as rising cycle time for a given WIP level.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — accumulated debt often becomes the primary constraint on delivery throughput; treating it as anything else (a morale problem, a planning problem) misses the leverage point.
+→ [260·Fixes That Fail](fixes-that-fail.md) — adding engineers to a high-debt system is a classic symptomatic fix that delays addressing the fundamental problem and often adds more debt in the process.
+→ [256·Reliability vs. Feature Velocity](reliability-vs-velocity.md) — debt increases incident rate, which forces a reliability-vs-velocity trade-off that the team did not choose to make.
 
 ---
 

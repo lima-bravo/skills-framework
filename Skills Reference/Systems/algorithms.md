@@ -45,11 +45,11 @@ A law firm handling high-volume contract review introduces an NLP algorithm to f
 
 ## Connections
 
-→ [**Bottlenecks**](bottlenecks.md) — algorithms are often deployed to relieve bottlenecks in high-frequency decision processes.
-→ [**Optimization**](../Economics/optimization.md) — algorithms are the mechanisms through which optimization is operationalized.
-→ [**Map-Territory**](../General-Thinking/map-territory.md) — an algorithm is a map of a decision process; the territory includes cases the map was not designed for.
-→ [**Irreducibility**](irreducibility.md) — irreducible systems resist algorithmic shortcuts; the only reliable way to know what they'll do is to run them.
-→ [**Leverage**](../Physics-and-Chemistry/leverage.md) — code and algorithms are the highest-leverage form of knowledge work: one-time effort produces indefinite output.
+→ [18·Bottlenecks](bottlenecks.md) — algorithms are often deployed to relieve bottlenecks in high-frequency decision processes.
+→ [33·Optimization](../Economics/optimization.md) — algorithms are the mechanisms through which optimization is operationalized.
+→ [6·Map-Territory](../General-Thinking/map-territory.md) — an algorithm is a map of a decision process; the territory includes cases the map was not designed for.
+→ [27·Irreducibility](irreducibility.md) — irreducible systems resist algorithmic shortcuts; the only reliable way to know what they'll do is to run them.
+→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — code and algorithms are the highest-leverage form of knowledge work: one-time effort produces indefinite output.
 
 ## References
 

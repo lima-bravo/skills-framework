@@ -60,12 +60,12 @@ Amazon operates one of the most studied ambidextrous structures in business. The
 
 ## Connections
 
-→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — the underlying tension that ambidextrous design is trying to resolve structurally.
-→ [**Three Horizons**](three-horizons.md) — the portfolio framing across time horizons; ambidextrous org is the structural implementation of managing H1 alongside H2/H3.
-→ [**Disruptive Innovation**](disruptive-innovation.md) — disruptive threats typically originate in the explore space; ambidextrous structure is the organizational response to that vulnerability.
-→ [**Organizational Culture**](../Leadership/organizational-culture.md) — exploit and explore require different cultural operating conditions; the challenge of ambidexterity is partly a culture management problem.
-→ [**Dominant Logic**](dominant-logic.md) — the cognitive mechanism that causes exploit to reject explore's discoveries; understanding dominant logic explains why structural separation alone is insufficient.
-→ [**Organizational Slack**](organizational-slack.md) — explore requires protected capacity; without slack, the ambidextrous structure is nominal rather than real.
+→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — the underlying tension that ambidextrous design is trying to resolve structurally.
+→ [113·Three Horizons](three-horizons.md) — the portfolio framing across time horizons; ambidextrous org is the structural implementation of managing H1 alongside H2/H3.
+→ [112·Disruptive Innovation](disruptive-innovation.md) — disruptive threats typically originate in the explore space; ambidextrous structure is the organizational response to that vulnerability.
+→ [124·Organizational Culture](../Leadership/organizational-culture.md) — exploit and explore require different cultural operating conditions; the challenge of ambidexterity is partly a culture management problem.
+→ [173·Dominant Logic](dominant-logic.md) — the cognitive mechanism that causes exploit to reject explore's discoveries; understanding dominant logic explains why structural separation alone is insufficient.
+→ [176·Organizational Slack](organizational-slack.md) — explore requires protected capacity; without slack, the ambidextrous structure is nominal rather than real.
 ## References
 
 - *Lead and Disrupt: How to Solve the Innovator's Dilemma* — Charles A. O'Reilly III & Michael L. Tushman (2016) — the empirical case for why structural ambidexterity outperforms sequential or contextual approaches.

@@ -43,10 +43,10 @@ A platform team complains that initiatives take six months on average. The portf
 
 ## Connections
 
-→ [**WIP Limits**](wip-limits.md) — Little's Law is the mathematics behind why limiting WIP shortens cycle time.
-→ [**Queueing & Wait Time**](queueing.md) — Little's Law is the steady-state result of queueing dynamics; queueing theory explains the variability behind the averages.
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — throughput in L = λW is set by the bottleneck; Little's Law explains why optimizing non-bottlenecks does not move cycle time.
-→ [**Flow Efficiency**](flow-efficiency.md) — cycle time decomposes into work time plus wait time; flow efficiency exposes the ratio.
+→ [132·WIP Limits](wip-limits.md) — Little's Law is the mathematics behind why limiting WIP shortens cycle time.
+→ [135·Queueing & Wait Time](queueing.md) — Little's Law is the steady-state result of queueing dynamics; queueing theory explains the variability behind the averages.
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — throughput in L = λW is set by the bottleneck; Little's Law explains why optimizing non-bottlenecks does not move cycle time.
+→ [133·Flow Efficiency](flow-efficiency.md) — cycle time decomposes into work time plus wait time; flow efficiency exposes the ratio.
 
 ---
 

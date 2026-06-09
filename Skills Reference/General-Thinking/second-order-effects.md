@@ -45,17 +45,17 @@ A city decides to build a new urban highway to reduce commute times (first-order
 
 ## Connections
 
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — second-order thinking identifies the chains; feedback loop analysis describes when those chains circle back.
-→ [**Incentives**](../Psychology/incentives.md) — the most reliable second-order effects come from tracing how incentives shift after the first-order outcome.
-→ [**Emergence**](../Systems/emergence.md) — second-order effects in complex systems often produce emergent properties that no single causal chain predicted.
-→ [**Systems Thinking**](../Systems/systems-thinking.md) — systems thinking provides the causal map for tracing second and higher-order effects through a system's feedback structure
-→ [**Thought Experiment**](thought-experiment.md) — thought experiments are ideal for tracing second-order chains in controlled, simplified form before applying the reasoning to real systems.
-→ [**Causal Analysis**](causal-analysis.md) — causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the diagnostic loop.
-→ [**Creative Destruction**](../Economics/creative-destruction.md) — the second-order effects of a disruption event — on workers, suppliers, and adjacent industries — often dwarf the direct first-order impact.
-→ [**Interdependence**](../Economics/interdependence.md) — interdependence is the structural mechanism by which second-order effects propagate: when elements are coupled, a change in one has consequences in others.
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — cascading dependencies and rework are the most commonly ignored planning costs; second-order thinking is what the inside view systematically fails to apply.
-→ [**Stakeholder Mapping (Salience Model)**](../Business/stakeholder-mapping-salience-model.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates; the map is the tool for anticipating downstream consequences before they materialise.
-→ [**Scenario Planning**](../Business/scenario-planning.md) — each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that determine which future actually arrives.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — second-order thinking identifies the chains; feedback loop analysis describes when those chains circle back.
+→ [51·Incentives](../Psychology/incentives.md) — the most reliable second-order effects come from tracing how incentives shift after the first-order outcome.
+→ [19·Emergence](../Systems/emergence.md) — second-order effects in complex systems often produce emergent properties that no single causal chain predicted.
+→ [261·Systems Thinking](../Systems/systems-thinking.md) — systems thinking provides the causal map for tracing second and higher-order effects through a system's feedback structure
+→ [8·Thought Experiment](thought-experiment.md) — thought experiments are ideal for tracing second-order chains in controlled, simplified form before applying the reasoning to real systems.
+→ [171·Causal Analysis](causal-analysis.md) — causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the diagnostic loop.
+→ [37·Creative Destruction](../Economics/creative-destruction.md) — the second-order effects of a disruption event — on workers, suppliers, and adjacent industries — often dwarf the direct first-order impact.
+→ [39·Interdependence](../Economics/interdependence.md) — interdependence is the structural mechanism by which second-order effects propagate: when elements are coupled, a change in one has consequences in others.
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — cascading dependencies and rework are the most commonly ignored planning costs; second-order thinking is what the inside view systematically fails to apply.
+→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates; the map is the tool for anticipating downstream consequences before they materialise.
+→ [123·Scenario Planning](../Business/scenario-planning.md) — each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that determine which future actually arrives.
 
 ## References
 

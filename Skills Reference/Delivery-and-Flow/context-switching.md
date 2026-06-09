@@ -44,11 +44,11 @@ A product lead reports being "fully booked but never finishing anything." A two-
 
 ## Connections
 
-→ [**Attention Budget**](attention-budget.md) — the individual-WIP framing that prevents switching tax.
-→ [**Maker's Schedule**](../Business/makers-schedule.md) — calendar design for low-switching days.
-→ [**WIP Limits**](wip-limits.md) — concurrent items create switching at every level.
-→ [**Cognitive Load Theory**](cognitive-load-team.md) — switching adds extraneous load.
-→ [**Deep Work**](../Business/deep-work.md) — the practice context-switching defends against.
+→ [148·Attention Budget](attention-budget.md) — the individual-WIP framing that prevents switching tax.
+→ [116·Maker's Schedule](../Business/makers-schedule.md) — calendar design for low-switching days.
+→ [132·WIP Limits](wip-limits.md) — concurrent items create switching at every level.
+→ [150·Cognitive Load Theory](cognitive-load-team.md) — switching adds extraneous load.
+→ [114·Deep Work](../Business/deep-work.md) — the practice context-switching defends against.
 
 ---
 

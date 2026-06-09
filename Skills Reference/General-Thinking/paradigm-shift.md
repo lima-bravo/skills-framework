@@ -60,16 +60,16 @@ What emerged was not a refutation of significance testing but a reconceptualizat
 
 ## Connections
 
-→ [**Map-Territory**](map-territory.md) — a paradigm is the invisible framework that shapes which maps practitioners draw and what they can see on them; paradigm shift is what happens when the framework itself, not just a particular map, requires replacement.
-→ [**Dominant Logic**](../Business/dominant-logic.md) — the organizational application of the same mechanism: the theory of the business that successful firms encode and then cannot escape; dominant logic is a paradigm at the level of a firm.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — the individual-level mechanism that sustains normal science: practitioners filter anomalies not from dishonesty but because the paradigm shapes what they attend to.
-→ [**Exploration vs. Exploitation**](../Systems/exploration-vs-exploitation.md) — Kuhn's normal science is a form of exploitation; paradigm shift requires exploration but, crucially, is not experienced as a choice — the paradigm actively blocks the choice from being visible.
-→ [**S-Curves**](../Systems/s-curves.md) — S-curves describe the adoption trajectory of a new paradigm after the shift; Kuhn's model explains the crisis mechanism that precedes the inflection point.
-→ [**Disruptive Innovation**](../Business/disruptive-innovation.md) — Christensen's model applies a Kuhnian structure to competitive dynamics: incumbents are locked in a paradigm (the current business model) that blinds them to the new one taking shape below.
-→ [**Immunity to Change**](../Psychology/immunity-to-change.md) — the individual-level architecture that maps onto the organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks.
-→ [**First Principles**](first-principles.md) — the deliberate method for breaking out of paradigmatic assumptions; where Kuhn describes how paradigm shifts happen historically, first-principles reasoning is the practitioner's attempt to force the shift intentionally.
-→ [**Cynefin Framework**](cynefin-framework.md) — normal science operates in complicated and clear domains; paradigm crisis is often a signal that the domain has become complex and the existing methods have lost their predictive validity.
-→ [**Overton Window**](overton-window.md) — a paradigm shift is the large-scale version of an Overton Window shift: the entire frame of acceptable ideas changes, not just one proposal at the boundary.
+→ [6·Map-Territory](map-territory.md) — a paradigm is the invisible framework that shapes which maps practitioners draw and what they can see on them; paradigm shift is what happens when the framework itself, not just a particular map, requires replacement.
+→ [173·Dominant Logic](../Business/dominant-logic.md) — the organizational application of the same mechanism: the theory of the business that successful firms encode and then cannot escape; dominant logic is a paradigm at the level of a firm.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the individual-level mechanism that sustains normal science: practitioners filter anomalies not from dishonesty but because the paradigm shapes what they attend to.
+→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — Kuhn's normal science is a form of exploitation; paradigm shift requires exploration but, crucially, is not experienced as a choice — the paradigm actively blocks the choice from being visible.
+→ [102·S-Curves](../Systems/s-curves.md) — S-curves describe the adoption trajectory of a new paradigm after the shift; Kuhn's model explains the crisis mechanism that precedes the inflection point.
+→ [112·Disruptive Innovation](../Business/disruptive-innovation.md) — Christensen's model applies a Kuhnian structure to competitive dynamics: incumbents are locked in a paradigm (the current business model) that blinds them to the new one taking shape below.
+→ [167·Immunity to Change](../Psychology/immunity-to-change.md) — the individual-level architecture that maps onto the organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks.
+→ [0·First Principles](first-principles.md) — the deliberate method for breaking out of paradigmatic assumptions; where Kuhn describes how paradigm shifts happen historically, first-principles reasoning is the practitioner's attempt to force the shift intentionally.
+→ [122·Cynefin Framework](cynefin-framework.md) — normal science operates in complicated and clear domains; paradigm crisis is often a signal that the domain has become complex and the existing methods have lost their predictive validity.
+→ [234·Overton Window](overton-window.md) — a paradigm shift is the large-scale version of an Overton Window shift: the entire frame of acceptable ideas changes, not just one proposal at the boundary.
 
 ## References
 

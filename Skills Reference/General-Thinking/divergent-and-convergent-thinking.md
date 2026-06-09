@@ -45,11 +45,11 @@ Pixar's story development process is one of the most documented and successful a
 
 ## Connections
 
-→ [**Design Thinking**](../Startups/design-thinking.md) — the empathize-define-ideate-prototype-test process is built on alternating divergent (ideation) and convergent (prototyping, testing) phases; divergent/convergent thinking is the underlying cognitive model.
-→ [**De Bono's Six Thinking Hats**](de-bonos-six-thinking-hats.md) — the Six Hats method is a structured protocol for producing cognitive mode separation in a group setting, preventing the contamination of divergent by convergent thinking.
-→ [**Analogical Reasoning**](analogical-reasoning.md) — analogical reasoning is the most powerful technique for producing genuine divergence: importing solutions from distant domains breaks the attractor of conventional thinking.
-→ [**Confirmation Bias**](../Psychology/confirmation-bias.md) — confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely.
-→ [**Inversion**](inversion.md) — inversion is a structured divergent technique: it forces the generation of non-obvious possibilities by approaching the problem from the opposite direction.
+→ [110·Design Thinking](../Startups/design-thinking.md) — the empathize-define-ideate-prototype-test process is built on alternating divergent (ideation) and convergent (prototyping, testing) phases; divergent/convergent thinking is the underlying cognitive model.
+→ [13·De Bono's Six Thinking Hats](de-bonos-six-thinking-hats.md) — the Six Hats method is a structured protocol for producing cognitive mode separation in a group setting, preventing the contamination of divergent by convergent thinking.
+→ [106·Analogical Reasoning](analogical-reasoning.md) — analogical reasoning is the most powerful technique for producing genuine divergence: importing solutions from distant domains breaks the attractor of conventional thinking.
+→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely.
+→ [1·Inversion](inversion.md) — inversion is a structured divergent technique: it forces the generation of non-obvious possibilities by approaching the problem from the opposite direction.
 
 ## References
 

@@ -55,14 +55,14 @@ The new system has nine metrics, not sixty. Each has a named owner, a threshold 
 
 ## Connections
 
-→ [**Goodhart's Law**](../Economics/goodharts-law.md) — the failure mode this entire architecture exists partly to defend against: a measure that becomes a target stops being a good measure.
-→ [**OKRs**](../Delivery-and-Flow/okrs.md) — the goal-setting structure that a KPI system should serve; OKRs without a measurement architecture underneath them become aspirational statements no one can track.
-→ [**Outcome vs Output**](../Delivery-and-Flow/outcome-vs-output.md) — the foundational distinction this card operationalizes: an outcome-metric-poor, activity-metric-rich system measures motion and calls it progress.
-→ [**DORA Metrics**](../Delivery-and-Flow/dora-metrics.md) — a worked example of a small, decision-linked, leading-and-lagging metric set designed from first principles for a specific domain (software delivery).
-→ [**Bottlenecks**](../Systems/bottlenecks.md) — the driver-tree logic underneath KPI architecture is the same logic that finds the binding constraint in any system: trace the chain, instrument the links that matter, ignore the ones that don't.
-→ [**Hypothesis-Driven Consulting**](../Consulting-Craft/hypothesis-driven.md) — choosing a leading indicator is a falsifiable bet about what drives the outcome; the discipline of stating that bet explicitly is what keeps the metric honest.
-→ [**Calibration**](../General-Thinking/calibration.md) — setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal.
-→ [**Value Realization**](value-realization.md) — the value ledger is, in effect, a bespoke KPI system built around a single initiative; the same architecture (named owner, threshold, cadence) applies at both the initiative and the organisation level.
+→ [120·Goodhart's Law](../Economics/goodharts-law.md) — the failure mode this entire architecture exists partly to defend against: a measure that becomes a target stops being a good measure.
+→ [152·OKRs](../Delivery-and-Flow/okrs.md) — the goal-setting structure that a KPI system should serve; OKRs without a measurement architecture underneath them become aspirational statements no one can track.
+→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — the foundational distinction this card operationalizes: an outcome-metric-poor, activity-metric-rich system measures motion and calls it progress.
+→ [142·DORA Metrics](../Delivery-and-Flow/dora-metrics.md) — a worked example of a small, decision-linked, leading-and-lagging metric set designed from first principles for a specific domain (software delivery).
+→ [18·Bottlenecks](../Systems/bottlenecks.md) — the driver-tree logic underneath KPI architecture is the same logic that finds the binding constraint in any system: trace the chain, instrument the links that matter, ignore the ones that don't.
+→ [161·Hypothesis-Driven Consulting](../Consulting-Craft/hypothesis-driven.md) — choosing a leading indicator is a falsifiable bet about what drives the outcome; the discipline of stating that bet explicitly is what keeps the metric honest.
+→ [211·Calibration](../General-Thinking/calibration.md) — setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal.
+→ [251·Value Realization](value-realization.md) — the value ledger is, in effect, a bespoke KPI system built around a single initiative; the same architecture (named owner, threshold, cadence) applies at both the initiative and the organisation level.
 
 ---
 

@@ -45,11 +45,11 @@ In the 1850s, Charles Darwin was struggling with the mechanism of species change
 
 ## Connections
 
-→ [**First Principles**](first-principles.md) — first principles decomposes a problem to its foundations; analogical reasoning imports a solution framework from another domain. The two are complementary: first principles identifies what needs to be built; analogy identifies where it may already exist.
-→ [**Thought Experiment**](thought-experiment.md) — thought experiments run hypothetical scenarios within a single domain; analogical reasoning imports structure from another domain. Both are generative tools but operate differently.
-→ [**Divergent and Convergent Thinking**](divergent-and-convergent-thinking.md) — analogical reasoning is a technique for the divergent phase: generating novel hypotheses by importing from distant domains before converging on a solution.
-→ [**Learning Transfer**](../Learning/learning-transfer.md) — learning transfer at the individual level is the same mechanism as analogical reasoning at the problem-solving level: applying knowledge acquired in one context to a structurally similar but superficially different context.
-→ [**Adjacent Possible**](../Systems/adjacent-possible.md) — analogical reasoning expands the adjacent possible by revealing that solutions developed in other domains are available to import, broadening the space of accessible next innovations.
+→ [0·First Principles](first-principles.md) — first principles decomposes a problem to its foundations; analogical reasoning imports a solution framework from another domain. The two are complementary: first principles identifies what needs to be built; analogy identifies where it may already exist.
+→ [8·Thought Experiment](thought-experiment.md) — thought experiments run hypothetical scenarios within a single domain; analogical reasoning imports structure from another domain. Both are generative tools but operate differently.
+→ [107·Divergent and Convergent Thinking](divergent-and-convergent-thinking.md) — analogical reasoning is a technique for the divergent phase: generating novel hypotheses by importing from distant domains before converging on a solution.
+→ [89·Learning Transfer](../Learning/learning-transfer.md) — learning transfer at the individual level is the same mechanism as analogical reasoning at the problem-solving level: applying knowledge acquired in one context to a structurally similar but superficially different context.
+→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — analogical reasoning expands the adjacent possible by revealing that solutions developed in other domains are available to import, broadening the space of accessible next innovations.
 
 ## References
 

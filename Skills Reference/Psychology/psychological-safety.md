@@ -45,17 +45,17 @@ Google's Project Aristotle studied 180 teams to identify what made teams effecti
 
 ## Connections
 
-→ [**Trust**](trust.md) — psychological safety is the team-level expression of trust; it requires individual trust but also a collectively shared understanding of team norms.
-→ [**Incentives**](incentives.md) — incentive structures that punish failure or reward concealment directly undermine psychological safety regardless of stated cultural values.
-→ [**Feedback Loops**](../Systems/feedback-loops.md) — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound.
-→ [**Dunning-Kruger**](dunning-kruger.md) — low psychological safety amplifies Dunning-Kruger effects at the team level: overconfident members are not challenged, and uncertain members don't contribute their knowledge.
-→ [**Maslow's Hierarchy of Needs**](maslows-hierarchy-of-needs.md) — safety is a foundational need in Maslow's hierarchy; at the team level, psychological safety is the precondition for the belonging, esteem, and self-actualization that drive engagement.
-→ [**Dunbar's Number**](../Systems/dunbars-number.md) — psychological safety is a relational property that operates naturally within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour rather than assumed.
-→ [**Principal–Agent Problem**](../Economics/principal-agent-problem.md) — low psychological safety amplifies the principal-agent gap: agents who fear consequences optimise for appearance rather than outcomes, making the misalignment structural.
-→ [**Immunity to Change**](immunity-to-change.md) — psychological safety is the precondition under which immunity work becomes possible; without it, counter-commitments stay hidden rather than surfaced and tested.
-→ [**Self-Determination Theory**](self-determination-theory.md) — psychological safety is the social condition that makes autonomy need satisfaction possible; without it, people cannot express genuine views or take the risks that intrinsic motivation requires.
-→ [**Observer Bias**](observer-bias.md) — in low-safety environments, evaluators suppress independent judgments and anchor on the dominant view; the social pressure that amplifies observer bias is a direct product of low psychological safety.
-→ [**Red Teaming**](../Business/red-teaming.md) — red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for adversarial output that is actually adversarial.
+→ [101·Trust](trust.md) — psychological safety is the team-level expression of trust; it requires individual trust but also a collectively shared understanding of team norms.
+→ [51·Incentives](incentives.md) — incentive structures that punish failure or reward concealment directly undermine psychological safety regardless of stated cultural values.
+→ [17·Feedback Loops](../Systems/feedback-loops.md) — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound.
+→ [57·Dunning-Kruger](dunning-kruger.md) — low psychological safety amplifies Dunning-Kruger effects at the team level: overconfident members are not challenged, and uncertain members don't contribute their knowledge.
+→ [58·Maslow's Hierarchy of Needs](maslows-hierarchy-of-needs.md) — safety is a foundational need in Maslow's hierarchy; at the team level, psychological safety is the precondition for the belonging, esteem, and self-actualization that drive engagement.
+→ [243·Dunbar's Number](../Systems/dunbars-number.md) — psychological safety is a relational property that operates naturally within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour rather than assumed.
+→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — low psychological safety amplifies the principal-agent gap: agents who fear consequences optimise for appearance rather than outcomes, making the misalignment structural.
+→ [167·Immunity to Change](immunity-to-change.md) — psychological safety is the precondition under which immunity work becomes possible; without it, counter-commitments stay hidden rather than surfaced and tested.
+→ [192·Self-Determination Theory](self-determination-theory.md) — psychological safety is the social condition that makes autonomy need satisfaction possible; without it, people cannot express genuine views or take the risks that intrinsic motivation requires.
+→ [212·Observer Bias](observer-bias.md) — in low-safety environments, evaluators suppress independent judgments and anchor on the dominant view; the social pressure that amplifies observer bias is a direct product of low psychological safety.
+→ [224·Red Teaming](../Business/red-teaming.md) — red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for adversarial output that is actually adversarial.
 
 ## References
 

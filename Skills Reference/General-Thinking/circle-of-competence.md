@@ -45,11 +45,11 @@ A successful SaaS founder raises a fund and begins making angel investments. Her
 
 ## Connections
 
-→ [**First Principles**](first-principles.md) — first principles reasoning requires you to know which of your foundations are actually solid. Outside your circle, you cannot reliably identify first principles.
-→ [**Dunning-Kruger**](../Psychology/dunning-kruger.md) — the psychological mechanism that makes circle self-assessment hard; understanding one reinforces the other.
-→ [**Probabilistic Thinking**](probabilistic-thinking.md) — within your circle, probability estimates are more reliable; outside it, confidence intervals should widen dramatically.
-→ [**Calibration**](calibration.md) — an honest circle of competence is the first input to good calibration; overconfident people draw their circles too large and their confidence intervals too narrow.
-→ [**Hanlon's Razor**](hanlons-razor.md) — distinguishing malice from incompetence requires domain knowledge; outside your circle, technical complexity is easily mistaken for deliberate obfuscation.
+→ [0·First Principles](first-principles.md) — first principles reasoning requires you to know which of your foundations are actually solid. Outside your circle, you cannot reliably identify first principles.
+→ [57·Dunning-Kruger](../Psychology/dunning-kruger.md) — the psychological mechanism that makes circle self-assessment hard; understanding one reinforces the other.
+→ [7·Probabilistic Thinking](probabilistic-thinking.md) — within your circle, probability estimates are more reliable; outside it, confidence intervals should widen dramatically.
+→ [211·Calibration](calibration.md) — an honest circle of competence is the first input to good calibration; overconfident people draw their circles too large and their confidence intervals too narrow.
+→ [4·Hanlon's Razor](hanlons-razor.md) — distinguishing malice from incompetence requires domain knowledge; outside your circle, technical complexity is easily mistaken for deliberate obfuscation.
 
 ## References
 

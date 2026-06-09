@@ -52,14 +52,14 @@ Because the governance rhythm included an escalation trigger ("if realized value
 
 ## Connections
 
-→ [**Business Case Construction**](business-case-construction.md) — the upstream discipline this card completes the loop on; a business case that defines a kill condition and a reference class but has no realization plan has built half a system.
-→ [**Kill Criteria**](../Delivery-and-Flow/kill-criteria.md) — the same "decide the threshold before you're emotionally invested in the answer" discipline, applied to the post-approval period rather than the in-flight one.
-→ [**Sunk Cost**](../Psychology/sunk-cost.md) — the bias that value realization exists structurally to counteract: the people most invested in an initiative's success are the worst-positioned to judge it honestly.
-→ [**Outcome vs Output**](../Delivery-and-Flow/outcome-vs-output.md) — the distinction between "we did the thing" and "the thing produced the result" is the entire discipline of value realization, applied at the scale of a strategic investment.
-→ [**Reference Class Forecasting**](../Delivery-and-Flow/reference-class-forecasting.md) — the outside-view anchor for building a realization plan: what does the historical distribution of similar investments actually deliver?
-→ [**Planning Fallacy**](../Psychology/planning-fallacy.md) — the evidence base for expecting a gap between promised and realized value; a realization plan that assumes the case will land exactly as forecast has not engaged with the base rate.
-→ [**After-Action Review**](../Leadership/after-action-review.md) — the structured-reflection discipline that value realization reviews should borrow from: what was expected, what happened, why the gap, what changes next time.
-→ [**KPI Architecture**](kpi-architecture.md) — the value ledger is, in effect, a small bespoke KPI system built around a single initiative; the same discipline (owner, threshold, cadence) applies at both scales.
+→ [218·Business Case Construction](business-case-construction.md) — the upstream discipline this card completes the loop on; a business case that defines a kill condition and a reference class but has no realization plan has built half a system.
+→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — the same "decide the threshold before you're emotionally invested in the answer" discipline, applied to the post-approval period rather than the in-flight one.
+→ [53·Sunk Cost](../Psychology/sunk-cost.md) — the bias that value realization exists structurally to counteract: the people most invested in an initiative's success are the worst-positioned to judge it honestly.
+→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — the distinction between "we did the thing" and "the thing produced the result" is the entire discipline of value realization, applied at the scale of a strategic investment.
+→ [160·Reference Class Forecasting](../Delivery-and-Flow/reference-class-forecasting.md) — the outside-view anchor for building a realization plan: what does the historical distribution of similar investments actually deliver?
+→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — the evidence base for expecting a gap between promised and realized value; a realization plan that assumes the case will land exactly as forecast has not engaged with the base rate.
+→ [196·After-Action Review](../Leadership/after-action-review.md) — the structured-reflection discipline that value realization reviews should borrow from: what was expected, what happened, why the gap, what changes next time.
+→ [250·KPI Architecture](kpi-architecture.md) — the value ledger is, in effect, a small bespoke KPI system built around a single initiative; the same discipline (owner, threshold, cadence) applies at both scales.
 
 ---
 

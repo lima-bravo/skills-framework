@@ -45,11 +45,11 @@ Salesforce's crossing from early adopter success to mainstream CRM dominance ill
 
 ## Connections
 
-→ [**S-Curves**](../Systems/s-curves.md) — the chasm sits at the inflection point between early and late adopters on the S-curve; crossing the chasm is what enables the curve to steepen into the growth phase.
-→ [**Product-Market Fit**](product-market-fit.md) — early adopter PMF and mainstream PMF are different conditions; a product can have strong early adopter PMF and still fail in the chasm because mainstream fit requires a different product definition.
-→ [**Disruptive Innovation**](../Business/disruptive-innovation.md) — disruptive innovations often cross the chasm by starting with non-consumers rather than competing for the early majority directly, then improving until mainstream requirements are met.
-→ [**Network Effects**](../Network-Effects/network-effects.md) — beachhead strategies for platforms leverage network effects within a single community first; the beachhead generates the density required before expanding to adjacent communities.
-→ [**Critical Mass**](../Systems/critical-mass.md) — in network-effect businesses, the beachhead must reach critical mass within its community for network effects to sustain the expansion into adjacent segments.
+→ [102·S-Curves](../Systems/s-curves.md) — the chasm sits at the inflection point between early and late adopters on the S-curve; crossing the chasm is what enables the curve to steepen into the growth phase.
+→ [62·Product-Market Fit](product-market-fit.md) — early adopter PMF and mainstream PMF are different conditions; a product can have strong early adopter PMF and still fail in the chasm because mainstream fit requires a different product definition.
+→ [112·Disruptive Innovation](../Business/disruptive-innovation.md) — disruptive innovations often cross the chasm by starting with non-consumers rather than competing for the early majority directly, then improving until mainstream requirements are met.
+→ [82·Network Effects](../Network-Effects/network-effects.md) — beachhead strategies for platforms leverage network effects within a single community first; the beachhead generates the density required before expanding to adjacent communities.
+→ [22·Critical Mass](../Systems/critical-mass.md) — in network-effect businesses, the beachhead must reach critical mass within its community for network effects to sustain the expansion into adjacent segments.
 ## References
 
 - *Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers* — Geoffrey A. Moore (1991; 3rd ed. 2014) — the source model for the adoption chasm.

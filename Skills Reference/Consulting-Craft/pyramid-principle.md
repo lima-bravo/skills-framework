@@ -46,15 +46,15 @@ A consulting team prepares a CFO-facing recommendation on whether to centralize 
 
 ## Connections
 
-→ [**MECE**](mece.md) — the supporting layer of a pyramid must be MECE.
-→ [**Hypothesis-Driven Consulting**](hypothesis-driven.md) — the pyramid is the communication form of the hypothesis.
-→ [**A3 Problem Solving**](../Delivery-and-Flow/a3-problem-solving.md) — A3 is the one-page form of the same discipline.
-→ [**Framing**](../Art/framing.md) — the executive summary's persuasion comes from framing; the pyramid is the framing's skeleton.
-→ [**Audience**](../Art/audience.md) — the pyramid structure assumes a specific audience and reading mode.
-→ [**Grice's Maxims**](../General-Thinking/grices-maxims.md) — the Pyramid Principle operationalises Grice's Maxims of Quantity and Manner in document structure; the Maxims are the underlying theory, the pyramid is one application.
-→ [**Stakeholder Pre-Wiring**](stakeholder-pre-wiring.md) — the pyramid structures what gets said in the room; pre-wiring is what ensures the room is already disposed to agree with where the structure lands.
-→ [**Structured Problem Solving**](structured-problem-solving.md) — answer-first delivery as one of five components of an integrated posture; the pyramid is its communication architecture.
-→ [**Business Case Construction**](../Business/business-case-construction.md) — the pyramid's answer-first principle applies directly: the approver needs to know what is being asked, why, and on what terms before the supporting analysis, not after.
+→ [162·MECE](mece.md) — the supporting layer of a pyramid must be MECE.
+→ [161·Hypothesis-Driven Consulting](hypothesis-driven.md) — the pyramid is the communication form of the hypothesis.
+→ [145·A3 Problem Solving](../Delivery-and-Flow/a3-problem-solving.md) — A3 is the one-page form of the same discipline.
+→ [91·Framing](../Art/framing.md) — the executive summary's persuasion comes from framing; the pyramid is the framing's skeleton.
+→ [90·Audience](../Art/audience.md) — the pyramid structure assumes a specific audience and reading mode.
+→ [226·Grice's Maxims](../General-Thinking/grices-maxims.md) — the Pyramid Principle operationalises Grice's Maxims of Quantity and Manner in document structure; the Maxims are the underlying theory, the pyramid is one application.
+→ [252·Stakeholder Pre-Wiring](stakeholder-pre-wiring.md) — the pyramid structures what gets said in the room; pre-wiring is what ensures the room is already disposed to agree with where the structure lands.
+→ [253·Structured Problem Solving](structured-problem-solving.md) — answer-first delivery as one of five components of an integrated posture; the pyramid is its communication architecture.
+→ [218·Business Case Construction](../Business/business-case-construction.md) — the pyramid's answer-first principle applies directly: the approver needs to know what is being asked, why, and on what terms before the supporting analysis, not after.
 
 ---
 

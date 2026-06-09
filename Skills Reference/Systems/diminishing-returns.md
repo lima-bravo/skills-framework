@@ -43,14 +43,14 @@ A marketing team has been investing in content and SEO for three years. The firs
 
 ## Connections
 
-→ [**Optimization**](../Economics/optimization.md) — optimization explicitly works with marginal returns, finding the allocation that maximizes total output.
-→ [**Local Maxima**](../Mathematics/local-maxima.md) — diminishing returns are the mechanism by which you get trapped on local maxima.
-→ [**Compounding**](../Mathematics/compounding.md) — compounding is the opposite dynamic; understanding both helps identify which type of curve you're on.
-→ [**Scale**](scale.md) — diminishing returns is a common scale dynamic: what grows superlinearly early often hits diminishing returns as the system grows.
-→ [**Red Queen Dilemma**](red-queen-dilemma.md) — Red Queen races produce industry-wide diminishing returns: as all competitors invest simultaneously, each party's investment yields less competitive improvement.
-→ [**S-Curves**](s-curves.md) — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns as the system approaches its saturation ceiling.
-→ [**Efficiency**](../Economics/efficiency.md) — diminishing returns set the curve that determines where to stop allocating in pursuit of efficiency gains.
-→ [**Portfolio Map**](../Business/portfolio-map.md) — portfolio strategy explicitly hedges against H1 diminishing returns by maintaining investment across all three horizons.
+→ [33·Optimization](../Economics/optimization.md) — optimization explicitly works with marginal returns, finding the allocation that maximizes total output.
+→ [76·Local Maxima](../Mathematics/local-maxima.md) — diminishing returns are the mechanism by which you get trapped on local maxima.
+→ [75·Compounding](../Mathematics/compounding.md) — compounding is the opposite dynamic; understanding both helps identify which type of curve you're on.
+→ [21·Scale](scale.md) — diminishing returns is a common scale dynamic: what grows superlinearly early often hits diminishing returns as the system grows.
+→ [29·Red Queen Dilemma](red-queen-dilemma.md) — Red Queen races produce industry-wide diminishing returns: as all competitors invest simultaneously, each party's investment yields less competitive improvement.
+→ [102·S-Curves](s-curves.md) — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns as the system approaches its saturation ceiling.
+→ [35·Efficiency](../Economics/efficiency.md) — diminishing returns set the curve that determines where to stop allocating in pursuit of efficiency gains.
+→ [71·Portfolio Map](../Business/portfolio-map.md) — portfolio strategy explicitly hedges against H1 diminishing returns by maintaining investment across all three horizons.
 
 ## References
 

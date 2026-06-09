@@ -42,18 +42,18 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 
 ## Connections
 
-→ [**Critical Mass**](../Systems/critical-mass.md) — network effects only activate above the critical mass threshold.
-→ [**Viral Growth**](viral-growth.md) — the growth mechanism that most efficiently reaches critical mass.
-→ [**Defensibility**](defensibility.md) — network effects are the strongest source of defensibility in digital markets.
-→ [**Value Creation and Capture**](../Economics/value-creation-capture.md) — network effects are one of the most powerful value capture mechanisms: as the network grows, switching costs rise and the fraction of created value that can be retained increases.
-→ [**Power Law**](../Mathematics/power-law.md) — network effects are a primary generative mechanism for power law distributions: preferential attachment produces winner-take-most outcomes.
-→ [**Long Tail**](../Economics/long-tail.md) — network effects and Long Tail dynamics compound in platform markets: the network attracts more supply, which deepens the tail, which attracts more demand.
-→ [**S-Curves**](../Systems/s-curves.md) — network effects accelerate the growth phase of an S-curve and raise the saturation ceiling, but do not eliminate the S-curve structure.
-→ [**Path Dependence**](../Systems/path-dependence.md) — network effects are the most powerful source of path dependence in markets: the larger the installed base, the higher the switching cost for any individual user or provider.
-→ [**Monopoly vs. Competition**](../Economics/monopoly-vs-competition.md) — network effects are the most powerful monopoly-creating force in digital markets; they shift the competitive landscape toward winner-take-most outcomes.
-→ [**Free Rider Problem**](../Economics/free-rider-problem.md) — shared goods often have network effect properties; free riding degrades the very thing that makes the network valuable.
-→ [**Schelling Points**](../Economics/schelling-points.md) — technology standards are Schelling Points with network effects: once enough users coordinate on one option, switching costs make it permanent.
-→ [**Reciprocity**](../Physics-and-Chemistry/reciprocity.md) — reciprocal networks, where giving to one member benefits others, generate stronger and more durable network effects than purely transactional ones.
+→ [22·Critical Mass](../Systems/critical-mass.md) — network effects only activate above the critical mass threshold.
+→ [83·Viral Growth](viral-growth.md) — the growth mechanism that most efficiently reaches critical mass.
+→ [85·Defensibility](defensibility.md) — network effects are the strongest source of defensibility in digital markets.
+→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — network effects are one of the most powerful value capture mechanisms: as the network grows, switching costs rise and the fraction of created value that can be retained increases.
+→ [238·Power Law](../Mathematics/power-law.md) — network effects are a primary generative mechanism for power law distributions: preferential attachment produces winner-take-most outcomes.
+→ [239·Long Tail](../Economics/long-tail.md) — network effects and Long Tail dynamics compound in platform markets: the network attracts more supply, which deepens the tail, which attracts more demand.
+→ [102·S-Curves](../Systems/s-curves.md) — network effects accelerate the growth phase of an S-curve and raise the saturation ceiling, but do not eliminate the S-curve structure.
+→ [235·Path Dependence](../Systems/path-dependence.md) — network effects are the most powerful source of path dependence in markets: the larger the installed base, the higher the switching cost for any individual user or provider.
+→ [34·Monopoly vs. Competition](../Economics/monopoly-vs-competition.md) — network effects are the most powerful monopoly-creating force in digital markets; they shift the competitive landscape toward winner-take-most outcomes.
+→ [232·Free Rider Problem](../Economics/free-rider-problem.md) — shared goods often have network effect properties; free riding degrades the very thing that makes the network valuable.
+→ [236·Schelling Points](../Economics/schelling-points.md) — technology standards are Schelling Points with network effects: once enough users coordinate on one option, switching costs make it permanent.
+→ [49·Reciprocity](../Physics-and-Chemistry/reciprocity.md) — reciprocal networks, where giving to one member benefits others, generate stronger and more durable network effects than purely transactional ones.
 
 ## References
 
