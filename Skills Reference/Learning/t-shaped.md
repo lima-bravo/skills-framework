@@ -1,10 +1,30 @@
+---
+id: 87
+name: T-Shaped
+category: Learning
+cardType: standard
+tagline: Deep expertise in one area; useful breadth in many
+connections:
+  - id: 86
+    rationale: T-shaped breadth is the raw material for model chaining.
+  - id: 32
+    rationale: the T is the individual-level application of specialization with deliberate breadth.
+  - id: 48
+    rationale: "the T-shape is an alloy: depth provides the vertical, breadth enables the horizontal cross-domain connections."
+references:
+  - title: "Range: Why Generalists Triumph in a Specialized World"
+    authorYear: David Epstein (2019)
+    supports: the empirical case for breadth (the T's crossbar) as the foundation for deep expertise.
+  - title: "Creative Confidence: Unleashing the Creative Potential Within Us All"
+    authorYear: Tom Kelley & David Kelley (2013)
+    supports: IDEO's T-shaped model as the design for effective cross-functional teams.
+---
+
 # T-Shaped
-*Deep expertise in one area; useful breadth in many*
 
 **Category:** [Learning](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The T-shaped professional has deep expertise in one area (the vertical bar of the T) and broad, working knowledge across multiple adjacent and non-adjacent fields (the horizontal bar). The concept, popularized in the context of design thinking at IDEO and broader knowledge work, describes the combination that produces both specialist contribution (depth enables distinction and genuine expertise) and integrative thinking (breadth enables connection, collaboration, and lateral insight).
@@ -37,19 +57,6 @@ The vertical bar provides the credibility, the specialized contribution, and the
 ## Worked Example
 
 A data scientist builds deep expertise in machine learning (vertical). Over five years, she deliberately builds breadth in: product management (to understand what business problems her models should solve), psychology and behavioral economics (to understand how users respond to algorithmic outputs), communication and data visualization (to make insights actionable for non-technical stakeholders), and software engineering (to understand deployment constraints on her models). Each breadth area directly improves the quality of her specialist work and her ability to collaborate. She is a significantly more effective practitioner than a data scientist with equivalent technical depth and no breadth.
-
----
-
-## Connections
-
-→ [86·Model Chaining](model-chaining.md) — T-shaped breadth is the raw material for model chaining.
-→ [32·Specialization](../Economics/specialization.md) — the T is the individual-level application of specialization with deliberate breadth.
-→ [48·Alloying](../Physics-and-Chemistry/alloying.md) — the T-shape is an alloy: depth provides the vertical, breadth enables the horizontal cross-domain connections.
-## References
-
-- *Range: Why Generalists Triumph in a Specialized World* — David Epstein (2019) — the empirical case for breadth (the T's crossbar) as the foundation for deep expertise.
-- *Creative Confidence: Unleashing the Creative Potential Within Us All* — Tom Kelley & David Kelley (2013) — IDEO's T-shaped model as the design for effective cross-functional teams.
-
 
 ---
 

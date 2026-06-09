@@ -1,10 +1,32 @@
+---
+id: 89
+name: Learning Transfer
+category: Learning
+cardType: standard
+tagline: Apply insights from one domain to another
+connections:
+  - id: 86
+    rationale: learning transfer is how models from different domains become available for chaining.
+  - id: 87
+    rationale: the horizontal bar enables learning transfer across domains.
+  - id: 0
+    rationale: the abstraction step in learning transfer often requires first-principles thinking to identify what the transferable principle actually is.
+  - id: 106
+    rationale: "analogical reasoning at the problem-solving level is the same mechanism as learning transfer at the individual level: applying structural insight from one domain to a superficially different context."
+references:
+  - title: "Make It Stick: The Science of Successful Learning"
+    authorYear: P.C. Brown, H.L. Roediger III & M.A. McDaniel (2014)
+    supports: retrieval practice and interleaving as the conditions for durable transfer.
+  - title: "Transfer of Learning: Cognition, Instruction, and Reasoning"
+    authorYear: Robert E. Haskell (2001)
+    supports: the academic foundation of learning transfer research.
+---
+
 # Learning Transfer
-*Apply insights from one domain to another*
 
 **Category:** [Learning](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Learning transfer is the application of knowledge, skills, or principles from one context to a different context — particularly across domains. Near transfer is applying learning to similar situations. Far transfer is applying learning to structurally different situations — the genuinely difficult and valuable kind. Most formal learning produces near transfer; it is far transfer that generates the "unexpected connections" and lateral insights that drive creative problem-solving and model chaining.
@@ -38,21 +60,6 @@ Every domain is a specialized vocabulary for describing patterns that may also a
 ## Worked Example
 
 A former military officer joins a startup as COO. Her military training: clear mission objectives, tight feedback loops on mission performance, pre-mortem planning (rehearsal of contingencies), and clear command-and-control decision structures. Transferring directly: most of this doesn't work in a startup where autonomy, ambiguity, and cultural norms differ radically from military hierarchy. Transferring the principles: clear objectives work universally (OKRs); tight feedback loops work; pre-mortem planning (reframed as pre-mortems in product, not security briefings) works. The surface mechanism (military structure) didn't transfer; the underlying principles transferred with adaptation.
-
----
-
-## Connections
-
-→ [86·Model Chaining](model-chaining.md) — learning transfer is how models from different domains become available for chaining.
-→ [87·T-shaped](t-shaped.md) — the horizontal bar enables learning transfer across domains.
-→ [0·First Principles](../General-Thinking/first-principles.md) — the abstraction step in learning transfer often requires first-principles thinking to identify what the transferable principle actually is.
-→ [106·Analogical Reasoning](../General-Thinking/analogical-reasoning.md) — analogical reasoning at the problem-solving level is the same mechanism as learning transfer at the individual level: applying structural insight from one domain to a superficially different context.
-
-## References
-
-- *Make It Stick: The Science of Successful Learning* — P.C. Brown, H.L. Roediger III & M.A. McDaniel (2014) — retrieval practice and interleaving as the conditions for durable transfer.
-- *Transfer of Learning: Cognition, Instruction, and Reasoning* — Robert E. Haskell (2001) — the academic foundation of learning transfer research.
-
 
 ---
 

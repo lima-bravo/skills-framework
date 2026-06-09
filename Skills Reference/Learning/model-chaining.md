@@ -1,10 +1,28 @@
+---
+id: 86
+name: Model Chaining
+category: Learning
+cardType: standard
+tagline: Combine multiple mental models to understand complex situations
+connections:
+  - id: 0
+    rationale: model chains are built from principled building blocks, not arbitrary combinations.
+  - id: 105
+    rationale: the pre-built chains in this framework are curated model chains for specific recurring decisions.
+references:
+  - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
+    authorYear: Charlie Munger, ed. Peter Kaufman (2005)
+    supports: "the latticework of mental models is Munger's central concept: models chain, not stack."
+  - title: "The Great Mental Models Vol. 1: General Thinking Concepts"
+    authorYear: Shane Parrish (2019)
+    supports: the practical case for multi-model analysis.
+---
+
 # Model Chaining
-*Combine multiple mental models to understand complex situations*
 
 **Category:** [Learning](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Model chaining is the practice of applying multiple mental models in sequence or combination to analyse a situation — each model illuminating a different dimension, the combination producing richer understanding than any single model could. Charlie Munger's concept of the "latticework of mental models" is the foundational idea: the power of mental models comes not from any single model but from their combination and interaction. A practitioner who can only apply one model sees every problem through that model's lens; a practitioner with a rich lattice sees the same situation through multiple lenses simultaneously.
@@ -37,18 +55,6 @@ The practitioner builds a repertoire of models across domains — physics, econo
 ## Worked Example
 
 A company is experiencing high customer churn despite strong product reviews. Model chain: (1) Incentives — what do customer success managers get paid for? (2) Feedback Loops — what is the feedback mechanism between product quality and customer success effort? (3) Loss Aversion — is the customer experiencing the switch to the new product as a gain or a loss relative to their prior tool? (4) Activation Energy — is the effort to extract full value from the product too high? (5) Gresham's Law — is the support queue being dominated by the most vocal (not the most at-risk) customers? Each model identifies a different possible cause. The chain produces a richer hypothesis set than any single model would have.
-
----
-
-## Connections
-
-→ [0·First Principles](../General-Thinking/first-principles.md) — model chains are built from principled building blocks, not arbitrary combinations.
-→ [105·Pre-built Chains](pre-built-chains.md) — the pre-built chains in this framework are curated model chains for specific recurring decisions.
-## References
-
-- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — the latticework of mental models is Munger's central concept: models chain, not stack.
-- *The Great Mental Models Vol. 1: General Thinking Concepts* — Shane Parrish (2019) — the practical case for multi-model analysis.
-
 
 ---
 

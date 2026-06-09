@@ -1,10 +1,32 @@
+---
+id: 88
+name: Five-Hour Rule
+category: Learning
+cardType: standard
+tagline: Dedicate five hours per week to deliberate learning
+connections:
+  - id: 75
+    rationale: five-hour rule learning is compounding applied to human capital.
+  - id: 87
+    rationale: the five-hour rule is the mechanism for maintaining and expanding the horizontal bar.
+  - id: 86
+    rationale: deliberate cross-domain reading is how the model library that enables chaining is built.
+  - id: 11
+    rationale: post-mortems are among the most efficient uses of deliberate learning time, being grounded in direct organizational experience rather than abstract study.
+references:
+  - title: The Autobiography of Benjamin Franklin
+    authorYear: Benjamin Franklin (written 1771–1790; published 1791)
+    supports: Franklin's self-directed reading and reflection practice, the source example for the five-hour rule.
+  - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
+    authorYear: Charlie Munger, ed. Peter Kaufman (2005)
+    supports: "Munger's reading-as-compounding model: the practitioner embodiment of the five-hour rule."
+---
+
 # Five-Hour Rule
-*Dedicate five hours per week to deliberate learning*
 
 **Category:** [Learning](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The five-hour rule, documented by Michael Simmons from his study of highly effective people including Benjamin Franklin, is the practice of dedicating at least five hours per week to deliberate learning — reading, reflection, and experimentation that is not directly tied to current work output. Franklin reportedly spent at least an hour a day reading and learning throughout his adult life. Warren Buffett spends five to six hours per day reading. The principle: consistent, scheduled investment in learning is a compounding activity that generates disproportionate long-term returns relative to the input.
@@ -38,21 +60,6 @@ Deliberate learning is compounding applied to knowledge and capability. Each hou
 ## Worked Example
 
 Naval Ravikant has described his reading practice: he reads many books simultaneously, stopping and starting based on engagement, treating books like a conversation partner rather than an obligation. The key practice: he spends significant time re-reading and synthesizing, asking "what did this add to my model of X?" rather than treating each book as a standalone. The result is a small number of high-fidelity models applied consistently, rather than a large number of half-absorbed ideas. Fewer books, more deeply understood, produced more compound insight.
-
----
-
-## Connections
-
-→ [75·Compounding](../Mathematics/compounding.md) — five-hour rule learning is compounding applied to human capital.
-→ [87·T-shaped](t-shaped.md) — the five-hour rule is the mechanism for maintaining and expanding the horizontal bar.
-→ [86·Model Chaining](model-chaining.md) — deliberate cross-domain reading is how the model library that enables chaining is built.
-→ [11·Post-mortem](../General-Thinking/post-mortem.md) — post-mortems are among the most efficient uses of deliberate learning time, being grounded in direct organizational experience rather than abstract study.
-
-## References
-
-- *The Autobiography of Benjamin Franklin* — Benjamin Franklin (written 1771–1790; published 1791) — Franklin's self-directed reading and reflection practice, the source example for the five-hour rule.
-- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — Munger's reading-as-compounding model: the practitioner embodiment of the five-hour rule.
-
 
 ---
 
