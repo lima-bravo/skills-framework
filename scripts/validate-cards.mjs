@@ -150,6 +150,10 @@ function main() {
     }
 
     const md = fs.readFileSync(full, 'utf8');
+    if (!md.startsWith('---\n')) {
+      fail(file, 'missing YAML frontmatter (Phase 7 required)');
+      continue;
+    }
     const parsed = parseSkillMarkdown(md, { includeReferences: true });
     const title = parsed.title;
     const tagline = parsed.tagline;
