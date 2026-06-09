@@ -1,10 +1,40 @@
+---
+id: 183
+name: AI Authority Boundaries
+category: Applied AI
+cardType: extended
+tagline: Programmatically encoding where AI may not become a decision-maker
+connections:
+  - id: 184
+    rationale: the design discipline that implements Register 2; capability enforcement in practice.
+  - id: 185
+    rationale: the attack vector that makes Register 3 necessary; why free text from external sources must never become steering prompts.
+  - id: 121
+    rationale: the classical framing of misaligned incentives between principal and agent; AI authority boundaries are its operational implementation in agentic systems.
+  - id: 127
+    rationale: defines who is Responsible, Accountable, Consulted, Informed in human workflows; authority boundary design answers the same question for human-AI workflows.
+  - id: 16
+    rationale: the reversibility lens for decision-making; irreversible actions require the hardest gates.
+  - id: 10
+    rationale: "the governance design tool: run a pre-mortem on the agentic system before deployment to surface which gates are insufficient."
+  - id: 126
+    rationale: the organizational context for authority boundary decisions; boundary design is a form of operational risk management.
+  - id: 142
+    rationale: "structural analogy: DORA measures delivery system health; authority boundary registers measure governance system health."
+references:
+  - title: "Human Compatible: Artificial Intelligence and the Problem of Control"
+    authorYear: Stuart Russell (2019)
+    supports: the foundational case for human oversight as AI systems become more autonomous.
+  - title: "The Alignment Problem: Machine Learning and Human Values"
+    authorYear: Brian Christian (2020)
+    supports: the gap between what AI systems optimize for and what humans actually authorize.
+---
+
 # AI Authority Boundaries
-*Programmatically encoding where AI may not become a decision-maker*
 
 **Category:** [Applied AI](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 AI authority boundaries are the programmatic mechanisms that define and enforce the line between what an AI agent may do autonomously and what must remain with a human who carries accountability for the result. The discipline is distinct from general AI safety: it is not about preventing harmful outputs in a conversation, but about designing systems that remain under meaningful human control as they become more capable and more autonomous — running scheduled jobs, chaining agents, and taking real-world actions without a person in the loop.
@@ -75,24 +105,6 @@ The inverse of this rule — which describes the failure mode of most early agen
 ## Worked Example
 
 A team ships an AI agent that drafts and sends customer refund approvals overnight. In the demo it works: the agent reads the ticket, decides, and emails the customer — gated only by a system-prompt instruction to "escalate refunds over $500 to a human." Three weeks into production, a malformed batch of tickets and a prompt-injection string buried in a customer message combine to push through a run of unauthorised high-value refunds before anyone is watching. The escalation rule names the error precisely: an unattended, consequence-bearing, hard-to-reverse action was protected by the softest possible gate (Register 1, a prompt instruction). The redesign moves the brake down the stack — the drafting agent is given no send tool at all (Register 2), refunds above a threshold are routed through a typed, allowlisted handoff the orchestrator validates before any email can be issued (Register 3), and a per-session budget and liveness switch (Registers 4–5) cap the blast radius of any future runaway. The capability the team trusted the model not to misuse is simply removed; the boundary no longer depends on the model behaving.
-
----
-
-## Connections
-
-→ [184·Minimal Capability Principle](minimal-capability-principle.md) — the design discipline that implements Register 2; capability enforcement in practice.
-→ [185·Prompt Injection](prompt-injection.md) — the attack vector that makes Register 3 necessary; why free text from external sources must never become steering prompts.
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — the classical framing of misaligned incentives between principal and agent; AI authority boundaries are its operational implementation in agentic systems.
-→ [127·RACI Framework](../Business/raci.md) — defines who is Responsible, Accountable, Consulted, Informed in human workflows; authority boundary design answers the same question for human-AI workflows.
-→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — the reversibility lens for decision-making; irreversible actions require the hardest gates.
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the governance design tool: run a pre-mortem on the agentic system before deployment to surface which gates are insufficient.
-→ [126·Risk Management](../Leadership/risk-management.md) — the organizational context for authority boundary decisions; boundary design is a form of operational risk management.
-→ [142·DORA Metrics](../Delivery-and-Flow/dora-metrics.md) — structural analogy: DORA measures delivery system health; authority boundary registers measure governance system health.
-## References
-
-- *Human Compatible: Artificial Intelligence and the Problem of Control* — Stuart Russell (2019) — the foundational case for human oversight as AI systems become more autonomous.
-- *The Alignment Problem: Machine Learning and Human Values* — Brian Christian (2020) — the gap between what AI systems optimize for and what humans actually authorize.
-
 
 ---
 

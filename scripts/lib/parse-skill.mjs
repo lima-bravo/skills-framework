@@ -2,13 +2,11 @@
  * Shared markdown skill parser (remark/unified).
  */
 import fs from 'node:fs';
-import path from 'node:path';
 import { unified } from 'unified';
 import remarkParse from 'remark-parse';
-import remarkFrontmatter from 'remark-frontmatter';
-import { visit } from 'unist-util-visit';
 import { toString } from 'mdast-util-to-string';
 import { parseConnectionLines } from './connections.mjs';
+import { parseFrontmatter, splitFrontmatter } from './frontmatter.mjs';
 
 function stripFooter(md) {
   return md.replace(/\n\*Part of[\s\S]*$/i, '').trim();
@@ -23,49 +21,58 @@ export function extractSectionRaw(md, sectionTitle) {
 }
 
 function parseTaglineFromMd(md) {
-  const tag = md.match(/\*\*Tagline:\*\*\s*(.+)/);
+  const { data, body } = parseFrontmatter(md);
+  if (data?.tagline) return String(data.tagline).trim();
+  const tag = body.match(/\*\*Tagline:\*\*\s*(.+)/);
   if (tag) return tag[1].trim();
-  const italic = md.match(/^\*([^*\n]+)\*/m);
+  const italic = body.match(/^# [^\n]+\n\*([^*\n]+)\*/m) || body.match(/^\*([^*\n]+)\*/m);
   return italic ? italic[1].trim() : '';
 }
 
 function parseTitleFromMd(md) {
-  const m = md.match(/^# ([^\n]+)/m);
+  const { data, body } = parseFrontmatter(md);
+  if (data?.name) return String(data.name).trim();
+  const m = body.match(/^# ([^\n]+)/m);
   return m ? m[1].trim() : '';
+}
+
+function connectionsFromFrontmatter(data) {
+  if (!Array.isArray(data?.connections)) return null;
+  return data.connections.map((c) => ({
+    id: c.id,
+    name: '',
+    href: null,
+    rationale: c.rationale ?? '',
+    raw: `→ [${c.id}·]`,
+    resolvedBy: 'id',
+  }));
+}
+
+function referencesFromFrontmatter(data) {
+  if (!Array.isArray(data?.references)) return null;
+  return data.references.map((r) => ({
+    title: r.title,
+    authorYear: r.authorYear ?? '',
+    note: r.supports ?? r.note ?? '',
+  }));
 }
 
 /**
  * Parse skill markdown into structured sections.
- * @param {string} md raw file contents
- * @param {{ includeReferences?: boolean }} opts
  */
 export function parseSkillMarkdown(md, opts = {}) {
   const { includeReferences = false } = opts;
-  const body = stripFooter(md);
+  const { data: fmData, body: fmBody } = parseFrontmatter(md);
+  const body = stripFooter(fmData ? fmBody : md);
   const tagline = parseTaglineFromMd(md);
   const title = parseTitleFromMd(md);
 
-  const tree = unified().use(remarkParse).use(remarkFrontmatter, ['yaml']).parse(body);
-
-  let frontmatter = null;
-  visit(tree, 'yaml', (node) => {
-    try {
-      // minimal YAML: key: value lines only for Phase 7
-      frontmatter = {};
-      for (const line of node.value.split('\n')) {
-        const m = line.match(/^(\w+):\s*(.+)$/);
-        if (m) frontmatter[m[1]] = m[2].replace(/^["']|["']$/g, '');
-      }
-    } catch {
-      frontmatter = null;
-    }
-  });
+  const tree = unified().use(remarkParse).parse(body);
 
   const sections = [];
   let current = null;
 
-  const children = tree.children ?? [];
-  for (const node of children) {
+  for (const node of tree.children ?? []) {
     if (node.type === 'heading' && node.depth === 2) {
       if (current) sections.push(current);
       current = { title: toString(node).trim(), body: '', nodes: [] };
@@ -82,22 +89,35 @@ export function parseSkillMarkdown(md, opts = {}) {
     delete s.nodes;
   }
 
+  const skipMachine = !!fmData;
+  let allSections = sections;
+  if (skipMachine) {
+    allSections = sections.filter(
+      (s) => s.title !== 'Connections' && s.title !== 'References',
+    );
+  }
+
   const filtered = includeReferences
-    ? sections
-    : sections.filter((s) => s.title !== 'References');
+    ? allSections
+    : allSections.filter((s) => s.title !== 'References');
 
-  const connections = parseConnectionLines(extractSectionRaw(body, 'Connections'));
+  const connections =
+    connectionsFromFrontmatter(fmData) ??
+    parseConnectionLines(extractSectionRaw(fmData ? fmBody : md, 'Connections'));
 
-  const references = parseReferenceLines(extractSectionRaw(body, 'References'));
+  const references =
+    referencesFromFrontmatter(fmData) ??
+    parseReferenceLines(extractSectionRaw(fmData ? fmBody : md, 'References'));
 
   return {
     title,
     tagline,
-    frontmatter,
+    frontmatter: fmData,
     sections: filtered,
-    allSections: sections,
+    allSections,
     connections,
     references,
+    body,
   };
 }
 
@@ -127,7 +147,6 @@ function parseReferenceLines(body) {
   for (const line of body.split('\n')) {
     const t = line.trim();
     if (!t.startsWith('-')) continue;
-    // - *Title* — Author (Year) — note
     const m = t.match(/^-\s*\*([^*]+)\*\s*(?:—|-)\s*(.+)$/);
     if (!m) {
       refs.push({ raw: t });

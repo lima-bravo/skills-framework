@@ -35,11 +35,17 @@ function parseTagline(md) {
 
 function parseSections(md, includeReferences = false) {
   const stripped = md.replace(/\n\*Part of[\s\S]*$/i, '').trim();
-  const { allSections } = parseSkillMarkdown(md, { includeReferences: true });
+  const { frontmatter, body: fmBody, allSections } = parseSkillMarkdown(md, {
+    includeReferences: true,
+  });
+  const source = frontmatter ? fmBody : stripped;
   const sections = [];
   for (const s of allSections) {
     if (s.title === 'References' && !includeReferences) continue;
-    const body = extractSectionRaw(stripped, s.title)
+    const body = (
+      s.body ||
+      extractSectionRaw(source, s.title)
+    )
       .replace(/^---\s*$/gm, '')
       .replace(/\n---\s*$/g, '')
       .trim();
@@ -89,45 +95,89 @@ function formatTextChunk(text) {
   return s;
 }
 
-function buildModal(md, filePath, byPath, byName) {
-  const includeRefs = /^## References\s*$/m.test(md);
+function renderSectionBody(title, body, filePath, byPath, byName) {
+  const cleaned = body.replace(/\n---\s*$/g, '').trim();
+  let inner = '';
+
+  if (title === 'Connections') {
+    for (const line of cleaned.split('\n')) {
+      if (!line.trim().startsWith('→')) continue;
+      inner += `<p class="connection">→ ${inlineMd(line.replace(/^→\s*/, ''), filePath, byPath, byName)}</p>`;
+    }
+    return inner;
+  }
+
+  const lines = cleaned.split('\n').filter((l) => l.trim());
+  const isList = lines.length > 0 && lines.every((l) => /^\s*[-*]\s+/.test(l));
+  if (isList) {
+    return (
+      '<ul>\n' +
+      lines
+        .map((l) => `<li>${inlineMd(l.replace(/^\s*[-*]\s+/, ''), filePath, byPath, byName)}</li>`)
+        .join('\n') +
+      '\n</ul>'
+    );
+  }
+
+  const paras = cleaned.split(/\n\n+/).filter((p) => p.trim() && p.trim() !== '---');
+  return paras
+    .map((p, i) => {
+      const innerP = p
+        .split('\n')
+        .filter((ln) => ln.trim() !== '---')
+        .map((ln) => inlineMd(ln, filePath, byPath, byName))
+        .join('<br>\n');
+      return `<p>${innerP}</p>${i < paras.length - 1 ? '\n<br>\n' : ''}`;
+    })
+    .join('');
+}
+
+function connectionLineFromFrontmatter(conn, byId) {
+  const meta = byId.get(conn.id);
+  if (!meta) return `${conn.id} — ${conn.rationale}`;
+  return `[${conn.id}·${meta.name}](${meta.file}) — ${conn.rationale}`;
+}
+
+function referenceLineFromFrontmatter(ref) {
+  const note = ref.note || ref.supports || '';
+  return note
+    ? `*${ref.title}* — ${ref.authorYear} — ${note}`
+    : `*${ref.title}* — ${ref.authorYear}`;
+}
+
+function buildModal(md, filePath, byPath, byName, byId) {
+  const parsed = parseSkillMarkdown(md, { includeReferences: true });
+  const includeRefs =
+    parsed.references.length > 0 || /^## References\s*$/m.test(md);
   let html = '';
   for (const s of parseSections(md, includeRefs)) {
-    const isConnections = s.title === 'Connections';
-    const body = s.body.replace(/\n---\s*$/g, '').trim();
-    let inner = '';
-
-    if (isConnections) {
-      for (const line of body.split('\n')) {
-        if (!line.trim().startsWith('→')) continue;
-        inner += `<p class="connection">→ ${inlineMd(line.replace(/^→\s*/, ''), filePath, byPath, byName)}</p>`;
-      }
-    } else {
-      const lines = body.split('\n').filter((l) => l.trim());
-      const isList = lines.length > 0 && lines.every((l) => /^\s*[-*]\s+/.test(l));
-      if (isList) {
-        inner =
-          '<ul>\n' +
-          lines
-            .map((l) => `<li>${inlineMd(l.replace(/^\s*[-*]\s+/, ''), filePath, byPath, byName)}</li>`)
-            .join('\n') +
-          '\n</ul>';
-      } else {
-        const paras = body.split(/\n\n+/).filter((p) => p.trim() && p.trim() !== '---');
-        inner = paras
-          .map((p, i) => {
-            const innerP = p
-              .split('\n')
-              .filter((ln) => ln.trim() !== '---')
-              .map((ln) => inlineMd(ln, filePath, byPath, byName))
-              .join('<br>\n');
-            return `<p>${innerP}</p>${i < paras.length - 1 ? '\n<br>\n' : ''}`;
-          })
-          .join('');
-      }
-    }
+    const inner = renderSectionBody(s.title, s.body, filePath, byPath, byName);
     html += `<div class="ms-section"><h3>${esc(s.title)}</h3>${inner}</div>`;
   }
+
+  const hasConnSection = parsed.allSections.some((s) => s.title === 'Connections');
+  if (!hasConnSection && parsed.connections.length) {
+    let inner = '';
+    for (const conn of parsed.connections) {
+      const line = connectionLineFromFrontmatter(conn, byId);
+      inner += `<p class="connection">→ ${inlineMd(line, filePath, byPath, byName)}</p>`;
+    }
+    html += `<div class="ms-section"><h3>Connections</h3>${inner}</div>`;
+  }
+
+  const hasRefSection = parsed.allSections.some((s) => s.title === 'References');
+  if (!hasRefSection && parsed.references.length) {
+    const lines = parsed.references.map((r) => `- ${referenceLineFromFrontmatter(r)}`);
+    const inner = renderSectionBody(
+      'References',
+      lines.join('\n'),
+      filePath,
+      byPath,
+      byName,
+    );
+    html += `<div class="ms-section"><h3>References</h3>${inner}</div>`;
+  }
+
   return html;
 }
 
@@ -144,9 +194,11 @@ function main() {
 
   const byPath = new Map();
   const byName = new Map();
+  const byId = new Map();
   for (const [file, meta] of Object.entries(manifest.skills)) {
     byPath.set(file, meta);
     byName.set(meta.name, { id: meta.id, file });
+    byId.set(meta.id, { ...meta, file });
   }
 
   const skills = [];
@@ -154,7 +206,7 @@ function main() {
     const md = fs.readFileSync(path.join(REF_DIR, file), 'utf8');
     const tagline = parseTagline(md) || '';
     const preview = previewFromMd(md);
-    const modal = buildModal(md, file, byPath, byName);
+    const modal = buildModal(md, file, byPath, byName, byId);
     skills.push({
       id: meta.id,
       name: meta.name,

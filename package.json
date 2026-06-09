@@ -17,6 +17,7 @@
     "build:situation-finder": "node scripts/build-situation-finder.mjs",
     "snapshot:test": "node scripts/snapshot-test.mjs",
     "test:parse-skill": "node scripts/lib/parse-skill.test.mjs",
+    "test:frontmatter": "node scripts/lib/frontmatter.test.mjs",
     "check:counts": "node scripts/check-counts.mjs"
   },
   "dependencies": {
