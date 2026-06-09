@@ -5,7 +5,8 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { REF_DIR, loadManifest } from './lib/manifest.mjs';
+import { REF_DIR, loadManifest, buildLookups } from './lib/manifest.mjs';
+import { parseConnectionsFromMd, resolveConnectionTarget } from './lib/connections.mjs';
 
 const STRICT = process.argv.includes('--strict');
 const SCHEMA = JSON.parse(
@@ -123,6 +124,7 @@ function validateChain(file, sections) {
 
 function main() {
   const manifest = loadManifest();
+  const lookups = buildLookups(manifest);
   let warnings = 0;
   let errors = 0;
 
@@ -157,6 +159,19 @@ function main() {
 
     if (cardType === 'chain') validateChain(file, sections);
     else validateStandardOrExtended(file, cardType, sections);
+
+    for (const conn of parseConnectionsFromMd(md)) {
+      const { targetId, resolvedBy } = resolveConnectionTarget(
+        conn,
+        lookups,
+        file,
+      );
+      if (targetId == null) {
+        fail(file, `unresolved connection: ${conn.name || conn.raw}`);
+      } else if (conn.id == null) {
+        warn(file, `connection without id prefix: ${conn.name} (resolved by ${resolvedBy})`);
+      }
+    }
   }
 
   console.warn = origWarn;

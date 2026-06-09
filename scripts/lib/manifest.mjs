@@ -11,14 +11,27 @@ export function loadManifest() {
   return JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
 }
 
+function normName(s) {
+  return s
+    .toLowerCase()
+    .replace(/[–—]/g, '-')
+    .replace(/\s*\([^)]*\)\s*$/, '')
+    .trim();
+}
+
 export function buildLookups(manifest) {
   const byPath = new Map();
   const byName = new Map();
   const byId = new Map();
   for (const [file, meta] of Object.entries(manifest.skills)) {
+    const entry = { ...meta, file };
     byPath.set(file, meta);
-    byName.set(meta.name, { ...meta, file });
-    byId.set(meta.id, { ...meta, file });
+    byId.set(meta.id, entry);
+    byName.set(meta.name, entry);
+    byName.set(meta.name.toLowerCase(), entry);
+    byName.set(normName(meta.name), entry);
   }
   return { byPath, byName, byId };
 }
+
+export { normName };

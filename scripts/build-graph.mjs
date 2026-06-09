@@ -7,6 +7,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { buildLookups } from './lib/manifest.mjs';
+import { parseConnectionsFromMd, resolveConnectionTarget } from './lib/connections.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -31,26 +33,6 @@ function parseTagline(md) {
   return m2 ? m2[1].trim() : '';
 }
 
-function parseConnections(md) {
-  // Split on section headers and find the Connections chunk
-  const chunks = md.split(/\n(?=## )/);
-  const chunk = chunks.find(c => c.startsWith('## Connections'));
-  if (!chunk) return [];
-  // Strip the header line, then parse bullet lines
-  const body = chunk.replace(/^## Connections[^\n]*\n/, '');
-
-  const names = [];
-  for (const line of body.split('\n')) {
-    // Format A: - **Name** — or → **Name** —
-    const mA = line.match(/(?:^[-*]|→)\s*\*\*([^*]+)\*\*/);
-    if (mA) { names.push(mA[1].trim()); continue; }
-    // Format B: → [**Name**](link.md) — (markdown link)
-    const mB = line.match(/→\s*\[\*\*([^*]+)\*\*\]/);
-    if (mB) names.push(mB[1].trim());
-  }
-  return names;
-}
-
 function truncate(s, len = 60) {
   if (!s) return '';
   return s.length > len ? s.slice(0, len - 1) + '…' : s;
@@ -64,21 +46,7 @@ function main() {
     throw new Error('graph.template.html missing __GRAPH_JSON__ placeholder');
   }
 
-  // ── Build byName lookup ──────────────────────────────────────────────────
-  // Normalise: collapse Unicode dashes/hyphens, strip parenthetical suffixes
-  function normName(s) {
-    return s.toLowerCase()
-      .replace(/[–—]/g, '-') // en-dash / em-dash → hyphen
-      .replace(/\s*\([^)]*\)\s*$/, '') // strip trailing parentheticals e.g. "(Salience Model)"
-      .trim();
-  }
-
-  const byName = new Map(); // normalised name → id
-  for (const [, meta] of Object.entries(manifest.skills)) {
-    byName.set(normName(meta.name), meta.id);
-    // Also index the full normalised name without stripping, so exact matches still win
-    byName.set(meta.name.toLowerCase(), meta.id);
-  }
+  const { byName, byId, byPath } = buildLookups(manifest);
 
   // ── Skill nodes ──────────────────────────────────────────────────────────
   const nodes = [];
@@ -110,9 +78,9 @@ function main() {
       tagline: truncate(tagline, 80),
     });
 
-    // Parse connections → edges
-    for (const connName of parseConnections(md)) {
-      const targetId = byName.get(connName.toLowerCase()) ?? byName.get(normName(connName));
+    // Parse connections → edges (id-first, name fallback)
+    for (const conn of parseConnectionsFromMd(md)) {
+      const { targetId } = resolveConnectionTarget(conn, { byId, byName, byPath }, file);
       if (targetId != null && targetId !== meta.id) {
         addLink(meta.id, targetId);
       }
