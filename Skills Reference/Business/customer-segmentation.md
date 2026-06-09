@@ -64,10 +64,10 @@ Scored on attractiveness and right to win: structured-process teams are smaller 
 
 ## References
 
-- Christensen, C. M., Hall, T., Dillon, K. & Duncan, D. S. (2016) *Competing Against Luck*. HarperBusiness. The "jobs" lens that grounds segmentation in what predicts behavior rather than what's easy to label.
-- Moon, Y. (2010) *Different: Escaping the Competitive Herd*. Crown Business. On the trap of segmenting — and then competing — along the same dimensions as everyone else in the category.
-- Wedel, M. & Kamakura, W. A. (2000) *Market Segmentation: Conceptual and Methodological Foundations*. Springer. The methodological foundation for needs-based, behavior-based segmentation versus descriptive segmentation.
-- Osterwalder, A., Pigneur, Y., Bernarda, G. & Smith, A. (2014) *Value Proposition Design*. Wiley. The customer-profile structure (jobs, pains, gains) that makes a segmentation observable and testable rather than aspirational.
+- *Competing Against Luck* — C.M. Christensen, T. Hall, K. Dillon & D.S. Duncan (2016) — the "jobs" lens that grounds segmentation in what predicts behavior rather than what's easy to label.
+- *Different: Escaping the Competitive Herd* — Youngme Moon (2010) — on the trap of segmenting — and then competing — along the same dimensions as everyone else in the category.
+- *Market Segmentation: Conceptual and Methodological Foundations* — Michel Wedel & Wagner A. Kamakura (2000) — the methodological foundation for needs-based, behavior-based segmentation versus descriptive segmentation.
+- *Value Proposition Design* — Alexander Osterwalder et al. (2014) — the customer-profile structure (jobs, pains, gains) that makes a segmentation observable and testable rather than aspirational.
 
 ---
 

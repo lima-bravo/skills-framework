@@ -46,6 +46,9 @@ A team building project management software maps the customer side for their pri
 → [**Jobs to be Done**](../Startups/jobs-to-be-done.md) — the conceptual framework underlying the Jobs column.
 → [**Product-Market Fit**](../Startups/product-market-fit.md) — fit in the canvas is the same as PMF: the product matches the market.
 → [**Business Model Canvas**](business-model-canvas.md) — the Value Prop Canvas zooms in on two of the nine BMC boxes; the value proposition only holds if the surrounding business model — channels, revenue streams, cost structure — is also coherent.
+→ [**Customer Segmentation**](customer-segmentation.md) — segmentation defines which customers the canvas is drawn for; a value prop canvas built for "all customers" is built for no one in particular.
+
+---
 
 ## References
 

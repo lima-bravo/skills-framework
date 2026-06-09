@@ -64,6 +64,7 @@ The SMB segment is marginally viable at best and is pulling the blended ratio do
 → [**Long Tail**](long-tail.md) — Long Tail strategy only works when unit economics at the tail level are sound; high marginal costs per tail unit destroy the model regardless of aggregate tail demand.
 → [**Growth Barriers**](../Business/growth-barriers.md) — when the binding constraint sits in monetization or expansion, unit economics is the lens that makes the leak visible in dollar terms rather than funnel percentages.
 → [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — unit economics explains at the per-customer level why a profit pool concentrates where the market-level map shows it does.
+→ [**Customer Segmentation**](../Business/customer-segmentation.md) — the quantitative backbone of segment attractiveness scoring: lifetime value, cost to serve, and expansion potential are what separate a segment worth chasing from one worth deprioritizing.
 
 ---
 

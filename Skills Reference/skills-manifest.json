@@ -1994,6 +1994,11 @@
           "id": 247,
           "name": "Growth Barriers",
           "color": "#475569"
+        },
+        {
+          "id": 249,
+          "name": "Customer Segmentation",
+          "color": "#475569"
         }
       ]
     },
@@ -4786,6 +4791,11 @@
           "id": 69,
           "name": "Value Prop Canvas",
           "color": "#475569"
+        },
+        {
+          "id": 249,
+          "name": "Customer Segmentation",
+          "color": "#475569"
         }
       ]
     },
@@ -6242,6 +6252,28 @@
         {
           "id": 248,
           "name": "Profit Pool Analysis",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Different: Escaping the Competitive Herd",
+      "authorYear": "Youngme Moon (2010)",
+      "skills": [
+        {
+          "id": 249,
+          "name": "Customer Segmentation",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Market Segmentation: Conceptual and Methodological Foundations",
+      "authorYear": "Michel Wedel & Wagner A. Kamakura (2000)",
+      "skills": [
+        {
+          "id": 249,
+          "name": "Customer Segmentation",
           "color": "#475569"
         }
       ]

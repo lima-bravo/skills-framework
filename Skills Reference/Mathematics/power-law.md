@@ -60,6 +60,7 @@ The strategic implication: stop acquiring broad and start acquiring narrow. The 
 → [**Randomness**](../Mathematics/randomness.md) — power law distributions and normal distributions are both random processes, but with fundamentally different properties; confusing them is the core analytical error in fat-tailed domains.
 → [**Survivorship Bias**](../Psychology/survivorship-bias.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is, obscuring the full population of attempts.
 → [**Profit Pool Analysis**](../Business/profit-pool-analysis.md) — profit pools frequently follow a power law distribution across a value chain; identifying whether that concentration is structural or merely current is the key strategic question.
+→ [**Customer Segmentation**](../Business/customer-segmentation.md) — many customer bases are power-law distributed in value; a segmentation that treats all segments as equal will systematically misallocate resources toward lower-value groups.
 
 ---
 

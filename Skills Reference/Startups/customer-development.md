@@ -49,14 +49,14 @@ The founders of Airbnb validated their core hypothesis by manually creating list
 → [**Product-Market Fit**](product-market-fit.md) — customer development is the process of discovering the conditions under which PMF is achievable.
 → [**Assumption Mapping**](../Business/assumption-mapping.md) — customer development produces evidence that validates or invalidates assumptions on the map.
 → [**Value Prop Canvas**](../Business/value-prop-canvas.md) — the jobs, pains, and gains sections of the canvas are populated from customer development interviews; the canvas provides structure for what customer development uncovers.
+→ [**Customer Segmentation**](../Business/customer-segmentation.md) — customer development feeds segmentation with the needs and behavior data that makes segments predictive rather than descriptive.
+
+---
 
 ## References
 
 - *The Four Steps to the Epiphany: Successful Strategies for Products that Win* — Steve Blank (2005) — the source text for customer development as a systematic process.
 - *The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company* — Steve Blank & Bob Dorf (2012) — the practical guide to executing customer development.
-
-
----
 
 ---
 
