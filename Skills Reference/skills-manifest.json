@@ -3695,6 +3695,11 @@
           "id": 72,
           "name": "Experiment Design",
           "color": "#475569"
+        },
+        {
+          "id": 225,
+          "name": "A/B Testing",
+          "color": "#475569"
         }
       ]
     },
@@ -4113,6 +4118,11 @@
           "id": 204,
           "name": "Falsification",
           "color": "#9333EA"
+        },
+        {
+          "id": 225,
+          "name": "A/B Testing",
+          "color": "#475569"
         }
       ]
     },
@@ -4723,6 +4733,11 @@
         {
           "id": 72,
           "name": "Experiment Design",
+          "color": "#475569"
+        },
+        {
+          "id": 225,
+          "name": "A/B Testing",
           "color": "#475569"
         }
       ]
@@ -6152,6 +6167,17 @@
         {
           "id": 224,
           "name": "Red Teaming",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "\"The Surprising Power of Online Experiments\"",
+      "authorYear": "Ron Kohavi & Stefan Thomke, Harvard Business Review (September-October 2017)",
+      "skills": [
+        {
+          "id": 225,
+          "name": "A/B Testing",
           "color": "#475569"
         }
       ]

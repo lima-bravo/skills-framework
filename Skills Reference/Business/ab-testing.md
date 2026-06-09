@@ -75,10 +75,10 @@ Two weeks later, a senior marketer suggests stopping a new test early because "t
 
 ## References
 
-- Fisher, R.A. (1935) *The Design of Experiments* — foundational statistical framework for controlled trials
-- Kohavi, R., Tang, D. & Xu, Y. (2020) *Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing* — Microsoft Research; the definitive practitioner reference
-- Kohavi, R. & Thomke, S. (2017) "The Surprising Power of Online Experiments" — *Harvard Business Review*
-- Ries, E. (2011) *The Lean Startup* — popularised A/B testing as a core validated learning instrument in product development
+- *The Design of Experiments* — Ronald A. Fisher (1935) — the foundational statistical framework for controlled trials; introduces random assignment, control conditions, and significance testing as the basis for causal inference from experiments.
+- *Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing* — Ron Kohavi, Diane Tang & Ya Xu (2020) — the definitive practitioner reference from Microsoft Research; covers experimental design, validity threats, and the organisational challenges of running a high-velocity testing programme.
+- *"The Surprising Power of Online Experiments"* — Ron Kohavi & Stefan Thomke, *Harvard Business Review* (September–October 2017) — documents how organisations that run rigorous A/B testing programmes systematically outperform those that rely on intuition; includes analysis of common testing pitfalls.
+- *The Lean Startup* — Eric Ries (2011) — popularised validated learning and A/B testing as core instruments in the Build-Measure-Learn loop; the book that brought controlled experimentation to mainstream product development.
 
 ---
 

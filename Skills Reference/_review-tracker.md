@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **123**
+- Reviewed (verified + fixed): **124**
 - Flagged: **0**
-- Remaining (todo): **139**
+- Remaining (todo): **138**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -191,7 +191,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#219` **Pricing Logic** · `Business/pricing-logic.md` · **st:** fixed · **n:** reformatted 4 non-standard refs (author-year style → standard format); corrected Nagle & Müller year 2017→2018 to match manifest; no structural issues, no ref gaps; backlinks in anchoring, loss-aversion, goodharts-law (pricing-decision chain card has no Connections section)
 - [x] `#220` **Power Mapping** · `Business/power-mapping.md` · **st:** fixed · **n:** reformatted 4 non-standard refs; Gap-A: added Pre-Suasion (Cialdini 2016) from manifest to card; no structural issues; backlinks in raci-framework, narrative-instinct
 - [x] `#224` **Red Teaming** · `Business/red-teaming.md` · **st:** fixed · **n:** reformatted 4 non-standard refs; Gap-B2: all 4 refs missing from manifest — added Zenko (2015), Klein HBR (2007), CIA Tradecraft Primer (2009), Kahneman/Lovallo/Sibony HBR (2011); refs 303→307; backlinks in assumption-mapping, psychological-safety, kill-criteria
-- [ ] `#225` **A/B Testing** · `Business/ab-testing.md` · **st:** todo · **n:** —
+- [x] `#225` **A/B Testing** · `Business/ab-testing.md` · **st:** fixed · **n:** reformatted 4 non-standard refs; Gap-A x3: added skill 225 to Design of Experiments, Trustworthy Online Controlled Experiments, Lean Startup in manifest; Gap-B2: added Kohavi & Thomke HBR 2017; refs 307→308; backlinks in build-measure-learn, probabilistic-thinking, goodharts-law
 - [ ] `#241` **Parkinson's Law** · `Business/parkinsons-law.md` · **st:** todo · **n:** —
 - [ ] `#247` **Growth Barriers** · `Business/growth-barriers.md` · **st:** todo · **n:** —
 - [ ] `#248` **Profit Pool Analysis** · `Business/profit-pool-analysis.md` · **st:** todo · **n:** —

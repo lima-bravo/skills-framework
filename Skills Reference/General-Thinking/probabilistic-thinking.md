@@ -65,6 +65,7 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 → [**Base Rate Neglect**](../Psychology/base-rate-neglect.md) — the most common failure of probabilistic reasoning: discarding the prior distribution because the individual case has become vivid.
 → [**Experiment Design**](../Business/experiment-design.md) — statistical significance and power are applications of probabilistic thinking to experiment design; a well-designed experiment operationalises a probability-based decision rule.
 → [**Scenario Planning**](../Business/scenario-planning.md) — scenario planning is probabilistic thinking applied to strategy: it makes the distribution of futures explicit rather than collapsing to a single expected-value forecast.
+→ [**A/B Testing**](../Business/ab-testing.md) — statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results correctly requires understanding probability, not just reading outcome metrics.
 
 ## References
 
