@@ -1,10 +1,33 @@
+---
+id: 42
+name: Velocity
+category: Physics & Chemistry
+cardType: standard
+tagline: Speed and direction together
+connections:
+  - id: 18
+    rationale: bottlenecks reduce speed; directional confusion reduces velocity even at full speed.
+  - id: 63
+    rationale: the startup loop designed to maintain directional alignment while moving at speed.
+  - id: 43
+    rationale: organizations in motion tend to maintain direction; changing direction requires deliberate force.
+references:
+  - title: Principia Mathematica
+    authorYear: Isaac Newton (1687)
+    supports: the source definition of velocity as a vector quantity.
+  - title: "Accelerate: The Science of Lean Software and DevOps"
+    authorYear: N. Forsgren, J. Humble & G. Kim (2018)
+    supports: velocity (deployment frequency, lead time) as the primary metric of delivery performance.
+  - title: "Thinking in Systems: A Primer"
+    authorYear: Donella H. Meadows (2008)
+    supports: the stock-and-flow framework clarifies why the direction of flows, not just their rate, determines whether a system reaches its goal.
+---
+
 # Velocity
-*Speed and direction together*
 
 **Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Velocity is a vector quantity — it has both magnitude (speed) and direction. In physics, this distinguishes it from speed, which has only magnitude. A car moving 60mph north and a car moving 60mph south have the same speed but opposite velocities. The practitioner's application: high throughput in the wrong direction is not progress — it is rapid movement away from the goal. Effective velocity requires both speed and directional alignment.
@@ -40,18 +63,6 @@ The practitioner's question is never just "how fast are we going?" but always "h
 A Series A startup is hiring quickly, shipping features at pace, and growing headcount. Six months later, they have doubled the team and have a much larger product. But DAU is flat. Velocity analysis: speed is high (lots of output), direction is questionable (the output isn't moving the metric that matters). The retrospective reveals the team was shipping features on a roadmap set eight months ago, before a significant market shift. Direction had been set correctly at the time; no mechanism existed to detect that the market had moved. The fix is a monthly directional check — does the roadmap still point toward the target? — not an acceleration of the existing roadmap.
 
 ---
-
-## Connections
-
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — bottlenecks reduce speed; directional confusion reduces velocity even at full speed.
-→ [63·Build-Measure-Learn](../Startups/build-measure-learn.md) — the startup loop designed to maintain directional alignment while moving at speed.
-→ [43·Inertia](inertia.md) — organizations in motion tend to maintain direction; changing direction requires deliberate force.
-
-## References
-
-- *Principia Mathematica* — Isaac Newton (1687) — the source definition of velocity as a vector quantity.
-- *Accelerate: The Science of Lean Software and DevOps* — N. Forsgren, J. Humble & G. Kim (2018) — velocity (deployment frequency, lead time) as the primary metric of delivery performance.
-- *Thinking in Systems: A Primer* — Donella H. Meadows (2008) — the stock-and-flow framework clarifies why the direction of flows, not just their rate, determines whether a system reaches its goal.
 
 ---
 

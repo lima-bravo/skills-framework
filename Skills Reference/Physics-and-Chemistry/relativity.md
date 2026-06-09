@@ -1,10 +1,33 @@
+---
+id: 50
+name: Relativity
+category: Physics & Chemistry
+cardType: standard
+tagline: Measurement depends on the reference frame
+connections:
+  - id: 54
+    rationale: anchoring is the psychological mechanism by which reference frames are set and exploited.
+  - id: 7
+    rationale: base rates are reference frames; probabilistic thinking requires choosing the right reference class.
+  - id: 6
+    rationale: the reference frame is part of the map; changing the frame is changing the map.
+references:
+  - title: "Relativity: The Special and the General Theory"
+    authorYear: Albert Einstein (1916)
+    supports: "the source model: no absolute frame of reference; all measurements are observer-dependent."
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: "reference dependence and anchoring: how the frame determines the perceived value."
+  - title: "Einstein: His Life and Universe"
+    authorYear: Walter Isaacson (2007)
+    supports: the intellectual biography tracing how Einstein developed the thought experiments that revealed reference frames as the key to physical measurement.
+---
+
 # Relativity
-*Measurement depends on the reference frame*
 
 **Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 In physics, relativity describes how measurements of space, time, and motion depend on the reference frame of the observer — there is no absolute, observer-independent measurement of many physical quantities. The practical generalization: most judgments, evaluations, and perceptions are relative to a reference point, standard, or comparison set — not absolute. "Good performance," "high price," "fair offer," and "big company" are all relative assessments that change when the reference frame changes.
@@ -40,18 +63,6 @@ Every evaluation implicitly contains a question: "compared to what?" The practit
 A startup raises a £3M seed round. The founder announces this to the team as a significant achievement. One team member's reference frame: they came from Google, where individual product budgets were ten times larger. Another's reference frame: they came from bootstrapped companies where £3M is transformative. The same objective fact is experienced very differently. The founder's job: establish the right reference frame ("for a seed round in our sector at this stage, this puts us in a strong position to do X, Y, Z") so the team's energy is channelled correctly rather than distorted by mismatched comparisons.
 
 ---
-
-## Connections
-
-→ [54·Anchoring](../Psychology/anchoring.md) — anchoring is the psychological mechanism by which reference frames are set and exploited.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — base rates are reference frames; probabilistic thinking requires choosing the right reference class.
-→ [6·Map-Territory](../General-Thinking/map-territory.md) — the reference frame is part of the map; changing the frame is changing the map.
-
-## References
-
-- *Relativity: The Special and the General Theory* — Albert Einstein (1916) — the source model: no absolute frame of reference; all measurements are observer-dependent.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — reference dependence and anchoring: how the frame determines the perceived value.
-- *Einstein: His Life and Universe* — Walter Isaacson (2007) — the intellectual biography tracing how Einstein developed the thought experiments that revealed reference frames as the key to physical measurement.
 
 ---
 

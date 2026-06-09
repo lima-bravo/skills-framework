@@ -1,10 +1,32 @@
+---
+id: 49
+name: Reciprocity
+category: Physics & Chemistry
+cardType: standard
+tagline: Exchange creates obligation
+connections:
+  - id: 51
+    rationale: reciprocity is a social incentive structure that operates even in the absence of formal incentive systems.
+  - id: 101
+    rationale: reciprocity and trust are deeply connected; consistent reciprocation over time builds trust.
+  - id: 82
+    rationale: reciprocal networks (where giving to one member benefits others) are more valuable than transactional ones.
+  - id: 230
+    rationale: "Tit-for-Tat, the most successful strategy in repeated Prisoner's Dilemmas, is a formalisation of reciprocity: cooperate first, then mirror the other player."
+references:
+  - title: "Influence: The Psychology of Persuasion"
+    authorYear: Robert B. Cialdini (1984)
+    supports: reciprocity is explicitly named as the first and most powerful of Cialdini's six principles of influence.
+  - title: "Pre-Suasion: A Revolutionary Way to Influence and Persuade"
+    authorYear: Robert B. Cialdini (2016)
+    supports: the preceding context that makes reciprocity operations more or less effective.
+---
+
 # Reciprocity
-*Exchange creates obligation*
 
 **Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Reciprocity is the social and psychological principle that people feel obligated to return favors, gifts, and concessions. Robert Cialdini identified it as one of the fundamental principles of influence. The mechanism is deep and automatic: receiving something creates a psychological debt that most people are motivated to repay. It operates across cultures, time horizons, and contexts — from gifts in personal relationships to concessions in negotiations to goodwill in business relationships.
@@ -40,18 +62,6 @@ Every exchange creates a credit or debit in an invisible social ledger. Acts of 
 A venture partner makes ten introductions to potential customers for a startup founder — unsolicited, with no request in return. Six months later, when the venture partner asks the founder to speak at their LP event, the answer is immediate and enthusiastic. The small investment in the founder's success created both genuine goodwill and an active sense of reciprocal obligation. The request was well-timed and proportionate. The relationship has deepened in both directions. This is reciprocity operating at its best: genuine generosity that builds relationships in which mutual requests are natural and well-received.
 
 ---
-
-## Connections
-
-→ [51·Incentives](../Psychology/incentives.md) — reciprocity is a social incentive structure that operates even in the absence of formal incentive systems.
-→ [101·Trust](../Psychology/trust.md) — reciprocity and trust are deeply connected; consistent reciprocation over time builds trust.
-→ [82·Network Effects](../Network-Effects/network-effects.md) — reciprocal networks (where giving to one member benefits others) are more valuable than transactional ones.
-→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — Tit-for-Tat, the most successful strategy in repeated Prisoner's Dilemmas, is a formalisation of reciprocity: cooperate first, then mirror the other player.
-
-## References
-
-- *Influence: The Psychology of Persuasion* — Robert B. Cialdini (1984) — reciprocity is explicitly named as the first and most powerful of Cialdini's six principles of influence.
-- *Pre-Suasion: A Revolutionary Way to Influence and Persuade* — Robert B. Cialdini (2016) — the preceding context that makes reciprocity operations more or less effective.
 
 ---
 

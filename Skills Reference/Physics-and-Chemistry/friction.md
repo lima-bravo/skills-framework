@@ -1,10 +1,35 @@
+---
+id: 44
+name: Friction
+category: Physics & Chemistry
+cardType: standard
+tagline: Resistance that slows progress
+connections:
+  - id: 45
+    rationale: activation energy is the specific friction at the start of a process; reducing it is often the highest-leverage friction intervention.
+  - id: 41
+    rationale: low-friction systems produce higher leverage; friction reduces the multiple.
+  - id: 43
+    rationale: friction in the context of directional change is the energy cost of overcoming inertia.
+  - id: 116
+    rationale: scattered meetings are a structural source of compounding cognitive friction; calendar design is friction reduction applied to knowledge work.
+references:
+  - title: "Switch: How to Change Things When Change Is Hard"
+    authorYear: Chip Heath & Dan Heath (2010)
+    supports: "shaping the path: removing friction from desired behaviors."
+  - title: "Nudge: Improving Decisions About Health, Wealth, and Happiness"
+    authorYear: Richard H. Thaler & Cass R. Sunstein (2008)
+    supports: friction as an architectural choice in choice design.
+  - title: "Hooked: How to Build Habit-Forming Products"
+    authorYear: Nir Eyal (2014)
+    supports: "the Hook model's action phase: minimising friction between motivation and behaviour to drive habitual engagement."
+---
+
 # Friction
-*Resistance that slows progress*
 
 **Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Friction is the force that resists relative motion between surfaces in contact. In physics, it converts kinetic energy to heat — useful energy lost to the environment. In practice, friction describes any resistance that converts effort into unproductive overhead: bureaucratic approval processes, miscommunication, unclear decision rights, tool friction, context-switching costs, and trust deficits. Friction doesn't always stop progress; it slows it and makes it more expensive.
@@ -40,19 +65,6 @@ High-performing systems minimize friction on the activities that matter most. Th
 An engineering team's deployment process requires: code review (necessary), integration tests (necessary), manual QA signoff (often necessary), security scan (necessary), infrastructure team availability window (scheduling friction), a deployment tracking spreadsheet update (documentation friction), and a Slack notification to three channels (communication friction). Total elapsed time from code merge to production: 4 days. After a friction audit, scheduling dependencies are eliminated by giving the team own-account deployment rights; the spreadsheet is replaced by an automated changelog; the Slack notifications are automated. Elapsed time: 4 hours. The necessary friction (reviews, tests, scans) was preserved; the unnecessary friction (scheduling, manual documentation) was eliminated.
 
 ---
-
-## Connections
-
-→ [45·Activation Energy](activation-energy.md) — activation energy is the specific friction at the start of a process; reducing it is often the highest-leverage friction intervention.
-→ [41·Leverage](leverage.md) — low-friction systems produce higher leverage; friction reduces the multiple.
-→ [43·Inertia](inertia.md) — friction in the context of directional change is the energy cost of overcoming inertia.
-→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — scattered meetings are a structural source of compounding cognitive friction; calendar design is friction reduction applied to knowledge work.
-
-## References
-
-- *Switch: How to Change Things When Change Is Hard* — Chip Heath & Dan Heath (2010) — shaping the path: removing friction from desired behaviors.
-- *Nudge: Improving Decisions About Health, Wealth, and Happiness* — Richard H. Thaler & Cass R. Sunstein (2008) — friction as an architectural choice in choice design.
-- *Hooked: How to Build Habit-Forming Products* — Nir Eyal (2014) — the Hook model's action phase: minimising friction between motivation and behaviour to drive habitual engagement.
 
 ---
 

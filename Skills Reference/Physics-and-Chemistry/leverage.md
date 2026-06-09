@@ -1,10 +1,37 @@
+---
+id: 41
+name: Leverage
+category: Physics & Chemistry
+cardType: standard
+tagline: Multiply force through mechanism
+connections:
+  - id: 18
+    rationale: applying leverage to bottlenecks produces the highest system-wide return.
+  - id: 21
+    rationale: leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
+  - id: 26
+    rationale: code and algorithms are the highest-leverage form of knowledge work.
+  - id: 44
+    rationale: friction reduces the effective multiple of leverage; a high-leverage action in a high-friction system produces less output than expected.
+  - id: 47
+    rationale: a catalyst creates leverage by making others more productive; the reusable mechanism produces compounding rather than linear returns.
+references:
+  - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
+    authorYear: Charlie Munger, ed. Peter Kaufman (2005)
+    supports: "leverage as a meta-skill: finding the input that moves the most output."
+  - title: "Algorithms to Live By: The Computer Science of Human Decisions"
+    authorYear: Brian Christian & Tom Griffiths (2016)
+    supports: algorithmic leverage and efficient resource allocation.
+  - title: The Feynman Lectures on Physics
+    authorYear: R.P. Feynman, R.B. Leighton & M. Sands (1963)
+    supports: the foundational physics text covering the principle of the lever, mechanical advantage, and how force is multiplied through mechanism.
+---
+
 # Leverage
-*Multiply force through mechanism*
 
 **Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Leverage is the use of a mechanism to multiply input force into greater output force. In physics, a lever allows a small force applied over a large distance to move a large load over a small distance — mechanical advantage. In finance, leverage means using borrowed capital to amplify returns (and losses). In business and life, leverage is any mechanism that produces a disproportionate output relative to input: code that automates a task (one-time effort, indefinite returns), a persuasive argument (one conversation changes many outcomes), or a decision that shapes thousands of subsequent decisions.
@@ -40,20 +67,6 @@ Every action has a leverage multiple: the ratio of output produced to input cons
 A founder spends the first year of her company answering customer support personally. This produces great NPS and deep product insight. It is low leverage: she can handle 15 conversations per day; the company has 15 responses per day to customer problems. She writes a comprehensive customer support handbook based on the 200 most common questions, trains two support staff on it, and builds a self-serve knowledge base. Now 150 responses per day are handled by two people using the handbook, and she handles only genuinely novel issues. Her input (writing the handbook) produced continuing high-leverage output. The leverage multiple on the handbook investment is 10x and growing.
 
 ---
-
-## Connections
-
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — applying leverage to bottlenecks produces the highest system-wide return.
-→ [21·Scale](../Systems/scale.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
-→ [26·Algorithms](../Systems/algorithms.md) — code and algorithms are the highest-leverage form of knowledge work.
-→ [44·Friction](friction.md) — friction reduces the effective multiple of leverage; a high-leverage action in a high-friction system produces less output than expected.
-→ [47·Catalysts](catalysts.md) — a catalyst creates leverage by making others more productive; the reusable mechanism produces compounding rather than linear returns.
-
-## References
-
-- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charlie Munger, ed. Peter Kaufman (2005) — leverage as a meta-skill: finding the input that moves the most output.
-- *Algorithms to Live By: The Computer Science of Human Decisions* — Brian Christian & Tom Griffiths (2016) — algorithmic leverage and efficient resource allocation.
-- *The Feynman Lectures on Physics* — R.P. Feynman, R.B. Leighton & M. Sands (1963) — the foundational physics text covering the principle of the lever, mechanical advantage, and how force is multiplied through mechanism.
 
 ---
 

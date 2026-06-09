@@ -1,10 +1,30 @@
+---
+id: 48
+name: Alloying
+category: Physics & Chemistry
+cardType: standard
+tagline: Combining creates properties neither element has alone
+connections:
+  - id: 19
+    rationale: "alloy properties are emergent: they arise from the combination and cannot be predicted from components alone."
+  - id: 32
+    rationale: "alloying is the counterpoint: specialization goes deep in one element; alloying finds value in the right combination of specialized elements."
+  - id: 87
+    rationale: "the individual-level alloy: deep expertise in one area combined with breadth provides properties (contextual judgment + specialist depth) neither alone produces."
+references:
+  - title: "Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"
+    authorYear: Mark Miodownik (2013)
+    supports: the science and history of alloys as humanity's most transformative material interventions.
+  - title: "The Knowledge: How to Rebuild Our World from Scratch"
+    authorYear: Lewis Dartnell (2014)
+    supports: a guide to rebuilding civilisation from first principles; alloys feature as foundational transformative technologies, illustrating how combination materials unlock capabilities unavailable from any single element.
+---
+
 # Alloying
-*Combining creates properties neither element has alone*
 
 **Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 An alloy is a combination of metals (or a metal with another element) that has properties different from — and usually superior to — any of its components in isolation. Steel (iron + carbon) is stronger than pure iron. Bronze (copper + tin) is harder than copper. Stainless steel (iron + chromium + nickel) resists corrosion that destroys its components individually. The operative concept: combination can produce emergent properties that exceed the sum of parts. The failure mode: some combinations create brittle or corrosive outcomes — not all combinations improve on components.
@@ -40,17 +60,6 @@ Alloying thinking asks: what combination of inputs, approaches, capabilities, or
 A consulting firm combines strategy expertise (good at defining what to do) with engineering execution capability (good at building it). Each capability alone is valuable but incomplete: strategists without builders produce reports that gather dust; builders without strategists build the wrong things. The combination — an alloy — produces a firm that can take a strategic insight all the way to operational deployment. The emergent property: client trust in implementation, not just advice, which neither component would generate alone.
 
 ---
-
-## Connections
-
-→ [19·Emergence](../Systems/emergence.md) — alloy properties are emergent: they arise from the combination and cannot be predicted from components alone.
-→ [32·Specialization](../Economics/specialization.md) — alloying is the counterpoint: specialization goes deep in one element; alloying finds value in the right combination of specialized elements.
-→ [87·T-shaped](../Learning/t-shaped.md) — the individual-level alloy: deep expertise in one area combined with breadth provides properties (contextual judgment + specialist depth) neither alone produces.
-
-## References
-
-- *Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World* — Mark Miodownik (2013) — the science and history of alloys as humanity's most transformative material interventions.
-- *The Knowledge: How to Rebuild Our World from Scratch* — Lewis Dartnell (2014) — a guide to rebuilding civilisation from first principles; alloys feature as foundational transformative technologies, illustrating how combination materials unlock capabilities unavailable from any single element.
 
 ---
 

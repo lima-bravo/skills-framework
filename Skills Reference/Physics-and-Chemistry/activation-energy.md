@@ -1,10 +1,37 @@
+---
+id: 45
+name: Activation Energy
+category: Physics & Chemistry
+cardType: standard
+tagline: The threshold that must be crossed to initiate a process
+connections:
+  - id: 44
+    rationale: activation energy is the specific form of friction at the start of a process.
+  - id: 47
+    rationale: the chemical mechanism for reducing activation energy; organizations have analogous catalysts.
+  - id: 43
+    rationale: activation energy is required to overcome inertia; they are related but distinct.
+  - id: 20
+    rationale: shifting between equilibria requires an energy input to cross the barrier between stable states; activation energy is that barrier's mechanism.
+  - id: 116
+    rationale: every interruption resets the activation energy required to re-enter deep focus; protecting unbroken time eliminates the repeated re-entry cost.
+references:
+  - title: "Switch: How to Change Things When Change Is Hard"
+    authorYear: Chip Heath & Dan Heath (2010)
+    supports: lowering the activation energy of desired behaviors is a central design principle.
+  - title: "Nudge: Improving Decisions About Health, Wealth, and Happiness"
+    authorYear: Richard H. Thaler & Cass R. Sunstein (2008)
+    supports: default architecture as activation energy management.
+  - title: The Feynman Lectures on Physics
+    authorYear: R.P. Feynman, R.B. Leighton & M. Sands (1963)
+    supports: covers chemical kinetics and the energy-barrier concept; the physical foundation for why thermodynamically favourable reactions still require an initial energy input to proceed.
+---
+
 # Activation Energy
-*The threshold that must be crossed to initiate a process*
 
 **Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 In chemistry, activation energy is the minimum energy required to initiate a chemical reaction — even if the reaction is thermodynamically favorable (would release energy overall), it doesn't proceed until the activation energy barrier is overcome. The match that lights a fire provides activation energy; the fire then releases far more energy than the match consumed. In practice: many valuable behaviors, changes, and processes don't happen not because they are undesirable overall, but because the initial barrier is too high.
@@ -40,20 +67,6 @@ Think of a ball sitting in a depression on one side of a hill, with a deeper val
 A company wants engineers to write more documentation. They mandate it, incentivize it, and create a documentation culture initiative. Documentation doesn't improve. The root cause is activation energy: starting a new document from a blank page requires choosing a structure, deciding what level of detail, and confronting imposter syndrome about what's worth writing down. The fix: create document templates for every common document type (ADR, runbook, post-mortem, API spec), assign a "first draft" responsibility for every project milestone, and establish a norm that imperfect documentation beats no documentation. Activation energy drops; documentation output improves.
 
 ---
-
-## Connections
-
-→ [44·Friction](friction.md) — activation energy is the specific form of friction at the start of a process.
-→ [47·Catalysts](catalysts.md) — the chemical mechanism for reducing activation energy; organizations have analogous catalysts.
-→ [43·Inertia](inertia.md) — activation energy is required to overcome inertia; they are related but distinct.
-→ [20·Equilibrium](../Systems/equilibrium.md) — shifting between equilibria requires an energy input to cross the barrier between stable states; activation energy is that barrier's mechanism.
-→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — every interruption resets the activation energy required to re-enter deep focus; protecting unbroken time eliminates the repeated re-entry cost.
-
-## References
-
-- *Switch: How to Change Things When Change Is Hard* — Chip Heath & Dan Heath (2010) — lowering the activation energy of desired behaviors is a central design principle.
-- *Nudge: Improving Decisions About Health, Wealth, and Happiness* — Richard H. Thaler & Cass R. Sunstein (2008) — default architecture as activation energy management.
-- *The Feynman Lectures on Physics* — R.P. Feynman, R.B. Leighton & M. Sands (1963) — covers chemical kinetics and the energy-barrier concept; the physical foundation for why thermodynamically favourable reactions still require an initial energy input to proceed.
 
 ---
 

@@ -1,10 +1,36 @@
+---
+id: 47
+name: Catalysts
+category: Physics & Chemistry
+cardType: standard
+tagline: Lower the barrier without being consumed
+connections:
+  - id: 41
+    rationale: a catalyst creates leverage; the reusable mechanism produces disproportionate output.
+  - id: 45
+    rationale: catalysts work by lowering activation energy.
+  - id: 18
+    rationale: catalysts are most valuable when applied to bottlenecks.
+references:
+  - title: "The Laws of Thermodynamics: A Very Short Introduction"
+    authorYear: Peter Atkins (2010)
+    supports: the physical basis for activation energy and catalysis.
+  - title: "Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"
+    authorYear: Mark Miodownik (2013)
+    supports: the material science of catalytic processes.
+  - title: The Innovator's Dilemma
+    authorYear: Clayton M. Christensen (1997)
+    supports: "disruptive technologies function as industry catalysts: they lower the entry barrier enough for new entrants to initiate a transformation that incumbents cannot."
+  - title: How Innovation Works
+    authorYear: Matt Ridley (2020)
+    supports: "argues that innovation is catalytic rather than heroic: ideas accelerate when they find the right enabling conditions, spreading through recombination rather than single invention."
+---
+
 # Catalysts
-*Lower the barrier without being consumed*
 
 **Category:** [Physics & Chemistry](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A catalyst is a substance that increases the rate of a chemical reaction without being consumed in the process — it lowers the activation energy barrier and then is available to facilitate the next reaction. The catalyst is reusable; it doesn't burn off. In organizations and systems, a catalyst is any intervention, person, tool, or process that enables valuable activity to happen faster or more easily without being depleted in doing so.
@@ -40,19 +66,6 @@ The most valuable organizational investments are often catalytic rather than pro
 A startup builds an internal developer platform: a standardized toolchain, deployment pipeline, and infrastructure templates that any engineer can use to ship a service in hours rather than days. The platform team of four engineers is not shipping customer features — they are building a catalyst. Within six months, the 20 product engineers are shipping at twice their prior velocity. The four-person catalyst team has multiplied the output of the 20-person substrate by a factor of two. This investment would look expensive in the short term (four engineers not shipping features) and produces enormous returns over any reasonable time horizon.
 
 ---
-
-## Connections
-
-→ [41·Leverage](leverage.md) — a catalyst creates leverage; the reusable mechanism produces disproportionate output.
-→ [45·Activation Energy](activation-energy.md) — catalysts work by lowering activation energy.
-→ [18·Bottlenecks](../Systems/bottlenecks.md) — catalysts are most valuable when applied to bottlenecks.
-
-## References
-
-- *The Laws of Thermodynamics: A Very Short Introduction* — Peter Atkins (2010) — the physical basis for activation energy and catalysis.
-- *Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World* — Mark Miodownik (2013) — the material science of catalytic processes.
-- *The Innovator's Dilemma* — Clayton M. Christensen (1997) — disruptive technologies function as industry catalysts: they lower the entry barrier enough for new entrants to initiate a transformation that incumbents cannot.
-- *How Innovation Works* — Matt Ridley (2020) — argues that innovation is catalytic rather than heroic: ideas accelerate when they find the right enabling conditions, spreading through recombination rather than single invention.
 
 ---
 
