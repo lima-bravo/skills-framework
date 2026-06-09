@@ -55,6 +55,7 @@ Google's Project Aristotle studied 180 teams to identify what made teams effecti
 → [**Immunity to Change**](immunity-to-change.md) — psychological safety is the precondition under which immunity work becomes possible; without it, counter-commitments stay hidden rather than surfaced and tested.
 → [**Self-Determination Theory**](self-determination-theory.md) — psychological safety is the social condition that makes autonomy need satisfaction possible; without it, people cannot express genuine views or take the risks that intrinsic motivation requires.
 → [**Observer Bias**](observer-bias.md) — in low-safety environments, evaluators suppress independent judgments and anchor on the dominant view; the social pressure that amplifies observer bias is a direct product of low psychological safety.
+→ [**Red Teaming**](../Business/red-teaming.md) — red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for adversarial output that is actually adversarial.
 
 ## References
 

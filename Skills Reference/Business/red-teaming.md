@@ -73,10 +73,10 @@ None of these were visible to the proposal team — they were too close to the w
 
 ## References
 
-- Zenko, M. (2015) *Red Team: How to Succeed by Thinking Like the Enemy* — Council on Foreign Relations / Basic Books
-- Klein, G. (2007) "Performing a Project Premortem" — *Harvard Business Review* (pre-mortem as lightweight red team)
-- CIA Directorate of Intelligence (2009) *A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis* — foundational source on red teaming in analytical contexts
-- Kahneman, D., Lovallo, D. & Sibony, O. (2011) "Before You Make That Big Decision" — *Harvard Business Review*
+- *Red Team: How to Succeed by Thinking Like the Enemy* — Micah Zenko (2015) — comprehensive treatment of how organisations use adversarial red teams; covers military, intelligence, and corporate applications; documents the recurring failure modes (captured teams, cosmetic exercises) in detail.
+- *"Performing a Project Premortem"* — Gary Klein, *Harvard Business Review* (September 2007) — introduces the pre-mortem as a lightweight adversarial exercise: asking a group to assume the project has failed and reason backward to causes; the most accessible entry point to adversarial planning techniques.
+- *A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis* — CIA Directorate of Intelligence (2009) — foundational intelligence community document on red teaming and structured analytic techniques; describes devil's advocacy, team A/B analysis, and other adversarial methods for stress-testing assessments.
+- *"Before You Make That Big Decision"* — Daniel Kahneman, Dan Lovallo & Olivier Sibony, *Harvard Business Review* (June 2011) — a 12-question checklist for improving strategic decision quality; adversarial review is one of the key recommendations for countering planning and overconfidence bias.
 
 ---
 

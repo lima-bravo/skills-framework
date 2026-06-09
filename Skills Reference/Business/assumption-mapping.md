@@ -51,6 +51,7 @@ A team is planning a new market entry. They list their assumptions and find 35. 
 → [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — the broader diagnostic discipline that surfaces what's known, believed, and unknown about a *situation*; assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortem failure causes typically correspond to critical assumptions that weren't tested; running both surfaces risk from two directions.
 → [**Business Case Construction**](business-case-construction.md) — the business case's "assumption stack" is the primary output of assumption mapping applied to a financial argument; high-criticality, low-certainty assumptions are the ones to stress-test before submission.
+→ [**Red Teaming**](red-teaming.md) — red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of which beliefs are most critical and least supported.
 
 ---
 

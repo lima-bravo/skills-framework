@@ -6111,6 +6111,50 @@
           "color": "#475569"
         }
       ]
+    },
+    {
+      "title": "Red Team: How to Succeed by Thinking Like the Enemy",
+      "authorYear": "Micah Zenko (2015)",
+      "skills": [
+        {
+          "id": 224,
+          "name": "Red Teaming",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "\"Performing a Project Premortem\"",
+      "authorYear": "Gary Klein, Harvard Business Review (September 2007)",
+      "skills": [
+        {
+          "id": 224,
+          "name": "Red Teaming",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis",
+      "authorYear": "CIA Directorate of Intelligence (2009)",
+      "skills": [
+        {
+          "id": 224,
+          "name": "Red Teaming",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "\"Before You Make That Big Decision\"",
+      "authorYear": "Daniel Kahneman, Dan Lovallo & Olivier Sibony, Harvard Business Review (June 2011)",
+      "skills": [
+        {
+          "id": 224,
+          "name": "Red Teaming",
+          "color": "#475569"
+        }
+      ]
     }
   ]
 }
