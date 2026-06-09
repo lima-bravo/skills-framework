@@ -66,13 +66,14 @@ For innovation purposes, unabsorbed slack — particularly in human attention an
 → [**Context-Switching Cost**](../Delivery-and-Flow/context-switching-cost.md) — fragmented attention destroys cognitive slack even when calendar slack nominally exists; the two must be managed together.
 → [**Three Horizons**](three-horizons.md) — H2 and H3 work requires slack; organizations that run H1 at 100% efficiency consume the capacity needed to develop the next horizons.
 → [**Lean Portfolio Management**](../Delivery-and-Flow/lean-portfolio-management.md) — portfolio-level slack policy — explicit capacity reservation for strategic bets — is the mechanism for protecting exploration investment at scale.
+→ [**Parkinson's Law**](parkinsons-law.md) — Parkinson's Law is the failure mode of slack: unstructured spare capacity fills with low-value activity; the value of slack depends on it being deliberately allocated rather than simply available.
+
+---
+
 ## References
 
 - *A Behavioral Theory of the Firm* — Richard M. Cyert & James G. March (1963) — the original formal treatment of organizational slack as a buffer enabling adaptation.
 - *Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency* — Tom DeMarco (2001) — the practitioner case for why eliminating all slack destroys adaptability.
-
-
----
 
 ---
 

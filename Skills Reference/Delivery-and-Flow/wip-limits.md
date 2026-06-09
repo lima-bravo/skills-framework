@@ -50,6 +50,7 @@ A marketing operations team has 22 campaigns in flight across 8 people. Cycle ti
 → [**Bottlenecks**](../Systems/bottlenecks.md) — WIP limits at non-bottleneck stages force the constraint to become visible.
 → [**Flow Efficiency**](flow-efficiency.md) — limiting WIP cuts wait time, which is where most cycle time hides.
 → [**Attention Budget**](attention-budget.md) — individual WIP limits are the personal analogue.
+→ [**Parkinson's Law**](../Business/parkinsons-law.md) — WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion.
 
 ---
 

@@ -57,6 +57,7 @@ A bank's innovation portfolio funds 12 internal startups, each with a 12-month r
 → [**Commitment & Consistency Bias**](../Psychology/commitment-consistency-bias.md) — the structural antidote to consistency bias: pre-specified exit conditions bypass the in-the-moment pressure to remain consistent with prior investment.
 → [**Business Case Construction**](../Business/business-case-construction.md) — every credible business case must state its kill condition at approval time; a case without one is implicitly claiming the investment is unconditional, which is never true.
 → [**Red Teaming**](../Business/red-teaming.md) — red team findings often generate the conditions that should be pre-specified as kill criteria; converting adversarial output into operationally binding exit conditions is how the exercise produces durable accountability.
+→ [**Parkinson's Law**](../Business/parkinsons-law.md) — kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth.
 
 ---
 
