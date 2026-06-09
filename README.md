@@ -60,17 +60,22 @@ Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 
 ## Build pipeline
 
-`docs/deck.html`, `docs/graph.html`, `docs/training-guide.html`, and `docs/skill-primer.html` are **generated**. Do not edit them by hand — edit the source files in `Skills Reference/` and rebuild.
+`docs/deck.html`, `docs/graph.html`, `docs/training-guide.html`, `docs/skill-primer.html`, and `docs/situation-finder.html` are **generated**. Do not edit them by hand — edit source files in `Skills Reference/` and rebuild.
 
 | Source | Role |
 |--------|------|
-| `Skills Reference/**/*.md` | Skill content (Definition, Mental Model, …) |
+| `Skills Reference/**/*.md` | Skill cards: YAML frontmatter + narrative body sections |
 | `Skills Reference/skills-manifest.json` | Stable skill `id`, category, colour; bibliography (`refs`) |
+| `Skills Reference/schemas/skill-card.v1.json` | Card + frontmatter contract |
+| `Skills Reference/AUTHORING.md` | Human authoring guide |
 | `Skills Reference/deck.template.html` | Deck page shell and CSS |
 | `Skills Reference/deck.app.js` | Deck UI logic (search, modals, refs panel) |
 | `scripts/build-deck.mjs` | Assembler → `docs/deck.html` |
-| `scripts/build-graph.mjs` | Graph builder → `docs/graph.html` |
+| `scripts/build-graph.mjs` | Graph builder → `docs/graph.html` (edges from `connections:`) |
 | `scripts/build-guides.mjs` | Guide renderer → `docs/training-guide.html`, `docs/skill-primer.html` |
+| `scripts/build-situation-finder.mjs` | Situation finder → `docs/situation-finder.html` |
+| `scripts/generate-ai-index.mjs` | AI index → `Skills Reference/_ai-index.md` |
+| `scripts/validate-cards.mjs` | Structure + frontmatter ↔ manifest sync (strict in build) |
 
 **Manually maintained** (edit directly in `docs/`):
 
@@ -85,18 +90,24 @@ Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 ### Commands
 
 ```bash
-npm run build             # Rebuild deck, graph, and guides → docs/
-npm run build:cowork      # Generate Claude Cowork / Code Agent plugins → plugins/
-npm run validate:cowork   # Validate generated skills
+npm run build              # Full pipeline: deck, graph, guides, situation-finder, validate, ai-index, counts
+npm run validate:cards     # Card structure (warn-only)
+npm run derive:refs        # Report card refs vs manifest bibliography
+npm run reconcile:refs     # Preview merge; add -- --write to update manifest.refs
+npm run snapshot:test      # Deck/graph metrics vs baseline fixtures
+npm run build:cowork       # Generate Claude Cowork / Code Agent plugins → plugins/
+npm run validate:cowork    # Validate generated skills
 ```
+
+One-off migration scripts (Phases 1–7, complete) live in `scripts/archive/`. `npm run migrate:frontmatter` points there for audit only.
 
 Requires Node.js 18+.
 
 ### Workflow after editing a skill card
 
-1. Edit the relevant `.md` under `Skills Reference/<category>/`.
-2. If you add a **new** skill, append an entry to `skills-manifest.json` (next `id`, `name`, `category`, `color`, `file`).
-3. Run `npm run build`.
+1. Edit frontmatter and/or body in `Skills Reference/<category>/<file>.md` (see `AUTHORING.md`).
+2. If you add a **new** skill, append an entry to `skills-manifest.json` and add `connections:` backlinks on related cards.
+3. Run `npm run build` (and `npm run reconcile:refs -- --write` if references changed).
 4. Open or refresh `docs/deck.html`.
 
 ### Claude Cowork / Code skills
@@ -190,6 +201,14 @@ scripts/
   build-deck.mjs             # Deck HTML build
   build-graph.mjs            # Graph build
   build-guides.mjs           # Guide HTML build
+  build-situation-finder.mjs # Situation finder build
+  generate-ai-index.mjs      # _ai-index.md generator
+  validate-cards.mjs         # Card + frontmatter validator
+  derive-refs.mjs            # Bibliography derivation report
+  reconcile-refs.mjs         # Merge card refs into manifest
+  check-counts.mjs           # Prose count guard (chained in build)
+  lib/                       # Shared parsers (parse-skill, frontmatter, …)
+  archive/                   # Completed one-off migration scripts
   build-cowork-skills.mjs    # Cowork/Code skills build
   cowork-skills.config.json  # Toolkit/chain/plugin mappings
   validate-cowork-skills.mjs

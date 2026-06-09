@@ -3,17 +3,17 @@
 Machine-readable schema: `schemas/skill-card.v1.json`.  
 Canonical registry: `skills-manifest.json` (`id`, `name`, `category`, `color`, `cardType`, `file`).
 
+Every card **must** start with YAML frontmatter. Narrative prose lives in the markdown body.
+
 ## cardType
 
-| Type | When to use | Section model |
-|------|-------------|---------------|
-| `standard` | Default mental-model card | Fixed seven sections (see below) |
-| `chain` | Pre-built Chains category | `## Step 1` … `## Step N`; optional Connections / References |
-| `extended` | Domain cards with extra conceptual sections between Mental Model and Heuristics | Standard seven sections **plus** whitelisted extras (see schema) |
+| Type | When to use | Body section model |
+|------|-------------|-------------------|
+| `standard` | Default mental-model card | Five narrative sections (see below) |
+| `chain` | Pre-built Chains category | `## Step 1` … `## Step N` |
+| `extended` | Extra conceptual sections between Mental Model and Heuristics | Five narrative sections **plus** whitelisted extras (see schema) |
 
-## YAML frontmatter (Phase 7+)
-
-Machine fields live in a YAML block at the top of each card. Narrative sections stay in the markdown body.
+## YAML frontmatter (required)
 
 ```yaml
 ---
@@ -34,12 +34,15 @@ references:
 ---
 ```
 
-- `connections` and `references` must match manifest id/name/category/cardType/tagline.
-- Omit empty `references:` on chain cards.
-- Map trailing reference notes to `supports:`.
-- After migration, `## Connections` and `## References` are removed from the body.
+| Field | Rules |
+|-------|-------|
+| `id`, `name`, `category`, `cardType`, `tagline` | Must match `skills-manifest.json` |
+| `connections` | `[{ id, rationale }]` — use manifest numeric `id`; rationale may be empty only for bare link stubs |
+| `references` | `[{ title, authorYear, supports? }]` — omit key entirely on chain cards with no refs |
 
-## standard / extended — required section order
+After migration, **`## Connections` and `## References` do not appear in the body.**
+
+## standard / extended — body section order
 
 1. `## Definition`
 2. `## Mental Model`
@@ -47,14 +50,11 @@ references:
 4. `## Practitioner Heuristics`
 5. `## Common Failure Modes`
 6. `## Worked Example`
-7. `## Connections`
-8. `## References`
 
-Header block before `## Definition`:
+Header block after frontmatter:
 
 ```markdown
 # Skill Name
-*Tagline in italics*
 
 **Category:** [Category Name](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
@@ -77,36 +77,31 @@ Body…
 ## Step 2 — …
 ```
 
-## Connections format (preferred — id-prefixed)
+Chain frontmatter omits `connections` / `references` when empty.
 
-Use the manifest numeric `id` so the graph resolves without fuzzy name matching:
+## Reference line formats
 
-```markdown
-→ [142·DORA Metrics](../Delivery-and-Flow/dora-metrics.md) — one-line rationale.
-```
-
-Legacy format (still accepted during migration):
+Preferred (title-first):
 
 ```markdown
-→ [**DORA Metrics**](../Delivery-and-Flow/dora-metrics.md) — rationale.
-```
-
-## References format
-
-```markdown
-## References
-
 - *Book Title* — Author Name (Year) — how this source supports the card.
 ```
 
-Each reference must also appear in the build-derived bibliography (Phase 4+).
+Also accepted by the parser (author-first, common on Consulting Craft cards):
+
+```markdown
+- Author, A. (Year) *Book Title*. Publisher. How it supports the card.
+```
+
+Each reference is merged into the build-derived bibliography at `npm run build`. Run `npm run reconcile:refs -- --write` after adding refs to many cards.
 
 ## Adding a new skill
 
-1. Create `{Category}/filename.md` following this contract.
+1. Create `{Category}/filename.md` with frontmatter + body sections per `cardType`.
 2. Append entry to `skills-manifest.json` (next sequential `id`, correct `cardType`).
-3. Add backlinks in related cards' `## Connections` sections.
+3. Add backlinks in related cards' `connections:` arrays (manifest id + rationale).
 4. Run `npm run build` — validator and count checker must pass.
+5. If bibliography changed: `npm run reconcile:refs -- --write`, then `npm run build` again.
 
 ## AI agents
 

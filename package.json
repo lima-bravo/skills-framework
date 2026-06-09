@@ -18,6 +18,7 @@
     "snapshot:test": "node scripts/snapshot-test.mjs",
     "test:parse-skill": "node scripts/lib/parse-skill.test.mjs",
     "test:frontmatter": "node scripts/lib/frontmatter.test.mjs",
+    "migrate:frontmatter": "node scripts/archive/migrate-frontmatter.mjs",
     "check:counts": "node scripts/check-counts.mjs"
   },
   "dependencies": {

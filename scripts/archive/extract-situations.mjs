@@ -5,8 +5,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const HTML = path.join(__dirname, '..', 'docs', 'situation-finder.html');
-const OUT = path.join(__dirname, '..', 'Skills Reference', 'situations.json');
+const HTML = path.join(__dirname, '..', '..', 'docs', 'situation-finder.html');
+const OUT = path.join(__dirname, '..', '..', 'Skills Reference', 'situations.json');
 
 const html = fs.readFileSync(HTML, 'utf8');
 const m = html.match(/const SECTIONS = (\[[\s\S]*?\n\]);/);

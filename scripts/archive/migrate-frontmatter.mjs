@@ -9,10 +9,10 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { REF_DIR, loadManifest, buildLookups } from './lib/manifest.mjs';
-import { resolveConnectionTarget } from './lib/connections.mjs';
-import { parseSkillMarkdown } from './lib/parse-skill.mjs';
-import { hasFrontmatter, stringifyFrontmatter } from './lib/frontmatter.mjs';
+import { REF_DIR, loadManifest, buildLookups } from '../lib/manifest.mjs';
+import { resolveConnectionTarget } from '../lib/connections.mjs';
+import { parseSkillMarkdown } from '../lib/parse-skill.mjs';
+import { hasFrontmatter, stringifyFrontmatter } from '../lib/frontmatter.mjs';
 
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');

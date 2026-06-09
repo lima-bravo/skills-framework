@@ -649,7 +649,9 @@ npm run build && npm run check:counts
 
 ---
 
-## Phase 7 — Recommendation 7: Frontmatter hybrid
+## Phase 7 — Recommendation 7: Frontmatter hybrid ✅ COMPLETE (2026-06-09)
+
+All 262 cards migrated. Machine fields in YAML frontmatter; narrative in body. Step 7.5 (manifest slim-down) skipped per Decision D1=Option A.
 
 ### Step 7.1 — Extend schema for YAML frontmatter
 
@@ -783,34 +785,34 @@ Agents **append one row per completed step**:
 ## Task checklist (copy for issue tracker)
 
 ```
-[ ] 0.1 Baseline snapshot + migration log
-[ ] 0.2 npm script stubs
-[ ] 1.1 cardType in manifest + JSON Schema
-[ ] 1.2 AUTHORING.md
-[ ] 2.1 validate-cards warn mode
-[ ] 2.2 connection-by-id dual support
-[ ] 2.3 migrate all connections to id format
-[ ] 2.4 validator enforced in build
-[ ] 3.1 parse-skill remark module
-[ ] 3.2 deck uses parse-skill
-[ ] 3.3 graph uses parse-skill
-[ ] 3.4 validator uses parse-skill
-[ ] 4.1 derive-refs report-only
-[ ] 4.2 reconcile manifest refs
-[ ] 4.3 build derives refs; drop reference-sections read
-[ ] 4.4 delete reference-sections.json
-[ ] 5.1 _ai-index preamble split
-[ ] 5.2 generate-ai-index.mjs
-[ ] 5.3 ai-index in build pipeline
-[ ] 6.1 extract situations.json
-[ ] 6.2 build situation-finder from template
-[ ] 6.3 document situations source
-[ ] 7.1 frontmatter schema
-[ ] 7.2 pilot frontmatter card
-[ ] 7.3 batch migrate standard cards (per-category commits)
-[ ] 7.4 migrate chain + extended cards
-[ ] 7.5 optional manifest slim-down
-[ ] 7.6 final docs + cleanup
+[x] 0.1 Baseline snapshot + migration log
+[x] 0.2 npm script stubs
+[x] 1.1 cardType in manifest + JSON Schema
+[x] 1.2 AUTHORING.md
+[x] 2.1 validate-cards warn mode
+[x] 2.2 connection-by-id dual support
+[x] 2.3 migrate all connections to id format
+[x] 2.4 validator enforced in build
+[x] 3.1 parse-skill remark module
+[x] 3.2 deck uses parse-skill
+[x] 3.3 graph uses parse-skill
+[x] 3.4 validator uses parse-skill
+[x] 4.1 derive-refs report-only
+[x] 4.2 reconcile manifest refs
+[x] 4.3 build derives refs; drop reference-sections read
+[x] 4.4 delete reference-sections.json
+[x] 5.1 _ai-index preamble split
+[x] 5.2 generate-ai-index.mjs
+[x] 5.3 ai-index in build pipeline
+[x] 6.1 extract situations.json
+[x] 6.2 build situation-finder from template
+[x] 6.3 document situations source
+[x] 7.1 frontmatter schema
+[x] 7.2 pilot frontmatter card
+[x] 7.3 batch migrate standard cards (per-category commits)
+[x] 7.4 migrate chain + extended cards
+[-] 7.5 optional manifest slim-down (skipped — D1=Option A)
+[x] 7.6 final docs + cleanup
 ```
 
 **Estimated commits:** 28–35 (more if Step 7.3 splits per category).

@@ -4,8 +4,8 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
-import { REF_DIR, loadManifest, buildLookups } from './lib/manifest.mjs';
-import { parseConnectionLines, resolveConnectionTarget } from './lib/connections.mjs';
+import { REF_DIR, loadManifest, buildLookups } from '../lib/manifest.mjs';
+import { parseConnectionLines, resolveConnectionTarget } from '../lib/connections.mjs';
 
 function migrateFile(file, lookups) {
   const full = path.join(REF_DIR, file);

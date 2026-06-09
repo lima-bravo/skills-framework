@@ -41,11 +41,9 @@ same voice, same category — no new sections, no id changes).
 7. Update the tracker row: tick the box, set `st:` to `verified` / `fixed` / `flagged`, write the `n:` note. Then update the four counters in the tracker's **Progress** block.
 
 **Counts are guarded.** `npm run check:counts` derives every canonical number from
-`skills-manifest.json` and the generated graph and fails the build on drift. As of
-2026-06-07 it passes (262 skills · 16 categories · 1046 connections · 267 refs · 21
-chains). The one stale spot the checker did *not* guard — the `_ai-index.md` footer —
-has been corrected to 262. If a count legitimately changes during a review, edit the
-card/manifest, run `npm run build`, then let `check:counts` name any prose still to fix.
+`skills-manifest.json` and the generated graph and fails the build on drift. If a count
+legitimately changes during a review, edit the card/manifest, run `npm run build`, then
+let `check:counts` name any prose still to fix.
 
 ---
 
@@ -105,19 +103,19 @@ Single model when:
 
 The `_ai-index.md` is the machine-readable index of the framework. It becomes stale and misleading if not kept in sync. Update it before marking any card-addition task as complete.
 
-**Card authoring contract:** `Skills Reference/AUTHORING.md` and `schemas/skill-card.v1.json` define `cardType`, section order, and connection format.
+**Card authoring contract:** `Skills Reference/AUTHORING.md` and `schemas/skill-card.v1.json` define YAML frontmatter (`id`, `name`, `category`, `cardType`, `tagline`, `connections`, `references`) plus narrative body sections per `cardType`.
 
 **When adding a new card**, follow this two-tier workflow:
 
 **Per card — do immediately for every card added:**
-1. Write the card markdown in `Skills Reference/{Category}/filename.md`
+1. Write the card markdown in `Skills Reference/{Category}/filename.md` (YAML frontmatter + body per `AUTHORING.md`)
 2. Register it in `Skills Reference/skills-manifest.json` with a new sequential ID
-3. Run `npm run build` from the project root — this rebuilds `index.html`, `graph.html`, `training-guide.html`, and `skill-primer.html`
-4. Add backlinks in related cards (update their `## Connections` sections to point to the new card)
-5. Update `Skills Reference/_ai-index.md` — add the skill to its category section (update count), and add to the High-signal clusters table if warranted
+3. Add backlinks in related cards' `connections:` frontmatter arrays
+4. Run `npm run build` — rebuilds deck, graph, guides, situation-finder, `_ai-index.md`; runs `validate:cards --strict` and `check:counts`
+5. Update `Skills Reference/_ai-index.clusters.md` if the skill belongs in a high-signal cluster
 6. Update `Skills Reference/training-guide.md` counts and any relevant cluster sections
-7. Update the skill count in every file listed as **❌ manual (count)** in the build table below — these are not auto-rebuilt and will drift if skipped
-8. Register the new card's `## References` in `skills-manifest.json` under the top-level `refs` array (format: `{title, authorYear, skills: [{id, name, color}]}`). Check for existing entries first — update their `skills` array rather than creating a duplicate. After adding, run `npm run build` again and update the reference count in `README.md` (Sources & References panel line).
+7. Add `references:` in the new card's frontmatter; run `npm run reconcile:refs -- --write`, then `npm run build` again
+8. Update the skill count in every file listed as **❌ manual (count)** in the build table below — these are not auto-rebuilt and will drift if skipped
 
 **End of batch — once all planned cards for the session are complete:**
 
@@ -127,7 +125,7 @@ Before finishing, always ask the user:
 
 Then, when confirmed:
 
-7. Update `docs/situation-finder.html` — for each new card, decide whether it maps to an existing situation (extend the skill list) or warrants a new situation entry. Not every card will qualify; use judgment.
+7. Update `Skills Reference/situations.json` — for each new card, extend an existing situation or add a new entry; run `npm run build` to regenerate `docs/situation-finder.html`
 8. Update `docs/quick-reference.html` — update category counts on page 1 (always needed when a count changes), and add a tagline entry on page 2 if the card has a strong tagline worth memorising.
 
 The reason for batching steps 7–8 is that both files are *views* that benefit from being rebuilt across a whole set of cards at once. The decisions involved — which situations does this card belong to? does this tagline earn a slot? — are better made with all new cards visible together rather than card by card.
@@ -137,18 +135,18 @@ The reason for batching steps 7–8 is that both files are *views* that benefit 
 | File | Rebuilt by `npm run build`? |
 |---|---|
 | `docs/deck.html` (card deck) | ✅ auto — from `skills-manifest.json` + card `.md` files |
-| `docs/graph.html` (connection graph) | ✅ auto — from `## Connections` sections in card files |
+| `docs/graph.html` (connection graph) | ✅ auto — from `connections:` in card frontmatter |
+| `docs/situation-finder.html` | ✅ auto — from `situations.json` + template |
+| `Skills Reference/_ai-index.md` | ✅ auto — from preamble, clusters, manifest |
 | `docs/training-guide.html` | ✅ auto — rendered from `training-guide.md` |
 | `docs/skill-primer.html` | ✅ auto — rendered from `skill-primer.md` |
-| `Skills Reference/_ai-index.md` | ❌ manual (count + inventory) — update by hand |
 | `docs/index.html` | ❌ manual (count) — update Mental Models, Pre-built Chains, Graph Connections stats and matching prose |
-| `docs/situation-finder.html` | ❌ manual — update by hand |
 | `docs/quick-reference.html` | ❌ manual — update by hand |
 | `Skills Reference/skill-primer.md` | ❌ manual (count) — update "one of N" and footer line |
 | `README.md` | ❌ manual (count) — update intro paragraph, repo layout block, and Sources & References count |
 | `CLAUDE.md` (this file) | ❌ manual (count) — update the opening paragraph |
 
-The graph picks up new `## Connections` entries automatically on rebuild — so adding backlinks to existing cards is reflected without any extra step beyond running `npm run build`.
+The graph picks up new `connections:` entries automatically on rebuild — adding backlinks to existing cards is reflected after `npm run build`.
 
 ---
 
@@ -164,8 +162,8 @@ Canonical numbers (do not hand-type these anywhere without updating the prose to
 | Categories | distinct `category` values | 16 |
 | Pre-built chains | category = `Pre-built Chains` | 21 |
 | Non-chain cards | total − chains | 241 |
-| Sources / references | `manifest.refs.length` | 267 |
-| Graph connections | generated `docs/graph.html` | 1045 |
+| Sources / references | `manifest.refs.length` | 391 |
+| Graph connections | generated `docs/graph.html` | 1072 |
 | Plugin (Cowork) skills | `SKILL.md` count under `plugins/` | 59 |
 
 When a count legitimately changes: edit cards/manifest, run `npm run build`, then read the checker output — it names the exact prose lines still to fix. If you reword a sentence that contains a count, update the matching regex in `check-counts.mjs` (a `NO MATCH` warning means the pattern no longer finds its line). This replaces the brittle manual "update the count in every ❌ file" steps above — those edits are still made by hand, but the checker now guarantees they were not missed.
