@@ -55,13 +55,12 @@ An e-commerce team is testing whether a new checkout flow improves conversion. T
 → [**SRK Framework**](../Psychology/srk-framework.md) — novel situations that require knowledge-based reasoning are the ones where structured experiments matter most; SRK identifies which cognitive regime you are in and therefore how much you need experimental evidence before acting.
 → [**Empirical Process Control**](../Delivery-and-Flow/empirical-process-control.md) — experiment design provides the formal structure for EPC's adaptation step: when inspection reveals a gap, a well-designed experiment is the disciplined way to test the response before committing.
 
+---
+
 ## References
 
 - *The Design of Experiments* — Ronald A. Fisher (1935) — the foundational text of controlled experimental design and statistical validity.
 - *Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing* — Ron Kohavi, Diane Tang & Ya Xu (2020) — the modern practitioner guide to experiment design in digital products.
-
-
----
 
 ---
 

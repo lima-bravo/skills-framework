@@ -64,6 +64,7 @@ A product manager is convinced a feature she has championed will improve retenti
 → [**Survivorship Bias**](survivorship-bias.md) — both biases filter evidence; survivorship filters by visibility (the dead don't report), confirmation filters by desirability (we seek what we want to believe).
 → [**Falsification**](falsification.md) — the corrective practice to confirmation bias; where confirmation bias describes the failure mode, falsification is the habit that prevents it.
 → [**Commitment & Consistency Bias**](commitment-consistency-bias.md) — closely related: consistency bias generates the motivation to seek confirming evidence; confirmation bias is the mechanism by which that search is conducted.
+→ [**Experiment Design**](../Business/experiment-design.md) — rigorous experiment design is the structural antidote to confirmation bias in analysis; pre-defined success criteria and blinding remove the experimenter's ability to interpret results selectively.
 
 ## References
 
