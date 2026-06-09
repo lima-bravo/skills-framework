@@ -70,6 +70,7 @@ Decision: adopt cloud-native data platform and managed ML tooling; redirect 60% 
 → [**Scenario Planning**](scenario-planning.md) — Wardley Maps can be projected into the future (where will each component sit in three years?), producing the alternative futures that scenario planning works with.
 → [**Value Creation and Capture**](../Economics/value-creation-capture.md) — evolution along the Wardley axis commoditises components and shifts capture toward those who build on top; mapping reveals where value capture is flowing and why.
 → [**Profit Pool Analysis**](profit-pool-analysis.md) — Wardley Mapping explains whether a profit pool will persist; the structural position on the evolution axis determines whether today's concentration is durable or fragile.
+→ [**Playing to Win**](playing-to-win.md) — a Wardley Map sharpens the where-to-play choice in the cascade by revealing which components are commoditising and which remain differentiating.
 
 ---
 

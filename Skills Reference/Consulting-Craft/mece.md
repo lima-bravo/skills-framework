@@ -52,6 +52,7 @@ A retailer's CFO asks why operating margin is down 3 points. A first analyst res
 → [**Situation Assessment**](situation-assessment.md) — the six-lens current-state scan is only diagnostic if its lenses are MECE; overlapping categories hide where the real issue sits.
 → [**Customer Segmentation**](../Business/customer-segmentation.md) — a worked application of MECE to a strategic-grouping problem: segments that overlap or leave gaps cannot drive a clean targeting or pricing decision.
 → [**Structured Problem Solving**](structured-problem-solving.md) — MECE as one of five components of an integrated operating posture, not a standalone technique.
+→ [**Playing to Win**](../Business/playing-to-win.md) — the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation that would leave the cascade internally inconsistent.
 
 ---
 

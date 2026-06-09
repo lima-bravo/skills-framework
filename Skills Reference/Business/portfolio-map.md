@@ -46,6 +46,7 @@ Google's resource allocation explicitly accounts for the 70-20-10 rule: 70% of r
 → [**Diminishing Returns**](../Systems/diminishing-returns.md) — H1 returns diminish; H2 and H3 investments are hedges against that diminishment.
 → [**Creative Destruction**](../Economics/creative-destruction.md) — H3 is the organization's hedge against being destroyed by external creative destruction.
 → [**Kernel of Good Strategy**](kernel-of-strategy.md) — the portfolio question follows the strategy question: the kernel's diagnosis and guiding policy determine which horizon bets to make and which to cut.
+→ [**Playing to Win**](playing-to-win.md) — portfolio decisions flow from the where-to-play choice in the cascade; Playing to Win makes that linkage explicit rather than leaving portfolio allocation to financial criteria alone.
 
 ---
 

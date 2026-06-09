@@ -49,6 +49,9 @@ A product team has three months before a major launch. They can ship a feature-c
 → [**Debt**](debt.md) — taking on debt is an explicit trade-off between present capability and future flexibility.
 → [**Sunk Cost**](../Psychology/sunk-cost.md) — sunk cost blindness prevents recognising the opportunity cost of continuing a failing investment; past spending is not a forward-looking factor in the trade-off.
 → [**Kernel of Good Strategy**](../Business/kernel-of-strategy.md) — strategy is the structured form of trade-off reasoning: the guiding policy names which trade-offs to accept, and coherent action executes them consistently rather than accommodating every priority.
+→ [**Playing to Win**](../Business/playing-to-win.md) — the how-to-win choice in the cascade is explicitly a trade-off; Playing to Win provides the structure that connects that trade-off to capabilities and management systems.
+
+---
 
 ## References
 

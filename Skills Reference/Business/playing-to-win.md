@@ -51,15 +51,14 @@ A B2B software firm's strategy process produces a comprehensive plan: winning as
 → [**Wardley Mapping**](wardley-mapping.md) — a Wardley Map sharpens the where-to-play choice by revealing which components are commoditizing and which remain differentiating.
 → [**MECE**](../Consulting-Craft/mece.md) — the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation.
 → [**Portfolio Map**](portfolio-map.md) — portfolio decisions flow from where-to-play; the cascade makes the linkage explicit rather than leaving it implicit.
-→ [**Competitive Advantage**](competitive-advantage.md) — the how-to-win choice is an application of competitive-advantage logic; Playing to Win provides the cascade structure that connects that logic to capabilities and management systems.
 
 ---
 
 ## References
 
-- *Playing to Win: How Strategy Really Works* — A.G. Lafley & Roger L. Martin (2013).
-- *The Design of Business* — Roger L. Martin (2009).
-- *Good Strategy / Bad Strategy* — Richard P. Rumelt (2011) — compare with Rumelt's kernel.
+- *Playing to Win: How Strategy Really Works* — A.G. Lafley & Roger L. Martin (2013) — the source text for the five-choice cascade; built from P&G's strategy practice and documented as a generalisable method.
+- *The Design of Business* — Roger L. Martin (2009) — Martin's knowledge-funnel model of how businesses move from mystery to algorithm; the epistemological foundation for how-to-win choices.
+- *Good Strategy / Bad Strategy* — Richard P. Rumelt (2011) — the complementary framework; where Playing to Win specifies the cascade structure, Rumelt specifies what makes the diagnosis and guiding policy coherent.
 
 ---
 
