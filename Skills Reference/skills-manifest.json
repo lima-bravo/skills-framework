@@ -6078,6 +6078,28 @@
           "color": "#0891B2"
         }
       ]
+    },
+    {
+      "title": "A Guide to the Project Management Body of Knowledge (PMBOK Guide)",
+      "authorYear": "Project Management Institute (2021)",
+      "skills": [
+        {
+          "id": 127,
+          "name": "RACI Framework",
+          "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Organization Design: Engaging with Change",
+      "authorYear": "Naomi Stanford (2013)",
+      "skills": [
+        {
+          "id": 127,
+          "name": "RACI Framework",
+          "color": "#475569"
+        }
+      ]
     }
   ]
 }

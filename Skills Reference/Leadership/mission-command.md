@@ -47,6 +47,7 @@ L. David Marquet took command of the USS Santa Fe, the worst-performing submarin
 → [**Span of Control**](../Delivery-and-Flow/span-of-control.md) — effective mission command requires a team small enough for shared understanding of intent; groups larger than Dunbar's 15 cannot maintain the mutual context that autonomous action requires.
 
 → [**Coaching Stance**](../Consulting-Craft/coaching-stance.md) — mission command and coaching stance share the same underlying belief: those closest to the problem have better information than the center, and the center's job is to enable their judgment, not replace it.
+→ [**RACI Framework**](../Business/raci-framework.md) — RACI clarifies who is accountable for each outcome; mission command specifies the intent within which that accountable person acts autonomously.
 
 ## References
 

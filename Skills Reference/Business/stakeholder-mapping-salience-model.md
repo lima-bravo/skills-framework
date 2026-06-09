@@ -48,6 +48,7 @@ A logistics company plans to build a new sorting facility in a mid-sized town. I
 → [**Second-order Effects**](../General-Thinking/second-order-effects.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates. The map is the tool for anticipating this.
 → [**Interdependence**](../Economics/interdependence.md) — stakeholders are nodes in an interdependence web; the salience model helps prioritize which dependencies to manage most actively.
 → [**Stakeholder Pre-Wiring**](../Consulting-Craft/stakeholder-pre-wiring.md) — the engagement-planning counterpart to this card's analysis: salience mapping tells you who matters and how much; pre-wiring tells you what to do about it before the decision meeting.
+→ [**RACI Framework**](raci-framework.md) — RACI operationalises the salience analysis into specific accountability assignments; knowing who matters most (salience) determines whose phone rings when an outcome is missed (RACI).
 
 ---
 

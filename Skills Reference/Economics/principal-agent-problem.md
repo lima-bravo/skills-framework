@@ -60,6 +60,7 @@ A company pays its sales force a commission purely on bookings to align reps (ag
 → [**Tragedy of the Commons**](../Economics/tragedy-of-the-commons.md) — when multiple agents share access to resources owned by a principal, the commons dynamic compounds the agency problem
 → [**Incentive Design**](incentive-design.md) — the constructive discipline: incentive design is how you narrow the gap this model describes
 → [**Free Rider Problem**](free-rider-problem.md) — agents who benefit from a shared resource without contributing create a free-rider structure that compounds the principal-agent misalignment
+→ [**RACI Framework**](../Business/raci-framework.md) — RACI makes accountability expectations explicit so agents can't credibly claim they didn't know who owned the outcome; it is the structural intervention that closes the principal-agent information gap at the task level.
 
 ## References
 
