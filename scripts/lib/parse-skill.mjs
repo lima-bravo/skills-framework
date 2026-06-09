@@ -147,6 +147,31 @@ function parseReferenceLines(body) {
   for (const line of body.split('\n')) {
     const t = line.trim();
     if (!t.startsWith('-')) continue;
+
+    const articleM = t.match(
+      /^-\s*(.+?)\s*\((\d{4}[^)]*)\)\s+"([^"]+)"\s+\*([^*]+)\*\.?\s*(.*)$/,
+    );
+    if (articleM) {
+      refs.push({
+        title: articleM[3].trim(),
+        authorYear: `${articleM[1].trim()} (${articleM[2].trim()}) — ${articleM[4].trim()}`,
+        note: (articleM[5] || '').trim(),
+      });
+      continue;
+    }
+
+    const authorFirst = t.match(/^-\s*(.+?)\s*\((\d{4}[^)]*)\)\s+\*([^*]+)\*\.?\s*(.*)$/);
+    if (authorFirst) {
+      const tail = (authorFirst[4] || '').trim();
+      const dotM = tail.match(/^([^.]+)\.\s*(.*)$/s);
+      refs.push({
+        title: authorFirst[3].trim(),
+        authorYear: `${authorFirst[1].trim()} (${authorFirst[2].trim()})`,
+        note: dotM ? dotM[2].trim() : tail,
+      });
+      continue;
+    }
+
     const m = t.match(/^-\s*\*([^*]+)\*\s*(?:—|-)\s*(.+)$/);
     if (!m) {
       refs.push({ raw: t });

@@ -1,10 +1,42 @@
+---
+id: 161
+name: Hypothesis-Driven Consulting
+category: Consulting Craft
+cardType: standard
+tagline: Frame the work as testable bets, not deliverables
+connections:
+  - id: 162
+    rationale: sub-hypotheses should be mutually exclusive and collectively exhaustive.
+  - id: 163
+    rationale: the communication structure that pairs naturally with hypothesis-driven work.
+  - id: 72
+    rationale: the operational discipline behind testing hypotheses.
+  - id: 10
+    rationale: imagine the hypothesis is wrong; what would tell you?
+  - id: 128
+    rationale: strategy as a falsifiable hypothesis.
+  - id: 246
+    rationale: the fact base a day-one hypothesis must be tested against; without it, the "hypothesis" is a guess about a situation no one has actually examined.
+  - id: 253
+    rationale: hypothesis-driven framing as one of five components of an integrated posture; alone, it risks becoming advocacy dressed as rigor.
+  - id: 247
+    rationale: the binding-constraint diagnosis is a hypothesis until it survives contact with evidence; this card supplies the discipline for testing it cheaply before committing to a full-scale response.
+  - id: 250
+    rationale: choosing a leading indicator is a falsifiable hypothesis about what drives the outcome; KPI architecture is hypothesis-driven thinking applied to measurement design.
+references:
+  - title: The McKinsey Way
+    authorYear: Ethan M. Rasiel (1999).
+  - title: The Pyramid Principle
+    authorYear: Barbara Minto (1987).
+  - title: Bulletproof Problem Solving
+    authorYear: Charles Conn & Robert McLean (2018).
+---
+
 # Hypothesis-Driven Consulting
-*Frame the work as testable bets, not deliverables*
 
 **Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Hypothesis-driven consulting is the discipline of starting an engagement (or workstream within one) by stating the testable hypothesis the work will confirm or falsify, then designing the analysis around the test rather than around boil-the-ocean information gathering. The approach originated in McKinsey's "issue-based problem solving" and was crystallized by Ethan Rasiel (*The McKinsey Way*, 1999) and Barbara Minto (*The Pyramid Principle*). Its discipline: write the answer first, identify what would have to be true for the answer to be correct, and use the workplan to gather evidence specifically on those sub-claims.
@@ -41,26 +73,6 @@ A doctor with a patient runs a differential diagnosis: hypothesize the most like
 A consulting team is engaged to diagnose declining margin in a 40-product portfolio. The instinct is a six-week data dive across all 40 products. Instead, the team writes the day-1 hypothesis: "margin compression is concentrated in the top-10 products and is driven by raw-material cost increases not passed through in pricing." Sub-hypotheses: (a) top-10 products account for >70% of margin loss; (b) raw material costs have risen >X%; (c) price increases on the top-10 lag input increases by >Y%. Two-week test: (a) is true (84%), (b) is true (12% over 18 months), (c) is mostly false (price increases tracked inputs except for two products). The hypothesis updates: margin compression is largely two specific products, not a portfolio-wide phenomenon. The engagement reorients in week three around two products rather than 40, and lands a clear answer in six weeks.
 
 ---
-
-## Connections
-
-→ [162·MECE](mece.md) — sub-hypotheses should be mutually exclusive and collectively exhaustive.
-→ [163·Pyramid Principle](pyramid-principle.md) — the communication structure that pairs naturally with hypothesis-driven work.
-→ [72·Experiment Design](../Business/experiment-design.md) — the operational discipline behind testing hypotheses.
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — imagine the hypothesis is wrong; what would tell you?
-→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — strategy as a falsifiable hypothesis.
-→ [246·Situation Assessment](situation-assessment.md) — the fact base a day-one hypothesis must be tested against; without it, the "hypothesis" is a guess about a situation no one has actually examined.
-→ [253·Structured Problem Solving](structured-problem-solving.md) — hypothesis-driven framing as one of five components of an integrated posture; alone, it risks becoming advocacy dressed as rigor.
-→ [247·Growth Barriers](../Business/growth-barriers.md) — the binding-constraint diagnosis is a hypothesis until it survives contact with evidence; this card supplies the discipline for testing it cheaply before committing to a full-scale response.
-→ [250·KPI Architecture](../Business/kpi-architecture.md) — choosing a leading indicator is a falsifiable hypothesis about what drives the outcome; KPI architecture is hypothesis-driven thinking applied to measurement design.
-
----
-
-## References
-
-- *The McKinsey Way* — Ethan M. Rasiel (1999).
-- *The Pyramid Principle* — Barbara Minto (1987).
-- *Bulletproof Problem Solving* — Charles Conn & Robert McLean (2018).
 
 ---
 

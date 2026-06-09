@@ -1,10 +1,48 @@
+---
+id: 246
+name: Situation Assessment
+category: Consulting Craft
+cardType: standard
+tagline: Before you choose a direction, build the fact base that survives someone else checking it
+connections:
+  - id: 161
+    rationale: situation assessment builds the fact base that a day-one hypothesis must be tested against; skipping it produces hypotheses built on assumption rather than evidence.
+  - id: 162
+    rationale: the six-lens scan is only useful if the lenses are exhaustive and non-overlapping; a current-state view organized around overlapping categories hides where the real issue sits.
+  - id: 122
+    rationale: 'situation assessment is also an act of classification: a "stalled growth" situation may be complicated (analyzable, as in the worked example) or complex (requiring probes before any diagnosis can be trusted).'
+  - id: 247
+    rationale: when the situation assessment surfaces a growth problem specifically, this is the card that takes the diagnosis from "growth has stalled" to "here is the binding constraint."
+  - id: 211
+    rationale: the discipline of stating confidence honestly is what keeps "interpretation" from being smuggled into the document as "fact."
+  - id: 163
+    rationale: once the assessment is built, this is how its implications get communicated without losing the fact/interpretation distinction in the retelling.
+  - id: 199
+    rationale: a fact base built only from the customers, deals, or initiatives still visible today will systematically miss the ones that already left — often the most diagnostic group of all.
+  - id: 73
+    rationale: where situation assessment surfaces what is known and believed about the current state, assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy.
+  - id: 248
+    rationale: profit pool analysis is one lens within a broader current-state view; it specialises the "market position" and "financial performance" dimensions into a single structural question about where profit concentrates and why.
+references:
+  - title: The McKinsey Way
+    authorYear: Rasiel, E. M. (1999)
+    supports: The "fact base before solution" discipline at the center of this card.
+  - title: The Pyramid Principle
+    authorYear: Minto, B. (1987)
+    supports: The structural distinction between situation, complication, and question that frames a defensible current-state read.
+  - title: Bulletproof Problem Solving
+    authorYear: Conn, C. & McLean, R. (2018)
+    supports: The issue-tree method for scanning a situation exhaustively before diagnosing it.
+  - title: Competing Against Luck
+    authorYear: Christensen, C. M. (2016)
+    supports: On distinguishing the presenting symptom from the underlying situation — a recurring trap this card is built to avoid.
+---
+
 # Situation Assessment
-*Before you choose a direction, build the fact base that survives someone else checking it*
 
 **Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Situation assessment is the discipline of building a fact-based, MECE current-state baseline — across financial performance, market position, customer momentum, competitive posture, operating health, and organizational constraints — before debating what to do about it. It is the consulting equivalent of a doctor's intake exam: establish what is actually true, separate that from what is merely believed, and only then move to diagnosis and treatment. The output is not a recommendation. It is a fact base, a momentum read, and an issues list precise enough that a recommendation can be built on top of it without re-litigating "what's actually going on."
@@ -48,27 +86,6 @@ A mid-sized B2B software company asks for help: "growth has stalled and we need 
 The fact base reframes the question entirely. The presenting problem ("we need a new GTM strategy to drive growth") was an interpretation smuggled in as a fact. The actual situation: the company has a *retention* problem caused by an under-resourced customer success function, compounded by new competitive pressure — and a new GTM motion aimed at acquisition would have poured more customers into a leaking bucket. The open question the team flags for the next phase: is the retention drop concentrated in the segment facing new competition, or is it broader — and that single question determines whether the fix is competitive repositioning or operational investment in customer success.
 
 ---
-
-## Connections
-
-→ [161·Hypothesis-Driven Consulting](hypothesis-driven.md) — situation assessment builds the fact base that a day-one hypothesis must be tested against; skipping it produces hypotheses built on assumption rather than evidence.
-→ [162·MECE](mece.md) — the six-lens scan is only useful if the lenses are exhaustive and non-overlapping; a current-state view organized around overlapping categories hides where the real issue sits.
-→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — situation assessment is also an act of classification: a "stalled growth" situation may be complicated (analyzable, as in the worked example) or complex (requiring probes before any diagnosis can be trusted).
-→ [247·Growth Barriers](../Business/growth-barriers.md) — when the situation assessment surfaces a growth problem specifically, this is the card that takes the diagnosis from "growth has stalled" to "here is the binding constraint."
-→ [211·Calibration](../General-Thinking/calibration.md) — the discipline of stating confidence honestly is what keeps "interpretation" from being smuggled into the document as "fact."
-→ [163·Pyramid Principle](pyramid-principle.md) — once the assessment is built, this is how its implications get communicated without losing the fact/interpretation distinction in the retelling.
-→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — a fact base built only from the customers, deals, or initiatives still visible today will systematically miss the ones that already left — often the most diagnostic group of all.
-→ [73·Assumption Mapping](../Business/assumption-mapping.md) — where situation assessment surfaces what is known and believed about the current state, assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy.
-→ [248·Profit Pool Analysis](../Business/profit-pool-analysis.md) — profit pool analysis is one lens within a broader current-state view; it specialises the "market position" and "financial performance" dimensions into a single structural question about where profit concentrates and why.
-
----
-
-## References
-
-- Rasiel, E. M. (1999) *The McKinsey Way*. McGraw-Hill. The "fact base before solution" discipline at the center of this card.
-- Minto, B. (1987) *The Pyramid Principle*. Pearson. The structural distinction between situation, complication, and question that frames a defensible current-state read.
-- Conn, C. & McLean, R. (2018) *Bulletproof Problem Solving*. Wiley. The issue-tree method for scanning a situation exhaustively before diagnosing it.
-- Christensen, C. M. (2016) *Competing Against Luck*. HarperBusiness. On distinguishing the presenting symptom from the underlying situation — a recurring trap this card is built to avoid.
 
 ---
 

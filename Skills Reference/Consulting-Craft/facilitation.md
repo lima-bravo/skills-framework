@@ -1,10 +1,37 @@
+---
+id: 259
+name: Facilitation
+category: Consulting Craft
+cardType: standard
+tagline: The room's intelligence is only as good as the structure you give it.
+connections:
+  - id: 258
+    rationale: facilitation is the set of techniques; coaching stance is the orientation that determines when and how to apply them. A facilitator using expert stance (steering toward a predetermined answer) defeats the purpose of the structure.
+  - id: 252
+    rationale: facilitation builds alignment in the room; pre-wiring builds alignment before the room convenes. Both are needed for high-stakes decisions; pre-wiring without facilitation produces false consensus; facilitation without pre-wiring surfaces alignment gaps that were already known but not named.
+  - id: 104
+    rationale: Liberating Structures reduce the cost of speaking; they do not eliminate it. In low-safety environments, structural protections must be stronger (anonymity, pre-meeting interviews) for genuine intelligence to surface.
+  - id: 246
+    rationale: a well-facilitated session is an effective diagnostic tool; the process of separating fact from interpretation from open question in a group surfaces what the group collectively knows vs. what it is assuming.
+  - id: 253
+    rationale: MECE issue-tree construction can be done as a facilitated group activity; this distributes the framing work and increases the likelihood that important branches are not missed by a single analyst.
+references:
+  - title: "The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation"
+    authorYear: Henri Lipmanowicz & Keith McCandless (2014). liberatingstructures.com.
+  - title: Facilitator's Guide to Participatory Decision-Making
+    authorYear: Sam Kaner (2014; 3rd ed.).
+  - title: "The Art of Gathering: How We Meet and Why It Matters"
+    authorYear: Priya Parker (2018).
+  - title: Humble Consulting
+    authorYear: Edgar H. Schein (2016)
+    supports: coaching stance as the facilitator's orientation.
+---
+
 # Facilitation
-*The room's intelligence is only as good as the structure you give it.*
 
 **Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Facilitation is the practice of designing and running processes that enable a group to think, decide, and act together more effectively than they would without structure. The facilitator's job is not to contribute content but to manage the process by which the group generates content — selecting the right question, choosing the interaction structure, managing airtime, and making invisible dynamics visible. **Liberating Structures** (Keith McCandless & Henri Lipmanowicz, 2014) is the most widely used modern toolkit: 33 microstructures (1-2-4-All, TRIZ, 15% Solutions, What/So What/Now What, Troika Consulting, etc.) that replace conventional meeting formats (open discussion, status updates, managed Q&A) with interaction patterns designed to elicit distributed intelligence rather than centralised authority. The claim of Liberating Structures is that the default meeting formats — presentations and open-mic discussion — are "liberating" in name only; they systematically suppress the knowledge of anyone who is not the most senior or most extroverted person in the room.
@@ -47,23 +74,6 @@ The redesigned session uses a Liberating Structures sequence. Day 1 morning: eac
 The CEO's initial instinct (a major platform investment) is not in the top three. It comes up as a Day 1 idea but does not survive the TRIZ filter, because three of the four things most likely to undermine the strategy require fixing before the platform investment would have impact. This is a finding the CEO accepts — not because the facilitator argued against the investment, but because the leadership team's own thinking, surfaced by the structure, produced a sequencing logic he found compelling.
 
 ---
-
-## Connections
-
-→ [258·Coaching Stance](coaching-stance.md) — facilitation is the set of techniques; coaching stance is the orientation that determines when and how to apply them. A facilitator using expert stance (steering toward a predetermined answer) defeats the purpose of the structure.
-→ [252·Stakeholder Pre-Wiring](stakeholder-pre-wiring.md) — facilitation builds alignment in the room; pre-wiring builds alignment before the room convenes. Both are needed for high-stakes decisions; pre-wiring without facilitation produces false consensus; facilitation without pre-wiring surfaces alignment gaps that were already known but not named.
-→ [104·Psychological Safety](../Psychology/psychological-safety.md) — Liberating Structures reduce the cost of speaking; they do not eliminate it. In low-safety environments, structural protections must be stronger (anonymity, pre-meeting interviews) for genuine intelligence to surface.
-→ [246·Situation Assessment](situation-assessment.md) — a well-facilitated session is an effective diagnostic tool; the process of separating fact from interpretation from open question in a group surfaces what the group collectively knows vs. what it is assuming.
-→ [253·Structured Problem Solving](structured-problem-solving.md) — MECE issue-tree construction can be done as a facilitated group activity; this distributes the framing work and increases the likelihood that important branches are not missed by a single analyst.
-
----
-
-## References
-
-- *The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation* — Henri Lipmanowicz & Keith McCandless (2014). liberatingstructures.com.
-- *Facilitator's Guide to Participatory Decision-Making* — Sam Kaner (2014; 3rd ed.).
-- *The Art of Gathering: How We Meet and Why It Matters* — Priya Parker (2018).
-- *Humble Consulting* — Edgar H. Schein (2016) — coaching stance as the facilitator's orientation.
 
 ---
 

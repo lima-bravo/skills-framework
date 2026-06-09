@@ -1,10 +1,36 @@
+---
+id: 258
+name: Coaching Stance
+category: Consulting Craft
+cardType: standard
+tagline: The expert who always has the answer leaves behind a client who can't function without them.
+connections:
+  - id: 164
+    rationale: coaching stance is a design choice made at the contracting stage; it shapes the whole engagement model, not just individual interactions.
+  - id: 259
+    rationale: coaching stance is the orientation; facilitation provides the specific techniques for building client thinking at scale.
+  - id: 252
+    rationale: building stakeholder alignment before a recommendation is presented is easier when stakeholders have participated in building the diagnosis; coaching stance creates the conditions for genuine pre-wiring.
+  - id: 118
+    rationale: "both coaching stance and mission command share the same underlying belief: the people closest to the problem have better information than the person at the center, and the center's job is to build their capacity to act, not to replace their judgment."
+  - id: 104
+    rationale: coaching stance can only work in an environment where clients feel safe to say "we don't know" and "we were wrong." If the client is managing up, they will not share the real diagnosis regardless of the questions asked.
+references:
+  - title: "Humble Inquiry: The Gentle Art of Asking Instead of Telling"
+    authorYear: Edgar H. Schein (2013).
+  - title: "Humble Consulting: How to Provide Real Help Faster"
+    authorYear: Edgar H. Schein (2016).
+  - title: "Flawless Consulting: A Guide to Getting Your Expertise Used"
+    authorYear: Peter Block (1981; 3rd ed. 2011).
+  - title: The Trusted Advisor
+    authorYear: David H. Maister, Charles H. Green & Robert M. Galford (2000).
+---
+
 # Coaching Stance
-*The expert who always has the answer leaves behind a client who can't function without them.*
 
 **Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Coaching stance is the deliberate choice of a consultant or advisor to engage with a client primarily through questions, inquiry, and reflection rather than through the delivery of expert answers. It is the alternative to **expert stance** — the default mode in which the consultant's value is defined by what they know and diagnose. Edgar Schein's *Humble Inquiry* (2013) and *Humble Consulting* (2016) articulate why expert stance, while appropriate for technical interventions, systematically fails for complex adaptive problems: the client does not develop the diagnostic capability to address the next problem, the consultant's diagnosis is only as good as the access the client allows, and the relationship remains transactional rather than genuinely collaborative. Peter Block's *Flawless Consulting* (1981/2011) frames the same choice as the difference between a pair-of-hands engagement (client specifies the work), a collaborative engagement (shared problem-solving), and an expert engagement (consultant diagnoses and prescribes). Coaching stance is not a permanent alternative to expert stance — it is the stance that builds lasting client capability.
@@ -43,23 +69,6 @@ Two consultants finish the same engagement. The first delivered a 120-slide diag
 A consulting team is brought in to redesign a large organisation's operating model. In week one, the lead partner identifies the core problem — misaligned incentives between regional and central functions — and prepares a diagnosis slide. Before presenting it, the lead partner instead runs a two-hour structured session with the executive team using the Three-Question Ritual: "What is actually happening? Why does this pattern persist? What would need to be different for this to change?" The executives' own answers surface the same incentive misalignment — but formulated in their own language, anchored to their own examples. The diagnosis slide is retired. The leadership team now owns the diagnosis; the consulting team's role shifts to providing frameworks and options for addressing it, not to delivering the answer. When the engagement closes six months later, the client runs the next phase of the redesign internally, using the structured sessions the consulting team introduced. They call back eighteen months later — not because they need more consulting, but because they want to license the facilitation approach for their own internal consulting team.
 
 ---
-
-## Connections
-
-→ [164·Engagement Lifecycle](consulting-engagement.md) — coaching stance is a design choice made at the contracting stage; it shapes the whole engagement model, not just individual interactions.
-→ [259·Facilitation](facilitation.md) — coaching stance is the orientation; facilitation provides the specific techniques for building client thinking at scale.
-→ [252·Stakeholder Pre-Wiring](stakeholder-pre-wiring.md) — building stakeholder alignment before a recommendation is presented is easier when stakeholders have participated in building the diagnosis; coaching stance creates the conditions for genuine pre-wiring.
-→ [118·Mission Command](../Leadership/mission-command.md) — both coaching stance and mission command share the same underlying belief: the people closest to the problem have better information than the person at the center, and the center's job is to build their capacity to act, not to replace their judgment.
-→ [104·Psychological Safety](../Psychology/psychological-safety.md) — coaching stance can only work in an environment where clients feel safe to say "we don't know" and "we were wrong." If the client is managing up, they will not share the real diagnosis regardless of the questions asked.
-
----
-
-## References
-
-- *Humble Inquiry: The Gentle Art of Asking Instead of Telling* — Edgar H. Schein (2013).
-- *Humble Consulting: How to Provide Real Help Faster* — Edgar H. Schein (2016).
-- *Flawless Consulting: A Guide to Getting Your Expertise Used* — Peter Block (1981; 3rd ed. 2011).
-- *The Trusted Advisor* — David H. Maister, Charles H. Green & Robert M. Galford (2000).
 
 ---
 

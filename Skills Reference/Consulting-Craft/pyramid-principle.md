@@ -1,10 +1,42 @@
+---
+id: 163
+name: Pyramid Principle
+category: Consulting Craft
+cardType: standard
+tagline: Answer first. Then support. Then evidence.
+connections:
+  - id: 162
+    rationale: the supporting layer of a pyramid must be MECE.
+  - id: 161
+    rationale: the pyramid is the communication form of the hypothesis.
+  - id: 145
+    rationale: A3 is the one-page form of the same discipline.
+  - id: 91
+    rationale: the executive summary's persuasion comes from framing; the pyramid is the framing's skeleton.
+  - id: 90
+    rationale: the pyramid structure assumes a specific audience and reading mode.
+  - id: 226
+    rationale: the Pyramid Principle operationalises Grice's Maxims of Quantity and Manner in document structure; the Maxims are the underlying theory, the pyramid is one application.
+  - id: 252
+    rationale: the pyramid structures what gets said in the room; pre-wiring is what ensures the room is already disposed to agree with where the structure lands.
+  - id: 253
+    rationale: answer-first delivery as one of five components of an integrated posture; the pyramid is its communication architecture.
+  - id: 218
+    rationale: "the pyramid's answer-first principle applies directly: the approver needs to know what is being asked, why, and on what terms before the supporting analysis, not after."
+references:
+  - title: "The Pyramid Principle: Logic in Writing and Thinking"
+    authorYear: Barbara Minto (1987).
+  - title: The McKinsey Way
+    authorYear: Ethan M. Rasiel (1999).
+  - title: HBR Guide to Better Business Writing
+    authorYear: Bryan A. Garner (2012).
+---
+
 # Pyramid Principle
-*Answer first. Then support. Then evidence.*
 
 **Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Pyramid Principle is a method for structuring written and spoken communication so that the answer comes first, supported by a MECE set of arguments, each in turn supported by evidence. Developed by Barbara Minto at McKinsey and formalized in *The Pyramid Principle* (1987), the structure inverts the academic instinct (build to a conclusion) in favor of the executive instinct (start with the conclusion, prove it on request). The shape is a pyramid: one governing thought at the apex; 2–5 supporting arguments below it; evidence beneath each. The discipline forces clarity on what is being claimed and why.
@@ -43,26 +75,6 @@ Two ways to write the same memo. Bottom-up: "We surveyed customers. We analyzed 
 A consulting team prepares a CFO-facing recommendation on whether to centralize procurement. Draft 1 is bottom-up: 23 slides of category analysis, supplier reviews, savings calculations, ending with a recommendation on slide 24. Reviewing under the Pyramid Principle: rewrite to a 6-slide top-down deck: (slide 1) Recommendation — centralize five categories representing 60% of spend; (slide 2) Three supporting arguments — magnitude of savings, low business-unit disruption, capability transfer feasibility; (slides 3–5) one slide of evidence per argument; (slide 6) implementation considerations. The CFO reads the deck in two minutes, asks two clarifying questions, approves the recommendation. The remaining 20 slides of original analysis become an appendix.
 
 ---
-
-## Connections
-
-→ [162·MECE](mece.md) — the supporting layer of a pyramid must be MECE.
-→ [161·Hypothesis-Driven Consulting](hypothesis-driven.md) — the pyramid is the communication form of the hypothesis.
-→ [145·A3 Problem Solving](../Delivery-and-Flow/a3-problem-solving.md) — A3 is the one-page form of the same discipline.
-→ [91·Framing](../Art/framing.md) — the executive summary's persuasion comes from framing; the pyramid is the framing's skeleton.
-→ [90·Audience](../Art/audience.md) — the pyramid structure assumes a specific audience and reading mode.
-→ [226·Grice's Maxims](../General-Thinking/grices-maxims.md) — the Pyramid Principle operationalises Grice's Maxims of Quantity and Manner in document structure; the Maxims are the underlying theory, the pyramid is one application.
-→ [252·Stakeholder Pre-Wiring](stakeholder-pre-wiring.md) — the pyramid structures what gets said in the room; pre-wiring is what ensures the room is already disposed to agree with where the structure lands.
-→ [253·Structured Problem Solving](structured-problem-solving.md) — answer-first delivery as one of five components of an integrated posture; the pyramid is its communication architecture.
-→ [218·Business Case Construction](../Business/business-case-construction.md) — the pyramid's answer-first principle applies directly: the approver needs to know what is being asked, why, and on what terms before the supporting analysis, not after.
-
----
-
-## References
-
-- *The Pyramid Principle: Logic in Writing and Thinking* — Barbara Minto (1987).
-- *The McKinsey Way* — Ethan M. Rasiel (1999).
-- *HBR Guide to Better Business Writing* — Bryan A. Garner (2012).
 
 ---
 

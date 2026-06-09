@@ -1,10 +1,48 @@
+---
+id: 252
+name: Stakeholder Pre-Wiring
+category: Consulting Craft
+cardType: standard
+tagline: Win the room before the meeting. The meeting is where a decision gets ratified, not where minds get changed.
+connections:
+  - id: 74
+    rationale: 'the analytical precursor: this card answers "who matters and how much"; pre-wiring answers "what do I do about that, in what order, saying what."'
+  - id: 220
+    rationale: the influence-network view that should drive the *sequencing* of pre-wire conversations — talk to the people whose support changes how others receive the message.
+  - id: 221
+    rationale: the broader discipline of moving people toward a position without formal power to compel them; pre-wiring is that discipline applied specifically to the run-up to a decision meeting.
+  - id: 222
+    rationale: "the multi-stakeholder version of pre-wiring: securing early allies whose support changes the calculus for everyone who comes after them."
+  - id: 104
+    rationale: the condition that makes a one-on-one pre-wire conversation actually surface a real objection rather than a polite, performed agreement that resurfaces — unresolved — in the room.
+  - id: 205
+    rationale: once someone has voiced a position privately and had it heard, they are far more likely to hold a consistent, considered position in the room — which is exactly why surfacing resistance early changes how it shows up later.
+  - id: 163
+    rationale: the structure for the formal recommendation; pre-wiring is what ensures the room receiving that structure is already disposed to agree with where it lands.
+  - id: 259
+    rationale: pre-wiring builds alignment before the room; facilitation builds it in the room. Both are needed for high-stakes decisions; pre-wiring without facilitation surfaces alignment gaps that were already known but not named.
+  - id: 258
+    rationale: pre-wiring is easier when the client has been built to diagnose with you rather than waiting for your answer; coaching stance creates the conditions for genuine alignment rather than performed agreement.
+references:
+  - title: What You Don't Know About Making Decisions
+    authorYear: Garvin, D. A. & Roberto, M. A. (2001) — Harvard Business Review
+    supports: On the difference between decision-making as inquiry and decision-making as advocacy — and why the room is rarely where minds actually change.
+  - title: Choosing Strategies for Change
+    authorYear: Kotter, J. P. & Schlesinger, L. A. (1979/2008) — Harvard Business Review
+    supports: The classic taxonomy of approaches to overcoming resistance — communication, participation, negotiation — that a pre-wire plan draws from and sequences.
+  - title: Are You a Collaborative Leader?
+    authorYear: Ibarra, H. & Hansen, M. T. (2011) — Harvard Business Review
+    supports: On building the private relationships that make public collaboration possible.
+  - title: "Influence: The Psychology of Persuasion"
+    authorYear: Cialdini, R. B. (2001)
+    supports: The mechanisms — commitment, reciprocity, social proof — that make pre-wiring work, and that make it different from manipulation when used in service of a recommendation that genuinely serves the stakeholder's interests.
+---
+
 # Stakeholder Pre-Wiring
-*Win the room before the meeting. The meeting is where a decision gets ratified, not where minds get changed.*
 
 **Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Stakeholder pre-wiring is the discipline of engaging the people who must say yes to a recommendation — individually, in advance, and in a sequence designed to surface and resolve resistance — before the formal decision meeting where the recommendation will be presented for approval. It goes beyond mapping who holds influence (the analytical question [Stakeholder Mapping](../Business/stakeholder-mapping-salience-model.md) and [Power Mapping](../Business/power-mapping.md) answer) to the engagement-planning question: what does each of these people need to *believe* before the meeting, where will their resistance come from, and what conversation needs to happen — with whom, in what order, saying what — so that the formal meeting ratifies a decision that has, in substance, already been made.
@@ -49,27 +87,6 @@ Instead, the VP runs a two-week pre-wire sequence. First, a private conversation
 By the time the planning meeting happens, the CFO is a confirmed advocate, the Head of Sales has had the specific objection heard and partly resolved — and walks in prepared to say so rather than to raise it cold — and the VP has already rehearsed, in two real conversations, the two strongest objections the room is likely to raise. The meeting runs long enough to ratify the decision and short enough that no one leaves feeling it was railroaded through.
 
 ---
-
-## Connections
-
-→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — the analytical precursor: this card answers "who matters and how much"; pre-wiring answers "what do I do about that, in what order, saying what."
-→ [220·Power Mapping](../Business/power-mapping.md) — the influence-network view that should drive the *sequencing* of pre-wire conversations — talk to the people whose support changes how others receive the message.
-→ [221·Influence Without Authority](../Leadership/influence-without-authority.md) — the broader discipline of moving people toward a position without formal power to compel them; pre-wiring is that discipline applied specifically to the run-up to a decision meeting.
-→ [222·Coalition Building](../Leadership/coalition-building.md) — the multi-stakeholder version of pre-wiring: securing early allies whose support changes the calculus for everyone who comes after them.
-→ [104·Psychological Safety](../Psychology/psychological-safety.md) — the condition that makes a one-on-one pre-wire conversation actually surface a real objection rather than a polite, performed agreement that resurfaces — unresolved — in the room.
-→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — once someone has voiced a position privately and had it heard, they are far more likely to hold a consistent, considered position in the room — which is exactly why surfacing resistance early changes how it shows up later.
-→ [163·Pyramid Principle](pyramid-principle.md) — the structure for the formal recommendation; pre-wiring is what ensures the room receiving that structure is already disposed to agree with where it lands.
-→ [259·Facilitation](facilitation.md) — pre-wiring builds alignment before the room; facilitation builds it in the room. Both are needed for high-stakes decisions; pre-wiring without facilitation surfaces alignment gaps that were already known but not named.
-→ [258·Coaching Stance](coaching-stance.md) — pre-wiring is easier when the client has been built to diagnose with you rather than waiting for your answer; coaching stance creates the conditions for genuine alignment rather than performed agreement.
-
----
-
-## References
-
-- Garvin, D. A. & Roberto, M. A. (2001) "What You Don't Know About Making Decisions" *Harvard Business Review*. On the difference between decision-making as inquiry and decision-making as advocacy — and why the room is rarely where minds actually change.
-- Kotter, J. P. & Schlesinger, L. A. (1979/2008) "Choosing Strategies for Change" *Harvard Business Review*. The classic taxonomy of approaches to overcoming resistance — communication, participation, negotiation — that a pre-wire plan draws from and sequences.
-- Ibarra, H. & Hansen, M. T. (2011) "Are You a Collaborative Leader?" *Harvard Business Review*. On building the private relationships that make public collaboration possible.
-- Cialdini, R. B. (2001) *Influence: The Psychology of Persuasion*. Allyn & Bacon. The mechanisms — commitment, reciprocity, social proof — that make pre-wiring work, and that make it different from manipulation when used in service of a recommendation that genuinely serves the stakeholder's interests.
 
 ---
 

@@ -1,10 +1,48 @@
+---
+id: 253
+name: Structured Problem Solving
+category: Consulting Craft
+cardType: standard
+tagline: "Five separate disciplines, practiced together, add up to a posture: structure first, lead with the answer, chase the vital few, and never present a finding that doesn't change a decision."
+connections:
+  - id: 161
+    rationale: one of the five integrated components; this card frames it as inseparable from the other four rather than as a standalone technique.
+  - id: 162
+    rationale: the structural discipline that makes a hypothesis testable and an 80/20 ranking trustworthy; without it, both of the other two collapse into guesswork dressed as rigor.
+  - id: 163
+    rationale: the communication architecture that makes answer-first delivery legible; this card treats it as a *posture* component, not merely a slide-writing technique.
+  - id: 151
+    rationale: "the focus discipline that 80/20 thinking specializes into a single operating habit: of everything that could matter, what is the one thing that, if done, makes the rest easier or unnecessary?"
+  - id: 144
+    rationale: "the decision-orientation component restated for delivery contexts: an output that doesn't move an outcome someone cares about is activity, not contribution."
+  - id: 246
+    rationale: the diagnostic discipline that should run *before* this posture engages; you cannot frame a credible day-one hypothesis about a situation you haven't yet honestly looked at.
+  - id: 122
+    rationale: "the boundary condition: this posture is built for complicated problems with enough precedent to support a credible hypothesis; in genuinely complex or chaotic domains, forcing it produces false confidence rather than clarity."
+  - id: 55
+    rationale: the failure mode that the posture's hardest discipline — willingness to rewrite the day-one answer — exists specifically to defend against.
+references:
+  - title: The Pyramid Principle
+    authorYear: Minto, B. (1987)
+    supports: The structural backbone of answer-first communication, and of MECE decomposition as a thinking tool rather than merely a presentation device.
+  - title: The McKinsey Way
+    authorYear: Rasiel, E. M. (1999)
+    supports: The original articulation of "fact-based, structured, hypothesis-driven" as an integrated way of working rather than separable techniques.
+  - title: Bulletproof Problem Solving
+    authorYear: Conn, C. & McLean, R. (2018)
+    supports: The most complete modern treatment of these components as a single integrated method — issue trees, prioritization, hypothesis testing, and synthesis treated as one discipline.
+  - title: Cours d'économie politique
+    authorYear: Pareto, V. (1896)
+  - title: A Leader's Framework for Decision Making
+    authorYear: Snowden, D. J. & Boone, M. E. (2007) — Harvard Business Review
+    supports: The Cynefin distinctions that define where this posture applies cleanly — and where forcing it produces false confidence.
+---
+
 # Structured Problem Solving
-*Five separate disciplines, practiced together, add up to a posture: structure first, lead with the answer, chase the vital few, and never present a finding that doesn't change a decision.*
 
 **Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Structured problem solving is the integrating posture beneath disciplined consulting work — the operating mode in which five component disciplines are practiced *together*, as a single coherent way of working, rather than as separate techniques deployed in isolation. The five components are: **answer-first** communication (lead with the recommendation, then the support), **hypothesis-led** framing (treat the work as a testable bet, not an open-ended search), **MECE structure** (decompose problems exhaustively and without overlap before analyzing them), **80/20 focus** (find the vital few drivers before exhaustively examining the trivial many), and **decision-orientation** (every output should exist to enable a specific choice someone is about to make). Individually, each is a recognizable mental model. Combined and practiced as a single posture, they become something more than the sum: a default mode of engaging with ambiguity that consistently produces clearer thinking, faster convergence, and outputs that survive contact with a skeptical room.
@@ -51,27 +89,6 @@ A team practicing the integrated posture starts differently. **Decision-orientat
 **Answer-first delivery:** the recommendation leads with "close seven stores, not twelve — and treat the other five as a deliberate, time-boxed investment in markets we're committed to, with a name on the calendar for when we'll revisit them." The supporting analysis follows, but the room already has the answer, the logic for the five exceptions, and a date by which the bet will be checked — which is exactly what the actual decision required, and nothing the naive financial ranking would have surfaced.
 
 ---
-
-## Connections
-
-→ [161·Hypothesis-Driven Consulting](hypothesis-driven.md) — one of the five integrated components; this card frames it as inseparable from the other four rather than as a standalone technique.
-→ [162·MECE](mece.md) — the structural discipline that makes a hypothesis testable and an 80/20 ranking trustworthy; without it, both of the other two collapse into guesswork dressed as rigor.
-→ [163·Pyramid Principle](pyramid-principle.md) — the communication architecture that makes answer-first delivery legible; this card treats it as a *posture* component, not merely a slide-writing technique.
-→ [151·Strategic Prioritization ("One Thing")](../Delivery-and-Flow/one-thing.md) — the focus discipline that 80/20 thinking specializes into a single operating habit: of everything that could matter, what is the one thing that, if done, makes the rest easier or unnecessary?
-→ [144·Outcome vs Output](../Delivery-and-Flow/outcome-vs-output.md) — the decision-orientation component restated for delivery contexts: an output that doesn't move an outcome someone cares about is activity, not contribution.
-→ [246·Situation Assessment](situation-assessment.md) — the diagnostic discipline that should run *before* this posture engages; you cannot frame a credible day-one hypothesis about a situation you haven't yet honestly looked at.
-→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — the boundary condition: this posture is built for complicated problems with enough precedent to support a credible hypothesis; in genuinely complex or chaotic domains, forcing it produces false confidence rather than clarity.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the failure mode that the posture's hardest discipline — willingness to rewrite the day-one answer — exists specifically to defend against.
-
----
-
-## References
-
-- Minto, B. (1987) *The Pyramid Principle*. Pearson. The structural backbone of answer-first communication, and of MECE decomposition as a thinking tool rather than merely a presentation device.
-- Rasiel, E. M. (1999) *The McKinsey Way*. McGraw-Hill. The original articulation of "fact-based, structured, hypothesis-driven" as an integrated way of working rather than separable techniques.
-- Conn, C. & McLean, R. (2018) *Bulletproof Problem Solving*. Wiley. The most complete modern treatment of these components as a single integrated method — issue trees, prioritization, hypothesis testing, and synthesis treated as one discipline.
-- Pareto, V. (1896) *Cours d'économie politique*. The origin of the 80/20 observation that, generalized far beyond its economic origins, became the discipline of finding the vital few before examining the trivial many.
-- Snowden, D. J. & Boone, M. E. (2007) "A Leader's Framework for Decision Making" *Harvard Business Review*. The Cynefin distinctions that define where this posture applies cleanly — and where forcing it produces false confidence.
 
 ---
 

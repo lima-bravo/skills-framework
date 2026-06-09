@@ -1,10 +1,38 @@
+---
+id: 164
+name: Engagement Lifecycle
+category: Consulting Craft
+cardType: standard
+tagline: Diagnose — Design — Deliver — Detach
+connections:
+  - id: 165
+    rationale: the contract should match the engagement lifecycle, not just deliverables.
+  - id: 118
+    rationale: "the coaching stance is mission command for the consultant–client relationship: set intent, withdraw, trust execution."
+  - id: 128
+    rationale: the design phase articulates the theory.
+  - id: 125
+    rationale: design and deliver phases run change at the same time.
+  - id: 161
+    rationale: diagnosis runs on hypothesis-driven work.
+  - id: 258
+    rationale: the choice between expert and coaching stance is made at contracting and shapes the entire engagement model.
+  - id: 259
+    rationale: workshop and discovery phases of the engagement lifecycle require facilitation design; structure determines whose intelligence the work uses.
+references:
+  - title: Flawless Consulting
+    authorYear: Peter Block (1981; 3rd ed. 2011).
+  - title: Process Consultation
+    authorYear: Edgar H. Schein (1969).
+  - title: The Trusted Advisor
+    authorYear: David H. Maister, Charles H. Green & Robert M. Galford (2000).
+---
+
 # Engagement Lifecycle
-*Diagnose — Design — Deliver — Detach*
 
 **Category:** [Consulting Craft](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The engagement lifecycle is the explicit shape of a consulting engagement: **Diagnose** (understand the problem and the system), **Design** (propose interventions and align stakeholders), **Deliver** (execute, monitor, adapt), and **Detach** (transfer ownership and exit). Distinguishing these phases — and being honest about which phase the engagement is in — prevents two common failures: rushing to design before diagnosis is honest, and lingering past the appropriate detach. The framing draws on Peter Block's *Flawless Consulting* (1981) and Edgar Schein's *Process Consultation* (1969), updated for modern delivery work.
@@ -41,24 +69,6 @@ A house renovation has the same phases: survey (diagnose), design and permitting
 A 9-month transformation engagement for an insurer. Diagnose (weeks 1–6): value-stream mapping, interview wave, baseline metrics. Design (weeks 7–12): three intervention designs, with the client team co-leading. Deliver (weeks 13–32): pilots, scaling, course corrections; capability-transfer plan kicks off at week 20 with a named successor on the client team. Detach (weeks 33–36): final readouts, knowledge transfer, gradual reduction of consultant hours from 4 days per week to 1, then to zero. Six months post-engagement, the client team continues the improvement program without consultant support; metrics continue to trend in the right direction. Compare with the alternative — a no-detach engagement extends for another 18 months, the client team never builds the capability, and the consultancy is fired in year 3 when the budget tightens.
 
 ---
-
-## Connections
-
-→ [165·Contracting & Scope](contracting-scope.md) — the contract should match the engagement lifecycle, not just deliverables.
-→ [118·Mission Command](../Leadership/mission-command.md) — the coaching stance is mission command for the consultant–client relationship: set intent, withdraw, trust execution.
-→ [128·Theory of Change](../Business/theory-of-change.md) — the design phase articulates the theory.
-→ [125·Change Management](../Leadership/change-management.md) — design and deliver phases run change at the same time.
-→ [161·Hypothesis-Driven Consulting](hypothesis-driven.md) — diagnosis runs on hypothesis-driven work.
-→ [258·Coaching Stance](coaching-stance.md) — the choice between expert and coaching stance is made at contracting and shapes the entire engagement model.
-→ [259·Facilitation](facilitation.md) — workshop and discovery phases of the engagement lifecycle require facilitation design; structure determines whose intelligence the work uses.
-
----
-
-## References
-
-- *Flawless Consulting* — Peter Block (1981; 3rd ed. 2011).
-- *Process Consultation* — Edgar H. Schein (1969).
-- *The Trusted Advisor* — David H. Maister, Charles H. Green & Robert M. Galford (2000).
 
 ---
 
