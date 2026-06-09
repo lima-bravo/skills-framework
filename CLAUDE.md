@@ -94,7 +94,9 @@ Single model when:
 
 ## Maintenance rules
 
-**Always update `Skills Reference/_ai-index.md`** when any of the following change:
+**`_ai-index.md` is generated** by `npm run build` from `_ai-index.preamble.md`, `_ai-index.clusters.md`, and `skills-manifest.json`. Edit those source files, not the inventory section of `_ai-index.md`.
+
+**Always update preamble/clusters/manifest** when any of the following change:
 - A new skill card is added to any category folder
 - An existing card is renamed or removed
 - A new entry is added to `skills-manifest.json`

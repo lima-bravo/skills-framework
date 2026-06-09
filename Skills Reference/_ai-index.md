@@ -4,7 +4,7 @@
 
 ## What this framework is
 
-A library of 241 mental models, each as a standalone markdown card. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 21 cards are pre-built chains (multi-model reasoning sequences for specific decisions).
+A library of mental model cards, each as a standalone markdown file. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 21 cards are pre-built chains (multi-model reasoning sequences for specific decisions.
 
 **Primary use:** Surface the right model(s) for a situation, then apply structured reasoning through heuristics and failure modes.
 
@@ -15,9 +15,9 @@ A library of 241 mental models, each as a standalone markdown card. Cards follow
 | File | Purpose |
 |---|---|
 | `skills-manifest.json` | Canonical registry: all skills with id, name, category, file path, hex color |
-| `index.html` | Interactive card deck (browser). Deep-link: `index.html?open=ID` or `?q=text` |
-| `graph.html` | Connection graph — shows how models relate. Best discovery entry point. |
-| `situation-finder.html` | Situation-to-skill matcher. 62 situations → recommended skill clusters |
+| `docs/deck.html` | Interactive card deck (browser). Deep-link: `deck.html?open=ID` or `?q=text` |
+| `docs/graph.html` | Connection graph — shows how models relate. Best discovery entry point. |
+| `docs/situation-finder.html` | Situation-to-skill matcher |
 | `training-guide.md` | How to use the framework: tiers, chaining, worked scenarios |
 | `skill-primer.md` | Short guide for first-time readers of a single card |
 | `{Category}/filename.md` | Individual skill cards — see inventory below |
@@ -26,11 +26,11 @@ A library of 241 mental models, each as a standalone markdown card. Cards follow
 
 ## How to use
 
-1. **For a specific situation:** Check `situation-finder.html` first — 62 common workplace situations mapped to skill clusters.
-2. **For a topic or keyword:** Search `index.html?q=your+term` or grep the markdown files.
+1. **For a specific situation:** Check `docs/situation-finder.html` first.
+2. **For a topic or keyword:** Search `docs/deck.html?q=your+term` or grep the markdown files.
 3. **For a deep read:** Read a card's **Mental Model** paragraph first, then **Practitioner Heuristics**. Skip Definition if the concept is familiar.
-4. **For chaining models:** Use a Pre-built Chain card (ids 94–100, 117, 130, 168–170, 177–178, 186–187, 198) or consult `training-guide.md` for manual chaining patterns.
-5. **For connections:** Each card's `## Connections` section names related models. The graph at `graph.html` shows the full network.
+4. **For chaining models:** Use a Pre-built Chain card or consult `training-guide.md` for manual chaining patterns.
+5. **For connections:** Each card's `## Connections` section names related models. The graph at `docs/graph.html` shows the full network.
 
 ---
 
@@ -39,7 +39,7 @@ A library of 241 mental models, each as a standalone markdown card. Cards follow
 Format: `id·Name` — file at `Category/filename.md`
 
 ### General Thinking (28 skills) — #3B82F6
-`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry/Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning` `226·Grice's Maxims` `234·Overton Window` `240·Black Swan`
+`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry / Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning` `226·Grice's Maxims` `234·Overton Window` `240·Black Swan`
 
 ### Systems (21 skills) — #0D9488
 `17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure` `235·Path Dependence` `243·Dunbar's Number` `260·Fixes That Fail` `261·Systems Thinking`
@@ -53,11 +53,11 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Psychology (26 skills) — #9333EA
 `51·Incentives` `52·Loss Aversion` `53·Sunk Cost` `54·Anchoring` `55·Confirmation Bias` `56·Availability Bias` `57·Dunning-Kruger` `58·Maslow's Hierarchy of Needs` `59·McClelland's Acquired Needs Theory` `60·Max-Neef's Fundamental Human Needs` `61·ERG Theory` `101·Trust` `104·Psychological Safety` `115·Planning Fallacy` `167·Immunity to Change` `192·Self-Determination Theory` `199·Survivorship Bias` `200·Fundamental Attribution Error` `201·Hindsight Bias` `202·Social Proof` `203·Narrative Instinct` `204·Falsification` `205·Commitment & Consistency Bias` `206·Base Rate Neglect` `207·SRK Framework` `212·Observer Bias`
 
-### Innovation & Entrepreneurship (23 skills) — #DC2626
-`62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder` `237·Cobra Effect`
-
 ### Business (23 skills) — #475569
 `68·Business Model Canvas` `69·Value Prop Canvas` `71·Portfolio Map` `72·Experiment Design` `73·Assumption Mapping` `74·Stakeholder Mapping (Salience Model)` `116·Maker's Schedule vs. Manager's Schedule` `123·Scenario Planning` `127·RACI Framework` `166·Kernel of Good Strategy` `210·Wardley Mapping` `218·Business Case Construction` `219·Pricing Logic` `220·Power Mapping` `224·Red Teaming` `225·A/B Testing` `241·Parkinson's Law` `247·Growth Barriers` `248·Profit Pool Analysis` `249·Customer Segmentation` `250·KPI Architecture` `251·Value Realization` `254·Playing to Win`
+
+### Innovation & Entrepreneurship (23 skills) — #DC2626
+`62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder` `237·Cobra Effect`
 
 ### Mathematics (11 skills) — #4F46E5
 `75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero` `227·Expected Value` `228·Bayesian Updating` `233·Fermi Estimation` `238·Power Law`
@@ -72,7 +72,7 @@ Format: `id·Name` — file at `Category/filename.md`
 `90·Audience` `91·Framing` `92·Contrast` `93·Rhythm`
 
 ### Delivery & Flow (33 skills) — #0891B2
-`131·Little's Law` `132·WIP Limits` `133·Flow Efficiency vs Resource Efficiency` `134·Lead Time vs Cycle Time` `135·Queueing & Wait Time` `136·Batch Size Reduction` `137·Cost of Delay` `138·Kanban Method` `139·Value Stream Mapping` `140·Statistical Variability` `141·Probabilistic Forecasting` `142·DORA Metrics` `143·Flow Metrics` `144·Outcome vs Output` `145·A3 Problem Solving` `146·PDCA` `147·Gemba` `148·Attention Budget` `149·Context-Switching Cost` `150·Cognitive Load (Team)` `151·Strategic Prioritization ("One Thing")` `152·OKRs` `153·Kill Criteria` `154·Team Topologies` `155·Inverse Conway Maneuver` `156·Dependency Management` `157·Feature Factory vs Product Orientation` `158·Lean Portfolio Management` `159·WSJF` `160·Reference Class Forecasting` `209·Empirical Process Control` `255·Technical Debt` `256·Reliability vs. Feature Velocity`
+`131·Little's Law` `132·WIP Limits` `133·Flow Efficiency vs Resource Efficiency` `134·Lead Time vs Cycle Time` `135·Queueing & Wait Time` `136·Batch Size Reduction` `137·Cost of Delay` `138·Kanban Method` `139·Value Stream Mapping` `140·Statistical Variability` `141·Probabilistic Forecasting` `142·DORA Metrics` `143·Flow Metrics` `144·Outcome vs Output` `145·A3 Problem Solving` `146·PDCA` `147·Gemba` `148·Attention Budget` `149·Context-Switching Cost` `150·Cognitive Load (Team)` `151·Strategic Prioritization (“One Thing”)` `152·OKRs` `153·Kill Criteria` `154·Team Topologies` `155·Inverse Conway Maneuver` `156·Dependency Management` `157·Feature Factory vs Product Orientation` `158·Lean Portfolio Management` `159·WSJF` `160·Reference Class Forecasting` `209·Empirical Process Control` `255·Technical Debt` `256·Reliability vs. Feature Velocity`
 
 ### Consulting Craft (10 skills) — #7C3AED
 `161·Hypothesis-Driven Consulting` `162·MECE` `163·Pyramid Principle` `164·Engagement Lifecycle` `165·Contracting & Scope` `246·Situation Assessment` `252·Stakeholder Pre-Wiring` `253·Structured Problem Solving` `258·Coaching Stance` `259·Facilitation`
@@ -85,8 +85,6 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ### Applied AI (3 skills) — #0369A1
 `183·AI Authority Boundaries` `184·Minimal Capability Principle` `185·Prompt Injection`
-
----
 
 ## High-signal clusters (for model chaining)
 
