@@ -1,10 +1,35 @@
+---
+id: 257
+name: Span of Control
+category: Leadership
+cardType: standard
+tagline: Communication links grow as n(n−1)/2. Coordination cost grows with them.
+connections:
+  - id: 154
+    rationale: Team Topologies defines team *types* (stream-aligned, platform, enabling, complicated-subsystem); span of control governs team *size* within each type. Both constraints must be satisfied.
+  - id: 150
+    rationale: team cognitive load is a function of both the complexity of the domain and the coordination overhead of the team size; the two interact.
+  - id: 156
+    rationale: cross-team dependencies scale with the number of teams, which is itself a function of how span-of-control limits have been applied.
+  - id: 155
+    rationale: team size and structure determine what architectures are buildable; span-of-control decisions are therefore architectural decisions.
+  - id: 118
+    rationale: effective mission command requires a team small enough for mutual understanding of intent; teams larger than Dunbar's 15 cannot maintain the shared context that autonomous action requires.
+references:
+  - title: "The Mythical Man-Month: Essays on Software Engineering"
+    authorYear: Frederick P. Brooks Jr. (1975; anniversary edition 1995). Original statement of Brooks's Law.
+  - title: "Team Topologies: Organizing Business and Technology Teams for Fast Flow"
+    authorYear: Matthew Skelton & Manuel Pais (2019).
+  - title: An Introduction to General Systems Thinking
+    authorYear: Gerald M. Weinberg (1975)
+    supports: communication-link analysis.
+---
+
 # Span of Control
-*Communication links grow as n(n−1)/2. Coordination cost grows with them.*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Span of control is the number of direct reports or collaborating people a manager or team can effectively coordinate. As team size grows linearly, the number of possible communication links grows as n(n−1)/2 — so a team of 5 has 10 links, a team of 10 has 45, a team of 15 has 105. This combinatorial growth is the empirical basis for three well-known structural limits: **Brooks's Law** (adding engineers to a late software project makes it later, because each addition creates new communication paths that consume existing team capacity), **Dunbar's numbers** (cognitive limits on stable social relationships: ~5 for close collaboration, ~15 for trust, ~50 for active acquaintance, ~150 for named recognition), and the **recommended team size of 6–10** in most delivery frameworks (Amazon's "two-pizza rule," Scrum's 3–9 members). Span of control sets the outer boundary on team performance that no amount of talent or process can exceed.
@@ -43,23 +68,6 @@ A manager with 3 direct reports has 3 relationships to maintain. A manager with 
 A software delivery program is running 18 months behind schedule. The programme director's response: hire 15 additional engineers across four teams. Six months later, the programme is 24 months behind. A retrospective finds the cause: each of the four teams grew from 8 to 12–15 members. The new members required 4–6 weeks of onboarding from the most experienced engineers on each team; communication overhead in daily standups increased from 15 minutes to 45; the architectural decisions the original teams could make in a single meeting now require cross-team alignment sessions. Net effect: the 15 new engineers added approximately 2 person-months of net capacity while consuming 8 person-months of existing capacity — a negative return. A restructure splits the four large teams into eight teams of 7–8, each with full ownership of one service boundary. Coordination overhead drops; delivery rate recovers to pre-growth levels within two quarters with no further headcount change.
 
 ---
-
-## Connections
-
-→ [154·Team Topologies](../Delivery-and-Flow/team-topologies.md) — Team Topologies defines team *types* (stream-aligned, platform, enabling, complicated-subsystem); span of control governs team *size* within each type. Both constraints must be satisfied.
-→ [150·Cognitive Load (Team)](../Delivery-and-Flow/cognitive-load-team.md) — team cognitive load is a function of both the complexity of the domain and the coordination overhead of the team size; the two interact.
-→ [156·Dependency Management](../Delivery-and-Flow/dependency-management.md) — cross-team dependencies scale with the number of teams, which is itself a function of how span-of-control limits have been applied.
-→ [155·Inverse Conway Maneuver](../Delivery-and-Flow/inverse-conway.md) — team size and structure determine what architectures are buildable; span-of-control decisions are therefore architectural decisions.
-→ [118·Mission Command](mission-command.md) — effective mission command requires a team small enough for mutual understanding of intent; teams larger than Dunbar's 15 cannot maintain the shared context that autonomous action requires.
-
----
-
-## References
-
-- *The Mythical Man-Month: Essays on Software Engineering* — Frederick P. Brooks Jr. (1975; anniversary edition 1995). Original statement of Brooks's Law.
-- "The Dunbar Number, from the Perspective of a Serious Anthropologist" — Robin Dunbar, *Nautilus* (2013).
-- *Team Topologies: Organizing Business and Technology Teams for Fast Flow* — Matthew Skelton & Manuel Pais (2019).
-- *An Introduction to General Systems Thinking* — Gerald M. Weinberg (1975) — communication-link analysis.
 
 ---
 

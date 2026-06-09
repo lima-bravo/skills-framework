@@ -1,10 +1,34 @@
+---
+id: 126
+name: Risk Management
+category: Leadership
+cardType: standard
+tagline: Set risk appetite at board level, manage to residual risk, defend with three lines
+connections:
+  - id: 123
+    rationale: primary tool for external and strategic risk
+  - id: 10
+    rationale: agile risk identification for specific initiatives
+  - id: 24
+    rationale: operational implementation of risk appetite
+  - id: 121
+    rationale: risk governance depends on agents internalising accountability
+  - id: 129
+    rationale: the board sets risk appetite and receives assurance
+references:
+  - title: Enterprise Risk Management — Integrating with Strategy and Performance
+    authorYear: COSO, 2017
+  - title: "Against the Gods: The Remarkable Story of Risk"
+    authorYear: Peter Bernstein, 1996
+  - title: The Failure of Risk Management
+    authorYear: Douglas Hubbard, 2009
+---
+
 # Risk Management
-*Set risk appetite at board level, manage to residual risk, defend with three lines*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Enterprise Risk Management (ERM): the systematic process of identifying, assessing, and responding to risks that could affect an organisation's ability to achieve its objectives. Three foundational concepts: **Risk appetite** (amount of risk the board will accept), **Risk tolerance** (acceptable variation around appetite), and the **Three Lines of Defence** — (1) operations owns risk, (2) risk/compliance provides oversight, (3) internal audit provides independent assurance.
@@ -33,24 +57,6 @@ Think of risk management not as the elimination of risk but as deciding, deliber
 ## Worked Example
 
 A bank's risk function maintains a detailed register, hits every compliance deadline, and reports green across the board — yet carries a concentration of correlated exposures that no one has framed as a single risk because each piece sits within a different team's limits. When the correlated event arrives, the losses dwarf anything in the register. The failure is not missing process; it is process without the discipline behind it. Risk appetite was never set at the level of "how much correlated exposure will we hold in total," so residual risk was managed locally and never aggregated; the third line assured the existence of controls rather than their sufficiency; and the catastrophic tail sat outside the frequent, measurable risks the register was built around. Effective risk management would have started at the top — a board-level statement of appetite for concentration risk — and worked down through aggregated residual-risk reporting and genuinely independent assurance, so the risk the bank carried was a risk it had chosen, not one that accumulated unwatched.
-
-## Connections
-
-→ [123·Scenario Planning](../Business/scenario-planning.md) — primary tool for external and strategic risk
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — agile risk identification for specific initiatives
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — operational implementation of risk appetite
-→ [121·Principal-Agent Problem](../Economics/principal-agent-problem.md) — risk governance depends on agents internalising accountability
-→ [129·Board Governance](board-governance.md) — the board sets risk appetite and receives assurance
-
-## References
-
-**Originators:** COSO ERM framework (2004, updated 2017); ISO 31000; IIA Three Lines of Defence.
-
-- *Enterprise Risk Management — Integrating with Strategy and Performance* — COSO, 2017
-- *Against the Gods: The Remarkable Story of Risk* — Peter Bernstein, 1996
-- *The Failure of Risk Management* — Douglas Hubbard, 2009
-
----
 
 ---
 

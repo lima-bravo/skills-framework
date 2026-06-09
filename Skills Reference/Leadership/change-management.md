@@ -1,10 +1,44 @@
+---
+id: 125
+name: Change Management
+category: Leadership
+cardType: standard
+tagline: "Kotter's 8 steps and ADKAR: the human-side architecture that determines whether strategy execution succeeds or fails"
+connections:
+  - id: 124
+    rationale: Kotter's step 8 only succeeds when new behaviours reach the basic assumptions level
+  - id: 118
+    rationale: enlisting volunteers requires intent-based communication
+  - id: 74
+    rationale: the guiding coalition is built from stakeholder analysis
+  - id: 222
+    rationale: Kotter's guiding coalition is a coalition; this card operationalises how to assemble and sustain it
+  - id: 220
+    rationale: identify who the real decision-makers and opinion leaders are before designing the guiding coalition
+  - id: 122
+    rationale: change approach must match the domain type
+  - id: 127
+    rationale: ambiguous accountability is a top cause of transformation failure
+  - id: 128
+    rationale: Kotter's model is itself a Theory of Change with embedded assumptions about human psychology and organisations; making those assumptions explicit reveals where a specific transformation is most likely to fail.
+  - id: 234
+    rationale: "Overton Window analysis is a prerequisite for change management: understanding what the organisation is currently prepared to accept determines sequencing and pacing."
+  - id: 167
+    rationale: "the missing chapter in most change-management playbooks: why willing, intelligent people consistently fail to change even when the plan is clear."
+references:
+  - title: Leading Change
+    authorYear: John Kotter, 1996
+  - title: "ADKAR: A Model for Change in Business, Government and our Community"
+    authorYear: Jeff Hiatt, 2006
+  - title: Managing Transitions
+    authorYear: William Bridges, 2009
+---
+
 # Change Management
-*Kotter's 8 steps and ADKAR: the human-side architecture that determines whether strategy execution succeeds or fails*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Change Management is the structured approach to transitioning individuals, teams, and organisations from a current state to a desired future state. Two dominant frameworks: **Kotter's 8-Step Model** — create urgency, build a guiding coalition, form a vision, enlist volunteers, enable action, generate short-term wins, sustain acceleration, institute change — and **ADKAR** (Awareness, Desire, Knowledge, Ability, Reinforcement), which focuses on individual-level change readiness.
@@ -33,29 +67,6 @@ Think of change as failing on the human side far more often than the strategic o
 ## Worked Example
 
 A company announces a shift to a customer-centric operating model with a town hall, a new vision statement, and a reorganisation. A year later little has changed: the strategy was sound but the human side was skipped. There was no felt urgency (the business was still profitable), the guiding coalition was an HR-led committee with no line authority to remove obstacles, no short-term wins were engineered to build belief, and — decisively — the sales incentive plan still paid purely on new bookings, so the behaviour the change required (investing in existing-customer success) was punished by the unchanged reward system. ADKAR locates the failures precisely: Awareness was created, Desire was not (no urgency, no incentive), and Reinforcement was actively negative. The corrective is not more communication; it is building the missing conditions — manufacture genuine urgency, install a coalition with real power, ship visible early wins, and realign the incentives so the new behaviour is the rewarded one.
-
-## Connections
-
-→ [124·Organizational Culture](organizational-culture.md) — Kotter's step 8 only succeeds when new behaviours reach the basic assumptions level
-→ [118·Mission Command](mission-command.md) — enlisting volunteers requires intent-based communication
-→ [74·Stakeholder Mapping](../Business/stakeholder-mapping-salience-model.md) — the guiding coalition is built from stakeholder analysis
-→ [222·Coalition Building](coalition-building.md) — Kotter's guiding coalition is a coalition; this card operationalises how to assemble and sustain it
-→ [220·Power Mapping](../Business/power-mapping.md) — identify who the real decision-makers and opinion leaders are before designing the guiding coalition
-→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — change approach must match the domain type
-→ [127·RACI Framework](../Business/raci-framework.md) — ambiguous accountability is a top cause of transformation failure
-→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — Kotter's model is itself a Theory of Change with embedded assumptions about human psychology and organisations; making those assumptions explicit reveals where a specific transformation is most likely to fail.
-→ [234·Overton Window](../General-Thinking/overton-window.md) — Overton Window analysis is a prerequisite for change management: understanding what the organisation is currently prepared to accept determines sequencing and pacing.
-→ [167·Immunity to Change](../Psychology/immunity-to-change.md) — the missing chapter in most change-management playbooks: why willing, intelligent people consistently fail to change even when the plan is clear.
-
-## References
-
-**Originators:** Kurt Lewin (1947), John Kotter (1996), Jeff Hiatt / Prosci ADKAR (1998).
-
-- *Leading Change* — John Kotter, 1996
-- *ADKAR: A Model for Change in Business, Government and our Community* — Jeff Hiatt, 2006
-- *Managing Transitions* — William Bridges, 2009
-
----
 
 ---
 

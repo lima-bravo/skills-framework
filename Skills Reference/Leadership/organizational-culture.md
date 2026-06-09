@@ -1,10 +1,38 @@
+---
+id: 124
+name: Organizational Culture
+category: Leadership
+cardType: standard
+tagline: Culture is what people actually believe about authority, failure, and trust — not what the posters say
+connections:
+  - id: 121
+    rationale: basic assumptions shape how agents interpret their role
+  - id: 120
+    rationale: culture determines what people actually optimise for when explicit metrics are ambiguous
+  - id: 51
+    rationale: incentive structures and basic assumptions interact; changing one without the other produces unpredictable results
+  - id: 104
+    rationale: a measurable artefact of an underlying assumption about whether failure and dissent are safe
+  - id: 118
+    rationale: requires a basic-assumptions level belief that subordinates can be trusted; fails in high-authority cultures
+  - id: 243
+    rationale: culture transmission mechanisms must change as organisations cross Dunbar thresholds; relational transmission fails above ~150 and must be replaced by artefact and ritual.
+  - id: 192
+    rationale: culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed; SDT provides the diagnostic lens for what culture is actually doing to motivation.
+references:
+  - title: Organizational Culture and Leadership
+    authorYear: Edgar Schein, 1985 (5th ed. 2017)
+  - title: The Corporate Culture Survival Guide
+    authorYear: Edgar Schein, 1999
+  - title: An Everyone Culture
+    authorYear: Robert Kegan & Lisa Laskow Lahey, 2016
+---
+
 # Organizational Culture
-*Culture is what people actually believe about authority, failure, and trust — not what the posters say*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Organizational Culture, in Edgar Schein's model, is the pattern of shared basic assumptions a group has learned as it solved problems of external adaptation and internal integration. Schein's decisive contribution was distinguishing three levels:
@@ -39,26 +67,6 @@ Culture change requires surfacing basic assumptions, making explicit what was pr
 ## Worked Example
 
 A company declares "we celebrate intelligent failure" as a new value, with a poster campaign and an internal talk. Six months later nothing has changed: every post-mortem still hunts for someone to blame, and engineers still pad estimates and hide problems until they are undeniable. Schein's model explains why — the intervention targeted the artefact and espoused-values layers while the basic assumption ("failure here is career-threatening") was left intact, and the daily experience of blame-driven post-mortems taught people which level was real. The gap between the espoused value and the observed behaviour is itself the diagnostic: it points straight at the operative assumption. Culture shifts only when a senior leader visibly owns a failure of their own without consequence, protects a team that ran a well-designed experiment that returned a clean negative, and does so repeatedly until the organisation updates what it actually believes about the cost of failure — slow, behavioural work no poster can substitute for.
-
-## Connections
-
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — basic assumptions shape how agents interpret their role
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — culture determines what people actually optimise for when explicit metrics are ambiguous
-→ [51·Incentives](../Psychology/incentives.md) — incentive structures and basic assumptions interact; changing one without the other produces unpredictable results
-→ [104·Psychological Safety](../Psychology/psychological-safety.md) — a measurable artefact of an underlying assumption about whether failure and dissent are safe
-→ [118·Mission Command](mission-command.md) — requires a basic-assumptions level belief that subordinates can be trusted; fails in high-authority cultures
-→ [243·Dunbar's Number](../Systems/dunbars-number.md) — culture transmission mechanisms must change as organisations cross Dunbar thresholds; relational transmission fails above ~150 and must be replaced by artefact and ritual.
-→ [192·Self-Determination Theory](../Psychology/self-determination-theory.md) — culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed; SDT provides the diagnostic lens for what culture is actually doing to motivation.
-
-## References
-
-**Originator:** Edgar Schein (1928–2023), Professor of Management at MIT Sloan School of Management.
-
-- *Organizational Culture and Leadership* — Edgar Schein, 1985 (5th ed. 2017)
-- *The Corporate Culture Survival Guide* — Edgar Schein, 1999
-- *An Everyone Culture* — Robert Kegan & Lisa Laskow Lahey, 2016
-
----
 
 ---
 

@@ -1,10 +1,46 @@
+---
+id: 222
+name: Coalition Building
+category: Leadership
+cardType: standard
+tagline: An idea with one champion is fragile. An idea with a coalition is a movement.
+connections:
+  - id: 220
+    rationale: "the essential prerequisite: the power map identifies who needs to be in the coalition, who the opinion leaders are, and what relationships between potential members already exist. *Build the power map before building the coalition.*"
+  - id: 221
+    rationale: the interpersonal skill set applied to each coalition member individually; coalition building is what happens when those individual influence relationships are assembled into a coherent group. *These cards are complementary — this one addresses the group level, IWA addresses the individual level.*
+  - id: 74
+    rationale: maps who has legitimate standing and what they care about; informs coalition recruitment by identifying the constituencies that must be represented
+  - id: 125
+    rationale: coalition building is the political infrastructure of change management; Kotter's model names the "guiding coalition" as the second step for a reason
+  - id: 205
+    rationale: coalition members who have publicly committed to the initiative are significantly more likely to sustain that support under pressure than those who have only privately agreed
+  - id: 202
+    rationale: the visible size and credibility of the coalition influences undecided stakeholders; announcing coalition membership strategically is a social proof intervention
+  - id: 121
+    rationale: coalition members are agents whose individual interests may not fully align with the coalition's stated purpose; understanding each member's private incentives is necessary for predicting where fracture is most likely
+  - id: 234
+    rationale: moving the Overton Window requires building a coalition of advocates who normalise boundary positions before the main proposal is made; coalition building is the organisational mechanism of window-shifting.
+references:
+  - title: Leading Change
+    authorYear: Kotter, J.P. (1996)
+    supports: 'Chapter 4: "Creating the Guiding Coalition."'
+  - title: The Evolution of Cooperation
+    authorYear: Axelrod, R. (1984)
+    supports: The game-theoretic foundation for understanding coalition stability.
+  - title: "Influence: The Psychology of Persuasion"
+    authorYear: Cialdini, R.B. (1984)
+    supports: Social proof and commitment as coalition mechanics.
+  - title: 3-D Negotiation
+    authorYear: Lax, D.A. & Sebenius, J.K. (2006)
+    supports: Sequencing and deal design in multi-party influence.
+---
+
 # Coalition Building
-*An idea with one champion is fragile. An idea with a coalition is a movement.*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Coalition building is the practice of assembling, aligning, and sustaining a group of stakeholders who share sufficient common interest to support a change initiative — and whose collective support is necessary and sufficient to make it succeed. It is the structural and collective level of organisational influence: where Influence Without Authority addresses the interpersonal dynamics of individual relationships, coalition building addresses how those relationships are assembled into a durable group that can sustain momentum through resistance and setbacks.
@@ -54,26 +90,6 @@ Coalition-building sequence: (1) Power mapping reveals that two divisional heads
 By the time the ExCo discussion occurs, the framework has five active divisional champions, no organised opposition, and the remaining three divisional heads are in a posture of negotiating terms rather than opposing the initiative. The framework is adopted with modifications that reflect the divisional input.
 
 ---
-
-## Connections
-
-→ [220·Power Mapping](../Business/power-mapping.md) — the essential prerequisite: the power map identifies who needs to be in the coalition, who the opinion leaders are, and what relationships between potential members already exist. *Build the power map before building the coalition.*
-→ [221·Influence Without Authority](influence-without-authority.md) — the interpersonal skill set applied to each coalition member individually; coalition building is what happens when those individual influence relationships are assembled into a coherent group. *These cards are complementary — this one addresses the group level, IWA addresses the individual level.*
-→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — maps who has legitimate standing and what they care about; informs coalition recruitment by identifying the constituencies that must be represented
-→ [125·Change Management](change-management.md) — coalition building is the political infrastructure of change management; Kotter's model names the "guiding coalition" as the second step for a reason
-→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — coalition members who have publicly committed to the initiative are significantly more likely to sustain that support under pressure than those who have only privately agreed
-→ [202·Social Proof](../Psychology/social-proof.md) — the visible size and credibility of the coalition influences undecided stakeholders; announcing coalition membership strategically is a social proof intervention
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — coalition members are agents whose individual interests may not fully align with the coalition's stated purpose; understanding each member's private incentives is necessary for predicting where fracture is most likely
-→ [234·Overton Window](../General-Thinking/overton-window.md) — moving the Overton Window requires building a coalition of advocates who normalise boundary positions before the main proposal is made; coalition building is the organisational mechanism of window-shifting.
-
----
-
-## References
-
-- Kotter, J.P. (1996) *Leading Change*. Harvard Business Review Press. Chapter 4: "Creating the Guiding Coalition."
-- Axelrod, R. (1984) *The Evolution of Cooperation*. Basic Books. The game-theoretic foundation for understanding coalition stability.
-- Cialdini, R.B. (1984) *Influence: The Psychology of Persuasion*. Harper Collins. Social proof and commitment as coalition mechanics.
-- Lax, D.A. & Sebenius, J.K. (2006) *3-D Negotiation*. Harvard Business Review Press. Sequencing and deal design in multi-party influence.
 
 ---
 

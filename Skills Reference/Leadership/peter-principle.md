@@ -1,10 +1,35 @@
+---
+id: 242
+name: Peter Principle
+category: Leadership
+cardType: standard
+tagline: In a hierarchy, people rise to their level of incompetence
+connections:
+  - id: 57
+    rationale: people promoted beyond their competence often lack the metacognitive awareness to recognise their own incompetence; Dunning-Kruger compounds the Peter Principle by making self-correction less likely.
+  - id: 121
+    rationale: "the Peter Principle creates principal-agent misalignment: the organisation promotes believing it is rewarding performance, while inadvertently degrading the capability of the role the promoted person now occupies."
+  - id: 51
+    rationale: "the Peter Principle is an incentive design failure: if promotion is the only path to status and compensation, individual contributors are incentivised to pursue roles they may be unsuited for."
+  - id: 243
+    rationale: Peter Principle dynamics are most damaging in large organisations that have grown beyond Dunbar's Number, where informal trust networks can no longer compensate for management incompetence.
+  - id: 241
+    rationale: Parkinson's Law describes how organisations fill the positions that Peter Principle accumulation creates; together they explain much of why large organisations underperform their headcount.
+  - id: 96
+    rationale: the Hiring Decision chain should explicitly address whether promotion is the right mechanism, or whether an external hire or role redesign better serves the need.
+  - id: 124
+    rationale: the Peter Principle accumulates faster in cultures that equate career progression with management hierarchy; cultures that genuinely value specialist excellence are more resistant.
+references:
+  - title: "The Peter Principle: Why Things Always Go Wrong"
+    authorYear: Laurence J. Peter & Raymond Hull (1969)
+    supports: the source text coining the principle and documenting its mechanics.
+---
+
 # Peter Principle
-*In a hierarchy, people rise to their level of incompetence*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Peter Principle, formulated by Laurence J. Peter in 1969, states that in a hierarchical organisation, every employee tends to rise to their level of incompetence. The mechanism: employees are promoted based on their performance in their current role, not on their ability to perform the role they are being promoted into. Promotion continues until the employee reaches a role in which they are no longer competent — at which point they cease to be promoted and remain in that role indefinitely. Over time, every position in the hierarchy tends to be filled by someone who is incompetent to execute it.
@@ -47,20 +72,6 @@ A professional services firm has a star consultant — technically brilliant, ex
 Three years later, the firm has lost its best producer and has an underperforming Partner. What it should have done: created a Principal track that recognised technical excellence and client impact with equivalent status and compensation to Partner, without requiring the transition to a fundamentally different role.
 
 ---
-
-## Connections
-
-→ [57·Dunning-Kruger](../Psychology/dunning-kruger.md) — people promoted beyond their competence often lack the metacognitive awareness to recognise their own incompetence; Dunning-Kruger compounds the Peter Principle by making self-correction less likely.
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — the Peter Principle creates principal-agent misalignment: the organisation promotes believing it is rewarding performance, while inadvertently degrading the capability of the role the promoted person now occupies.
-→ [51·Incentives](../Psychology/incentives.md) — the Peter Principle is an incentive design failure: if promotion is the only path to status and compensation, individual contributors are incentivised to pursue roles they may be unsuited for.
-→ [243·Dunbar's Number](../Systems/dunbars-number.md) — Peter Principle dynamics are most damaging in large organisations that have grown beyond Dunbar's Number, where informal trust networks can no longer compensate for management incompetence.
-→ [241·Parkinson's Law](../Business/parkinsons-law.md) — Parkinson's Law describes how organisations fill the positions that Peter Principle accumulation creates; together they explain much of why large organisations underperform their headcount.
-→ [96·Hiring Decision](../Pre-built-Chains/hiring-decision.md) — the Hiring Decision chain should explicitly address whether promotion is the right mechanism, or whether an external hire or role redesign better serves the need.
-→ [124·Organizational Culture](../Leadership/organizational-culture.md) — the Peter Principle accumulates faster in cultures that equate career progression with management hierarchy; cultures that genuinely value specialist excellence are more resistant.
-## References
-
-- *The Peter Principle: Why Things Always Go Wrong* — Laurence J. Peter & Raymond Hull (1969) — the source text coining the principle and documenting its mechanics.
-
 
 ---
 

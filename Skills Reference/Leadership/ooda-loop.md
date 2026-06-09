@@ -1,10 +1,34 @@
+---
+id: 119
+name: OODA Loop
+category: Leadership
+cardType: standard
+tagline: Observe, Orient, Decide, Act — win by cycling faster than your environment changes
+connections:
+  - id: 118
+    rationale: creates the organisational permission structure for fast OODA cycling
+  - id: 2
+    rationale: Orient must model what your Act will cause others to do next
+  - id: 55
+    rationale: the single biggest degrader of the Orient stage
+  - id: 7
+    rationale: holding multiple orientations in parallel
+  - id: 10
+    rationale: stress-testing the current orientation by running the loop backwards
+references:
+  - title: "boyd: The Fighter Pilot Who Changed the Art of War"
+    authorYear: Robert Coram, 2002
+  - title: Certain to Win
+    authorYear: Chet Richards, 2004
+  - title: The Art of Maneuver
+    authorYear: Robert Leonhard, 1991
+---
+
 # OODA Loop
-*Observe, Orient, Decide, Act — win by cycling faster than your environment changes*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The OODA Loop (Observe → Orient → Decide → Act) is a decision cycle developed by US Air Force Colonel John Boyd from his study of fighter-pilot performance in the Korean War. American F-86 pilots had a better kill ratio against superior MiG-15s because their plane's better visibility and more responsive controls allowed faster decision cycling — completing a new action before the enemy could respond to the last one.
@@ -35,24 +59,6 @@ Executives who seek disconfirming information and hold their mental models loose
 ## Worked Example
 
 A challenger retailer competing against an incumbent with a slow annual planning cycle wins not through a better one-time strategy but by cycling faster. It observes weekly sales and search data, re-orients its assortment continuously, decides on price and inventory changes in days, and acts before the incumbent's quarterly review even convenes. By the time the incumbent has oriented to the challenger's last move and pushed a response through its planning machinery, the challenger has already moved twice. The incumbent is not out-thought on any single decision; it is operating inside a slower loop, and every orientation it forms is responding to a reality the challenger has already left behind.
-
-## Connections
-
-→ [118·Mission Command](mission-command.md) — creates the organisational permission structure for fast OODA cycling
-→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — Orient must model what your Act will cause others to do next
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the single biggest degrader of the Orient stage
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — holding multiple orientations in parallel
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — stress-testing the current orientation by running the loop backwards
-
-## References
-
-**Originator:** John Boyd (1927–1997), US Air Force Colonel, through his unpublished briefings "Patterns of Conflict" and "A Discourse on Winning and Losing."
-
-- *boyd: The Fighter Pilot Who Changed the Art of War* — Robert Coram, 2002
-- *Certain to Win* — Chet Richards, 2004
-- *The Art of Maneuver* — Robert Leonhard, 1991
-
----
 
 ---
 

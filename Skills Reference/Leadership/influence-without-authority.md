@@ -1,10 +1,45 @@
+---
+id: 221
+name: Influence Without Authority
+category: Leadership
+cardType: standard
+tagline: Positional power tells people what to do. Influence makes them want to.
+connections:
+  - id: 220
+    rationale: "the prerequisite diagnostic: understand who has influence and how influence flows before designing your influence approach. *Read Power Mapping first.*"
+  - id: 222
+    rationale: "the collective and structural complement to this card: where Influence Without Authority addresses individual relationships and interpersonal dynamics, Coalition Building addresses assembling and sustaining group-level support. *These cards address related but distinct levels of the same challenge.*"
+  - id: 49
+    rationale: "the foundational mechanism: influence without authority operates largely through reciprocal exchange of genuine value; the physics card applies directly"
+  - id: 205
+    rationale: small initial compliance creates a pattern that makes larger subsequent asks more natural; this bias works in favour of influence-builders who start with small, easy asks
+  - id: 101
+    rationale: the substrate on which influence is built; without trust, credibility claims are not believed and reciprocity offers are treated with suspicion
+  - id: 74
+    rationale: maps who has legitimate standing and what they care about; complements power mapping as input to an influence strategy
+  - id: 121
+    rationale: when you influence an agent whose interests diverge from the principal's, the influence may not produce the organisational outcome you intended; understand whose interests you are actually activating
+  - id: 234
+    rationale: "Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask."
+references:
+  - title: "Influence Without Authority: The Use of Alliances, Reciprocity, and Exchange to Accomplish Work."
+    authorYear: Cohen, A.R. & Bradford, D.L. (1989) — Organizational Dynamics
+    supports: ", 17(3), 4–17. The foundational framework."
+  - title: "Influence: The Psychology of Persuasion"
+    authorYear: Cialdini, R.B. (1984)
+    supports: The six principles of influence.
+  - title: Power and Influence
+    authorYear: Kotter, J.P. (1985)
+  - title: Getting to Yes
+    authorYear: Fisher, R. & Ury, W. (1981)
+    supports: Interest-based negotiation as influence discipline.
+---
+
 # Influence Without Authority
-*Positional power tells people what to do. Influence makes them want to.*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Influence without authority is the capacity to move people and decisions in a desired direction without relying on positional power — formal rank, reporting lines, or control of resources. It operates through credibility (being believed), reciprocity (exchanging value), relationships (trust built over time), and coalition (assembling aligned others). It is the primary mode of operation for consultants, internal change agents, matrix-organisation leaders, and anyone who must lead across boundaries that formal authority does not cross.
@@ -54,26 +89,6 @@ Approach over six weeks: (1) Attends the data engineering team's monthly showcas
 Total elapsed time: eight weeks. No formal authority was used. The outcome was better than if formal escalation had been attempted: the engineering team is actively engaged with the project, not reluctant participants assigned by edict.
 
 ---
-
-## Connections
-
-→ [220·Power Mapping](../Business/power-mapping.md) — the prerequisite diagnostic: understand who has influence and how influence flows before designing your influence approach. *Read Power Mapping first.*
-→ [222·Coalition Building](coalition-building.md) — the collective and structural complement to this card: where Influence Without Authority addresses individual relationships and interpersonal dynamics, Coalition Building addresses assembling and sustaining group-level support. *These cards address related but distinct levels of the same challenge.*
-→ [49·Reciprocity](../Physics-and-Chemistry/reciprocity.md) — the foundational mechanism: influence without authority operates largely through reciprocal exchange of genuine value; the physics card applies directly
-→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — small initial compliance creates a pattern that makes larger subsequent asks more natural; this bias works in favour of influence-builders who start with small, easy asks
-→ [101·Trust](../Psychology/trust.md) — the substrate on which influence is built; without trust, credibility claims are not believed and reciprocity offers are treated with suspicion
-→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — maps who has legitimate standing and what they care about; complements power mapping as input to an influence strategy
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — when you influence an agent whose interests diverge from the principal's, the influence may not produce the organisational outcome you intended; understand whose interests you are actually activating
-→ [234·Overton Window](../General-Thinking/overton-window.md) — Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask.
-
----
-
-## References
-
-- Cohen, A.R. & Bradford, D.L. (1989) "Influence Without Authority: The Use of Alliances, Reciprocity, and Exchange to Accomplish Work." *Organizational Dynamics*, 17(3), 4–17. The foundational framework.
-- Cialdini, R.B. (1984) *Influence: The Psychology of Persuasion*. Harper Collins. The six principles of influence.
-- Kotter, J.P. (1985) *Power and Influence*. Free Press.
-- Fisher, R. & Ury, W. (1981) *Getting to Yes*. Houghton Mifflin. Interest-based negotiation as influence discipline.
 
 ---
 

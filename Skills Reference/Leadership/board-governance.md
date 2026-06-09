@@ -1,10 +1,34 @@
+---
+id: 129
+name: Board Governance
+category: Leadership
+cardType: standard
+tagline: The board sets direction and holds management accountable — it does not manage
+connections:
+  - id: 121
+    rationale: board governance is the institutional architecture for managing owner/executive agency risk
+  - id: 126
+    rationale: the board sets risk appetite and receives assurance that residual risk is within it
+  - id: 127
+    rationale: the board/management boundary is the highest-stakes RACI distinction in the organisation
+  - id: 120
+    rationale: boards that over-rely on quantitative reporting create Goodhart pressure throughout the organisation
+  - id: 124
+    rationale: the board both reflects and shapes organisational culture
+references:
+  - title: Corporate Governance
+    authorYear: Robert Monks & Nell Minow, 5th ed. 2011
+  - title: The Boardroom Imperative
+    authorYear: Ram Charan, 2005
+  - title: OECD Principles of Corporate Governance
+    authorYear: OECD, 2023
+---
+
 # Board Governance
-*The board sets direction and holds management accountable — it does not manage*
 
 **Category:** [Leadership](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Board Governance refers to the systems and principles by which organisations are directed and controlled at the highest level. Three fiduciary duties: **Duty of Care** (act with the diligence of a reasonably prudent person), **Duty of Loyalty** (act in the organisation's interest, not personal interest), **Duty of Obedience** (act in accordance with the organisation's purpose).
@@ -33,24 +57,6 @@ Think of the board as the instrument that holds management accountable without d
 ## Worked Example
 
 The collapses that produced modern governance codes follow one pattern. At Enron, a capable board received the account management chose to give it, approved the off-balance-sheet structures on the strength of that account, and never built the independent line of sight that would have shown the residual risk it was carrying. The failure was not, mainly, fraudulent directors; it was epistemic capture — a board that believed it understood the company because management told it so. The post-Enron architecture (Sarbanes-Oxley, strengthened audit independence, the Cadbury principles before it) is essentially a set of mechanisms to break that capture: independent audit committees, direct board access to assurance, and the separation of oversight from the people being overseen. The lesson for any board, public or private, is that good faith in management is not a substitute for an independent source of truth.
-
-## Connections
-
-→ [121·Principal-Agent Problem](../Economics/principal-agent-problem.md) — board governance is the institutional architecture for managing owner/executive agency risk
-→ [126·Risk Management](risk-management.md) — the board sets risk appetite and receives assurance that residual risk is within it
-→ [127·RACI Framework](../Business/raci-framework.md) — the board/management boundary is the highest-stakes RACI distinction in the organisation
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — boards that over-rely on quantitative reporting create Goodhart pressure throughout the organisation
-→ [124·Organizational Culture](organizational-culture.md) — the board both reflects and shapes organisational culture
-
-## References
-
-**Key frameworks:** Cadbury Report (UK, 1992), Sarbanes-Oxley (US, 2002), King Reports (South Africa), OECD Principles of Corporate Governance (2023).
-
-- *Corporate Governance* — Robert Monks & Nell Minow, 5th ed. 2011
-- *The Boardroom Imperative* — Ram Charan, 2005
-- *OECD Principles of Corporate Governance* — OECD, 2023
-
----
 
 ---
 
