@@ -127,16 +127,36 @@ function parseReferenceLines(body) {
   for (const line of body.split('\n')) {
     const t = line.trim();
     if (!t.startsWith('-')) continue;
-    const m = t.match(/^-\s*\*([^*]+)\*\s*(?:—|-)\s*([^(]+)(?:\((\d{4})\))?\s*(?:—|-)\s*(.*)/);
-    if (m) {
+    // - *Title* — Author (Year) — note
+    const m = t.match(/^-\s*\*([^*]+)\*\s*(?:—|-)\s*(.+)$/);
+    if (!m) {
+      refs.push({ raw: t });
+      continue;
+    }
+    const rest = m[2].trim();
+    const yearM = rest.match(/^(.+?)\s*\((\d{4}[^)]*)\)\s*(?:—|-)\s*(.*)$/);
+    if (yearM) {
       refs.push({
         title: m[1].trim(),
-        authorYear: `${m[2].trim()}${m[3] ? ` (${m[3]})` : ''}`.trim(),
-        note: (m[4] || '').trim(),
+        authorYear: `${yearM[1].trim()} (${yearM[2].trim()})`,
+        note: (yearM[3] || '').trim(),
       });
       continue;
     }
-    refs.push({ raw: t });
+    const dashM = rest.match(/^(.+?)\s*(?:—|-)\s*(.*)$/);
+    if (dashM && dashM[2]) {
+      refs.push({
+        title: m[1].trim(),
+        authorYear: dashM[1].trim(),
+        note: dashM[2].trim(),
+      });
+      continue;
+    }
+    refs.push({
+      title: m[1].trim(),
+      authorYear: rest,
+      note: '',
+    });
   }
   return refs;
 }
