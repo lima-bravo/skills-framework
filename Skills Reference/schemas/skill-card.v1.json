@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "skill-card.v1.json",
+  "title": "Skills Framework card contract (v1)",
+  "description": "Section and metadata rules per cardType. Narrative body stays markdown; machine fields migrate to YAML frontmatter in Phase 7.",
+  "type": "object",
+  "properties": {
+    "cardType": {
+      "type": "string",
+      "enum": ["standard", "chain", "extended"]
+    }
+  },
+  "cardTypes": {
+    "standard": {
+      "requiredSections": [
+        "Definition",
+        "Mental Model",
+        "Practitioner Heuristics",
+        "Common Failure Modes",
+        "Worked Example",
+        "Connections",
+        "References"
+      ],
+      "sectionOrder": "requiredSections must appear in this order; no extra ## sections allowed"
+    },
+    "chain": {
+      "requiredSections": [],
+      "stepSectionPattern": "^Step \\d+",
+      "minStepSections": 1,
+      "optionalSections": ["Connections", "References"]
+    },
+    "extended": {
+      "requiredSections": [
+        "Definition",
+        "Mental Model",
+        "Practitioner Heuristics",
+        "Common Failure Modes",
+        "Worked Example",
+        "Connections",
+        "References"
+      ],
+      "extraSectionsAllowedAfter": "Mental Model",
+      "extraSectionsAllowedBefore": "Practitioner Heuristics",
+      "knownExtendedSections": [
+        "Three Structural Models",
+        "Inbound and Outbound Flows",
+        "The Five Principles",
+        "Types of Slack",
+        "Conditions Indicators",
+        "Pipeline Indicators",
+        "Learning Quality Indicators",
+        "Outcome Indicators",
+        "Structure",
+        "Pretotype Techniques",
+        "The Practice in Structure",
+        "The Six Registers of Restraint",
+        "The Escalation Rule",
+        "Applying the Principle",
+        "Why Normative Defenses Are Insufficient",
+        "Structural Defenses",
+        "Origin Note",
+        "The Affirmative Case for a Meeting",
+        "Cost Arithmetic",
+        "Async Alternatives by Content Type",
+        "The Internalisation Continuum",
+        "The Crowding-Out Effect",
+        "The Elevator Test",
+        "Purpose Clarity as a Motivational Mechanism",
+        "Leadership Practice",
+        "Why This Is Different from Mission Command",
+        "Why This Is Frequently Skipped",
+        "In Practice",
+        "How the AAR Differs from a Post-mortem",
+        "Facilitation Notes",
+        "When to Call One",
+        "Structure of a Tactical Pause",
+        "The Permission Problem",
+        "Taxonomy of Cobra-Generating Interventions",
+        "Pre-Launch Cobra Risk Assessment"
+      ]
+    }
+  }
+}
