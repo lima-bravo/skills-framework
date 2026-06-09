@@ -821,7 +821,7 @@ Agents **append one row per completed step**:
 
 ## Out of scope (do not expand this plan)
 
-- Migrating `docs/index.html`, `executive-scan.html`, `quick-reference.html` to generated (separate plan).
+- Migrating `docs/index.html` and `docs/quick-reference.html` to generated (separate plan). (`executive-scan.html` and `situation-finder.html` are now generated from JSON.)
 - SQLite/content-graph backend (Recommendation 8 / Level 3).
 - Changing skill ids or renaming categories.
 - Rewriting card prose content.
@@ -831,7 +831,7 @@ Agents **append one row per completed step**:
 ## Quick reference — verify commands after any step
 
 ```bash
-npm run build                 # deck + graph + guides + ai-index + situation-finder + validate + counts
+npm run build                 # deck + graph + guides + situation-finder + executive-scan + validate + counts
 npm run validate:cards
 npm run check:counts
 npm run derive:refs           # after Phase 4

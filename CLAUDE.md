@@ -99,7 +99,7 @@ Single model when:
 - An existing card is renamed or removed
 - A new entry is added to `skills-manifest.json`
 - A category is added or renamed
-- A new situation is added to `situation-finder.html`
+- A new situation is added to `situations.json`
 
 The `_ai-index.md` is the machine-readable index of the framework. It becomes stale and misleading if not kept in sync. Update it before marking any card-addition task as complete.
 
@@ -111,7 +111,7 @@ The `_ai-index.md` is the machine-readable index of the framework. It becomes st
 1. Write the card markdown in `Skills Reference/{Category}/filename.md` (YAML frontmatter + body per `AUTHORING.md`)
 2. Register it in `Skills Reference/skills-manifest.json` with a new sequential ID
 3. Add backlinks in related cards' `connections:` frontmatter arrays
-4. Run `npm run build` — rebuilds deck, graph, guides, situation-finder, `_ai-index.md`; runs `validate:cards --strict` and `check:counts`
+4. Run `npm run build` — rebuilds deck, graph, guides, situation-finder, executive-scan, `_ai-index.md`; runs `validate:cards --strict` and `check:counts`
 5. Update `Skills Reference/_ai-index.clusters.md` if the skill belongs in a high-signal cluster
 6. Update `Skills Reference/training-guide.md` counts and any relevant cluster sections
 7. Add `references:` in the new card's frontmatter; run `npm run reconcile:refs -- --write`, then `npm run build` again
@@ -121,12 +121,13 @@ The `_ai-index.md` is the machine-readable index of the framework. It becomes st
 
 Before finishing, always ask the user:
 
-> "You've added N card(s) this session. Want me to update `situation-finder.html` and `quick-reference.html` now, or are you planning to add more cards first?"
+> "You've added N card(s) this session. Want me to update `situations.json`, `executive-scan.json`, and `quick-reference.html` now, or are you planning to add more cards first?"
 
 Then, when confirmed:
 
 7. Update `Skills Reference/situations.json` — for each new card, extend an existing situation or add a new entry; run `npm run build` to regenerate `docs/situation-finder.html`
-8. Update `docs/quick-reference.html` — update category counts on page 1 (always needed when a count changes), and add a tagline entry on page 2 if the card has a strong tagline worth memorising.
+8. Update `Skills Reference/executive-scan.json` if the card belongs on an executive dimension; run `npm run build` to regenerate `docs/executive-scan.html`
+9. Update `docs/quick-reference.html` — update category counts on page 1 (always needed when a count changes), and add a tagline entry on page 2 if the card has a strong tagline worth memorising.
 
 The reason for batching steps 7–8 is that both files are *views* that benefit from being rebuilt across a whole set of cards at once. The decisions involved — which situations does this card belong to? does this tagline earn a slot? — are better made with all new cards visible together rather than card by card.
 
@@ -137,6 +138,7 @@ The reason for batching steps 7–8 is that both files are *views* that benefit 
 | `docs/deck.html` (card deck) | ✅ auto — from `skills-manifest.json` + card `.md` files |
 | `docs/graph.html` (connection graph) | ✅ auto — from `connections:` in card frontmatter |
 | `docs/situation-finder.html` | ✅ auto — from `situations.json` + template |
+| `docs/executive-scan.html` | ✅ auto — from `executive-scan.json` + template |
 | `Skills Reference/_ai-index.md` | ✅ auto — from preamble, clusters, manifest |
 | `docs/training-guide.html` | ✅ auto — rendered from `training-guide.md` |
 | `docs/skill-primer.html` | ✅ auto — rendered from `skill-primer.md` |
@@ -190,7 +192,7 @@ When a count legitimately changes: edit cards/manifest, run `npm run build`, the
 |---|---|
 | `docs/index.html` | Landing page — framework overview and entry points |
 | `docs/situation-finder.html` | 45 situations mapped to skill clusters — edit this file directly |
-| `docs/executive-scan.html` | 10 business dimensions for scanning without a known symptom — edit this file directly |
+| `docs/executive-scan.html` | 10 business dimensions — generated from `executive-scan.json` |
 | `docs/quick-reference.html` | Printable 2-page cheat sheet — edit this file directly |
 | `docs/deck.html` | Generated card deck — rebuilt by `npm run build:deck` |
 | `docs/graph.html` | Generated connection graph — rebuilt by `npm run build:graph` |

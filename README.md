@@ -60,7 +60,7 @@ Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 
 ## Build pipeline
 
-`docs/deck.html`, `docs/graph.html`, `docs/training-guide.html`, `docs/skill-primer.html`, and `docs/situation-finder.html` are **generated**. Do not edit them by hand — edit source files in `Skills Reference/` and rebuild.
+`docs/deck.html`, `docs/graph.html`, `docs/training-guide.html`, `docs/skill-primer.html`, `docs/situation-finder.html`, and `docs/executive-scan.html` are **generated**. Do not edit them by hand — edit source files in `Skills Reference/` and rebuild.
 
 | Source | Role |
 |--------|------|
@@ -74,6 +74,9 @@ Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 | `scripts/build-graph.mjs` | Graph builder → `docs/graph.html` (edges from `connections:`) |
 | `scripts/build-guides.mjs` | Guide renderer → `docs/training-guide.html`, `docs/skill-primer.html` |
 | `scripts/build-situation-finder.mjs` | Situation finder → `docs/situation-finder.html` |
+| `scripts/build-executive-scan.mjs` | Executive scan → `docs/executive-scan.html` |
+| `Skills Reference/situations.json` | Situation → skill mappings (source) |
+| `Skills Reference/executive-scan.json` | Executive scan dimensions (source) |
 | `scripts/generate-ai-index.mjs` | AI index → `Skills Reference/_ai-index.md` |
 | `scripts/validate-cards.mjs` | Structure + frontmatter ↔ manifest sync (strict in build) |
 
@@ -82,15 +85,12 @@ Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 | File | Contents |
 |------|----------|
 | `docs/index.html` | Landing page |
-| `Skills Reference/situations.json` | Situation → skill mappings (source) |
-| `docs/situation-finder.html` | Generated situation finder |
-| `docs/executive-scan.html` | 10-dimension business scan |
 | `docs/quick-reference.html` | Printable cheat sheet |
 
 ### Commands
 
 ```bash
-npm run build              # Full pipeline: deck, graph, guides, situation-finder, validate, ai-index, counts
+npm run build              # Full pipeline: deck, graph, guides, situation-finder, executive-scan, validate, ai-index, counts
 npm run validate:cards     # Card structure (warn-only)
 npm run derive:refs        # Report card refs vs manifest bibliography
 npm run reconcile:refs     # Preview merge; add -- --write to update manifest.refs
@@ -186,14 +186,16 @@ Skills Reference/
   deck.template.html         # Deck shell (edit layout/CSS here)
   deck.app.js                # Deck behaviour
   {Category}/*.md            # Skill source files (all 16 categories)
+  situations.json            # Situation → skill mappings (source)
+  executive-scan.json        # Executive scan dimensions (source)
+  situation-finder.template.html
+  executive-scan.template.html
 docs/
   index.html                 # Landing page (edit directly)
   deck.html                  # Generated card deck
   graph.html                 # Generated connection graph
-  situations.json            # Situation → skill mappings (source)
-  situation-finder.template.html
   situation-finder.html      # Generated situation finder
-  executive-scan.html        # 10-dimension scan (edit directly)
+  executive-scan.html        # Generated executive scan
   quick-reference.html       # Printable cheat sheet (edit directly)
   training-guide.html        # Generated from training-guide.md
   skill-primer.html          # Generated from skill-primer.md
@@ -202,6 +204,7 @@ scripts/
   build-graph.mjs            # Graph build
   build-guides.mjs           # Guide HTML build
   build-situation-finder.mjs # Situation finder build
+  build-executive-scan.mjs   # Executive scan build
   generate-ai-index.mjs      # _ai-index.md generator
   validate-cards.mjs         # Card + frontmatter validator
   derive-refs.mjs            # Bibliography derivation report

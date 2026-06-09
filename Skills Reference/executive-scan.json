@@ -1,0 +1,357 @@
+{
+  "dimensions": [
+    {
+      "id": 1,
+      "name": "Strategy Coherence",
+      "color": "#6366F1",
+      "tagline": "Is this actually a strategy, or a list of priorities?",
+      "skills": [
+        {
+          "id": 166,
+          "name": "Kernel of Good Strategy",
+          "tag": "Diagnosis + guiding policy + coherent actions: Rumelt's three-part test for a real strategy"
+        },
+        {
+          "id": 210,
+          "name": "Wardley Mapping",
+          "tag": "Map where each component sits on the evolution curve — is your claimed differentiation actually defensible?"
+        },
+        {
+          "id": 0,
+          "name": "First Principles",
+          "tag": "Strip inherited assumptions — what does the business actually know vs. believe about its position?"
+        },
+        {
+          "id": 224,
+          "name": "Red Teaming",
+          "tag": "Before the strategy is announced, mandate an independent team to find the conditions under which it fails"
+        }
+      ],
+      "chain": {
+        "id": 123,
+        "name": "Scenario Planning",
+        "tag": "Model multiple plausible futures before committing to one strategic path",
+        "chain": true
+      },
+      "questions": [
+        "Can you state the strategy as a diagnosis plus guiding policy in one sentence?",
+        "What is the single assumption the strategy depends on — and when was it last stress-tested?",
+        "Which components of your competitive advantage are evolving toward commodity?",
+        "Has the strategy been challenged by someone with no stake in its success — or only by its authors?"
+      ],
+      "overlap": null
+    },
+    {
+      "id": 2,
+      "name": "Portfolio Economics",
+      "color": "#16A34A",
+      "tagline": "Does each unit earn its keep — and is the investment split intentional?",
+      "skills": [
+        {
+          "id": 216,
+          "name": "Unit Economics",
+          "tag": "Does the model work per customer? LTV:CAC, payback period, contribution margin at the unit level"
+        },
+        {
+          "id": 217,
+          "name": "Value Creation and Capture",
+          "tag": "Creating value and keeping some of it are two different problems — check both separately"
+        },
+        {
+          "id": 113,
+          "name": "Three Horizons",
+          "tag": "Is investment actively spread across core, emerging, and future — or all piled into Horizon 1?"
+        }
+      ],
+      "chain": {
+        "id": 94,
+        "name": "Pricing Decision",
+        "tag": "Full chain: value created, cost floor, competitive ceiling, customer psychology",
+        "chain": true
+      },
+      "questions": [
+        "Which business units are value creators vs. value consumers at the margin?",
+        "What is the investment split across the three horizons — and is it a deliberate choice?",
+        "Where is value being created for customers that the business is not capturing?"
+      ],
+      "overlap": null
+    },
+    {
+      "id": 3,
+      "name": "Delivery & Throughput",
+      "color": "#0891B2",
+      "tagline": "Is work flowing, or stalling at hidden chokepoints?",
+      "skills": [
+        {
+          "id": 18,
+          "name": "Bottlenecks",
+          "tag": "The single constraint that governs throughput — improvements elsewhere don't move the system"
+        },
+        {
+          "id": 137,
+          "name": "Cost of Delay",
+          "tag": "The economic cost of delivering one period later — makes the invisible cost of slowness visible"
+        },
+        {
+          "id": 132,
+          "name": "WIP Limits",
+          "tag": "Explicit caps on in-progress work that pull rather than push — the primary lever for faster flow"
+        }
+      ],
+      "chain": {
+        "id": 168,
+        "name": "Improve Delivery Flow",
+        "tag": "Structured diagnostic: map the flow, find the constraint, reduce WIP, measure outcomes",
+        "chain": true
+      },
+      "questions": [
+        "Can the team name the single constraint on throughput right now?",
+        "Where does work spend the most time waiting rather than being actively worked on?",
+        "What is the ratio of in-progress work to work completed in the last month?"
+      ],
+      "overlap": null
+    },
+    {
+      "id": 4,
+      "name": "Innovation Pipeline",
+      "color": "#DC2626",
+      "tagline": "Is the organisation experimenting at the right rate — and killing the right things?",
+      "skills": [
+        {
+          "id": 179,
+          "name": "Innovation Health Indicators",
+          "tag": "Five dimensions of innovation readiness: portfolio balance, process discipline, people, culture, metrics"
+        },
+        {
+          "id": 213,
+          "name": "From Idea to Hypothesis",
+          "tag": "Convert ideas into falsifiable predictions with explicit kill conditions before committing experiment resource"
+        },
+        {
+          "id": 113,
+          "name": "Three Horizons",
+          "tag": "A healthy innovation portfolio has active bets in all three horizons, not just optimisation of the core"
+        },
+        {
+          "id": 225,
+          "name": "A/B Testing",
+          "tag": "The operational instrument for hypothesis testing — pre-specified metric, calculated sample size, no peeking"
+        }
+      ],
+      "chain": {
+        "id": 177,
+        "name": "Innovation Capability Diagnostic",
+        "tag": "Structured readiness assessment across five innovation dimensions",
+        "chain": true
+      },
+      "questions": [
+        "When did the organisation last kill an initiative based on evidence rather than politics or attachment?",
+        "What fraction of investment sits in Horizon 3 — and is that fraction a deliberate choice?",
+        "How many hypotheses are in active experiment right now, with explicit kill criteria defined in advance?",
+        "Are experiments designed to be capable of returning a negative result — or structured to confirm?"
+      ],
+      "overlap": null
+    },
+    {
+      "id": 5,
+      "name": "Metric Integrity",
+      "color": "#3B82F6",
+      "tagline": "Are measures surfacing truth, or generating compliance theatre?",
+      "skills": [
+        {
+          "id": 120,
+          "name": "Goodhart's Law",
+          "tag": "When a measure becomes a target, it ceases to be a good measure — audit every headline KPI"
+        },
+        {
+          "id": 144,
+          "name": "Outcome vs Output",
+          "tag": "Activity metrics measure busyness; outcome metrics measure what the business actually needs"
+        },
+        {
+          "id": 211,
+          "name": "Calibration",
+          "tag": "Are forecasts reliable? Track whether confidence levels match actual outcomes systematically"
+        }
+      ],
+      "chain": null,
+      "questions": [
+        "Which KPIs are most likely being gamed — optimised for the measure rather than the goal it was meant to proxy?",
+        "How often do forecasts match outcomes, and are misses investigated or explained away?",
+        "Which metrics haven't moved in years despite stated priority — and what does that signal?"
+      ],
+      "overlap": "Goodhart's Law also appears in <strong>Incentive Alignment (dimension 7)</strong>. The same mechanism — optimising for the measure rather than the goal — drives both metric gaming and incentive distortion. Review both dimensions together."
+    },
+    {
+      "id": 6,
+      "name": "Culture & Change Readiness",
+      "color": "#9333EA",
+      "tagline": "Can the organisation actually execute the changes it announces?",
+      "skills": [
+        {
+          "id": 104,
+          "name": "Psychological Safety",
+          "tag": "Do people surface bad news early? Safety to speak up is the precondition for honest organisational information"
+        },
+        {
+          "id": 167,
+          "name": "Immunity to Change",
+          "tag": "Hidden competing commitments explain why rational plans fail — this is structural, not personal resistance"
+        },
+        {
+          "id": 124,
+          "name": "Organizational Culture",
+          "tag": "Culture is what the organisation rewards and tolerates, not what it states in values documents"
+        }
+      ],
+      "chain": {
+        "id": 130,
+        "name": "Transformation Chain",
+        "tag": "End-to-end sequence for designing and executing large-scale organisational change",
+        "chain": true
+      },
+      "questions": [
+        "Does bad news arrive quickly and unpolished, or slowly and curated?",
+        "Which change initiatives have stalled — and what is the real, unstated reason?",
+        "Who are the informal opinion leaders — and are they inside or outside the change coalition?"
+      ],
+      "overlap": null
+    },
+    {
+      "id": 7,
+      "name": "Incentive Alignment",
+      "color": "#D97706",
+      "tagline": "Do reward structures drive the behaviour the strategy actually needs?",
+      "skills": [
+        {
+          "id": 51,
+          "name": "Incentives",
+          "tag": "Behaviour follows reward structures — check what is actually being incentivised, not what is intended"
+        },
+        {
+          "id": 121,
+          "name": "Principal–Agent Problem",
+          "tag": "Where do BU leader incentives diverge from group goals? The gap reliably predicts the behaviour you see"
+        },
+        {
+          "id": 120,
+          "name": "Goodhart's Law",
+          "tag": "Targets that become measures get optimised at the expense of the underlying goal"
+        }
+      ],
+      "chain": null,
+      "questions": [
+        "What behaviours are incentive structures actually rewarding — and are those the behaviours the strategy needs?",
+        "Where do business unit leader incentives diverge most sharply from group-level goals?",
+        "Which targets are being consistently hit but feel hollow — and what does that signal?"
+      ],
+      "overlap": "Goodhart's Law also appears in <strong>Metric Integrity (dimension 5)</strong>. The same mechanism drives both metric gaming and incentive distortion. Review both dimensions together."
+    },
+    {
+      "id": 8,
+      "name": "Risk & Drift",
+      "color": "#0D9488",
+      "tagline": "Are safety margins eroding in ways nobody is currently naming?",
+      "skills": [
+        {
+          "id": 208,
+          "name": "Drift to Failure",
+          "tag": "Systems migrate toward unsafe boundaries through accumulated reasonable decisions — visible only in hindsight"
+        },
+        {
+          "id": 24,
+          "name": "Margin of Safety",
+          "tag": "The buffer between current state and critical threshold — how much has been quietly eroded for efficiency?"
+        },
+        {
+          "id": 2,
+          "name": "Second-Order Effects",
+          "tag": "What happens after what happens? Trace the downstream consequences of current decisions and trade-offs"
+        },
+        {
+          "id": 223,
+          "name": "Steelmanning",
+          "tag": "Build the strongest possible case that the risk picture is worse than the organisation currently believes"
+        }
+      ],
+      "chain": null,
+      "questions": [
+        "What has been normalised in the last two years that would have alarmed leadership when it first appeared?",
+        "Where are operational buffers being squeezed — and what failure does that historically precede?",
+        "What is the next thing that could go seriously wrong that nobody is currently discussing?",
+        "Can anyone in the room articulate the best case that the current risk posture is dangerously optimistic?"
+      ],
+      "overlap": null
+    },
+    {
+      "id": 9,
+      "name": "AI Exposure",
+      "color": "#0369A1",
+      "tagline": "Where is AI making decisions — and is governance keeping pace with deployment?",
+      "skills": [
+        {
+          "id": 183,
+          "name": "AI Authority Boundaries",
+          "tag": "Six registers where AI may not be a decision-maker — map current deployments against each"
+        },
+        {
+          "id": 184,
+          "name": "Minimal Capability Principle",
+          "tag": "Deploy the minimum capability needed for the task — excess capability creates excess and hard-to-audit risk"
+        },
+        {
+          "id": 212,
+          "name": "Observer Bias",
+          "tag": "Evaluators who built the system are poorly placed to assess whether it works — structure in independence"
+        }
+      ],
+      "chain": {
+        "id": 187,
+        "name": "AI Use Case Autonomy Assessment",
+        "tag": "Pre-deployment chain: authority, reversibility, oversight design, and escalation paths",
+        "chain": true
+      },
+      "questions": [
+        "Where is AI currently making — or materially influencing — decisions that humans used to make?",
+        "Which AI deployments have explicit reversal mechanisms if the system produces a bad outcome?",
+        "Where does the organisation have unmanaged AI exposure rather than governed AI capability?"
+      ],
+      "overlap": null
+    },
+    {
+      "id": 10,
+      "name": "Operating Model Alignment",
+      "color": "#475569",
+      "tagline": "Does the way the organisation is structured enable or impede the strategy?",
+      "skills": [
+        {
+          "id": 28,
+          "name": "Conway's Law",
+          "tag": "Systems — organisational ones included — mirror the communication structures that built them"
+        },
+        {
+          "id": 154,
+          "name": "Team Topologies",
+          "tag": "Four team types and three interaction modes: does your structure produce the flow the strategy requires?"
+        },
+        {
+          "id": 127,
+          "name": "RACI Framework",
+          "tag": "One Accountable per decision — where accountability is unclear, both speed and quality suffer"
+        }
+      ],
+      "chain": {
+        "id": 169,
+        "name": "Org Design for Flow Diagnostic",
+        "tag": "Structured diagnostic: does the org design enable fast, independent delivery of strategic outcomes?",
+        "chain": true
+      },
+      "questions": [
+        "Where does the organisational structure create the most friction for executing the stated strategy?",
+        "Which decisions slow down most — and is it unclear ownership or unnecessary cross-team dependency?",
+        "Does the team topology match the architecture and capabilities the strategy requires?"
+      ],
+      "overlap": null
+    }
+  ]
+}
