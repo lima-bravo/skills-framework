@@ -1,10 +1,46 @@
+---
+id: 101
+name: Trust
+category: Psychology
+cardType: standard
+tagline: The willingness to be vulnerable to another's actions, based on the expectation they will act in your interest.
+connections:
+  - id: 51
+    rationale: "trust and incentives interact bidirectionally: misaligned incentives destroy trust structurally, and low trust drives the demand for more incentive-based control."
+  - id: 49
+    rationale: trust is built partly through reciprocal vulnerability; extending trust invites trust in return. Reciprocity is the mechanism; trust is the result.
+  - id: 104
+    rationale: "psychological safety is the team-level expression of trust: the shared belief that interpersonal risk-taking won't be punished."
+  - id: 52
+    rationale: trust violations feel disproportionately large because losses hurt more than equivalent gains. The asymmetry of trust building vs. breaking is a direct consequence of loss aversion.
+  - id: 230
+    rationale: trust enables the binding commitments that allow players to escape defection equilibria; without it, mutual defection is rational.
+  - id: 229
+    rationale: trust shifts players from bad equilibria (mutual defection) to better ones (mutual cooperation) by making cooperative commitments credible.
+  - id: 243
+    rationale: trust is built relationally within Dunbar limits; above them, it must be institutionalised through transparency, track record, and structural accountability rather than personal relationship.
+  - id: 232
+    rationale: high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
+references:
+  - title: "The Speed of Trust: The One Thing That Changes Everything"
+    authorYear: Stephen M.R. Covey & Rebecca R. Merrill (2006)
+    supports: the practitioner framework for building and repairing trust in organizational contexts.
+  - title: "Trust: The Social Virtues and the Creation of Prosperity"
+    authorYear: Francis Fukuyama (1995)
+    supports: the macro-level treatment of trust as social capital and its role in economic performance.
+  - title: "Bowling Alone: The Collapse and Revival of American Community"
+    authorYear: Robert D. Putnam (2000)
+    supports: documents the erosion of social capital and institutional trust; essential context for why trust is harder to build at scale.
+  - title: Daring Greatly
+    authorYear: Brené Brown (2012)
+    supports: examines vulnerability as the foundation of trust-building; the research basis for why extending trust first is the practitioner's most powerful lever.
+---
+
 # Trust
-*The willingness to be vulnerable to another's actions, based on the expectation they will act in your interest.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Trust is the decision to accept vulnerability to another party's actions, based on the expectation — rather than the certainty — that they will act in a way that benefits or at least does not harm you. It operates at every scale: between two people, within a team, between an organization and its customers, and across institutions. Trust is distinct from control; where control removes risk through enforcement, trust accepts risk through expectation. This distinction matters because most consequential relationships require trust — control alone cannot sustain them.
@@ -42,24 +78,6 @@ An experienced practitioner holds trust as a dynamic contract that is built slow
 A new engineering manager inherits a team that was previously micromanaged. The team shows low initiative and routes every decision upward. The manager wants to rebuild trust but recognizes the team also doesn't yet trust her. She starts with three deliberate moves: (1) She holds one-on-ones in the first week and asks each person what they wish they could decide themselves — then immediately grants those decisions, creating early evidence of intention. (2) She over-delivers on one visible promise to the team within the first two weeks, establishing competence and integrity trust simultaneously. (3) When she makes a mistake in a team meeting, she names it explicitly the following day rather than letting it pass. Within 90 days, decisions are being made at the team level and escalation requests drop by two-thirds. Trust was rebuilt not through a program but through a consistent pattern of small, visible acts.
 
 ---
-
-## Connections
-
-→ [51·Incentives](incentives.md) — trust and incentives interact bidirectionally: misaligned incentives destroy trust structurally, and low trust drives the demand for more incentive-based control.
-→ [49·Reciprocity](../Physics-and-Chemistry/reciprocity.md) — trust is built partly through reciprocal vulnerability; extending trust invites trust in return. Reciprocity is the mechanism; trust is the result.
-→ [104·Psychological Safety](psychological-safety.md) — psychological safety is the team-level expression of trust: the shared belief that interpersonal risk-taking won't be punished.
-→ [52·Loss Aversion](loss-aversion.md) — trust violations feel disproportionately large because losses hurt more than equivalent gains. The asymmetry of trust building vs. breaking is a direct consequence of loss aversion.
-→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — trust enables the binding commitments that allow players to escape defection equilibria; without it, mutual defection is rational.
-→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — trust shifts players from bad equilibria (mutual defection) to better ones (mutual cooperation) by making cooperative commitments credible.
-→ [243·Dunbar's Number](../Systems/dunbars-number.md) — trust is built relationally within Dunbar limits; above them, it must be institutionalised through transparency, track record, and structural accountability rather than personal relationship.
-→ [232·Free Rider Problem](../Economics/free-rider-problem.md) — high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
-
-## References
-
-- *The Speed of Trust: The One Thing That Changes Everything* — Stephen M.R. Covey & Rebecca R. Merrill (2006) — the practitioner framework for building and repairing trust in organizational contexts.
-- *Trust: The Social Virtues and the Creation of Prosperity* — Francis Fukuyama (1995) — the macro-level treatment of trust as social capital and its role in economic performance.
-- *Bowling Alone: The Collapse and Revival of American Community* — Robert D. Putnam (2000) — documents the erosion of social capital and institutional trust; essential context for why trust is harder to build at scale.
-- *Daring Greatly* — Brené Brown (2012) — examines vulnerability as the foundation of trust-building; the research basis for why extending trust first is the practitioner's most powerful lever.
 
 ---
 

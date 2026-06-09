@@ -1,10 +1,29 @@
+---
+id: 61
+name: ERG Theory
+category: Psychology
+cardType: standard
+tagline: Three needs, no strict hierarchy, and frustration-regression
+connections:
+  - id: 58
+    rationale: "ERG is a refinement: fewer levels, no strict sequence, and the frustration-regression principle that Maslow lacks."
+  - id: 51
+    rationale: ERG's frustration-regression principle predicts incentive system failures that pure incentive analysis would miss.
+  - id: 59
+    rationale: McClelland identifies which of these need domains is dominant for a given person; ERG describes the dynamics when any level is blocked.
+  - id: 192
+    rationale: SDT's Relatedness and Competence needs map onto ERG's corresponding levels; SDT adds the autonomy dimension and the internalisation continuum ERG lacks.
+references:
+  - title: "Existence, Relatedness, and Growth: Human Needs in Organizational Settings"
+    authorYear: Clayton P. Alderfer (1972)
+    supports: the source text proposing the three-need revision of Maslow.
+---
+
 # ERG Theory
-*Three needs, no strict hierarchy, and frustration-regression*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Clayton Alderfer's ERG Theory (1969) is a revision of Maslow's hierarchy that compresses the five levels into three and removes the strict sequential progression. **Existence** needs (equivalent to Maslow's physiological and safety): material and physical well-being. **Relatedness** needs (equivalent to love/belonging and parts of esteem): interpersonal relationships, belonging, being understood. **Growth** needs (equivalent to esteem and self-actualization): development, creativity, personal contribution. The critical departure from Maslow: (1) multiple need levels can be active simultaneously; (2) if a higher-level need is frustrated, people regress to focusing more intensely on a lower-level need (**frustration-regression** principle); (3) as needs are satisfied, satisfaction of that need can increase its importance (unlike Maslow, where satisfaction reduces salience).
@@ -39,17 +58,6 @@ ERG theory is more empirically grounded than Maslow in two important ways. The f
 A senior engineer has been at the company three years, high-performing, and recently has started asking frequently about comp adjustments and showing less initiative on projects. Management interpretation: she's become motivated by money. ERG frustration-regression interpretation: she has been passed over for a lead role twice, the proposed architecture changes she championed were rejected without full explanation, and her growth needs are actively frustrated. She is not fundamentally more interested in money; she is regressing to Existence focus because Growth is blocked. The correct intervention: address the growth blockage directly — give her ownership of a meaningful project or create a technical career track that doesn't require management. The compensation conversations will likely diminish as growth needs are met.
 
 ---
-
-## Connections
-
-→ [58·Maslow's Hierarchy](maslows-hierarchy-of-needs.md) — ERG is a refinement: fewer levels, no strict sequence, and the frustration-regression principle that Maslow lacks.
-→ [51·Incentives](incentives.md) — ERG's frustration-regression principle predicts incentive system failures that pure incentive analysis would miss.
-→ [59·McClelland's Acquired Needs](mcclellands-acquired-needs-theory.md) — McClelland identifies which of these need domains is dominant for a given person; ERG describes the dynamics when any level is blocked.
-→ [192·Self-Determination Theory](self-determination-theory.md) — SDT's Relatedness and Competence needs map onto ERG's corresponding levels; SDT adds the autonomy dimension and the internalisation continuum ERG lacks.
-
-## References
-
-- *Existence, Relatedness, and Growth: Human Needs in Organizational Settings* — Clayton P. Alderfer (1972) — the source text proposing the three-need revision of Maslow.
 
 ---
 

@@ -1,10 +1,53 @@
+---
+id: 203
+name: Narrative Instinct
+category: Psychology
+cardType: standard
+tagline: We don't record events — we compose them into stories, and stories lie.
+connections:
+  - id: 201
+    rationale: narrative instinct is the mechanism by which hindsight bias operates; we impose a causal story on the past that makes outcomes feel inevitable
+  - id: 200
+    rationale: both involve preferring agent-causal stories (someone did this) over system-causal explanations
+  - id: 173
+    rationale: "the organisational-level instantiation of narrative instinct: the founding story that filters all new evidence"
+  - id: 0
+    rationale: the antidote; it starts from structure and evidence rather than inherited narrative
+  - id: 10
+    rationale: deliberately invokes a failure narrative to surface what the success narrative suppresses
+  - id: 199
+    rationale: the survivor record is almost always presented as a success narrative, which makes the missing failure data even harder to notice
+  - id: 234
+    rationale: the stories that circulate in a culture define the window; shifting the dominant narrative shifts what ideas are considered acceptable for serious discussion
+  - id: 202
+    rationale: the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when attached to a compelling narrative
+  - id: 206
+    rationale: the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
+  - id: 220
+    rationale: informal organisational power often flows to whoever shapes the dominant narrative; identifying who controls the story is part of mapping informal influence.
+references:
+  - title: Actual Minds, Possible Worlds
+    authorYear: Jerome Bruner (1986)
+    supports: the foundational cognitive science text distinguishing narrative cognition from logico-scientific cognition; establishes why humans default to story over argument.
+  - title: "The Storytelling Animal: How Stories Make Us Human"
+    authorYear: Jonathan Gottschall (2012)
+    supports: surveys the evolutionary and cognitive evidence for narrative instinct as a species-defining trait, not a cultural preference.
+  - title: "The Black Swan: The Impact of the Highly Improbable"
+    authorYear: Nassim Nicholas Taleb (2007)
+    supports: the "narrative fallacy" chapter is the sharpest diagnosis of how story-making distorts causal inference, particularly around rare events.
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: "the cognitive science of System 1 story-making: how rapid pattern completion produces confident causal narratives from thin data."
+  - title: "Made to Stick: Why Some Ideas Survive and Others Die"
+    authorYear: Chip Heath & Dan Heath (2007)
+    supports: "the practitioner complement: narrative as the primary mechanism of idea transmission, and how to design for it deliberately."
+---
+
 # Narrative Instinct
-*We don't record events — we compose them into stories, and stories lie.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Narrative instinct is the deep cognitive tendency to organise experience into story form: a protagonist, a causal sequence, an arc, and a resolution. This is not a quirk or a preference — it is how human memory and sense-making are structured. Psychologist Jerome Bruner distinguished two modes of cognition: *logico-scientific* (argument, evidence, inference) and *narrative* (characters, motives, temporality). Humans default to narrative. We experience events sequentially and impose causal meaning on that sequence — even when the true structure is probabilistic, systemic, or simply random.
@@ -52,27 +95,6 @@ The narrative is coherent and emotionally resonant. But a structural analysis te
 The narrative instinct produced a story centred on a protagonist (the founder), a loss (of identity), and a restoration arc. The actual causal structure involves economics, distribution, and platform dynamics — none of which fits the narrative format. The compelling story will produce a chief design officer and an unchanged cost structure.
 
 ---
-
-## Connections
-
-→ [201·Hindsight Bias](hindsight-bias.md) — narrative instinct is the mechanism by which hindsight bias operates; we impose a causal story on the past that makes outcomes feel inevitable
-→ [200·Fundamental Attribution Error](fundamental-attribution-error.md) — both involve preferring agent-causal stories (someone did this) over system-causal explanations
-→ [173·Dominant Logic](../Business/dominant-logic.md) — the organisational-level instantiation of narrative instinct: the founding story that filters all new evidence
-→ [0·First Principles Thinking](../General-Thinking/first-principles.md) — the antidote; it starts from structure and evidence rather than inherited narrative
-→ [10·Pre-Mortem](../General-Thinking/pre-mortem.md) — deliberately invokes a failure narrative to surface what the success narrative suppresses
-→ [199·Survivorship Bias](survivorship-bias.md) — the survivor record is almost always presented as a success narrative, which makes the missing failure data even harder to notice
-→ [234·Overton Window](../General-Thinking/overton-window.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts what ideas are considered acceptable for serious discussion
-→ [202·Social Proof](social-proof.md) — the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when attached to a compelling narrative
-→ [206·Base Rate Neglect](base-rate-neglect.md) — the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
-→ [220·Power Mapping](../Business/power-mapping.md) — informal organisational power often flows to whoever shapes the dominant narrative; identifying who controls the story is part of mapping informal influence.
-
-## References
-
-- *Actual Minds, Possible Worlds* — Jerome Bruner (1986) — the foundational cognitive science text distinguishing narrative cognition from logico-scientific cognition; establishes why humans default to story over argument.
-- *The Storytelling Animal: How Stories Make Us Human* — Jonathan Gottschall (2012) — surveys the evolutionary and cognitive evidence for narrative instinct as a species-defining trait, not a cultural preference.
-- *The Black Swan: The Impact of the Highly Improbable* — Nassim Nicholas Taleb (2007) — the "narrative fallacy" chapter is the sharpest diagnosis of how story-making distorts causal inference, particularly around rare events.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of System 1 story-making: how rapid pattern completion produces confident causal narratives from thin data.
-- *Made to Stick: Why Some Ideas Survive and Others Die* — Chip Heath & Dan Heath (2007) — the practitioner complement: narrative as the primary mechanism of idea transmission, and how to design for it deliberately.
 
 ---
 

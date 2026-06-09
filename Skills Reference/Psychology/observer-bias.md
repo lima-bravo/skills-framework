@@ -1,10 +1,46 @@
+---
+id: 212
+name: Observer Bias
+category: Psychology
+cardType: standard
+tagline: The evaluator who knows what they're looking for will find it.
+connections:
+  - id: 72
+    rationale: blinded evaluation is the structural application of observer bias control to formal experiments; the control group alone is not sufficient if assessors know which condition is which
+  - id: 55
+    rationale: observer bias is confirmation bias operating at the point of measurement; the fix (blinding) prevents expectation from shaping the evidence rather than trying to correct it after the fact
+  - id: 204
+    rationale: producing genuinely falsifiable evidence requires that the measurement process be insulated from the hypothesis; observer bias is the mechanism by which measurements quietly align with hypotheses
+  - id: 211
+    rationale: uncorrected observer bias degrades calibration; evaluators who systematically rate expected winners higher develop track records that look accurate but are contaminated
+  - id: 96
+    rationale: built Chain) — blind review of written assessments and structured independent scoring are the two highest-leverage interventions in the hiring chain
+  - id: 73
+    rationale: the assumptions an evaluator holds about a candidate or option are the exact source of the expectation that drives observer bias; surfacing those assumptions before evaluation is the upstream intervention
+  - id: 104
+    rationale: in low-safety environments, evaluators are more likely to anchor on the dominant view rather than submit independent assessments; observer bias is amplified by social pressure
+  - id: 218
+    rationale: the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence against the observer bias that makes advocacy look like analysis.
+references:
+  - title: Pygmalion in the Classroom
+    authorYear: Robert Rosenthal & Lenore Jacobson (1968)
+    supports: 'the foundational study: teachers who were told certain students were "late bloomers" produced measurable IQ gains in those students; the expectations were fabricated, the effect was real. Established observer-expectancy as an empirically demonstrated phenomenon.'
+  - title: "\"Orchestrating Impartiality: The Impact of 'Blind' Auditions on Female Musicians\""
+    authorYear: Claudia Goldin & Cecilia Rouse (2000), *American Economic Review*, 90(4), 715–741
+    supports: the landmark natural experiment showing that switching symphony auditions to screens that hid the performer's gender increased female hires by 25–46%; the strongest field evidence for blinding as a structural remedy.
+  - title: "Noise: A Flaw in Human Judgment"
+    authorYear: Daniel Kahneman, Olivier Sibony & Cass R. Sunstein (2021)
+    supports: extends the analysis of human judgment error from bias (systematic) to noise (variability); shows that evaluators assessing identical cases on different occasions, or different evaluators assessing the same case, diverge far more than organisations assume. The structural remedies overlap closely with observer bias controls.
+  - title: "\"Evidence-Based Medicine: What It Is and What It Isn't\""
+    authorYear: David L. Sackett et al. (1996), *BMJ*, 312, 71
+    supports: the founding manifesto of the evidence-based medicine movement; blinded evaluation and randomised controlled trials are the central methodological commitments, grounded in recognition that unblinded observation produces systematically distorted results.
+---
+
 # Observer Bias
-*The evaluator who knows what they're looking for will find it.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Observer bias (also observer-expectancy effect or evaluator bias) is the systematic distortion that occurs when people assessing an outcome know — or believe they know — which condition, group, or candidate they are evaluating. That knowledge contaminates the assessment: evaluators unconsciously weight evidence in the direction of their expectation, apply different standards to different conditions, and arrive at conclusions that confirm what they already suspected. The phenomenon was formalised by Robert Rosenthal (1966) in experimental psychology, and its structural solution — blinded evaluation — originates in clinical trial methodology. The principle applies wherever human judgment is the measuring instrument.
@@ -50,24 +86,6 @@ Redesign: (1) Criteria and weightings agreed before any candidate is named. (2) 
 Outcome: the hired candidate is not either of the pre-championed individuals. Post-hire performance data at 12 months confirms the decision quality; the championed candidates, tracked through their subsequent hires at other firms, perform at median for the role.
 
 ---
-
-## Connections
-
-→ [72·Experiment Design](../Business/experiment-design.md) — blinded evaluation is the structural application of observer bias control to formal experiments; the control group alone is not sufficient if assessors know which condition is which
-→ [55·Confirmation Bias](confirmation-bias.md) — observer bias is confirmation bias operating at the point of measurement; the fix (blinding) prevents expectation from shaping the evidence rather than trying to correct it after the fact
-→ [204·Falsification](falsification.md) — producing genuinely falsifiable evidence requires that the measurement process be insulated from the hypothesis; observer bias is the mechanism by which measurements quietly align with hypotheses
-→ [211·Calibration](../General-Thinking/calibration.md) — uncorrected observer bias degrades calibration; evaluators who systematically rate expected winners higher develop track records that look accurate but are contaminated
-→ [**Hiring Decision**](../Pre-built-Chains/hiring-decision.md) (Pre-built Chain) — blind review of written assessments and structured independent scoring are the two highest-leverage interventions in the hiring chain
-→ [73·Assumption Mapping](../Business/assumption-mapping.md) — the assumptions an evaluator holds about a candidate or option are the exact source of the expectation that drives observer bias; surfacing those assumptions before evaluation is the upstream intervention
-→ [104·Psychological Safety](psychological-safety.md) — in low-safety environments, evaluators are more likely to anchor on the dominant view rather than submit independent assessments; observer bias is amplified by social pressure
-→ [218·Business Case Construction](../Business/business-case-construction.md) — the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence against the observer bias that makes advocacy look like analysis.
-
-## References
-
-- *Pygmalion in the Classroom* — Robert Rosenthal & Lenore Jacobson (1968) — the foundational study: teachers who were told certain students were "late bloomers" produced measurable IQ gains in those students; the expectations were fabricated, the effect was real. Established observer-expectancy as an empirically demonstrated phenomenon.
-- *"Orchestrating Impartiality: The Impact of 'Blind' Auditions on Female Musicians"* — Claudia Goldin & Cecilia Rouse (2000), *American Economic Review*, 90(4), 715–741 — the landmark natural experiment showing that switching symphony auditions to screens that hid the performer's gender increased female hires by 25–46%; the strongest field evidence for blinding as a structural remedy.
-- *Noise: A Flaw in Human Judgment* — Daniel Kahneman, Olivier Sibony & Cass R. Sunstein (2021) — extends the analysis of human judgment error from bias (systematic) to noise (variability); shows that evaluators assessing identical cases on different occasions, or different evaluators assessing the same case, diverge far more than organisations assume. The structural remedies overlap closely with observer bias controls.
-- *"Evidence-Based Medicine: What It Is and What It Isn't"* — David L. Sackett et al. (1996), *BMJ*, 312, 71 — the founding manifesto of the evidence-based medicine movement; blinded evaluation and randomised controlled trials are the central methodological commitments, grounded in recognition that unblinded observation produces systematically distorted results.
 
 ---
 

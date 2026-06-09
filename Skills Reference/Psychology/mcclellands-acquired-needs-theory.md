@@ -1,10 +1,34 @@
+---
+id: 59
+name: McClelland's Acquired Needs Theory
+category: Psychology
+cardType: standard
+tagline: People are primarily driven by achievement, power, or affiliation
+connections:
+  - id: 51
+    rationale: "McClelland's theory maps directly to incentive design: different dominant needs require different incentive structures."
+  - id: 58
+    rationale: Maslow describes universal motivational needs by level; McClelland describes individual variation in dominant needs.
+  - id: 60
+    rationale: a broader non-hierarchical complement that includes existential and relational dimensions McClelland doesn't address.
+  - id: 61
+    rationale: "ERG complements McClelland: McClelland identifies which need domain dominates for a person; ERG describes what happens when that domain is blocked."
+  - id: 192
+    rationale: McClelland's needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture.
+references:
+  - title: The Achieving Society
+    authorYear: David C. McClelland (1961)
+    supports: the original study linking need for achievement to economic development and organizational performance.
+  - title: Human Motivation
+    authorYear: David C. McClelland (1987)
+    supports: the comprehensive treatment of the three-need framework and its measurement.
+---
+
 # McClelland's Acquired Needs Theory
-*People are primarily driven by achievement, power, or affiliation*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 David McClelland's Acquired Needs Theory (1961) proposes that adults develop three dominant motivational needs through their experiences: **Need for Achievement (nAch)** — drive to accomplish challenging goals, improve performance, take on calculated risks; **Need for Power (nPow)** — drive to influence, lead, and control others, with personal power (control for its own sake) distinct from social/institutional power (using influence to achieve group goals); **Need for Affiliation (nAff)** — drive to form close relationships, belong to groups, be liked and accepted. Unlike Maslow's hierarchy (which is universal and sequential), McClelland's theory holds that individuals differ in which need is dominant, and the dominant need shapes what motivates them and how they work best.
@@ -39,19 +63,6 @@ Every person has all three needs to some degree, but one or two typically domina
 A startup's two founders are diagnostically different: one is high-nAch (driven by personal challenge, quickly bored when things become routine, uncomfortable with the politics of scaling), the other is high-nPow/social (energized by team-building, influence, and organizational design). As the company scales, the high-nAch founder becomes less engaged — the challenge has shifted from personal creation to organizational management. The diagnosis: their dominant need is no longer being met by the role. The resolution: define a distinct role around new product creation, customer discovery, or technical innovation — where personal challenge remains the primary activity.
 
 ---
-
-## Connections
-
-→ [51·Incentives](incentives.md) — McClelland's theory maps directly to incentive design: different dominant needs require different incentive structures.
-→ [58·Maslow's Hierarchy](maslows-hierarchy-of-needs.md) — Maslow describes universal motivational needs by level; McClelland describes individual variation in dominant needs.
-→ [60·Max-Neef's Fundamental Human Needs](max-neefs-fundamental-human-needs.md) — a broader non-hierarchical complement that includes existential and relational dimensions McClelland doesn't address.
-→ [61·ERG Theory](erg-theory.md) — ERG complements McClelland: McClelland identifies which need domain dominates for a person; ERG describes what happens when that domain is blocked.
-→ [192·Self-Determination Theory](self-determination-theory.md) — McClelland's needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture.
-
-## References
-
-- *The Achieving Society* — David C. McClelland (1961) — the original study linking need for achievement to economic development and organizational performance.
-- *Human Motivation* — David C. McClelland (1987) — the comprehensive treatment of the three-need framework and its measurement.
 
 ---
 

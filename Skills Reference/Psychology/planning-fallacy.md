@@ -1,10 +1,47 @@
+---
+id: 115
+name: Planning Fallacy
+category: Psychology
+cardType: standard
+tagline: We systematically underestimate time, cost, and risk — even when we know we do it, and even when we've been wrong before
+connections:
+  - id: 55
+    rationale: the inside view is an exercise in confirmation — estimating from a success scenario
+  - id: 24
+    rationale: "the direct structural remedy: build buffer proportional to underestimation tendency"
+  - id: 10
+    rationale: the most effective tactical intervention against the planning fallacy
+  - id: 7
+    rationale: thinking in distributions is the cognitive toolkit of the outside view
+  - id: 2
+    rationale: cascading dependencies and rework are the most commonly ignored planning costs
+  - id: 114
+    rationale: plans assuming 8 productive hours per day compound the planning fallacy
+  - id: 77
+    rationale: exceptional early velocity regresses; plans that extrapolate it are doubly wrong
+  - id: 206
+    rationale: one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
+  - id: 241
+    rationale: "the planning fallacy and Parkinson's Law compound: we underestimate duration, and then fill whatever time we allocate; the result is work that takes exactly as long as planned for the wrong reasons."
+  - id: 251
+    rationale: "the planning fallacy is the empirical basis for building a realization plan: reference class evidence shows realized benefits consistently run below the business case, which a realization system should detect early rather than be surprised by."
+references:
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the most accessible treatment, including the inside/outside view distinction.
+  - title: "Judgment under Uncertainty: Heuristics and Biases"
+    authorYear: Daniel Kahneman & Amos Tversky, Science Vol. 185 (1974)
+    supports: the original paper identifying the planning fallacy alongside anchoring and availability heuristics.
+  - title: "Megaprojects and Risk: An Anatomy of Ambition"
+    authorYear: Bent Flyvbjerg, Nils Bruzelius & Werner Rothengatter (2003)
+    supports: the empirical evidence of planning fallacy at scale across infrastructure projects.
+---
+
 # Planning Fallacy
-*We systematically underestimate time, cost, and risk — even when we know we do it, and even when we've been wrong before*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The planning fallacy is the systematic tendency to underestimate the time, cost, and risk of future tasks while overestimating their benefits — and to persist in doing so even when the planner has direct experience of similar tasks taking longer than planned. Identified by Daniel Kahneman and Amos Tversky in 1979, it is one of the most expensive and robust cognitive biases in business and engineering.
@@ -45,27 +82,6 @@ The remedy is not to think harder about the inside view. It is to consult the ou
 A software team estimates a feature at 3 weeks. Their own reference class — features of similar scope in the past year — shows a median of 6.5 weeks and a 90th percentile of 10 weeks. A realistic estimate is 6–8 weeks. Committing to 3 weeks means ignoring a distribution they themselves generated. When the feature ships at week 7, the business calls it an execution failure. The actual failure was an estimation failure, predictable from the reference class before the project began.
 
 ---
-
-## Connections
-
-→ [55·Confirmation Bias](confirmation-bias.md) — the inside view is an exercise in confirmation — estimating from a success scenario
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — the direct structural remedy: build buffer proportional to underestimation tendency
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the most effective tactical intervention against the planning fallacy
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — thinking in distributions is the cognitive toolkit of the outside view
-→ [2·Second-Order Effects](../General-Thinking/second-order-effects.md) — cascading dependencies and rework are the most commonly ignored planning costs
-→ [114·Deep Work / Cognitive Capacity](../Learning/deep-work.md) — plans assuming 8 productive hours per day compound the planning fallacy
-→ [77·Regression to the Mean](../Mathematics/regression-to-the-mean.md) — exceptional early velocity regresses; plans that extrapolate it are doubly wrong
-→ [206·Base Rate Neglect](base-rate-neglect.md) — one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
-→ [241·Parkinson's Law](../Business/parkinsons-law.md) — the planning fallacy and Parkinson's Law compound: we underestimate duration, and then fill whatever time we allocate; the result is work that takes exactly as long as planned for the wrong reasons.
-→ [251·Value Realization](../Business/value-realization.md) — the planning fallacy is the empirical basis for building a realization plan: reference class evidence shows realized benefits consistently run below the business case, which a realization system should detect early rather than be surprised by.
-
----
-
-## References
-
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the most accessible treatment, including the inside/outside view distinction.
-- *Judgment under Uncertainty: Heuristics and Biases* — Daniel Kahneman & Amos Tversky, Science Vol. 185 (1974) — the original paper identifying the planning fallacy alongside anchoring and availability heuristics.
-- *Megaprojects and Risk: An Anatomy of Ambition* — Bent Flyvbjerg, Nils Bruzelius & Werner Rothengatter (2003) — the empirical evidence of planning fallacy at scale across infrastructure projects.
 
 ---
 

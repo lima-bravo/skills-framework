@@ -1,10 +1,27 @@
+---
+id: 60
+name: Max-Neef's Fundamental Human Needs
+category: Psychology
+cardType: standard
+tagline: Nine irreducible needs that apply equally to all humans
+connections:
+  - id: 59
+    rationale: McClelland identifies individual variation in dominant motivational needs; Max-Neef identifies the universal set from which those variations draw.
+  - id: 58
+    rationale: "Max-Neef is a non-hierarchical complement: where Maslow sequences needs, Max-Neef treats all nine as equally fundamental."
+  - id: 51
+    rationale: "the satisfier-need distinction is the most important refinement to incentive design: ensure your incentives meet actual needs, not just their most obvious satisfiers."
+references:
+  - title: "Human Scale Development: Conception, Application and Further Reflections"
+    authorYear: Manfred Max-Neef (1991)
+    supports: the source text for the nine fundamental needs and the satisfiers framework.
+---
+
 # Max-Neef's Fundamental Human Needs
-*Nine irreducible needs that apply equally to all humans*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Manfred Max-Neef's Fundamental Human Needs framework (1991) proposes that all humans have nine fundamental needs that are constant across cultures, times, and places — but are satisfied by *satisfiers* that vary enormously by context. The nine needs: **Subsistence** (physical health and well-being), **Protection** (security, stability, care), **Affection** (love, care, solidarity), **Understanding** (learning, critical capacity, curiosity), **Participation** (involvement, cooperation, rights), **Idleness/Leisure** (curiosity, tranquillity, play), **Creation** (imagination, invention, design), **Identity** (sense of self, sense of place, belonging), **Freedom** (autonomy, self-determination, open-mindedness). Unlike Maslow, these needs are non-hierarchical: all nine are equally fundamental. And satisfiers — the things that meet needs — are not the needs themselves.
@@ -39,16 +56,6 @@ The crucial distinction is between **needs** (constant, universal) and **satisfi
 A company offers excellent compensation, interesting work, and a stated mission. Key engineers are still leaving. Max-Neef analysis: Subsistence is met (compensation). Creation and Understanding are met (interesting work). But: Participation need is violated (engineers have no meaningful input into roadmap decisions); Identity need is threatened (repeated reorgs have disrupted team belonging); Freedom need is limited (every architecture decision requires multiple approval layers). The retention problem is not a compensation problem — it is a Participation + Identity + Freedom problem. The interventions that follow address decision rights, team stability, and architectural autonomy — not pay.
 
 ---
-
-## Connections
-
-→ [59·McClelland's Acquired Needs](mcclellands-acquired-needs-theory.md) — McClelland identifies individual variation in dominant motivational needs; Max-Neef identifies the universal set from which those variations draw.
-→ [58·Maslow's Hierarchy](maslows-hierarchy-of-needs.md) — Max-Neef is a non-hierarchical complement: where Maslow sequences needs, Max-Neef treats all nine as equally fundamental.
-→ [51·Incentives](incentives.md) — the satisfier-need distinction is the most important refinement to incentive design: ensure your incentives meet actual needs, not just their most obvious satisfiers.
-
-## References
-
-- *Human Scale Development: Conception, Application and Further Reflections* — Manfred Max-Neef (1991) — the source text for the nine fundamental needs and the satisfiers framework.
 
 ---
 

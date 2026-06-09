@@ -1,10 +1,43 @@
+---
+id: 53
+name: Sunk Cost
+category: Psychology
+cardType: standard
+tagline: Past investment should not drive future decisions
+connections:
+  - id: 52
+    rationale: 'sunk cost fallacy is driven by loss aversion: abandoning the project makes the prior loss "real."'
+  - id: 1
+    rationale: '"if I were starting fresh today" is an inversion of the current position; it removes the sunk cost framing.'
+  - id: 30
+    rationale: sunk cost blindness prevents people from seeing the opportunity cost of continuing a failing investment.
+  - id: 235
+    rationale: "sunk costs are a primary source of path dependence: the psychology of not wanting to write off prior investment keeps organisations on paths that rational fresh-start analysis would reject."
+  - id: 205
+    rationale: "consistency bias is the psychological mechanism amplifying sunk cost: the identity attached to a decision makes abandonment feel like self-betrayal, not just loss."
+  - id: 218
+    rationale: the most common failure in mid-investment review; an approved business case becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence, which is why kill conditions must be stated at approval time.
+  - id: 251
+    rationale: "value realization exists structurally to counteract sunk-cost bias: the independent ledger and named owner remove the most invested party from judging their own work."
+  - id: 65
+    rationale: the perseverance trap in startup pivots is often sunk-cost reasoning; the structured pivot decision requires separating evidence from prior investment.
+references:
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the treatment of sunk cost as a consequence of loss aversion and mental accounting.
+  - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
+    authorYear: Annie Duke (2018)
+    supports: the practitioner discipline for separating decision quality from outcome quality, which requires ignoring sunk costs.
+  - title: "Misbehaving: The Making of Behavioral Economics"
+    authorYear: Richard H. Thaler (2015)
+    supports: the behavioural economics treatment of mental accounting; Thaler documents how segregated mental accounts make spent-but-irrecoverable costs feel ongoing and distort forward decisions.
+---
+
 # Sunk Cost
-*Past investment should not drive future decisions*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A sunk cost is a cost already incurred that cannot be recovered regardless of future decisions. The normative principle of economics: sunk costs should be ignored in forward-looking decisions because they cannot be changed — only future costs and benefits are relevant. The psychological reality: sunk costs are not ignored. People continue investing in failing projects, relationships, and strategies because of what has already been spent, producing decisions that are worse in expectation than a fresh analysis would recommend.
@@ -40,25 +73,6 @@ The correct frame for any forward-looking decision is: "From this point forward,
 A company has spent £2M and two years building a B2B product that has found no paying customers. The team argues "we've come too far to stop." A fresh-start analysis: if starting today with £2M and two years of insight (but not spent), would you build this product? The honest answer: no — the insight is that this market doesn't want this product. The £2M and two years are gone regardless. The question is what to do with the next six months and next £500k budget. Continuing is a sunk cost decision. Pivoting is a forward-looking one.
 
 ---
-
-## Connections
-
-→ [52·Loss Aversion](loss-aversion.md) — sunk cost fallacy is driven by loss aversion: abandoning the project makes the prior loss "real."
-→ [1·Inversion](../General-Thinking/inversion.md) — "if I were starting fresh today" is an inversion of the current position; it removes the sunk cost framing.
-→ [30·Opportunity Cost](../Economics/trade-offs.md) — sunk cost blindness prevents people from seeing the opportunity cost of continuing a failing investment.
-→ [235·Path Dependence](../Systems/path-dependence.md) — sunk costs are a primary source of path dependence: the psychology of not wanting to write off prior investment keeps organisations on paths that rational fresh-start analysis would reject.
-→ [205·Commitment & Consistency Bias](commitment-consistency-bias.md) — consistency bias is the psychological mechanism amplifying sunk cost: the identity attached to a decision makes abandonment feel like self-betrayal, not just loss.
-→ [218·Business Case Construction](../Business/business-case-construction.md) — the most common failure in mid-investment review; an approved business case becomes a sunk cost that biases subsequent decisions toward continuation regardless of new evidence, which is why kill conditions must be stated at approval time.
-→ [251·Value Realization](../Business/value-realization.md) — value realization exists structurally to counteract sunk-cost bias: the independent ledger and named owner remove the most invested party from judging their own work.
-→ [65·Pivot or Persevere](../Startups/pivot-or-persevere.md) — the perseverance trap in startup pivots is often sunk-cost reasoning; the structured pivot decision requires separating evidence from prior investment.
-
----
-
-## References
-
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the treatment of sunk cost as a consequence of loss aversion and mental accounting.
-- *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts* — Annie Duke (2018) — the practitioner discipline for separating decision quality from outcome quality, which requires ignoring sunk costs.
-- *Misbehaving: The Making of Behavioral Economics* — Richard H. Thaler (2015) — the behavioural economics treatment of mental accounting; Thaler documents how segregated mental accounts make spent-but-irrecoverable costs feel ongoing and distort forward decisions.
 
 ---
 

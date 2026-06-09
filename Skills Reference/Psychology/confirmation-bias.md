@@ -1,10 +1,71 @@
+---
+id: 55
+name: Confirmation Bias
+category: Psychology
+cardType: standard
+tagline: We seek evidence that confirms what we believe
+connections:
+  - id: 1
+    rationale: inversion is the active practice of disconfirmation, which is the direct antidote to confirmation bias.
+  - id: 6
+    rationale: confirmation bias prevents the map from updating when the territory changes.
+  - id: 57
+    rationale: low competence correlates with high confidence and high confirmation bias; the combination is dangerous.
+  - id: 212
+    rationale: observer bias is confirmation bias operating at the point of measurement; blinding prevents expectation from shaping evidence rather than correcting it after the fact.
+  - id: 223
+    rationale: steelmanning is the deliberate practice of engaging the strongest opposing view; it is the active countermeasure to confirmation bias in deliberation.
+  - id: 224
+    rationale: red teaming institutionalises the search for disconfirming evidence that confirmation bias would otherwise suppress.
+  - id: 225
+    rationale: A/B testing is a structural countermeasure to confirmation bias in decision-making; it lets evidence rather than conviction determine the outcome.
+  - id: 3
+    rationale: complex explanations often signal motivated reasoning; Occam's Razor is a structural check on that impulse.
+  - id: 4
+    rationale: once you decide someone acted with bad intent, confirmation bias amplifies every subsequent piece of ambiguous evidence; Hanlon's Razor interrupts the initial attribution.
+  - id: 9
+    rationale: "Socratic questioning is the active antidote to confirmation bias: it systematically seeks the weakness in a belief rather than confirming it."
+  - id: 13
+    rationale: "the Six Hats is a structural mitigation: it enforces exploration of all perspectives, including the one that conflicts with prior belief."
+  - id: 14
+    rationale: "the reflexive loop of the ladder is confirmation bias operating structurally: beliefs at the top select confirming data at the bottom, reinforcing themselves."
+  - id: 107
+    rationale: "confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely."
+  - id: 188
+    rationale: confirmation bias is the individual-level mechanism that sustains normal science; paradigm-shift theory explains the systemic result when enough practitioners individually suppress the same anomalies.
+  - id: 226
+    rationale: the completeness trap and quality-anxiety violations are driven by motivated reasoning; Grice's Quality maxim requires confidence calibration, not just accuracy.
+  - id: 56
+    rationale: "availability bias feeds confirmation bias: the vivid examples that come to mind first are usually consistent with existing beliefs, reinforcing rather than challenging them."
+  - id: 115
+    rationale: "the inside view is an exercise in confirmation: estimating from a success scenario filters out the base-rate data that would correct it."
+  - id: 167
+    rationale: big assumptions persist because confirmation bias collects evidence for them; surfacing the assumption exposes it to disconfirmation.
+  - id: 199
+    rationale: both biases filter evidence; survivorship filters by visibility (the dead don't report), confirmation filters by desirability (we seek what we want to believe).
+  - id: 204
+    rationale: the corrective practice to confirmation bias; where confirmation bias describes the failure mode, falsification is the habit that prevents it.
+  - id: 205
+    rationale: "closely related: consistency bias generates the motivation to seek confirming evidence; confirmation bias is the mechanism by which that search is conducted."
+  - id: 72
+    rationale: rigorous experiment design is the structural antidote to confirmation bias in analysis; pre-defined success criteria and blinding remove the experimenter's ability to interpret results selectively.
+references:
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the treatment of how System 1 generates confirmatory interpretations before System 2 can question them.
+  - title: "The Demon-Haunted World: Science as a Candle in the Dark"
+    authorYear: Carl Sagan (1995)
+    supports: "the scientific reasoning complement: how to design inquiry that can falsify rather than confirm."
+  - title: The Intelligence Trap
+    authorYear: David Robson (2019)
+    supports: examines why intelligence amplifies rather than prevents motivated reasoning; smart people construct better justifications for beliefs they already hold, making confirmation bias harder to detect.
+---
+
 # Confirmation Bias
-*We seek evidence that confirms what we believe*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Confirmation bias is the tendency to search for, interpret, and remember information in a way that confirms existing beliefs, and to discount or ignore information that contradicts them. It operates at every stage of information processing: what we search for, what we notice, how we interpret ambiguous evidence, and what we remember. It is the most pervasive and consequential of all cognitive biases in strategic and analytical contexts.
@@ -40,37 +101,6 @@ The mind processes incoming information through the filter of existing beliefs. 
 A product manager is convinced a feature she has championed will improve retention. User interviews are run; users say the feature is useful. This confirms the hypothesis. A careful analyst notes that the interview guide asked "would you find this useful?" (leading question, inviting agreement) rather than "describe the last time you struggled with [problem this feature addresses]" (open, disconfirming). The research method selected was itself confirmation bias in action — designed to produce confirming evidence. Re-run with a proper disconfirmation-structured interview, 60% of users can't describe a scenario where the feature matters to them.
 
 ---
-
-## Connections
-
-→ [1·Inversion](../General-Thinking/inversion.md) — inversion is the active practice of disconfirmation, which is the direct antidote to confirmation bias.
-→ [6·Map-Territory](../General-Thinking/map-territory.md) — confirmation bias prevents the map from updating when the territory changes.
-→ [57·Dunning-Kruger](dunning-kruger.md) — low competence correlates with high confidence and high confirmation bias; the combination is dangerous.
-→ [212·Observer Bias](observer-bias.md) — observer bias is confirmation bias operating at the point of measurement; blinding prevents expectation from shaping evidence rather than correcting it after the fact.
-→ [223·Steelmanning](../General-Thinking/steelmanning.md) — steelmanning is the deliberate practice of engaging the strongest opposing view; it is the active countermeasure to confirmation bias in deliberation.
-→ [224·Red Teaming](../Business/red-teaming.md) — red teaming institutionalises the search for disconfirming evidence that confirmation bias would otherwise suppress.
-→ [225·A/B Testing](../Business/ab-testing.md) — A/B testing is a structural countermeasure to confirmation bias in decision-making; it lets evidence rather than conviction determine the outcome.
-→ [3·Occam's Razor](../General-Thinking/occams-razor.md) — complex explanations often signal motivated reasoning; Occam's Razor is a structural check on that impulse.
-→ [4·Hanlon's Razor](../General-Thinking/hanlons-razor.md) — once you decide someone acted with bad intent, confirmation bias amplifies every subsequent piece of ambiguous evidence; Hanlon's Razor interrupts the initial attribution.
-→ [9·Socratic Thinking](../General-Thinking/socratic-thinking.md) — Socratic questioning is the active antidote to confirmation bias: it systematically seeks the weakness in a belief rather than confirming it.
-→ [13·De Bono's Six Thinking Hats](../General-Thinking/de-bonos-six-thinking-hats.md) — the Six Hats is a structural mitigation: it enforces exploration of all perspectives, including the one that conflicts with prior belief.
-→ [14·Ladder of Inference](../General-Thinking/ladder-of-inference.md) — the reflexive loop of the ladder is confirmation bias operating structurally: beliefs at the top select confirming data at the bottom, reinforcing themselves.
-→ [107·Divergent and Convergent Thinking](../General-Thinking/divergent-and-convergent-thinking.md) — confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely.
-→ [188·Paradigm Shift](../General-Thinking/paradigm-shift.md) — confirmation bias is the individual-level mechanism that sustains normal science; paradigm-shift theory explains the systemic result when enough practitioners individually suppress the same anomalies.
-→ [226·Grice's Maxims](../General-Thinking/grices-maxims.md) — the completeness trap and quality-anxiety violations are driven by motivated reasoning; Grice's Quality maxim requires confidence calibration, not just accuracy.
-→ [56·Availability Bias](../Psychology/availability-bias.md) — availability bias feeds confirmation bias: the vivid examples that come to mind first are usually consistent with existing beliefs, reinforcing rather than challenging them.
-→ [115·Planning Fallacy](planning-fallacy.md) — the inside view is an exercise in confirmation: estimating from a success scenario filters out the base-rate data that would correct it.
-→ [167·Immunity to Change](immunity-to-change.md) — big assumptions persist because confirmation bias collects evidence for them; surfacing the assumption exposes it to disconfirmation.
-→ [199·Survivorship Bias](survivorship-bias.md) — both biases filter evidence; survivorship filters by visibility (the dead don't report), confirmation filters by desirability (we seek what we want to believe).
-→ [204·Falsification](falsification.md) — the corrective practice to confirmation bias; where confirmation bias describes the failure mode, falsification is the habit that prevents it.
-→ [205·Commitment & Consistency Bias](commitment-consistency-bias.md) — closely related: consistency bias generates the motivation to seek confirming evidence; confirmation bias is the mechanism by which that search is conducted.
-→ [72·Experiment Design](../Business/experiment-design.md) — rigorous experiment design is the structural antidote to confirmation bias in analysis; pre-defined success criteria and blinding remove the experimenter's ability to interpret results selectively.
-
-## References
-
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the treatment of how System 1 generates confirmatory interpretations before System 2 can question them.
-- *The Demon-Haunted World: Science as a Candle in the Dark* — Carl Sagan (1995) — the scientific reasoning complement: how to design inquiry that can falsify rather than confirm.
-- *The Intelligence Trap* — David Robson (2019) — examines why intelligence amplifies rather than prevents motivated reasoning; smart people construct better justifications for beliefs they already hold, making confirmation bias harder to detect.
 
 ---
 

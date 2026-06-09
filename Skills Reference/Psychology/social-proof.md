@@ -1,10 +1,40 @@
+---
+id: 202
+name: Social Proof
+category: Psychology
+cardType: standard
+tagline: When uncertain, people look sideways to decide what to do.
+connections:
+  - id: 91
+    rationale: social proof provides the behaviour signal; framing shapes how that signal is interpreted and whether it triggers adoption
+  - id: 54
+    rationale: both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one
+  - id: 52
+    rationale: "social proof often activates loss aversion: the fear of being the one who didn't adopt what everyone else has"
+  - id: 262
+    rationale: formal incentives and social proof can work with or against each other; understanding both is necessary to predict which will dominate
+  - id: 203
+    rationale: the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when it is attached to a compelling narrative
+references:
+  - title: "Influence: The Psychology of Persuasion"
+    authorYear: Robert B. Cialdini (1984)
+    supports: the source text; social proof is one of Cialdini's six principles of influence, with the clearest empirical grounding.
+  - title: "The Tipping Point: How Little Things Can Make a Big Difference"
+    authorYear: Malcolm Gladwell (2000)
+    supports: the popularisation of how social proof cascades reach tipping points; the connector/maven/salesman model maps directly onto the early-adopter dynamic.
+  - title: Diffusion of Innovations
+    authorYear: Everett M. Rogers (1962; 5th ed. 2003)
+    supports: "the academic foundation: how innovations spread through populations via observation and imitation, with the classic adopter-category model (innovators → early adopters → early majority → late majority → laggards)."
+  - title: "Nudge: Improving Decisions About Health, Wealth, and Happiness"
+    authorYear: Richard H. Thaler & Cass R. Sunstein (2008)
+    supports: 'the policy application: descriptive norms ("most people in your neighbourhood recycle") as the most reliably effective nudge, working through social proof.'
+---
+
 # Social Proof
-*When uncertain, people look sideways to decide what to do.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Social proof is the psychological mechanism by which individuals use the observed behaviour of others as evidence for the correct course of action in a given situation. Coined by Robert Cialdini in *Influence* (1984), it describes how people reduce uncertainty not by analysing the situation directly but by inferring what to do from what others are doing. The underlying heuristic is adaptive: in genuinely uncertain situations, aggregated behaviour often does encode real information about what works.
@@ -50,21 +80,6 @@ A large professional services firm wants to embed a new approach to client risk 
 A partner who has studied change dynamics tries a different approach. She selects eight respected senior consultants — people others watch — and runs an intensive pilot with them. The pilot is structured to produce visible wins: brief case studies shared at practice group meetings, references in client pitches. Within three months, other consultants start asking the eight how to access the methodology. Within six months, adoption reaches 70%, not because the business case changed, but because the social proof signal changed. Consultants stopped asking "should I adopt this?" and started asking "how do I adopt what they're doing?"
 
 ---
-
-## Connections
-
-→ [91·Framing](../Art/framing.md) — social proof provides the behaviour signal; framing shapes how that signal is interpreted and whether it triggers adoption
-→ [54·Anchoring](anchoring.md) — both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one
-→ [52·Loss Aversion](loss-aversion.md) — social proof often activates loss aversion: the fear of being the one who didn't adopt what everyone else has
-→ [262·Incentive Design](../Economics/incentive-design.md) — formal incentives and social proof can work with or against each other; understanding both is necessary to predict which will dominate
-→ [203·Narrative Instinct](narrative-instinct.md) — the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when it is attached to a compelling narrative
-
-## References
-
-- *Influence: The Psychology of Persuasion* — Robert B. Cialdini (1984) — the source text; social proof is one of Cialdini's six principles of influence, with the clearest empirical grounding.
-- *The Tipping Point: How Little Things Can Make a Big Difference* — Malcolm Gladwell (2000) — the popularisation of how social proof cascades reach tipping points; the connector/maven/salesman model maps directly onto the early-adopter dynamic.
-- *Diffusion of Innovations* — Everett M. Rogers (1962; 5th ed. 2003) — the academic foundation: how innovations spread through populations via observation and imitation, with the classic adopter-category model (innovators → early adopters → early majority → late majority → laggards).
-- *Nudge: Improving Decisions About Health, Wealth, and Happiness* — Richard H. Thaler & Cass R. Sunstein (2008) — the policy application: descriptive norms ("most people in your neighbourhood recycle") as the most reliably effective nudge, working through social proof.
 
 ---
 

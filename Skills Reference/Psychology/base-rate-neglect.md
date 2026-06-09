@@ -1,10 +1,47 @@
+---
+id: 206
+name: Base Rate Neglect
+category: Psychology
+cardType: standard
+tagline: The vivid case in front of you is not more informative than the thousand cases behind it.
+connections:
+  - id: 7
+    rationale: base rate neglect is a specific and common failure of probabilistic reasoning; this card operationalises the correction
+  - id: 160
+    rationale: the formal methodology for applying outside-view base rates to project and investment estimation
+  - id: 115
+    rationale: base rate neglect is one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
+  - id: 199
+    rationale: both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
+  - id: 204
+    rationale: base rate anchoring is a form of outside-view challenge to inside-view narratives; both practices discipline against uncritical acceptance of the case in front of you
+  - id: 203
+    rationale: the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
+  - id: 211
+    rationale: base rate neglect is the most common source of overconfidence; good calibration requires anchoring on base rates before adjusting for specifics
+references:
+  - title: '"On the Psychology of Prediction"'
+    authorYear: Daniel Kahneman & Amos Tversky (1973), *Psychological Review*, 80(4)
+    supports: the foundational paper demonstrating that representativeness judgements systematically override base rates; introduced the reference class framework as the correction.
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the accessible treatment of base rate neglect as a failure of the representativeness heuristic; includes the inside view / outside view distinction and reference class forecasting.
+  - title: "Superforecasting: The Art and Science of Prediction"
+    authorYear: Philip E. Tetlock & Dan Gardner (2015)
+    supports: the empirical study of calibrated forecasting; base rate anchoring is a central discipline of the superforecasters' practice.
+  - title: '"From Nobel Prize to Project Management: Getting Risks Right"'
+    authorYear: Bent Flyvbjerg (2006), *Project Management Journal*, 37(3)
+    supports: demonstrates how reference class forecasting corrects the systematic underestimation that base rate neglect produces in infrastructure and IT projects.
+  - title: "How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project"
+    authorYear: Bent Flyvbjerg & Dan Gardner (2023)
+    supports: "the practitioner synthesis: why large projects fail predictably and how outside-view base rates are the primary correction tool."
+---
+
 # Base Rate Neglect
-*The vivid case in front of you is not more informative than the thousand cases behind it.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Base rate neglect — also called base rate fallacy or prior probability neglect — is the tendency to under-weight or ignore statistical background frequencies (base rates) when evaluating a specific case, especially when vivid, specific, or emotionally compelling information about the individual case is available. We treat the case in front of us as exceptional and reason from it directly, instead of anchoring to the prior probability of the outcome across the relevant reference class.
@@ -54,24 +91,6 @@ The reference class estimate: 27 months, £5.5M — before any specific assessme
 Armed with the base rate, the team can ask the right question: what specific features of this implementation justify placing it in the top quartile? The conversation is now anchored to evidence rather than optimism.
 
 ---
-
-## Connections
-
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — base rate neglect is a specific and common failure of probabilistic reasoning; this card operationalises the correction
-→ [160·Reference Class Forecasting](../Delivery-and-Flow/reference-class-forecasting.md) — the formal methodology for applying outside-view base rates to project and investment estimation
-→ [115·Planning Fallacy](planning-fallacy.md) — base rate neglect is one of the primary mechanisms behind the planning fallacy; plans are assessed on their internal logic rather than the distributional track record of similar plans
-→ [199·Survivorship Bias](survivorship-bias.md) — both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
-→ [204·Falsification](falsification.md) — base rate anchoring is a form of outside-view challenge to inside-view narratives; both practices discipline against uncritical acceptance of the case in front of you
-→ [203·Narrative Instinct](narrative-instinct.md) — the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
-→ [211·Calibration](../General-Thinking/calibration.md) — base rate neglect is the most common source of overconfidence; good calibration requires anchoring on base rates before adjusting for specifics
-
-## References
-
-- *"On the Psychology of Prediction"* — Daniel Kahneman & Amos Tversky (1973), *Psychological Review*, 80(4) — the foundational paper demonstrating that representativeness judgements systematically override base rates; introduced the reference class framework as the correction.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the accessible treatment of base rate neglect as a failure of the representativeness heuristic; includes the inside view / outside view distinction and reference class forecasting.
-- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical study of calibrated forecasting; base rate anchoring is a central discipline of the superforecasters' practice.
-- *"From Nobel Prize to Project Management: Getting Risks Right"* — Bent Flyvbjerg (2006), *Project Management Journal*, 37(3) — demonstrates how reference class forecasting corrects the systematic underestimation that base rate neglect produces in infrastructure and IT projects.
-- *How Big Things Get Done: The Surprising Factors That Determine the Fate of Every Project* — Bent Flyvbjerg & Dan Gardner (2023) — the practitioner synthesis: why large projects fail predictably and how outside-view base rates are the primary correction tool.
 
 ---
 

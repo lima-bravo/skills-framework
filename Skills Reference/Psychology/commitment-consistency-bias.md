@@ -1,10 +1,46 @@
+---
+id: 205
+name: Commitment & Consistency Bias
+category: Psychology
+cardType: standard
+tagline: Once we've taken a position, we defend it — not because it's right, but because it's ours.
+connections:
+  - id: 53
+    rationale: consistency bias is the psychological mechanism; sunk cost fallacy is the economic framing of the same error
+  - id: 173
+    rationale: "organisation-level consistency bias: the founding narrative that must be defended because it is central to institutional identity"
+  - id: 153
+    rationale: "the structural antidote: pre-specified exit conditions that bypass the in-the-moment consistency pull"
+  - id: 204
+    rationale: both concern the failure to update on disconfirming evidence; consistency bias describes the motivational barrier, falsification describes the epistemic discipline
+  - id: 55
+    rationale: closely related; consistency bias generates the motivation to seek confirming evidence rather than falsifying evidence
+  - id: 196
+    rationale: properly run AARs create a safe container for updating on past decisions without triggering consistency defence
+  - id: 208
+    rationale: each step of drift is reinforced by consistency bias; having taken each prior step, reversing course requires acknowledging that an accumulation of reasonable decisions has produced an unreasonable aggregate state
+  - id: 230
+    rationale: public commitments to cooperate can serve as credible signals that shift the equilibrium away from mutual defection
+references:
+  - title: "Influence: The Psychology of Persuasion"
+    authorYear: Robert B. Cialdini (1984)
+    supports: identifies commitment and consistency as one of the six core principles of influence; shows how small initial commitments lead to larger ones through the pressure toward self-consistency.
+  - title: A Theory of Cognitive Dissonance
+    authorYear: Leon Festinger (1957)
+    supports: the foundational text; dissonance between a commitment and new evidence is psychologically uncomfortable, and the easiest resolution is to discount the evidence rather than revise the commitment.
+  - title: '"Knee-Deep in the Big Muddy: A Study of Escalating Commitment to a Chosen Course of Action"'
+    authorYear: Barry M. Staw (1976), *Organizational Behavior and Human Performance*, 16(1)
+    supports: "the classic empirical demonstration of escalating commitment: decision-makers increase investment in a failing course of action precisely because they were responsible for the initial decision."
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: 'the cognitive science of consistency bias as a feature of System 1 reasoning: the coherent story of "who I am and what I decided" resists updating.'
+---
+
 # Commitment & Consistency Bias
-*Once we've taken a position, we defend it — not because it's right, but because it's ours.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Commitment and consistency bias is the psychological tendency to align future beliefs, statements, and actions with prior commitments, even when new evidence would rationally warrant a change. Once we have publicly stated a position, invested in a course of action, or identified with a belief, we experience psychological pressure to remain consistent with that prior self — regardless of what new information suggests.
@@ -54,24 +90,6 @@ The result: the platform ships, is maintained for two years at significant cost,
 A consistency-aware culture would have pre-specified the conditions under which the build decision would be revisited (at the 12-month review, ask: has the competitive landscape changed?), normalised the pivot as disciplined course-correction rather than failure, and separated the evaluation of the decision from the identity of the people who made it.
 
 ---
-
-## Connections
-
-→ [53·Sunk Cost](sunk-cost.md) — consistency bias is the psychological mechanism; sunk cost fallacy is the economic framing of the same error
-→ [173·Dominant Logic](../Business/dominant-logic.md) — organisation-level consistency bias: the founding narrative that must be defended because it is central to institutional identity
-→ [153·Kill Criteria](../Delivery-and-Flow/kill-criteria.md) — the structural antidote: pre-specified exit conditions that bypass the in-the-moment consistency pull
-→ [204·Falsification](falsification.md) — both concern the failure to update on disconfirming evidence; consistency bias describes the motivational barrier, falsification describes the epistemic discipline
-→ [55·Confirmation Bias](confirmation-bias.md) — closely related; consistency bias generates the motivation to seek confirming evidence rather than falsifying evidence
-→ [196·After-Action Review](../Leadership/after-action-review.md) — properly run AARs create a safe container for updating on past decisions without triggering consistency defence
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — each step of drift is reinforced by consistency bias; having taken each prior step, reversing course requires acknowledging that an accumulation of reasonable decisions has produced an unreasonable aggregate state
-→ [230·Prisoner's Dilemma](../Economics/prisoners-dilemma.md) — public commitments to cooperate can serve as credible signals that shift the equilibrium away from mutual defection
-
-## References
-
-- *Influence: The Psychology of Persuasion* — Robert B. Cialdini (1984) — identifies commitment and consistency as one of the six core principles of influence; shows how small initial commitments lead to larger ones through the pressure toward self-consistency.
-- *A Theory of Cognitive Dissonance* — Leon Festinger (1957) — the foundational text; dissonance between a commitment and new evidence is psychologically uncomfortable, and the easiest resolution is to discount the evidence rather than revise the commitment.
-- *"Knee-Deep in the Big Muddy: A Study of Escalating Commitment to a Chosen Course of Action"* — Barry M. Staw (1976), *Organizational Behavior and Human Performance*, 16(1) — the classic empirical demonstration of escalating commitment: decision-makers increase investment in a failing course of action precisely because they were responsible for the initial decision.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of consistency bias as a feature of System 1 reasoning: the coherent story of "who I am and what I decided" resists updating.
 
 ---
 

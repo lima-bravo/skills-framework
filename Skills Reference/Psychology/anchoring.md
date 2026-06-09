@@ -1,10 +1,43 @@
+---
+id: 54
+name: Anchoring
+category: Psychology
+cardType: standard
+tagline: The first number shapes all subsequent judgments
+connections:
+  - id: 50
+    rationale: anchoring is the mechanism by which reference frames are installed; relativity is the general principle.
+  - id: 52
+    rationale: anchors work partly by framing deviations as losses (below anchor) or gains (above anchor).
+  - id: 7
+    rationale: the antidote to anchoring is independent base-rate analysis before exposure to anchors.
+  - id: 236
+    rationale: "Schelling Points are manufactured anchors: salient options that coordinate behaviour by standing out as the obvious choice."
+  - id: 234
+    rationale: "the extreme-position-then-moderate tactic that shifts the window is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable."
+  - id: 56
+    rationale: recent vivid events set anchors; the two biases compound when a memorable event both inflates perceived probability and anchors subsequent estimates.
+  - id: 202
+    rationale: both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one.
+  - id: 219
+    rationale: initial price points become anchors that are very hard to raise later; the most expensive pricing mistake is starting too low, because customers anchor to that level and experience increases as losses.
+references:
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the accessible treatment of anchoring and its mechanisms in System 1 processing.
+  - title: "Judgment under Uncertainty: Heuristics and Biases"
+    authorYear: Amos Tversky & Daniel Kahneman, Science Vol. 185 (1974)
+    supports: the original academic paper establishing anchoring as a cognitive heuristic.
+  - title: Predictably Irrational
+    authorYear: Dan Ariely (2008)
+    supports: 'introduces "arbitrary coherence": even random anchors create stable willingness-to-pay that persists long after the initial exposure.'
+---
+
 # Anchoring
-*The first number shapes all subsequent judgments*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Anchoring is the cognitive bias where an initial piece of information — the "anchor" — disproportionately influences subsequent judgments, even when the anchor is irrelevant to the judgment being made. In a classic Tversky and Kahneman experiment, people's estimates of the percentage of African nations in the UN were influenced by a random wheel-of-fortune spin (high spin → higher estimates; low spin → lower estimates). In practice: the first salary number in a negotiation, the first price tag seen, the first estimate on a project timeline all become anchors that subsequent discussion gravitates around.
@@ -40,23 +73,6 @@ The anchor sets the reference frame for all subsequent adjustments. Adjustments 
 A founder is raising a Series A. The first VC she meets opens with "we're thinking valuations in the £8-12M range for companies at your stage." This is an anchor. Her own analysis suggests £18M is fair for her metrics. If she responds to the VC's frame by negotiating from £8-12M, she has accepted the anchor. The correct response: state her own number early — "We're pricing this round at £18M pre-money based on [specific metrics]" — and provide the rationale. The VC's anchor is countered with her own. Subsequent discussion happens around the contested £18M vs. £12M range, not the uncontested £8-12M.
 
 ---
-
-## Connections
-
-→ [50·Relativity](../Physics-and-Chemistry/relativity.md) — anchoring is the mechanism by which reference frames are installed; relativity is the general principle.
-→ [52·Loss Aversion](loss-aversion.md) — anchors work partly by framing deviations as losses (below anchor) or gains (above anchor).
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — the antidote to anchoring is independent base-rate analysis before exposure to anchors.
-→ [236·Schelling Points](../Economics/schelling-points.md) — Schelling Points are manufactured anchors: salient options that coordinate behaviour by standing out as the obvious choice.
-→ [234·Overton Window](../General-Thinking/overton-window.md) — the extreme-position-then-moderate tactic that shifts the window is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable.
-→ [56·Availability Bias](availability-bias.md) — recent vivid events set anchors; the two biases compound when a memorable event both inflates perceived probability and anchors subsequent estimates.
-→ [202·Social Proof](social-proof.md) — both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one.
-→ [219·Pricing Logic](../Business/pricing-logic.md) — initial price points become anchors that are very hard to raise later; the most expensive pricing mistake is starting too low, because customers anchor to that level and experience increases as losses.
-
-## References
-
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the accessible treatment of anchoring and its mechanisms in System 1 processing.
-- *Judgment under Uncertainty: Heuristics and Biases* — Amos Tversky & Daniel Kahneman, Science Vol. 185 (1974) — the original academic paper establishing anchoring as a cognitive heuristic.
-- *Predictably Irrational* — Dan Ariely (2008) — introduces "arbitrary coherence": even random anchors create stable willingness-to-pay that persists long after the initial exposure.
 
 ---
 

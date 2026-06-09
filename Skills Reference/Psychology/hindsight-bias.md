@@ -1,10 +1,40 @@
+---
+id: 201
+name: Hindsight Bias
+category: Psychology
+cardType: standard
+tagline: '"I knew it all along" — the three most expensive words in a post-mortem.'
+connections:
+  - id: 196
+    rationale: hindsight bias is the primary contaminant of poorly-run AARs; well-run AARs explicitly reconstruct the information state at decision time
+  - id: 199
+    rationale: both biases make the past seem more orderly and predictable than it was; hindsight operates on outcomes, survivorship on populations
+  - id: 7
+    rationale: "the antidote: evaluating decisions by the probability distribution that was reasonably estimable at the time, not the single outcome that occurred"
+  - id: 10
+    rationale: proactively creates a written record of uncertainty before the outcome is known, providing an honest baseline for later retrospection
+  - id: 200
+    rationale: hindsight bias inflates the perceived foreseeability of outcomes; FAE then attributes the failure to miss them to character rather than the genuine difficulty of prediction
+references:
+  - title: '"Hindsight ≠ Foresight: The Effect of Outcome Knowledge on Judgment Under Uncertainty"'
+    authorYear: "Baruch Fischhoff (1975), *Journal of Experimental Psychology: Human Perception and Performance*, 1(3)"
+    supports: the founding experimental paper; demonstrated that outcome knowledge systematically inflates perceived predictability across domains.
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the comprehensive cognitive account of hindsight bias and why the illusion of understanding the past generates false confidence about the future.
+  - title: "Superforecasting: The Art and Science of Prediction"
+    authorYear: Philip E. Tetlock & Dan Gardner (2015)
+    supports: the empirical study of what separates accurate forecasters; calibration against hindsight-contaminated judgement is a central theme.
+  - title: "The Undoing Project: A Friendship That Changed Our Minds"
+    authorYear: Michael Lewis (2016)
+    supports: the narrative account of Kahneman and Tversky's collaboration; hindsight bias emerges throughout as the lens that distorts how we reconstruct past decisions.
+---
+
 # Hindsight Bias
-*"I knew it all along" — the three most expensive words in a post-mortem.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Hindsight bias is the tendency, after an outcome is known, to believe that the outcome was predictable or even inevitable — that we "knew it all along." Psychologist Baruch Fischhoff first documented this systematically in 1975, demonstrating that people who were told the outcome of an event consistently rated it as more predictable than people who had not been told. The effect is robust across domains: medical diagnosis, historical events, legal judgements, financial predictions, and organisational decisions.
@@ -52,21 +82,6 @@ A more careful reconstruction: the security review at launch covered the same sc
 Hindsight bias turned an understandable gap in legacy system knowledge into an obvious oversight. The actual learning — "we need better documentation of legacy API edge cases" — was less satisfying than the hindsight conclusion — "we should have caught this in review." The team updated the review checklist rather than the documentation practice, solving a hindsight-constructed problem rather than the real one.
 
 ---
-
-## Connections
-
-→ [196·After-Action Review](../Leadership/after-action-review.md) — hindsight bias is the primary contaminant of poorly-run AARs; well-run AARs explicitly reconstruct the information state at decision time
-→ [199·Survivorship Bias](survivorship-bias.md) — both biases make the past seem more orderly and predictable than it was; hindsight operates on outcomes, survivorship on populations
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — the antidote: evaluating decisions by the probability distribution that was reasonably estimable at the time, not the single outcome that occurred
-→ [10·Pre-Mortem](../General-Thinking/pre-mortem.md) — proactively creates a written record of uncertainty before the outcome is known, providing an honest baseline for later retrospection
-→ [200·Fundamental Attribution Error](fundamental-attribution-error.md) — hindsight bias inflates the perceived foreseeability of outcomes; FAE then attributes the failure to miss them to character rather than the genuine difficulty of prediction
-
-## References
-
-- *"Hindsight ≠ Foresight: The Effect of Outcome Knowledge on Judgment Under Uncertainty"* — Baruch Fischhoff (1975), *Journal of Experimental Psychology: Human Perception and Performance*, 1(3) — the founding experimental paper; demonstrated that outcome knowledge systematically inflates perceived predictability across domains.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the comprehensive cognitive account of hindsight bias and why the illusion of understanding the past generates false confidence about the future.
-- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical study of what separates accurate forecasters; calibration against hindsight-contaminated judgement is a central theme.
-- *The Undoing Project: A Friendship That Changed Our Minds* — Michael Lewis (2016) — the narrative account of Kahneman and Tversky's collaboration; hindsight bias emerges throughout as the lens that distorts how we reconstruct past decisions.
 
 ---
 

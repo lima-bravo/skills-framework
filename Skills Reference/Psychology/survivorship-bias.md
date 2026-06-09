@@ -1,10 +1,52 @@
+---
+id: 199
+name: Survivorship Bias
+category: Psychology
+cardType: standard
+tagline: You only see the winners — the losers have already left the room.
+connections:
+  - id: 55
+    rationale: both biases filter evidence; survivorship filters by visibility, confirmation filters by desirability
+  - id: 196
+    rationale: "AAR is the structural antidote: it forces examination of what went wrong, not just what worked"
+  - id: 201
+    rationale: frequently co-occurs; once you know something succeeded, survivorship bias reinforces the illusion that it was always going to
+  - id: 0
+    rationale: cutting through survivor-sourced conventional wisdom requires rebuilding reasoning from ground truth
+  - id: 7
+    rationale: the correction for survivorship bias is explicitly reasoning over the full distribution, not just the visible tail
+  - id: 240
+    rationale: "survivorship bias compounds the Black Swan problem: we study organisations that survived tail events, which systematically underrepresents the frequency and impact of those events"
+  - id: 238
+    rationale: "in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is"
+  - id: 208
+    rationale: "survivorship bias is a primary enabler of drift: the absence of past failure is mistaken for evidence of safety, suppressing corrective action and allowing the system to drift further toward the risk boundary"
+  - id: 200
+    rationale: "combining survivorship bias with FAE produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had"
+  - id: 204
+    rationale: reporting only confirming outcomes is how survivorship bias causes falsification to fail in practice; the graveyard of disconfirming cases is exactly what falsification requires you to look at
+  - id: 206
+    rationale: both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
+references:
+  - title: "How Not to Be Wrong: The Power of Mathematical Thinking"
+    authorYear: Jordan Ellenberg (2014)
+    supports: contains the definitive popular treatment of the Wald aircraft problem and the general logic of reasoning from incomplete data.
+  - title: "The Halo Effect: And the Eight Other Business Delusions That Deceive Managers"
+    authorYear: Phil Rosenzweig (2007)
+    supports: demonstrates how survivorship bias infects management research; most "lessons from successful companies" are drawn from survivor populations.
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the cognitive science of why we over-weight vivid, available examples — the survivors — and under-weight the invisible base rate.
+  - title: A Method of Estimating Plane Vulnerability Based on Damage of Survivors
+    authorYear: Abraham Wald (1943; declassified 1980)
+    supports: the original Statistical Research Group memorandum; the founding document of the concept.
+---
+
 # Survivorship Bias
-*You only see the winners — the losers have already left the room.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Survivorship bias is the logical error of concentrating on entities that passed a selection process while overlooking those that did not, typically because the failures are less visible or no longer present. The term was popularised by statistician Abraham Wald during World War II, when the U.S. military asked him to analyse bullet holes in returning aircraft to determine where to add armour. Wald's insight was that the planes they should study were the ones that *didn't* return — the returning planes showed exactly where a plane could be hit and survive.
@@ -49,27 +91,6 @@ The problem: they only studied acquisitions that survived to be analysed. The th
 A survivorship-aware analysis would start with all 18 acquisition attempts, code each on the hypothesised success factors, and then ask: do the factors actually discriminate between successes and failures?
 
 ---
-
-## Connections
-
-→ [55·Confirmation Bias](confirmation-bias.md) — both biases filter evidence; survivorship filters by visibility, confirmation filters by desirability
-→ [196·After-Action Review](../Leadership/after-action-review.md) — AAR is the structural antidote: it forces examination of what went wrong, not just what worked
-→ [201·Hindsight Bias](hindsight-bias.md) — frequently co-occurs; once you know something succeeded, survivorship bias reinforces the illusion that it was always going to
-→ [0·First Principles Thinking](../General-Thinking/first-principles.md) — cutting through survivor-sourced conventional wisdom requires rebuilding reasoning from ground truth
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — the correction for survivorship bias is explicitly reasoning over the full distribution, not just the visible tail
-→ [240·Black Swan](../General-Thinking/black-swan.md) — survivorship bias compounds the Black Swan problem: we study organisations that survived tail events, which systematically underrepresents the frequency and impact of those events
-→ [238·Power Law](../Mathematics/power-law.md) — in power law domains, survivorship bias is most dangerous: the few visible winners make the distribution look more predictable than it is
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — survivorship bias is a primary enabler of drift: the absence of past failure is mistaken for evidence of safety, suppressing corrective action and allowing the system to drift further toward the risk boundary
-→ [200·Fundamental Attribution Error](fundamental-attribution-error.md) — combining survivorship bias with FAE produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had
-→ [204·Falsification](falsification.md) — reporting only confirming outcomes is how survivorship bias causes falsification to fail in practice; the graveyard of disconfirming cases is exactly what falsification requires you to look at
-→ [206·Base Rate Neglect](base-rate-neglect.md) — both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
-
-## References
-
-- *How Not to Be Wrong: The Power of Mathematical Thinking* — Jordan Ellenberg (2014) — contains the definitive popular treatment of the Wald aircraft problem and the general logic of reasoning from incomplete data.
-- *The Halo Effect: And the Eight Other Business Delusions That Deceive Managers* — Phil Rosenzweig (2007) — demonstrates how survivorship bias infects management research; most "lessons from successful companies" are drawn from survivor populations.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of why we over-weight vivid, available examples — the survivors — and under-weight the invisible base rate.
-- *A Method of Estimating Plane Vulnerability Based on Damage of Survivors* — Abraham Wald (1943; declassified 1980) — the original Statistical Research Group memorandum; the founding document of the concept.
 
 ---
 

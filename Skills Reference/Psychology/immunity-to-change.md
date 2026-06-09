@@ -1,10 +1,41 @@
+---
+id: 167
+name: Immunity to Change
+category: Psychology
+cardType: standard
+tagline: Why rational plans fail in irrational systems
+connections:
+  - id: 125
+    rationale: immunity to change is the missing chapter in most change-management playbooks.
+  - id: 104
+    rationale: the conditions under which immunity work is possible.
+  - id: 55
+    rationale: big assumptions persist because we collect evidence for them.
+  - id: 14
+    rationale: surfacing the assumption climbs back down the ladder.
+  - id: 128
+    rationale: organizational change theories often miss the immunity layer.
+  - id: 237
+    rationale: Immunity to Change explains individual-level resistance; the Cobra Effect explains how the change programme architecture itself can sustain the status quo at the organisational level.
+  - id: 188
+    rationale: "the individual-level architecture that maps onto organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks."
+references:
+  - title: Immunity to Change
+    authorYear: Robert Kegan & Lisa Laskow Lahey (2009)
+    supports: "the source text: the four-column immunity map, the role of big assumptions, and the designed experiment as the intervention mechanism."
+  - title: How the Way We Talk Can Change the Way We Work
+    authorYear: Robert Kegan & Lisa Laskow Lahey (2001)
+    supports: the earlier framework for surfacing competing commitments through language; the conceptual precursor to the immunity map.
+  - title: An Everyone Culture
+    authorYear: Robert Kegan & Lisa Laskow Lahey (2016)
+    supports: applies immunity-to-change principles at the organizational level in deliberately developmental organizations.
+---
+
 # Immunity to Change
-*Why rational plans fail in irrational systems*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Immunity to Change is the theory developed by Robert Kegan and Lisa Lahey (Harvard Graduate School of Education; *Immunity to Change*, 2009) that explains why intelligent people, with the knowledge and intent to change, consistently fail to do so. The mechanism: alongside any stated commitment to change sits a counter-commitment — often unstated and frequently unconscious — that protects an existing identity, fear, or belief. Real change requires surfacing both commitments and the "big assumption" that sustains the counter-commitment. Without that, willpower and planning alone cannot overcome the immune response that pulls the system back to its previous state. The framework applies at the individual level (a leader unable to delegate despite intent) and the organizational level (transformations that revert).
@@ -41,22 +72,6 @@ A body's immune system protects against threats. Sometimes — autoimmune disord
 A senior partner has been told for three years that they need to delegate more. They agree. They keep not doing it. The four-column exercise: (1) Stated commitment — delegate to grow the team and free my own time. (2) What I'm doing instead — picking up the work last minute, redoing junior work in private, not sharing context that would enable others. (3) Hidden commitment — keep being the indispensable expert, protect against making mistakes that aren't mine to make. (4) Big assumption — if I delegate, the work won't be good enough, my reputation will suffer, and I'll be exposed. A designed test: delegate one mid-stakes piece of work fully for 30 days; have the team report back what happens. The work is fine; the reputation is fine; the assumption was wrong. The next test goes further. Over six months, the delegation problem dissolves — not because of more willpower but because the assumption powering the immune response was tested and falsified.
 
 ---
-
-## Connections
-
-→ [125·Change Management](../Leadership/change-management.md) — immunity to change is the missing chapter in most change-management playbooks.
-→ [104·Psychological Safety](psychological-safety.md) — the conditions under which immunity work is possible.
-→ [55·Confirmation Bias](confirmation-bias.md) — big assumptions persist because we collect evidence for them.
-→ [14·Ladder of Inference](../General-Thinking/ladder-of-inference.md) — surfacing the assumption climbs back down the ladder.
-→ [128·Theory of Change](../General-Thinking/theory-of-change.md) — organizational change theories often miss the immunity layer.
-→ [237·Cobra Effect](../Innovation-Entrepreneurship/cobra-effect.md) — Immunity to Change explains individual-level resistance; the Cobra Effect explains how the change programme architecture itself can sustain the status quo at the organisational level.
-→ [188·Paradigm Shift](../General-Thinking/paradigm-shift.md) — the individual-level architecture that maps onto organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks.
-
-## References
-
-- *Immunity to Change* — Robert Kegan & Lisa Laskow Lahey (2009) — the source text: the four-column immunity map, the role of big assumptions, and the designed experiment as the intervention mechanism.
-- *How the Way We Talk Can Change the Way We Work* — Robert Kegan & Lisa Laskow Lahey (2001) — the earlier framework for surfacing competing commitments through language; the conceptual precursor to the immunity map.
-- *An Everyone Culture* — Robert Kegan & Lisa Laskow Lahey (2016) — applies immunity-to-change principles at the organizational level in deliberately developmental organizations.
 
 ---
 

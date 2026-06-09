@@ -1,10 +1,37 @@
+---
+id: 56
+name: Availability Bias
+category: Psychology
+cardType: standard
+tagline: What comes to mind easily seems more likely
+connections:
+  - id: 55
+    rationale: both biases filter information through existing beliefs and experience; availability contributes to confirmation (the vivid examples that come to mind are usually consistent with existing beliefs).
+  - id: 7
+    rationale: the antidote to availability bias is explicit base-rate reasoning.
+  - id: 54
+    rationale: recent vivid events anchor subsequent probability estimates.
+  - id: 40
+    rationale: "availability bias amplifies Gresham's Law in information markets: cheap-to-produce, vivid content outcompetes careful analysis when both circulate in the same undifferentiated feed."
+  - id: 249
+    rationale: the loudest, most visible customer segment is often over-weighted in strategy because of availability bias; segmentation discipline is a structural countermeasure.
+references:
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the primary accessible treatment of availability and its distorting effects on probability judgment.
+  - title: "Judgment under Uncertainty: Heuristics and Biases"
+    authorYear: Amos Tversky & Daniel Kahneman, Science Vol. 185 (1974)
+    supports: the original paper naming the availability heuristic.
+  - title: The Art of Thinking Clearly
+    authorYear: Rolf Dobelli (2011)
+    supports: catalogues availability bias alongside related heuristics with practitioner-facing examples from business and daily decisions.
+---
+
 # Availability Bias
-*What comes to mind easily seems more likely*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Availability bias (or availability heuristic) is the tendency to estimate the probability or frequency of events based on how easily examples come to mind. Events that are recent, vivid, emotionally significant, or widely reported are "available" to memory — they come to mind quickly — and are therefore judged more probable than they actually are. Conversely, events that are common but mundane, or that we have never personally witnessed, are underestimated.
@@ -40,22 +67,6 @@ The mind uses cognitive ease as a proxy for frequency. If you can think of many 
 A security team is allocating their budget. They've just experienced a phishing attack that cost the company significantly. Their budget allocation focuses heavily on email security, phishing training, and similar controls. Meanwhile, a structured risk assessment would show that unpatched systems and credential theft via other vectors are statistically higher-probability risks at their company profile. Availability bias — the vivid recent phishing incident — has crowded out a systematic risk evaluation.
 
 ---
-
-## Connections
-
-→ [55·Confirmation Bias](confirmation-bias.md) — both biases filter information through existing beliefs and experience; availability contributes to confirmation (the vivid examples that come to mind are usually consistent with existing beliefs).
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — the antidote to availability bias is explicit base-rate reasoning.
-→ [54·Anchoring](anchoring.md) — recent vivid events anchor subsequent probability estimates.
-→ [40·Gresham's Law](../Economics/greshams-law.md) — availability bias amplifies Gresham's Law in information markets: cheap-to-produce, vivid content outcompetes careful analysis when both circulate in the same undifferentiated feed.
-→ [249·Customer Segmentation](../Business/customer-segmentation.md) — the loudest, most visible customer segment is often over-weighted in strategy because of availability bias; segmentation discipline is a structural countermeasure.
-
----
-
-## References
-
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the primary accessible treatment of availability and its distorting effects on probability judgment.
-- *Judgment under Uncertainty: Heuristics and Biases* — Amos Tversky & Daniel Kahneman, Science Vol. 185 (1974) — the original paper naming the availability heuristic.
-- *The Art of Thinking Clearly* — Rolf Dobelli (2011) — catalogues availability bias alongside related heuristics with practitioner-facing examples from business and daily decisions.
 
 ---
 

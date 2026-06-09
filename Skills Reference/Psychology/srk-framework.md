@@ -1,10 +1,45 @@
+---
+id: 207
+name: SRK Framework
+category: Psychology
+cardType: standard
+tagline: Experts don't think harder — they think less. Until the situation demands otherwise.
+connections:
+  - id: 196
+    rationale: "SRK classification is a useful structuring lens for AARs: separate the slip/lapse findings from the rule mistake findings from the knowledge mistake findings; each stream requires a different remediation discussion"
+  - id: 200
+    rationale: "the most common misapplication of SRK findings: attributing skill-level slips to carelessness or rule-level mistakes to incompetence, when both are normal features of how cognition works"
+  - id: 208
+    rationale: organisations drift toward unsafe conditions partly because rule-based and skill-based performance masks growing mismatches between mental models and system reality
+  - id: 122
+    rationale: "maps partly onto SRK: complicated domain maps to rule-based, complex/chaotic domains force knowledge-based engagement; SRK explains the cognitive mechanics behind Cynefin's prescriptions"
+  - id: 72
+    rationale: novel situations that require knowledge-based reasoning are the ones that most benefit from structured hypothesis testing; SRK identifies when you are in the regime where experimentation is needed
+  - id: 194
+    rationale: intent-based leadership works partly because it allows operators to apply knowledge-based reasoning in novel situations without waiting for rule-based authorisation
+references:
+  - title: '"Skills, Rules, and Knowledge; Signals, Signs, and Symbols, and Other Distinctions in Human Performance Models"'
+    authorYear: Jens Rasmussen (1983), *IEEE Transactions on Systems, Man, and Cybernetics*, Vol. 13, No. 3
+    supports: the founding paper; introduces the three-level taxonomy and the characteristic error types at each level.
+  - title: Tasks, Errors and Mental Models
+    authorYear: L.P. Goodstein, H.B. Andersen & S.E. Olsen, eds. (1988)
+    supports: a festschrift for Rasmussen that extends SRK into interface design, error classification, and training; the primary secondary source for applied SRK work.
+  - title: Human Error
+    authorYear: James Reason (1990), Cambridge University Press
+    supports: the most widely cited treatment of the error taxonomy; Reason's generic error-modelling system (GEMS) is built on SRK and extends it with an account of how rule- and knowledge-based mistakes arise.
+  - title: The Design of Everyday Things
+    authorYear: Don Norman (1988; revised 2013)
+    supports: applies the cognitive levels to everyday artefact design; Norman's analysis of slips versus mistakes maps directly onto the skill/rule distinction and grounds SRK for designers and engineers.
+  - title: "Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-Based Work"
+    authorYear: Kim J. Vicente (1999), Lawrence Erlbaum Associates
+    supports: the most rigorous operationalisation of Rasmussen's framework for systems design; essential for practitioners applying SRK to complex sociotechnical environments.
+---
+
 # SRK Framework
-*Experts don't think harder — they think less. Until the situation demands otherwise.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Skills–Rules–Knowledge (SRK) framework is a taxonomy of human cognitive control developed by Jens Rasmussen in 1983, arising from his research into how operators in complex industrial systems — nuclear plants, air traffic control, process control — actually make decisions and make errors. It describes three qualitatively different modes of behaviour, each with distinct cognitive demands and characteristic failure modes.
@@ -52,23 +87,6 @@ A senior software engineer is deploying a configuration change to a production s
 The post-mortem asks: was she undertrained? No. Was the procedure unclear? No. Was she not trying? No. The SRK analysis identifies a slip caused by skill-based execution without a verification checkpoint. The intervention: a mandatory confirmation prompt showing the target environment before any deployment script runs — a forcing function that interrupts automaticity at the moment it matters. Not more training; a design change.
 
 ---
-
-## Connections
-
-→ [196·After-Action Review](../Leadership/after-action-review.md) — SRK classification is a useful structuring lens for AARs: separate the slip/lapse findings from the rule mistake findings from the knowledge mistake findings; each stream requires a different remediation discussion
-→ [200·Fundamental Attribution Error](fundamental-attribution-error.md) — the most common misapplication of SRK findings: attributing skill-level slips to carelessness or rule-level mistakes to incompetence, when both are normal features of how cognition works
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — organisations drift toward unsafe conditions partly because rule-based and skill-based performance masks growing mismatches between mental models and system reality
-→ [122·Cynefin Framework](../General-Thinking/cynefin-framework.md) — maps partly onto SRK: complicated domain maps to rule-based, complex/chaotic domains force knowledge-based engagement; SRK explains the cognitive mechanics behind Cynefin's prescriptions
-→ [72·Experiment Design](../Business/experiment-design.md) — novel situations that require knowledge-based reasoning are the ones that most benefit from structured hypothesis testing; SRK identifies when you are in the regime where experimentation is needed
-→ [194·Leader's Intent](../Leadership/leaders-intent.md) — intent-based leadership works partly because it allows operators to apply knowledge-based reasoning in novel situations without waiting for rule-based authorisation
-
-## References
-
-- *"Skills, Rules, and Knowledge; Signals, Signs, and Symbols, and Other Distinctions in Human Performance Models"* — Jens Rasmussen (1983), *IEEE Transactions on Systems, Man, and Cybernetics*, Vol. 13, No. 3 — the founding paper; introduces the three-level taxonomy and the characteristic error types at each level.
-- *Tasks, Errors and Mental Models* — L.P. Goodstein, H.B. Andersen & S.E. Olsen, eds. (1988) — a festschrift for Rasmussen that extends SRK into interface design, error classification, and training; the primary secondary source for applied SRK work.
-- *Human Error* — James Reason (1990), Cambridge University Press — the most widely cited treatment of the error taxonomy; Reason's generic error-modelling system (GEMS) is built on SRK and extends it with an account of how rule- and knowledge-based mistakes arise.
-- *The Design of Everyday Things* — Don Norman (1988; revised 2013) — applies the cognitive levels to everyday artefact design; Norman's analysis of slips versus mistakes maps directly onto the skill/rule distinction and grounds SRK for designers and engineers.
-- *Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-Based Work* — Kim J. Vicente (1999), Lawrence Erlbaum Associates — the most rigorous operationalisation of Rasmussen's framework for systems design; essential for practitioners applying SRK to complex sociotechnical environments.
 
 ---
 

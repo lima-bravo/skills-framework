@@ -1,10 +1,44 @@
+---
+id: 200
+name: Fundamental Attribution Error
+category: Psychology
+cardType: standard
+tagline: Their failure is character; yours is circumstance.
+connections:
+  - id: 196
+    rationale: AARs done well explicitly surface situational factors; FAE is a common contaminator of poorly-run retrospectives
+  - id: 199
+    rationale: "combining FAE with survivorship produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had"
+  - id: 261
+    rationale: the antidote to FAE at scale; systems thinking makes situational forces legible
+  - id: 203
+    rationale: humans favour agent-causal stories (someone did this for reasons) over system-causal stories (conditions made this outcome likely); FAE is narrative instinct applied to blame
+  - id: 262
+    rationale: if FAE leads you to keep redesigning the person instead of the incentive structure, you'll keep solving the wrong problem
+  - id: 4
+    rationale: "Hanlon's Razor is the practical decision rule that FAE explains: the tendency to default to malice is the FAE applied to intentionality."
+  - id: 207
+    rationale: "SRK makes FAE's practical cost concrete: attributing skill-level slips to carelessness or rule-level mistakes to incompetence produces interventions aimed at people rather than at the cognitive mechanics that generated the error."
+references:
+  - title: '"The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process"'
+    authorYear: Lee Ross (1977), *Advances in Experimental Social Psychology*, Vol. 10
+    supports: the founding paper that named the bias and established it as the central error in social perception.
+  - title: "The Person and the Situation: Perspectives of Social Psychology"
+    authorYear: Lee Ross & Richard E. Nisbett (1991)
+    supports: "the definitive extended treatment: when situations dominate personality in predicting behaviour, and the practical implications for judgement."
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: "the cognitive science account of why FAE is automatic: System 1 reads people readily and situations only with deliberate effort."
+  - title: "The Culture Code: The Secrets of Highly Successful Groups"
+    authorYear: Daniel Coyle (2018)
+    supports: shows how high-performing teams actively counteract FAE through safety-building rituals that make situational factors discussable rather than attributed to individuals.
+---
+
 # Fundamental Attribution Error
-*Their failure is character; yours is circumstance.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Fundamental Attribution Error (FAE) — also called correspondence bias — is the tendency to over-attribute other people's behaviour to their stable personal traits (character, ability, intent) while under-weighting the situational forces acting on them. When a colleague misses a deadline, we conclude they are disorganised; when we miss a deadline, we explain it by the unforeseen complexity of the task. The asymmetry is systematic and well-replicated.
@@ -52,23 +86,6 @@ A consultant runs a situational audit. She finds: (1) the region's CRM territory
 The FAE led the manager to replace the person rather than redesign the system. The situational audit reveals that even exceptional salespeople would struggle in these conditions — the stage itself was broken.
 
 ---
-
-## Connections
-
-→ [196·After-Action Review](../Leadership/after-action-review.md) — AARs done well explicitly surface situational factors; FAE is a common contaminator of poorly-run retrospectives
-→ [199·Survivorship Bias](survivorship-bias.md) — combining FAE with survivorship produces a particularly distorted picture: you attribute the survivors' success to their character and ignore the structural advantages they had
-→ [261·Systems Thinking](../Systems/systems-thinking.md) — the antidote to FAE at scale; systems thinking makes situational forces legible
-→ [203·Narrative Instinct](narrative-instinct.md) — humans favour agent-causal stories (someone did this for reasons) over system-causal stories (conditions made this outcome likely); FAE is narrative instinct applied to blame
-→ [262·Incentive Design](../Economics/incentive-design.md) — if FAE leads you to keep redesigning the person instead of the incentive structure, you'll keep solving the wrong problem
-→ [4·Hanlon's Razor](../General-Thinking/hanlons-razor.md) — Hanlon's Razor is the practical decision rule that FAE explains: the tendency to default to malice is the FAE applied to intentionality.
-→ [207·SRK Framework](srk-framework.md) — SRK makes FAE's practical cost concrete: attributing skill-level slips to carelessness or rule-level mistakes to incompetence produces interventions aimed at people rather than at the cognitive mechanics that generated the error.
-
-## References
-
-- *"The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process"* — Lee Ross (1977), *Advances in Experimental Social Psychology*, Vol. 10 — the founding paper that named the bias and established it as the central error in social perception.
-- *The Person and the Situation: Perspectives of Social Psychology* — Lee Ross & Richard E. Nisbett (1991) — the definitive extended treatment: when situations dominate personality in predicting behaviour, and the practical implications for judgement.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science account of why FAE is automatic: System 1 reads people readily and situations only with deliberate effort.
-- *The Culture Code: The Secrets of Highly Successful Groups* — Daniel Coyle (2018) — shows how high-performing teams actively counteract FAE through safety-building rituals that make situational factors discussable rather than attributed to individuals.
 
 ---
 

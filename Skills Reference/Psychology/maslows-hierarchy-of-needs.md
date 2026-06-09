@@ -1,10 +1,36 @@
+---
+id: 58
+name: Maslow's Hierarchy of Needs
+category: Psychology
+cardType: standard
+tagline: Unmet lower needs dominate; met needs cease to motivate
+connections:
+  - id: 51
+    rationale: Maslow provides the structural framework for understanding which incentives correspond to which motivational needs.
+  - id: 61
+    rationale: Alderfer's ERG is a simplified, less strictly hierarchical refinement of Maslow.
+  - id: 104
+    rationale: organizational psychological safety corresponds to Maslow's safety level applied to the team context.
+  - id: 59
+    rationale: "McClelland's theory is the individual-variation complement to Maslow's universal hierarchy: once you know which level someone is at, McClelland tells you which need within that level dominates."
+  - id: 60
+    rationale: "Max-Neef is the non-hierarchical complement: where Maslow sequences five levels, Max-Neef treats nine needs as equally fundamental and distinguishes needs from satisfiers."
+  - id: 192
+    rationale: SDT's three needs cut across Maslow's hierarchy rather than following it; the most empirically robust and practically applicable successor for knowledge work contexts.
+references:
+  - title: A Theory of Human Motivation
+    authorYear: Abraham H. Maslow, Psychological Review Vol. 50 No. 4 (1943)
+    supports: the original paper presenting the hierarchy.
+  - title: Motivation and Personality
+    authorYear: Abraham H. Maslow (1954; 2nd ed. 1970)
+    supports: the extended book-length treatment of the hierarchy and self-actualization.
+---
+
 # Maslow's Hierarchy of Needs
-*Unmet lower needs dominate; met needs cease to motivate*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Abraham Maslow's 1943 hierarchy of needs proposes that human motivation is structured in five levels, typically depicted as a pyramid: (1) Physiological (food, water, shelter, sleep); (2) Safety (security, employment, resources, health); (3) Love and Belonging (friendship, intimacy, family, community); (4) Esteem (self-esteem, status, recognition, achievement); (5) Self-actualization (realizing one's full potential, creative expression, meaning). The motivational logic: unmet needs at a lower level dominate attention and behavior; once met, a lower-level need no longer motivates, and the next level up becomes the active motivator.
@@ -39,20 +65,6 @@ People are motivated by needs that are *unmet*, not by needs that are *present*.
 A company introduces a purpose-driven culture program with a compelling mission, values workshops, and a vision that emphasizes meaning and impact (levels 4-5). Engagement remains low. Investigation reveals: the company is six months from its next fundraise and employees have heard rumors about cost-cutting. Level 2 (safety) is threatened. Purpose-level messaging is not registering because it is at the wrong level of the hierarchy. The correct sequencing: address the safety concern credibly first (transparent communication about the fundraise, clear commitment to team stability), then re-engage on purpose. The mission is genuinely compelling; the hierarchy ordering determined its reception.
 
 ---
-
-## Connections
-
-→ [51·Incentives](incentives.md) — Maslow provides the structural framework for understanding which incentives correspond to which motivational needs.
-→ [61·ERG Theory](erg-theory.md) — Alderfer's ERG is a simplified, less strictly hierarchical refinement of Maslow.
-→ [104·Psychological Safety](psychological-safety.md) — organizational psychological safety corresponds to Maslow's safety level applied to the team context.
-→ [59·McClelland's Acquired Needs](mcclellands-acquired-needs-theory.md) — McClelland's theory is the individual-variation complement to Maslow's universal hierarchy: once you know which level someone is at, McClelland tells you which need within that level dominates.
-→ [60·Max-Neef's Fundamental Human Needs](max-neefs-fundamental-human-needs.md) — Max-Neef is the non-hierarchical complement: where Maslow sequences five levels, Max-Neef treats nine needs as equally fundamental and distinguishes needs from satisfiers.
-→ [192·Self-Determination Theory](self-determination-theory.md) — SDT's three needs cut across Maslow's hierarchy rather than following it; the most empirically robust and practically applicable successor for knowledge work contexts.
-
-## References
-
-- *A Theory of Human Motivation* — Abraham H. Maslow, Psychological Review Vol. 50 No. 4 (1943) — the original paper presenting the hierarchy.
-- *Motivation and Personality* — Abraham H. Maslow (1954; 2nd ed. 1970) — the extended book-length treatment of the hierarchy and self-actualization.
 
 ---
 

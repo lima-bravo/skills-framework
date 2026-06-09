@@ -1,10 +1,35 @@
+---
+id: 57
+name: Dunning-Kruger
+category: Psychology
+cardType: standard
+tagline: Low competence produces high confidence; high competence produces appropriate humility
+connections:
+  - id: 5
+    rationale: Dunning-Kruger is the psychological mechanism that makes circle self-assessment hard; they are deeply related.
+  - id: 55
+    rationale: "early in learning a domain, confirmation bias and Dunning-Kruger reinforce each other: high confidence filters out disconfirming evidence."
+  - id: 211
+    rationale: calibration is the direct antidote to Dunning-Kruger; the practice of tracking predictions against outcomes is how miscalibration at low competence gets corrected.
+  - id: 104
+    rationale: "low psychological safety amplifies Dunning-Kruger at team level: overconfident members go unchallenged and uncertain members withhold knowledge."
+references:
+  - title: "Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments"
+    authorYear: Justin Kruger & David Dunning, Journal of Personality and Social Psychology Vol. 77 No. 6 (1999)
+    supports: the original study.
+  - title: "Being Wrong: Adventures in the Margin of Error"
+    authorYear: Kathryn Schulz (2010)
+    supports: examines why people are systematically unable to recognise their own errors; provides the broader epistemological context for why Dunning-Kruger is so persistent.
+  - title: The Intelligence Trap
+    authorYear: David Robson (2019)
+    supports: shows that high general intelligence does not inoculate against Dunning-Kruger; domain-specific competence and calibration practice are what matters.
+---
+
 # Dunning-Kruger
-*Low competence produces high confidence; high competence produces appropriate humility*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Dunning-Kruger effect describes the cognitive bias where people with limited competence in a domain overestimate their ability, while people with high competence tend toward underestimation. The original 1999 study by Kruger and Dunning found that the unskilled lack the metacognitive ability to recognize their own incompetence — you need some competence to know what competence looks like. Conversely, experts, knowing how much there is to know, tend to underestimate their relative position.
@@ -40,19 +65,6 @@ Competence development follows a four-stage model: unconscious incompetence (you
 A highly successful B2C founder decides to start a B2B company. She has strong general startup intuitions (fund-raising, hiring, product instinct) developed over a decade. But B2B sales — with long cycles, procurement processes, champion/economic buyer dynamics, and contract negotiation — is genuinely different. Early in the company, her confidence is high: "Sales is sales, I've sold products before." Twelve months in, after several blown deals and a missed target, she hits conscious incompetence — she now knows what she doesn't know about enterprise sales. She hires a VP of Sales with deep B2B experience. The Dunning-Kruger phase cost her 12 months and a missed revenue target.
 
 ---
-
-## Connections
-
-→ [5·Circle of Competence](../General-Thinking/circle-of-competence.md) — Dunning-Kruger is the psychological mechanism that makes circle self-assessment hard; they are deeply related.
-→ [55·Confirmation Bias](confirmation-bias.md) — early in learning a domain, confirmation bias and Dunning-Kruger reinforce each other: high confidence filters out disconfirming evidence.
-→ [211·Calibration](../General-Thinking/calibration.md) — calibration is the direct antidote to Dunning-Kruger; the practice of tracking predictions against outcomes is how miscalibration at low competence gets corrected.
-→ [104·Psychological Safety](psychological-safety.md) — low psychological safety amplifies Dunning-Kruger at team level: overconfident members go unchallenged and uncertain members withhold knowledge.
-
-## References
-
-- *Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments* — Justin Kruger & David Dunning, Journal of Personality and Social Psychology Vol. 77 No. 6 (1999) — the original study.
-- *Being Wrong: Adventures in the Margin of Error* — Kathryn Schulz (2010) — examines why people are systematically unable to recognise their own errors; provides the broader epistemological context for why Dunning-Kruger is so persistent.
-- *The Intelligence Trap* — David Robson (2019) — shows that high general intelligence does not inoculate against Dunning-Kruger; domain-specific competence and calibration practice are what matters.
 
 ---
 

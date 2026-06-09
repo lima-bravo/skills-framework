@@ -1,10 +1,49 @@
+---
+id: 104
+name: Psychological Safety
+category: Psychology
+cardType: standard
+tagline: The shared belief that a team is safe for interpersonal risk-taking — speaking up, admitting mistakes, and challenging assumptions without fear of punishment.
+connections:
+  - id: 101
+    rationale: psychological safety is the team-level expression of trust; it requires individual trust but also a collectively shared understanding of team norms.
+  - id: 51
+    rationale: incentive structures that punish failure or reward concealment directly undermine psychological safety regardless of stated cultural values.
+  - id: 17
+    rationale: psychologically safe teams close error-detection feedback loops faster because problems surface before they compound.
+  - id: 57
+    rationale: "low psychological safety amplifies Dunning-Kruger effects at the team level: overconfident members are not challenged, and uncertain members don't contribute their knowledge."
+  - id: 58
+    rationale: safety is a foundational need in Maslow's hierarchy; at the team level, psychological safety is the precondition for the belonging, esteem, and self-actualization that drive engagement.
+  - id: 243
+    rationale: psychological safety is a relational property that operates naturally within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour rather than assumed.
+  - id: 121
+    rationale: "low psychological safety amplifies the principal-agent gap: agents who fear consequences optimise for appearance rather than outcomes, making the misalignment structural."
+  - id: 167
+    rationale: psychological safety is the precondition under which immunity work becomes possible; without it, counter-commitments stay hidden rather than surfaced and tested.
+  - id: 192
+    rationale: psychological safety is the social condition that makes autonomy need satisfaction possible; without it, people cannot express genuine views or take the risks that intrinsic motivation requires.
+  - id: 212
+    rationale: in low-safety environments, evaluators suppress independent judgments and anchor on the dominant view; the social pressure that amplifies observer bias is a direct product of low psychological safety.
+  - id: 224
+    rationale: red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for adversarial output that is actually adversarial.
+references:
+  - title: "The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth"
+    authorYear: Amy C. Edmondson (2018)
+    supports: the primary treatment of psychological safety as a team-level phenomenon.
+  - title: "An Everyone Culture: Becoming a Deliberately Developmental Organization"
+    authorYear: Robert Kegan & Lisa Laskow Lahey (2016)
+    supports: the complementary treatment of organizational cultures where vulnerability is the norm.
+  - title: Daring Greatly
+    authorYear: Brené Brown (2012)
+    supports: the vulnerability research that underlies how leaders model the fallibility that creates psychological safety.
+---
+
 # Psychological Safety
-*The shared belief that a team is safe for interpersonal risk-taking — speaking up, admitting mistakes, and challenging assumptions without fear of punishment.*
 
 **Category:** [Psychology](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Psychological safety, as defined by Amy Edmondson, is the shared belief held by members of a team that the team is safe for interpersonal risk-taking. Specifically, it is the belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes. Psychological safety is a property of a team, not an individual — it reflects the climate the leader and members have created together. It is not the same as being comfortable, avoiding conflict, or being nice to one another. Teams with high psychological safety can disagree vigorously, deliver hard feedback, and surface uncomfortable truths — but do so without fear of personal attack or retaliation.
@@ -42,26 +81,6 @@ An experienced practitioner understands psychological safety as the precondition
 Google's Project Aristotle studied 180 teams to identify what made teams effective. The researchers expected that the best teams would have the best individuals, the clearest structures, or the most experience. Instead, the primary differentiator was psychological safety — the degree to which members felt they could take interpersonal risks. In high-safety teams, members admitted mistakes openly, challenged assumptions without fear, and brought problems forward early. In low-safety teams, members withheld concerns, covered errors, and coordinated superficially while hiding disagreements. Critically, the high-performing teams were not conflict-free — they often disagreed more — but the disagreements were about ideas rather than threats to status, and therefore produced better decisions rather than defensive posturing. The project's conclusion reframed team performance from a talent problem to a climate problem: the leader's primary job is to make it safe to think out loud.
 
 ---
-
-## Connections
-
-→ [101·Trust](trust.md) — psychological safety is the team-level expression of trust; it requires individual trust but also a collectively shared understanding of team norms.
-→ [51·Incentives](incentives.md) — incentive structures that punish failure or reward concealment directly undermine psychological safety regardless of stated cultural values.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — psychologically safe teams close error-detection feedback loops faster because problems surface before they compound.
-→ [57·Dunning-Kruger](dunning-kruger.md) — low psychological safety amplifies Dunning-Kruger effects at the team level: overconfident members are not challenged, and uncertain members don't contribute their knowledge.
-→ [58·Maslow's Hierarchy of Needs](maslows-hierarchy-of-needs.md) — safety is a foundational need in Maslow's hierarchy; at the team level, psychological safety is the precondition for the belonging, esteem, and self-actualization that drive engagement.
-→ [243·Dunbar's Number](../Systems/dunbars-number.md) — psychological safety is a relational property that operates naturally within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour rather than assumed.
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — low psychological safety amplifies the principal-agent gap: agents who fear consequences optimise for appearance rather than outcomes, making the misalignment structural.
-→ [167·Immunity to Change](immunity-to-change.md) — psychological safety is the precondition under which immunity work becomes possible; without it, counter-commitments stay hidden rather than surfaced and tested.
-→ [192·Self-Determination Theory](self-determination-theory.md) — psychological safety is the social condition that makes autonomy need satisfaction possible; without it, people cannot express genuine views or take the risks that intrinsic motivation requires.
-→ [212·Observer Bias](observer-bias.md) — in low-safety environments, evaluators suppress independent judgments and anchor on the dominant view; the social pressure that amplifies observer bias is a direct product of low psychological safety.
-→ [224·Red Teaming](../Business/red-teaming.md) — red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for adversarial output that is actually adversarial.
-
-## References
-
-- *The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth* — Amy C. Edmondson (2018) — the primary treatment of psychological safety as a team-level phenomenon.
-- *An Everyone Culture: Becoming a Deliberately Developmental Organization* — Robert Kegan & Lisa Laskow Lahey (2016) — the complementary treatment of organizational cultures where vulnerability is the norm.
-- *Daring Greatly* — Brené Brown (2012) — the vulnerability research that underlies how leaders model the fallibility that creates psychological safety.
 
 ---
 
