@@ -7,7 +7,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { buildLookups } from './lib/manifest.mjs';
+import { buildLookups, loadManifest } from './lib/manifest.mjs';
+import { applyBibliography } from './lib/build-bibliography.mjs';
 import { resolveConnectionTarget } from './lib/connections.mjs';
 import { parseSkillMarkdown } from './lib/parse-skill.mjs';
 
@@ -31,7 +32,7 @@ function truncate(s, len = 60) {
 }
 
 function main() {
-  const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
+  const manifest = applyBibliography(loadManifest());
   const template = fs.readFileSync(TEMPLATE, 'utf8');
 
   if (!template.includes('__GRAPH_JSON__')) {

@@ -1,13 +1,14 @@
 #!/usr/bin/env node
 /**
  * Build docs/deck.html from markdown skill files.
- * Stable ids: skills-manifest.json. Reference blocks: reference-sections.json
- * (until each skill has ## References in its .md).
+ * Stable ids: skills-manifest.json. Bibliography derived at build from card ## References.
  */
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseSkillMarkdown, extractSectionRaw } from './lib/parse-skill.mjs';
+import { loadManifest } from './lib/manifest.mjs';
+import { applyBibliography } from './lib/build-bibliography.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -15,7 +16,6 @@ const REF_DIR = path.join(ROOT, 'Skills Reference');
 const DOCS_DIR = path.join(ROOT, 'docs');
 const TEMPLATE = path.join(REF_DIR, 'deck.template.html');
 const MANIFEST = path.join(REF_DIR, 'skills-manifest.json');
-const REF_SECTIONS = path.join(REF_DIR, 'reference-sections.json');
 const OUT = path.join(DOCS_DIR, 'deck.html');
 
 // Ensure docs/ exists
@@ -46,10 +46,6 @@ function parseSections(md, includeReferences = false) {
     if (body) sections.push({ title: s.title, body });
   }
   return sections;
-}
-
-function mdHasReferencesSection(md) {
-  return /^## References\s*$/m.test(md);
 }
 
 function resolveLink(href, name, filePath, byPath, byName) {
@@ -93,10 +89,10 @@ function formatTextChunk(text) {
   return s;
 }
 
-function buildModal(md, filePath, byPath, byName, refSections) {
-  const useMdRefs = mdHasReferencesSection(md);
+function buildModal(md, filePath, byPath, byName) {
+  const includeRefs = /^## References\s*$/m.test(md);
   let html = '';
-  for (const s of parseSections(md, useMdRefs)) {
+  for (const s of parseSections(md, includeRefs)) {
     const isConnections = s.title === 'Connections';
     const body = s.body.replace(/\n---\s*$/g, '').trim();
     let inner = '';
@@ -132,7 +128,6 @@ function buildModal(md, filePath, byPath, byName, refSections) {
     }
     html += `<div class="ms-section"><h3>${esc(s.title)}</h3>${inner}</div>`;
   }
-  if (!useMdRefs && refSections[filePath]) html += refSections[filePath];
   return html;
 }
 
@@ -144,8 +139,7 @@ function previewFromMd(md) {
 }
 
 function main() {
-  const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
-  const refSections = JSON.parse(fs.readFileSync(REF_SECTIONS, 'utf8'));
+  const manifest = applyBibliography(loadManifest());
   const template = fs.readFileSync(TEMPLATE, 'utf8');
 
   const byPath = new Map();
@@ -160,7 +154,7 @@ function main() {
     const md = fs.readFileSync(path.join(REF_DIR, file), 'utf8');
     const tagline = parseTagline(md) || '';
     const preview = previewFromMd(md);
-    const modal = buildModal(md, file, byPath, byName, refSections);
+    const modal = buildModal(md, file, byPath, byName);
     skills.push({
       id: meta.id,
       name: meta.name,
