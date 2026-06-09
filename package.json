@@ -11,6 +11,7 @@
     "validate:cowork": "node scripts/validate-cowork-skills.mjs",
     "validate:cards": "node scripts/validate-cards.mjs",
     "derive:refs": "node scripts/derive-refs.mjs",
+    "reconcile:refs": "node scripts/reconcile-refs.mjs",
     "generate:ai-index": "node scripts/generate-ai-index.mjs",
     "build:situation-finder": "node scripts/build-situation-finder.mjs",
     "snapshot:test": "node scripts/snapshot-test.mjs",
