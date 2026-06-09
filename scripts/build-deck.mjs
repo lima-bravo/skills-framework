@@ -7,6 +7,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { parseSkillMarkdown, extractSectionRaw } from './lib/parse-skill.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -29,26 +30,20 @@ function esc(s) {
 }
 
 function parseTagline(md) {
-  const m = md.match(/^\*([^*]+)\*/m);
-  return m ? m[1].trim() : '';
+  return parseSkillMarkdown(md).tagline || '';
 }
 
 function parseSections(md, includeReferences = false) {
-  let text = md.replace(/\n\*Part of[\s\S]*$/i, '').trim();
-  const firstH2 = text.search(/^## /m);
-  if (firstH2 >= 0) text = text.slice(firstH2);
-
+  const stripped = md.replace(/\n\*Part of[\s\S]*$/i, '').trim();
+  const { allSections } = parseSkillMarkdown(md, { includeReferences: true });
   const sections = [];
-  for (const chunk of text.split(/\n(?=## )/)) {
-    const m = chunk.match(/^## ([^\n]+)\n([\s\S]*)/);
-    if (!m) continue;
-    const title = m[1].trim();
-    if (title === 'References' && !includeReferences) continue;
-    const body = m[2]
+  for (const s of allSections) {
+    if (s.title === 'References' && !includeReferences) continue;
+    const body = extractSectionRaw(stripped, s.title)
       .replace(/^---\s*$/gm, '')
       .replace(/\n---\s*$/g, '')
       .trim();
-    if (body) sections.push({ title, body });
+    if (body) sections.push({ title: s.title, body });
   }
   return sections;
 }
