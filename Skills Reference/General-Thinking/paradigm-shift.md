@@ -1,10 +1,41 @@
+---
+id: 188
+name: Paradigm Shift
+category: General Thinking
+cardType: standard
+tagline: The rules of the game change when the game itself changes
+connections:
+  - id: 6
+    rationale: a paradigm is the invisible framework that shapes which maps practitioners draw and what they can see on them; paradigm shift is what happens when the framework itself, not just a particular map, requires replacement.
+  - id: 173
+    rationale: "the organizational application of the same mechanism: the theory of the business that successful firms encode and then cannot escape; dominant logic is a paradigm at the level of a firm."
+  - id: 55
+    rationale: "the individual-level mechanism that sustains normal science: practitioners filter anomalies not from dishonesty but because the paradigm shapes what they attend to."
+  - id: 108
+    rationale: Kuhn's normal science is a form of exploitation; paradigm shift requires exploration but, crucially, is not experienced as a choice — the paradigm actively blocks the choice from being visible.
+  - id: 102
+    rationale: S-curves describe the adoption trajectory of a new paradigm after the shift; Kuhn's model explains the crisis mechanism that precedes the inflection point.
+  - id: 112
+    rationale: "Christensen's model applies a Kuhnian structure to competitive dynamics: incumbents are locked in a paradigm (the current business model) that blinds them to the new one taking shape below."
+  - id: 167
+    rationale: "the individual-level architecture that maps onto the organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks."
+  - id: 0
+    rationale: the deliberate method for breaking out of paradigmatic assumptions; where Kuhn describes how paradigm shifts happen historically, first-principles reasoning is the practitioner's attempt to force the shift intentionally.
+  - id: 122
+    rationale: normal science operates in complicated and clear domains; paradigm crisis is often a signal that the domain has become complex and the existing methods have lost their predictive validity.
+  - id: 234
+    rationale: "a paradigm shift is the large-scale version of an Overton Window shift: the entire frame of acceptable ideas changes, not just one proposal at the boundary."
+references:
+  - title: The Structure of Scientific Revolutions
+    authorYear: Thomas S. Kuhn (1962; 3rd ed. 1996)
+    supports: the foundational text defining paradigm, normal science, and paradigm shift.
+---
+
 # Paradigm Shift
-*The rules of the game change when the game itself changes*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A paradigm, in Thomas Kuhn's formulation, is the set of shared assumptions, values, exemplary achievements, and methods that define legitimate work in a field. It is not a theory that practitioners consciously hold — it is the framework within which theories are proposed, tested, and accepted. The paradigm determines what counts as a meaningful question, what counts as evidence, and what constitutes a satisfactory answer. Practitioners trained within a paradigm inherit it as the invisible background of their professional competence.
@@ -57,24 +88,6 @@ Statistical significance was the paradigm of empirical research for most of the 
 What emerged was not a refutation of significance testing but a reconceptualization: Bayesian and effect-size frameworks proposed that the question "is this result non-random?" was the wrong question. The right questions were "how large is the effect?" and "how does this update my prior?" This is incommensurability in practice: practitioners trained in the old paradigm and practitioners trained in the new one apply different criteria for what a good analysis looks like, and the disagreement cannot be resolved by data within either paradigm's own terms. Generational turnover is gradually carrying the field forward.
 
 ---
-
-## Connections
-
-→ [6·Map-Territory](map-territory.md) — a paradigm is the invisible framework that shapes which maps practitioners draw and what they can see on them; paradigm shift is what happens when the framework itself, not just a particular map, requires replacement.
-→ [173·Dominant Logic](../Business/dominant-logic.md) — the organizational application of the same mechanism: the theory of the business that successful firms encode and then cannot escape; dominant logic is a paradigm at the level of a firm.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the individual-level mechanism that sustains normal science: practitioners filter anomalies not from dishonesty but because the paradigm shapes what they attend to.
-→ [108·Exploration vs. Exploitation](../Systems/exploration-vs-exploitation.md) — Kuhn's normal science is a form of exploitation; paradigm shift requires exploration but, crucially, is not experienced as a choice — the paradigm actively blocks the choice from being visible.
-→ [102·S-Curves](../Systems/s-curves.md) — S-curves describe the adoption trajectory of a new paradigm after the shift; Kuhn's model explains the crisis mechanism that precedes the inflection point.
-→ [112·Disruptive Innovation](../Business/disruptive-innovation.md) — Christensen's model applies a Kuhnian structure to competitive dynamics: incumbents are locked in a paradigm (the current business model) that blinds them to the new one taking shape below.
-→ [167·Immunity to Change](../Psychology/immunity-to-change.md) — the individual-level architecture that maps onto the organizational resistance to paradigm change: competing commitments that prevent even willing practitioners from shifting frameworks.
-→ [0·First Principles](first-principles.md) — the deliberate method for breaking out of paradigmatic assumptions; where Kuhn describes how paradigm shifts happen historically, first-principles reasoning is the practitioner's attempt to force the shift intentionally.
-→ [122·Cynefin Framework](cynefin-framework.md) — normal science operates in complicated and clear domains; paradigm crisis is often a signal that the domain has become complex and the existing methods have lost their predictive validity.
-→ [234·Overton Window](overton-window.md) — a paradigm shift is the large-scale version of an Overton Window shift: the entire frame of acceptable ideas changes, not just one proposal at the boundary.
-
-## References
-
-- *The Structure of Scientific Revolutions* — Thomas S. Kuhn (1962; 3rd ed. 1996) — the foundational text defining paradigm, normal science, and paradigm shift.
-
 
 ---
 

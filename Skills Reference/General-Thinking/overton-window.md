@@ -1,10 +1,40 @@
+---
+id: 234
+name: Overton Window
+category: General Thinking
+cardType: standard
+tagline: Only ideas within a narrow band are currently politically viable
+connections:
+  - id: 91
+    rationale: framing is the mechanism by which window positions are maintained or shifted; how an idea is presented determines whether it registers as inside or outside the window.
+  - id: 188
+    rationale: "a paradigm shift is the large-scale version of an Overton Window shift: the entire frame of acceptable ideas changes, not just one proposal."
+  - id: 222
+    rationale: moving the Overton Window requires building a coalition of advocates who normalise the boundary positions before the main proposal is made.
+  - id: 125
+    rationale: "Overton Window analysis is a prerequisite for change management: understanding what the organisation is currently prepared to accept determines sequencing and pacing."
+  - id: 54
+    rationale: "the extreme-position-then-moderate tactic is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable."
+  - id: 203
+    rationale: the stories that circulate in a culture define the window; shifting the dominant narrative shifts the window.
+  - id: 221
+    rationale: "Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask."
+  - id: 236
+    rationale: what's inside the Overton Window is partly determined by which positions are salient enough to be thinkable; Schelling Points and the Overton Window both operate through prominence.
+references:
+  - title: '"An Introduction to the Overton Window of Political Possibilities"'
+    authorYear: Joseph G. Lehman, Mackinac Center for Public Policy (2006)
+    supports: the foundational public articulation of the concept Overton developed in the 1990s; defines the window, its zones, and the mechanism of shifting.
+  - title: "Switch: How to Change Things When Change Is Hard"
+    authorYear: Chip Heath & Dan Heath (2010)
+    supports: the practical framework for sequencing change proposals to move the window of acceptable change in organizations.
+---
+
 # Overton Window
-*Only ideas within a narrow band are currently politically viable*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Overton Window is the range of ideas that a mainstream audience — whether a political constituency, an organisation, or a culture — currently considers acceptable for serious discussion or implementation. Ideas outside the window are regarded as radical, extreme, or unthinkable, not because they lack merit but because they fall outside what the audience is currently prepared to accept. Named after policy analyst Joseph Overton, the model describes how this window shifts over time — and how it can be deliberately moved.
@@ -47,23 +77,6 @@ A CTO wants to move the organisation to a fully remote-first model. In 2019, thi
 By 2022, post-pandemic, the window has moved substantially on its own — but her groundwork means her organisation is further along the normalisation curve than peers, and remote-first is now inside the window for her audience. The strategy worked not because the CTO argued harder, but because she sequenced proposals to move the window before making the main ask.
 
 ---
-
-## Connections
-
-→ [91·Framing](../Art/framing.md) — framing is the mechanism by which window positions are maintained or shifted; how an idea is presented determines whether it registers as inside or outside the window.
-→ [188·Paradigm Shift](../General-Thinking/paradigm-shift.md) — a paradigm shift is the large-scale version of an Overton Window shift: the entire frame of acceptable ideas changes, not just one proposal.
-→ [222·Coalition Building](../Leadership/coalition-building.md) — moving the Overton Window requires building a coalition of advocates who normalise the boundary positions before the main proposal is made.
-→ [125·Change Management](../Leadership/change-management.md) — Overton Window analysis is a prerequisite for change management: understanding what the organisation is currently prepared to accept determines sequencing and pacing.
-→ [54·Anchoring](../Psychology/anchoring.md) — the extreme-position-then-moderate tactic is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable.
-→ [203·Narrative Instinct](../Psychology/narrative-instinct.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts the window.
-→ [221·Influence Without Authority](../Leadership/influence-without-authority.md) — Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask.
-→ [236·Schelling Points](../Economics/schelling-points.md) — what's inside the Overton Window is partly determined by which positions are salient enough to be thinkable; Schelling Points and the Overton Window both operate through prominence.
-
-## References
-
-- *"An Introduction to the Overton Window of Political Possibilities"* — Joseph G. Lehman, Mackinac Center for Public Policy (2006) — the foundational public articulation of the concept Overton developed in the 1990s; defines the window, its zones, and the mechanism of shifting.
-- *Switch: How to Change Things When Change Is Hard* — Chip Heath & Dan Heath (2010) — the practical framework for sequencing change proposals to move the window of acceptable change in organizations.
-
 
 ---
 

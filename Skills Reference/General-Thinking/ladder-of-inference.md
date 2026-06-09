@@ -1,10 +1,38 @@
+---
+id: 14
+name: Ladder of Inference
+category: General Thinking
+cardType: standard
+tagline: Understand the gap between data and belief
+connections:
+  - id: 6
+    rationale: the ladder is a map of how maps (beliefs and conclusions) are built from territory (data). Errors in the climb produce maps that don't reflect territory.
+  - id: 55
+    rationale: the reflexive loop of the ladder is confirmation bias operating structurally.
+  - id: 9
+    rationale: Socratic questioning walks back down the ladder, questioning each inference.
+  - id: 223
+    rationale: steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its surface conclusions.
+  - id: 226
+    rationale: listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
+  - id: 121
+    rationale: principals draw conclusions about agents from limited observable data, climbing the inference ladder on incomplete information; the higher they climb without checking, the wider the gap they diagnose.
+  - id: 167
+    rationale: "surfacing the big assumption is an act of climbing back down the ladder: tracing the inference chain from behavior to the belief that drives it."
+references:
+  - title: "The Fifth Discipline: The Art and Practice of the Learning Organization"
+    authorYear: Peter M. Senge (1990)
+    supports: popularized the Ladder of Inference from Argyris's work.
+  - title: "Overcoming Organizational Defenses: Facilitating Organizational Learning"
+    authorYear: Chris Argyris (1990)
+    supports: the original academic treatment of inference ladders and defensive reasoning.
+---
+
 # Ladder of Inference
-*Understand the gap between data and belief*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Ladder of Inference, developed by Chris Argyris and popularized by Peter Senge in *The Fifth Discipline*, describes the mental steps between observable data and action. The rungs, from bottom to top: (1) Observable data and experiences; (2) Selected data (we filter what we notice); (3) Interpreted data (we attach meaning); (4) Assumptions (we apply our assumptions); (5) Conclusions; (6) Beliefs (which become our mental models); (7) Actions (we take actions based on beliefs). The core insight: people routinely act on beliefs that are the result of a long chain of selection, interpretation, and assumption — and they are unaware of most of the chain. Misunderstandings, conflicts, and poor decisions often occur because two people are on very different rungs arguing as if they are both looking at the same data.
@@ -40,22 +68,6 @@ The ladder explains why smart people looking at the same situation reach opposit
 A manager concludes that an employee "doesn't care about quality." Walking back down the ladder: (7) Action: the manager has been more closely supervising this employee. (6) Belief: this employee doesn't care about quality. (5) Conclusion: this person will produce poor quality if not monitored. (4) Assumption: people who submit work without checking are careless about quality. (3) Interpretation: the employee submitted the report without re-reading it. (2) Selected data: the manager noticed errors in the last two reports. (1) Observable data: the last two reports had four formatting errors and one factual error. Walking back down reveals: the conclusion ("doesn't care about quality") is an inference from two reports with specific types of errors — which could equally indicate unclear standards, a time-pressure spike, or a template problem. The managerial action (close supervision) addresses the conclusion; the actual data suggests a different intervention.
 
 ---
-
-## Connections
-
-→ [6·Map-Territory](map-territory.md) — the ladder is a map of how maps (beliefs and conclusions) are built from territory (data). Errors in the climb produce maps that don't reflect territory.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the reflexive loop of the ladder is confirmation bias operating structurally.
-→ [9·Socratic Thinking](socratic-thinking.md) — Socratic questioning walks back down the ladder, questioning each inference.
-→ [223·Steelmanning](steelmanning.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its surface conclusions.
-→ [226·Grice's Maxims](grices-maxims.md) — listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
-→ [121·Principal–Agent Problem](../Economics/principal-agent-problem.md) — principals draw conclusions about agents from limited observable data, climbing the inference ladder on incomplete information; the higher they climb without checking, the wider the gap they diagnose.
-→ [167·Immunity to Change](../Psychology/immunity-to-change.md) — surfacing the big assumption is an act of climbing back down the ladder: tracing the inference chain from behavior to the belief that drives it.
-
-## References
-
-- *The Fifth Discipline: The Art and Practice of the Learning Organization* — Peter M. Senge (1990) — popularized the Ladder of Inference from Argyris's work.
-- *Overcoming Organizational Defenses: Facilitating Organizational Learning* — Chris Argyris (1990) — the original academic treatment of inference ladders and defensive reasoning.
-
 
 ---
 

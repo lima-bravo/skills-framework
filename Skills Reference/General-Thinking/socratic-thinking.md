@@ -1,10 +1,35 @@
+---
+id: 9
+name: Socratic Thinking
+category: General Thinking
+cardType: standard
+tagline: Question your way to clarity
+connections:
+  - id: 0
+    rationale: Socratic questioning strips away imprecision; First Principles strips away assumptions. Together, they constitute a complete belief-examination process.
+  - id: 55
+    rationale: "Socratic thinking is the antidote: it actively seeks the weakness in a belief rather than confirming it."
+  - id: 14
+    rationale: Socratic questioning walks back down the ladder from belief to raw data.
+  - id: 223
+    rationale: "complementary practices: Socratic questioning surfaces hidden assumptions in your own view; steelmanning ensures the opposing position is understood at its strongest before being engaged."
+references:
+  - title: The Republic
+    authorYear: Plato (c. 380 BCE)
+    supports: the primary source of Socratic dialogue as a method of inquiry.
+  - title: Rhetoric
+    authorYear: Aristotle (c. 350 BCE)
+    supports: the systematic treatment of interrogative logic and argument structure.
+  - title: Socratic Seminars in the Block
+    authorYear: Wanda H. Ball & Pam Brewer (1996)
+    supports: a practical guide to structured Socratic questioning as a facilitated learning method.
+---
+
 # Socratic Thinking
-*Question your way to clarity*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Socratic method is a form of cooperative dialog in which a series of probing questions is used to expose assumptions, surface contradictions, and guide the interlocutor toward clearer thinking or a better-grounded conclusion. Named after Socrates, whose practice was to claim ignorance and ask questions until the other person's position either became well-founded or collapsed under its own contradictions. In practice, Socratic thinking is both a technique for examining others' claims and a discipline for examining one's own.
@@ -42,20 +67,6 @@ The Socratic practitioner operates from a position of genuine (or feigned) ignor
 A product team claims "users want more features." Socratic examination: "Which users? How many? How do you know it's features they want rather than the outcomes the features might provide? What did they say exactly? When they used the product without the features, what specifically went wrong? Has any user churned specifically because of missing features vs. other reasons?" Within this questioning chain, "users want more features" typically resolves into "three enterprise customers mentioned X in interviews, but churn data suggests the problem is onboarding, not feature depth." The original confident claim was a conflation of weak signals.
 
 ---
-
-## Connections
-
-→ [0·First Principles](first-principles.md) — Socratic questioning strips away imprecision; First Principles strips away assumptions. Together, they constitute a complete belief-examination process.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — Socratic thinking is the antidote: it actively seeks the weakness in a belief rather than confirming it.
-→ [14·Ladder of Inference](ladder-of-inference.md) — Socratic questioning walks back down the ladder from belief to raw data.
-→ [223·Steelmanning](steelmanning.md) — complementary practices: Socratic questioning surfaces hidden assumptions in your own view; steelmanning ensures the opposing position is understood at its strongest before being engaged.
-
-## References
-
-- *The Republic* — Plato (c. 380 BCE) — the primary source of Socratic dialogue as a method of inquiry.
-- *Rhetoric* — Aristotle (c. 350 BCE) — the systematic treatment of interrogative logic and argument structure.
-- *Socratic Seminars in the Block* — Wanda H. Ball & Pam Brewer (1996) — a practical guide to structured Socratic questioning as a facilitated learning method.
-
 
 ---
 

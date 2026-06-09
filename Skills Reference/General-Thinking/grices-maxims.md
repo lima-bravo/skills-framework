@@ -1,10 +1,46 @@
+---
+id: 226
+name: Grice's Maxims
+category: General Thinking
+cardType: standard
+tagline: What you include — and what you leave out — signals as much as the words themselves
+connections:
+  - id: 163
+    rationale: the Pyramid Principle operationalises the Maxims in document structure; it answers Manner (orderly, conclusion-first) and Quantity (the apex carries the minimum required claim).
+  - id: 90
+    rationale: the Maxims are constant; what changes with audience is the calibration of each one. Relation and Quantity especially depend on knowing what the audience is trying to decide.
+  - id: 3
+    rationale: both are parsimony principles operating in different domains; Occam's Razor governs explanatory economy, Grice governs communicative economy.
+  - id: 194
+    rationale: "a well-formed Leader's Intent is a direct application of Grice: purpose, key tasks, end state — enough to guide judgment, not so much that it constrains initiative."
+  - id: 150
+    rationale: excess detail is one of the primary sources of unnecessary cognitive load; Quantity and Relation violations directly tax team capacity.
+  - id: 14
+    rationale: listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
+  - id: 55
+    rationale: the completeness trap and the Quality-anxiety violation are both driven by motivated reasoning; Grice's Quality maxim requires confidence calibration, not just accuracy.
+  - id: 91
+    rationale: Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
+references:
+  - title: '"Logic and Conversation"'
+    authorYear: H.P. Grice, in *Studies in the Way of Words*, Harvard University Press (1975; repr. 1989)
+    supports: the source paper defining the cooperative principle and the four maxims of Quantity, Quality, Relation, and Manner.
+  - title: Pragmatics
+    authorYear: Stephen C. Levinson (1983)
+    supports: the standard Cambridge textbook treatment of implicature and conversational inference; the scholarly foundation for Gricean theory.
+  - title: "The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century"
+    authorYear: Steven Pinker (2014)
+    supports: applies Gricean principles to practical writing; "The Curse of Knowledge" chapter models the Quantity and Relation maxims directly.
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: System 1 reading is the attention constraint the Maxims are designed to respect; the cognitive science behind why calibrated brevity matters.
+---
+
 # Grice's Maxims
-*What you include — and what you leave out — signals as much as the words themselves*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Grice's Maxims are four principles of cooperative communication formulated by philosopher H.P. Grice in his 1975 paper "Logic and Conversation." Grice observed that human communication only works because speakers and listeners share an implicit cooperative contract: you say what is relevant, truthful, and appropriately detailed. The four maxims describe this contract precisely:
@@ -63,24 +99,6 @@ A strategy team completes a market entry analysis. Three communication failures 
 **Well-calibrated.** The CEO receives a two-page brief: recommendation, three supporting arguments, the single biggest risk and its mitigation, the decision required. The implementation lead receives a five-page operating brief: objective, constraints, resource envelope, success criteria, key dependencies, escalation path. Same analysis. Different decisions. Different calibrations.
 
 ---
-
-## Connections
-
-→ [163·Pyramid Principle](../Consulting-Craft/pyramid-principle.md) — the Pyramid Principle operationalises the Maxims in document structure; it answers Manner (orderly, conclusion-first) and Quantity (the apex carries the minimum required claim).
-→ [90·Audience](../Art/audience.md) — the Maxims are constant; what changes with audience is the calibration of each one. Relation and Quantity especially depend on knowing what the audience is trying to decide.
-→ [3·Occam's Razor](occams-razor.md) — both are parsimony principles operating in different domains; Occam's Razor governs explanatory economy, Grice governs communicative economy.
-→ [194·Leader's Intent](../Leadership/leaders-intent.md) — a well-formed Leader's Intent is a direct application of Grice: purpose, key tasks, end state — enough to guide judgment, not so much that it constrains initiative.
-→ [150·Cognitive Load (Team)](../Delivery-and-Flow/cognitive-load-team.md) — excess detail is one of the primary sources of unnecessary cognitive load; Quantity and Relation violations directly tax team capacity.
-→ [14·Ladder of Inference](ladder-of-inference.md) — listeners climb the Ladder from the data you give them; calibrating detail shapes which inferences they make and how many rungs they climb unguided.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the completeness trap and the Quality-anxiety violation are both driven by motivated reasoning; Grice's Quality maxim requires confidence calibration, not just accuracy.
-→ [91·Framing](../Art/framing.md) — Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
-
-## References
-
-- *"Logic and Conversation"* — H.P. Grice, in *Studies in the Way of Words*, Harvard University Press (1975; repr. 1989) — the source paper defining the cooperative principle and the four maxims of Quantity, Quality, Relation, and Manner.
-- *Pragmatics* — Stephen C. Levinson (1983) — the standard Cambridge textbook treatment of implicature and conversational inference; the scholarly foundation for Gricean theory.
-- *The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century* — Steven Pinker (2014) — applies Gricean principles to practical writing; "The Curse of Knowledge" chapter models the Quantity and Relation maxims directly.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — System 1 reading is the attention constraint the Maxims are designed to respect; the cognitive science behind why calibrated brevity matters.
 
 ---
 

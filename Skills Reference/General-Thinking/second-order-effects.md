@@ -1,10 +1,49 @@
+---
+id: 2
+name: Second-Order Effects
+category: General Thinking
+cardType: standard
+tagline: What happens after what happens
+connections:
+  - id: 17
+    rationale: second-order thinking identifies the chains; feedback loop analysis describes when those chains circle back.
+  - id: 51
+    rationale: the most reliable second-order effects come from tracing how incentives shift after the first-order outcome.
+  - id: 19
+    rationale: second-order effects in complex systems often produce emergent properties that no single causal chain predicted.
+  - id: 261
+    rationale: systems thinking provides the causal map for tracing second and higher-order effects through a system's feedback structure
+  - id: 8
+    rationale: thought experiments are ideal for tracing second-order chains in controlled, simplified form before applying the reasoning to real systems.
+  - id: 171
+    rationale: causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the diagnostic loop.
+  - id: 37
+    rationale: the second-order effects of a disruption event — on workers, suppliers, and adjacent industries — often dwarf the direct first-order impact.
+  - id: 39
+    rationale: "interdependence is the structural mechanism by which second-order effects propagate: when elements are coupled, a change in one has consequences in others."
+  - id: 115
+    rationale: cascading dependencies and rework are the most commonly ignored planning costs; second-order thinking is what the inside view systematically fails to apply.
+  - id: 74
+    rationale: underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates; the map is the tool for anticipating downstream consequences before they materialise.
+  - id: 123
+    rationale: each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that determine which future actually arrives.
+references:
+  - title: "The Most Important Thing: Uncommon Sense for the Thoughtful Investor"
+    authorYear: Howard Marks (2011)
+    supports: "the source of second-order thinking as a competitive edge: 'and then what?'"
+  - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
+    authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)
+    supports: Munger's treatment of second-order consequences as essential to good judgment.
+  - title: "Thinking in Systems: A Primer"
+    authorYear: Donella H. Meadows (2008)
+    supports: how feedback structure propagates effects through higher orders, and why linear first-order reasoning misreads systems.
+---
+
 # Second-Order Effects
-*What happens after what happens*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Second-order thinking is the discipline of asking not just "what will happen if I do X?" (first-order) but "what will happen as a result of what happens?" (second-order), and then continuing to third, fourth order and beyond as far as the analysis remains tractable. Howard Marks, the investor, described it as asking "and then what?" repeatedly until you reach a stopping point of genuine uncertainty.
@@ -40,29 +79,6 @@ Every action creates reactions. Systems with feedback loops mean that initial ef
 ## Worked Example
 
 A city decides to build a new urban highway to reduce commute times (first-order effect: faster commutes). Second-order: cheaper transport makes suburban living more attractive, so more people move to suburbs. Third-order: increased suburban car use negates the time savings as road use increases (induced demand). Fourth-order: city center commercial real estate values fall as economic activity disperses. The policy intended to improve quality of life produces the opposite through a chain most planners in the 1950s failed to trace. Modern urban planners are trained specifically in this failure mode.
-
----
-
-## Connections
-
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — second-order thinking identifies the chains; feedback loop analysis describes when those chains circle back.
-→ [51·Incentives](../Psychology/incentives.md) — the most reliable second-order effects come from tracing how incentives shift after the first-order outcome.
-→ [19·Emergence](../Systems/emergence.md) — second-order effects in complex systems often produce emergent properties that no single causal chain predicted.
-→ [261·Systems Thinking](../Systems/systems-thinking.md) — systems thinking provides the causal map for tracing second and higher-order effects through a system's feedback structure
-→ [8·Thought Experiment](thought-experiment.md) — thought experiments are ideal for tracing second-order chains in controlled, simplified form before applying the reasoning to real systems.
-→ [171·Causal Analysis](causal-analysis.md) — causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the diagnostic loop.
-→ [37·Creative Destruction](../Economics/creative-destruction.md) — the second-order effects of a disruption event — on workers, suppliers, and adjacent industries — often dwarf the direct first-order impact.
-→ [39·Interdependence](../Economics/interdependence.md) — interdependence is the structural mechanism by which second-order effects propagate: when elements are coupled, a change in one has consequences in others.
-→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — cascading dependencies and rework are the most commonly ignored planning costs; second-order thinking is what the inside view systematically fails to apply.
-→ [74·Stakeholder Mapping (Salience Model)](../Business/stakeholder-mapping-salience-model.md) — underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates; the map is the tool for anticipating downstream consequences before they materialise.
-→ [123·Scenario Planning](../Business/scenario-planning.md) — each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that determine which future actually arrives.
-
-## References
-
-- *The Most Important Thing: Uncommon Sense for the Thoughtful Investor* — Howard Marks (2011) — the source of second-order thinking as a competitive edge: 'and then what?'
-- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — Munger's treatment of second-order consequences as essential to good judgment.
-- *Thinking in Systems: A Primer* — Donella H. Meadows (2008) — how feedback structure propagates effects through higher orders, and why linear first-order reasoning misreads systems.
-
 
 ---
 

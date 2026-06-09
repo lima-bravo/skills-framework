@@ -1,10 +1,42 @@
+---
+id: 240
+name: Black Swan
+category: General Thinking
+cardType: standard
+tagline: High-impact events that were "impossible" until they happened
+connections:
+  - id: 238
+    rationale: "Black Swans are the epistemological face of power law distributions: extreme events that are structurally expected in fat-tailed domains but excluded from normal-distribution risk models."
+  - id: 7
+    rationale: Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
+  - id: 24
+    rationale: "the primary structural response to Black Swan exposure: size buffers not to the expected case but to what the system must survive."
+  - id: 12
+    rationale: "asymmetric positioning is both the defensive and offensive application of Black Swan thinking: cap downside, preserve upside, survive the tail."
+  - id: 227
+    rationale: "standard EV calculation breaks in Black Swan domains: the tail event that dominates outcomes may have near-zero assigned probability, making the calculation systematically wrong."
+  - id: 123
+    rationale: scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use scenario planning and Black Swan thinking together, not as substitutes.
+  - id: 10
+    rationale: "the pre-mortem is the closest operational tool to Black Swan thinking: imagining failure in advance, including failure modes not in the current plan."
+  - id: 199
+    rationale: "survivorship bias compounds the Black Swan problem: we study organisations and strategies that survived, which systematically underrepresents the tail events that destroyed the others."
+  - id: 77
+    rationale: regression to the mean applies in Mediocristan; in Extremistan, mean reversion is not a reliable assumption and extreme values may persist or compound.
+references:
+  - title: "The Black Swan: The Impact of the Highly Improbable"
+    authorYear: Nassim Nicholas Taleb (2007)
+    supports: the source concept and epistemological framework.
+  - title: "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets"
+    authorYear: Nassim Nicholas Taleb (2001)
+    supports: precursor treatment of fat-tailed randomness and narrative bias.
+---
+
 # Black Swan
-*High-impact events that were "impossible" until they happened*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A Black Swan is a high-impact event that was not predicted — and, critically, was considered highly improbable or impossible before it occurred, but is rationalised as obvious in hindsight. Named after the discovery of black swans in Australia, which invalidated the European assumption that all swans are white, the concept was developed by Nassim Nicholas Taleb to describe the epistemological failure underlying catastrophic surprises. Black Swans are not merely rare events; they are events that fall outside the range of regular expectations based on past experience, carry extreme impact, and trigger retrospective explanation that makes them seem foreseeable.
@@ -47,24 +79,6 @@ In 2006, major financial institutions had risk models calibrated to decades of h
 The correct response would have been: (1) recognise that correlated housing exposure across a leveraged financial system is Extremistan, not Mediocristan; (2) ask what structural robustness looks like if the historically unprecedented tail event occurs; (3) avoid positions that cannot survive the tail event regardless of their average-case expected value.
 
 ---
-
-## Connections
-
-→ [238·Power Law](../Mathematics/power-law.md) — Black Swans are the epistemological face of power law distributions: extreme events that are structurally expected in fat-tailed domains but excluded from normal-distribution risk models.
-→ [7·Probabilistic Thinking](../General-Thinking/probabilistic-thinking.md) — Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — the primary structural response to Black Swan exposure: size buffers not to the expected case but to what the system must survive.
-→ [12·Asymmetry/Convexity](../General-Thinking/asymmetry-convexity.md) — asymmetric positioning is both the defensive and offensive application of Black Swan thinking: cap downside, preserve upside, survive the tail.
-→ [227·Expected Value](../Mathematics/expected-value.md) — standard EV calculation breaks in Black Swan domains: the tail event that dominates outcomes may have near-zero assigned probability, making the calculation systematically wrong.
-→ [123·Scenario Planning](../Business/scenario-planning.md) — scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use scenario planning and Black Swan thinking together, not as substitutes.
-→ [10·Pre-mortem](../General-Thinking/pre-mortem.md) — the pre-mortem is the closest operational tool to Black Swan thinking: imagining failure in advance, including failure modes not in the current plan.
-→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — survivorship bias compounds the Black Swan problem: we study organisations and strategies that survived, which systematically underrepresents the tail events that destroyed the others.
-→ [77·Regression to the Mean](../Mathematics/regression-to-the-mean.md) — regression to the mean applies in Mediocristan; in Extremistan, mean reversion is not a reliable assumption and extreme values may persist or compound.
-
-## References
-
-- *The Black Swan: The Impact of the Highly Improbable* — Nassim Nicholas Taleb (2007) — the source concept and epistemological framework.
-- *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets* — Nassim Nicholas Taleb (2001) — precursor treatment of fat-tailed randomness and narrative bias.
-
 
 ---
 

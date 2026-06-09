@@ -1,10 +1,34 @@
+---
+id: 11
+name: Post-mortem
+category: General Thinking
+cardType: standard
+tagline: Learn structurally from what happened
+connections:
+  - id: 10
+    rationale: "the bookends: the pre-mortem imagines future failure; the post-mortem analyses actual failure. A mature team practices both."
+  - id: 17
+    rationale: "the post-mortem closes the feedback loop: action → outcome → learning → updated action."
+  - id: 88
+    rationale: post-mortems are one of the most efficient uses of deliberate learning time because they are grounded in direct organizational experience.
+  - id: 196
+    rationale: "complementary disciplines at different scales: the AAR is the lightweight operational habit after every project; the post-mortem is the deep investigation triggered by significant failure or a repeated pattern."
+  - id: 171
+    rationale: the post-mortem is the primary organizational context for causal analysis; choosing the right mode (5 Whys, fishbone, causal loop) determines whether the investigation finds the actual cause or just a plausible one.
+references:
+  - title: "Site Reliability Engineering: How Google Runs Production Systems"
+    authorYear: Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy, eds. (2016)
+    supports: the canonical engineering treatment of blameless post-mortems.
+  - title: "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
+    authorYear: Ben Horowitz (2014)
+    supports: the practitioner view on incident reviews and post-mortems in high-stakes startup contexts.
+---
+
 # Post-mortem
-*Learn structurally from what happened*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A post-mortem (also called an after-action review, retrospective, or incident review) is a structured examination of a completed project, incident, or period of work to extract learnable lessons. The goal is not to assign blame but to identify systemic causes — the conditions, decisions, and process failures that produced the outcome — and to convert those causes into improvements. Post-mortems done well are one of the highest-leverage learning investments available to teams and organizations.
@@ -41,20 +65,6 @@ Every outcome is an experiment whose results should update future behavior. With
 Amazon's culture of written post-mortems after production incidents includes a specific format: timeline of events, contributing factors (not root cause — Amazon explicitly avoids singular root cause attribution), impact summary, what went well, what went poorly, and action items with owners and dates. The "what went well" section is as important as the "what went poorly" — it identifies the safety barriers that prevented a worse outcome, so they can be strengthened rather than accidentally dismantled. This format has been widely copied in engineering culture precisely because it produces learning rather than blame.
 
 ---
-
-## Connections
-
-→ [10·Pre-mortem](pre-mortem.md) — the bookends: the pre-mortem imagines future failure; the post-mortem analyses actual failure. A mature team practices both.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — the post-mortem closes the feedback loop: action → outcome → learning → updated action.
-→ [88·Five-Hour Rule](../Learning/five-hour-rule.md) — post-mortems are one of the most efficient uses of deliberate learning time because they are grounded in direct organizational experience.
-→ [196·After-Action Review](../Leadership/after-action-review.md) — complementary disciplines at different scales: the AAR is the lightweight operational habit after every project; the post-mortem is the deep investigation triggered by significant failure or a repeated pattern.
-→ [171·Causal Analysis](causal-analysis.md) — the post-mortem is the primary organizational context for causal analysis; choosing the right mode (5 Whys, fishbone, causal loop) determines whether the investigation finds the actual cause or just a plausible one.
-
-## References
-
-- *Site Reliability Engineering: How Google Runs Production Systems* — Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy, eds. (2016) — the canonical engineering treatment of blameless post-mortems.
-- *The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers* — Ben Horowitz (2014) — the practitioner view on incident reviews and post-mortems in high-stakes startup contexts.
-
 
 ---
 

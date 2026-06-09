@@ -1,10 +1,34 @@
+---
+id: 12
+name: Asymmetry / Convexity
+category: General Thinking
+cardType: standard
+tagline: Seek positions where upside exceeds downside
+connections:
+  - id: 24
+    rationale: "asymmetry thinking and margin of safety are complementary: both protect against the downside while keeping upside accessible."
+  - id: 16
+    rationale: "reversible decisions are structurally asymmetric: the downside is limited (you can reverse); the upside is the potential gain from trying."
+  - id: 7
+    rationale: asymmetry analysis requires explicit probability-and-magnitude estimation, not just probability alone.
+  - id: 240
+    rationale: Black Swan events are the tail events that convex positions are designed to survive and benefit from; asymmetric positioning is both the defense and the offense against tail risk.
+  - id: 15
+    rationale: the regret asymmetry (inactions outweigh actions at 80) is the psychological form of the payoff asymmetry described here; both point toward taking the bounded-downside bet.
+references:
+  - title: "Antifragile: Things That Gain from Disorder"
+    authorYear: Nassim Nicholas Taleb (2012)
+    supports: the extended treatment of positive convexity and barbell strategies.
+  - title: "The Black Swan: The Impact of the Highly Improbable"
+    authorYear: Nassim Nicholas Taleb (2007)
+    supports: the source of the asymmetry framing in risk and uncertainty.
+---
+
 # Asymmetry / Convexity
-*Seek positions where upside exceeds downside*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Asymmetry describes situations where the potential upside and downside of a bet are not equal — where the magnitude of gain in favorable scenarios significantly exceeds the magnitude of loss in unfavorable ones (positive asymmetry), or the reverse (negative asymmetry). Nassim Taleb's concept of convexity formalizes this: a convex position is one that benefits from uncertainty and volatility; a concave position is harmed by it. The practitioner's discipline is to structure positions, investments, and decisions to be positively asymmetric — limited defined downside, theoretically uncapped upside.
@@ -40,20 +64,6 @@ In standard expected-value thinking, a bet with equal probabilities and equal st
 A startup's investment in attending a major industry conference is asymmetric: the downside is the cost of attendance and two days of team time (defined, limited). The upside is potentially: a key partnership, a top-tier investor introduction, a business development relationship, or a product insight that changes the direction of the company — any of which could be worth multiples of the attendance cost. The expected value calculation on average conference ROI is uninspiring; the asymmetry of the option (you might encounter the connection that changes everything) justifies it. Attending multiple such conferences is a barbell strategy: most produce moderate value, one or two produce extraordinary value.
 
 ---
-
-## Connections
-
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — asymmetry thinking and margin of safety are complementary: both protect against the downside while keeping upside accessible.
-→ [16·Two-Way Doors](two-way-doors.md) — reversible decisions are structurally asymmetric: the downside is limited (you can reverse); the upside is the potential gain from trying.
-→ [7·Probabilistic Thinking](probabilistic-thinking.md) — asymmetry analysis requires explicit probability-and-magnitude estimation, not just probability alone.
-→ [240·Black Swan](black-swan.md) — Black Swan events are the tail events that convex positions are designed to survive and benefit from; asymmetric positioning is both the defense and the offense against tail risk.
-→ [15·Regret Minimization Framework](regret-minimization-framework.md) — the regret asymmetry (inactions outweigh actions at 80) is the psychological form of the payoff asymmetry described here; both point toward taking the bounded-downside bet.
-
-## References
-
-- *Antifragile: Things That Gain from Disorder* — Nassim Nicholas Taleb (2012) — the extended treatment of positive convexity and barbell strategies.
-- *The Black Swan: The Impact of the Highly Improbable* — Nassim Nicholas Taleb (2007) — the source of the asymmetry framing in risk and uncertainty.
-
 
 ---
 

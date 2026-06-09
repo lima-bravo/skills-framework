@@ -1,10 +1,50 @@
+---
+id: 211
+name: Calibration
+category: General Thinking
+cardType: standard
+tagline: Being right on any single call is luck. Being right at the rate you predicted is skill.
+connections:
+  - id: 7
+    rationale: calibration is the goal that probabilistic thinking pursues; thinking in distributions is the method, being calibrated is the standard of success
+  - id: 5
+    rationale: the honest map of your circle is the first step toward calibration; overconfident people draw their circles too large
+  - id: 57
+    rationale: Dunning-Kruger describes the mechanism that produces miscalibration at low competence; calibration is the corrective practice
+  - id: 204
+    rationale: the habit of seeking disconfirming evidence is the practical expression of calibration; a belief you won't test is a belief with infinite stated confidence
+  - id: 206
+    rationale: the most common source of overconfidence; calibration requires anchoring on base rates before adjusting for specifics
+  - id: 160
+    rationale: the operational technique for anchoring on base rates in project estimation; calibration is why the technique works
+  - id: 196
+    rationale: the learning cycle that generates the outcome data needed to improve calibration over time
+  - id: 212
+    rationale: uncorrected observer bias degrades calibration silently; evaluators who systematically favour expected winners build track records that look accurate but are contaminated by their expectations.
+  - id: 218
+    rationale: a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive; calibration is what distinguishes analytical from advocacy documents.
+  - id: 250
+    rationale: setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal; calibration is the cognitive discipline behind threshold design.
+references:
+  - title: "Superforecasting: The Art and Science of Prediction"
+    authorYear: Philip E. Tetlock & Dan Gardner (2015)
+    supports: the empirical evidence for what separates highly calibrated forecasters from the rest; the source of the superforecaster research programme.
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the cognitive science of overconfidence; the inside-view/outside-view distinction and systematic underweighting of base rates are the primary mechanisms behind miscalibration.
+  - title: '"Knowing with certainty: the appropriateness of extreme confidence"'
+    authorYear: "Fischhoff, Slovic & Lichtenstein, *Journal of Experimental Psychology: Human Perception and Performance* (1977)"
+    supports: the foundational empirical study establishing systematic overconfidence in probability judgments.
+  - title: '"Verification of forecasts expressed in terms of probability"'
+    authorYear: Brier, G.W., *Monthly Weather Review* (1950)
+    supports: introduced the Brier score as a measure of probabilistic forecast accuracy; the mathematical origin of calibration measurement.
+---
+
 # Calibration
-*Being right on any single call is luck. Being right at the rate you predicted is skill.*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Calibration is the degree to which stated confidence levels match actual outcomes over time. A calibrated person whose 70% predictions come true 70% of the time — and whose 90% predictions come true 90% of the time — has accurate beliefs about their own uncertainty. Calibration is the meta-skill that governs all probabilistic reasoning: without it, confidence figures are feelings labelled as probabilities. The concept originates in meteorological forecasting (Brier scores, 1950s), was formalised in judgment and decision research by Kahneman, Tversky, and Fischhoff, and applied to forecasting practice by Philip Tetlock's superforecaster research.
@@ -52,28 +92,6 @@ Second, she reviews her own track record on similar estimates. Looking back at e
 Updated estimate: 40% (base rate adjusted upward for specific factors she can point to, but anchored there rather than at her initial gut). This changes the conversation: the programme is now framed as a bet with meaningful downside probability, not a near-certainty, and the governance is structured accordingly.
 
 ---
-
-## Connections
-
-→ [7·Probabilistic Thinking](probabilistic-thinking.md) — calibration is the goal that probabilistic thinking pursues; thinking in distributions is the method, being calibrated is the standard of success
-→ [5·Circle of Competence](circle-of-competence.md) — the honest map of your circle is the first step toward calibration; overconfident people draw their circles too large
-→ [57·Dunning-Kruger](../Psychology/dunning-kruger.md) — Dunning-Kruger describes the mechanism that produces miscalibration at low competence; calibration is the corrective practice
-→ [204·Falsification](../Psychology/falsification.md) — the habit of seeking disconfirming evidence is the practical expression of calibration; a belief you won't test is a belief with infinite stated confidence
-→ [206·Base Rate Neglect](../Psychology/base-rate-neglect.md) — the most common source of overconfidence; calibration requires anchoring on base rates before adjusting for specifics
-→ [160·Reference Class Forecasting](../Delivery-and-Flow/reference-class-forecasting.md) — the operational technique for anchoring on base rates in project estimation; calibration is why the technique works
-→ [196·After-Action Review](../Leadership/after-action-review.md) — the learning cycle that generates the outcome data needed to improve calibration over time
-→ [212·Observer Bias](../Psychology/observer-bias.md) — uncorrected observer bias degrades calibration silently; evaluators who systematically favour expected winners build track records that look accurate but are contaminated by their expectations.
-→ [218·Business Case Construction](../Business/business-case-construction.md) — a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive; calibration is what distinguishes analytical from advocacy documents.
-→ [250·KPI Architecture](../Business/kpi-architecture.md) — setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal; calibration is the cognitive discipline behind threshold design.
-
----
-
-## References
-
-- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical evidence for what separates highly calibrated forecasters from the rest; the source of the superforecaster research programme.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of overconfidence; the inside-view/outside-view distinction and systematic underweighting of base rates are the primary mechanisms behind miscalibration.
-- *"Knowing with certainty: the appropriateness of extreme confidence"* — Fischhoff, Slovic & Lichtenstein, *Journal of Experimental Psychology: Human Perception and Performance* (1977) — the foundational empirical study establishing systematic overconfidence in probability judgments.
-- *"Verification of forecasts expressed in terms of probability"* — Brier, G.W., *Monthly Weather Review* (1950) — introduced the Brier score as a measure of probabilistic forecast accuracy; the mathematical origin of calibration measurement.
 
 ---
 

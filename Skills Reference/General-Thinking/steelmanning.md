@@ -1,10 +1,44 @@
+---
+id: 223
+name: Steelmanning
+category: General Thinking
+cardType: standard
+tagline: Build the strongest possible version of the opposing view before engaging it
+connections:
+  - id: 204
+    rationale: steelmanning is the prerequisite for genuine falsification; testing weak versions of opposing arguments doesn't falsify anything meaningful.
+  - id: 55
+    rationale: steelmanning is a structural countermeasure to confirmation bias in deliberation; it forces genuine engagement with disconfirming views.
+  - id: 10
+    rationale: "the pre-mortem applies steelmanning prospectively to a plan: what is the strongest case that this will fail?"
+  - id: 224
+    rationale: red teams are the organisational mechanism for institutionalising steelmanning at scale; a red team that doesn't steelman the dominant view is not doing its job.
+  - id: 9
+    rationale: Socratic questioning and steelmanning are complementary practices; one surfaces hidden assumptions, the other ensures the opposition is understood at its strongest.
+  - id: 13
+    rationale: the Black Hat (critical thinking) role benefits from steelmanning discipline; without it, the Black Hat produces weak objections rather than genuine challenges.
+  - id: 14
+    rationale: steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its conclusions.
+references:
+  - title: Fights, Games, and Debates
+    authorYear: Anatol Rapoport (1960)
+    supports: the foundational treatment of conflict types; the source of charitable interpretation principles that Dennett later codified as Rapoport's Rules.
+  - title: Intuition Pumps and Other Tools for Thinking
+    authorYear: Daniel C. Dennett (2013)
+    supports: "coins \"Rapoport's Rules\" as the steelmanning protocol: reconstruct the opposing view so precisely that its proponents would recognise it, before engaging it critically."
+  - title: "The Scout Mindset: Why Some People See Things Clearly and Others Don't"
+    authorYear: Julia Galef (2021)
+    supports: frames steelmanning as core to truth-seeking ("scout mindset") versus tribal reasoning ("soldier mindset").
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: the cognitive science of why straw man reasoning is a predictable output of fast thinking; steelmanning counteracts System 1's tendency to substitute a simpler version of the opposing view.
+---
+
 # Steelmanning
-*Build the strongest possible version of the opposing view before engaging it*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Steelmanning is the practice of constructing the most rigorous, charitable, and compelling version of an opposing argument before responding to or testing it. It is the deliberate inverse of the straw man fallacy — where a weak caricature of an opposing view is substituted for the real thing. Steelmanning requires the practitioner to articulate the opposing position so well that its actual proponents would recognise and endorse the reconstruction. Only then is it meaningful to disagree, test, or refute.
@@ -56,23 +90,6 @@ After a harder pass, the team surfaces: the segment's buyers are structurally di
 The steelman doesn't kill the opportunity — but it reframes the timeline and capital requirement significantly. The plan is adjusted: a two-year patient capital commitment with different milestones, not the 12-month payback originally assumed.
 
 ---
-
-## Connections
-
-→ [204·Falsification](../Psychology/falsification.md) — steelmanning is the prerequisite for genuine falsification; testing weak versions of opposing arguments doesn't falsify anything meaningful.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — steelmanning is a structural countermeasure to confirmation bias in deliberation; it forces genuine engagement with disconfirming views.
-→ [10·Pre-mortem](pre-mortem.md) — the pre-mortem applies steelmanning prospectively to a plan: what is the strongest case that this will fail?
-→ [224·Red Teaming](../Business/red-teaming.md) — red teams are the organisational mechanism for institutionalising steelmanning at scale; a red team that doesn't steelman the dominant view is not doing its job.
-→ [9·Socratic Thinking](socratic-thinking.md) — Socratic questioning and steelmanning are complementary practices; one surfaces hidden assumptions, the other ensures the opposition is understood at its strongest.
-→ [13·De Bono's Six Thinking Hats](de-bonos-six-thinking-hats.md) — the Black Hat (critical thinking) role benefits from steelmanning discipline; without it, the Black Hat produces weak objections rather than genuine challenges.
-→ [14·Ladder of Inference](ladder-of-inference.md) — steelmanning requires descending the opposing view's ladder of inference to find its actual premises, not just its conclusions.
-
-## References
-
-- *Fights, Games, and Debates* — Anatol Rapoport (1960) — the foundational treatment of conflict types; the source of charitable interpretation principles that Dennett later codified as Rapoport's Rules.
-- *Intuition Pumps and Other Tools for Thinking* — Daniel C. Dennett (2013) — coins "Rapoport's Rules" as the steelmanning protocol: reconstruct the opposing view so precisely that its proponents would recognise it, before engaging it critically.
-- *The Scout Mindset: Why Some People See Things Clearly and Others Don't* — Julia Galef (2021) — frames steelmanning as core to truth-seeking ("scout mindset") versus tribal reasoning ("soldier mindset").
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of why straw man reasoning is a predictable output of fast thinking; steelmanning counteracts System 1's tendency to substitute a simpler version of the opposing view.
 
 ---
 

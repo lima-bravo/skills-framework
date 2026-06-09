@@ -1,10 +1,40 @@
+---
+id: 107
+name: Divergent and Convergent Thinking
+category: General Thinking
+cardType: standard
+tagline: The two fundamental cognitive modes of innovation — generating many varied possibilities without judgment, then evaluating and selecting among them — which must be applied in sequence, not simultaneously.
+connections:
+  - id: 110
+    rationale: the empathize-define-ideate-prototype-test process is built on alternating divergent (ideation) and convergent (prototyping, testing) phases; divergent/convergent thinking is the underlying cognitive model.
+  - id: 13
+    rationale: the Six Hats method is a structured protocol for producing cognitive mode separation in a group setting, preventing the contamination of divergent by convergent thinking.
+  - id: 106
+    rationale: "analogical reasoning is the most powerful technique for producing genuine divergence: importing solutions from distant domains breaks the attractor of conventional thinking."
+  - id: 55
+    rationale: "confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely."
+  - id: 1
+    rationale: "inversion is a structured divergent technique: it forces the generation of non-obvious possibilities by approaching the problem from the opposite direction."
+references:
+  - title: "Applied Imagination: Principles and Procedures of Creative Problem-Solving"
+    authorYear: Alex F. Osborn (1953)
+    supports: the origin of the diverge-then-converge sequence and brainstorming discipline.
+  - title: "A Whack on the Side of the Head: How You Can Be More Creative"
+    authorYear: Roger von Oech (1983)
+    supports: the practitioner treatment of removing mental blocks to divergent thinking.
+  - title: "Creative Confidence: Unleashing the Creative Potential Within Us All"
+    authorYear: Tom Kelley & David Kelley (2013)
+    supports: the design-thinking application of divergent/convergent sequencing.
+  - title: "The Creative Mind: Myths and Mechanisms"
+    authorYear: Margaret A. Boden (2004)
+    supports: the cognitive science of creativity, including the distinction between exploratory, combinatorial, and transformational divergent processes.
+---
+
 # Divergent and Convergent Thinking
-*The two fundamental cognitive modes of innovation — generating many varied possibilities without judgment, then evaluating and selecting among them — which must be applied in sequence, not simultaneously.*
 
 **Category:** [General Thinking](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Divergent thinking is the cognitive mode of generating many varied, unconventional possibilities without evaluation or judgment — expanding the solution space as broadly as possible. Convergent thinking is the cognitive mode of evaluating, filtering, and selecting among possibilities — narrowing toward the best solution. Both are essential to creative problem-solving and innovation; neither alone is sufficient. The critical insight, established by Alex Osborn and formalized in subsequent creativity research, is that the two modes are cognitively incompatible: attempting to evaluate while generating suppresses the unconventional ideas that most need protection in their early, fragile state. Effective innovation requires not just possessing both modes but applying them in the right sequence with a deliberate separation between them.
@@ -42,22 +72,6 @@ An experienced practitioner treats divergent and convergent phases as distinct a
 Pixar's story development process is one of the most documented and successful applications of separated divergent and convergent thinking in practice. Their "Braintrust" sessions — attended by all senior creative directors — operate on an explicit divergent protocol: feedback is candid and specific, no idea is protected by seniority, and the director is not required to implement any suggestion. This creates genuine divergent safety. The convergent phase is entirely separate: the director processes the session offline and decides what to incorporate, using their own judgment and criteria. The separation is structural and non-negotiable. The result is that unconventional feedback reaches the director intact rather than filtered by social dynamics, and the director retains accountability for the converged decision. Pixar's consistent creative output over 25 years is in part a product of this protocol discipline.
 
 ---
-
-## Connections
-
-→ [110·Design Thinking](../Startups/design-thinking.md) — the empathize-define-ideate-prototype-test process is built on alternating divergent (ideation) and convergent (prototyping, testing) phases; divergent/convergent thinking is the underlying cognitive model.
-→ [13·De Bono's Six Thinking Hats](de-bonos-six-thinking-hats.md) — the Six Hats method is a structured protocol for producing cognitive mode separation in a group setting, preventing the contamination of divergent by convergent thinking.
-→ [106·Analogical Reasoning](analogical-reasoning.md) — analogical reasoning is the most powerful technique for producing genuine divergence: importing solutions from distant domains breaks the attractor of conventional thinking.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely.
-→ [1·Inversion](inversion.md) — inversion is a structured divergent technique: it forces the generation of non-obvious possibilities by approaching the problem from the opposite direction.
-
-## References
-
-- *Applied Imagination: Principles and Procedures of Creative Problem-Solving* — Alex F. Osborn (1953) — the origin of the diverge-then-converge sequence and brainstorming discipline.
-- *A Whack on the Side of the Head: How You Can Be More Creative* — Roger von Oech (1983) — the practitioner treatment of removing mental blocks to divergent thinking.
-- *Creative Confidence: Unleashing the Creative Potential Within Us All* — Tom Kelley & David Kelley (2013) — the design-thinking application of divergent/convergent sequencing.
-- *The Creative Mind: Myths and Mechanisms* — Margaret A. Boden (2004) — the cognitive science of creativity, including the distinction between exploratory, combinatorial, and transformational divergent processes.
-
 
 ---
 

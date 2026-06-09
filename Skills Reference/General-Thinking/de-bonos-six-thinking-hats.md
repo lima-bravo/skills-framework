@@ -1,10 +1,34 @@
+---
+id: 13
+name: De Bono's Six Thinking Hats
+category: General Thinking
+cardType: standard
+tagline: Separate modes of thinking to think better together
+connections:
+  - id: 55
+    rationale: "the Six Hats is a structural mitigation: it enforces exploration of all perspectives, including the one that conflicts with your prior belief."
+  - id: 10
+    rationale: "the Black Hat is the group thinking equivalent of the pre-mortem: explicitly exploring failure modes."
+  - id: 91
+    rationale: different hats are different frames; the Six Hats is a systematic multi-framing tool.
+  - id: 107
+    rationale: the Six Hats enforces cognitive mode separation in a group setting, preventing convergent judgment from contaminating divergent exploration.
+  - id: 223
+    rationale: the Black Hat role benefits from steelmanning discipline; without it, the Black Hat produces weak objections rather than genuine challenges to the dominant view.
+references:
+  - title: Six Thinking Hats
+    authorYear: Edward de Bono (1985)
+    supports: the source text defining the six parallel thinking modes.
+  - title: "Lateral Thinking: Creativity Step by Step"
+    authorYear: Edward de Bono (1970)
+    supports: de Bono's foundational framework for deliberate creative thinking.
+---
+
 # De Bono's Six Thinking Hats
-*Separate modes of thinking to think better together*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Edward de Bono's Six Thinking Hats is a parallel thinking framework that separates different modes of thinking into six distinct "hats" — each representing a single thinking mode that the group adopts simultaneously. White Hat: facts and data only. Red Hat: emotions and intuitions, no justification required. Black Hat: caution, risks, why it won't work. Yellow Hat: optimism, benefits, why it will work. Green Hat: creative alternatives and new possibilities. Blue Hat: process meta-cognition, managing the thinking itself. By wearing one hat at a time, groups escape the adversarial dynamic of debate (where individuals defend positions) and enable parallel thinking (where everyone explores the same dimension together).
@@ -40,20 +64,6 @@ In conventional debate, different people are metaphorically wearing different ha
 A leadership team is deciding whether to acquire a competitor. The discussion has become heated — one camp strongly in favor, one strongly opposed, both talking past each other. A facilitator introduces the Six Hats. White: what do we factually know about their financials, customer base, and technology? (15 minutes) Red: what are our honest gut reactions? (5 minutes, undefended) Yellow: what is the best case? (10 minutes) Black: what are the specific risks? (10 minutes) Green: are there alternative deal structures we haven't considered? (10 minutes) Blue: given all this, what are our next steps? (5 minutes). The same information that was generating conflict in debate mode produces a much richer analysis in parallel thinking mode. The acquisition thesis is refined (not abandoned or approved) based on the structured exploration.
 
 ---
-
-## Connections
-
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — the Six Hats is a structural mitigation: it enforces exploration of all perspectives, including the one that conflicts with your prior belief.
-→ [10·Pre-mortem](pre-mortem.md) — the Black Hat is the group thinking equivalent of the pre-mortem: explicitly exploring failure modes.
-→ [91·Framing](../Art/framing.md) — different hats are different frames; the Six Hats is a systematic multi-framing tool.
-→ [107·Divergent and Convergent Thinking](divergent-and-convergent-thinking.md) — the Six Hats enforces cognitive mode separation in a group setting, preventing convergent judgment from contaminating divergent exploration.
-→ [223·Steelmanning](steelmanning.md) — the Black Hat role benefits from steelmanning discipline; without it, the Black Hat produces weak objections rather than genuine challenges to the dominant view.
-
-## References
-
-- *Six Thinking Hats* — Edward de Bono (1985) — the source text defining the six parallel thinking modes.
-- *Lateral Thinking: Creativity Step by Step* — Edward de Bono (1970) — de Bono's foundational framework for deliberate creative thinking.
-
 
 ---
 

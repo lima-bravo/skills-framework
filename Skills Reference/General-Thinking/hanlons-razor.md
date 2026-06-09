@@ -1,10 +1,32 @@
+---
+id: 4
+name: Hanlon's Razor
+category: General Thinking
+cardType: standard
+tagline: Attribute to incompetence before malice
+connections:
+  - id: 51
+    rationale: when trying to determine if an act was malicious, always map incentives first. Malice requires motive; misaligned incentives are the most common source of motive.
+  - id: 55
+    rationale: once you decide someone acted with bad intent, you interpret subsequent ambiguous evidence as confirming it. Hanlon's Razor interrupts this.
+  - id: 5
+    rationale: your ability to distinguish malice from incompetence depends on how well you understand the domain. Misunderstanding technical complexity leads to false accusations of deliberate obfuscation.
+  - id: 200
+    rationale: "FAE is the cognitive mechanism Hanlon's Razor corrects: we over-attribute others' behaviour to character and intent while under-weighting situational factors."
+references:
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: covers the attribution errors and cognitive biases that Hanlon's Razor is designed to counteract.
+  - title: The Art of Thinking Clearly
+    authorYear: Rolf Dobelli (2011)
+    supports: covers the attribution and intentionality biases (including fundamental attribution error) that Hanlon's Razor addresses.
+---
+
 # Hanlon's Razor
-*Attribute to incompetence before malice*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Hanlon's Razor: *"Never attribute to malice that which is adequately explained by stupidity."* The practical version for organizational life softens "stupidity" to incompetence, miscommunication, or simple oversight. The razor is a guide for default attribution: when something goes wrong and you don't know why, assume the most generous explanation consistent with the evidence before assuming intentional harm.
@@ -42,19 +64,6 @@ Imagine a spectrum from "pure accident" to "pure malice." Human behavior cluster
 A senior engineer's code change ships without going through code review, breaking a critical integration. The instinctive read: they bypassed the process deliberately. Hanlon's Razor says: check first — did they know about the required review step? Did the CI gate fail silently? Was there a miscommunication about exceptions during the crunch period? In most real cases, one of these explanations holds. The response is then process-hardening, not disciplinary action. If investigation reveals the review was consciously bypassed despite being known policy, the evidence has moved you rightward on the spectrum and different action is warranted.
 
 ---
-
-## Connections
-
-→ [51·Incentives](../Psychology/incentives.md) — when trying to determine if an act was malicious, always map incentives first. Malice requires motive; misaligned incentives are the most common source of motive.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — once you decide someone acted with bad intent, you interpret subsequent ambiguous evidence as confirming it. Hanlon's Razor interrupts this.
-→ [5·Circle of Competence](circle-of-competence.md) — your ability to distinguish malice from incompetence depends on how well you understand the domain. Misunderstanding technical complexity leads to false accusations of deliberate obfuscation.
-→ [200·Fundamental Attribution Error](../Psychology/fundamental-attribution-error.md) — FAE is the cognitive mechanism Hanlon's Razor corrects: we over-attribute others' behaviour to character and intent while under-weighting situational factors.
-
-## References
-
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — covers the attribution errors and cognitive biases that Hanlon's Razor is designed to counteract.
-- *The Art of Thinking Clearly* — Rolf Dobelli (2011) — covers the attribution and intentionality biases (including fundamental attribution error) that Hanlon's Razor addresses.
-
 
 ---
 

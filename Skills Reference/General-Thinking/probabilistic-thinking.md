@@ -1,10 +1,75 @@
+---
+id: 7
+name: Probabilistic Thinking
+category: General Thinking
+cardType: standard
+tagline: Think in distributions, not outcomes
+connections:
+  - id: 5
+    rationale: probability estimates are only as good as your underlying knowledge. Outside your circle, confidence intervals should be much wider.
+  - id: 77
+    rationale: understanding that extreme outcomes tend toward average is a structural input to probabilistic thinking.
+  - id: 24
+    rationale: once you have a probability distribution on outcomes, margin of safety tells you how much buffer to hold.
+  - id: 211
+    rationale: calibration is the standard that probabilistic thinking is measured against; thinking in distributions is the method, being calibrated across many predictions is the goal.
+  - id: 227
+    rationale: EV is the quantitative expression of probabilistic thinking; once you have a probability distribution, expected value tells you what a decision is worth.
+  - id: 228
+    rationale: the mechanism for keeping probability estimates current as new evidence arrives.
+  - id: 3
+    rationale: when explanations are roughly equally probable, Occam's Razor provides the tiebreaker toward the simpler hypothesis.
+  - id: 6
+    rationale: probability distributions are maps of uncertainty; treating a confidence interval as certain collapses the map onto one point and ignores the territory's actual range.
+  - id: 12
+    rationale: "asymmetry analysis is an extension of probabilistic thinking: it requires tracking both probability and magnitude of outcomes, not probability alone."
+  - id: 240
+    rationale: Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
+  - id: 50
+    rationale: base rates are reference frames; sound probabilistic thinking requires choosing the right reference class before assigning probabilities.
+  - id: 54
+    rationale: the antidote to anchoring is independent base-rate analysis before exposure; probabilistic thinking provides the method for forming that prior independently.
+  - id: 56
+    rationale: "availability bias is the primary distortion that probabilistic thinking corrects: it replaces vivid-example frequency estimates with explicit base rates."
+  - id: 115
+    rationale: thinking in distributions (outside view) is the cognitive toolkit that directly counters the planning fallacy's reliance on optimistic single-scenario narratives.
+  - id: 199
+    rationale: the correction for survivorship bias is explicit probabilistic reasoning over the full distribution, not just the visible tail of survivors.
+  - id: 201
+    rationale: the antidote to hindsight bias is evaluating decisions by the probability distribution reasonably estimable at decision time, not the single outcome that occurred.
+  - id: 204
+    rationale: probabilistic thinking quantifies uncertainty; falsification tests whether the underlying model is structurally sound. Together they form the core of calibrated reasoning.
+  - id: 206
+    rationale: "the most common failure of probabilistic reasoning: discarding the prior distribution because the individual case has become vivid."
+  - id: 72
+    rationale: statistical significance and power are applications of probabilistic thinking to experiment design; a well-designed experiment operationalises a probability-based decision rule.
+  - id: 123
+    rationale: "scenario planning is probabilistic thinking applied to strategy: it makes the distribution of futures explicit rather than collapsing to a single expected-value forecast."
+  - id: 225
+    rationale: statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results correctly requires understanding probability, not just reading outcome metrics.
+references:
+  - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
+    authorYear: Annie Duke (2018)
+    supports: the practitioner treatment of probabilistic thinking in high-uncertainty decisions.
+  - title: "Superforecasting: The Art and Science of Prediction"
+    authorYear: Philip E. Tetlock & Dan Gardner (2015)
+    supports: the empirical evidence for what distinguishes accurate probabilistic forecasters.
+  - title: "The Signal and the Noise: Why So Many Predictions Fail — but Some Don't"
+    authorYear: Nate Silver (2012)
+    supports: applied probabilistic reasoning across domains.
+  - title: "Against the Gods: The Remarkable Story of Risk"
+    authorYear: Peter L. Bernstein (1996)
+    supports: the intellectual history of probability and risk, from Pascal's wager to modern portfolio theory.
+  - title: Thinking, Fast and Slow
+    authorYear: Daniel Kahneman (2011)
+    supports: "the cognitive science of why probabilistic reasoning is hard: base rate neglect, anchoring, and hindsight contamination."
+---
+
 # Probabilistic Thinking
-*Think in distributions, not outcomes*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Probabilistic thinking is the practice of representing beliefs as probability distributions rather than binary true/false or confident predictions. Rather than "I think X will happen," the practitioner says "I think X will happen with 70% probability, and here are the main alternative scenarios and their likelihoods." This discipline is borrowed from statistical reasoning and decision theory and applied to everyday judgment.
@@ -42,39 +107,6 @@ Imagine a physical bet: you stake money on an outcome, and your stake is proport
 A product team is deciding whether to build a feature. The PM estimates "it will definitely improve retention." A probabilistic reframe: "What is the base rate for retention improvements from comparably scoped feature launches in our product category?" Research suggests roughly 40% of such features produce measurable retention improvements. This specific feature has some positive signals (user interviews, competitor data) and some negative ones (our retention problem may be driven by factors unrelated to this feature). Updated estimate: 55% chance of meaningful retention improvement. This now-explicit uncertainty changes the decision: rather than building the full feature, the team runs a 4-week test first.
 
 ---
-
-## Connections
-
-→ [5·Circle of Competence](circle-of-competence.md) — probability estimates are only as good as your underlying knowledge. Outside your circle, confidence intervals should be much wider.
-→ [77·Regression to the Mean](../Mathematics/regression-to-the-mean.md) — understanding that extreme outcomes tend toward average is a structural input to probabilistic thinking.
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — once you have a probability distribution on outcomes, margin of safety tells you how much buffer to hold.
-→ [211·Calibration](calibration.md) — calibration is the standard that probabilistic thinking is measured against; thinking in distributions is the method, being calibrated across many predictions is the goal.
-→ [227·Expected Value](../Mathematics/expected-value.md) — EV is the quantitative expression of probabilistic thinking; once you have a probability distribution, expected value tells you what a decision is worth.
-→ [228·Bayesian Updating](../Mathematics/bayesian-updating.md) — the mechanism for keeping probability estimates current as new evidence arrives.
-→ [3·Occam's Razor](occams-razor.md) — when explanations are roughly equally probable, Occam's Razor provides the tiebreaker toward the simpler hypothesis.
-→ [6·Map-Territory](map-territory.md) — probability distributions are maps of uncertainty; treating a confidence interval as certain collapses the map onto one point and ignores the territory's actual range.
-→ [12·Asymmetry / Convexity](asymmetry-convexity.md) — asymmetry analysis is an extension of probabilistic thinking: it requires tracking both probability and magnitude of outcomes, not probability alone.
-→ [240·Black Swan](black-swan.md) — Black Swan thinking extends probabilistic thinking into fat-tailed domains where historical frequencies are a dangerously poor guide to tail probabilities.
-→ [50·Relativity](../Physics-and-Chemistry/relativity.md) — base rates are reference frames; sound probabilistic thinking requires choosing the right reference class before assigning probabilities.
-→ [54·Anchoring](../Psychology/anchoring.md) — the antidote to anchoring is independent base-rate analysis before exposure; probabilistic thinking provides the method for forming that prior independently.
-→ [56·Availability Bias](../Psychology/availability-bias.md) — availability bias is the primary distortion that probabilistic thinking corrects: it replaces vivid-example frequency estimates with explicit base rates.
-→ [115·Planning Fallacy](../Psychology/planning-fallacy.md) — thinking in distributions (outside view) is the cognitive toolkit that directly counters the planning fallacy's reliance on optimistic single-scenario narratives.
-→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — the correction for survivorship bias is explicit probabilistic reasoning over the full distribution, not just the visible tail of survivors.
-→ [201·Hindsight Bias](../Psychology/hindsight-bias.md) — the antidote to hindsight bias is evaluating decisions by the probability distribution reasonably estimable at decision time, not the single outcome that occurred.
-→ [204·Falsification](../Psychology/falsification.md) — probabilistic thinking quantifies uncertainty; falsification tests whether the underlying model is structurally sound. Together they form the core of calibrated reasoning.
-→ [206·Base Rate Neglect](../Psychology/base-rate-neglect.md) — the most common failure of probabilistic reasoning: discarding the prior distribution because the individual case has become vivid.
-→ [72·Experiment Design](../Business/experiment-design.md) — statistical significance and power are applications of probabilistic thinking to experiment design; a well-designed experiment operationalises a probability-based decision rule.
-→ [123·Scenario Planning](../Business/scenario-planning.md) — scenario planning is probabilistic thinking applied to strategy: it makes the distribution of futures explicit rather than collapsing to a single expected-value forecast.
-→ [225·A/B Testing](../Business/ab-testing.md) — statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results correctly requires understanding probability, not just reading outcome metrics.
-
-## References
-
-- *Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts* — Annie Duke (2018) — the practitioner treatment of probabilistic thinking in high-uncertainty decisions.
-- *Superforecasting: The Art and Science of Prediction* — Philip E. Tetlock & Dan Gardner (2015) — the empirical evidence for what distinguishes accurate probabilistic forecasters.
-- *The Signal and the Noise: Why So Many Predictions Fail — but Some Don't* — Nate Silver (2012) — applied probabilistic reasoning across domains.
-- *Against the Gods: The Remarkable Story of Risk* — Peter L. Bernstein (1996) — the intellectual history of probability and risk, from Pascal's wager to modern portfolio theory.
-- *Thinking, Fast and Slow* — Daniel Kahneman (2011) — the cognitive science of why probabilistic reasoning is hard: base rate neglect, anchoring, and hindsight contamination.
-
 
 ---
 

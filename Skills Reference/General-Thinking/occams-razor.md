@@ -1,10 +1,35 @@
+---
+id: 3
+name: Occam's Razor
+category: General Thinking
+cardType: standard
+tagline: Prefer simpler explanations
+connections:
+  - id: 0
+    rationale: both strip away unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations.
+  - id: 7
+    rationale: when explanations are roughly equally probable, Occam provides the tiebreaker.
+  - id: 55
+    rationale: complex explanations are often motivated; Occam is a check on that motivation.
+  - id: 226
+    rationale: sister parsimony principle in a different domain; Occam's Razor governs explanatory economy, Grice governs communicative economy.
+references:
+  - title: The Logic of Scientific Discovery
+    authorYear: Karl R. Popper (1934; English trans. 1959)
+    supports: frames Occam's Razor in the context of scientific methodology and falsifiability.
+  - title: "How to Solve It: A New Aspect of Mathematical Method"
+    authorYear: George Pólya (1945)
+    supports: "the practical heuristic companion: solve the simplest version of the problem first."
+  - title: "The Demon-Haunted World: Science as a Candle in the Dark"
+    authorYear: Carl Sagan (1996)
+    supports: Occam's Razor appears explicitly in Sagan's "Baloney Detection Kit" as a core tool of scientific reasoning.
+---
+
 # Occam's Razor
-*Prefer simpler explanations*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Occam's Razor is the principle that, among competing explanations that fit the evidence equally well, the simpler one should be preferred. The medieval philosopher William of Ockham stated it as: *"entities should not be multiplied beyond necessity."* It is not a claim that the world is simple — it is a decision rule about which hypothesis to work with in the absence of evidence that distinguishes them.
@@ -42,20 +67,6 @@ Each additional assumption in an explanation is an additional point of failure. 
 A startup's north-star metric drops 15% over two weeks. The team generates three explanations: (1) a seasonal dip in user behavior, (2) a product change shipped on day one of the decline combined with a specific segment's particular sensitivity to that feature change, (3) a broader shift in competitive landscape causing users to explore alternatives. Occam's Razor says: test explanation 1 first — it requires only one assumption (seasonality exists) and is checkable against historical data. Only if seasonality doesn't account for the drop should you move to the two-assumption hypothesis, and so on.
 
 ---
-
-## Connections
-
-→ [0·First Principles](first-principles.md) — both strip away unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations.
-→ [7·Probabilistic Thinking](probabilistic-thinking.md) — when explanations are roughly equally probable, Occam provides the tiebreaker.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — complex explanations are often motivated; Occam is a check on that motivation.
-→ [226·Grice's Maxims](grices-maxims.md) — sister parsimony principle in a different domain; Occam's Razor governs explanatory economy, Grice governs communicative economy.
-
-## References
-
-- *The Logic of Scientific Discovery* — Karl R. Popper (1934; English trans. 1959) — frames Occam's Razor in the context of scientific methodology and falsifiability.
-- *How to Solve It: A New Aspect of Mathematical Method* — George Pólya (1945) — the practical heuristic companion: solve the simplest version of the problem first.
-- *The Demon-Haunted World: Science as a Candle in the Dark* — Carl Sagan (1996) — Occam's Razor appears explicitly in Sagan's "Baloney Detection Kit" as a core tool of scientific reasoning.
-
 
 ---
 

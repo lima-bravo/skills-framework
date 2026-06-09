@@ -1,10 +1,35 @@
+---
+id: 171
+name: Causal Analysis
+category: General Thinking
+cardType: standard
+tagline: Choose the right mode of why
+connections:
+  - id: 2
+    rationale: causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the loop.
+  - id: 17
+    rationale: the systems-based mode of causal analysis is feedback loop analysis applied to problem diagnosis.
+  - id: 10
+    rationale: "applies causal analysis forward in time: what causal structure would produce failure from here?"
+  - id: 11
+    rationale: the primary context for causal analysis in engineering and delivery practice.
+  - id: 122
+    rationale: Cynefin tells you which domain you're in; the domain tells you which causal mode is appropriate. Complicated → 5 Whys or fishbone. Complex → causal loops.
+  - id: 0
+    rationale: both disciplines strip away assumption layers; causal analysis strips backward from an outcome, first principles strips downward from a belief.
+  - id: 247
+    rationale: growth barrier diagnosis relies on causal analysis to distinguish root cause from symptom; "growth stalled after we changed pricing" is a timing correlation, not a traced mechanism.
+references:
+  - title: "The Book of Why: The New Science of Cause and Effect"
+    authorYear: Judea Pearl & Dana Mackenzie (2018)
+    supports: the accessible treatment of causal inference and the ladder of causation.
+---
+
 # Causal Analysis
-*Choose the right mode of why*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Causal analysis is the practice of determining *why* something happened — tracing backward from an observed outcome to the forces that produced it. The discipline is not a single technique but a family of modes, each suited to a different causal structure. Choosing the wrong mode produces confident but wrong answers: a linear tool applied to a systemic problem yields a tidy explanation that fails to prevent recurrence.
@@ -53,22 +78,6 @@ Fishbone analysis surfaces what the chain missed: the test suite takes 45 minute
 Causal loop analysis reveals the feedback structure: time pressure → test-skipping → incidents → emergency fixes → more time pressure. The "root cause" (engineer behavior) is itself produced by the loop. Fixing the checklist addresses one node; fixing the loop requires changing sprint commitments, test suite speed, and on-call continuity simultaneously.
 
 ---
-
-## Connections
-
-→ [2·Second-Order Effects](second-order-effects.md) — causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the loop.
-→ [17·Feedback Loops](../Systems/feedback-loops.md) — the systems-based mode of causal analysis is feedback loop analysis applied to problem diagnosis.
-→ [10·Pre-mortem](pre-mortem.md) — applies causal analysis forward in time: what causal structure would produce failure from here?
-→ [11·Post-mortem](post-mortem.md) — the primary context for causal analysis in engineering and delivery practice.
-→ [122·Cynefin Framework](cynefin-framework.md) — Cynefin tells you which domain you're in; the domain tells you which causal mode is appropriate. Complicated → 5 Whys or fishbone. Complex → causal loops.
-→ [0·First Principles](first-principles.md) — both disciplines strip away assumption layers; causal analysis strips backward from an outcome, first principles strips downward from a belief.
-→ [247·Growth Barriers](../Business/growth-barriers.md) — growth barrier diagnosis relies on causal analysis to distinguish root cause from symptom; "growth stalled after we changed pricing" is a timing correlation, not a traced mechanism.
-
----
-
-## References
-
-- *The Book of Why: The New Science of Cause and Effect* — Judea Pearl & Dana Mackenzie (2018) — the accessible treatment of causal inference and the ladder of causation.
 
 ---
 

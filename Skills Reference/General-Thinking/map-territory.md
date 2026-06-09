@@ -1,10 +1,47 @@
+---
+id: 6
+name: Map-Territory
+category: General Thinking
+cardType: standard
+tagline: The model is not the reality
+connections:
+  - id: 0
+    rationale: a method for building better maps from scratch.
+  - id: 7
+    rationale: maps should carry explicit confidence levels; treating map outputs as certain is the core failure mode.
+  - id: 19
+    rationale: emergent phenomena are definitionally hard to represent on maps because they arise from interactions the map does not capture.
+  - id: 120
+    rationale: the metric-fixation failure mode named in this card; when a map measure becomes a target, the map and territory diverge by design.
+  - id: 55
+    rationale: confirmation bias prevents the map from updating when the territory changes; it is the cognitive mechanism behind model lock-in.
+  - id: 14
+    rationale: the ladder is a detailed account of how maps (beliefs, conclusions) are constructed from territory (data) rung by rung; errors in the climb produce systematically wrong maps.
+  - id: 188
+    rationale: a paradigm is the invisible framework that shapes which maps practitioners draw; paradigm shift is what happens when the framework itself requires replacement, not just a particular map.
+  - id: 26
+    rationale: an algorithm is a formalised map of a decision process; its failure modes are precisely the cases where the map diverges from the territory.
+  - id: 27
+    rationale: irreducible systems resist accurate mapping; any map of them systematically loses essential behavior.
+  - id: 50
+    rationale: the reference frame is part of the map; different observers draw different maps of the same territory.
+references:
+  - title: "Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics"
+    authorYear: Alfred Korzybski (1933)
+    supports: the origin of 'the map is not the territory.'
+  - title: "The Great Mental Models Vol. 1: General Thinking Concepts"
+    authorYear: Shane Parrish & Rhiannon Beaubien (2019)
+    supports: the accessible modern treatment of the map-territory distinction.
+  - title: "The Black Swan: The Impact of the Highly Improbable"
+    authorYear: Nassim Nicholas Taleb (2007)
+    supports: the danger of maps (Gaussian models, historical distributions) that systematically exclude the territory's most consequential events.
+---
+
 # Map-Territory
-*The model is not the reality*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Map-Territory distinction, from Alfred Korzybski's 1931 formulation *"the map is not the territory,"* is the recognition that every model, framework, metric, belief, or mental representation is a simplified abstraction of reality — not reality itself. The map is useful precisely because it simplifies; it becomes dangerous when we forget that it does so.
@@ -42,26 +79,6 @@ A map has two types of error: things it gets wrong about the territory, and thin
 A retail chain builds an inventory optimization model that performs excellently in historical backtests and in the 18 months after deployment. Then a supply chain disruption creates conditions outside the model's training distribution. The model continues to recommend orders based on patterns that no longer hold. Managers who have internalized the model's outputs as "the answer" fail to override it until inventory is severely misallocated. The map (inventory model) had diverged significantly from the territory (actual supply/demand dynamics) and the team had stopped checking.
 
 ---
-
-## Connections
-
-→ [0·First Principles](first-principles.md) — a method for building better maps from scratch.
-→ [7·Probabilistic Thinking](probabilistic-thinking.md) — maps should carry explicit confidence levels; treating map outputs as certain is the core failure mode.
-→ [19·Emergence](../Systems/emergence.md) — emergent phenomena are definitionally hard to represent on maps because they arise from interactions the map does not capture.
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — the metric-fixation failure mode named in this card; when a map measure becomes a target, the map and territory diverge by design.
-→ [55·Confirmation Bias](../Psychology/confirmation-bias.md) — confirmation bias prevents the map from updating when the territory changes; it is the cognitive mechanism behind model lock-in.
-→ [14·Ladder of Inference](ladder-of-inference.md) — the ladder is a detailed account of how maps (beliefs, conclusions) are constructed from territory (data) rung by rung; errors in the climb produce systematically wrong maps.
-→ [188·Paradigm Shift](paradigm-shift.md) — a paradigm is the invisible framework that shapes which maps practitioners draw; paradigm shift is what happens when the framework itself requires replacement, not just a particular map.
-→ [26·Algorithms](../Systems/algorithms.md) — an algorithm is a formalised map of a decision process; its failure modes are precisely the cases where the map diverges from the territory.
-→ [27·Irreducibility](../Systems/irreducibility.md) — irreducible systems resist accurate mapping; any map of them systematically loses essential behavior.
-→ [50·Relativity](../Physics-and-Chemistry/relativity.md) — the reference frame is part of the map; different observers draw different maps of the same territory.
-
-## References
-
-- *Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics* — Alfred Korzybski (1933) — the origin of 'the map is not the territory.'
-- *The Great Mental Models Vol. 1: General Thinking Concepts* — Shane Parrish & Rhiannon Beaubien (2019) — the accessible modern treatment of the map-territory distinction.
-- *The Black Swan: The Impact of the Highly Improbable* — Nassim Nicholas Taleb (2007) — the danger of maps (Gaussian models, historical distributions) that systematically exclude the territory's most consequential events.
-
 
 ---
 

@@ -1,10 +1,57 @@
+---
+id: 0
+name: First Principles
+category: General Thinking
+cardType: standard
+tagline: Strip to fundamentals
+connections:
+  - id: 245
+    rationale: Step 1 of this chain uses First Principles to strip an idea from analogy to mechanism before it enters the innovation funnel
+  - id: 1
+    rationale: first principles tells you what should be true; inversion tells you what would have to be true for the current answer to be wrong. Run both together.
+  - id: 6
+    rationale: first principles is a method for cleaning the map. If your map contains inherited assumptions, it may not reflect the territory.
+  - id: 5
+    rationale: first principles reasoning in domains where you lack deep knowledge risks confident wrongness. Know where your bedrock is actually solid.
+  - id: 3
+    rationale: both strip unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations without rebuilding.
+  - id: 8
+    rationale: thought experiments often use first principles to work out implications of basic laws in a noise-free environment before returning to the messy real case.
+  - id: 9
+    rationale: Socratic questioning tears down and tests existing beliefs; first principles rebuilds from what survives. Together they form a complete belief-examination process.
+  - id: 106
+    rationale: "first principles and analogy are complementary strategies: first principles identifies what needs to be built from scratch; analogy identifies where a solution may already exist in another domain."
+  - id: 122
+    rationale: first principles reasoning is reliable in Clear and Complicated domains where analysis can reach a correct answer; it is less productive in Complex domains where the answer only emerges from probing.
+  - id: 128
+    rationale: Theory of Change forces the question of why each causal link is expected to hold; first principles reasoning is the tool for interrogating those assumptions at bedrock.
+  - id: 171
+    rationale: both disciplines strip away assumption layers; first principles strips downward from a belief, causal analysis strips backward from an outcome.
+  - id: 188
+    rationale: first-principles reasoning is the practitioner's attempt to force a paradigm shift intentionally; where Kuhn describes how paradigm shifts happen historically, first principles is the deliberate method for escaping paradigmatic assumptions.
+  - id: 199
+    rationale: survivor-sourced conventional wisdom is the paradigm first principles must cut through; the "obvious" move is often only obvious because the failures that disproved it are invisible.
+  - id: 203
+    rationale: "first principles thinking is the antidote to narrative instinct: it starts from structure and evidence rather than the inherited story the organisation operates inside."
+  - id: 166
+    rationale: "Rumelt's diagnosis step is first-principles thinking applied to a strategic situation: stripping away goals and aspirations to identify the central challenge that actually constrains progress."
+references:
+  - title: Discourse on the Method
+    authorYear: René Descartes (1637)
+    supports: "the philosophical origin of first-principles reasoning: doubt everything until you reach what cannot be doubted."
+  - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
+    authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)
+    supports: Munger's practical application of first principles as mental models.
+  - title: The Feynman Lectures on Physics
+    authorYear: Richard P. Feynman, Robert B. Leighton & Matthew Sands (1963)
+    supports: the physicist's discipline of deriving results from fundamental laws rather than inherited formulae; the modern scientific template for reasoning up from bedrock.
+---
+
 # First Principles
-*Strip to fundamentals*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 First principles thinking is the practice of breaking a problem down to its most basic, irreducible truths — the things you know to be true from evidence or logic — and then reasoning upward from there rather than from analogy, convention, or received wisdom. The phrase comes from Aristotle ("the first basis from which a thing is known") and was popularized in modern practice by physicists and engineers who needed to escape the gravitational pull of industry assumptions.
@@ -44,31 +91,6 @@ The practitioner's internal question is: *"What would I believe about this if I 
 SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and found they cost $65M each. Instead of accepting that price as a constraint, he asked: what is a rocket actually made of? Aerospace-grade aluminium alloys, titanium, copper, carbon fiber. He priced the raw materials: roughly 2% of the finished rocket's cost. The gap between raw material cost and purchase price revealed that the constraint was not physics but manufacturing process and supply chain. This observation made vertical integration and reusable rockets conceivable in a way they would not have been had he accepted the $65M as a natural law.
 
 ---
-
-## Connections
-
-→ [245·Funnel Intake](../Pre-built-Chains/funnel-intake.md) — Step 1 of this chain uses First Principles to strip an idea from analogy to mechanism before it enters the innovation funnel
-→ [1·Inversion](inversion.md) — first principles tells you what should be true; inversion tells you what would have to be true for the current answer to be wrong. Run both together.
-→ [6·Map-Territory](map-territory.md) — first principles is a method for cleaning the map. If your map contains inherited assumptions, it may not reflect the territory.
-→ [5·Circle of Competence](circle-of-competence.md) — first principles reasoning in domains where you lack deep knowledge risks confident wrongness. Know where your bedrock is actually solid.
-→ [3·Occam's Razor](occams-razor.md) — both strip unwarranted complexity; first principles rebuilds from the ground up, Occam prunes existing explanations without rebuilding.
-→ [8·Thought Experiment](thought-experiment.md) — thought experiments often use first principles to work out implications of basic laws in a noise-free environment before returning to the messy real case.
-→ [9·Socratic Thinking](socratic-thinking.md) — Socratic questioning tears down and tests existing beliefs; first principles rebuilds from what survives. Together they form a complete belief-examination process.
-→ [106·Analogical Reasoning](analogical-reasoning.md) — first principles and analogy are complementary strategies: first principles identifies what needs to be built from scratch; analogy identifies where a solution may already exist in another domain.
-→ [122·Cynefin Framework](cynefin-framework.md) — first principles reasoning is reliable in Clear and Complicated domains where analysis can reach a correct answer; it is less productive in Complex domains where the answer only emerges from probing.
-→ [128·Theory of Change](theory-of-change.md) — Theory of Change forces the question of why each causal link is expected to hold; first principles reasoning is the tool for interrogating those assumptions at bedrock.
-→ [171·Causal Analysis](causal-analysis.md) — both disciplines strip away assumption layers; first principles strips downward from a belief, causal analysis strips backward from an outcome.
-→ [188·Paradigm Shift](paradigm-shift.md) — first-principles reasoning is the practitioner's attempt to force a paradigm shift intentionally; where Kuhn describes how paradigm shifts happen historically, first principles is the deliberate method for escaping paradigmatic assumptions.
-→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — survivor-sourced conventional wisdom is the paradigm first principles must cut through; the "obvious" move is often only obvious because the failures that disproved it are invisible.
-→ [203·Narrative Instinct](../Psychology/narrative-instinct.md) — first principles thinking is the antidote to narrative instinct: it starts from structure and evidence rather than the inherited story the organisation operates inside.
-→ [166·Kernel of Good Strategy](../Business/kernel-of-strategy.md) — Rumelt's diagnosis step is first-principles thinking applied to a strategic situation: stripping away goals and aspirations to identify the central challenge that actually constrains progress.
-
-## References
-
-- *Discourse on the Method* — René Descartes (1637) — the philosophical origin of first-principles reasoning: doubt everything until you reach what cannot be doubted.
-- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — Munger's practical application of first principles as mental models.
-- *The Feynman Lectures on Physics* — Richard P. Feynman, Robert B. Leighton & Matthew Sands (1963) — the physicist's discipline of deriving results from fundamental laws rather than inherited formulae; the modern scientific template for reasoning up from bedrock.
-
 
 ---
 

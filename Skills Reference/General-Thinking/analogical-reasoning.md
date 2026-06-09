@@ -1,10 +1,34 @@
+---
+id: 106
+name: Analogical Reasoning
+category: General Thinking
+cardType: standard
+tagline: Recognizing structural similarities between different domains and importing solutions, mechanisms, or frameworks from one to solve problems in another.
+connections:
+  - id: 0
+    rationale: "first principles decomposes a problem to its foundations; analogical reasoning imports a solution framework from another domain. The two are complementary: first principles identifies what needs to be built; analogy identifies where it may already exist."
+  - id: 8
+    rationale: thought experiments run hypothetical scenarios within a single domain; analogical reasoning imports structure from another domain. Both are generative tools but operate differently.
+  - id: 107
+    rationale: "analogical reasoning is a technique for the divergent phase: generating novel hypotheses by importing from distant domains before converging on a solution."
+  - id: 89
+    rationale: "learning transfer at the individual level is the same mechanism as analogical reasoning at the problem-solving level: applying knowledge acquired in one context to a structurally similar but superficially different context."
+  - id: 109
+    rationale: analogical reasoning expands the adjacent possible by revealing that solutions developed in other domains are available to import, broadening the space of accessible next innovations.
+references:
+  - title: "The Analogical Mind: Perspectives from Cognitive Science"
+    authorYear: Dedre Gentner, Keith J. Holyoak & Boicho N. Kokinov, eds. (2001)
+    supports: the academic treatment of analogy as a core cognitive mechanism.
+  - title: "Mental Leaps: Analogy in Creative Thought"
+    authorYear: Keith J. Holyoak & Paul Thagard (1995)
+    supports: the accessible account of how analogical reasoning drives discovery.
+---
+
 # Analogical Reasoning
-*Recognizing structural similarities between different domains and importing solutions, mechanisms, or frameworks from one to solve problems in another.*
 
 **Category:** [General Thinking](../../docs/deck.html) | **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Analogical reasoning is the cognitive practice of identifying deep structural similarities between different domains and using those similarities to transfer solutions, mechanisms, or conceptual frameworks from a source domain to a target problem. It is one of the oldest and most productive engines of innovation: most breakthroughs involve recognizing that a problem in one field resembles a problem already solved in another, and importing the mechanism rather than reinventing it. Analogical reasoning differs from metaphor (which is primarily communicative) and from first principles (which decomposes to fundamentals) — it is specifically a generative transfer tool, used to create new hypotheses and approaches by borrowing from distant domains.
@@ -42,20 +66,6 @@ An experienced practitioner operates with a mental library of mechanisms — pat
 In the 1850s, Charles Darwin was struggling with the mechanism of species change. Reading Thomas Malthus's *An Essay on the Principle of Population* provided the key structural analogy: Malthus argued that human populations grow faster than food supply, creating competition for scarce resources in which the weakest are eliminated. Darwin recognized that this exact mechanism — differential reproduction under resource scarcity — could operate on biological variation. The analogy was not superficial (economics and biology look nothing alike) but deeply structural: both involve variation in a population, differential survival based on fit with environment, and cumulative change over generations. Importing the mechanism gave Darwin what he was missing: a causal engine for evolution. The same pattern repeats throughout science and innovation — the telephone (modeled on the ear's anatomy), Velcro (modeled on burdock burrs), distributed computing (modeled on the postal routing system), genetic algorithms (modeled on natural selection).
 
 ---
-
-## Connections
-
-→ [0·First Principles](first-principles.md) — first principles decomposes a problem to its foundations; analogical reasoning imports a solution framework from another domain. The two are complementary: first principles identifies what needs to be built; analogy identifies where it may already exist.
-→ [8·Thought Experiment](thought-experiment.md) — thought experiments run hypothetical scenarios within a single domain; analogical reasoning imports structure from another domain. Both are generative tools but operate differently.
-→ [107·Divergent and Convergent Thinking](divergent-and-convergent-thinking.md) — analogical reasoning is a technique for the divergent phase: generating novel hypotheses by importing from distant domains before converging on a solution.
-→ [89·Learning Transfer](../Learning/learning-transfer.md) — learning transfer at the individual level is the same mechanism as analogical reasoning at the problem-solving level: applying knowledge acquired in one context to a structurally similar but superficially different context.
-→ [109·Adjacent Possible](../Systems/adjacent-possible.md) — analogical reasoning expands the adjacent possible by revealing that solutions developed in other domains are available to import, broadening the space of accessible next innovations.
-
-## References
-
-- *The Analogical Mind: Perspectives from Cognitive Science* — Dedre Gentner, Keith J. Holyoak & Boicho N. Kokinov, eds. (2001) — the academic treatment of analogy as a core cognitive mechanism.
-- *Mental Leaps: Analogy in Creative Thought* — Keith J. Holyoak & Paul Thagard (1995) — the accessible account of how analogical reasoning drives discovery.
-
 
 ---
 

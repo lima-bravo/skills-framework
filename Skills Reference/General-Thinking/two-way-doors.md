@@ -1,10 +1,32 @@
+---
+id: 16
+name: Two-Way Doors
+category: General Thinking
+cardType: standard
+tagline: Reversible decisions deserve speed; irreversible ones deserve deliberation
+connections:
+  - id: 24
+    rationale: irreversible decisions require more margin of safety than reversible ones; the two frameworks work together.
+  - id: 12
+    rationale: "two-way doors are structurally asymmetric: limited downside (can reverse), full upside potential."
+  - id: 15
+    rationale: the regret of a wrong reversible decision is small; the regret of a wrong irreversible decision can be large. The two frameworks combine to guide which decisions to act on quickly.
+  - id: 235
+    rationale: irreversible decisions are the primary mechanism of path dependence; preferring two-way doors is the structural antidote to inadvertent lock-in.
+references:
+  - title: "Invent and Wander: The Collected Writings of Jeff Bezos"
+    authorYear: Jeff Bezos, ed. Walter Isaacson (2021)
+    supports: the source of the Type 1/Type 2 decision framework.
+  - title: "Working Backwards: Insights, Stories, and Secrets from Inside Amazon"
+    authorYear: Colin Bryar & Bill Carr (2021)
+    supports: the operational application of two-way-door thinking at Amazon.
+---
+
 # Two-Way Doors
-*Reversible decisions deserve speed; irreversible ones deserve deliberation*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Jeff Bezos introduced the Two-Way Door (Type 1 / Type 2 decision) framework to describe the fundamental distinction between reversible and irreversible decisions. A **two-way door** (Type 2) is a decision you can walk back through: if it proves wrong, you reverse it with limited cost. A **one-way door** (Type 1) is irreversible or very difficult to reverse: once made, you are committed to the consequences. The practitioner's insight: organizations systematically apply too much process to Type 2 decisions (slowing them unnecessarily) and too little deliberation to Type 1 decisions (making them with insufficient analysis). The goal is to match decision process to decision type.
@@ -40,19 +62,6 @@ Imagine two doors. The two-way door: you can open it, walk through, look around,
 A product team wants to deprecate a legacy API that some customers still use. Initial instinct: this requires a long, careful process — many stakeholders, months of communication. Two-way door analysis: is this irreversible? Not entirely — if the API is deprecated and a significant customer complains, re-enabling it (while embarrassing) is technically possible. The team negotiates a 90-day deprecation window with a direct notification to affected customers, monitors complaints, and reserves the right to extend the window. By explicitly structuring the reversibility (the 90-day window is the "door"), they convert a near-one-way-door decision into a two-way-door-with-a-short-corridor, and move significantly faster than a permanent deprecation decision would have required.
 
 ---
-
-## Connections
-
-→ [24·Margin of Safety](../Systems/margin-of-safety.md) — irreversible decisions require more margin of safety than reversible ones; the two frameworks work together.
-→ [12·Asymmetry/Convexity](asymmetry-convexity.md) — two-way doors are structurally asymmetric: limited downside (can reverse), full upside potential.
-→ [15·Regret Minimization](regret-minimization-framework.md) — the regret of a wrong reversible decision is small; the regret of a wrong irreversible decision can be large. The two frameworks combine to guide which decisions to act on quickly.
-→ [235·Path Dependence](../Systems/path-dependence.md) — irreversible decisions are the primary mechanism of path dependence; preferring two-way doors is the structural antidote to inadvertent lock-in.
-
-## References
-
-- *Invent and Wander: The Collected Writings of Jeff Bezos* — Jeff Bezos, ed. Walter Isaacson (2021) — the source of the Type 1/Type 2 decision framework.
-- *Working Backwards: Insights, Stories, and Secrets from Inside Amazon* — Colin Bryar & Bill Carr (2021) — the operational application of two-way-door thinking at Amazon.
-
 
 ---
 

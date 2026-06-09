@@ -1,10 +1,30 @@
+---
+id: 15
+name: Regret Minimization Framework
+category: General Thinking
+cardType: standard
+tagline: Choose the path you would least regret at 80
+connections:
+  - id: 1
+    rationale: "the regret minimization framework is inversion applied to decision-making: instead of \"what's the best outcome I'm seeking?\", it asks \"which failure would be worse?\""
+  - id: 12
+    rationale: trying and failing is often less costly at 80 than not trying; this is the regret asymmetry corresponding to Taleb's payoff asymmetry.
+  - id: 16
+    rationale: reversible decisions (two-way doors) have naturally low regret potential from failure; irreversible ones (one-way doors) are where this framework is most relevant.
+references:
+  - title: "Invent and Wander: The Collected Writings of Jeff Bezos"
+    authorYear: Jeff Bezos, ed. Walter Isaacson (2021)
+    supports: Bezos's own account of the regret minimization framework and the Amazon decision.
+  - title: "The Everything Store: Jeff Bezos and the Age of Amazon"
+    authorYear: Brad Stone (2013)
+    supports: the biographical account of Amazon's founding, including Bezos's 1994 decision and the reasoning behind it.
+---
+
 # Regret Minimization Framework
-*Choose the path you would least regret at 80*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Regret Minimization Framework, coined by Jeff Bezos in the context of his decision to leave a high-paying job to start Amazon, is a decision-making heuristic that projects the decision-maker forward to extreme old age (80 years old is Bezos's specific frame) and asks: looking back from that vantage point, which choice would you regret more — acting or not acting? The framework exploits the well-documented asymmetry in how humans experience regret: we regret inactions (things we didn't try, risks we didn't take) more than actions (things we tried that didn't work out) over the long term.
@@ -40,18 +60,6 @@ Short-term decision-making is dominated by loss aversion, risk aversion, and the
 Bezos's original application: he was a high-performing VP at D.E. Shaw, contemplating leaving to start an internet company in 1994. Using the framework: "If I'm 80 years old and I tried this and it failed, will I regret having tried? Probably not — I would have learned a lot and would have been part of something exciting. If I'm 80 years old and I never tried, staying at a comfortable job during what might be the most important technological shift in my lifetime — will I regret that? Yes, I think I will." The asymmetry of the two regrets drove the decision to act. The framework didn't guarantee success; it resolved the decision by making the asymmetry visible.
 
 ---
-
-## Connections
-
-→ [1·Inversion](inversion.md) — the regret minimization framework is inversion applied to decision-making: instead of "what's the best outcome I'm seeking?", it asks "which failure would be worse?"
-→ [12·Asymmetry/Convexity](asymmetry-convexity.md) — trying and failing is often less costly at 80 than not trying; this is the regret asymmetry corresponding to Taleb's payoff asymmetry.
-→ [16·Two-Way Doors](two-way-doors.md) — reversible decisions (two-way doors) have naturally low regret potential from failure; irreversible ones (one-way doors) are where this framework is most relevant.
-
-## References
-
-- *Invent and Wander: The Collected Writings of Jeff Bezos* — Jeff Bezos, ed. Walter Isaacson (2021) — Bezos's own account of the regret minimization framework and the Amazon decision.
-- *The Everything Store: Jeff Bezos and the Age of Amazon* — Brad Stone (2013) — the biographical account of Amazon's founding, including Bezos's 1994 decision and the reasoning behind it.
-
 
 ---
 

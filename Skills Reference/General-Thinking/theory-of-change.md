@@ -1,10 +1,41 @@
+---
+id: 128
+name: Theory of Change
+category: General Thinking
+cardType: standard
+tagline: "Inputs → Activities → Outputs → Outcomes → Impact: make the causal logic explicit, then test the assumptions"
+connections:
+  - id: 0
+    rationale: forces the question of why each causal link is expected to hold
+  - id: 10
+    rationale: stress-tests which assumptions are most likely to fail
+  - id: 72
+    rationale: the assumptions are hypotheses; experiments test them
+  - id: 123
+    rationale: "complementary: scenario planning asks what futures are plausible; ToC asks what pathway gets you there"
+  - id: 125
+    rationale: Kotter's model is a Theory of Change with embedded assumptions about psychology and organisations
+  - id: 167
+    rationale: "organizational change theories often miss the immunity layer: the counter-commitments and big assumptions that cause the causal chain to fail even when the logic is sound."
+  - id: 166
+    rationale: a strategy's guiding policy is a Theory of Change applied to competitive position; the coherent actions are the mechanism the theory predicts will produce the intended outcome.
+references:
+  - title: Realistic Evaluation
+    authorYear: Ray Pawson & Nick Tilley (1997)
+    supports: "the realist synthesis approach to evaluation: programmes work by triggering mechanisms in contexts, and the Theory of Change must specify which mechanism is being activated and under what conditions."
+  - title: "The Logic Model Guidebook: Better Strategies for Great Results"
+    authorYear: Lisa Wyatt Knowlton & Cynthia C. Phillips (2013)
+    supports: the practical guide to building and using logic models (inputs → activities → outputs → outcomes → impact) as planning and evaluation tools.
+  - title: Lean Impact
+    authorYear: Ann Mei Chang (2018)
+    supports: applies lean startup principles to social impact work, including rigorous testing of Theory of Change assumptions through rapid experiments.
+---
+
 # Theory of Change
-*Inputs → Activities → Outputs → Outcomes → Impact: make the causal logic explicit, then test the assumptions*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A Theory of Change is an explicit, testable causal chain: Inputs → Activities → Outputs → Outcomes → Impact. Critically, it makes the **assumptions** at each causal link explicit — the conditions that must be true for one step to produce the next. Those assumptions are your highest-priority hypotheses to test.
@@ -42,23 +73,6 @@ Think of a Theory of Change as the load-bearing assumptions made visible. Any pl
 A foundation funds a programme to improve youth employment by running CV-writing workshops. Its implicit theory: workshops (activity) → better CVs (output) → more interviews → jobs (outcome) → reduced youth unemployment (impact). Making the chain explicit immediately exposes the weak link — the assumption that CV quality is the binding constraint on getting hired. A quick test of that single assumption (do local employers actually reject these candidates on CV quality, or on lack of experience and referrals?) reveals it is false: the real constraint is access to employers, not document formatting. Because the Theory of Change forced the assumption into the open and ranked it as both load-bearing and untested, the programme pivots cheaply — to employer partnerships and work placements — before spending a year delivering workshops that could never have produced the impact. Without the explicit theory, the workshops would have run, the outputs would have been reported, and the failure would have surfaced only at the impact stage, if at all.
 
 ---
-
-## Connections
-
-→ [0·First Principles](first-principles.md) — forces the question of why each causal link is expected to hold
-→ [10·Pre-mortem](pre-mortem.md) — stress-tests which assumptions are most likely to fail
-→ [72·Experiment Design](../Business/experiment-design.md) — the assumptions are hypotheses; experiments test them
-→ [123·Scenario Planning](../Business/scenario-planning.md) — complementary: scenario planning asks what futures are plausible; ToC asks what pathway gets you there
-→ [125·Change Management](../Leadership/change-management.md) — Kotter's model is a Theory of Change with embedded assumptions about psychology and organisations
-→ [167·Immunity to Change](../Psychology/immunity-to-change.md) — organizational change theories often miss the immunity layer: the counter-commitments and big assumptions that cause the causal chain to fail even when the logic is sound.
-→ [166·Kernel of Good Strategy](../Business/kernel-of-strategy.md) — a strategy's guiding policy is a Theory of Change applied to competitive position; the coherent actions are the mechanism the theory predicts will produce the intended outcome.
-
-## References
-
-- *Realistic Evaluation* — Ray Pawson & Nick Tilley (1997) — the realist synthesis approach to evaluation: programmes work by triggering mechanisms in contexts, and the Theory of Change must specify which mechanism is being activated and under what conditions.
-- *The Logic Model Guidebook: Better Strategies for Great Results* — Lisa Wyatt Knowlton & Cynthia C. Phillips (2013) — the practical guide to building and using logic models (inputs → activities → outputs → outcomes → impact) as planning and evaluation tools.
-- *Lean Impact* — Ann Mei Chang (2018) — applies lean startup principles to social impact work, including rigorous testing of Theory of Change assumptions through rapid experiments.
-
 
 ---
 

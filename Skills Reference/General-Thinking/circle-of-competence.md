@@ -1,10 +1,34 @@
+---
+id: 5
+name: Circle of Competence
+category: General Thinking
+cardType: standard
+tagline: Know the edge of what you know
+connections:
+  - id: 0
+    rationale: first principles reasoning requires you to know which of your foundations are actually solid. Outside your circle, you cannot reliably identify first principles.
+  - id: 57
+    rationale: the psychological mechanism that makes circle self-assessment hard; understanding one reinforces the other.
+  - id: 7
+    rationale: within your circle, probability estimates are more reliable; outside it, confidence intervals should widen dramatically.
+  - id: 211
+    rationale: an honest circle of competence is the first input to good calibration; overconfident people draw their circles too large and their confidence intervals too narrow.
+  - id: 4
+    rationale: distinguishing malice from incompetence requires domain knowledge; outside your circle, technical complexity is easily mistaken for deliberate obfuscation.
+references:
+  - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
+    authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)
+    supports: the primary source for the Circle of Competence as a decision discipline.
+  - title: "The Essays of Warren Buffett: Lessons for Corporate America"
+    authorYear: Warren E. Buffett, ed. Lawrence A. Cunningham (1997; rev. ed. 2019)
+    supports: Buffett's complementary treatment of knowing what you know.
+---
+
 # Circle of Competence
-*Know the edge of what you know*
 
 **Category:** [General Thinking](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Circle of Competence is the domain within which a person has genuine, earned knowledge — understanding not just of the facts but of the failure modes, the edge cases, and the nuance that only comes from direct experience and study. The concept, articulated by Warren Buffett and Charlie Munger, holds that exceptional performance does not require a large circle; it requires knowing precisely where the boundary of your circle lies.
@@ -42,20 +66,6 @@ Draw three concentric rings. The inner ring is your genuine deep expertise — w
 A successful SaaS founder raises a fund and begins making angel investments. Her operational circle — product, B2B sales, SaaS unit economics — is genuinely deep. She begins making investments in biotech because she finds the science fascinating and has read widely. Three investments fail in ways she did not anticipate: regulatory approval timelines, IP disputes, and clinical trial design issues. Her circle in SaaS was deep; her circle in biotech was wide but shallow. The expensive lesson is that reading widely creates the feeling of the circle without the substance.
 
 ---
-
-## Connections
-
-→ [0·First Principles](first-principles.md) — first principles reasoning requires you to know which of your foundations are actually solid. Outside your circle, you cannot reliably identify first principles.
-→ [57·Dunning-Kruger](../Psychology/dunning-kruger.md) — the psychological mechanism that makes circle self-assessment hard; understanding one reinforces the other.
-→ [7·Probabilistic Thinking](probabilistic-thinking.md) — within your circle, probability estimates are more reliable; outside it, confidence intervals should widen dramatically.
-→ [211·Calibration](calibration.md) — an honest circle of competence is the first input to good calibration; overconfident people draw their circles too large and their confidence intervals too narrow.
-→ [4·Hanlon's Razor](hanlons-razor.md) — distinguishing malice from incompetence requires domain knowledge; outside your circle, technical complexity is easily mistaken for deliberate obfuscation.
-
-## References
-
-- *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger* — Charles T. Munger, ed. Peter D. Kaufman (2005) — the primary source for the Circle of Competence as a decision discipline.
-- *The Essays of Warren Buffett: Lessons for Corporate America* — Warren E. Buffett, ed. Lawrence A. Cunningham (1997; rev. ed. 2019) — Buffett's complementary treatment of knowing what you know.
-
 
 ---
 
