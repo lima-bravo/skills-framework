@@ -66,7 +66,6 @@ Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 |--------|------|
 | `Skills Reference/**/*.md` | Skill content (Definition, Mental Model, …) |
 | `Skills Reference/skills-manifest.json` | Stable skill `id`, category, colour; bibliography (`refs`) |
-| `Skills Reference/reference-sections.json` | Per-skill References HTML |
 | `Skills Reference/deck.template.html` | Deck page shell and CSS |
 | `Skills Reference/deck.app.js` | Deck UI logic (search, modals, refs panel) |
 | `scripts/build-deck.mjs` | Assembler → `docs/deck.html` |
@@ -174,7 +173,6 @@ Skills Reference/
   skill-primer.md            # Guide for first-time card readers (source)
   deck.template.html         # Deck shell (edit layout/CSS here)
   deck.app.js                # Deck behaviour
-  reference-sections.json    # References block HTML per skill
   {Category}/*.md            # Skill source files (all 16 categories)
 docs/
   index.html                 # Landing page (edit directly)

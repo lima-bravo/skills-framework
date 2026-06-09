@@ -220,7 +220,7 @@ git rm "Skills Reference/index.html" "Skills Reference/graph.html" \
        "Skills Reference/skill-primer.html"
 ```
 
-The two `*.template.html` files (and `deck.app.js`, `reference-sections.json`) must stay — they are the shells `npm run build` fills. Card markdown links have been repointed from `../index.html` to `../../docs/deck.html`, so nothing depends on the deleted `Skills Reference/index.html` anymore. Treat only `docs/` as canonical.
+The two `*.template.html` files (and `deck.app.js`) must stay — they are the shells `npm run build` fills. Card markdown links have been repointed from `../index.html` to `../../docs/deck.html`, so nothing depends on the deleted `Skills Reference/index.html` anymore. Treat only `docs/` as canonical.
 
 ---
 
