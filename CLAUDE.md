@@ -103,6 +103,8 @@ Single model when:
 
 The `_ai-index.md` is the machine-readable index of the framework. It becomes stale and misleading if not kept in sync. Update it before marking any card-addition task as complete.
 
+**Card authoring contract:** `Skills Reference/AUTHORING.md` and `schemas/skill-card.v1.json` define `cardType`, section order, and connection format.
+
 **When adding a new card**, follow this two-tier workflow:
 
 **Per card — do immediately for every card added:**
