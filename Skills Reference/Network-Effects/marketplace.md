@@ -1,10 +1,30 @@
+---
+id: 84
+name: Marketplace
+category: Network Effects
+cardType: standard
+tagline: Platforms that match supply and demand
+connections:
+  - id: 82
+    rationale: marketplace value grows through cross-side network effects.
+  - id: 22
+    rationale: marketplace liquidity is the specific form of critical mass for marketplace models.
+  - id: 101
+    rationale: marketplace trust infrastructure is the mechanism that makes transactions between strangers possible.
+references:
+  - title: "Platform Revolution: How Networked Markets Are Transforming the Economy"
+    authorYear: G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016)
+    supports: the definitive framework for marketplace design, including cold-start and liquidity mechanics.
+  - title: "The Cold Start Problem: How to Start and Scale Network Effects"
+    authorYear: Andrew Chen (2021)
+    supports: the sequencing of marketplace supply and demand to escape the chicken-and-egg trap.
+---
+
 # Marketplace
-*Platforms that match supply and demand*
 
 **Category:** [Network Effects](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A marketplace is a platform that facilitates transactions between buyers and sellers who would not easily find each other otherwise. The marketplace creates value by reducing search costs (buyers find relevant sellers) and transaction costs (trust, payments, dispute resolution). Successful marketplaces capture a portion of this value through take rates (percentage of transaction value). The structural challenge is the chicken-and-egg problem: the marketplace is more valuable with more supply and more demand, but supply won't come without demand and demand won't come without supply.
@@ -37,19 +57,6 @@ A marketplace has two distinct user populations with distinct needs and distinct
 ## Worked Example
 
 Airbnb's early chicken-and-egg solution: the founders craigslist-scraped attractive listings, contacted hosts directly, and offered to professionally photograph their properties for free. This created a supply-side subsidy (free photography) that improved listing quality (demand-side value) and created a supply density in specific geographies (San Francisco and New York first) that made the demand-side experience credible. Neither supply nor demand would have come first without the artificial stimulus.
-
----
-
-## Connections
-
-→ [82·Network Effects](network-effects.md) — marketplace value grows through cross-side network effects.
-→ [22·Critical Mass](../Systems/critical-mass.md) — marketplace liquidity is the specific form of critical mass for marketplace models.
-→ [101·Trust](../Psychology/trust.md) — marketplace trust infrastructure is the mechanism that makes transactions between strangers possible.
-## References
-
-- *Platform Revolution: How Networked Markets Are Transforming the Economy* — G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016) — the definitive framework for marketplace design, including cold-start and liquidity mechanics.
-- *The Cold Start Problem: How to Start and Scale Network Effects* — Andrew Chen (2021) — the sequencing of marketplace supply and demand to escape the chicken-and-egg trap.
-
 
 ---
 

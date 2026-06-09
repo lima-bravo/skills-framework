@@ -1,10 +1,35 @@
+---
+id: 85
+name: Defensibility
+category: Network Effects
+cardType: standard
+tagline: The ability to maintain competitive advantage
+connections:
+  - id: 82
+    rationale: the strongest defensibility moat in digital markets.
+  - id: 34
+    rationale: defensibility is the mechanism that converts temporary competitive advantage into a monopoly-adjacent position.
+  - id: 75
+    rationale: defensibility enables the compounding of competitive advantage; without it, advantage decays.
+  - id: 239
+    rationale: "deep tail coverage is a defensibility mechanism: it is expensive and time-consuming to replicate, creating a switching cost moat."
+references:
+  - title: "Competition Demystified: A Radically Simplified Approach to Business Strategy"
+    authorYear: Bruce Greenwald & Judd Kahn (2005)
+    supports: competitive advantage as sustainable barriers, not temporary positions.
+  - title: "The Essays of Warren Buffett: Lessons for Corporate America"
+    authorYear: Warren Buffett, ed. Lawrence Cunningham (1997)
+    supports: Buffett's durable economic moat concept, the practitioner's version of defensibility.
+  - title: "Competitive Advantage: Creating and Sustaining Superior Performance"
+    authorYear: Michael E. Porter (1985)
+    supports: "the academic foundation: what makes a position defensible against competitive forces."
+---
+
 # Defensibility
-*The ability to maintain competitive advantage*
 
 **Category:** [Network Effects](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Defensibility is the degree to which a competitive position can be maintained against competitive attack. A defensible position has one or more "moats" — structural advantages that raise the cost or lower the effectiveness of competitor attacks. Warren Buffett's framing: he seeks companies with durable economic moats — features of the business model that protect above-average returns from competitive erosion over long periods.
@@ -37,22 +62,6 @@ Competitive advantage without defensibility is a price-to-earnings premium that 
 ## Worked Example
 
 Amazon's defensibility is often described as its logistics network. But the actual moat is multi-layered: third-party marketplace network effects (more sellers → more selection → more buyers), Prime's switching costs (annual fee creates sunk cost and habit), AWS (completely separate business generating cash to fund retail subsidies), and proprietary data on customer purchasing behavior. No single competitor can attack all four moats simultaneously. Replicating any one of them requires enormous capital and time; replicating all four is impractical.
-
----
-
-## Connections
-
-→ [82·Network Effects](network-effects.md) — the strongest defensibility moat in digital markets.
-→ [34·Monopoly vs. Competition](../Economics/monopoly-vs-competition.md) — defensibility is the mechanism that converts temporary competitive advantage into a monopoly-adjacent position.
-→ [75·Compounding](../Mathematics/compounding.md) — defensibility enables the compounding of competitive advantage; without it, advantage decays.
-→ [239·Long Tail](../Economics/long-tail.md) — deep tail coverage is a defensibility mechanism: it is expensive and time-consuming to replicate, creating a switching cost moat.
-
-## References
-
-- *Competition Demystified: A Radically Simplified Approach to Business Strategy* — Bruce Greenwald & Judd Kahn (2005) — competitive advantage as sustainable barriers, not temporary positions.
-- *The Essays of Warren Buffett: Lessons for Corporate America* — Warren Buffett, ed. Lawrence Cunningham (1997) — Buffett's durable economic moat concept, the practitioner's version of defensibility.
-- *Competitive Advantage: Creating and Sustaining Superior Performance* — Michael E. Porter (1985) — the academic foundation: what makes a position defensible against competitive forces.
-
 
 ---
 

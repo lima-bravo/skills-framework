@@ -1,10 +1,51 @@
+---
+id: 82
+name: Network Effects
+category: Network Effects
+cardType: standard
+tagline: Value increases with every additional participant
+connections:
+  - id: 22
+    rationale: network effects only activate above the critical mass threshold.
+  - id: 83
+    rationale: the growth mechanism that most efficiently reaches critical mass.
+  - id: 85
+    rationale: network effects are the strongest source of defensibility in digital markets.
+  - id: 217
+    rationale: "network effects are one of the most powerful value capture mechanisms: as the network grows, switching costs rise and the fraction of created value that can be retained increases."
+  - id: 238
+    rationale: "network effects are a primary generative mechanism for power law distributions: preferential attachment produces winner-take-most outcomes."
+  - id: 239
+    rationale: "network effects and Long Tail dynamics compound in platform markets: the network attracts more supply, which deepens the tail, which attracts more demand."
+  - id: 102
+    rationale: network effects accelerate the growth phase of an S-curve and raise the saturation ceiling, but do not eliminate the S-curve structure.
+  - id: 235
+    rationale: "network effects are the most powerful source of path dependence in markets: the larger the installed base, the higher the switching cost for any individual user or provider."
+  - id: 34
+    rationale: network effects are the most powerful monopoly-creating force in digital markets; they shift the competitive landscape toward winner-take-most outcomes.
+  - id: 232
+    rationale: shared goods often have network effect properties; free riding degrades the very thing that makes the network valuable.
+  - id: 236
+    rationale: "technology standards are Schelling Points with network effects: once enough users coordinate on one option, switching costs make it permanent."
+  - id: 49
+    rationale: reciprocal networks, where giving to one member benefits others, generate stronger and more durable network effects than purely transactional ones.
+references:
+  - title: "Platform Revolution: How Networked Markets Are Transforming the Economy"
+    authorYear: G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016)
+    supports: network effects as the primary source of platform value.
+  - title: "The Cold Start Problem: How to Start and Scale Network Effects"
+    authorYear: Andrew Chen (2021)
+    supports: how network effects are seeded, grown, and defended.
+  - title: "The Tipping Point: How Little Things Can Make a Big Difference"
+    authorYear: Malcolm Gladwell (2000)
+    supports: the popular framing of network-effect dynamics and tipping thresholds.
+---
+
 # Network Effects
-*Value increases with every additional participant*
 
 **Category:** [Network Effects](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A network effect exists when the value of a product or service increases as more people use it. The telephone has no value to the first user; it gains value with every additional user connected to the network. Metcalfe's Law captures the dynamic: the value of a telecommunications network is proportional to the square of the number of connected users (n²). Facebook, Uber, LinkedIn, Airbnb, and eBay all benefit from network effects. They are the most powerful and durable moat in digital markets.
@@ -39,27 +80,6 @@ Network effects create a self-reinforcing feedback loop: more users → more val
 LinkedIn is a direct professional network effect: each professional who joins makes LinkedIn more useful for all other professionals (more connections, more job opportunities, more signals). The network effect is asymmetric: LinkedIn is dramatically more valuable with 900M users than with 9M. A competitor with equivalent features but 9M users would offer far less value than LinkedIn's 900M network. The network effect is the moat; the features are how the company maintains enough engagement to keep the network alive.
 
 ---
-
-## Connections
-
-→ [22·Critical Mass](../Systems/critical-mass.md) — network effects only activate above the critical mass threshold.
-→ [83·Viral Growth](viral-growth.md) — the growth mechanism that most efficiently reaches critical mass.
-→ [85·Defensibility](defensibility.md) — network effects are the strongest source of defensibility in digital markets.
-→ [217·Value Creation and Capture](../Economics/value-creation-capture.md) — network effects are one of the most powerful value capture mechanisms: as the network grows, switching costs rise and the fraction of created value that can be retained increases.
-→ [238·Power Law](../Mathematics/power-law.md) — network effects are a primary generative mechanism for power law distributions: preferential attachment produces winner-take-most outcomes.
-→ [239·Long Tail](../Economics/long-tail.md) — network effects and Long Tail dynamics compound in platform markets: the network attracts more supply, which deepens the tail, which attracts more demand.
-→ [102·S-Curves](../Systems/s-curves.md) — network effects accelerate the growth phase of an S-curve and raise the saturation ceiling, but do not eliminate the S-curve structure.
-→ [235·Path Dependence](../Systems/path-dependence.md) — network effects are the most powerful source of path dependence in markets: the larger the installed base, the higher the switching cost for any individual user or provider.
-→ [34·Monopoly vs. Competition](../Economics/monopoly-vs-competition.md) — network effects are the most powerful monopoly-creating force in digital markets; they shift the competitive landscape toward winner-take-most outcomes.
-→ [232·Free Rider Problem](../Economics/free-rider-problem.md) — shared goods often have network effect properties; free riding degrades the very thing that makes the network valuable.
-→ [236·Schelling Points](../Economics/schelling-points.md) — technology standards are Schelling Points with network effects: once enough users coordinate on one option, switching costs make it permanent.
-→ [49·Reciprocity](../Physics-and-Chemistry/reciprocity.md) — reciprocal networks, where giving to one member benefits others, generate stronger and more durable network effects than purely transactional ones.
-
-## References
-
-- *Platform Revolution: How Networked Markets Are Transforming the Economy* — G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016) — network effects as the primary source of platform value.
-- *The Cold Start Problem: How to Start and Scale Network Effects* — Andrew Chen (2021) — how network effects are seeded, grown, and defended.
-- *The Tipping Point: How Little Things Can Make a Big Difference* — Malcolm Gladwell (2000) — the popular framing of network-effect dynamics and tipping thresholds.
 
 ---
 

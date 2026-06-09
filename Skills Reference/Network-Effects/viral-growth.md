@@ -1,10 +1,30 @@
+---
+id: 83
+name: Viral Growth
+category: Network Effects
+cardType: standard
+tagline: Users generate users
+connections:
+  - id: 82
+    rationale: viral growth is the acquisition mechanism; network effects are the retention mechanism.
+  - id: 22
+    rationale: viral growth above k=1 is the fastest path to critical mass.
+  - id: 75
+    rationale: k > 1 viral growth produces compound user acquisition.
+references:
+  - title: "The Cold Start Problem: How to Start and Scale Network Effects"
+    authorYear: Andrew Chen (2021)
+    supports: viral loops, viral coefficient, and how early growth strategies shape long-term network structure.
+  - title: "Hooked: How to Build Habit-Forming Products"
+    authorYear: Nir Eyal (2014)
+    supports: product design for retention and virality.
+---
+
 # Viral Growth
-*Users generate users*
 
 **Category:** [Network Effects](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Viral growth describes a user acquisition dynamic where existing users generate new users — the product or service "spreads" through existing user networks. The viral coefficient (k) is the number of new users generated per existing user. If k > 1, each user generates more than one new user, producing exponential growth. If k < 1, growth requires ongoing acquisition investment. If k = 1, the user base sustains itself without growth. Viral growth is the compounding mechanism that most efficiently reaches critical mass.
@@ -38,19 +58,6 @@ The mechanism: User A joins → experiences value → tells User B (or the mecha
 ## Worked Example
 
 Hotmail's early growth is the canonical example. Every email sent by a Hotmail user included "Get your free email at Hotmail" in the footer — a built-in viral mechanism. The product's free offering and every email were the invite mechanism; the recipient's ability to see the email quality was the demonstration of value. From 500,000 to 12 million users in 18 months. The mechanism was simple, product-embedded, and required no marketing spend.
-
----
-
-## Connections
-
-→ [82·Network Effects](network-effects.md) — viral growth is the acquisition mechanism; network effects are the retention mechanism.
-→ [22·Critical Mass](../Systems/critical-mass.md) — viral growth above k=1 is the fastest path to critical mass.
-→ [75·Compounding](../Mathematics/compounding.md) — k > 1 viral growth produces compound user acquisition.
-## References
-
-- *The Cold Start Problem: How to Start and Scale Network Effects* — Andrew Chen (2021) — viral loops, viral coefficient, and how early growth strategies shape long-term network structure.
-- *Hooked: How to Build Habit-Forming Products* — Nir Eyal (2014) — product design for retention and virality.
-
 
 ---
 
