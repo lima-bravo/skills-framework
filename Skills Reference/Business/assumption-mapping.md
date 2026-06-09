@@ -51,13 +51,12 @@ A team is planning a new market entry. They list their assumptions and find 35. 
 → [**Situation Assessment**](../Consulting-Craft/situation-assessment.md) — the broader diagnostic discipline that surfaces what's known, believed, and unknown about a *situation*; assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy
 → [**Pre-mortem**](../General-Thinking/pre-mortem.md) — pre-mortem failure causes typically correspond to critical assumptions that weren't tested; running both surfaces risk from two directions.
 
+---
+
 ## References
 
 - *Testing Business Ideas: A Field Guide for Rapid Experimentation* — David J. Bland & Alexander Osterwalder (2019) — the practitioner toolkit for identifying and testing assumptions systematically.
 - *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the source discipline of assumption-first product development.
-
-
----
 
 ---
 

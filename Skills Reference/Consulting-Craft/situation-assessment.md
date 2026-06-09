@@ -58,6 +58,7 @@ The fact base reframes the question entirely. The presenting problem ("we need a
 → [**Calibration**](../General-Thinking/calibration.md) — the discipline of stating confidence honestly is what keeps "interpretation" from being smuggled into the document as "fact."
 → [**Pyramid Principle**](pyramid-principle.md) — once the assessment is built, this is how its implications get communicated without losing the fact/interpretation distinction in the retelling.
 → [**Survivorship Bias**](../Psychology/survivorship-bias.md) — a fact base built only from the customers, deals, or initiatives still visible today will systematically miss the ones that already left — often the most diagnostic group of all.
+→ [**Assumption Mapping**](../Business/assumption-mapping.md) — where situation assessment surfaces what is known and believed about the current state, assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy.
 
 ---
 
