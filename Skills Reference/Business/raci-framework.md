@@ -50,6 +50,7 @@ A transformation programme stalls when a critical integration milestone slips, a
 → [**Mission Command**](../Leadership/mission-command.md) — RACI clarifies who is accountable; mission command specifies the intent within which they act.
 → [**Conway's Law**](../Systems/conways-law.md) — RACI matrices mirror organisational structure; the gaps and overlaps in a RACI are often direct reflections of ambiguous org design.
 → [**Change Management**](../Leadership/change-management.md) — RACI should be built during change design alongside the guiding coalition, not after accountability disputes have already begun.
+→ [**Power Mapping**](power-mapping.md) — the RACI is the formal accountability layer; power mapping reveals the informal influence structure beneath it; when the two diverge significantly, the organisation has a governance design problem.
 
 ---
 

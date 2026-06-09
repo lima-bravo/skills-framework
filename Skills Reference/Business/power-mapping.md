@@ -68,10 +68,11 @@ Revised approach: a detailed technical session with the Head of Architecture (wh
 
 ## References
 
-- Kanter, R.M. (1979) "Power Failure in Management Circuits." *Harvard Business Review*, July–August. Foundational treatment of informal power in organisations.
-- Cialdini, R.B. (1984) *Influence: The Psychology of Persuasion*. Harper Collins. The mechanisms of informal influence.
-- Buchanan, D. & Badham, R. (2008) *Power, Politics and Organizational Change* (2nd ed.). Sage. Academic treatment with practitioner application.
-- Krackhardt, D. & Hanson, J.R. (1993) "Informal Networks: The Company Behind the Chart." *Harvard Business Review*, July–August.
+- *"Power Failure in Management Circuits"* — Rosabeth Moss Kanter, *Harvard Business Review* (July–August 1979) — foundational analysis of how informal power flows (and blocks) in organisations; establishes why formal authority alone does not explain who gets things done.
+- *Influence: The Psychology of Persuasion* — Robert B. Cialdini (1984) — the mechanisms of informal influence: reciprocity, commitment, social proof, authority, liking, scarcity; the practitioner manual for understanding why some people move others without formal power.
+- *Pre-Suasion: A Revolutionary Way to Influence and Persuade* — Robert B. Cialdini (2016) — the sequel; shows how the moment and context before a request shapes receptivity; directly applicable to the sequencing logic of power mapping.
+- *Power, Politics and Organizational Change*, 2nd ed. — David Buchanan & Richard Badham (2008) — academic treatment with practitioner application; covers the politics of change, coalition dynamics, and why organisational change fails when informal power structures are ignored.
+- *"Informal Networks: The Company Behind the Chart"* — David Krackhardt & Jeffrey R. Hanson, *Harvard Business Review* (July–August 1993) — the foundational study showing that organisations run on three hidden networks (advice, trust, communication) that diverge significantly from the formal org chart.
 
 ---
 

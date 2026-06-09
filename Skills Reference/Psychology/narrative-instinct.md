@@ -64,6 +64,7 @@ The narrative instinct produced a story centred on a protagonist (the founder), 
 → [**Overton Window**](../General-Thinking/overton-window.md) — the stories that circulate in a culture define the window; shifting the dominant narrative shifts what ideas are considered acceptable for serious discussion
 → [**Social Proof**](social-proof.md) — the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when attached to a compelling narrative
 → [**Base Rate Neglect**](base-rate-neglect.md) — the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
+→ [**Power Mapping**](../Business/power-mapping.md) — informal organisational power often flows to whoever shapes the dominant narrative; identifying who controls the story is part of mapping informal influence.
 
 ## References
 
