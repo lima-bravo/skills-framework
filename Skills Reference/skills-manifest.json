@@ -1907,7 +1907,7 @@
     },
     {
       "title": "A Leader's Framework for Decision Making",
-      "authorYear": "Dave Snowden & Mary Boone (2007), *Harvard Business Review*",
+      "authorYear": "Snowden, D. J. & Boone, M. E. (2007) — Harvard Business Review",
       "skills": [
         {
           "id": 122,
@@ -1918,6 +1918,11 @@
           "id": 209,
           "name": "Empirical Process Control",
           "color": "#0891B2"
+        },
+        {
+          "id": 253,
+          "name": "Structured Problem Solving",
+          "color": "#7C3AED"
         }
       ]
     },
@@ -1951,6 +1956,17 @@
           "id": 27,
           "name": "Irreducibility",
           "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "A Proof for the Queuing Formula: L = λW",
+      "authorYear": "John D. C. Little (1961)",
+      "skills": [
+        {
+          "id": 131,
+          "name": "Little's Law",
+          "color": "#0891B2"
         }
       ]
     },
@@ -2094,6 +2110,11 @@
       "title": "Actionable Agile Metrics for Predictability",
       "authorYear": "Daniel S. Vacanti (2015).",
       "skills": [
+        {
+          "id": 131,
+          "name": "Little's Law",
+          "color": "#0891B2"
+        },
         {
           "id": 134,
           "name": "Lead Time vs Cycle Time",
@@ -2298,6 +2319,17 @@
       ]
     },
     {
+      "title": "Are You a Collaborative Leader?",
+      "authorYear": "Ibarra, H. & Hansen, M. T. (2011) — Harvard Business Review",
+      "skills": [
+        {
+          "id": 252,
+          "name": "Stakeholder Pre-Wiring",
+          "color": "#7C3AED"
+        }
+      ]
+    },
+    {
       "title": "Army Doctrine Reference Publication 6-0: Mission Command",
       "authorYear": "US Army, 2012 (updated 2019)",
       "skills": [
@@ -2408,6 +2440,16 @@
           "id": 162,
           "name": "MECE",
           "color": "#7C3AED"
+        },
+        {
+          "id": 246,
+          "name": "Situation Assessment",
+          "color": "#7C3AED"
+        },
+        {
+          "id": 253,
+          "name": "Structured Problem Solving",
+          "color": "#7C3AED"
         }
       ]
     },
@@ -2466,6 +2508,17 @@
       ]
     },
     {
+      "title": "Choosing Strategies for Change",
+      "authorYear": "Kotter, J. P. & Schlesinger, L. A. (1979/2008) — Harvard Business Review",
+      "skills": [
+        {
+          "id": 252,
+          "name": "Stakeholder Pre-Wiring",
+          "color": "#7C3AED"
+        }
+      ]
+    },
+    {
       "title": "Clear and Simple as the Truth: Writing Classic Prose",
       "authorYear": "Francis-Noël Thomas & Mark Turner (1994)",
       "skills": [
@@ -2506,6 +2559,11 @@
           "id": 103,
           "name": "Jobs to Be Done",
           "color": "#DC2626"
+        },
+        {
+          "id": 246,
+          "name": "Situation Assessment",
+          "color": "#7C3AED"
         },
         {
           "id": 247,
@@ -2640,6 +2698,17 @@
           "id": 129,
           "name": "Board Governance",
           "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "Cours d'économie politique",
+      "authorYear": "Pareto, V. (1896)",
+      "skills": [
+        {
+          "id": 253,
+          "name": "Structured Problem Solving",
+          "color": "#7C3AED"
         }
       ]
     },
@@ -3550,8 +3619,8 @@
       ]
     },
     {
-      "title": "Influence Without Authority",
-      "authorYear": "Allan R. Cohen & David L. Bradford (1989)",
+      "title": "Influence Without Authority: The Use of Alliances, Reciprocity, and Exchange to Accomplish Work.",
+      "authorYear": "Cohen, A.R. & Bradford, D.L. (1989) — Organizational Dynamics",
       "skills": [
         {
           "id": 221,
@@ -3593,6 +3662,11 @@
           "id": 222,
           "name": "Coalition Building",
           "color": "#1E40AF"
+        },
+        {
+          "id": 252,
+          "name": "Stakeholder Pre-Wiring",
+          "color": "#7C3AED"
         }
       ]
     },
@@ -6373,6 +6447,16 @@
           "id": 163,
           "name": "Pyramid Principle",
           "color": "#7C3AED"
+        },
+        {
+          "id": 246,
+          "name": "Situation Assessment",
+          "color": "#7C3AED"
+        },
+        {
+          "id": 253,
+          "name": "Structured Problem Solving",
+          "color": "#7C3AED"
         }
       ]
     },
@@ -6500,6 +6584,11 @@
       "authorYear": "Donald G. Reinertsen (2009).",
       "skills": [
         {
+          "id": 131,
+          "name": "Little's Law",
+          "color": "#0891B2"
+        },
+        {
           "id": 132,
           "name": "WIP Limits",
           "color": "#0891B2"
@@ -6602,6 +6691,16 @@
           "id": 218,
           "name": "Business Case Construction",
           "color": "#475569"
+        },
+        {
+          "id": 246,
+          "name": "Situation Assessment",
+          "color": "#7C3AED"
+        },
+        {
+          "id": 253,
+          "name": "Structured Problem Solving",
+          "color": "#7C3AED"
         }
       ]
     },
@@ -7430,6 +7529,17 @@
           "id": 210,
           "name": "Wardley Mapping",
           "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "What You Don't Know About Making Decisions",
+      "authorYear": "Garvin, D. A. & Roberto, M. A. (2001) — Harvard Business Review",
+      "skills": [
+        {
+          "id": 252,
+          "name": "Stakeholder Pre-Wiring",
+          "color": "#7C3AED"
         }
       ]
     },
