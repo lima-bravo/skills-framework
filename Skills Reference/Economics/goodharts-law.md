@@ -62,6 +62,7 @@ A hospital system under pressure to cut emergency-department waiting times sets 
 → [**Incentive Design**](incentive-design.md) — every incentive scheme must be designed with Goodhart drift in mind; metric rotation and small indicator sets are the countermeasures
 → [**Map-Territory**](../General-Thinking/map-territory.md) — Goodhart's Law is the metric-fixation failure mode of the map-territory gap: the metric (map) diverges from the underlying reality (territory) the moment it becomes a target
 → [**Drift to Failure**](../Systems/drift-to-failure.md) — Goodhart's Law is a primary drift mechanism: as teams optimise measured metrics, the underlying system can drift toward risk boundaries while surface indicators look healthy
+→ [**Pricing Logic**](../Business/pricing-logic.md) — when revenue or margin targets become the primary pricing driver, pricing degrades into a number-hitting exercise; value capture becomes a side effect of hitting the target rather than the purpose of the decision.
 
 ## References
 

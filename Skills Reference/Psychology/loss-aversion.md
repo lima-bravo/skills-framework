@@ -48,6 +48,7 @@ A startup's product team is deciding whether to deprecate a feature used by 8% o
 → [**Inversion**](../General-Thinking/inversion.md) — explicitly stating what is at risk (loss framing) is an application of inversion.
 → [**Trust**](trust.md) — trust violations feel disproportionately large because losses loom larger than equivalent gains; loss aversion explains the asymmetric speed of trust destruction vs. accumulation.
 → [**Social Proof**](social-proof.md) — social proof often activates loss aversion: the fear of being the one who didn't adopt what everyone else has makes conformity feel urgent.
+→ [**Pricing Logic**](../Business/pricing-logic.md) — customers evaluate price increases as losses from their anchored reference point; the ~2× asymmetry means price increases are psychologically harder than the arithmetic suggests, which is why starting price matters so much.
 
 ## References
 

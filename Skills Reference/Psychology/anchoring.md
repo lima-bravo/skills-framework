@@ -50,6 +50,7 @@ A founder is raising a Series A. The first VC she meets opens with "we're thinki
 → [**Overton Window**](../General-Thinking/overton-window.md) — the extreme-position-then-moderate tactic that shifts the window is anchoring applied to discourse: the extreme position sets the reference point that makes the real proposal feel reasonable.
 → [**Availability Bias**](availability-bias.md) — recent vivid events set anchors; the two biases compound when a memorable event both inflates perceived probability and anchors subsequent estimates.
 → [**Social Proof**](social-proof.md) — both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one.
+→ [**Pricing Logic**](../Business/pricing-logic.md) — initial price points become anchors that are very hard to raise later; the most expensive pricing mistake is starting too low, because customers anchor to that level and experience increases as losses.
 
 ## References
 

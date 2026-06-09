@@ -67,10 +67,10 @@ Revised pricing: SMB tier at £4,800/year (still discounted vs current), mid-mar
 
 ## References
 
-- Nagle, T.T. & Müller, G. (2017) *The Strategy and Tactics of Pricing* (6th ed.). Routledge. The standard academic and practitioner reference.
-- Monroe, K.B. (2002) *Pricing: Making Profitable Decisions* (3rd ed.). McGraw-Hill.
-- Dolan, R.J. & Simon, H. (1996) *Power Pricing*. Free Press.
-- Anderson, J.C., Narus, J.A. & Narayandas, D. (2007) "Customer Value Propositions in Business Markets." *Harvard Business Review*, March.
+- *The Strategy and Tactics of Pricing*, 6th ed. — Thomas T. Nagle & Georg Müller (2018) — the standard academic and practitioner reference; covers value-based pricing, customer segmentation, price differentiation, and pricing change management.
+- *Pricing: Making Profitable Decisions*, 3rd ed. — Kent B. Monroe (2002) — comprehensive treatment of pricing theory and practice including value pricing, price discrimination, and the psychology of price perception.
+- *Power Pricing* — Robert J. Dolan & Hermann Simon (1996) — practitioner guide to value-based pricing; introduces the value corridor concept and how to capture a larger share of the value created rather than defaulting to cost-plus logic.
+- *"Customer Value Propositions in Business Markets"* — James C. Anderson, James A. Narus & Das Narayandas, *Harvard Business Review* (March 2007) — shows how articulating quantified value delivered to customers is the foundation of value-based pricing in B2B markets.
 
 ---
 
