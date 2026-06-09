@@ -1,10 +1,52 @@
+---
+id: 18
+name: Bottlenecks
+category: Systems
+cardType: standard
+tagline: The constraint that governs throughput
+connections:
+  - id: 17
+    rationale: the bottleneck often sits where a balancing feedback loop operates most tightly.
+  - id: 26
+    rationale: scheduling algorithms are explicitly designed to route work around bottlenecks.
+  - id: 21
+    rationale: as organizations scale, the bottleneck migrates; strategic planning requires anticipating the next constraint.
+  - id: 247
+    rationale: "the same constraint logic applied specifically to a stalled growth system: find the binding constraint in the acquisition-to-expansion chain before pulling levers elsewhere."
+  - id: 255
+    rationale: accumulated technical debt increases the unit cost of every change processed through the constraint; it is one of the most common hidden causes of a delivery bottleneck.
+  - id: 260
+    rationale: adding capacity at non-bottleneck points is a classic symptomatic fix that relieves local pressure without improving system throughput.
+  - id: 25
+    rationale: in a growth system, churn is often the binding constraint on net growth; treating acquisition as the bottleneck when churn is the true constraint is a misidentification.
+  - id: 28
+    rationale: "system integration points between teams are common bottlenecks; Conway's Law explains why: the interface quality tracks the team relationship quality."
+  - id: 31
+    rationale: the bottleneck is the point of maximum scarcity in a process; bottleneck management is the operational discipline for allocating the scarcest resource.
+  - id: 41
+    rationale: applying leverage to bottlenecks produces the highest system-wide return; the bottleneck is where leverage compounds most powerfully.
+  - id: 42
+    rationale: bottlenecks reduce speed; directional confusion reduces velocity even when throughput is high.
+  - id: 47
+    rationale: catalysts are most valuable when applied to the bottleneck; the same enabling investment at the constraint produces system-wide returns.
+  - id: 116
+    rationale: fragmented calendars make attention the binding bottleneck for makers; the scheduling structure is the constraint to elevate.
+  - id: 250
+    rationale: "the driver-tree logic underneath KPI architecture is the same constraint-tracing logic: find the binding link in the chain, instrument it, and stop measuring what doesn't move the system."
+references:
+  - title: "The Goal: A Process of Ongoing Improvement"
+    authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)
+    supports: the source text for Theory of Constraints and bottleneck management.
+  - title: "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win"
+    authorYear: Gene Kim, Kevin Behr & George Spafford (2013)
+    supports: applies constraint theory to software delivery.
+---
+
 # Bottlenecks
-*The constraint that governs throughput*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 A bottleneck is the single constraint that limits the throughput of an entire system. Coined in manufacturing and formalized by Eliyahu Goldratt in *The Goal* (1984) through his Theory of Constraints, the insight is profound: **every system has exactly one binding constraint at any given time, and improving anything other than that constraint does not improve overall system performance.** All other improvements are local optima that feel like progress but don't move the needle.
@@ -40,31 +82,6 @@ Think of a pipeline with sections of different diameters. The narrowest section 
 An engineering team complains they can't ship fast enough. The diagnosis: pull requests wait an average of 3 days for review before being merged. The obvious solution: hire more engineers. But Theory of Constraints analysis shows the review queue is the bottleneck, not headcount — the engineers are writing code faster than it can be reviewed. Adding more engineers makes the queue longer, not shorter. The actual fix: dedicate 30% of senior engineer time to review, reduce PR size to make individual reviews faster, and invest in automated pre-review checks. Throughput improves before any new hiring.
 
 ---
-
-## Connections
-
-→ [17·Feedback Loops](feedback-loops.md) — the bottleneck often sits where a balancing feedback loop operates most tightly.
-→ [26·Algorithms](algorithms.md) — scheduling algorithms are explicitly designed to route work around bottlenecks.
-→ [21·Scale](scale.md) — as organizations scale, the bottleneck migrates; strategic planning requires anticipating the next constraint.
-→ [247·Growth Barriers](../Business/growth-barriers.md) — the same constraint logic applied specifically to a stalled growth system: find the binding constraint in the acquisition-to-expansion chain before pulling levers elsewhere.
-→ [255·Technical Debt](../Delivery-and-Flow/technical-debt.md) — accumulated technical debt increases the unit cost of every change processed through the constraint; it is one of the most common hidden causes of a delivery bottleneck.
-→ [260·Fixes That Fail](fixes-that-fail.md) — adding capacity at non-bottleneck points is a classic symptomatic fix that relieves local pressure without improving system throughput.
-→ [25·Churn](churn.md) — in a growth system, churn is often the binding constraint on net growth; treating acquisition as the bottleneck when churn is the true constraint is a misidentification.
-→ [28·Conway's Law](conways-law.md) — system integration points between teams are common bottlenecks; Conway's Law explains why: the interface quality tracks the team relationship quality.
-→ [31·Scarcity](../Economics/scarcity.md) — the bottleneck is the point of maximum scarcity in a process; bottleneck management is the operational discipline for allocating the scarcest resource.
-→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — applying leverage to bottlenecks produces the highest system-wide return; the bottleneck is where leverage compounds most powerfully.
-→ [42·Velocity](../Physics-and-Chemistry/velocity.md) — bottlenecks reduce speed; directional confusion reduces velocity even when throughput is high.
-→ [47·Catalysts](../Physics-and-Chemistry/catalysts.md) — catalysts are most valuable when applied to the bottleneck; the same enabling investment at the constraint produces system-wide returns.
-→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — fragmented calendars make attention the binding bottleneck for makers; the scheduling structure is the constraint to elevate.
-→ [250·KPI Architecture](../Business/kpi-architecture.md) — the driver-tree logic underneath KPI architecture is the same constraint-tracing logic: find the binding link in the chain, instrument it, and stop measuring what doesn't move the system.
-
----
-
-## References
-
-- *The Goal: A Process of Ongoing Improvement* — Eliyahu M. Goldratt & Jeff Cox (1984) — the source text for Theory of Constraints and bottleneck management.
-- *The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win* — Gene Kim, Kevin Behr & George Spafford (2013) — applies constraint theory to software delivery.
-
 
 ---
 

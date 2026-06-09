@@ -1,10 +1,40 @@
+---
+id: 23
+name: Diminishing Returns
+category: Systems
+cardType: standard
+tagline: Each additional unit yields less
+connections:
+  - id: 33
+    rationale: optimization explicitly works with marginal returns, finding the allocation that maximizes total output.
+  - id: 76
+    rationale: diminishing returns are the mechanism by which you get trapped on local maxima.
+  - id: 75
+    rationale: compounding is the opposite dynamic; understanding both helps identify which type of curve you're on.
+  - id: 21
+    rationale: "diminishing returns is a common scale dynamic: what grows superlinearly early often hits diminishing returns as the system grows."
+  - id: 29
+    rationale: "Red Queen races produce industry-wide diminishing returns: as all competitors invest simultaneously, each party's investment yields less competitive improvement."
+  - id: 102
+    rationale: the deceleration in the right tail of an S-curve is the manifestation of diminishing returns as the system approaches its saturation ceiling.
+  - id: 35
+    rationale: diminishing returns set the curve that determines where to stop allocating in pursuit of efficiency gains.
+  - id: 71
+    rationale: portfolio strategy explicitly hedges against H1 diminishing returns by maintaining investment across all three horizons.
+references:
+  - title: Principles of Political Economy and Taxation
+    authorYear: David Ricardo (1817)
+    supports: original formal statement of diminishing returns in the context of agricultural rent.
+  - title: Economics
+    authorYear: Paul A. Samuelson (1948)
+    supports: the standard treatment of marginal analysis and diminishing returns in mainstream economics.
+---
+
 # Diminishing Returns
-*Each additional unit yields less*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The law of diminishing returns states that as you add more of one input to a process while holding others constant, the marginal output of each additional unit of input eventually falls. The classic example is agricultural: a second farmer on a fixed plot produces more grain than one; a tenth farmer produces little marginal gain; a hundredth may actually reduce overall yield through overcrowding. The principle generalizes: most resources — capital, effort, attention, talent — produce diminishing marginal returns beyond some point.
@@ -40,23 +70,6 @@ Every resource allocation problem involves an implicit curve: marginal benefit v
 A marketing team has been investing in content and SEO for three years. The first 20 articles drove significant organic traffic. The next 50 drove moderate traffic. The last 100 articles have driven negligible incremental traffic. The average return across all 170 articles looks fine — organic is a solid channel. The marginal return on articles 121-170 is near zero. A diminishing returns analysis argues for reallocation: stop content production, maintain the existing library, redeploy the team's time to channels earlier in their returns curve.
 
 ---
-
-## Connections
-
-→ [33·Optimization](../Economics/optimization.md) — optimization explicitly works with marginal returns, finding the allocation that maximizes total output.
-→ [76·Local Maxima](../Mathematics/local-maxima.md) — diminishing returns are the mechanism by which you get trapped on local maxima.
-→ [75·Compounding](../Mathematics/compounding.md) — compounding is the opposite dynamic; understanding both helps identify which type of curve you're on.
-→ [21·Scale](scale.md) — diminishing returns is a common scale dynamic: what grows superlinearly early often hits diminishing returns as the system grows.
-→ [29·Red Queen Dilemma](red-queen-dilemma.md) — Red Queen races produce industry-wide diminishing returns: as all competitors invest simultaneously, each party's investment yields less competitive improvement.
-→ [102·S-Curves](s-curves.md) — the deceleration in the right tail of an S-curve is the manifestation of diminishing returns as the system approaches its saturation ceiling.
-→ [35·Efficiency](../Economics/efficiency.md) — diminishing returns set the curve that determines where to stop allocating in pursuit of efficiency gains.
-→ [71·Portfolio Map](../Business/portfolio-map.md) — portfolio strategy explicitly hedges against H1 diminishing returns by maintaining investment across all three horizons.
-
-## References
-
-- *Principles of Political Economy and Taxation* — David Ricardo (1817) — original formal statement of diminishing returns in the context of agricultural rent.
-- *Economics* — Paul A. Samuelson (1948) — the standard treatment of marginal analysis and diminishing returns in mainstream economics.
-
 
 ---
 

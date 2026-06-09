@@ -1,10 +1,42 @@
+---
+id: 235
+name: Path Dependence
+category: Systems
+cardType: standard
+tagline: Where you can go depends on where you have been
+connections:
+  - id: 43
+    rationale: inertia is resistance to change without structural basis; path dependence is structural lock-in. Both produce resistance but require different interventions.
+  - id: 28
+    rationale: organisational structure creates path dependence in system architecture; the communication paths of the past become the software dependencies of the present.
+  - id: 208
+    rationale: "path dependence and drift often compound: the system drifts incrementally in a direction it cannot easily reverse, and each drift step increases switching costs."
+  - id: 16
+    rationale: "the antidote to path dependence in decision-making: prefer reversible decisions over irreversible ones, especially early in a system's life."
+  - id: 53
+    rationale: sunk costs are a major source of path dependence; the psychology of sunk costs causes organisations to continue on a bad path rather than accept the switching cost.
+  - id: 102
+    rationale: path dependence often locks organisations onto a mature S-curve; platform shifts create new curves where switching cost is temporarily lower.
+  - id: 82
+    rationale: "network effects are the most powerful source of path dependence in markets: the larger an installed base, the higher the switching cost for any individual user or provider."
+  - id: 261
+    rationale: "path dependence is a systems property: only visible when you map the full system's structural evolution, not individual component choices"
+  - id: 236
+    rationale: "Schelling Points often create path dependence: coordination around a focal point accumulates switching costs that lock in the initially arbitrary choice."
+references:
+  - title: Clio and the Economics of QWERTY
+    authorYear: Paul A. David, American Economic Review Vol. 75 No. 2 (1985)
+    supports: the landmark paper demonstrating path dependence in technology adoption.
+  - title: Increasing Returns and Path Dependence in the Economy
+    authorYear: W. Brian Arthur (1994)
+    supports: the theoretical framework for positive feedback and lock-in in economic systems.
+---
+
 # Path Dependence
-*Where you can go depends on where you have been*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Path dependence describes situations where the current state of a system is constrained by its history — specifically, by decisions made in the past that are now difficult or impossible to reverse. The sequence of events matters: two systems that start differently and experience the same subsequent pressures can end up in very different states, because early choices foreclosed options that would later have been preferable. Once a path is established, increasing returns to the existing path (network effects, sunk costs, skill accumulation, installed base) make deviation progressively more expensive.
@@ -47,24 +79,6 @@ A mid-size bank built its core banking system in the 1990s on a proprietary main
 The path dependence is severe: decades of integration debt mean that hundreds of internal systems depend on the mainframe's specific data formats and processing sequences. The switching cost is estimated at £80m and 4 years. Several attempts to migrate have been abandoned mid-transition. The constraint is structural — not a preference, not inertia — and the only viable remediation is a full platform change with a sequenced strangler-fig migration that allows the new path to be established before the old one is fully abandoned.
 
 ---
-
-## Connections
-
-→ [43·Inertia](../Physics-and-Chemistry/inertia.md) — inertia is resistance to change without structural basis; path dependence is structural lock-in. Both produce resistance but require different interventions.
-→ [28·Conway's Law](../Systems/conways-law.md) — organisational structure creates path dependence in system architecture; the communication paths of the past become the software dependencies of the present.
-→ [208·Drift to Failure](../Systems/drift-to-failure.md) — path dependence and drift often compound: the system drifts incrementally in a direction it cannot easily reverse, and each drift step increases switching costs.
-→ [16·Two-Way Doors](../General-Thinking/two-way-doors.md) — the antidote to path dependence in decision-making: prefer reversible decisions over irreversible ones, especially early in a system's life.
-→ [53·Sunk Cost](../Psychology/sunk-cost.md) — sunk costs are a major source of path dependence; the psychology of sunk costs causes organisations to continue on a bad path rather than accept the switching cost.
-→ [102·S-Curves](../Systems/s-curves.md) — path dependence often locks organisations onto a mature S-curve; platform shifts create new curves where switching cost is temporarily lower.
-→ [82·Network Effects](../Network-Effects/network-effects.md) — network effects are the most powerful source of path dependence in markets: the larger an installed base, the higher the switching cost for any individual user or provider.
-→ [261·Systems Thinking](systems-thinking.md) — path dependence is a systems property: only visible when you map the full system's structural evolution, not individual component choices
-→ [236·Schelling Points](../Economics/schelling-points.md) — Schelling Points often create path dependence: coordination around a focal point accumulates switching costs that lock in the initially arbitrary choice.
-
-## References
-
-- *Clio and the Economics of QWERTY* — Paul A. David, American Economic Review Vol. 75 No. 2 (1985) — the landmark paper demonstrating path dependence in technology adoption.
-- *Increasing Returns and Path Dependence in the Economy* — W. Brian Arthur (1994) — the theoretical framework for positive feedback and lock-in in economic systems.
-
 
 ---
 

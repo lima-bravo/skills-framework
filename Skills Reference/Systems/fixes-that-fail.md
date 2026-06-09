@@ -1,10 +1,39 @@
+---
+id: 260
+name: Fixes That Fail
+category: Systems
+cardType: standard
+tagline: The symptomatic fix works. That's the problem.
+connections:
+  - id: 208
+    rationale: Fixes That Fail is the mechanism by which systems drift; Drift to Failure is the trajectory the mechanism produces. The two archetypes are often present simultaneously.
+  - id: 120
+    rationale: symptomatic fixes often target the metric that measures the symptom, which optimises the measure while leaving the underlying dynamic intact — a textbook Goodhart failure.
+  - id: 18
+    rationale: adding capacity at non-bottleneck points is a classic symptomatic fix for a system that is actually constrained by a single bottleneck; the fix relieves local pressure without improving system throughput.
+  - id: 255
+    rationale: "technical debt accumulation is often the side effect of a Shifting the Burden cycle: repeated symptomatic fixes (workarounds, shortcuts) that suppress delivery pressure while building structural cost."
+  - id: 17
+    rationale: the Fixes That Fail archetype works because the symptom-to-fix feedback loop is shorter and more visible than the root-cause feedback loop; structural leverage lies in strengthening the longer loop.
+  - id: 261
+    rationale: fixes that fail are only visible as a pattern through systems thinking; the linear view sees each fix in isolation and misses the archetype.
+references:
+  - title: "Thinking in Systems: A Primer"
+    authorYear: Donella H. Meadows (2008)
+    supports: original source for systems archetypes including Fixes That Fail and Shifting the Burden.
+  - title: "The Fifth Discipline: The Art and Practice of the Learning Organization"
+    authorYear: Peter M. Senge (1990)
+    supports: extended treatment of systems archetypes in organizational contexts.
+  - title: "Leverage Points: Places to Intervene in a System"
+    authorYear: Donella H. Meadows (1999)
+    supports: essay on where system interventions are most powerful.
+---
+
 # Fixes That Fail
-*The symptomatic fix works. That's the problem.*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Fixes That Fail is one of Donella Meadows's systems archetypes — recurring structural patterns in which a quick, symptomatic fix relieves the pressure that would otherwise force a solution to the fundamental problem, causing the fundamental problem to persist and grow. The symptomatic fix provides relief; relief reduces urgency; reduced urgency prevents the harder work of addressing root causes; the root cause continues to generate symptoms; the next symptom is larger; a larger fix is required. **Shifting the Burden** is a related archetype with an additional element: the symptomatic fix itself builds a side-effect structure that makes the fundamental solution increasingly difficult to apply over time. The fix shifts the burden of managing the problem from the fundamental solution (which would resolve it) to the symptomatic fix (which can only suppress it). Over time, the capacity for the fundamental solution atrophies, and the dependency on the symptomatic fix deepens.
@@ -49,21 +78,6 @@ The fundamental problem — which the repeated fixes have been suppressing — i
 The resolution: a six-week pause on safety-stock increases, a dedicated forecasting improvement sprint, and a pre-committed trigger: if any SKU category requires a third safety-stock increase without a forecast improvement intervention, the project is automatically prioritized in the next planning cycle.
 
 ---
-
-## Connections
-
-→ [208·Drift to Failure](drift-to-failure.md) — Fixes That Fail is the mechanism by which systems drift; Drift to Failure is the trajectory the mechanism produces. The two archetypes are often present simultaneously.
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — symptomatic fixes often target the metric that measures the symptom, which optimises the measure while leaving the underlying dynamic intact — a textbook Goodhart failure.
-→ [18·Bottlenecks](bottlenecks.md) — adding capacity at non-bottleneck points is a classic symptomatic fix for a system that is actually constrained by a single bottleneck; the fix relieves local pressure without improving system throughput.
-→ [255·Technical Debt](../Delivery-and-Flow/technical-debt.md) — technical debt accumulation is often the side effect of a Shifting the Burden cycle: repeated symptomatic fixes (workarounds, shortcuts) that suppress delivery pressure while building structural cost.
-→ [17·Feedback Loops](feedback-loops.md) — the Fixes That Fail archetype works because the symptom-to-fix feedback loop is shorter and more visible than the root-cause feedback loop; structural leverage lies in strengthening the longer loop.
-→ [261·Systems Thinking](systems-thinking.md) — fixes that fail are only visible as a pattern through systems thinking; the linear view sees each fix in isolation and misses the archetype.
-
-## References
-
-- *Thinking in Systems: A Primer* — Donella H. Meadows (2008) — original source for systems archetypes including Fixes That Fail and Shifting the Burden.
-- *The Fifth Discipline: The Art and Practice of the Learning Organization* — Peter M. Senge (1990) — extended treatment of systems archetypes in organizational contexts.
-- *Leverage Points: Places to Intervene in a System* — Donella H. Meadows (1999) — essay on where system interventions are most powerful.
 
 ---
 

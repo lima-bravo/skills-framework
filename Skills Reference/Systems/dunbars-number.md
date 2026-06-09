@@ -1,10 +1,37 @@
+---
+id: 243
+name: Dunbar's Number
+category: Systems
+cardType: standard
+tagline: The human brain can maintain stable relationships with roughly 150 people
+connections:
+  - id: 28
+    rationale: "Conway's Law is Dunbar's Number applied to system architecture: the communication structure of the organisation (shaped by Dunbar limits) mirrors the architecture of the systems it builds."
+  - id: 154
+    rationale: "Team Topologies is the practical application of Dunbar's Number to software delivery: designing team structures that stay within cognitive relationship limits."
+  - id: 124
+    rationale: culture transmission mechanisms must change as organisations cross Dunbar thresholds; relational transmission fails above ~150 and must be replaced by artefact and ritual.
+  - id: 241
+    rationale: above Dunbar's Number, organisations require institutional mechanisms that are themselves subject to Parkinson expansion; the two dynamics compound.
+  - id: 242
+    rationale: Peter Principle accumulation accelerates above Dunbar's Number, where informal peer accountability can no longer compensate for management incompetence.
+  - id: 101
+    rationale: trust is built relationally within Dunbar limits; above them, trust must be institutionalised through transparency, track record, and structural accountability.
+  - id: 118
+    rationale: Mission Command works best within Dunbar's Number, where commanders know their people directly; above the threshold, it requires formal doctrine and training to replace relational understanding.
+  - id: 104
+    rationale: psychological safety is a relational property that operates within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour.
+references:
+  - title: Grooming, Gossip, and the Evolution of Language
+    authorYear: Robin Dunbar (1996)
+    supports: the accessible treatment of the neocortex-group-size correlation and the 150-person limit.
+---
+
 # Dunbar's Number
-*The human brain can maintain stable relationships with roughly 150 people*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Dunbar's Number is the cognitive limit on the number of stable social relationships a human can maintain — relationships in which an individual knows who each person is and how each person relates to every other person. Proposed by anthropologist Robin Dunbar in the 1990s, the figure is approximately 150, derived from the correlation between primate neocortex size and typical social group size. Dunbar identified a nested hierarchy of group sizes: ~5 (intimate/support clique), ~15 (sympathy group), ~50 (band), ~150 (community), ~500 (megaband), ~1,500 (tribe), each roughly three times the size of the last.
@@ -47,22 +74,6 @@ A technology company grows from 60 to 220 people in 18 months. At 60, culture is
 The diagnosis: the organisation crossed Dunbar's Number without designing the institutional infrastructure to replace relational coordination. The response: explicit team structures capped at ~12 (sub-Dunbar relational unit), a leadership layer with clear accountability for sub-Dunbar unit culture, documented decision rights (replacing informal escalation), and deliberate culture transmission artefacts — a written set of principles, recorded stories of the company's key decisions, and structured onboarding rituals that connect new hires to the culture through narrative rather than direct relationship.
 
 ---
-
-## Connections
-
-→ [28·Conway's Law](../Systems/conways-law.md) — Conway's Law is Dunbar's Number applied to system architecture: the communication structure of the organisation (shaped by Dunbar limits) mirrors the architecture of the systems it builds.
-→ [154·Team Topologies](../Delivery-and-Flow/team-topologies.md) — Team Topologies is the practical application of Dunbar's Number to software delivery: designing team structures that stay within cognitive relationship limits.
-→ [124·Organisational Culture](../Leadership/organizational-culture.md) — culture transmission mechanisms must change as organisations cross Dunbar thresholds; relational transmission fails above ~150 and must be replaced by artefact and ritual.
-→ [241·Parkinson's Law](../Business/parkinsons-law.md) — above Dunbar's Number, organisations require institutional mechanisms that are themselves subject to Parkinson expansion; the two dynamics compound.
-→ [242·Peter Principle](../Leadership/peter-principle.md) — Peter Principle accumulation accelerates above Dunbar's Number, where informal peer accountability can no longer compensate for management incompetence.
-→ [101·Trust](../Psychology/trust.md) — trust is built relationally within Dunbar limits; above them, trust must be institutionalised through transparency, track record, and structural accountability.
-→ [118·Mission Command](../Leadership/mission-command.md) — Mission Command works best within Dunbar's Number, where commanders know their people directly; above the threshold, it requires formal doctrine and training to replace relational understanding.
-→ [104·Psychological Safety](../Psychology/psychological-safety.md) — psychological safety is a relational property that operates within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour.
-
-## References
-
-- *Grooming, Gossip, and the Evolution of Language* — Robin Dunbar (1996) — the accessible treatment of the neocortex-group-size correlation and the 150-person limit.
-
 
 ---
 

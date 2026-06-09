@@ -1,10 +1,32 @@
+---
+id: 29
+name: Red Queen Dilemma
+category: Systems
+cardType: standard
+tagline: You must keep running just to stay in the same place
+connections:
+  - id: 20
+    rationale: Red Queen dynamics maintain a competitive equilibrium; all parties move, none advance relative to each other.
+  - id: 37
+    rationale: "escape from Red Queen races comes through creative destruction: a new product or model that redefines the competitive dimension before others have adapted."
+  - id: 23
+    rationale: "the Red Queen race is a case of industry-wide diminishing returns: each party's investment produces less and less competitive improvement as all parties invest simultaneously."
+  - id: 229
+    rationale: an arms-race dynamic is a Nash Equilibrium in which all players keep escalating because unilateral de-escalation makes them worse off.
+references:
+  - title: "The Red Queen: Sex and the Evolution of Human Nature"
+    authorYear: Matt Ridley (1993)
+    supports: the accessible treatment of Red Queen dynamics in biology, later applied to competitive strategy.
+  - title: "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company"
+    authorYear: Andrew S. Grove (1996)
+    supports: "the strategic inflection point framework: recognising when a Red Queen equilibrium has broken down and a new competitive race is beginning."
+---
+
 # Red Queen Dilemma
-*You must keep running just to stay in the same place*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The Red Queen Dilemma, named after the Red Queen's observation in Lewis Carroll's *Through the Looking-Glass* ("Now, here, you see, it takes all the running you can do, to keep in the same place"), describes competitive systems where continuous adaptation is required simply to maintain current position — not to advance. The evolutionary biologist Leigh Van Valen formalized it: in an ecosystem, as each species evolves to exploit its competitors, the evolutionary improvement of any one species is instantly neutralized by the adaptive response of others, so fitness relative to competitors stays approximately constant despite absolute genetic change.
@@ -39,19 +61,6 @@ In competitive environments, your improvement sets the new standard against whic
 In consumer mobile apps, feature velocity has become a Red Queen race: every app team ships updates continuously not because each individual update provides strategic differentiation but because slowing the release cadence falls visibly behind the standard that users now expect from continuous updates. The investment produces maintenance of position, not advancement. Companies that have escaped this race by creating genuinely distinct experiences (Duolingo's gamification, Notion's structural flexibility) earned above-average retention not by running the feature velocity race faster but by competing on a different dimension.
 
 ---
-
-## Connections
-
-→ [20·Equilibrium](equilibrium.md) — Red Queen dynamics maintain a competitive equilibrium; all parties move, none advance relative to each other.
-→ [37·Creative Destruction](../Economics/creative-destruction.md) — escape from Red Queen races comes through creative destruction: a new product or model that redefines the competitive dimension before others have adapted.
-→ [23·Diminishing Returns](diminishing-returns.md) — the Red Queen race is a case of industry-wide diminishing returns: each party's investment produces less and less competitive improvement as all parties invest simultaneously.
-→ [229·Nash Equilibrium](../Economics/nash-equilibrium.md) — an arms-race dynamic is a Nash Equilibrium in which all players keep escalating because unilateral de-escalation makes them worse off.
-
-## References
-
-- *The Red Queen: Sex and the Evolution of Human Nature* — Matt Ridley (1993) — the accessible treatment of Red Queen dynamics in biology, later applied to competitive strategy.
-- *Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company* — Andrew S. Grove (1996) — the strategic inflection point framework: recognising when a Red Queen equilibrium has broken down and a new competitive race is beginning.
-
 
 ---
 

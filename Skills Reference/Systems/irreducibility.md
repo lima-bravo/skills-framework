@@ -1,10 +1,35 @@
+---
+id: 27
+name: Irreducibility
+category: Systems
+cardType: standard
+tagline: Some complexity cannot be simplified away
+connections:
+  - id: 19
+    rationale: emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
+  - id: 26
+    rationale: irreducible systems are those that resist algorithmic shortcuts; for them, simulation or direct evolution is the only reliable approach.
+  - id: 6
+    rationale: an irreducible system resists accurate mapping; the practitioner must hold the map loosely.
+  - id: 24
+    rationale: irreducible systems cannot be fully anticipated; margin of safety is especially important when the system cannot be simplified without losing essential properties.
+references:
+  - title: A New Kind of Science
+    authorYear: Stephen Wolfram (2002)
+    supports: the extended treatment of computational irreducibility as a fundamental property of complex systems.
+  - title: "Gödel, Escher, Bach: An Eternal Golden Braid"
+    authorYear: Douglas R. Hofstadter (1979)
+    supports: explores irreducibility through the lens of formal systems, self-reference, and strange loops.
+  - title: "The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics"
+    authorYear: Roger Penrose (1989)
+    supports: argues that mathematical truth and consciousness involve irreducibly non-algorithmic processes.
+---
+
 # Irreducibility
-*Some complexity cannot be simplified away*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Irreducibility is the property of a system or problem where simplification loses something essential — where the full behavior of the system genuinely cannot be captured by a simpler model without sacrificing accuracy or correctness in material ways. The term comes from computing (irreducible computational complexity, Wolfram's principle of computational equivalence) and philosophy of mind, but applies broadly: some systems are genuinely complex, and attempts to manage them as if they were simple produce systematic failures.
@@ -42,20 +67,6 @@ There are two sources of complexity in any system: **accidental complexity** (co
 A consultancy builds a unified pricing model for a client, arguing that the current "complexity" (dozens of pricing tiers, exceptions, custom deals) is a legacy problem to be rationalized. They implement a simple, clean pricing structure. Twelve months later, the client has lost several enterprise accounts who required custom terms and a mid-market segment that needed specific tier combinations. The original complexity was not accidental — it reflected genuine variance in customer needs. The "simplification" removed the variety, and the market punished it.
 
 ---
-
-## Connections
-
-→ [19·Emergence](emergence.md) — emergent properties are often what make a system irreducible; you cannot simplify away the interactions that produce them.
-→ [26·Algorithms](algorithms.md) — irreducible systems are those that resist algorithmic shortcuts; for them, simulation or direct evolution is the only reliable approach.
-→ [6·Map-Territory](../General-Thinking/map-territory.md) — an irreducible system resists accurate mapping; the practitioner must hold the map loosely.
-→ [24·Margin of Safety](margin-of-safety.md) — irreducible systems cannot be fully anticipated; margin of safety is especially important when the system cannot be simplified without losing essential properties.
-
-## References
-
-- *A New Kind of Science* — Stephen Wolfram (2002) — the extended treatment of computational irreducibility as a fundamental property of complex systems.
-- *Gödel, Escher, Bach: An Eternal Golden Braid* — Douglas R. Hofstadter (1979) — explores irreducibility through the lens of formal systems, self-reference, and strange loops.
-- *The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics* — Roger Penrose (1989) — argues that mathematical truth and consciousness involve irreducibly non-algorithmic processes.
-
 
 ---
 

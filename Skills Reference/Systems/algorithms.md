@@ -1,10 +1,34 @@
+---
+id: 26
+name: Algorithms
+category: Systems
+cardType: standard
+tagline: Systematic procedures for solving problems
+connections:
+  - id: 18
+    rationale: algorithms are often deployed to relieve bottlenecks in high-frequency decision processes.
+  - id: 33
+    rationale: algorithms are the mechanisms through which optimization is operationalized.
+  - id: 6
+    rationale: an algorithm is a map of a decision process; the territory includes cases the map was not designed for.
+  - id: 27
+    rationale: irreducible systems resist algorithmic shortcuts; the only reliable way to know what they'll do is to run them.
+  - id: 41
+    rationale: "code and algorithms are the highest-leverage form of knowledge work: one-time effort produces indefinite output."
+references:
+  - title: "The Art of Computer Programming, Vol. 1: Fundamental Algorithms"
+    authorYear: Donald E. Knuth (1968)
+    supports: the foundational treatment of algorithms as a formal discipline.
+  - title: "Algorithms to Live By: The Computer Science of Human Decisions"
+    authorYear: Brian Christian & Tom Griffiths (2016)
+    supports: applies algorithmic thinking to everyday decision-making.
+---
+
 # Algorithms
-*Systematic procedures for solving problems*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 An algorithm is a finite, deterministic sequence of steps that reliably produces a correct output given valid inputs. The term comes from computer science but the concept — a systematic, reproducible procedure — is useful wherever decisions need to be made consistently, efficiently, and at scale. Algorithms can be literal (sorting data, routing traffic) or conceptual (a systematic decision process, a repeatable hiring rubric, a standard operating procedure).
@@ -42,20 +66,6 @@ An algorithm trades discretion for consistency. Where human judgment is expensiv
 A law firm handling high-volume contract review introduces an NLP algorithm to flag non-standard clauses. Initial deployment: the algorithm flags everything, creating more work for the lawyers. After calibration, it flags genuinely non-standard clauses 85% accurately. The failure mode that emerges: lawyers stop reading the clauses the algorithm marks as standard, creating a critical oversight gap for the 15% false negatives. The fix: require human review of a random 10% sample of "standard" flags, with explicit tracking of the false-negative rate over time. The algorithm handles volume; the human spot-check maintains quality.
 
 ---
-
-## Connections
-
-→ [18·Bottlenecks](bottlenecks.md) — algorithms are often deployed to relieve bottlenecks in high-frequency decision processes.
-→ [33·Optimization](../Economics/optimization.md) — algorithms are the mechanisms through which optimization is operationalized.
-→ [6·Map-Territory](../General-Thinking/map-territory.md) — an algorithm is a map of a decision process; the territory includes cases the map was not designed for.
-→ [27·Irreducibility](irreducibility.md) — irreducible systems resist algorithmic shortcuts; the only reliable way to know what they'll do is to run them.
-→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — code and algorithms are the highest-leverage form of knowledge work: one-time effort produces indefinite output.
-
-## References
-
-- *The Art of Computer Programming, Vol. 1: Fundamental Algorithms* — Donald E. Knuth (1968) — the foundational treatment of algorithms as a formal discipline.
-- *Algorithms to Live By: The Computer Science of Human Decisions* — Brian Christian & Tom Griffiths (2016) — applies algorithmic thinking to everyday decision-making.
-
 
 ---
 

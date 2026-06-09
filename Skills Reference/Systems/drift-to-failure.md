@@ -1,10 +1,57 @@
+---
+id: 208
+name: Drift to Failure
+category: Systems
+cardType: standard
+tagline: Systems don't suddenly fail — they migrate there, one reasonable decision at a time.
+connections:
+  - id: 207
+    rationale: drift is partially enabled by skill- and rule-based performance that masks growing mismatches between operators' mental models and the actual state of the system
+  - id: 120
+    rationale: when teams optimise for measured performance metrics, they can drift toward meeting the metric while degrading the underlying reality the metric was meant to represent
+  - id: 205
+    rationale: each step of drift is easier to take because of commitment to prior decisions; reversal requires acknowledging that the accumulation of reasonable decisions has produced an unreasonable aggregate state
+  - id: 199
+    rationale: long periods without visible failure are mistaken for evidence of safety; the absence of past accidents is used to justify continued drift
+  - id: 261
+    rationale: drift to failure is a systems phenomenon; it is invisible at the component level and only visible in the system's trajectory
+  - id: 196
+    rationale: well-run AARs should look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" is drift analysis
+  - id: 197
+    rationale: the operational intervention that creates the conditions for drift to become visible before it reaches the boundary
+  - id: 244
+    rationale: Drift to Failure is the universal precondition for organisational degradation; the scan begins here before examining the specific mechanisms that compound it
+  - id: 260
+    rationale: "Fixes That Fail is the mechanism that produces drift: each symptomatic fix relieves the pressure that would force a fundamental solution, allowing the root cause to persist and grow."
+  - id: 235
+    rationale: "drift and path dependence compound: each drift step increases switching costs, making it progressively harder to reverse course as the system moves toward the risk boundary."
+  - id: 231
+    rationale: "commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse."
+  - id: 209
+    rationale: disabling transparency or inspection mechanisms is exactly how organisations lose the ability to detect drift before it reaches the boundary; EPC is the structural defence against Drift to Failure.
+references:
+  - title: "Risk Management in a Dynamic Society: A Modelling Problem — Safety Science Vol. 27"
+    authorYear: Jens Rasmussen (1997)
+    supports: the foundational dynamic safety model defining the boundary space bounded by economic failure, unacceptable workload, and unacceptable risk.
+  - title: "Drift into Failure: From Hunting Broken Components to Understanding Complex Systems"
+    authorYear: Sidney Dekker (2011)
+    supports: extends Rasmussen's model to argue that drift emerges from normal adaptive behaviour in complex systems, not individual error.
+  - title: "The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA"
+    authorYear: Diane Vaughan (1996)
+    supports: the canonical sociological account of how normalisation of deviance enabled the Challenger disaster.
+  - title: Tasks, Errors and Mental Models
+    authorYear: L.P. Goodstein, H.B. Andersen & S.E. Olsen, eds. (1988)
+    supports: foundational collection on human factors, mental models, and error in complex sociotechnical systems.
+  - title: "Managing the Unexpected: Resilient Performance in an Age of Uncertainty"
+    authorYear: Karl E. Weick & Kathleen M. Sutcliffe (2007)
+    supports: high-reliability organisation theory and how to maintain awareness of drift signals.
+---
+
 # Drift to Failure
-*Systems don't suddenly fail — they migrate there, one reasonable decision at a time.*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Drift to Failure describes the process by which complex sociotechnical systems gradually migrate toward unsafe, unsustainable, or deeply suboptimal states through the accumulation of individually rational, locally reasonable decisions — without any single point of obvious failure. The concept originates in Jens Rasmussen's dynamic safety model (1997), which described organisations as operating within a space bounded by three competing pressures: the boundary of economic failure (do too little and the enterprise becomes unviable), the boundary of unacceptable workload (push people too hard and they cannot function), and the boundary of unacceptable risk (move too far and catastrophic failure becomes likely). Normal operational pressures — cost-cutting, efficiency, competitive pressure — create gradients that systematically push behaviour toward the risk boundary. The drift is not dramatic; it is incremental, each step defensible in isolation.
@@ -49,29 +96,6 @@ No single decision was alarming. No incident prompted concern. The team was exec
 The failure mode: a contractor's credentials are compromised, they access an unreviewed internal tool, and from there pivot to production systems. The post-mortem will ask "how did this happen?" and find 18 months of individually defensible decisions that together constitute a drift to failure. No villain, no single bad decision — just the ordinary operation of gradient pressure in the absence of a system-level view.
 
 ---
-
-## Connections
-
-→ [207·SRK Framework](../Psychology/srk-framework.md) — drift is partially enabled by skill- and rule-based performance that masks growing mismatches between operators' mental models and the actual state of the system
-→ [120·Goodhart's Law](../Economics/goodharts-law.md) — when teams optimise for measured performance metrics, they can drift toward meeting the metric while degrading the underlying reality the metric was meant to represent
-→ [205·Commitment & Consistency Bias](../Psychology/commitment-consistency-bias.md) — each step of drift is easier to take because of commitment to prior decisions; reversal requires acknowledging that the accumulation of reasonable decisions has produced an unreasonable aggregate state
-→ [199·Survivorship Bias](../Psychology/survivorship-bias.md) — long periods without visible failure are mistaken for evidence of safety; the absence of past accidents is used to justify continued drift
-→ [261·Systems Thinking](systems-thinking.md) — drift to failure is a systems phenomenon; it is invisible at the component level and only visible in the system's trajectory
-→ [196·After-Action Review](../Leadership/after-action-review.md) — well-run AARs should look for drift signatures, not just proximate causes; asking "when did this start?" and "what decisions enabled each step?" is drift analysis
-→ [197·Tactical Pause](../Leadership/tactical-pause.md) — the operational intervention that creates the conditions for drift to become visible before it reaches the boundary
-→ [244·Organisational Degradation Scan](../Pre-built-Chains/organisational-degradation-scan.md) — Drift to Failure is the universal precondition for organisational degradation; the scan begins here before examining the specific mechanisms that compound it
-→ [260·Fixes That Fail](fixes-that-fail.md) — Fixes That Fail is the mechanism that produces drift: each symptomatic fix relieves the pressure that would force a fundamental solution, allowing the root cause to persist and grow.
-→ [235·Path Dependence](path-dependence.md) — drift and path dependence compound: each drift step increases switching costs, making it progressively harder to reverse course as the system moves toward the risk boundary.
-→ [231·Tragedy of the Commons](../Economics/tragedy-of-the-commons.md) — commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse.
-→ [209·Empirical Process Control](../Delivery-and-Flow/empirical-process-control.md) — disabling transparency or inspection mechanisms is exactly how organisations lose the ability to detect drift before it reaches the boundary; EPC is the structural defence against Drift to Failure.
-
-## References
-
-- *Risk Management in a Dynamic Society: A Modelling Problem — Safety Science Vol. 27* — Jens Rasmussen (1997) — the foundational dynamic safety model defining the boundary space bounded by economic failure, unacceptable workload, and unacceptable risk.
-- *Drift into Failure: From Hunting Broken Components to Understanding Complex Systems* — Sidney Dekker (2011) — extends Rasmussen's model to argue that drift emerges from normal adaptive behaviour in complex systems, not individual error.
-- *The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA* — Diane Vaughan (1996) — the canonical sociological account of how normalisation of deviance enabled the Challenger disaster.
-- *Tasks, Errors and Mental Models* — L.P. Goodstein, H.B. Andersen & S.E. Olsen, eds. (1988) — foundational collection on human factors, mental models, and error in complex sociotechnical systems.
-- *Managing the Unexpected: Resilient Performance in an Age of Uncertainty* — Karl E. Weick & Kathleen M. Sutcliffe (2007) — high-reliability organisation theory and how to maintain awareness of drift signals.
 
 ---
 

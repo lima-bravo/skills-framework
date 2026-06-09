@@ -1,10 +1,36 @@
+---
+id: 22
+name: Critical Mass
+category: Systems
+cardType: standard
+tagline: The threshold where dynamics change
+connections:
+  - id: 82
+    rationale: network effects describe the dynamics above critical mass.
+  - id: 17
+    rationale: the self-reinforcing dynamic above critical mass is a reinforcing feedback loop.
+  - id: 83
+    rationale: viral coefficient above 1 is the mechanism by which critical mass, once approached, is crossed.
+  - id: 19
+    rationale: many emergent phenomena require a critical mass of interactions before the system-level property materialises.
+  - id: 21
+    rationale: "critical mass is a specific threshold in a scale curve: the point at which a scale effect activates or a network becomes self-sustaining."
+  - id: 102
+    rationale: "the inflection point of an S-curve often coincides with reaching critical mass: the moment adoption accelerates under its own momentum."
+references:
+  - title: Diffusion of Innovations
+    authorYear: Everett M. Rogers (1962; 5th ed. 2003)
+    supports: the empirical theory of how innovations cross the critical mass threshold to self-sustaining adoption.
+  - title: "The Tipping Point: How Little Things Can Make a Big Difference"
+    authorYear: Malcolm Gladwell (2000)
+    supports: popular treatment of critical mass dynamics in social systems.
+---
+
 # Critical Mass
-*The threshold where dynamics change*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Critical mass is the minimum scale, density, or quantity at which a self-sustaining reaction or dynamic becomes possible. The term comes from nuclear physics — the mass of fissile material below which a chain reaction cannot be sustained. In business and social systems, critical mass describes the threshold below which a network, community, marketplace, or movement cannot sustain itself without external input, and above which it becomes self-reinforcing.
@@ -40,21 +66,6 @@ Below critical mass, a system leaks more than it generates. A marketplace with t
 Reddit's early growth strategy was to create fake accounts and post content themselves, simulating a community that didn't yet exist. This manufactured the experience of being above critical mass — posts getting responses, discussions happening — long enough to attract the genuine community that eventually made it real. Without this intervention, the chicken-and-egg problem (no one posts to an empty forum; no one joins a forum with no posts) would have prevented critical mass from ever being reached.
 
 ---
-
-## Connections
-
-→ [82·Network Effects](../Network-Effects/network-effects.md) — network effects describe the dynamics above critical mass.
-→ [17·Feedback Loops](feedback-loops.md) — the self-reinforcing dynamic above critical mass is a reinforcing feedback loop.
-→ [83·Viral Growth](../Network-Effects/viral-growth.md) — viral coefficient above 1 is the mechanism by which critical mass, once approached, is crossed.
-→ [19·Emergence](emergence.md) — many emergent phenomena require a critical mass of interactions before the system-level property materialises.
-→ [21·Scale](scale.md) — critical mass is a specific threshold in a scale curve: the point at which a scale effect activates or a network becomes self-sustaining.
-→ [102·S-Curves](s-curves.md) — the inflection point of an S-curve often coincides with reaching critical mass: the moment adoption accelerates under its own momentum.
-
-## References
-
-- *Diffusion of Innovations* — Everett M. Rogers (1962; 5th ed. 2003) — the empirical theory of how innovations cross the critical mass threshold to self-sustaining adoption.
-- *The Tipping Point: How Little Things Can Make a Big Difference* — Malcolm Gladwell (2000) — popular treatment of critical mass dynamics in social systems.
-
 
 ---
 

@@ -1,10 +1,36 @@
+---
+id: 109
+name: Adjacent Possible
+category: Systems
+cardType: standard
+tagline: At any moment, innovation can only move into the space of possibilities adjacent to what currently exists — each step opens new doors, but you cannot skip rooms.
+connections:
+  - id: 102
+    rationale: S-curves describe adoption trajectories once an innovation is accessible; the adjacent possible explains when and why an innovation first becomes accessible.
+  - id: 108
+    rationale: exploration is the active search through the adjacent possible for next innovations; the adjacent possible defines the boundary of productive exploration.
+  - id: 106
+    rationale: analogical reasoning expands the adjacent possible by making solutions developed in distant domains available to import, effectively opening new doors without passing through all intermediate rooms.
+  - id: 112
+    rationale: disruption often begins at the adjacent possible of entrants, who are positioned (by lower cost structures and different customer focus) adjacent to innovations incumbents cannot reach.
+  - id: 75
+    rationale: "each step through the adjacent possible compounds: entering a new room doesn't just solve today's problem, it opens new doors unavailable from the previous room. The value of early steps is partly the future steps they make accessible."
+  - id: 210
+    rationale: "Wardley Maps reveal the adjacent possible in strategic terms: components at the Genesis/Custom boundary are where new moves become accessible; Commodity components are closed territory."
+references:
+  - title: Where Good Ideas Come From
+    authorYear: Steven Johnson (2010)
+    supports: origin of the "adjacent possible" metaphor in innovation contexts.
+  - title: "The Origins of Order: Self-Organisation and Selection in Evolution"
+    authorYear: Stuart A. Kauffman (1993)
+    supports: the formal biological theory of adjacent possible that Johnson popularized.
+---
+
 # Adjacent Possible
-*At any moment, innovation can only move into the space of possibilities adjacent to what currently exists — each step opens new doors, but you cannot skip rooms.*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 The adjacent possible is a concept developed by theoretical biologist Stuart Kauffman and popularized by Steven Johnson in *Where Good Ideas Come From*. It describes the constrained space of next possibilities available at any given moment — the innovations, combinations, and discoveries that are accessible from the current state but not from states further removed. The image is architectural: reality at any point resembles a vast building with many rooms, each containing multiple doors. You can enter the rooms adjacent to the one you occupy, and doing so reveals new rooms with new doors. But you cannot access rooms that are five doors away without passing through the intervening rooms first. Innovation, in this model, is not a leap across possibility space but a step-by-step expansion of it.
@@ -42,21 +68,6 @@ An experienced practitioner uses the adjacent possible as a diagnostic and direc
 The emergence of the smartphone illustrates the sequential logic of the adjacent possible. Miniaturized electronics (1960s-70s) made portable computing conceivable; portable computing (1980s) made PDAs possible; PDAs + cellular networks (1990s) made the early smartphone possible; early smartphones + high-bandwidth wireless (2000s) made the app ecosystem possible; the app ecosystem made GPS navigation, mobile payments, and social media ubiquitous. Each step was adjacent to the last. The iPhone in 1985 was not adjacent — the technology, battery density, display quality, and wireless networks did not yet exist. By 2007, all of those rooms had been entered and the iPhone was fully adjacent. Apple was not smarter than the market — they were better positioned in the adjacent possible. The same pattern holds in biology, chemistry, and culture: what appears to be a sudden breakthrough is almost always the final step in a sequence of adjacencies, each of which had to be cleared first.
 
 ---
-
-## Connections
-
-→ [102·S-Curves](s-curves.md) — S-curves describe adoption trajectories once an innovation is accessible; the adjacent possible explains when and why an innovation first becomes accessible.
-→ [108·Exploration vs. Exploitation](exploration-vs-exploitation.md) — exploration is the active search through the adjacent possible for next innovations; the adjacent possible defines the boundary of productive exploration.
-→ [106·Analogical Reasoning](../General-Thinking/analogical-reasoning.md) — analogical reasoning expands the adjacent possible by making solutions developed in distant domains available to import, effectively opening new doors without passing through all intermediate rooms.
-→ [112·Disruptive Innovation](../Business/disruptive-innovation.md) — disruption often begins at the adjacent possible of entrants, who are positioned (by lower cost structures and different customer focus) adjacent to innovations incumbents cannot reach.
-→ [75·Compounding](../Mathematics/compounding.md) — each step through the adjacent possible compounds: entering a new room doesn't just solve today's problem, it opens new doors unavailable from the previous room. The value of early steps is partly the future steps they make accessible.
-→ [210·Wardley Mapping](../Business/wardley-mapping.md) — Wardley Maps reveal the adjacent possible in strategic terms: components at the Genesis/Custom boundary are where new moves become accessible; Commodity components are closed territory.
-
-## References
-
-- *Where Good Ideas Come From* — Steven Johnson (2010) — origin of the "adjacent possible" metaphor in innovation contexts.
-- *The Origins of Order: Self-Organisation and Selection in Evolution* — Stuart A. Kauffman (1993) — the formal biological theory of adjacent possible that Johnson popularized.
-
 
 ---
 

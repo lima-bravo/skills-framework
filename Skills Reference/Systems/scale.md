@@ -1,10 +1,32 @@
+---
+id: 21
+name: Scale
+category: Systems
+cardType: standard
+tagline: Behavior changes as size changes
+connections:
+  - id: 18
+    rationale: scale transitions almost always involve discovering a new bottleneck that was invisible at smaller scale.
+  - id: 23
+    rationale: "a common scale dynamic: early growth is supralinear, later growth hits diminishing returns."
+  - id: 22
+    rationale: some scale effects only activate above a critical threshold; below it, they don't exist at all.
+  - id: 41
+    rationale: leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
+references:
+  - title: "Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies"
+    authorYear: Geoffrey West (2017)
+    supports: the quantitative theory of scaling laws across biological and social systems.
+  - title: "The Long Tail: Why the Future of Business Is Selling Less of More"
+    authorYear: Chris Anderson (2006)
+    supports: how scale changes the economics of distribution, enabling niche markets that were unviable at smaller scale.
+---
+
 # Scale
-*Behavior changes as size changes*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Scale describes how a system's properties change as its size increases — and crucially, that they do not change linearly. Some things scale sublinearly (cost per unit falls, efficiency rises), some superlinearly (network value, complexity, certain biological systems), and some encounter hard limits (management coordination overhead, physical constraints). The practical implication: a strategy, process, or structure that works at one scale may break, flourish, or require fundamental redesign at a different scale.
@@ -40,19 +62,6 @@ The square-cube law from physics: as a shape grows linearly, its surface area gr
 A startup's customer support is handled personally by the founders — every email answered individually, problems solved on the spot. NPS is exceptional. At 50 customers this works. At 500, it creates founder bottlenecks. At 5,000, it's physically impossible. The support model that generated exceptional satisfaction does not scale. The transition requires designing a system that preserves the quality of the outcome (fast, personalized resolution) through different mechanisms (knowledge base, trained support team, automation) rather than through the original mechanism (founder personal attention).
 
 ---
-
-## Connections
-
-→ [18·Bottlenecks](bottlenecks.md) — scale transitions almost always involve discovering a new bottleneck that was invisible at smaller scale.
-→ [23·Diminishing Returns](diminishing-returns.md) — a common scale dynamic: early growth is supralinear, later growth hits diminishing returns.
-→ [22·Critical Mass](critical-mass.md) — some scale effects only activate above a critical threshold; below it, they don't exist at all.
-→ [41·Leverage](../Physics-and-Chemistry/leverage.md) — leverage is the mechanism that enables non-linear scaling; without it, growth requires proportional input increases.
-
-## References
-
-- *Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies* — Geoffrey West (2017) — the quantitative theory of scaling laws across biological and social systems.
-- *The Long Tail: Why the Future of Business Is Selling Less of More* — Chris Anderson (2006) — how scale changes the economics of distribution, enabling niche markets that were unviable at smaller scale.
-
 
 ---
 

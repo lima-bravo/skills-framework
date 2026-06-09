@@ -1,10 +1,35 @@
+---
+id: 25
+name: Churn
+category: Systems
+cardType: standard
+tagline: The rate at which a system loses what it gains
+connections:
+  - id: 75
+    rationale: churn is the subtrahend in the compounding equation; reducing churn dramatically changes the long-run trajectory.
+  - id: 17
+    rationale: high churn can trigger a reinforcing negative loop (fewer users → less word of mouth → higher CAC → less investment in product → more churn).
+  - id: 18
+    rationale: in a growth system, churn is often the binding constraint that limits net growth despite strong acquisition.
+  - id: 46
+    rationale: "churn is the entropic tendency of a customer base: the natural drift toward departure absent continuous active retention energy."
+references:
+  - title: "SaaS Metrics 2.0: A Guide to Measuring and Improving What Matters"
+    authorYear: David Skok, for Entrepreneurs blog (2012)
+    supports: the canonical treatment of churn economics in subscription businesses.
+  - title: "Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers"
+    authorYear: Geoffrey A. Moore (1991)
+    supports: the customer lifecycle framework that contextualises why different customer segments churn at different rates.
+  - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+    authorYear: Eric Ries (2011)
+    supports: the pivot and persevere decision is often driven by churn signals revealing product-market fit problems.
+---
+
 # Churn
-*The rate at which a system loses what it gains*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Churn is the rate at which a system loses existing members, customers, or resources — and thus the rate at which gains must exceed losses for net growth to occur. In SaaS businesses, customer churn is the percentage of subscribers who cancel in a given period. But the concept generalizes: employee churn, social network attrition, audience churn, partner churn. Any system where you are simultaneously gaining and losing members is governed by churn dynamics.
@@ -42,20 +67,6 @@ Think of a leaking bucket. You are pouring water in (acquisition) while it leaks
 A B2B SaaS company reports 92% annual gross retention — excellent by industry standards. But a cohort analysis reveals that enterprise customers (ACV >£50k) have 97% retention, while SMB customers (ACV <£5k) have 78% retention. The SMB segment is unprofitable on a fully-loaded basis including churn-driven CAC inefficiency. The aggregate number looked good, disguizing a clear strategic signal: either fix SMB retention specifically or exit that segment.
 
 ---
-
-## Connections
-
-→ [75·Compounding](../Mathematics/compounding.md) — churn is the subtrahend in the compounding equation; reducing churn dramatically changes the long-run trajectory.
-→ [17·Feedback Loops](feedback-loops.md) — high churn can trigger a reinforcing negative loop (fewer users → less word of mouth → higher CAC → less investment in product → more churn).
-→ [18·Bottlenecks](bottlenecks.md) — in a growth system, churn is often the binding constraint that limits net growth despite strong acquisition.
-→ [46·Thermodynamics](../Physics-and-Chemistry/thermodynamics.md) — churn is the entropic tendency of a customer base: the natural drift toward departure absent continuous active retention energy.
-
-## References
-
-- *SaaS Metrics 2.0: A Guide to Measuring and Improving What Matters* — David Skok, for Entrepreneurs blog (2012) — the canonical treatment of churn economics in subscription businesses.
-- *Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers* — Geoffrey A. Moore (1991) — the customer lifecycle framework that contextualises why different customer segments churn at different rates.
-- *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* — Eric Ries (2011) — the pivot and persevere decision is often driven by churn signals revealing product-market fit problems.
-
 
 ---
 

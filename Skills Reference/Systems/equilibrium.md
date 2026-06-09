@@ -1,10 +1,37 @@
+---
+id: 20
+name: Equilibrium
+category: Systems
+cardType: standard
+tagline: Systems tend toward balance
+connections:
+  - id: 17
+    rationale: equilibrium is maintained by balancing feedback loops; it is disrupted by reinforcing ones.
+  - id: 45
+    rationale: shifting between equilibria requires an energy input to overcome the barrier between them.
+  - id: 37
+    rationale: industry equilibria are periodically disrupted; understanding the mechanism of disruption is the creative destruction mental model.
+  - id: 29
+    rationale: Red Queen dynamics maintain a competitive equilibrium in which all parties improve but relative positions stay constant.
+  - id: 43
+    rationale: inertia is the mechanism that maintains equilibrium; disrupting equilibrium requires overcoming inertia.
+references:
+  - title: Elements of Pure Economics
+    authorYear: Léon Walras (1874)
+    supports: the original formal treatment of general economic equilibrium.
+  - title: "The Origins of Order: Self-Organisation and Selection in Evolution"
+    authorYear: Stuart A. Kauffman (1993)
+    supports: extends equilibrium thinking to complex adaptive systems.
+  - title: A Beautiful Mind
+    authorYear: Sylvia Nasar (1998)
+    supports: biography of John Nash that traces the development of Nash equilibrium from its mathematical origins to its application across economics and game theory.
+---
+
 # Equilibrium
-*Systems tend toward balance*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Equilibrium is the state in which opposing forces in a system are balanced, producing a stable (or quasi-stable) condition. In physics, it is literal balance. In economics, supply-demand equilibrium is the price at which quantity supplied equals quantity demanded. In biology, homeostasis is the body's equilibrium state. In social systems, norms, power structures, and market positions all reflect equilibria that persist because the forces pushing against them are balanced by forces supporting them.
@@ -42,21 +69,6 @@ Think of a ball in a bowl. Pushed in any direction, it rolls back to the center 
 A management team wants to shift from a hierarchical to a flat decision-making culture. They announce the change, train managers, and hold workshops. Six months later the hierarchy has reasserted itself. Why? The forces maintaining the equilibrium — performance evaluation systems that reward command-and-control behavior, information asymmetries that give senior leaders power, comfort with known decision rights — were never changed. The initiative disturbed the equilibrium without shifting the underlying forces. A successful transition requires changing those forces: evaluation criteria, information flows, decision frameworks — then the new state becomes the stable equilibrium.
 
 ---
-
-## Connections
-
-→ [17·Feedback Loops](feedback-loops.md) — equilibrium is maintained by balancing feedback loops; it is disrupted by reinforcing ones.
-→ [45·Activation Energy](../Physics-and-Chemistry/activation-energy.md) — shifting between equilibria requires an energy input to overcome the barrier between them.
-→ [37·Creative Destruction](../Economics/creative-destruction.md) — industry equilibria are periodically disrupted; understanding the mechanism of disruption is the creative destruction mental model.
-→ [29·Red Queen Dilemma](red-queen-dilemma.md) — Red Queen dynamics maintain a competitive equilibrium in which all parties improve but relative positions stay constant.
-→ [43·Inertia](../Physics-and-Chemistry/inertia.md) — inertia is the mechanism that maintains equilibrium; disrupting equilibrium requires overcoming inertia.
-
-## References
-
-- *Elements of Pure Economics* — Léon Walras (1874) — the original formal treatment of general economic equilibrium.
-- *The Origins of Order: Self-Organisation and Selection in Evolution* — Stuart A. Kauffman (1993) — extends equilibrium thinking to complex adaptive systems.
-- *A Beautiful Mind* — Sylvia Nasar (1998) — biography of John Nash that traces the development of Nash equilibrium from its mathematical origins to its application across economics and game theory.
-
 
 ---
 

@@ -1,10 +1,41 @@
+---
+id: 28
+name: Conway's Law
+category: Systems
+cardType: standard
+tagline: Systems mirror the communication structures that build them
+connections:
+  - id: 18
+    rationale: system integration points between teams are common bottlenecks; Conway's Law explains why.
+  - id: 19
+    rationale: the architecture that emerges from a team structure is an emergent property of the communication dynamics.
+  - id: 39
+    rationale: Conway's Law is the specific version of the interdependence principle applied to system design.
+  - id: 235
+    rationale: the communication structures of the past create the architectural paths of the present; Conway's Law is a primary mechanism of path dependence in software systems.
+  - id: 243
+    rationale: "Dunbar's Number is the cognitive constraint behind Conway's Law: the communication structure of the organisation is shaped by what humans can track, and this shapes the architecture."
+  - id: 116
+    rationale: org communication structures determine scheduling norms as a structural output; how an organisation communicates becomes how makers' days are fragmented.
+  - id: 127
+    rationale: RACI matrices mirror organisational structure; the gaps and overlaps in a RACI are often direct reflections of ambiguous org design that Conway's Law predicts will appear in the work product too.
+references:
+  - title: How Do Committees Invent?
+    authorYear: Melvin E. Conway, Datamation (1968)
+    supports: the original paper stating that system structure mirrors communication structure.
+  - title: "The Mythical Man-Month: Essays on Software Engineering"
+    authorYear: Frederick P. Brooks Jr. (1975)
+    supports: the companion text on coordination costs in large systems.
+  - title: "Accelerate: The Science of Lean Software and DevOps"
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: empirical evidence for how team structure and communication patterns drive software delivery performance.
+---
+
 # Conway's Law
-*Systems mirror the communication structures that build them*
 
 **Category:** [Systems](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
 
 ---
-
 ## Definition
 
 Conway's Law, formulated by software engineer Melvin Conway in 1967, states: *"Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."* Originally stated about software, it has proven to apply broadly to products, processes, and organizational structures. The inverse, known as the **Reverse Conway Manoeuvre**, proposes deliberately restructuring teams to produce the system architecture you actually want.
@@ -39,23 +70,6 @@ Teams build interfaces between systems where they have interfaces between themse
 A startup grows from 10 to 60 engineers. At 10, everyone talks to everyone, the codebase is a monolith, and it works fine. At 60, coordination overhead has fragmented communication into team-specific clusters. The monolith develops invisible team boundaries — sections of code owned by different groups with informal conventions that aren't documented or enforced. Deployments break because one team's change violates another team's implicit assumption. Conway's Law has imposed team boundaries on the codebase. The correct response: make the implicit boundaries explicit (modularization), assign ownership formally, and define the inter-module interfaces as if they were inter-team contracts.
 
 ---
-
-## Connections
-
-→ [18·Bottlenecks](bottlenecks.md) — system integration points between teams are common bottlenecks; Conway's Law explains why.
-→ [19·Emergence](emergence.md) — the architecture that emerges from a team structure is an emergent property of the communication dynamics.
-→ [39·Interdependence](../Economics/interdependence.md) — Conway's Law is the specific version of the interdependence principle applied to system design.
-→ [235·Path Dependence](../Systems/path-dependence.md) — the communication structures of the past create the architectural paths of the present; Conway's Law is a primary mechanism of path dependence in software systems.
-→ [243·Dunbar's Number](dunbars-number.md) — Dunbar's Number is the cognitive constraint behind Conway's Law: the communication structure of the organisation is shaped by what humans can track, and this shapes the architecture.
-→ [116·Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md) — org communication structures determine scheduling norms as a structural output; how an organisation communicates becomes how makers' days are fragmented.
-→ [127·RACI Framework](../Business/raci-framework.md) — RACI matrices mirror organisational structure; the gaps and overlaps in a RACI are often direct reflections of ambiguous org design that Conway's Law predicts will appear in the work product too.
-
-## References
-
-- *How Do Committees Invent?* — Melvin E. Conway, Datamation (1968) — the original paper stating that system structure mirrors communication structure.
-- *The Mythical Man-Month: Essays on Software Engineering* — Frederick P. Brooks Jr. (1975) — the companion text on coordination costs in large systems.
-- *Accelerate: The Science of Lean Software and DevOps* — Nicole Forsgren, Jez Humble & Gene Kim (2018) — empirical evidence for how team structure and communication patterns drive software delivery performance.
-
 
 ---
 
