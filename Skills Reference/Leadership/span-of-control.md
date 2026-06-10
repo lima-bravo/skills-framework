@@ -18,8 +18,10 @@ connections:
 references:
   - title: "The Mythical Man-Month: Essays on Software Engineering"
     authorYear: Frederick P. Brooks Jr. (1975; anniversary edition 1995). Original statement of Brooks's Law.
+    supports: Brooks's Law — the combinatorial communication overhead that makes adding people to a late project counterproductive.
   - title: "Team Topologies: Organizing Business and Technology Teams for Fast Flow"
     authorYear: Matthew Skelton & Manuel Pais (2019).
+    supports: Team types and interaction modes that constrain how span-of-control limits should be applied in delivery organizations.
   - title: An Introduction to General Systems Thinking
     authorYear: Gerald M. Weinberg (1975)
     supports: communication-link analysis.

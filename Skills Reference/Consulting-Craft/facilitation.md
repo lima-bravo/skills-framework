@@ -18,10 +18,13 @@ connections:
 references:
   - title: "The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation"
     authorYear: Henri Lipmanowicz & Keith McCandless (2014). liberatingstructures.com.
+    supports: The 33 microstructures that replace default meeting formats with interaction patterns designed to elicit distributed intelligence.
   - title: Facilitator's Guide to Participatory Decision-Making
     authorYear: Sam Kaner (2014; 3rd ed.).
+    supports: Divergence–convergence facilitation and participatory decision processes at group scale.
   - title: "The Art of Gathering: How We Meet and Why It Matters"
     authorYear: Priya Parker (2018).
+    supports: Meeting design as a deliberate act — purpose, format, and participant experience before content.
   - title: Humble Consulting
     authorYear: Edgar H. Schein (2016)
     supports: coaching stance as the facilitator's orientation.

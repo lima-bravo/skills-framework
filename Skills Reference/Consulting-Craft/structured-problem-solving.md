@@ -33,6 +33,7 @@ references:
     supports: The most complete modern treatment of these components as a single integrated method — issue trees, prioritization, hypothesis testing, and synthesis treated as one discipline.
   - title: Cours d'économie politique
     authorYear: Pareto, V. (1896)
+    supports: Pareto's original formulation of the 80/20 distribution — the empirical basis for the posture's focus discipline.
   - title: A Leader's Framework for Decision Making
     authorYear: Snowden, D. J. & Boone, M. E. (2007) — Harvard Business Review
     supports: The Cynefin distinctions that define where this posture applies cleanly — and where forcing it produces false confidence.

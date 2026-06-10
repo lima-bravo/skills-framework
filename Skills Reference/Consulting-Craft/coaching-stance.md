@@ -18,12 +18,16 @@ connections:
 references:
   - title: "Humble Inquiry: The Gentle Art of Asking Instead of Telling"
     authorYear: Edgar H. Schein (2013).
+    supports: The case for inquiry over telling as the default consulting posture in complex adaptive situations.
   - title: "Humble Consulting: How to Provide Real Help Faster"
     authorYear: Edgar H. Schein (2016).
+    supports: Humble consulting as a deliberate alternative to expert stance when the goal is client capability, not delivered answers.
   - title: "Flawless Consulting: A Guide to Getting Your Expertise Used"
     authorYear: Peter Block (1981; 3rd ed. 2011).
+    supports: The expert vs. collaborative engagement models that coaching stance sits between.
   - title: The Trusted Advisor
     authorYear: David H. Maister, Charles H. Green & Robert M. Galford (2000).
+    supports: Trust and relationship depth as prerequisites for a coaching stance that clients will engage with honestly.
 ---
 
 # Coaching Stance

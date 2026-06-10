@@ -31,7 +31,7 @@ references:
   - title: "The Long Tail: Why the Future of Business Is Selling Less of More"
     authorYear: Chris Anderson (2006)
     supports: the business implications of power-law distributions in digital markets.
-  - title: "Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies"
+  - title: "Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies"
     authorYear: Geoffrey West (2017)
     supports: power laws as the universal scaling principle across biological and social systems.
 ---

@@ -2,7 +2,7 @@
 <!-- Generated scan: card ## References vs manifest refs. Not authoritative — verify each during card review. -->
 
 - A (manifest links it, card omits it): 120
-- B1 (card cites it, book already in manifest — just link the skill): 70
+- B1 (card cites it, book already in manifest — just link the skill): 69
 - B2 (card cites it, book not in manifest — needs new ref entry): 123
 - Cards with manifest refs but no References section: 7
 
@@ -136,7 +136,6 @@
 - #88 Five-Hour Rule: 'Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger'  ->  manifest ref: 'Poor Charlie's Almanack'
 - #125 Change Management: 'Leading Change'  ->  manifest ref: 'Leading Change'
 - #126 Risk Management: 'Against the Gods: The Remarkable Story of Risk'  ->  manifest ref: 'Against the Gods: The Remarkable Story of Risk'
-- #132 WIP Limits: 'Toyota Production System: Beyond Large-Scale Production'  ->  manifest ref: 'Scale'
 - #133 Flow Efficiency vs Resource Efficiency: 'Accelerate'  ->  manifest ref: 'Accelerate: The Science of Lean Software and DevOps'
 - #134 Lead Time vs Cycle Time: 'Accelerate'  ->  manifest ref: 'Accelerate: The Science of Lean Software and DevOps'
 - #137 Cost of Delay: 'SAFe: Scaled Agile Framework'  ->  manifest ref: 'Scale'

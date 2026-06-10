@@ -20,8 +20,10 @@ connections:
 references:
   - title: Working Effectively with Legacy Code
     authorYear: Michael C. Feathers (2004).
+    supports: Practical techniques for changing high-debt code safely — the operational face of debt repayment.
   - title: "Accelerate: The Science of Lean Software and DevOps"
     authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    supports: DORA metrics (change failure rate, MTTR) as leading indicators of technical debt's interest payment.
 ---
 
 # Technical Debt
