@@ -19,6 +19,8 @@ connections:
     rationale: org communication structures determine scheduling norms as a structural output; how an organisation communicates becomes how makers' days are fragmented.
   - id: 127
     rationale: RACI matrices mirror organisational structure; the gaps and overlaps in a RACI are often direct reflections of ambiguous org design that Conway's Law predicts will appear in the work product too.
+  - id: 139
+    rationale: VSM traces actual handoffs across team boundaries; Conway's Law explains why the most expensive handoffs in the map almost always follow org structure lines.
 references:
   - title: How Do Committees Invent?
     authorYear: Melvin E. Conway, Datamation (1968)

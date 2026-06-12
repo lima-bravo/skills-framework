@@ -45,6 +45,8 @@ connections:
     rationale: queues form upstream of bottlenecks — the longest queue locates the constraint in any delivery system.
   - id: 138
     rationale: a Kanban board makes bottlenecks visible through WIP accumulation upstream of the constraint; the method surfaces and sustains constraint awareness daily.
+  - id: 139
+    rationale: VSM locates the constraint by mapping where the longest queues accumulate — the step with the highest wait time is the current bottleneck.
 references:
   - title: "The Goal: A Process of Ongoing Improvement"
     authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)

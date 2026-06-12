@@ -15,6 +15,8 @@ connections:
     rationale: small batches are how learning cycles get short.
   - id: 64
     rationale: an MVP is a deliberate batch-size reduction on a product bet.
+  - id: 139
+    rationale: VSM reveals where batches accumulate across the value stream; batch-size reduction is the primary structural response to the wait time VSM exposes.
 references:
   - title: The Principles of Product Development Flow
     authorYear: Donald G. Reinertsen (2009)

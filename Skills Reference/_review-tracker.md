@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **187**
+- Reviewed (verified + fixed): **188**
 - Flagged: **0**
-- Remaining (todo): **75**
+- Remaining (todo): **74**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -273,7 +273,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#136` **Batch Size Reduction** · `Delivery-and-Flow/batch-size-reduction.md` · **st:** fixed · **n:** added 4 missing backlinks (cost-of-delay, flow-efficiency, build-measure-learn, mvp); fixed SAFe authorYear in cost-of-delay (merged into same canonical ref, refs 375→374)
 - [x] `#137` **Cost of Delay** · `Delivery-and-Flow/cost-of-delay.md` · **st:** fixed · **n:** added 2 missing backlinks (trade-offs, probabilistic-forecasting); content and refs accurate
 - [x] `#138` **Kanban Method** · `Delivery-and-Flow/kanban-method.md` · **st:** fixed · **n:** added 4 missing backlinks (littles-law, flow-metrics, bottlenecks, feedback-loops); content and refs accurate
-- [ ] `#139` **Value Stream Mapping** · `Delivery-and-Flow/value-stream-mapping.md` · **st:** todo · **n:** —
+- [x] `#139` **Value Stream Mapping** · `Delivery-and-Flow/value-stream-mapping.md` · **st:** fixed · **n:** added 4 missing backlinks (flow-efficiency, bottlenecks, batch-size-reduction, conways-law); content and refs verified
 - [ ] `#140` **Statistical Variability** · `Delivery-and-Flow/statistical-variability.md` · **st:** todo · **n:** —
 - [ ] `#141` **Probabilistic Forecasting** · `Delivery-and-Flow/probabilistic-forecasting.md` · **st:** todo · **n:** —
 - [ ] `#142` **DORA Metrics** · `Delivery-and-Flow/dora-metrics.md` · **st:** todo · **n:** —

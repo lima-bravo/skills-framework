@@ -17,6 +17,8 @@ connections:
     rationale: slack at the individual level is the analogue of slack at the team level.
   - id: 136
     rationale: large batches inflate the wait component of flow time; batch-size reduction is the primary structural lever for improving flow efficiency.
+  - id: 139
+    rationale: VSM measures process time vs lead time across the whole value stream — it is the diagnostic tool that produces the flow efficiency ratio for a system.
 references:
   - title: "This Is Lean: Resolving the Efficiency Paradox"
     authorYear: Niklas Modig & Pär Åhlström (2012)
