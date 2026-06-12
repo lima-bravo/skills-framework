@@ -1858,7 +1858,7 @@
   "refs": [
     {
       "title": "3-D Negotiation",
-      "authorYear": "David A. Lax & James K. Sebenius (2006)",
+      "authorYear": "Lax, D.A. & Sebenius, J.K. (2006)",
       "skills": [
         {
           "id": 222,
@@ -1891,17 +1891,6 @@
           "id": 176,
           "name": "Organizational Slack",
           "color": "#DC2626"
-        }
-      ]
-    },
-    {
-      "title": "A Guide to the Project Management Body of Knowledge (PMBOK Guide)",
-      "authorYear": "Project Management Institute (2021)",
-      "skills": [
-        {
-          "id": 127,
-          "name": "RACI Framework",
-          "color": "#475569"
         }
       ]
     },
@@ -1982,7 +1971,7 @@
       ]
     },
     {
-      "title": "A Theory of Human Motivation — Psychological Review Vol. 50",
+      "title": "A Theory of Human Motivation",
       "authorYear": "Abraham H. Maslow, Psychological Review Vol. 50 No. 4 (1943)",
       "skills": [
         {
@@ -2496,11 +2485,6 @@
       "authorYear": "Tim Brown (2009)",
       "skills": [
         {
-          "id": 87,
-          "name": "T-Shaped",
-          "color": "#059669"
-        },
-        {
           "id": 110,
           "name": "Design Thinking",
           "color": "#DC2626"
@@ -2622,11 +2606,6 @@
           "id": 34,
           "name": "Monopoly vs. Competition",
           "color": "#16A34A"
-        },
-        {
-          "id": 95,
-          "name": "Market Entry",
-          "color": "#B45309"
         }
       ]
     },
@@ -2643,7 +2622,7 @@
     },
     {
       "title": "Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection",
-      "authorYear": "Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz & Mario Fritz (2023)",
+      "authorYear": "Kai Greshake et al. (2023)",
       "skills": [
         {
           "id": 185,
@@ -2741,21 +2720,6 @@
           "id": 25,
           "name": "Churn",
           "color": "#0D9488"
-        },
-        {
-          "id": 95,
-          "name": "Market Entry",
-          "color": "#B45309"
-        },
-        {
-          "id": 97,
-          "name": "Product Launch",
-          "color": "#B45309"
-        },
-        {
-          "id": 111,
-          "name": "Crossing the Chasm",
-          "color": "#DC2626"
         }
       ]
     },
@@ -2846,11 +2810,6 @@
       "authorYear": "Cal Newport (2016).",
       "skills": [
         {
-          "id": 88,
-          "name": "Five-Hour Rule",
-          "color": "#059669"
-        },
-        {
           "id": 114,
           "name": "Deep Work / Cognitive Capacity",
           "color": "#059669"
@@ -2896,11 +2855,6 @@
           "id": 102,
           "name": "S-Curves",
           "color": "#0D9488"
-        },
-        {
-          "id": 111,
-          "name": "Crossing the Chasm",
-          "color": "#DC2626"
         },
         {
           "id": 202,
@@ -3079,7 +3033,7 @@
       ]
     },
     {
-      "title": "Exploration and Exploitation in Organizational Learning — Organization Science Vol. 2",
+      "title": "Exploration and Exploitation in Organizational Learning",
       "authorYear": "James G. March, Organization Science Vol. 2, No. 1 (1991)",
       "skills": [
         {
@@ -3248,7 +3202,7 @@
     },
     {
       "title": "Getting to Yes",
-      "authorYear": "Roger Fisher & William Ury (1981)",
+      "authorYear": "Fisher, R. & Ury, W. (1981)",
       "skills": [
         {
           "id": 221,
@@ -3296,17 +3250,6 @@
           "id": 254,
           "name": "Playing to Win",
           "color": "#475569"
-        }
-      ]
-    },
-    {
-      "title": "Good to Great",
-      "authorYear": "Jim Collins (2001)",
-      "skills": [
-        {
-          "id": 81,
-          "name": "Multiply by Zero",
-          "color": "#4F46E5"
         }
       ]
     },
@@ -3510,17 +3453,6 @@
       ]
     },
     {
-      "title": "How Will You Measure Your Life?",
-      "authorYear": "Clayton M. Christensen, J. Allworth & K. Dillon (2012)",
-      "skills": [
-        {
-          "id": 100,
-          "name": "Life Decision",
-          "color": "#B45309"
-        }
-      ]
-    },
-    {
       "title": "Human Compatible: Artificial Intelligence and the Problem of Control",
       "authorYear": "Stuart Russell (2019)",
       "skills": [
@@ -3560,7 +3492,7 @@
     },
     {
       "title": "Human Scale Development: Conception, Application and Further Reflections",
-      "authorYear": "Manfred A. Max-Neef (1991)",
+      "authorYear": "Manfred Max-Neef (1991)",
       "skills": [
         {
           "id": 60,
@@ -3769,7 +3701,7 @@
       ]
     },
     {
-      "title": "Judgment under Uncertainty: Heuristics and Biases — Science Vol. 185",
+      "title": "Judgment under Uncertainty: Heuristics and Biases",
       "authorYear": "Amos Tversky & Daniel Kahneman, Science Vol. 185 (1974)",
       "skills": [
         {
@@ -3967,11 +3899,6 @@
           "color": "#DB2777"
         },
         {
-          "id": 92,
-          "name": "Contrast",
-          "color": "#DB2777"
-        },
-        {
           "id": 203,
           "name": "Narrative Instinct",
           "color": "#9333EA"
@@ -3991,7 +3918,7 @@
     },
     {
       "title": "Maker's Schedule, Manager's Schedule",
-      "authorYear": "Paul Graham (paulgraham.com, July 2009)",
+      "authorYear": "Paul Graham (paulgraham.com, 2009)",
       "skills": [
         {
           "id": 116,
@@ -4067,25 +3994,9 @@
       ]
     },
     {
-      "title": "Mastery",
-      "authorYear": "Robert Greene (2012)",
-      "skills": [
-        {
-          "id": 88,
-          "name": "Five-Hour Rule",
-          "color": "#059669"
-        }
-      ]
-    },
-    {
       "title": "Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth",
       "authorYear": "John Doerr (2018).",
       "skills": [
-        {
-          "id": 67,
-          "name": "Innovation Accounting",
-          "color": "#DC2626"
-        },
         {
           "id": 152,
           "name": "OKRs",
@@ -4219,27 +4130,6 @@
         {
           "id": 212,
           "name": "Observer Bias",
-          "color": "#9333EA"
-        }
-      ]
-    },
-    {
-      "title": "Nudge",
-      "authorYear": "Richard H. Thaler & Cass R. Sunstein (2008)",
-      "skills": [
-        {
-          "id": 44,
-          "name": "Friction",
-          "color": "#EA580C"
-        },
-        {
-          "id": 45,
-          "name": "Activation Energy",
-          "color": "#EA580C"
-        },
-        {
-          "id": 202,
-          "name": "Social Proof",
           "color": "#9333EA"
         }
       ]
@@ -4516,11 +4406,6 @@
           "color": "#059669"
         },
         {
-          "id": 98,
-          "name": "Investment Decision",
-          "color": "#B45309"
-        },
-        {
           "id": 105,
           "name": "Pre-built Chains",
           "color": "#059669"
@@ -4528,19 +4413,8 @@
       ]
     },
     {
-      "title": "Positioning: The Battle for Your Mind",
-      "authorYear": "Al Ries & Jack Trout (1981)",
-      "skills": [
-        {
-          "id": 97,
-          "name": "Product Launch",
-          "color": "#B45309"
-        }
-      ]
-    },
-    {
       "title": "Power and Influence",
-      "authorYear": "John P. Kotter (1985)",
+      "authorYear": "Kotter, J.P. (1985)",
       "skills": [
         {
           "id": 221,
@@ -4583,17 +4457,6 @@
       ]
     },
     {
-      "title": "Power, Politics and Organizational Change",
-      "authorYear": "David Buchanan & Richard Badham (2008)",
-      "skills": [
-        {
-          "id": 220,
-          "name": "Power Mapping",
-          "color": "#475569"
-        }
-      ]
-    },
-    {
       "title": "Pragmatics",
       "authorYear": "Stephen C. Levinson (1983)",
       "skills": [
@@ -4617,16 +4480,6 @@
           "id": 220,
           "name": "Power Mapping",
           "color": "#475569"
-        },
-        {
-          "id": 221,
-          "name": "Influence Without Authority",
-          "color": "#1E40AF"
-        },
-        {
-          "id": 222,
-          "name": "Coalition Building",
-          "color": "#1E40AF"
         }
       ]
     },
@@ -4643,28 +4496,6 @@
           "id": 121,
           "name": "Principal–Agent Problem",
           "color": "#16A34A"
-        }
-      ]
-    },
-    {
-      "title": "Priceless: The Myth of Fair Value",
-      "authorYear": "William Poundstone (2010)",
-      "skills": [
-        {
-          "id": 94,
-          "name": "Pricing Decision",
-          "color": "#B45309"
-        }
-      ]
-    },
-    {
-      "title": "Pricing: Making Profitable Decisions",
-      "authorYear": "Kent B. Monroe (2002)",
-      "skills": [
-        {
-          "id": 219,
-          "name": "Pricing Logic",
-          "color": "#475569"
         }
       ]
     },
@@ -4883,11 +4714,6 @@
           "id": 9,
           "name": "Socratic Thinking",
           "color": "#3B82F6"
-        },
-        {
-          "id": 90,
-          "name": "Audience",
-          "color": "#DB2777"
         }
       ]
     },
@@ -4975,11 +4801,6 @@
           "id": 21,
           "name": "Scale",
           "color": "#0D9488"
-        },
-        {
-          "id": 80,
-          "name": "Surface Area",
-          "color": "#4F46E5"
         },
         {
           "id": 238,
@@ -5494,11 +5315,6 @@
       "authorYear": "Rolf Dobelli (2011)",
       "skills": [
         {
-          "id": 1,
-          "name": "Inversion",
-          "color": "#3B82F6"
-        },
-        {
           "id": 4,
           "name": "Hanlon's Razor",
           "color": "#3B82F6"
@@ -5668,7 +5484,7 @@
       ]
     },
     {
-      "title": "The Cost of Interrupted Work: More Speed and Stress — CHI Proceedings",
+      "title": "The Cost of Interrupted Work: More Speed and Stress",
       "authorYear": "Gloria Mark, Daniela Gudith & Ulrich Klocke, CHI Proceedings (2008)",
       "skills": [
         {
@@ -5743,11 +5559,6 @@
       "authorYear": "Don Norman (1988; revised 2013)",
       "skills": [
         {
-          "id": 110,
-          "name": "Design Thinking",
-          "color": "#DC2626"
-        },
-        {
           "id": 207,
           "name": "SRK Framework",
           "color": "#9333EA"
@@ -5787,13 +5598,13 @@
       ]
     },
     {
-      "title": "The Dip: A Little Book That Teaches You When to Quit",
-      "authorYear": "Seth Godin (2007)",
+      "title": "The Dominant Logic: A New Linkage Between Diversity and Performance",
+      "authorYear": "C.K. Prahalad & Richard A. Bettis (1986)",
       "skills": [
         {
-          "id": 99,
-          "name": "Should I Quit",
-          "color": "#B45309"
+          "id": 173,
+          "name": "Dominant Logic",
+          "color": "#DC2626"
         }
       ]
     },
@@ -5963,17 +5774,6 @@
       ]
     },
     {
-      "title": "The Five Dysfunctions of a Team",
-      "authorYear": "Patrick Lencioni (2002)",
-      "skills": [
-        {
-          "id": 81,
-          "name": "Multiply by Zero",
-          "color": "#4F46E5"
-        }
-      ]
-    },
-    {
       "title": "The Four Steps to the Epiphany: Successful Strategies for Products that Win",
       "authorYear": "Steve Blank (2003)",
       "skills": [
@@ -5993,21 +5793,6 @@
       "title": "The Goal",
       "authorYear": "Eliyahu M. Goldratt & Jeff Cox (1984)",
       "skills": [
-        {
-          "id": 18,
-          "name": "Bottlenecks",
-          "color": "#0D9488"
-        },
-        {
-          "id": 35,
-          "name": "Efficiency",
-          "color": "#16A34A"
-        },
-        {
-          "id": 81,
-          "name": "Multiply by Zero",
-          "color": "#4F46E5"
-        },
         {
           "id": 247,
           "name": "Growth Barriers",
@@ -6053,11 +5838,6 @@
         {
           "id": 86,
           "name": "Model Chaining",
-          "color": "#059669"
-        },
-        {
-          "id": 105,
-          "name": "Pre-built Chains",
           "color": "#059669"
         }
       ]
@@ -6125,28 +5905,13 @@
           "color": "#EA580C"
         },
         {
-          "id": 70,
-          "name": "Innovation Funnel",
-          "color": "#DC2626"
-        },
-        {
           "id": 102,
           "name": "S-Curves",
           "color": "#0D9488"
         },
         {
-          "id": 103,
-          "name": "Jobs to Be Done",
-          "color": "#DC2626"
-        },
-        {
           "id": 112,
           "name": "Disruptive Innovation",
-          "color": "#DC2626"
-        },
-        {
-          "id": 113,
-          "name": "Three Horizons",
           "color": "#DC2626"
         },
         {
@@ -6191,11 +5956,6 @@
           "id": 24,
           "name": "Margin of Safety",
           "color": "#0D9488"
-        },
-        {
-          "id": 98,
-          "name": "Investment Decision",
-          "color": "#B45309"
         }
       ]
     },
@@ -6218,17 +5978,6 @@
           "id": 48,
           "name": "Alloying",
           "color": "#EA580C"
-        }
-      ]
-    },
-    {
-      "title": "The Lady Tasting Tea: How Statistics Revolutionized Science",
-      "authorYear": "David Salsburg (2001)",
-      "skills": [
-        {
-          "id": 79,
-          "name": "Sampling",
-          "color": "#4F46E5"
         }
       ]
     },
@@ -6301,17 +6050,6 @@
           "id": 247,
           "name": "Growth Barriers",
           "color": "#475569"
-        }
-      ]
-    },
-    {
-      "title": "The Little Book That Builds Wealth",
-      "authorYear": "Pat Dorsey (2008)",
-      "skills": [
-        {
-          "id": 85,
-          "name": "Defensibility",
-          "color": "#CA8A04"
         }
       ]
     },
@@ -6435,17 +6173,6 @@
           "id": 253,
           "name": "Structured Problem Solving",
           "color": "#7C3AED"
-        }
-      ]
-    },
-    {
-      "title": "The Mismeasure of Man",
-      "authorYear": "Stephen Jay Gould (1981)",
-      "skills": [
-        {
-          "id": 77,
-          "name": "Regression to the Mean",
-          "color": "#4F46E5"
         }
       ]
     },
@@ -6695,7 +6422,7 @@
     },
     {
       "title": "The Republic",
-      "authorYear": "Plato (trans. Benjamin Jowett, c. 380 BC)",
+      "authorYear": "Plato (c. 380 BCE)",
       "skills": [
         {
           "id": 9,
@@ -6820,7 +6547,7 @@
     },
     {
       "title": "The Speed of Trust: The One Thing That Changes Everything",
-      "authorYear": "Stephen M. R. Covey & Rebecca R. Merrill (2006)",
+      "authorYear": "Stephen M.R. Covey & Rebecca R. Merrill (2006)",
       "skills": [
         {
           "id": 101,
@@ -6848,22 +6575,6 @@
           "id": 203,
           "name": "Narrative Instinct",
           "color": "#9333EA"
-        }
-      ]
-    },
-    {
-      "title": "The Strategy and Tactics of Pricing",
-      "authorYear": "Thomas T. Nagle & Georg Müller (2018)",
-      "skills": [
-        {
-          "id": 94,
-          "name": "Pricing Decision",
-          "color": "#B45309"
-        },
-        {
-          "id": 219,
-          "name": "Pricing Logic",
-          "color": "#475569"
         }
       ]
     },
@@ -7083,16 +6794,6 @@
           "id": 53,
           "name": "Sunk Cost",
           "color": "#9333EA"
-        },
-        {
-          "id": 99,
-          "name": "Should I Quit",
-          "color": "#B45309"
-        },
-        {
-          "id": 100,
-          "name": "Life Decision",
-          "color": "#B45309"
         },
         {
           "id": 153,
@@ -7343,7 +7044,7 @@
       ]
     },
     {
-      "title": "Toward a Theory of Stakeholder Identification and Salience — AMR Vol. 22 No. 4",
+      "title": "Toward a Theory of Stakeholder Identification and Salience",
       "authorYear": "Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood, Academy of Management Review Vol. 22 No. 4 (1997)",
       "skills": [
         {
@@ -7549,17 +7250,6 @@
       ]
     },
     {
-      "title": "Who: The A Method for Hiring",
-      "authorYear": "Geoff Smart & Randy Street (2008)",
-      "skills": [
-        {
-          "id": 96,
-          "name": "Hiring Decision",
-          "color": "#B45309"
-        }
-      ]
-    },
-    {
       "title": "Why We Do What We Do: Understanding Self-Motivation",
       "authorYear": "Edward L. Deci with Richard Flaste (1995)",
       "skills": [
@@ -7578,17 +7268,6 @@
           "id": 70,
           "name": "Innovation Funnel",
           "color": "#DC2626"
-        }
-      ]
-    },
-    {
-      "title": "Work Rules!",
-      "authorYear": "Laszlo Bock (2015)",
-      "skills": [
-        {
-          "id": 96,
-          "name": "Hiring Decision",
-          "color": "#B45309"
         }
       ]
     },

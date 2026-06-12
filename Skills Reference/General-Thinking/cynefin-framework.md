@@ -27,6 +27,8 @@ connections:
     rationale: normal science operates in Clear and Complicated domains where methods are settled; paradigm crisis often signals that a domain has become Complex and the existing methods have lost their predictive validity.
   - id: 207
     rationale: "Cynefin prescribes which response mode a domain calls for; SRK explains the cognitive mechanics underneath: rule-based performance in Complicated domains, knowledge-based reasoning when the domain is Complex or novel."
+  - id: 173
+    rationale: dominant logic operates well in Complicated and Obvious domains where the environment is stable; it becomes a strategic liability when the environment shifts to Complex or Chaotic.
 references:
   - title: "\"A Leader's Framework for Decision Making\""
     authorYear: Dave Snowden & Mary Boone, Harvard Business Review (2007)

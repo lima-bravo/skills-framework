@@ -31,6 +31,8 @@ connections:
     rationale: disruptive innovations ride a new S-curve that eventually intersects the incumbent's; the crossing point is where displacement occurs and is the incumbent's primary analytical challenge.
   - id: 113
     rationale: "each Three Horizons level maps to a position on a different S-curve: H1 is the current curve's mature phase, H2 the emerging curve's growth phase, H3 the next curve's early phase."
+  - id: 173
+    rationale: dominant logic is most dangerous at the top of the S-curve, when the current model is at peak performance and the next curve is just beginning — the logic filters out the signal that the curve is saturating.
 references:
   - title: Diffusion of Innovations
     authorYear: Everett M. Rogers (1962; 5th ed. 2003)

@@ -27,6 +27,8 @@ connections:
     rationale: H3 is where disruptive threats and opportunities are most likely to emerge; Three Horizons is the structural mechanism for staying in the game long enough to respond.
   - id: 172
     rationale: ambidextrous organization is the structural response to disruption risk; the explore unit is the organizational vehicle for developing the next S-curve before the incumbent's is disrupted.
+  - id: 173
+    rationale: dominant logic explains the cognitive mechanism behind why incumbents miss disruption even when they see the technology coming — rational filtering through an outdated theory of the business.
 references:
   - title: "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail"
     authorYear: Clayton M. Christensen (1997)

@@ -25,6 +25,8 @@ connections:
     rationale: irreducible systems resist accurate mapping; any map of them systematically loses essential behavior.
   - id: 50
     rationale: the reference frame is part of the map; different observers draw different maps of the same territory.
+  - id: 173
+    rationale: dominant logic is an organizational map that was once accurate but has diverged from the territory; the danger is not having a map but not knowing it is outdated.
 references:
   - title: "Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics"
     authorYear: Alfred Korzybski (1933)

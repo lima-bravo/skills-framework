@@ -24,6 +24,9 @@ connections:
   - id: 205
     rationale: "dominant logic is organisation-level consistency bias: the founding narrative must be defended because it is central to institutional identity."
 references:
+  - title: "The Dominant Logic: A New Linkage Between Diversity and Performance"
+    authorYear: C.K. Prahalad & Richard A. Bettis (1986)
+    supports: the originating paper — how a shared mental model in successful firms shapes resource allocation and strategic attention, and why it persists beyond its useful life.
   - title: "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail"
     authorYear: Clayton M. Christensen (1997)
     supports: the mechanism by which past success encodes assumptions that block response to disruption.
