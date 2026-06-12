@@ -21,6 +21,8 @@ connections:
     rationale: pre-defining what result would be insufficient to continue; kill criteria applied at each rung of the ladder prevent motivated reasoning from carrying a failing assumption forward.
   - id: 16
     rationale: "the reversibility principle that governs how far up the ladder to go before committing: lower rungs are two-way doors, upper rungs become progressively less reversible."
+  - id: 237
+    rationale: measuring outcomes at each rung rather than activity proxies is the structural antidote to Type 1 cobra dynamics in innovation programmes.
 references:
   - title: "Testing Business Ideas: A Field Guide for Rapid Experimentation"
     authorYear: David J. Bland & Alexander Osterwalder (2019)

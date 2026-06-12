@@ -23,6 +23,8 @@ connections:
     rationale: "the free rider problem is a multi-player Prisoner's Dilemma: each actor's dominant strategy (not contributing) produces a collectively worse outcome."
   - id: 236
     rationale: in repeated games, Schelling Points help players coordinate on cooperative equilibria without explicit communication.
+  - id: 237
+    rationale: "Type 5 cobra dynamics have a Prisoner's Dilemma structure: individuals cannot unilaterally adopt new incentives when the old consequence landscape still punishes those who go first."
 references:
   - title: The Evolution of Cooperation
     authorYear: Robert Axelrod (1984)

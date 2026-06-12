@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **153**
+- Reviewed (verified + fixed): **154**
 - Flagged: **0**
-- Remaining (todo): **109**
+- Remaining (todo): **108**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -224,7 +224,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#181` **Pretotyping** · `Startups/pretotyping.md` · **st:** fixed · **n:** filled empty rationale on id:63 connection; backlinks added to 64, 73, 63, 72, 175, 7; structure and Savoia (2019) ref verified clean.
 - [x] `#182` **Continuous Discovery** · `Startups/continuous-discovery.md` · **st:** fixed · **n:** backlinks added to 103, 63, 110, 66, 17; structure (The Practice in Structure whitelist), Torres (2021) ref, and Spotify example verified clean.
 - [x] `#189` **Experiment Ladder** · `Startups/experiment-ladder.md` · **st:** fixed · **n:** backlinks added to 72, 181, 64, 66, 63, 153, 16; structure, four-rung model, and Bland & Osterwalder (2019) ref verified clean.
-- [ ] `#237` **Cobra Effect** · `Innovation-Entrepreneurship/cobra-effect.md` · **st:** todo · **n:** —
+- [x] `#237` **Cobra Effect** · `Innovation-Entrepreneurship/cobra-effect.md` · **st:** fixed · **n:** Added Siebert (2001) originating ref (coined the term); refs 373→374. Added 6 missing backlinks (ids 2, 51, 208, 230, 231, 189). Content accurate; taxonomy and worked example verified. build + check:counts pass.
 
 ## Mathematics (11)
 

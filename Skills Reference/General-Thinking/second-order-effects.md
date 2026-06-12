@@ -27,6 +27,8 @@ connections:
     rationale: underestimating a stakeholder's salience creates second-order effects when that stakeholder escalates; the map is the tool for anticipating downstream consequences before they materialise.
   - id: 123
     rationale: each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that determine which future actually arrives.
+  - id: 237
+    rationale: the Cobra Effect is a specific second-order effect where the mechanism of backfire runs through the intervention's own incentive structure rather than through downstream consequences.
 references:
   - title: "The Most Important Thing: Uncommon Sense for the Thoughtful Investor"
     authorYear: Howard Marks (2011)

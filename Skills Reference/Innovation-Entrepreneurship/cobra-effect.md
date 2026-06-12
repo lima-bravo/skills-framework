@@ -36,6 +36,9 @@ references:
   - title: "The Logic of Collective Action: Public Goods and the Theory of Groups"
     authorYear: Mancur Olson (1965)
     supports: how rational individual responses to incentives produce irrational collective outcomes.
+  - title: "Der Kobra-Effekt: Wie man Irrwege der Wirtschaftspolitik vermeidet [The Cobra Effect: How to Avoid Economic Policy Mistakes]"
+    authorYear: Horst Siebert (2001)
+    supports: the originating work that coined the term "Cobra Effect" and described the cobra-bounty mechanism as a named economic concept.
 ---
 
 # Cobra Effect

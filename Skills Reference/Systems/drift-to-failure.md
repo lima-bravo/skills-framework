@@ -29,6 +29,8 @@ connections:
     rationale: "commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse."
   - id: 209
     rationale: disabling transparency or inspection mechanisms is exactly how organisations lose the ability to detect drift before it reaches the boundary; EPC is the structural defence against Drift to Failure.
+  - id: 237
+    rationale: cobra dynamics are a specific path to Drift to Failure — the programme looks healthy as activity metrics rise while the underlying outcome quietly deteriorates.
 references:
   - title: "Risk Management in a Dynamic Society: A Modelling Problem — Safety Science Vol. 27"
     authorYear: Jens Rasmussen (1997)

@@ -23,6 +23,8 @@ connections:
     rationale: incentive design can make individual rationality and collective welfare coincide; the commons tragedy is what happens when it does not
   - id: 121
     rationale: "when multiple agents share a resource owned by a principal, commons dynamics compound the agency problem: each agent's rational self-interest depletes the shared resource."
+  - id: 237
+    rationale: dedicated innovation units (Type 4 cobras) create a commons problem — each business unit free-rides on the assumption that the innovation unit will carry the innovation burden.
 references:
   - title: The Tragedy of the Commons
     authorYear: Garrett Hardin, Science Vol. 162 No. 3859 (1968)

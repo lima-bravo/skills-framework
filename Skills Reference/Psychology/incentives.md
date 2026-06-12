@@ -47,6 +47,8 @@ connections:
     rationale: stakeholder salience is partly determined by incentive alignment; a high-power stakeholder whose incentives are misaligned requires more intensive management than one who is aligned.
   - id: 116
     rationale: organisations reward responsiveness over deep work; protecting maker time requires counteracting the incentive gradient that makes availability feel productive.
+  - id: 237
+    rationale: "the Cobra Effect is always an incentive design failure: the intervention creates incentives that point toward sustaining rather than solving the problem."
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)
