@@ -21,6 +21,8 @@ connections:
     rationale: Manner and Relation together determine framing; what you include and how you order it shapes what the audience notices first and considers most salient.
   - id: 202
     rationale: social proof provides the behaviour signal that framing then shapes; the same adoption behaviour is interpreted differently depending on how it is framed to observers.
+  - id: 92
+    rationale: contrast is often used to establish the frame — current state vs. desired state, problem vs. solution — making the difference the interpretive anchor.
 references:
   - title: "Frame Analysis: An Essay on the Organization of Experience"
     authorYear: Erving Goffman (1974)
