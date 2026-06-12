@@ -11,6 +11,8 @@ connections:
     rationale: the T is the individual-level application of specialization with deliberate breadth.
   - id: 48
     rationale: "the T-shape is an alloy: depth provides the vertical, breadth enables the horizontal cross-domain connections."
+  - id: 88
+    rationale: the five-hour rule is the maintenance mechanism for the T's horizontal bar — deliberate breadth-reading prevents the crossbar from degrading.
 references:
   - title: "Range: Why Generalists Triumph in a Specialized World"
     authorYear: David Epstein (2019)

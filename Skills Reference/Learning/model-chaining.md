@@ -11,6 +11,8 @@ connections:
     rationale: the pre-built chains in this framework are curated model chains for specific recurring decisions.
   - id: 87
     rationale: T-shaped breadth is the raw material for model chaining — domain-spanning knowledge is what makes cross-disciplinary model combinations possible.
+  - id: 88
+    rationale: deliberate cross-domain reading (the five-hour rule) is how the model library that enables chaining is built and maintained over time.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charlie Munger, ed. Peter Kaufman (2005)
