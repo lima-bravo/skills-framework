@@ -23,7 +23,7 @@ connections:
     rationale: lean portfolio management is the portfolio-level structure that makes product orientation durable — it replaces the feature roadmap with outcome-based funding and explicit kill mechanisms across the whole portfolio.
 references:
   - title: SAFe Lean Portfolio Management
-    authorYear: Dean Leffingwell et al. (Scaled Agile)
+    authorYear: Dean Leffingwell & Scaled Agile (2011–ongoing)
     supports: the SAFe Lean Portfolio Management practice — portfolio kanban, value streams, participatory budgeting.
   - title: Lean Enterprise
     authorYear: Jez Humble, Joanne Molesky & Barry O'Reilly (2014)

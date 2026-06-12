@@ -41,6 +41,8 @@ connections:
     rationale: kill criteria protect the one thing — pre-defining what would cause a priority to change is what prevents the "one thing" from becoming dogma when evidence shifts.
   - id: 157
     rationale: never killing features is the clearest diagnostic signal of a feature factory — kill criteria are the institutional practice that distinguishes product-oriented from output-oriented organizations.
+  - id: 158
+    rationale: portfolio kill decisions are how LPM prevents zombie initiatives — kill criteria applied at the portfolio level are what make the portfolio kanban a governance tool rather than a status display.
 references:
   - title: "Quit: The Power of Knowing When to Walk Away"
     authorYear: Annie Duke (2022)

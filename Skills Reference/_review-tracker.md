@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **206**
+- Reviewed (verified + fixed): **207**
 - Flagged: **0**
-- Remaining (todo): **56**
+- Remaining (todo): **55**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -292,7 +292,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#155` **Inverse Conway Maneuver** · `Delivery-and-Flow/inverse-conway.md` · **st:** fixed · **n:** fixed wrong attribution ("coined in Accelerate" → LeRoy & Simons, Cutter IT Journal 2010); removed duplicate id:28 connection; added LeRoy & Simons ref; added 2 backlinks (conways-law, organizational-culture); refs 375→376.
 - [x] `#156` **Dependency Management** · `Delivery-and-Flow/dependency-management.md` · **st:** fixed · **n:** removed uncited "2018 study / 50% variability" claim (unverifiable); replaced with practitioner framing; added 3 missing backlinks (conways-law, bottlenecks, leverage).
 - [x] `#157` **Feature Factory vs Product Orientation** · `Delivery-and-Flow/feature-factory.md` · **st:** fixed · **n:** added 4 missing backlinks (okrs, kill-criteria, build-measure-learn, lean-portfolio); fixed YAML error (bare quotes in rationale); content and refs accurate.
-- [ ] `#158` **Lean Portfolio Management** · `Delivery-and-Flow/lean-portfolio.md` · **st:** todo · **n:** —
+- [x] `#158` **Lean Portfolio Management** · `Delivery-and-Flow/lean-portfolio.md` · **st:** fixed · **n:** fixed SAFe ref missing year (added 2011–ongoing); added 2 missing backlinks (kill-criteria, innovation-funnel); content accurate.
 - [ ] `#159` **WSJF** · `Delivery-and-Flow/wsjf.md` · **st:** todo · **n:** —
 - [ ] `#160` **Reference Class Forecasting** · `Delivery-and-Flow/reference-class-forecasting.md` · **st:** todo · **n:** —
 - [x] `#209` **Empirical Process Control** · `Delivery-and-Flow/empirical-process-control.md` · **st:** fixed · **n:** added 5 --- separators, fixed dup footer, expanded 5 bare refs; Gap-A [248] Snowden & Boone; Gap-B2: Shewhart 1931, Deming 1986, Takeuchi/Nonaka 1986, Scrum Guide 2020; backlinks in drift-to-failure, experiment-design, outcome-vs-output

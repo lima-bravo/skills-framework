@@ -19,6 +19,8 @@ connections:
     rationale: the OST operates inside the funnel — it is the tool that makes the funnel a learning accelerator rather than a filter.
   - id: 213
     rationale: the chain that converts funnel ideas into testable hypotheses with explicit kill criteria
+  - id: 158
+    rationale: lean portfolio management is the governance layer that replaces traditional stage-gate funding — the innovation funnel operates within LPM as the mechanism for selecting and sequencing which bets enter the portfolio.
 references:
   - title: "Winning at New Products: Accelerating the Process from Idea to Launch"
     authorYear: Robert G. Cooper (1986; 4th ed. 2011)
