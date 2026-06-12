@@ -51,6 +51,8 @@ connections:
     rationale: PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth; the absence of that loop is the diagnostic signal that PMF has not been achieved.
   - id: 75
     rationale: compounding is a reinforcing feedback loop — gains become the new base for the next cycle; the two concepts describe the same exponential dynamic from different angles.
+  - id: 138
+    rationale: the Kanban Method's pull system is a balancing feedback loop made operational — column WIP limits force upstream stages to stop when downstream is full, creating system-wide flow regulation.
 references:
   - title: "Thinking in Systems: A Primer"
     authorYear: Donella H. Meadows (2008)

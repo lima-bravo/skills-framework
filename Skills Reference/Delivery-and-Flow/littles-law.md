@@ -15,6 +15,8 @@ connections:
     rationale: cycle time decomposes into work time plus wait time; flow efficiency exposes the ratio.
   - id: 134
     rationale: lead time and cycle time both fall out of L = λW; they differ only in where you start the clock.
+  - id: 138
+    rationale: the Kanban Method is one of the most complete operational implementations of Little's Law; its WIP limits make L = λW a daily management discipline.
 references:
   - title: "A Proof for the Queuing Formula: L = λW"
     authorYear: John D. C. Little (1961)

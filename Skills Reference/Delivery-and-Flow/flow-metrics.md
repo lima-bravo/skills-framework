@@ -15,6 +15,8 @@ connections:
     rationale: Flow Framework's efficiency metric is the value-stream-level version.
   - id: 132
     rationale: Flow Load makes WIP visible at portfolio scale.
+  - id: 138
+    rationale: Kanban is the primary system that generates the consistent flow data flow metrics require; without a pull system, the metrics have no stable source.
 references:
   - title: Project to Product
     authorYear: Mik Kersten (2018)

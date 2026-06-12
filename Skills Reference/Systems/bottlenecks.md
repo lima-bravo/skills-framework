@@ -43,6 +43,8 @@ connections:
     rationale: WIP limits at non-bottleneck stages make the constraint visible by forcing starvation downstream when the bottleneck cannot keep up.
   - id: 135
     rationale: queues form upstream of bottlenecks — the longest queue locates the constraint in any delivery system.
+  - id: 138
+    rationale: a Kanban board makes bottlenecks visible through WIP accumulation upstream of the constraint; the method surfaces and sustains constraint awareness daily.
 references:
   - title: "The Goal: A Process of Ongoing Improvement"
     authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)
