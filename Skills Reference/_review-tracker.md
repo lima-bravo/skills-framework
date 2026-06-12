@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **185**
+- Reviewed (verified + fixed): **186**
 - Flagged: **0**
-- Remaining (todo): **77**
+- Remaining (todo): **76**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -271,7 +271,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#134` **Lead Time vs Cycle Time** · `Delivery-and-Flow/lead-time-cycle-time.md` · **st:** fixed · **n:** Refs verified (Vacanti 2015, Reinertsen 2009, Forsgren et al. 2018) ✓; added missing supports: fields and removed trailing periods; added 1 missing backlink (littles-law #131). YAML parse error on embedded quotes — fixed by rephrasing supports: field. build + check:counts pass.
 - [x] `#135` **Queueing & Wait Time** · `Delivery-and-Flow/queueing.md` · **st:** fixed · **n:** Refs verified (Reinertsen 2009, Hopp & Spearman 1996) ✓; Kingman/Erlang content accurate ✓; added missing supports: fields and removed trailing periods; added 1 missing backlink (bottlenecks #18). build + check:counts pass.
 - [x] `#136` **Batch Size Reduction** · `Delivery-and-Flow/batch-size-reduction.md` · **st:** fixed · **n:** added 4 missing backlinks (cost-of-delay, flow-efficiency, build-measure-learn, mvp); fixed SAFe authorYear in cost-of-delay (merged into same canonical ref, refs 375→374)
-- [ ] `#137` **Cost of Delay** · `Delivery-and-Flow/cost-of-delay.md` · **st:** todo · **n:** —
+- [x] `#137` **Cost of Delay** · `Delivery-and-Flow/cost-of-delay.md` · **st:** fixed · **n:** added 2 missing backlinks (trade-offs, probabilistic-forecasting); content and refs accurate
 - [ ] `#138` **Kanban Method** · `Delivery-and-Flow/kanban-method.md` · **st:** todo · **n:** —
 - [ ] `#139` **Value Stream Mapping** · `Delivery-and-Flow/value-stream-mapping.md` · **st:** todo · **n:** —
 - [ ] `#140` **Statistical Variability** · `Delivery-and-Flow/statistical-variability.md` · **st:** todo · **n:** —

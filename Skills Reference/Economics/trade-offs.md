@@ -19,6 +19,8 @@ connections:
     rationale: "strategy is the structured form of trade-off reasoning: the guiding policy names which trade-offs to accept, and coherent action executes them consistently rather than accommodating every priority."
   - id: 254
     rationale: the how-to-win choice in the cascade is explicitly a trade-off; Playing to Win provides the structure that connects that trade-off to capabilities and management systems.
+  - id: 137
+    rationale: cost of delay provides the time dimension for trade-off analysis — what is lost per week of waiting makes the opportunity cost of sequencing decisions concrete and comparable.
 references:
   - title: An Essay on the Nature and Significance of Economic Science
     authorYear: Lionel Robbins (1932)

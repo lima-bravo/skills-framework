@@ -17,6 +17,8 @@ connections:
     rationale: the cognitive bias probabilistic forecasting counteracts.
   - id: 209
     rationale: probabilistic forecasting requires an inspectable, stable system; EPC provides the governance that keeps the system transparent enough to forecast reliably.
+  - id: 137
+    rationale: probabilistic forecasting shows when something will ship; cost of delay converts that forecast uncertainty into dollars — together they answer "what does this delivery range actually cost us?"
 references:
   - title: Actionable Agile Metrics for Predictability
     authorYear: Daniel S. Vacanti (2015)
