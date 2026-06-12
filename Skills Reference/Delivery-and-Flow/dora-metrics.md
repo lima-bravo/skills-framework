@@ -23,6 +23,8 @@ connections:
     rationale: "innovation health indicators apply the same leading-indicator logic as DORA — measuring system conditions and flow rather than only outcomes, to predict future performance."
   - id: 250
     rationale: "DORA is a worked example of KPI architecture done well: a small set of decision-linked, leading-and-lagging metrics derived from first principles for software delivery."
+  - id: 143
+    rationale: flow metrics (Project to Product) complement DORA — DORA measures how good the delivery engine is; flow metrics show what the engine is being used for at portfolio level.
 references:
   - title: "Accelerate: The Science of Lean Software and DevOps"
     authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)

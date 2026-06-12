@@ -17,6 +17,8 @@ connections:
     rationale: individual WIP limits are the personal analogue.
   - id: 241
     rationale: "WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion."
+  - id: 143
+    rationale: Flow Load (the flow metric for work in progress across a value stream) is WIP limits operating at portfolio scale; the same constraint logic applied one level up.
 references:
   - title: "Kanban: Successful Evolutionary Change for Your Technology Business"
     authorYear: David J. Anderson (2010)

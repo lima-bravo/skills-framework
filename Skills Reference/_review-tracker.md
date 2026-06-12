@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **191**
+- Reviewed (verified + fixed): **192**
 - Flagged: **0**
-- Remaining (todo): **71**
+- Remaining (todo): **70**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -277,7 +277,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#140` **Statistical Variability** · `Delivery-and-Flow/statistical-variability.md` · **st:** fixed · **n:** added 2 missing backlinks (goodharts-law, regression-to-the-mean); content and refs verified accurate
 - [x] `#141` **Probabilistic Forecasting** · `Delivery-and-Flow/probabilistic-forecasting.md` · **st:** fixed · **n:** added 2 missing backlinks (planning-fallacy, littles-law); content and refs verified (Ulam/von Neumann Monte Carlo attribution correct)
 - [x] `#142` **DORA Metrics** · `Delivery-and-Flow/dora-metrics.md` · **st:** fixed · **n:** added 4 missing backlinks (flow-efficiency, outcome-vs-output, trade-offs, conways-law); content and refs verified accurate
-- [ ] `#143` **Flow Metrics** · `Delivery-and-Flow/flow-metrics.md` · **st:** todo · **n:** —
+- [x] `#143` **Flow Metrics** · `Delivery-and-Flow/flow-metrics.md` · **st:** fixed · **n:** added 4 missing backlinks (dora-metrics, outcome-vs-output, wip-limits, flow-efficiency); content and refs verified
 - [ ] `#144` **Outcome vs Output** · `Delivery-and-Flow/outcome-vs-output.md` · **st:** todo · **n:** —
 - [ ] `#145` **A3 Problem Solving** · `Delivery-and-Flow/a3-problem-solving.md` · **st:** todo · **n:** —
 - [ ] `#146` **PDCA** · `Delivery-and-Flow/pdca.md` · **st:** todo · **n:** —

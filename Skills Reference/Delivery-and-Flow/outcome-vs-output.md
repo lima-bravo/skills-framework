@@ -25,6 +25,8 @@ connections:
     rationale: a growth team shipping features while the binding constraint goes unaddressed is the canonical outcome-vs-output failure in a growth context.
   - id: 142
     rationale: DORA measures delivery capability (output); pairing it with product outcome metrics closes the loop — fast delivery that produces no behavior change is still a feature factory.
+  - id: 143
+    rationale: flow metrics measure portfolio outputs (velocity, distribution, load); outcome metrics are the anchor that keeps them from becoming ends in themselves.
 references:
   - title: "Outcomes Over Output: Why Customer Behavior Is the Key Metric for Business Success"
     authorYear: Josh Seiden (2019)

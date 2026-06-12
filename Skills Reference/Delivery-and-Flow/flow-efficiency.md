@@ -21,6 +21,8 @@ connections:
     rationale: VSM measures process time vs lead time across the whole value stream — it is the diagnostic tool that produces the flow efficiency ratio for a system.
   - id: 142
     rationale: short DORA lead times for changes are the observable evidence of high flow efficiency in software delivery; the two measures name the same phenomenon at different levels of abstraction.
+  - id: 143
+    rationale: Flow Efficiency is one of Kersten's five flow metrics; the Flow Framework operationalises the efficiency ratio at value-stream scale across the portfolio.
 references:
   - title: "This Is Lean: Resolving the Efficiency Paradox"
     authorYear: Niklas Modig & Pär Åhlström (2012)
