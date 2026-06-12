@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **142**
+- Reviewed (verified + fixed): **143**
 - Flagged: **0**
-- Remaining (todo): **120**
+- Remaining (todo): **119**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -213,7 +213,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#110` **Design Thinking** · `Startups/design-thinking.md` · **st:** fixed · **n:** structure, content, and refs clean; backlinks added to jobs-to-be-done, customer-development, assumption-mapping, build-measure-learn (4 missing; divergent-convergent-thinking already had one)
 - [x] `#111` **Crossing the Chasm** · `Startups/crossing-the-chasm.md` · **st:** fixed · **n:** structure, content, and refs clean; backlinks added to s-curves, product-market-fit, network-effects, critical-mass; disruptive-innovation already had one
 - [x] `#112` **Disruptive Innovation** · `Business/disruptive-innovation.md` · **st:** fixed · **n:** structure, content, and refs clean; Netflix/Blockbuster example accurate; backlinks added to s-curves, jobs-to-be-done, business-model-canvas (6 of 9 already had backlinks)
-- [ ] `#113` **Three Horizons** · `Business/three-horizons.md` · **st:** todo · **n:** —
+- [x] `#113` **Three Horizons** · `Business/three-horizons.md` · **st:** fixed · **n:** structure, content, and ref (Alchemy of Growth 1999) clean; AWS example accurate; backlinks added to portfolio-map, disruptive-innovation, s-curves, two-way-doors; funnel-intake and 2 others already had them
 - [ ] `#172` **Ambidextrous Organization** · `Business/ambidextrous-organization.md` · **st:** todo · **n:** —
 - [ ] `#173` **Dominant Logic** · `Business/dominant-logic.md` · **st:** todo · **n:** —
 - [ ] `#174` **Open Innovation** · `Business/open-innovation.md` · **st:** todo · **n:** —

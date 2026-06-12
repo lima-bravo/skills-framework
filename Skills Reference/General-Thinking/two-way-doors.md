@@ -13,6 +13,8 @@ connections:
     rationale: the regret of a wrong reversible decision is small; the regret of a wrong irreversible decision can be large. The two frameworks combine to guide which decisions to act on quickly.
   - id: 235
     rationale: irreversible decisions are the primary mechanism of path dependence; preferring two-way doors is the structural antidote to inadvertent lock-in.
+  - id: 113
+    rationale: H3 investments are reversible options; H1 commitments are largely irreversible. Two-Way Doors logic explains why H3 decisions should move faster and require less analysis than H1 ones.
 references:
   - title: "Invent and Wander: The Collected Writings of Jeff Bezos"
     authorYear: Jeff Bezos, ed. Walter Isaacson (2021)

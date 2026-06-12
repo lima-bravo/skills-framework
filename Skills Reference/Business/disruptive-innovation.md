@@ -23,6 +23,8 @@ connections:
     rationale: disruption often begins at the adjacent possible of entrants, who are positioned adjacent to innovations that incumbents cannot reach from their current capabilities.
   - id: 217
     rationale: disruption often involves creating a new value creation/capture pairing that incumbents cannot match without destroying their existing capture mechanism.
+  - id: 113
+    rationale: H3 is where disruptive threats and opportunities are most likely to emerge; Three Horizons is the structural mechanism for staying in the game long enough to respond.
 references:
   - title: "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail"
     authorYear: Clayton M. Christensen (1997)

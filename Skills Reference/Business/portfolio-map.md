@@ -15,6 +15,8 @@ connections:
     rationale: "the portfolio question follows the strategy question: the kernel's diagnosis and guiding policy determine which horizon bets to make and which to cut."
   - id: 254
     rationale: portfolio decisions flow from the where-to-play choice in the cascade; Playing to Win makes that linkage explicit rather than leaving portfolio allocation to financial criteria alone.
+  - id: 113
+    rationale: Three Horizons provides the strategic logic for the H1/H2/H3 allocation; the portfolio map is the tool for visualising and managing that allocation across time.
 references:
   - title: "The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise"
     authorYear: Mehrdad Baghai, Stephen Coley & David White (1999)

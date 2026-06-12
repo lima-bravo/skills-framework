@@ -29,6 +29,8 @@ connections:
     rationale: the chasm sits at the inflection point on the S-curve between early adopters and the early majority; crossing it is what allows the adoption curve to steepen into its growth phase.
   - id: 112
     rationale: disruptive innovations ride a new S-curve that eventually intersects the incumbent's; the crossing point is where displacement occurs and is the incumbent's primary analytical challenge.
+  - id: 113
+    rationale: "each Three Horizons level maps to a position on a different S-curve: H1 is the current curve's mature phase, H2 the emerging curve's growth phase, H3 the next curve's early phase."
 references:
   - title: Diffusion of Innovations
     authorYear: Everett M. Rogers (1962; 5th ed. 2003)
