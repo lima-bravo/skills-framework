@@ -35,6 +35,8 @@ connections:
     rationale: "optimising for easy-to-measure A/B metrics (click rates, micro-conversions) is a Goodhart failure: the metric becomes the target and drifts from what actually matters (retention, LTV, brand)."
   - id: 140
     rationale: single-date commitments become Goodhart targets — the team optimises for hitting the date rather than managing the actual distribution; statistical variability surfaces the distortion.
+  - id: 144
+    rationale: output metrics (feature count, deployment frequency) become Goodhart targets the moment they are separated from the outcome they were proxying for.
 references:
   - title: The Tyranny of Metrics
     authorYear: Jerry Z. Muller (2018)

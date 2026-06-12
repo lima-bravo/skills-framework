@@ -35,6 +35,8 @@ connections:
     rationale: kill criteria applied at each rung of the Experiment Ladder prevent motivated reasoning from carrying a failing assumption forward to a more expensive test.
   - id: 241
     rationale: "kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth."
+  - id: 144
+    rationale: outcome thinking is what makes kill criteria honest — the kill trigger should be "the outcome metric did not move," not "we ran out of time."
 references:
   - title: "Quit: The Power of Knowing When to Walk Away"
     authorYear: Annie Duke (2022)

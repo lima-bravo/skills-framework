@@ -45,6 +45,8 @@ connections:
     rationale: the Experiment Ladder operates within the BML cycle — it determines which type of build is appropriate for each learning loop.
   - id: 136
     rationale: small batches are how BML cycles stay fast; batch-size reduction is the delivery mechanism that makes rapid build-measure-learn iterations operationally viable.
+  - id: 144
+    rationale: outcomes are the "measure" in Build-Measure-Learn; a loop that only measures outputs (features shipped, experiments run) is cycling without learning.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)
