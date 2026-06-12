@@ -23,6 +23,8 @@ connections:
     rationale: answer-first delivery as one of five components of an integrated posture; the pyramid is its communication architecture.
   - id: 218
     rationale: "the pyramid's answer-first principle applies directly: the approver needs to know what is being asked, why, and on what terms before the supporting analysis, not after."
+  - id: 246
+    rationale: once a situation assessment is built, the Pyramid Principle is how its implications get communicated — SCQA maps directly onto the fact/interpretation/implication structure the assessment produces.
 references:
   - title: The Pyramid Principle
     authorYear: Barbara Minto (1985)

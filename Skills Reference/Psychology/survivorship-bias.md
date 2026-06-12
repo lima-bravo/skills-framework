@@ -27,6 +27,8 @@ connections:
     rationale: reporting only confirming outcomes is how survivorship bias causes falsification to fail in practice; the graveyard of disconfirming cases is exactly what falsification requires you to look at
   - id: 206
     rationale: both involve misreading a filtered evidence set; survivorship bias distorts the available cases, base rate neglect ignores the distribution they come from
+  - id: 246
+    rationale: a fact base built only from visible customers, deals, or initiatives will systematically miss the ones that already left — the most diagnostic group — making survivorship bias a structural threat to any situation assessment.
 references:
   - title: "How Not to Be Wrong: The Power of Mathematical Thinking"
     authorYear: Jordan Ellenberg (2014)

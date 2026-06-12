@@ -25,17 +25,17 @@ connections:
     rationale: profit pool analysis is one lens within a broader current-state view; it specialises the "market position" and "financial performance" dimensions into a single structural question about where profit concentrates and why.
 references:
   - title: The McKinsey Way
-    authorYear: Rasiel, E. M. (1999)
-    supports: The "fact base before solution" discipline at the center of this card.
+    authorYear: Ethan M. Rasiel (1999)
+    supports: the fact-base-before-solution discipline at the center of this card.
   - title: The Pyramid Principle
-    authorYear: Minto, B. (1987)
-    supports: The structural distinction between situation, complication, and question that frames a defensible current-state read.
+    authorYear: Barbara Minto (1985)
+    supports: the structural distinction between situation, complication, and question that frames a defensible current-state read.
   - title: Bulletproof Problem Solving
-    authorYear: Conn, C. & McLean, R. (2018)
-    supports: The issue-tree method for scanning a situation exhaustively before diagnosing it.
+    authorYear: Charles Conn & Robert McLean (2019)
+    supports: the issue-tree method for scanning a situation exhaustively before diagnosing it.
   - title: Competing Against Luck
-    authorYear: Christensen, C. M. (2016)
-    supports: On distinguishing the presenting symptom from the underlying situation — a recurring trap this card is built to avoid.
+    authorYear: Clayton M. Christensen (2016)
+    supports: on distinguishing the presenting symptom from the underlying situation — a recurring trap this card is built to avoid.
 ---
 
 # Situation Assessment

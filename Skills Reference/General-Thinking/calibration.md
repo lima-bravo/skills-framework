@@ -31,6 +31,8 @@ connections:
     rationale: calibrated probability estimates are the foundation of good priors — Bayesian updating assumes you can assign meaningful likelihoods, which requires calibration to be valid.
   - id: 233
     rationale: tracking whether Fermi estimates land within the expected range is a calibration exercise — it reveals which decomposition habits are systematically biased.
+  - id: 246
+    rationale: the discipline of stating confidence levels honestly is what keeps interpretation from being smuggled into a situation assessment as fact — calibration is the standard that keeps the fact/interpretation distinction real.
 references:
   - title: "Superforecasting: The Art and Science of Prediction"
     authorYear: Philip E. Tetlock & Dan Gardner (2015)
