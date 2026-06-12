@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **207**
+- Reviewed (verified + fixed): **208**
 - Flagged: **0**
-- Remaining (todo): **55**
+- Remaining (todo): **54**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -293,7 +293,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#156` **Dependency Management** · `Delivery-and-Flow/dependency-management.md` · **st:** fixed · **n:** removed uncited "2018 study / 50% variability" claim (unverifiable); replaced with practitioner framing; added 3 missing backlinks (conways-law, bottlenecks, leverage).
 - [x] `#157` **Feature Factory vs Product Orientation** · `Delivery-and-Flow/feature-factory.md` · **st:** fixed · **n:** added 4 missing backlinks (okrs, kill-criteria, build-measure-learn, lean-portfolio); fixed YAML error (bare quotes in rationale); content and refs accurate.
 - [x] `#158` **Lean Portfolio Management** · `Delivery-and-Flow/lean-portfolio.md` · **st:** fixed · **n:** fixed SAFe ref missing year (added 2011–ongoing); added 2 missing backlinks (kill-criteria, innovation-funnel); content accurate.
-- [ ] `#159` **WSJF** · `Delivery-and-Flow/wsjf.md` · **st:** todo · **n:** —
+- [x] `#159` **WSJF** · `Delivery-and-Flow/wsjf.md` · **st:** fixed · **n:** added 3 missing backlinks (trade-offs, bottlenecks, probabilistic-forecasting); content and refs accurate.
 - [ ] `#160` **Reference Class Forecasting** · `Delivery-and-Flow/reference-class-forecasting.md` · **st:** todo · **n:** —
 - [x] `#209` **Empirical Process Control** · `Delivery-and-Flow/empirical-process-control.md` · **st:** fixed · **n:** added 5 --- separators, fixed dup footer, expanded 5 bare refs; Gap-A [248] Snowden & Boone; Gap-B2: Shewhart 1931, Deming 1986, Takeuchi/Nonaka 1986, Scrum Guide 2020; backlinks in drift-to-failure, experiment-design, outcome-vs-output
 - [ ] `#255` **Technical Debt** · `Delivery-and-Flow/technical-debt.md` · **st:** todo · **n:** —

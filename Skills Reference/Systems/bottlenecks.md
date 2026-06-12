@@ -49,6 +49,8 @@ connections:
     rationale: VSM locates the constraint by mapping where the longest queues accumulate — the step with the highest wait time is the current bottleneck.
   - id: 156
     rationale: high-fan-in teams are scaled-delivery bottlenecks — when many teams depend on one, that team's capacity becomes the system constraint regardless of its throughput.
+  - id: 159
+    rationale: WSJF operates on bottleneck capacity — the sequencing rule only matters when there is a scarcity constraint, and its value is highest precisely at the bottleneck where choosing wrong is most costly.
 references:
   - title: "The Goal: A Process of Ongoing Improvement"
     authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)

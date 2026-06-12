@@ -19,6 +19,8 @@ connections:
     rationale: probabilistic forecasting requires an inspectable, stable system; EPC provides the governance that keeps the system transparent enough to forecast reliably.
   - id: 137
     rationale: probabilistic forecasting shows when something will ship; cost of delay converts that forecast uncertainty into dollars — together they answer "what does this delivery range actually cost us?"
+  - id: 159
+    rationale: pairing WSJF with probabilistic forecasting turns sequencing from gut feel to calculation — WSJF ranks what goes first; forecasting estimates when each item will clear the queue, making the full value-delivery picture visible.
 references:
   - title: Actionable Agile Metrics for Predictability
     authorYear: Daniel S. Vacanti (2015)
