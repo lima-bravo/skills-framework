@@ -13,6 +13,8 @@ connections:
     rationale: "analogical reasoning is the most powerful technique for producing genuine divergence: importing solutions from distant domains breaks the attractor of conventional thinking."
   - id: 55
     rationale: "confirmation bias is the convergent mode applied where divergent mode is needed: the mind searches for confirmations rather than alternatives, collapsing the solution space prematurely."
+  - id: 180
+    rationale: the OST enforces divergence at the opportunity and solution levels before convergence at the experiment level — a structural implementation of the diverge-converge discipline.
   - id: 1
     rationale: "inversion is a structured divergent technique: it forces the generation of non-obvious possibilities by approaching the problem from the opposite direction."
 references:

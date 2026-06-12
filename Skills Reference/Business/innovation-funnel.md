@@ -15,6 +15,8 @@ connections:
     rationale: "the chain that gates ideas into the funnel: enriches via First Principles + JTBD, then runs a strategic fit check before committing funnel capacity"
   - id: 179
     rationale: pipeline indicators in the health indicator system instrument the funnel directly; health indicators give the funnel quantitative teeth.
+  - id: 180
+    rationale: the OST operates inside the funnel — it is the tool that makes the funnel a learning accelerator rather than a filter.
   - id: 213
     rationale: the chain that converts funnel ideas into testable hypotheses with explicit kill criteria
 references:

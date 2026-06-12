@@ -29,6 +29,8 @@ connections:
     rationale: customer development produces the evidence that validates or invalidates the critical assumptions surfaced by the map.
   - id: 70
     rationale: each stage of the innovation funnel tests specific assumptions before advancing; assumption mapping identifies which ones are critical enough to gate on.
+  - id: 180
+    rationale: assumption mapping is the method for identifying which experiments to run at the leaf level of the OST; the two tools are designed to work together.
   - id: 110
     rationale: design thinking's prototyping stage is most productive when combined with assumption mapping — the prototype should test the highest-priority assumption explicitly.
 references:

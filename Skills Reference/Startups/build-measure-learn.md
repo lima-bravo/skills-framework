@@ -35,6 +35,8 @@ connections:
     rationale: open innovation expands the surface area for experimentation; the same learning loop applies whether the experiment originates internally or is sourced externally.
   - id: 175
     rationale: effectuation provides the decision logic for the early cycle; Build-Measure-Learn provides the process structure — together they describe how expert entrepreneurs move through uncertainty.
+  - id: 180
+    rationale: the BML cycle operates at the experiment level of the OST; the tree gives each cycle a context and a connection to a broader learning agenda.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)
