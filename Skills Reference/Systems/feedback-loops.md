@@ -45,6 +45,8 @@ connections:
     rationale: psychologically safe teams close error-detection feedback loops faster because problems surface before they compound into larger failures.
   - id: 116
     rationale: fragmentation → lower output → more status meetings → more fragmentation is a reinforcing loop; calendar structure is the intervention point.
+  - id: 182
+    rationale: continuous discovery installs a reinforcing feedback loop between customer reality and product decisions — the loop is the mechanism that prevents drift away from what customers actually need.
   - id: 62
     rationale: PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth; the absence of that loop is the diagnostic signal that PMF has not been achieved.
 references:

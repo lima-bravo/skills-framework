@@ -13,6 +13,8 @@ connections:
     rationale: design thinking is structured around alternating divergent phases (empathy, ideation) and convergent phases (problem definition, prototype selection, insight synthesis).
   - id: 73
     rationale: "design thinking's prototyping stage is most productive when combined with assumption mapping: the prototype tests the highest-priority assumption explicitly."
+  - id: 182
+    rationale: the empathize phase of design thinking is continuous discovery done once at the start of a project; continuous discovery makes that empathy an ongoing practice rather than a phase.
   - id: 63
     rationale: "build-measure-learn and design thinking are complementary: design thinking produces the right question to test; build-measure-learn provides the quantitative loop to validate the answer at scale."
 references:

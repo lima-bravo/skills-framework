@@ -17,6 +17,8 @@ connections:
     rationale: customer development feeds segmentation with the needs and behavior data that makes segments predictive rather than descriptive.
   - id: 103
     rationale: JTBD gives customer development interviews a precise structure — the struggling moment and four forces define exactly what to surface and why.
+  - id: 182
+    rationale: customer development is the project-level methodology; continuous discovery is the always-on practice that sustains customer understanding after the initial development stage.
   - id: 110
     rationale: design thinking and customer development share field-based learning before solution building; design thinking adds structured ideation and rapid prototyping to the toolkit.
 references:

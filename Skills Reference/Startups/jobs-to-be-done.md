@@ -29,6 +29,8 @@ connections:
     rationale: JTBD framing is the method behind hypothesis quality; a hypothesis without a JTBD-grounded customer need is not yet a well-formed hypothesis.
   - id: 180
     rationale: JTBD framing is the primary method for deriving well-formed opportunities in the OST; the tree gives JTBD findings a structure to live in.
+  - id: 182
+    rationale: the continuous interview format is structured around JTBD — what job is the customer trying to accomplish, what triggers it, what gets in the way?
   - id: 112
     rationale: disruptions often succeed because they do the job better for a segment the incumbent has stopped serving; JTBD analysis reveals which overlooked segments are ripe for a disruptive foothold.
 references:

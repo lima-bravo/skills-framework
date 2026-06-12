@@ -39,6 +39,8 @@ connections:
     rationale: the BML cycle operates at the experiment level of the OST; the tree gives each cycle a context and a connection to a broader learning agenda.
   - id: 181
     rationale: pretotyping is an accelerated BML cycle compressed to a single demand question — it makes the loop cheaper by answering the most critical assumption before any build investment.
+  - id: 182
+    rationale: continuous discovery runs upstream of the BML cycle — it continuously generates the opportunities and hypotheses that BML cycles test.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)
