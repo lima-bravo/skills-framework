@@ -15,6 +15,8 @@ connections:
     rationale: the Value Prop Canvas zooms in on two of the nine BMC boxes; the value proposition only holds if the surrounding business model — channels, revenue streams, cost structure — is also coherent.
   - id: 249
     rationale: segmentation defines which customers the canvas is drawn for; a value prop canvas built for "all customers" is built for no one in particular.
+  - id: 90
+    rationale: the customer profile side of the canvas is the audience model for product design — it operationalises who the work is for.
 references:
   - title: "Value Proposition Design: How to Create Products and Services Customers Want"
     authorYear: Alexander Osterwalder, Yves Pigneur, Gregory Bernarda & Alan Smith (2014)

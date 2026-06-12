@@ -23,6 +23,8 @@ connections:
     rationale: customer development interviews are the primary instrument at the discovery rung of the Experiment Ladder — the cheapest level for testing whether a problem is real.
   - id: 110
     rationale: design thinking and customer development share field-based learning before solution building; design thinking adds structured ideation and rapid prototyping to the toolkit.
+  - id: 90
+    rationale: customer development generates the empirical data that makes audience models accurate — interviews and observations replace assumptions about who the audience is.
 references:
   - title: "The Four Steps to the Epiphany: Successful Strategies for Products that Win"
     authorYear: Steve Blank (2005)
