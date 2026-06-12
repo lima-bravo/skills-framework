@@ -21,6 +21,8 @@ connections:
     rationale: when you influence an agent whose interests diverge from the principal's, the influence may not produce the organisational outcome you intended; understand whose interests you are actually activating
   - id: 234
     rationale: "Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask."
+  - id: 252
+    rationale: pre-wiring is influence without authority applied specifically to the run-up to a decision meeting — moving stakeholders toward a position before the room where the decision is ratified.
 references:
   - title: "Influence Without Authority: The Use of Alliances, Reciprocity, and Exchange to Accomplish Work"
     authorYear: A.R. Cohen & D.L. Bradford (1989)

@@ -25,17 +25,17 @@ connections:
     rationale: pre-wiring is easier when the client has been built to diagnose with you rather than waiting for your answer; coaching stance creates the conditions for genuine alignment rather than performed agreement.
 references:
   - title: What You Don't Know About Making Decisions
-    authorYear: Garvin, D. A. & Roberto, M. A. (2001) — Harvard Business Review
-    supports: On the difference between decision-making as inquiry and decision-making as advocacy — and why the room is rarely where minds actually change.
+    authorYear: David A. Garvin & Michael A. Roberto (HBR, 2001)
+    supports: the difference between decision-making as inquiry and decision-making as advocacy — and why the room is rarely where minds actually change.
   - title: Choosing Strategies for Change
-    authorYear: Kotter, J. P. & Schlesinger, L. A. (1979/2008) — Harvard Business Review
-    supports: The classic taxonomy of approaches to overcoming resistance — communication, participation, negotiation — that a pre-wire plan draws from and sequences.
+    authorYear: John P. Kotter & Leonard A. Schlesinger (HBR, 1979; rev. 2008)
+    supports: the classic taxonomy of approaches to overcoming resistance — communication, participation, negotiation — that a pre-wire plan draws from and sequences.
   - title: Are You a Collaborative Leader?
-    authorYear: Ibarra, H. & Hansen, M. T. (2011) — Harvard Business Review
-    supports: On building the private relationships that make public collaboration possible.
+    authorYear: Herminia Ibarra & Morten T. Hansen (HBR, 2011)
+    supports: on building the private relationships that make public collaboration possible.
   - title: "Influence: The Psychology of Persuasion"
-    authorYear: Cialdini, R. B. (2001)
-    supports: The mechanisms — commitment, reciprocity, social proof — that make pre-wiring work, and that make it different from manipulation when used in service of a recommendation that genuinely serves the stakeholder's interests.
+    authorYear: Robert B. Cialdini (2001)
+    supports: the mechanisms — commitment, reciprocity, social proof — that make pre-wiring work, and that make it different from manipulation when used in service of a recommendation that genuinely serves the stakeholder's interests.
 ---
 
 # Stakeholder Pre-Wiring

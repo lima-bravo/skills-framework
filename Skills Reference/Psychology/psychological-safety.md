@@ -27,6 +27,8 @@ connections:
     rationale: in low-safety environments, evaluators suppress independent judgments and anchor on the dominant view; the social pressure that amplifies observer bias is a direct product of low psychological safety.
   - id: 224
     rationale: red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for adversarial output that is actually adversarial.
+  - id: 252
+    rationale: a one-on-one pre-wire conversation only surfaces a real objection when the stakeholder feels safe to voice it; psychological safety is what converts a courtesy check-in into a genuine alignment conversation.
 references:
   - title: "The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth"
     authorYear: Amy C. Edmondson (2018)

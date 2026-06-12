@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **217**
+- Reviewed (verified + fixed): **218**
 - Flagged: **0**
-- Remaining (todo): **45**
+- Remaining (todo): **44**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -307,7 +307,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#164` **Engagement Lifecycle** · `Consulting-Craft/engagement-lifecycle.md` · **st:** fixed · **n:** backlinks added in mission-command, theory-of-change, change-management, hypothesis-driven, facilitation; content and refs verified clean
 - [x] `#165` **Contracting & Scope** · `Consulting-Craft/contracting-scope.md` · **st:** fixed · **n:** backlinks added in outcome-vs-output, stakeholder-mapping, kill-criteria, trade-offs; content and refs verified clean
 - [x] `#246` **Situation Assessment** · `Consulting-Craft/situation-assessment.md` · **st:** fixed · **n:** normalized 4 ref formats (Last, F.M. → Full Name); fixed Minto 1987→1985, Conn 2018→2019; backlinks added in calibration, pyramid-principle, survivorship-bias
-- [ ] `#252` **Stakeholder Pre-Wiring** · `Consulting-Craft/stakeholder-pre-wiring.md` · **st:** todo · **n:** —
+- [x] `#252` **Stakeholder Pre-Wiring** · `Consulting-Craft/stakeholder-pre-wiring.md` · **st:** fixed · **n:** normalized 4 ref formats (Last, F.M./journal → Full Name); backlinks added in power-mapping, influence-without-authority, coalition-building, psychological-safety, commitment-consistency-bias
 - [ ] `#253` **Structured Problem Solving** · `Consulting-Craft/structured-problem-solving.md` · **st:** todo · **n:** —
 - [ ] `#258` **Coaching Stance** · `Consulting-Craft/coaching-stance.md` · **st:** todo · **n:** —
 - [ ] `#259` **Facilitation** · `Consulting-Craft/facilitation.md` · **st:** todo · **n:** —

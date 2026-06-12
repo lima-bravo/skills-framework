@@ -21,6 +21,8 @@ connections:
     rationale: coalition members are agents whose individual interests may not fully align with the coalition's stated purpose; understanding each member's private incentives is necessary for predicting where fracture is most likely
   - id: 234
     rationale: moving the Overton Window requires building a coalition of advocates who normalise boundary positions before the main proposal is made; coalition building is the organisational mechanism of window-shifting.
+  - id: 252
+    rationale: securing early allies quietly before the decision meeting is the pre-wiring application of coalition building — a credible early supporter changes how later skeptics receive the same recommendation.
 references:
   - title: Leading Change
     authorYear: Kotter, J.P. (1996)

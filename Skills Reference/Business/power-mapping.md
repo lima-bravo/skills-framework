@@ -17,6 +17,8 @@ connections:
     rationale: the formal accountability layer that power mapping sits beneath; when RACI and power map diverge significantly, the organisation has a governance design problem
   - id: 203
     rationale: informal power often flows to those who tell the most compelling organisational story; identifying who shapes the dominant narrative is part of mapping informal influence
+  - id: 252
+    rationale: the influence-network view that should drive the sequencing of pre-wire conversations — talking to the people whose support changes how others receive the message.
 references:
   - title: '"Power Failure in Management Circuits"'
     authorYear: Rosabeth Moss Kanter, *Harvard Business Review* (July–August 1979)
