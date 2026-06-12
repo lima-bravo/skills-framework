@@ -15,6 +15,8 @@ connections:
     rationale: VSM exposes where batches accumulate.
   - id: 28
     rationale: handoffs between teams reflect org boundaries; future-state may require org change.
+  - id: 145
+    rationale: the A3's current-state section is typically built on VSM evidence — the map provides the fact base that an A3's diagnosis compresses to one page.
 references:
   - title: "Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda"
     authorYear: Mike Rother & John Shook (1999)

@@ -15,6 +15,8 @@ connections:
     rationale: "complementary disciplines at different scales: the AAR is the lightweight operational habit after every project; the post-mortem is the deep investigation triggered by significant failure or a repeated pattern."
   - id: 171
     rationale: the post-mortem is the primary organizational context for causal analysis; choosing the right mode (5 Whys, fishbone, causal loop) determines whether the investigation finds the actual cause or just a plausible one.
+  - id: 145
+    rationale: incident A3s are the lean equivalent of post-mortems — the same structured diagnosis, one-page format, and countermeasure discipline applied to operational problems.
 references:
   - title: "Site Reliability Engineering: How Google Runs Production Systems"
     authorYear: Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy, eds. (2016)

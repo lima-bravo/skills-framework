@@ -19,6 +19,8 @@ connections:
     rationale: "organizational change theories often miss the immunity layer: the counter-commitments and big assumptions that cause the causal chain to fail even when the logic is sound."
   - id: 166
     rationale: a strategy's guiding policy is a Theory of Change applied to competitive position; the coherent actions are the mechanism the theory predicts will produce the intended outcome.
+  - id: 145
+    rationale: an A3's countermeasures section is a compressed Theory of Change — "if we change X, we expect Y to move because Z"; the A3 format operationalises the causal logic on one page.
 references:
   - title: Realistic Evaluation
     authorYear: Ray Pawson & Nick Tilley (1997)

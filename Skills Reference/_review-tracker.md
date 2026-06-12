@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **193**
+- Reviewed (verified + fixed): **194**
 - Flagged: **0**
-- Remaining (todo): **69**
+- Remaining (todo): **68**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -279,7 +279,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#142` **DORA Metrics** · `Delivery-and-Flow/dora-metrics.md` · **st:** fixed · **n:** added 4 missing backlinks (flow-efficiency, outcome-vs-output, trade-offs, conways-law); content and refs verified accurate
 - [x] `#143` **Flow Metrics** · `Delivery-and-Flow/flow-metrics.md` · **st:** fixed · **n:** added 4 missing backlinks (dora-metrics, outcome-vs-output, wip-limits, flow-efficiency); content and refs verified
 - [x] `#144` **Outcome vs Output** · `Delivery-and-Flow/outcome-vs-output.md` · **st:** fixed · **n:** added 3 missing backlinks (kill-criteria, build-measure-learn, goodharts-law); content and refs verified accurate
-- [ ] `#145` **A3 Problem Solving** · `Delivery-and-Flow/a3-problem-solving.md` · **st:** todo · **n:** —
+- [x] `#145` **A3 Problem Solving** · `Delivery-and-Flow/a3-problem-solving.md` · **st:** fixed · **n:** added 3 missing backlinks (post-mortem, value-stream-mapping, theory-of-change); content and refs verified (7-section structure and Shook 2008 accurate)
 - [ ] `#146` **PDCA** · `Delivery-and-Flow/pdca.md` · **st:** todo · **n:** —
 - [ ] `#147` **Gemba** · `Delivery-and-Flow/gemba.md` · **st:** todo · **n:** —
 - [ ] `#148` **Attention Budget** · `Delivery-and-Flow/attention-budget.md` · **st:** todo · **n:** —
