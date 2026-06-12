@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **238**
+- Reviewed (verified + fixed): **239**
 - Flagged: **0**
-- Remaining (todo): **24**
+- Remaining (todo): **23**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -331,7 +331,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#186` **AI Agent Governance Design** · `Pre-built-Chains/ai-agent-governance-design.md` · **st:** verified · **n:** chain card; 9 steps technically sound; all referenced cards exist; AI security practices correct
 - [x] `#187` **AI Use Case Autonomy Assessment** · `Pre-built-Chains/ai-use-case-autonomy-assessment.md` · **st:** verified · **n:** chain card; 8 steps technically sound; all referenced cards confirmed to exist
 - [x] `#198` **Mission Execution Protocol** · `Pre-built-Chains/mission-execution-protocol.md` · **st:** fixed · **n:** fixed header (linked category, removed redundant tagline, added --- separator); content verified correct
-- [ ] `#213` **From Idea to Hypothesis** · `Pre-built-Chains/from-idea-to-hypothesis.md` · **st:** todo · **n:** —
+- [x] `#213` **From Idea to Hypothesis** · `Pre-built-Chains/from-idea-to-hypothesis.md` · **st:** fixed · **n:** added 4 missing backlinks in opportunity-solution-trees, jobs-to-be-done, wsjf, experiment-design
 - [ ] `#214` **Crawl / Walk / Run** · `Pre-built-Chains/crawl-walk-run.md` · **st:** todo · **n:** —
 - [ ] `#244` **Organisational Degradation Scan** · `Pre-built-Chains/organisational-degradation-scan.md` · **st:** todo · **n:** —
 - [ ] `#245` **Funnel Intake** · `Pre-built-Chains/funnel-intake.md` · **st:** todo · **n:** —

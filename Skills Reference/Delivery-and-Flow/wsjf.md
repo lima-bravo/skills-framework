@@ -17,6 +17,8 @@ connections:
     rationale: pairs to forecast value delivery under a WSJF queue.
   - id: 170
     rationale: Step 9 of the Work to Be Done chain uses WSJF to rank work items by economic value where stakes are clear — Cost of Delay divided by job size determines which items to sequence first.
+  - id: 213
+    rationale: the From Idea to Hypothesis chain uses WSJF in Step 5 to sequence hypothesis candidates — test the riskiest assumption first; if it fails, no downstream assumptions need to be tested.
 references:
   - title: The Principles of Product Development Flow
     authorYear: Donald G. Reinertsen (2009)

@@ -37,6 +37,8 @@ connections:
     rationale: innovation accounting consumes experiment design output; the validity of learning metrics depends on the rigor of the experiments that generate them.
   - id: 161
     rationale: hypothesis-driven consulting frames the analysis as a testable bet; experiment design supplies the operational discipline for running each test rigorously rather than gathering evidence informally.
+  - id: 213
+    rationale: the From Idea to Hypothesis chain hands off to Experiment Design in Step 6 — the minimum test that would produce a credible result on the leading hypothesis.
 references:
   - title: The Design of Experiments
     authorYear: Ronald A. Fisher (1935)

@@ -19,6 +19,8 @@ connections:
     rationale: hypothesis quality at stage gate largely measures whether teams are building and updating OSTs; the tree is the artifact the gate assesses.
   - id: 70
     rationale: the OST operates inside the funnel; it is the tool that makes the funnel a learning accelerator rather than a filter.
+  - id: 213
+    rationale: the From Idea to Hypothesis chain uses the OST in Step 2 to confirm the idea is connected to a real customer outcome before assumption mapping begins.
 references:
   - title: "Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value"
     authorYear: Teresa Torres (2021)

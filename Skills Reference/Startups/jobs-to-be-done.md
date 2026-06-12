@@ -35,6 +35,8 @@ connections:
     rationale: disruptions often succeed because they do the job better for a segment the incumbent has stopped serving; JTBD analysis reveals which overlooked segments are ripe for a disruptive foothold.
   - id: 170
     rationale: Step 2 of the Work to Be Done chain applies JTBD analysis to name the customer job — functional, social, and emotional progress — that the outcome must deliver; the job frames what successful work must enable, not just what will be built.
+  - id: 213
+    rationale: the From Idea to Hypothesis chain uses JTBD in Step 2 to pressure-test the anchoring outcome — naming the job the customer is hiring for distinguishes ideas addressing real struggles from solutions in search of problems.
 references:
   - title: "Competing Against Luck: The Story of Innovation and Customer Choice"
     authorYear: Clayton M. Christensen, Taddy Hall, Karen Dillon & David S. Duncan (2016)
