@@ -13,6 +13,8 @@ connections:
     rationale: the efficiency-resilience trade-off is structural and requires explicit management.
   - id: 40
     rationale: "Gresham's Law is a market efficiency failure: when quality is not priced, low-quality options systematically displace high-quality ones."
+  - id: 133
+    rationale: flow efficiency vs resource efficiency is the operational specialization of the broader efficiency trade-off — optimizing one dimension degrades the other.
 references:
   - title: The Wealth of Nations
     authorYear: Adam Smith (1776)

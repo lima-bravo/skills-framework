@@ -17,11 +17,14 @@ connections:
     rationale: slack at the individual level is the analogue of slack at the team level.
 references:
   - title: "This Is Lean: Resolving the Efficiency Paradox"
-    authorYear: Niklas Modig & Pär Åhlström (2012).
+    authorYear: Niklas Modig & Pär Åhlström (2012)
+    supports: the source text for flow efficiency vs resource efficiency; the efficiency paradox framework showing that high utilization drives long lead times.
   - title: The Principles of Product Development Flow
-    authorYear: Donald G. Reinertsen (2009).
+    authorYear: Donald G. Reinertsen (2009)
+    supports: the queueing-theoretic basis — above ~80% utilization, small variability produces hyperbolically large wait times.
   - title: Accelerate
-    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: empirical data linking flow metrics (lead time, deployment frequency) to organizational performance.
 ---
 
 # Flow Efficiency vs Resource Efficiency

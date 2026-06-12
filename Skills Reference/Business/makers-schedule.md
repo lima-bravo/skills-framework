@@ -19,6 +19,8 @@ connections:
     rationale: fragmentation → lower output → more status meetings → more fragmentation.
   - id: 28
     rationale: org communication structures determine scheduling norms as a structural output.
+  - id: 133
+    rationale: slack at the individual scheduling level is the analogue of slack capacity at the team level — both are the price of responsiveness over pure utilization.
 references:
   - title: Maker's Schedule, Manager's Schedule
     authorYear: Paul Graham (paulgraham.com, 2009)
