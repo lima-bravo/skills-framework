@@ -37,6 +37,8 @@ connections:
     rationale: single-date commitments become Goodhart targets — the team optimises for hitting the date rather than managing the actual distribution; statistical variability surfaces the distortion.
   - id: 144
     rationale: output metrics (feature count, deployment frequency) become Goodhart targets the moment they are separated from the outcome they were proxying for.
+  - id: 152
+    rationale: OKR Key Results are designed to resist Goodhart drift — pairing them with an Objective keeps the metric anchored to intent; decoupling from compensation removes the strongest gaming incentive.
 references:
   - title: The Tyranny of Metrics
     authorYear: Jerry Z. Muller (2018)
