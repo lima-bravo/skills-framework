@@ -21,6 +21,8 @@ connections:
     rationale: "the boundary condition: this posture is built for complicated problems with enough precedent to support a credible hypothesis; in genuinely complex or chaotic domains, forcing it produces false confidence rather than clarity."
   - id: 55
     rationale: the failure mode that the posture's hardest discipline — willingness to rewrite the day-one answer — exists specifically to defend against.
+  - id: 259
+    rationale: MECE issue-tree construction can be run as a facilitated group activity, distributing the framing work and reducing the risk that important branches are missed by a single analyst.
 references:
   - title: The Pyramid Principle
     authorYear: Barbara Minto (1985)

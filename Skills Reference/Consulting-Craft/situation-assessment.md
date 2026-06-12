@@ -25,6 +25,8 @@ connections:
     rationale: profit pool analysis is one lens within a broader current-state view; it specialises the "market position" and "financial performance" dimensions into a single structural question about where profit concentrates and why.
   - id: 253
     rationale: situation assessment is the diagnostic discipline that should run before the structured problem-solving posture engages — you cannot frame a credible day-one hypothesis about a situation you haven't honestly looked at.
+  - id: 259
+    rationale: a well-facilitated session is an effective diagnostic tool — separating fact from interpretation from open question in a group surfaces what it collectively knows versus what it is assuming.
 references:
   - title: The McKinsey Way
     authorYear: Ethan M. Rasiel (1999)

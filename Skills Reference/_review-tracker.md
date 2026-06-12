@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **220**
+- Reviewed (verified + fixed): **221**
 - Flagged: **0**
-- Remaining (todo): **42**
+- Remaining (todo): **41**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -310,7 +310,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#252` **Stakeholder Pre-Wiring** · `Consulting-Craft/stakeholder-pre-wiring.md` · **st:** fixed · **n:** normalized 4 ref formats (Last, F.M./journal → Full Name); backlinks added in power-mapping, influence-without-authority, coalition-building, psychological-safety, commitment-consistency-bias
 - [x] `#253` **Structured Problem Solving** · `Consulting-Craft/structured-problem-solving.md` · **st:** fixed · **n:** normalized 5 ref formats; fixed Minto 1987→1985, Conn 2018→2019; backlinks added in one-thing, outcome-vs-output, situation-assessment, confirmation-bias
 - [x] `#258` **Coaching Stance** · `Consulting-Craft/coaching-stance.md` · **st:** fixed · **n:** refs and content verified clean; backlink added in psychological-safety
-- [ ] `#259` **Facilitation** · `Consulting-Craft/facilitation.md` · **st:** todo · **n:** —
+- [x] `#259` **Facilitation** · `Consulting-Craft/facilitation.md` · **st:** fixed · **n:** subtitle verified correct; backlinks added in psychological-safety, situation-assessment, structured-problem-solving
 
 ## Pre-built Chains (21)
 
