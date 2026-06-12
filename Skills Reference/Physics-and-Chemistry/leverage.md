@@ -21,6 +21,8 @@ connections:
     rationale: internal platforms are the leverage mechanism for managing team cognitive load — they absorb extraneous complexity so stream-aligned teams can focus their budget on the intrinsic problem.
   - id: 154
     rationale: platform teams are the leverage mechanism in Team Topologies — they absorb extraneous load once and multiply the productivity of every stream-aligned team that consumes their service.
+  - id: 156
+    rationale: internal platforms are the highest-leverage dependency reduction tool — eliminating a recurring dependency once returns capacity permanently, compounding across every team that previously carried it.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charlie Munger, ed. Peter Kaufman (2005)

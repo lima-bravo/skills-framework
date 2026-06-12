@@ -31,6 +31,8 @@ connections:
     rationale: Team Topologies is the applied Conway's Law playbook — the four team types and three interaction modes are the operational instruments for executing the Inverse Conway Maneuver.
   - id: 155
     rationale: the Inverse Conway Maneuver is the deliberate application of Conway's Law in reverse — designing organization structure to produce the desired architecture rather than accepting whatever architecture the current org produces.
+  - id: 156
+    rationale: dependencies follow team boundaries — cross-team coupling in the codebase reflects communication lines in the org, making dependency management inseparable from org design.
 references:
   - title: How Do Committees Invent?
     authorYear: Melvin E. Conway, Datamation (1968)

@@ -47,6 +47,8 @@ connections:
     rationale: a Kanban board makes bottlenecks visible through WIP accumulation upstream of the constraint; the method surfaces and sustains constraint awareness daily.
   - id: 139
     rationale: VSM locates the constraint by mapping where the longest queues accumulate — the step with the highest wait time is the current bottleneck.
+  - id: 156
+    rationale: high-fan-in teams are scaled-delivery bottlenecks — when many teams depend on one, that team's capacity becomes the system constraint regardless of its throughput.
 references:
   - title: "The Goal: A Process of Ongoing Improvement"
     authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)

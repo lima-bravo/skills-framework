@@ -36,7 +36,7 @@ references:
 ---
 ## Definition
 
-Dependency management is the operational discipline of identifying, sequencing, and reducing the inter-team blockers that gate the completion of work. In scaled delivery (more than ~5–8 teams), dependencies — not effort — become the binding constraint on throughput and predictability. A 2018 study of large agile programs found that cross-team dependencies accounted for more than 50% of variability in delivery dates. The discipline combines visibility (dependency maps, dependency boards), reduction (architectural and team redesign to eliminate dependencies), and management (explicit handoffs, capacity contracts) — in that order of preference.
+Dependency management is the operational discipline of identifying, sequencing, and reducing the inter-team blockers that gate the completion of work. In scaled delivery (more than ~5–8 teams), dependencies — not effort — become the binding constraint on throughput and predictability. In large agile programs, cross-team dependencies are consistently the dominant source of delivery variability and date slippage — the factor most frequently cited when post-mortems ask why planned work missed its commitment date. The discipline combines visibility (dependency maps, dependency boards), reduction (architectural and team redesign to eliminate dependencies), and management (explicit handoffs, capacity contracts) — in that order of preference.
 
 ---
 
