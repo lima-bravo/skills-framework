@@ -29,6 +29,8 @@ connections:
     rationale: red teams only surface genuine findings when members feel safe to present conclusions that contradict senior stakeholders; psychological safety is the prerequisite for adversarial output that is actually adversarial.
   - id: 252
     rationale: a one-on-one pre-wire conversation only surfaces a real objection when the stakeholder feels safe to voice it; psychological safety is what converts a courtesy check-in into a genuine alignment conversation.
+  - id: 258
+    rationale: coaching stance only works in an environment where clients feel safe to say they don't know or were wrong — without psychological safety, the client manages up rather than engaging honestly with the diagnosis.
 references:
   - title: "The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth"
     authorYear: Amy C. Edmondson (2018)

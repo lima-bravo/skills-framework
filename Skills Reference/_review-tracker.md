@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **219**
+- Reviewed (verified + fixed): **220**
 - Flagged: **0**
-- Remaining (todo): **43**
+- Remaining (todo): **42**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -309,7 +309,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#246` **Situation Assessment** · `Consulting-Craft/situation-assessment.md` · **st:** fixed · **n:** normalized 4 ref formats (Last, F.M. → Full Name); fixed Minto 1987→1985, Conn 2018→2019; backlinks added in calibration, pyramid-principle, survivorship-bias
 - [x] `#252` **Stakeholder Pre-Wiring** · `Consulting-Craft/stakeholder-pre-wiring.md` · **st:** fixed · **n:** normalized 4 ref formats (Last, F.M./journal → Full Name); backlinks added in power-mapping, influence-without-authority, coalition-building, psychological-safety, commitment-consistency-bias
 - [x] `#253` **Structured Problem Solving** · `Consulting-Craft/structured-problem-solving.md` · **st:** fixed · **n:** normalized 5 ref formats; fixed Minto 1987→1985, Conn 2018→2019; backlinks added in one-thing, outcome-vs-output, situation-assessment, confirmation-bias
-- [ ] `#258` **Coaching Stance** · `Consulting-Craft/coaching-stance.md` · **st:** todo · **n:** —
+- [x] `#258` **Coaching Stance** · `Consulting-Craft/coaching-stance.md` · **st:** fixed · **n:** refs and content verified clean; backlink added in psychological-safety
 - [ ] `#259` **Facilitation** · `Consulting-Craft/facilitation.md` · **st:** todo · **n:** —
 
 ## Pre-built Chains (21)
