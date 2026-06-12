@@ -17,6 +17,8 @@ connections:
     rationale: lead time and cycle time both fall out of L = λW; they differ only in where you start the clock.
   - id: 138
     rationale: the Kanban Method is one of the most complete operational implementations of Little's Law; its WIP limits make L = λW a daily management discipline.
+  - id: 141
+    rationale: probabilistic forecasting uses historical throughput and cycle time — both derived from Little's Law — as the core inputs to Monte Carlo simulation.
 references:
   - title: "A Proof for the Queuing Formula: L = λW"
     authorYear: John D. C. Little (1961)

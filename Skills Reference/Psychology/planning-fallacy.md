@@ -25,6 +25,8 @@ connections:
     rationale: "the planning fallacy and Parkinson's Law compound: we underestimate duration, and then fill whatever time we allocate; the result is work that takes exactly as long as planned for the wrong reasons."
   - id: 251
     rationale: "the planning fallacy is the empirical basis for building a realization plan: reference class evidence shows realized benefits consistently run below the business case, which a realization system should detect early rather than be surprised by."
+  - id: 141
+    rationale: probabilistic forecasting is the structural countermeasure to the planning fallacy — it replaces the confident inside-view single estimate with a distribution of actual past performance.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)
