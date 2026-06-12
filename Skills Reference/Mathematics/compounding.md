@@ -25,6 +25,8 @@ connections:
     rationale: compounding is the temporal expression of power law dynamics — multiplicative growth produces the same disproportionality over time that power laws produce across populations.
   - id: 83
     rationale: k > 1 viral growth produces compound user acquisition — each new cohort generates more users than the last, making the growth curve exponential rather than linear.
+  - id: 85
+    rationale: moats compound — each year of defensibility strengthens the next, making durable competitive advantage increasingly hard to dislodge over time.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charlie Munger, ed. Peter Kaufman (2005)

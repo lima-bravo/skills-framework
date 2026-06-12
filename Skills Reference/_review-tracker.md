@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **168**
+- Reviewed (verified + fixed): **169**
 - Flagged: **0**
-- Remaining (todo): **94**
+- Remaining (todo): **93**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -245,7 +245,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#82` **Network Effects** · `Network-Effects/network-effects.md` · **st:** verified · **n:** All 15 backlinks present. Metcalfe's Law, LinkedIn 900M, refs all verified. No changes needed.
 - [x] `#83` **Viral Growth** · `Network-Effects/viral-growth.md` · **st:** fixed · **n:** Fixed Hotmail stat: "500,000 to 12M" → "launch to 12M in 18 months" (web-verified: 0→12M). Added 1 missing backlink (id:75). build + check:counts pass.
 - [x] `#84` **Marketplace** · `Network-Effects/marketplace.md` · **st:** fixed · **n:** Airbnb/Craigslist story verified accurate. Added 3 missing backlinks (ids 82, 22, 101). build + check:counts pass.
-- [ ] `#85` **Defensibility** · `Network-Effects/defensibility.md` · **st:** todo · **n:** —
+- [x] `#85` **Defensibility** · `Network-Effects/defensibility.md` · **st:** fixed · **n:** Refs verified (Greenwald/Kahn 2005, Buffett/Cunningham 1997, Porter 1985) ✓; Amazon multi-moat example accurate ✓; added backlink in compounding (#75). build + check:counts pass.
 
 ## Learning (6)
 
