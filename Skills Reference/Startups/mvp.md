@@ -19,6 +19,8 @@ connections:
     rationale: the MVP is an effectual instrument — a bird-in-hand commitment that produces learning without requiring a fully specified goal.
   - id: 136
     rationale: an MVP is a deliberate batch-size reduction on a product bet — shipping the minimum scope to generate learning rather than waiting for a fully-featured release.
+  - id: 214
+    rationale: Crawl / Walk / Run uses the MVP as the crawl-stage instrument when a product interaction is needed to test the assumption
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)

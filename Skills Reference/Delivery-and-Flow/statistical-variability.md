@@ -19,6 +19,8 @@ connections:
     rationale: short-run extremes will revert; don't overreact.
   - id: 256
     rationale: SLO burn rates are probabilistic; variance in incident frequency must be accounted for in budget management, not just expected value.
+  - id: 214
+    rationale: Crawl / Walk / Run applies statistical variability discipline at the walk stage to distinguish real effects from sampling noise before passing the gate
 references:
   - title: Out of the Crisis
     authorYear: W. Edwards Deming (1986)

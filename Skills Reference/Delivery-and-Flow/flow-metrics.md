@@ -17,6 +17,8 @@ connections:
     rationale: Flow Load makes WIP visible at portfolio scale.
   - id: 138
     rationale: Kanban is the primary system that generates the consistent flow data flow metrics require; without a pull system, the metrics have no stable source.
+  - id: 214
+    rationale: Crawl / Walk / Run uses flow metrics as the operational measurement layer for run-stage experiments on process or delivery mechanisms
 references:
   - title: Project to Product
     authorYear: Mik Kersten (2018)

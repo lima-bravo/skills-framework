@@ -21,6 +21,8 @@ connections:
     rationale: in low-safety environments, evaluators are more likely to anchor on the dominant view rather than submit independent assessments; observer bias is amplified by social pressure
   - id: 218
     rationale: the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence against the observer bias that makes advocacy look like analysis.
+  - id: 214
+    rationale: Crawl / Walk / Run identifies observer bias as the primary crawl-stage risk — the team that built the prototype should not be the sole evaluator of whether it works
 references:
   - title: Pygmalion in the Classroom
     authorYear: Robert Rosenthal & Lenore Jacobson (1968)

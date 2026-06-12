@@ -25,6 +25,8 @@ connections:
     rationale: "the outside-view anchor for building a realization plan: reference class evidence consistently shows realized benefits run below the business case, which is why expecting — and planning for — the gap is the first practitioner heuristic."
   - id: 233
     rationale: where Fermi estimation builds up from factors, reference class forecasting anchors on base rates from comparable cases — use both as cross-checks on each other.
+  - id: 214
+    rationale: Crawl / Walk / Run uses reference class forecasting as the outside-view calibration instrument for interpreting run-stage results
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)

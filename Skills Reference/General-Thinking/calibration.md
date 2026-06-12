@@ -33,6 +33,8 @@ connections:
     rationale: tracking whether Fermi estimates land within the expected range is a calibration exercise — it reveals which decomposition habits are systematically biased.
   - id: 246
     rationale: the discipline of stating confidence levels honestly is what keeps interpretation from being smuggled into a situation assessment as fact — calibration is the standard that keeps the fact/interpretation distinction real.
+  - id: 214
+    rationale: Crawl / Walk / Run relies on calibration at the walk gate — the honesty check on whether 'good enough' thresholds were set before or after seeing the results
 references:
   - title: "Superforecasting: The Art and Science of Prediction"
     authorYear: Philip E. Tetlock & Dan Gardner (2015)
