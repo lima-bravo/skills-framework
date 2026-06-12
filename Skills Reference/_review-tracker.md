@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **140**
+- Reviewed (verified + fixed): **141**
 - Flagged: **0**
-- Remaining (todo): **122**
+- Remaining (todo): **121**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -211,7 +211,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#70` **Innovation Funnel** · `Business/innovation-funnel.md` · **st:** fixed · **n:** structure and ref clean; backlinks added to build-measure-learn and assumption-mapping; portfolio-map and both chain cards already had backlinks
 - [x] `#103` **Jobs to Be Done** · `Startups/jobs-to-be-done.md` · **st:** fixed · **n:** structure, content, and refs clean; backlinks added to customer-development, product-market-fit, build-measure-learn, loss-aversion, activation-energy, inertia, first-principles (7 missing)
 - [x] `#110` **Design Thinking** · `Startups/design-thinking.md` · **st:** fixed · **n:** structure, content, and refs clean; backlinks added to jobs-to-be-done, customer-development, assumption-mapping, build-measure-learn (4 missing; divergent-convergent-thinking already had one)
-- [ ] `#111` **Crossing the Chasm** · `Startups/crossing-the-chasm.md` · **st:** todo · **n:** —
+- [x] `#111` **Crossing the Chasm** · `Startups/crossing-the-chasm.md` · **st:** fixed · **n:** structure, content, and refs clean; backlinks added to s-curves, product-market-fit, network-effects, critical-mass; disruptive-innovation already had one
 - [ ] `#112` **Disruptive Innovation** · `Business/disruptive-innovation.md` · **st:** todo · **n:** —
 - [ ] `#113` **Three Horizons** · `Business/three-horizons.md` · **st:** todo · **n:** —
 - [ ] `#172` **Ambidextrous Organization** · `Business/ambidextrous-organization.md` · **st:** todo · **n:** —

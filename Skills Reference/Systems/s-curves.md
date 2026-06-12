@@ -25,6 +25,8 @@ connections:
     rationale: path dependence locks organisations onto mature S-curves; platform shifts create new curves where switching costs are temporarily lower, enabling a path exit.
   - id: 239
     rationale: "Long Tail markets often follow an S-curve adoption pattern: slow initial tail growth as discovery infrastructure is built, then rapid expansion as recommendation and search mature."
+  - id: 111
+    rationale: the chasm sits at the inflection point on the S-curve between early adopters and the early majority; crossing it is what allows the adoption curve to steepen into its growth phase.
 references:
   - title: Diffusion of Innovations
     authorYear: Everett M. Rogers (1962; 5th ed. 2003)

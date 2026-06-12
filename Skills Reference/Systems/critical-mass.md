@@ -17,6 +17,8 @@ connections:
     rationale: "critical mass is a specific threshold in a scale curve: the point at which a scale effect activates or a network becomes self-sustaining."
   - id: 102
     rationale: "the inflection point of an S-curve often coincides with reaching critical mass: the moment adoption accelerates under its own momentum."
+  - id: 111
+    rationale: in network-effect businesses, the chasm beachhead must reach critical mass within its community before network effects sustain the expansion into adjacent segments.
 references:
   - title: Diffusion of Innovations
     authorYear: Everett M. Rogers (1962; 5th ed. 2003)
