@@ -35,6 +35,8 @@ connections:
     rationale: consistency bias is the motivational barrier that falsification must overcome; the discipline of seeking disconfirming evidence runs directly against the pull toward defending prior positions
   - id: 206
     rationale: base rate anchoring is a form of outside-view challenge to inside-view narratives; both practices discipline against uncritical acceptance of the case in front of you
+  - id: 228
+    rationale: falsificationist thinking is the qualitative version of seeking high-diagnostic evidence — Bayesian updating quantifies how much that evidence should move a belief.
 references:
   - title: The Logic of Scientific Discovery
     authorYear: Karl Popper (1934; English trans. 1959)

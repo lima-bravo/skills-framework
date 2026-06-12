@@ -21,6 +21,8 @@ connections:
     rationale: base rate neglect is the most common source of overconfidence; good calibration requires anchoring on base rates before adjusting for specifics
   - id: 227
     rationale: base rate neglect is the most common source of miscalibrated probabilities feeding into EV calculations — overconfident priors produce overstated expected values.
+  - id: 228
+    rationale: the most common failure in constructing a Bayesian prior — ignoring base rates means all subsequent updates are anchored incorrectly from the start.
 references:
   - title: '"On the Psychology of Prediction"'
     authorYear: Daniel Kahneman & Amos Tversky (1973), *Psychological Review*, 80(4)

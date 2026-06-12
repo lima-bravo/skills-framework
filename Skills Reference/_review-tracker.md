@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **162**
+- Reviewed (verified + fixed): **163**
 - Flagged: **0**
-- Remaining (todo): **100**
+- Remaining (todo): **99**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -236,7 +236,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#80` **Surface Area** · `Mathematics/surface-area.md` · **st:** fixed · **n:** Content and ref verified clean (Taleb Antifragile 2012 correct). Added 3 missing backlinks (ids 82, 41, 24). build + check:counts pass.
 - [x] `#81` **Multiply by Zero** · `Mathematics/multiply-by-zero.md` · **st:** fixed · **n:** Content and ref verified clean (Goldratt & Cox 1984 correct). Added 3 missing backlinks (ids 18, 0, 24). build + check:counts pass.
 - [x] `#227` **Expected Value** · `Mathematics/expected-value.md` · **st:** fixed · **n:** EV math in Mental Model and Worked Example verified correct. Refs verified (Duke 2018, Bernstein 1996, Kahneman 2011). Added 4 missing backlinks (ids 211, 12, 24, 206). build + check:counts pass.
-- [ ] `#228` **Bayesian Updating** · `Mathematics/bayesian-updating.md` · **st:** todo · **n:** —
+- [x] `#228` **Bayesian Updating** · `Mathematics/bayesian-updating.md` · **st:** fixed · **n:** Bayesian posterior calculation verified correct (62%). Refs verified clean. Added 5 missing backlinks (ids 206, 211, 55, 204, 201). build + check:counts pass.
 - [ ] `#233` **Fermi Estimation** · `Mathematics/fermi-estimation.md` · **st:** todo · **n:** —
 - [ ] `#238` **Power Law** · `Mathematics/power-law.md` · **st:** todo · **n:** —
 

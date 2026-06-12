@@ -27,6 +27,8 @@ connections:
     rationale: setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal; calibration is the cognitive discipline behind threshold design.
   - id: 227
     rationale: EV calculations are only as good as the probability estimates feeding into them — calibration is the discipline that makes those estimates accurate rather than overconfident.
+  - id: 228
+    rationale: calibrated probability estimates are the foundation of good priors — Bayesian updating assumes you can assign meaningful likelihoods, which requires calibration to be valid.
 references:
   - title: "Superforecasting: The Art and Science of Prediction"
     authorYear: Philip E. Tetlock & Dan Gardner (2015)

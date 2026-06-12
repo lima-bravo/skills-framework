@@ -15,6 +15,8 @@ connections:
     rationale: proactively creates a written record of uncertainty before the outcome is known, providing an honest baseline for later retrospection
   - id: 200
     rationale: hindsight bias inflates the perceived foreseeability of outcomes; FAE then attributes the failure to miss them to character rather than the genuine difficulty of prediction
+  - id: 228
+    rationale: failure to record the prior before seeing evidence makes it impossible to know whether you updated correctly — hindsight bias retrospectively distorts what the prior was.
 references:
   - title: '"Hindsight ≠ Foresight: The Effect of Outcome Knowledge on Judgment Under Uncertainty"'
     authorYear: "Baruch Fischhoff (1975), *Journal of Experimental Psychology: Human Perception and Performance*, 1(3)"

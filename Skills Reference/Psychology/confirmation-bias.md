@@ -53,6 +53,8 @@ connections:
     rationale: dominant logic is confirmation bias institutionalized at the organizational level — the firm systematically attends to evidence that confirms its existing theory of the business.
   - id: 79
     rationale: convenience sampling operationalizes confirmation bias at the data-collection stage — selecting a sample that is predisposed to confirm the hypothesis under investigation.
+  - id: 228
+    rationale: the psychological tendency to under-update on disconfirming evidence is the main enemy of good Bayesian practice — confirmation bias selectively applies updates that align with the prior.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)
