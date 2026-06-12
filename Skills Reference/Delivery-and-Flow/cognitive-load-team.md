@@ -22,6 +22,9 @@ connections:
   - id: 149
     rationale: context-switching imposes extraneous cognitive load at the team level — every switch between unrelated work types burns working memory that could otherwise serve the current task.
 references:
+  - title: "Cognitive Load During Problem Solving: Effects on Learning"
+    authorYear: John Sweller (1988)
+    supports: the original taxonomy of intrinsic, extraneous, and germane cognitive load — the theoretical foundation the card's three-type framework draws on.
   - title: "Team Topologies: Organizing Business and Technology Teams for Fast Flow"
     authorYear: Matthew Skelton & Manuel Pais (2019)
     supports: the Team Topologies framework for designing team structures explicitly around cognitive load limits.

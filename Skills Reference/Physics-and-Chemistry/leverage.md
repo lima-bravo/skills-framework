@@ -17,6 +17,8 @@ connections:
     rationale: a catalyst creates leverage by making others more productive; the reusable mechanism produces compounding rather than linear returns.
   - id: 80
     rationale: high surface area creates high leverage — each public artefact or connection multiplies inbound opportunities, acting as a force multiplier for effort.
+  - id: 150
+    rationale: internal platforms are the leverage mechanism for managing team cognitive load — they absorb extraneous complexity so stream-aligned teams can focus their budget on the intrinsic problem.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charlie Munger, ed. Peter Kaufman (2005)

@@ -164,7 +164,7 @@ Canonical numbers (do not hand-type these anywhere without updating the prose to
 | Categories | distinct `category` values | 16 |
 | Pre-built chains | category = `Pre-built Chains` | 21 |
 | Non-chain cards | total − chains | 241 |
-| Sources / references | `manifest.refs.length` | 374 |
+| Sources / references | `manifest.refs.length` | 375 |
 | Graph connections | generated `docs/graph.html` | 1072 |
 | Plugin (Cowork) skills | `SKILL.md` count under `plugins/` | 59 |
 

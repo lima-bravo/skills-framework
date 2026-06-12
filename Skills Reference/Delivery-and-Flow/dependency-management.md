@@ -15,6 +15,8 @@ connections:
     rationale: high-fan-in teams are scaled-delivery bottlenecks.
   - id: 41
     rationale: internal platforms are the leverage mechanism that reduces dependencies structurally.
+  - id: 150
+    rationale: dependencies are a major source of extraneous cognitive load — every external dependency a team must coordinate with is mental overhead that doesn't serve the team's core problem.
 references:
   - title: Team Topologies
     authorYear: Matthew Skelton & Manuel Pais (2019)

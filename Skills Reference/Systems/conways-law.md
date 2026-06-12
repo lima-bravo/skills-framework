@@ -25,6 +25,8 @@ connections:
     rationale: DORA performance correlates with team-aligned-to-stream architecture; Conway's Law explains why — teams whose structure matches their delivery boundary have fewer coordination-induced lead-time failures.
   - id: 147
     rationale: gemba walks surface the org boundaries that show up as flow problems — the handoffs that take longest almost always cross team boundaries that Conway's Law predicts.
+  - id: 150
+    rationale: Conway's Law and cognitive load are mutually determining — the architecture a team owns shapes its cognitive load, and the load a team can bear constrains the architecture it can sustain.
 references:
   - title: How Do Committees Invent?
     authorYear: Melvin E. Conway, Datamation (1968)
