@@ -21,6 +21,8 @@ connections:
     rationale: "Long Tail economics are a mechanism of creative destruction: digital distribution destroys hit-dependent incumbent models and creates platform-aggregator models in their place."
   - id: 71
     rationale: H3 bets are the organisation's hedge against being destroyed; portfolio strategy and creative destruction together define why exploration investment is not optional.
+  - id: 76
+    rationale: large-scale local maxima (optimised industry structures) are escaped through creative destruction — the discontinuous move that incumbents resist because it requires abandoning a well-optimised peak.
 references:
   - title: Capitalism, Socialism and Democracy
     authorYear: Joseph A. Schumpeter (1942)
