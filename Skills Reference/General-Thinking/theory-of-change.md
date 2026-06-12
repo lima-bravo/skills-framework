@@ -25,6 +25,8 @@ connections:
     rationale: each OKR Key Result embeds a compressed Theory of Change — "if we move this metric, the Objective will be achieved because of this causal link"; making that assumption explicit is what separates honest KRs from activity lists.
   - id: 161
     rationale: a strategy stated as a falsifiable hypothesis is a Theory of Change — both disciplines require making the assumed causal links explicit so they can be tested rather than assumed.
+  - id: 164
+    rationale: the design phase of an engagement articulates the Theory of Change — the causal logic linking proposed interventions to the outcomes the client has agreed to pursue.
 references:
   - title: Realistic Evaluation
     authorYear: Ray Pawson & Nick Tilley (1997)

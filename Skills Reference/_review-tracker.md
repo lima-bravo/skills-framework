@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **214**
+- Reviewed (verified + fixed): **215**
 - Flagged: **0**
-- Remaining (todo): **48**
+- Remaining (todo): **47**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -304,7 +304,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#161` **Hypothesis-Driven Consulting** · `Consulting-Craft/hypothesis-driven.md` · **st:** fixed · **n:** fixed Minto year 1987→1985, Conn & McLean year 2018→2019; backlinks added in experiment-design, pre-mortem, theory-of-change
 - [x] `#162` **MECE** · `Consulting-Craft/mece.md` · **st:** fixed · **n:** fixed Minto year 1987→1985, Conn & McLean year 2018→2019, aligned abbreviated titles; backlinks added in first-principles, socratic-thinking, trade-offs
 - [x] `#163` **Pyramid Principle** · `Consulting-Craft/pyramid-principle.md` · **st:** fixed · **n:** fixed Minto year 1987→1985 in body and refs, aligned title; backlinks added in framing, audience
-- [ ] `#164` **Engagement Lifecycle** · `Consulting-Craft/engagement-lifecycle.md` · **st:** todo · **n:** —
+- [x] `#164` **Engagement Lifecycle** · `Consulting-Craft/engagement-lifecycle.md` · **st:** fixed · **n:** backlinks added in mission-command, theory-of-change, change-management, hypothesis-driven, facilitation; content and refs verified clean
 - [ ] `#165` **Contracting & Scope** · `Consulting-Craft/contracting-scope.md` · **st:** todo · **n:** —
 - [ ] `#246` **Situation Assessment** · `Consulting-Craft/situation-assessment.md` · **st:** todo · **n:** —
 - [ ] `#252` **Stakeholder Pre-Wiring** · `Consulting-Craft/stakeholder-pre-wiring.md` · **st:** todo · **n:** —

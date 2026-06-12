@@ -25,6 +25,8 @@ connections:
     rationale: "Overton Window analysis is a prerequisite for change management: understanding what the organisation is currently prepared to accept determines sequencing and pacing."
   - id: 167
     rationale: "the missing chapter in most change-management playbooks: why willing, intelligent people consistently fail to change even when the plan is clear."
+  - id: 164
+    rationale: the design and deliver phases of an engagement lifecycle run diagnosis and change in parallel; change management provides the model for moving stakeholders through transition while delivery executes.
 references:
   - title: Leading Change
     authorYear: John Kotter, 1996

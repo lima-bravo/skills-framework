@@ -15,6 +15,8 @@ connections:
     rationale: a well-facilitated session is an effective diagnostic tool; the process of separating fact from interpretation from open question in a group surfaces what the group collectively knows vs. what it is assuming.
   - id: 253
     rationale: MECE issue-tree construction can be done as a facilitated group activity; this distributes the framing work and increases the likelihood that important branches are not missed by a single analyst.
+  - id: 164
+    rationale: workshop and discovery phases of the engagement lifecycle require facilitation design; the structure of the session determines whose intelligence the work draws on.
 references:
   - title: "The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation"
     authorYear: Henri Lipmanowicz & Keith McCandless (2014)
