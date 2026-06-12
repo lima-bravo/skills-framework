@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **165**
+- Reviewed (verified + fixed): **166**
 - Flagged: **0**
-- Remaining (todo): **97**
+- Remaining (todo): **96**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -242,7 +242,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## Network Effects (4)
 
-- [ ] `#82` **Network Effects** · `Network-Effects/network-effects.md` · **st:** todo · **n:** —
+- [x] `#82` **Network Effects** · `Network-Effects/network-effects.md` · **st:** verified · **n:** All 15 backlinks present. Metcalfe's Law, LinkedIn 900M, refs all verified. No changes needed.
 - [ ] `#83` **Viral Growth** · `Network-Effects/viral-growth.md` · **st:** todo · **n:** —
 - [ ] `#84` **Marketplace** · `Network-Effects/marketplace.md` · **st:** todo · **n:** —
 - [ ] `#85` **Defensibility** · `Network-Effects/defensibility.md` · **st:** todo · **n:** —
