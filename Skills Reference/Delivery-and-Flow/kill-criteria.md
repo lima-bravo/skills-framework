@@ -31,6 +31,8 @@ connections:
     rationale: every credible business case must state its kill condition at approval time; a case without one is implicitly claiming the investment is unconditional, which is never true.
   - id: 224
     rationale: red team findings often generate the conditions that should be pre-specified as kill criteria; converting adversarial output into operationally binding exit conditions is how the exercise produces durable accountability.
+  - id: 189
+    rationale: kill criteria applied at each rung of the Experiment Ladder prevent motivated reasoning from carrying a failing assumption forward to a more expensive test.
   - id: 241
     rationale: "kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth."
 references:

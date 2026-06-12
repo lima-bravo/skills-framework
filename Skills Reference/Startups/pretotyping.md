@@ -21,6 +21,8 @@ connections:
     rationale: time-to-first-experiment improves when teams use pretotyping techniques; cheap demand tests before expensive builds compress the pipeline clock.
   - id: 7
     rationale: interpreting pretotype results requires holding the result as a probability update, not a confirmation or refutation; a 12% Fake Door click rate shifts the probability of demand, it doesn't prove or disprove it.
+  - id: 189
+    rationale: pretotyping sits at the simulation rung of the Experiment Ladder — cheap demand tests before expensive builds that test desirability without building.
 references:
   - title: "The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed"
     authorYear: Alberto Savoia (2019)

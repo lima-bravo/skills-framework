@@ -19,6 +19,8 @@ connections:
     rationale: JTBD gives customer development interviews a precise structure — the struggling moment and four forces define exactly what to surface and why.
   - id: 182
     rationale: customer development is the project-level methodology; continuous discovery is the always-on practice that sustains customer understanding after the initial development stage.
+  - id: 189
+    rationale: customer development interviews are the primary instrument at the discovery rung of the Experiment Ladder — the cheapest level for testing whether a problem is real.
   - id: 110
     rationale: design thinking and customer development share field-based learning before solution building; design thinking adds structured ideation and rapid prototyping to the toolkit.
 references:

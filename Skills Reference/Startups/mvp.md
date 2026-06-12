@@ -13,6 +13,8 @@ connections:
     rationale: customer development generates the hypotheses that the MVP tests.
   - id: 181
     rationale: pretotyping answers the demand question that precedes the MVP; an MVP is built after pretotyping confirms there is an audience worth building for.
+  - id: 189
+    rationale: the MVP is one instrument at the product rung of the Experiment Ladder — not a synonym for the ladder itself, and not the right tool for every assumption.
   - id: 175
     rationale: the MVP is an effectual instrument — a bird-in-hand commitment that produces learning without requiring a fully specified goal.
 references:

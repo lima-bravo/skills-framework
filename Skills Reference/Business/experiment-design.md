@@ -31,6 +31,8 @@ connections:
     rationale: assumption mapping defines which hypotheses to test; experiment design specifies how to test each one validly.
   - id: 181
     rationale: pretotype techniques are specific experiment designs optimized for demand testing; the choice of technique follows from what assumption is being tested.
+  - id: 189
+    rationale: the Experiment Ladder selects which type of experiment to run; Experiment Design provides the discipline for running any individual test rigorously.
   - id: 67
     rationale: innovation accounting consumes experiment design output; the validity of learning metrics depends on the rigor of the experiments that generate them.
 references:
