@@ -49,13 +49,13 @@ Every outcome has two components: a stable component (underlying quality or abil
 - **Reward sustained performance, not single-period extremes.** Individual-period top performers often regress; multi-period top performers are more likely to be genuine outliers. Hire and promote based on sustained track record.
 - **In investment, be sceptical of recent extreme performers.** A fund that has produced exceptional returns for two years is more likely to revert toward the mean than continue to outperform — unless there is evidence of a structural advantage that produced the returns.
 - **Avoid the intervention trap.** When a bad outcome triggers an intervention, the outcome was likely to improve anyway (regression). The intervention appears to have worked, creating a false belief in its effectiveness. Require proper control conditions before attributing improvement to an intervention.
-- **Mean reversion is statistical, not deterministic.** Regression to the mean says the distribution of future outcomes is centerd on the mean — not that any specific future outcome will equal the mean. The variance around the mean is just as important as the central tendency.
+- **Mean reversion is statistical, not deterministic.** Regression to the mean says the distribution of future outcomes is centered on the mean — not that any specific future outcome will equal the mean. The variance around the mean is just as important as the central tendency.
 
 ---
 
 ## Common Failure Modes
 
-- **Punishing success and rewarding failure through regression misattribution.** If the top performers are praized and regress, while the bottom performers are criticized and improve, the apparent lesson (praise makes you worse, criticism makes you better) is backwards. Both effects are regression to the mean.
+- **Punishing success and rewarding failure through regression misattribution.** If the top performers are praised and regress, while the bottom performers are criticized and improve, the apparent lesson (praise makes you worse, criticism makes you better) is backwards. Both effects are regression to the mean.
 - **Confusing mean reversion with equilibrium return.** In markets, the mean to which things revert is not always the historical average — it may be a changing fundamental value.
 
 ---

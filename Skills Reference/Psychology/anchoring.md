@@ -21,6 +21,8 @@ connections:
     rationale: both exploit reference dependence; anchoring sets a numerical reference point, social proof sets a behavioural one.
   - id: 219
     rationale: initial price points become anchors that are very hard to raise later; the most expensive pricing mistake is starting too low, because customers anchor to that level and experience increases as losses.
+  - id: 77
+    rationale: recent extreme performance anchors expectations in a way that regression to the mean will frustrate — the anchor persists after the statistical inevitability of moderation.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)

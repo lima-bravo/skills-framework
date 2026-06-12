@@ -15,6 +15,8 @@ connections:
     rationale: "availability bias amplifies Gresham's Law in information markets: cheap-to-produce, vivid content outcompetes careful analysis when both circulate in the same undifferentiated feed."
   - id: 249
     rationale: the loudest, most visible customer segment is often over-weighted in strategy because of availability bias; segmentation discipline is a structural countermeasure.
+  - id: 77
+    rationale: vivid recent extreme outcomes are over-available and lead to over-attribution of the extreme performance to stable causes, masking the statistical pull toward the mean.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)
