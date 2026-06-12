@@ -57,6 +57,8 @@ connections:
     rationale: the psychological tendency to under-update on disconfirming evidence is the main enemy of good Bayesian practice — confirmation bias selectively applies updates that align with the prior.
   - id: 105
     rationale: the primary purpose of pre-built chain structure is to prevent confirmation bias from narrowing analysis to only the models that support the preferred conclusion.
+  - id: 253
+    rationale: the posture's hardest discipline — willingness to rewrite the day-one hypothesis when analysis contradicts it — exists specifically to defend against confirmation bias, the most corrosive failure mode of hypothesis-led work.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)

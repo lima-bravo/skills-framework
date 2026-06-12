@@ -23,20 +23,20 @@ connections:
     rationale: the failure mode that the posture's hardest discipline — willingness to rewrite the day-one answer — exists specifically to defend against.
 references:
   - title: The Pyramid Principle
-    authorYear: Minto, B. (1987)
-    supports: The structural backbone of answer-first communication, and of MECE decomposition as a thinking tool rather than merely a presentation device.
+    authorYear: Barbara Minto (1985)
+    supports: the structural backbone of answer-first communication, and of MECE decomposition as a thinking tool rather than merely a presentation device.
   - title: The McKinsey Way
-    authorYear: Rasiel, E. M. (1999)
-    supports: The original articulation of "fact-based, structured, hypothesis-driven" as an integrated way of working rather than separable techniques.
+    authorYear: Ethan M. Rasiel (1999)
+    supports: the original articulation of fact-based, structured, hypothesis-driven as an integrated way of working rather than separable techniques.
   - title: Bulletproof Problem Solving
-    authorYear: Conn, C. & McLean, R. (2018)
-    supports: The most complete modern treatment of these components as a single integrated method — issue trees, prioritization, hypothesis testing, and synthesis treated as one discipline.
+    authorYear: Charles Conn & Robert McLean (2019)
+    supports: the most complete modern treatment of these components as a single integrated method — issue trees, prioritization, hypothesis testing, and synthesis treated as one discipline.
   - title: Cours d'économie politique
-    authorYear: Pareto, V. (1896)
+    authorYear: Vilfredo Pareto (1896)
     supports: Pareto's original formulation of the 80/20 distribution — the empirical basis for the posture's focus discipline.
   - title: A Leader's Framework for Decision Making
-    authorYear: Snowden, D. J. & Boone, M. E. (2007) — Harvard Business Review
-    supports: The Cynefin distinctions that define where this posture applies cleanly — and where forcing it produces false confidence.
+    authorYear: David J. Snowden & Mary E. Boone (HBR, 2007)
+    supports: the Cynefin distinctions that define where this posture applies cleanly — and where forcing it produces false confidence.
 ---
 
 # Structured Problem Solving

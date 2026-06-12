@@ -23,6 +23,8 @@ connections:
     rationale: where situation assessment surfaces what is known and believed about the current state, assumption mapping applies the same fact/belief separation to the load-bearing claims behind a specific strategy.
   - id: 248
     rationale: profit pool analysis is one lens within a broader current-state view; it specialises the "market position" and "financial performance" dimensions into a single structural question about where profit concentrates and why.
+  - id: 253
+    rationale: situation assessment is the diagnostic discipline that should run before the structured problem-solving posture engages — you cannot frame a credible day-one hypothesis about a situation you haven't honestly looked at.
 references:
   - title: The McKinsey Way
     authorYear: Ethan M. Rasiel (1999)

@@ -17,6 +17,8 @@ connections:
     rationale: the one thing should be an outcome statement.
   - id: 166
     rationale: "Rumelt's coherent action requires the same discipline: a short, mutually reinforcing set of commitments that rule things out, not a comprehensive list of everything desirable."
+  - id: 253
+    rationale: the 80/20 focus component of structured problem solving specialises into this operating habit — of all that could matter, which one thing, if done, makes the rest easier or unnecessary.
 references:
   - title: The One Thing
     authorYear: Gary Keller & Jay Papasan (2013)
