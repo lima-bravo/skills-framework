@@ -47,6 +47,8 @@ connections:
     rationale: small batches are how BML cycles stay fast; batch-size reduction is the delivery mechanism that makes rapid build-measure-learn iterations operationally viable.
   - id: 144
     rationale: outcomes are the "measure" in Build-Measure-Learn; a loop that only measures outputs (features shipped, experiments run) is cycling without learning.
+  - id: 146
+    rationale: PDCA is the formal ancestor of Build-Measure-Learn; BML is the lean startup restatement of the same plan-experiment-check-act discipline for product iteration.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)

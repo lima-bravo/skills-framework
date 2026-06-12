@@ -15,6 +15,8 @@ connections:
     rationale: holding multiple orientations in parallel
   - id: 10
     rationale: stress-testing the current orientation by running the loop backwards
+  - id: 146
+    rationale: PDCA and OODA are both iterative learning cycles; OODA is the faster, decision-making variant applied in competitive environments where speed of orientation matters more than prediction accuracy.
 references:
   - title: "boyd: The Fighter Pilot Who Changed the Art of War"
     authorYear: Robert Coram, 2002

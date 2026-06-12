@@ -39,6 +39,8 @@ connections:
     rationale: "the pre-mortem applies falsification thinking prospectively: imagining the plan has failed is asking \"what evidence would show this doesn't work?\""
   - id: 123
     rationale: pre-mortem probes a single decision for failure modes; scenario planning probes the environment for the range of futures a strategy must survive.
+  - id: 146
+    rationale: the pre-mortem disciplines PDCA's Plan step — imagining failure modes before acting is the same analytical move as writing down a testable prediction before running the experiment.
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)
