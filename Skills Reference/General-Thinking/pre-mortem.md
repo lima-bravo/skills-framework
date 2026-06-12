@@ -45,6 +45,8 @@ connections:
     rationale: pre-mortem findings are a primary source of kill criteria — the failure modes imagined in a pre-mortem become the observable conditions that trigger stopping if they materialise.
   - id: 160
     rationale: reference class forecasting and the pre-mortem are complementary outside-view techniques — RCF asks what happened to similar projects; the pre-mortem asks what could go wrong in this one; together they bound the failure space.
+  - id: 161
+    rationale: imagining the hypothesis is wrong — and asking what evidence would confirm that — is the pre-mortem applied to hypothesis-driven work; both tools treat the absence of a strong disconfirmation case as a warning sign.
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

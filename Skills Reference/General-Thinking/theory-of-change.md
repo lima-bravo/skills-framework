@@ -23,6 +23,8 @@ connections:
     rationale: an A3's countermeasures section is a compressed Theory of Change — "if we change X, we expect Y to move because Z"; the A3 format operationalises the causal logic on one page.
   - id: 152
     rationale: each OKR Key Result embeds a compressed Theory of Change — "if we move this metric, the Objective will be achieved because of this causal link"; making that assumption explicit is what separates honest KRs from activity lists.
+  - id: 161
+    rationale: a strategy stated as a falsifiable hypothesis is a Theory of Change — both disciplines require making the assumed causal links explicit so they can be tested rather than assumed.
 references:
   - title: Realistic Evaluation
     authorYear: Ray Pawson & Nick Tilley (1997)

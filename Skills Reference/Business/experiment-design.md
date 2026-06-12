@@ -35,6 +35,8 @@ connections:
     rationale: the Experiment Ladder selects which type of experiment to run; Experiment Design provides the discipline for running any individual test rigorously.
   - id: 67
     rationale: innovation accounting consumes experiment design output; the validity of learning metrics depends on the rigor of the experiments that generate them.
+  - id: 161
+    rationale: hypothesis-driven consulting frames the analysis as a testable bet; experiment design supplies the operational discipline for running each test rigorously rather than gathering evidence informally.
 references:
   - title: The Design of Experiments
     authorYear: Ronald A. Fisher (1935)

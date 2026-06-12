@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **211**
+- Reviewed (verified + fixed): **212**
 - Flagged: **0**
-- Remaining (todo): **51**
+- Remaining (todo): **50**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -301,7 +301,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## Consulting Craft (10)
 
-- [ ] `#161` **Hypothesis-Driven Consulting** · `Consulting-Craft/hypothesis-driven.md` · **st:** todo · **n:** —
+- [x] `#161` **Hypothesis-Driven Consulting** · `Consulting-Craft/hypothesis-driven.md` · **st:** fixed · **n:** fixed Minto year 1987→1985, Conn & McLean year 2018→2019; backlinks added in experiment-design, pre-mortem, theory-of-change
 - [ ] `#162` **MECE** · `Consulting-Craft/mece.md` · **st:** todo · **n:** —
 - [ ] `#163` **Pyramid Principle** · `Consulting-Craft/pyramid-principle.md` · **st:** todo · **n:** —
 - [ ] `#164` **Engagement Lifecycle** · `Consulting-Craft/engagement-lifecycle.md` · **st:** todo · **n:** —

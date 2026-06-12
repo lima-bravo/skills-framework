@@ -28,10 +28,10 @@ references:
     authorYear: Ethan M. Rasiel (1999)
     supports: Rasiel's account of McKinsey's problem-solving approach; the pyramid, issue tree, and hypothesis-driven consulting methodology.
   - title: The Pyramid Principle
-    authorYear: Barbara Minto (1987)
+    authorYear: Barbara Minto (1985)
     supports: the communication structure that makes hypothesis-driven analysis presentable — conclusion first, evidence second.
   - title: Bulletproof Problem Solving
-    authorYear: Charles Conn & Robert McLean (2018)
+    authorYear: Charles Conn & Robert McLean (2019)
     supports: the modern treatment of structured problem solving; seven-step logic tree methodology applied to complex business problems.
 ---
 
