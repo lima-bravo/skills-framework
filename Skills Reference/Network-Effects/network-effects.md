@@ -35,6 +35,8 @@ connections:
     rationale: open ecosystems and platform strategies often generate network effects that amplify the value of open innovation approaches; openness can accelerate adoption and strengthen the network.
   - id: 80
     rationale: surface area determines the surface over which network effects can operate — a wider interface with the world means more potential nodes connecting to the network.
+  - id: 84
+    rationale: marketplace value grows through cross-side network effects — more buyers attract more sellers and vice versa, making the network more valuable for both sides.
 references:
   - title: "Platform Revolution: How Networked Markets Are Transforming the Economy"
     authorYear: G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016)

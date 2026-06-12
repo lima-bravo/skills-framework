@@ -21,6 +21,8 @@ connections:
     rationale: trust is built relationally within Dunbar limits; above them, it must be institutionalised through transparency, track record, and structural accountability rather than personal relationship.
   - id: 232
     rationale: high trust groups self-regulate free riding through social norms and reputational pressure; low trust groups need structural mechanisms.
+  - id: 84
+    rationale: marketplace trust infrastructure — reviews, identity verification, payments, dispute resolution — is the mechanism that makes transactions between strangers possible.
 references:
   - title: "The Speed of Trust: The One Thing That Changes Everything"
     authorYear: Stephen M.R. Covey & Rebecca R. Merrill (2006)

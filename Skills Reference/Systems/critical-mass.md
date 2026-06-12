@@ -19,6 +19,8 @@ connections:
     rationale: "the inflection point of an S-curve often coincides with reaching critical mass: the moment adoption accelerates under its own momentum."
   - id: 111
     rationale: in network-effect businesses, the chasm beachhead must reach critical mass within its community before network effects sustain the expansion into adjacent segments.
+  - id: 84
+    rationale: marketplace liquidity is the specific form of critical mass for marketplace models — the point at which supply and demand are dense enough that most searches are fulfilled.
 references:
   - title: Diffusion of Innovations
     authorYear: Everett M. Rogers (1962; 5th ed. 2003)
