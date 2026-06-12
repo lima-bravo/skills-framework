@@ -21,6 +21,8 @@ connections:
     rationale: "each step through the adjacent possible compounds: entering a new room opens new doors unavailable from the previous one, so early moves have value beyond the immediate problem they solve."
   - id: 36
     rationale: unserviced debt compounds the same way returns do but in the wrong direction; compounding explains why small deferrals become existential obligations.
+  - id: 238
+    rationale: compounding is the temporal expression of power law dynamics — multiplicative growth produces the same disproportionality over time that power laws produce across populations.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charlie Munger, ed. Peter Kaufman (2005)

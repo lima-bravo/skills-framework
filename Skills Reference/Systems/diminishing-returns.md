@@ -21,6 +21,8 @@ connections:
     rationale: diminishing returns set the curve that determines where to stop allocating in pursuit of efficiency gains.
   - id: 71
     rationale: portfolio strategy explicitly hedges against H1 diminishing returns by maintaining investment across all three horizons.
+  - id: 238
+    rationale: where power laws drive concentration and winner-take-most outcomes, diminishing returns create limits — understanding which dynamic applies determines the right investment strategy.
 references:
   - title: Principles of Political Economy and Taxation
     authorYear: David Ricardo (1817)

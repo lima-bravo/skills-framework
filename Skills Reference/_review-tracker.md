@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **164**
+- Reviewed (verified + fixed): **165**
 - Flagged: **0**
-- Remaining (todo): **98**
+- Remaining (todo): **97**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -238,7 +238,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#227` **Expected Value** · `Mathematics/expected-value.md` · **st:** fixed · **n:** EV math in Mental Model and Worked Example verified correct. Refs verified (Duke 2018, Bernstein 1996, Kahneman 2011). Added 4 missing backlinks (ids 211, 12, 24, 206). build + check:counts pass.
 - [x] `#228` **Bayesian Updating** · `Mathematics/bayesian-updating.md` · **st:** fixed · **n:** Bayesian posterior calculation verified correct (62%). Refs verified clean. Added 5 missing backlinks (ids 206, 211, 55, 204, 201). build + check:counts pass.
 - [x] `#233` **Fermi Estimation** · `Mathematics/fermi-estimation.md` · **st:** fixed · **n:** Fixed false "teacher Fermi" claim in Feynman Lectures supports field (Fermi was colleague at Los Alamos, not Feynman's teacher — Wheeler was). Worked example math verified. Added 5 missing backlinks (ids 0, 7, 160, 211, 3). build + check:counts pass.
-- [ ] `#238` **Power Law** · `Mathematics/power-law.md` · **st:** todo · **n:** —
+- [x] `#238` **Power Law** · `Mathematics/power-law.md` · **st:** fixed · **n:** Content and refs verified clean (Anderson 2006, West 2017 correct). Added 5 missing backlinks (ids 75, 23, 227, 24, 78). build + check:counts pass.
 
 ## Network Effects (4)
 

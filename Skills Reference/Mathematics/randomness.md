@@ -11,6 +11,8 @@ connections:
     rationale: regression to the mean is a specific, predictable form of randomness.
   - id: 79
     rationale: the quality of signals depends on sample size; small samples are dominated by randomness.
+  - id: 238
+    rationale: power law and normal distributions are both random processes but with fundamentally different properties — confusing them is the core analytical error in fat-tailed domains.
 references:
   - title: "Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets"
     authorYear: Nassim Nicholas Taleb (2001)

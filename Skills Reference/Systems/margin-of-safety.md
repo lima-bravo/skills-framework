@@ -33,6 +33,8 @@ connections:
     rationale: zeros are the risks that margin of safety is most critical for — a zero factor produces total loss, making reserve capacity the difference between survival and collapse.
   - id: 227
     rationale: EV ignores variance; Margin of Safety is the corrective when downside is catastrophic — a positive EV bet with a ruinous tail still warrants a variance penalty.
+  - id: 238
+    rationale: power law tails make margin of safety more important, not less — the worst-case event in a fat-tailed distribution is not negligibly rare.
 references:
   - title: "The Intelligent Investor: The Definitive Book on Value Investing"
     authorYear: Benjamin Graham (1949; rev. ed. 2003)

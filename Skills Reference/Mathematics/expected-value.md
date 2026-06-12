@@ -21,6 +21,8 @@ connections:
     rationale: when precise probabilities and magnitudes are unavailable, Fermi estimation provides the order-of-magnitude inputs EV needs.
   - id: 240
     rationale: standard EV calculation breaks in Black Swan domains; the tail event that dominates outcomes may have near-zero assigned probability, making EV systematically wrong in fat-tailed distributions.
+  - id: 238
+    rationale: in power law domains, expected value is dominated by tail events — ignoring the tail produces systematically underestimated EVs in fat-tailed distributions.
 references:
   - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
     authorYear: Annie Duke (2018)
