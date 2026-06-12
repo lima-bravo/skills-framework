@@ -24,8 +24,8 @@ connections:
   - id: 218
     rationale: "the pyramid's answer-first principle applies directly: the approver needs to know what is being asked, why, and on what terms before the supporting analysis, not after."
 references:
-  - title: "The Pyramid Principle: Logic in Writing and Thinking"
-    authorYear: Barbara Minto (1987)
+  - title: The Pyramid Principle
+    authorYear: Barbara Minto (1985)
     supports: Minto's source text — the definitive treatment of top-down communication structure for business writing and presentations.
   - title: The McKinsey Way
     authorYear: Ethan M. Rasiel (1999)
@@ -42,7 +42,7 @@ references:
 ---
 ## Definition
 
-The Pyramid Principle is a method for structuring written and spoken communication so that the answer comes first, supported by a MECE set of arguments, each in turn supported by evidence. Developed by Barbara Minto at McKinsey and formalized in *The Pyramid Principle* (1987), the structure inverts the academic instinct (build to a conclusion) in favor of the executive instinct (start with the conclusion, prove it on request). The shape is a pyramid: one governing thought at the apex; 2–5 supporting arguments below it; evidence beneath each. The discipline forces clarity on what is being claimed and why.
+The Pyramid Principle is a method for structuring written and spoken communication so that the answer comes first, supported by a MECE set of arguments, each in turn supported by evidence. Developed by Barbara Minto at McKinsey and formalized in *The Pyramid Principle* (1985), the structure inverts the academic instinct (build to a conclusion) in favor of the executive instinct (start with the conclusion, prove it on request). The shape is a pyramid: one governing thought at the apex; 2–5 supporting arguments below it; evidence beneath each. The discipline forces clarity on what is being claimed and why.
 
 ---
 

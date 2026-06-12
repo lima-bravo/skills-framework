@@ -25,6 +25,8 @@ connections:
     rationale: contrast is often used to establish the frame — current state vs. desired state, problem vs. solution — making the difference the interpretive anchor.
   - id: 93
     rationale: the opening rhythm establishes the frame — the pacing and tone set at the start shape how everything that follows is interpreted.
+  - id: 163
+    rationale: the pyramid's governing thought is the frame for the entire document — everything below it is chosen because it supports that framing, not because it's interesting.
 references:
   - title: "Frame Analysis: An Essay on the Organization of Experience"
     authorYear: Erving Goffman (1974)

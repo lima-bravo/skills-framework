@@ -17,6 +17,8 @@ connections:
     rationale: what constitutes meaningful contrast depends on the audience's prior knowledge — contrast that is invisible to an expert is jarring to a novice.
   - id: 93
     rationale: the right rhythm for any work depends on the audience's attention span, familiarity with the content, and context of consumption.
+  - id: 163
+    rationale: the pyramid structure assumes a specific audience and reading mode — answer-first works when the reader is a busy executive; a different audience may need situation and complication before the apex lands.
 references:
   - title: "This Is Marketing: You Can't Be Seen Until You Learn to See"
     authorYear: Seth Godin (2018)
