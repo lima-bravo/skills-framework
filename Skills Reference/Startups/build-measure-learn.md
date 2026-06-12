@@ -49,6 +49,8 @@ connections:
     rationale: outcomes are the "measure" in Build-Measure-Learn; a loop that only measures outputs (features shipped, experiments run) is cycling without learning.
   - id: 146
     rationale: PDCA is the formal ancestor of Build-Measure-Learn; BML is the lean startup restatement of the same plan-experiment-check-act discipline for product iteration.
+  - id: 157
+    rationale: Build-Measure-Learn is the operational loop that closes the outcome connection feature factories leave open — it forces the "measure" step that connects shipped features to actual behaviour change.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)

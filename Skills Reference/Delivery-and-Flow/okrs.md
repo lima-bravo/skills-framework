@@ -17,6 +17,8 @@ connections:
     rationale: KR causal logic is a compressed theory of change.
   - id: 250
     rationale: the measurement system that a KPI architecture builds is the infrastructure OKRs depend on; OKRs without a driver-tree measurement architecture underneath them become aspirational statements no one can track.
+  - id: 157
+    rationale: OKRs are the structural countermeasure to the feature factory — outcome-anchored Key Results force the explicit question of whether shipped work moved the metric, which feature factories systematically avoid.
 references:
   - title: Measure What Matters
     authorYear: John Doerr (2018)

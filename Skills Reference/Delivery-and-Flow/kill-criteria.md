@@ -39,6 +39,8 @@ connections:
     rationale: outcome thinking is what makes kill criteria honest — the kill trigger should be "the outcome metric did not move," not "we ran out of time."
   - id: 151
     rationale: kill criteria protect the one thing — pre-defining what would cause a priority to change is what prevents the "one thing" from becoming dogma when evidence shifts.
+  - id: 157
+    rationale: never killing features is the clearest diagnostic signal of a feature factory — kill criteria are the institutional practice that distinguishes product-oriented from output-oriented organizations.
 references:
   - title: "Quit: The Power of Knowing When to Walk Away"
     authorYear: Annie Duke (2022)

@@ -19,6 +19,8 @@ connections:
     rationale: portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating LTV:CAC is a kill candidate regardless of revenue trajectory.
   - id: 176
     rationale: portfolio-level slack policy — explicit capacity reservation for strategic bets — is the mechanism for protecting exploration investment at scale.
+  - id: 157
+    rationale: lean portfolio management is the portfolio-level structure that makes product orientation durable — it replaces the feature roadmap with outcome-based funding and explicit kill mechanisms across the whole portfolio.
 references:
   - title: SAFe Lean Portfolio Management
     authorYear: Dean Leffingwell et al. (Scaled Agile)

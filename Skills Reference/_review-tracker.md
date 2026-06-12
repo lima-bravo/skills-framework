@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **205**
+- Reviewed (verified + fixed): **206**
 - Flagged: **0**
-- Remaining (todo): **57**
+- Remaining (todo): **56**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -291,7 +291,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#154` **Team Topologies** · `Delivery-and-Flow/team-topologies.md` · **st:** fixed · **n:** fixed ambiguous range "7 to 9 weeks down to 4" → "7–9 weeks to 4"; added 2 missing backlinks (conways-law, leverage); content and refs accurate.
 - [x] `#155` **Inverse Conway Maneuver** · `Delivery-and-Flow/inverse-conway.md` · **st:** fixed · **n:** fixed wrong attribution ("coined in Accelerate" → LeRoy & Simons, Cutter IT Journal 2010); removed duplicate id:28 connection; added LeRoy & Simons ref; added 2 backlinks (conways-law, organizational-culture); refs 375→376.
 - [x] `#156` **Dependency Management** · `Delivery-and-Flow/dependency-management.md` · **st:** fixed · **n:** removed uncited "2018 study / 50% variability" claim (unverifiable); replaced with practitioner framing; added 3 missing backlinks (conways-law, bottlenecks, leverage).
-- [ ] `#157` **Feature Factory vs Product Orientation** · `Delivery-and-Flow/feature-factory.md` · **st:** todo · **n:** —
+- [x] `#157` **Feature Factory vs Product Orientation** · `Delivery-and-Flow/feature-factory.md` · **st:** fixed · **n:** added 4 missing backlinks (okrs, kill-criteria, build-measure-learn, lean-portfolio); fixed YAML error (bare quotes in rationale); content and refs accurate.
 - [ ] `#158` **Lean Portfolio Management** · `Delivery-and-Flow/lean-portfolio.md` · **st:** todo · **n:** —
 - [ ] `#159` **WSJF** · `Delivery-and-Flow/wsjf.md` · **st:** todo · **n:** —
 - [ ] `#160` **Reference Class Forecasting** · `Delivery-and-Flow/reference-class-forecasting.md` · **st:** todo · **n:** —
