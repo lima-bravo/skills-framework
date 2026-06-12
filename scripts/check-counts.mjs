@@ -111,8 +111,6 @@ const A = [
   ['Skills Reference/_ai-index.md', /\| (\d+) skills \| (\d+) categories \| (\d+) graph connections/g, [totalSkills, categories, connections]],
   ['Skills Reference/_ai-index.md', /(\d+) cards are pre-built chains/g, chains],
 
-  // life-decision.md framework-total footer
-  ['Skills Reference/Pre-built-Chains/life-decision.md', /\*\*Skills covered:\*\* (\d+) across (\d+) categories/g, [totalSkills, categories]],
 ];
 
 function pluginCount(id) {

@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **227**
+- Reviewed (verified + fixed): **228**
 - Flagged: **0**
-- Remaining (todo): **35**
+- Remaining (todo): **34**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -320,7 +320,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#97` **Product Launch** · `Pre-built-Chains/product-launch.md` · **st:** verified · **n:** chain card; 8 steps factually sound; no connections/refs expected
 - [x] `#98` **Investment Decision** · `Pre-built-Chains/investment-decision.md` · **st:** verified · **n:** chain card; 8 steps factually sound; no connections/refs expected
 - [x] `#99` **Should I Quit** · `Pre-built-Chains/should-i-quit.md` · **st:** fixed · **n:** typo "compromized" → "compromised" in Step 8
-- [ ] `#100` **Life Decision** · `Pre-built-Chains/life-decision.md` · **st:** todo · **n:** —
+- [x] `#100` **Life Decision** · `Pre-built-Chains/life-decision.md` · **st:** fixed · **n:** removed legacy monolith footer ("End of Skills Framework" + version block); dropped orphaned check-counts entry
 - [ ] `#117` **Capacity Planning** · `Pre-built-Chains/capacity-planning.md` · **st:** todo · **n:** —
 - [ ] `#130` **Transformation Chain** · `Pre-built-Chains/transformation.md` · **st:** todo · **n:** —
 - [ ] `#168` **Improve Delivery Flow** · `Pre-built-Chains/improve-delivery-flow.md` · **st:** todo · **n:** —

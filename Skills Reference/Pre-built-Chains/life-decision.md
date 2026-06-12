@@ -59,15 +59,6 @@ Reversible decisions (moving cities, taking a new job) deserve less analysis and
 
 ---
 
-*End of Skills Framework*
-
----
-
-**Version:** 1.1 | **Last updated:** May 2026
-**Skills covered:** 262 across 16 categories
-
----
-
 ---
 
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*
