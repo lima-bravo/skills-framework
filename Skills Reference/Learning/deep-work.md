@@ -46,11 +46,15 @@ Deep work is focused, uninterrupted cognitive effort on tasks that require conce
 
 The management implication is structural: planning that allocates 8 hours of productive cognitive work per person per day is not ambitious — it is arithmetically wrong. A realistic planning baseline for knowledge work is 3–4 deep work hours per person per day, and in a meeting-heavy environment the actual figure is often 1–2.
 
+---
+
 ## Mental Model
 
 Cognitive capacity behaves more like a limited daily battery than a renewable resource. Every act of effortful thinking, every difficult decision, every context switch draws from the same pool and does not replenish until rest. An hour of designing a complex system, an hour of answering email, and an hour of routine meetings draw very differently on the finite supply of directed attention.
 
 Once the deep work capacity is exhausted, the hours remaining produce output that looks like work but lacks the quality and complexity of the earlier hours. Managers who measure productivity by hours present rather than deep work hours available will systematically overestimate what their teams can deliver.
+
+---
 
 ## Practitioner Heuristics
 
@@ -60,12 +64,16 @@ Once the deep work capacity is exhausted, the hours remaining produce output tha
 - **Assign the most demanding work to the beginning of the day**, when directed attention reserves are fullest.
 - **Track actual deep work hours** as a team health metric alongside velocity — if deep work time is declining, throughput problems follow predictably.
 
+---
+
 ## Common Failure Modes
 
 - **Allocating work based on calendar hours rather than cognitive capacity.** A 40-hour week contains at most 17–20 deep work hours; a meeting-heavy week may contain 5–10.
 - **Scheduling demanding cognitive work late in the day** after a full meeting schedule — this is when the battery is most depleted.
 - **Treating "working harder" as a solution to capacity constraints.** Sustained overload depletes cognitive reserves faster and compounds the problem.
 - **Mistaking presence for output.** Hours online or in the office bear little relationship to deep work hours when the environment is fragmented.
+
+---
 
 ## Worked Example
 

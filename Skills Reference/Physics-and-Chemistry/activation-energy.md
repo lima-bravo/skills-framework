@@ -17,6 +17,8 @@ connections:
     rationale: every interruption resets the activation energy required to re-enter deep focus; protecting unbroken time eliminates the repeated re-entry cost.
   - id: 103
     rationale: the JTBD struggling moment is the demand-side activation energy threshold — demand begins only when push crosses the barrier that makes switching worth the cost and effort.
+  - id: 114
+    rationale: every interruption raises the activation energy required to re-enter deep focus — the cognitive cost of context-switching compounds with each distraction.
 references:
   - title: "Switch: How to Change Things When Change Is Hard"
     authorYear: Chip Heath & Dan Heath (2010)

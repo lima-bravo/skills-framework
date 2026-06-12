@@ -35,6 +35,8 @@ connections:
     rationale: EV ignores variance; Margin of Safety is the corrective when downside is catastrophic — a positive EV bet with a ruinous tail still warrants a variance penalty.
   - id: 238
     rationale: power law tails make margin of safety more important, not less — the worst-case event in a fat-tailed distribution is not negligibly rare.
+  - id: 114
+    rationale: capacity plans must include buffer for cognitive depletion and unplanned work — a plan that fully utilizes the 3–4 hour deep work ceiling has no margin of safety.
 references:
   - title: "The Intelligent Investor: The Definitive Book on Value Investing"
     authorYear: Benjamin Graham (1949; rev. ed. 2003)

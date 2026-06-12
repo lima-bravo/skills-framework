@@ -35,6 +35,8 @@ connections:
     rationale: "the driver-tree logic underneath KPI architecture is the same constraint-tracing logic: find the binding link in the chain, instrument it, and stop measuring what doesn't move the system."
   - id: 81
     rationale: the zero factor is often a bottleneck taken to its extreme — where a constraint so completely limits throughput that the whole system's output collapses to zero.
+  - id: 114
+    rationale: human cognitive capacity is the binding constraint in knowledge work — deep work hours per day, not calendar hours, determine the real throughput ceiling.
 references:
   - title: "The Goal: A Process of Ongoing Improvement"
     authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)

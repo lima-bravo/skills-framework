@@ -13,6 +13,8 @@ connections:
     rationale: deliberate cross-domain reading is how the model library that enables chaining is built.
   - id: 11
     rationale: post-mortems are among the most efficient uses of deliberate learning time, being grounded in direct organizational experience rather than abstract study.
+  - id: 114
+    rationale: deliberate learning draws from the same cognitive capacity pool as deep work — scheduling learning time requires understanding the daily cognitive budget.
 references:
   - title: The Autobiography of Benjamin Franklin
     authorYear: Benjamin Franklin (written 1771–1790; published 1791)

@@ -9,6 +9,8 @@ connections:
     rationale: trade-offs only exist because of scarcity; unlimited resources eliminate most trade-offs.
   - id: 18
     rationale: the bottleneck is the point of maximum scarcity in a process.
+  - id: 114
+    rationale: directed attention is the scarce resource in knowledge work — deep work capacity is finite and non-renewable within a day, making it the binding scarcity constraint.
 references:
   - title: The Wealth of Nations
     authorYear: Adam Smith (1776)
