@@ -31,6 +31,8 @@ connections:
     rationale: each stage of the innovation funnel tests specific assumptions before advancing; assumption mapping identifies which ones are critical enough to gate on.
   - id: 180
     rationale: assumption mapping is the method for identifying which experiments to run at the leaf level of the OST; the two tools are designed to work together.
+  - id: 181
+    rationale: the DYOD discipline in pretotyping is assumption mapping applied to a single test; assumption mapping identifies which assumption to pretotype first.
   - id: 110
     rationale: design thinking's prototyping stage is most productive when combined with assumption mapping — the prototype should test the highest-priority assumption explicitly.
 references:

@@ -15,6 +15,8 @@ connections:
     rationale: effectuation is the appropriate reasoning mode during exploration; causation is the appropriate mode during exploitation.
   - id: 109
     rationale: the crazy quilt principle expands the adjacent possible through partner commitments; each new partner opens doors that weren't accessible from the original starting position.
+  - id: 181
+    rationale: the pretotype's DYOD threshold is affordable-loss thinking applied to a single test — commit only what you can afford to lose if the demand signal is negative.
   - id: 7
     rationale: effectuation doesn't abandon probabilistic reasoning; it acknowledges when the distribution is too unknown to compute and uses affordable loss as a substitute for expected value.
 references:

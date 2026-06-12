@@ -37,6 +37,8 @@ connections:
     rationale: effectuation provides the decision logic for the early cycle; Build-Measure-Learn provides the process structure — together they describe how expert entrepreneurs move through uncertainty.
   - id: 180
     rationale: the BML cycle operates at the experiment level of the OST; the tree gives each cycle a context and a connection to a broader learning agenda.
+  - id: 181
+    rationale: pretotyping is an accelerated BML cycle compressed to a single demand question — it makes the loop cheaper by answering the most critical assumption before any build investment.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)

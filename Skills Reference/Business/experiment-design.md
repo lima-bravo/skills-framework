@@ -29,6 +29,8 @@ connections:
     rationale: "experiment design provides the formal structure for EPC's adaptation step: when inspection reveals a gap, a well-designed experiment is the disciplined way to test the response before committing."
   - id: 73
     rationale: assumption mapping defines which hypotheses to test; experiment design specifies how to test each one validly.
+  - id: 181
+    rationale: pretotype techniques are specific experiment designs optimized for demand testing; the choice of technique follows from what assumption is being tested.
   - id: 67
     rationale: innovation accounting consumes experiment design output; the validity of learning metrics depends on the rigor of the experiments that generate them.
 references:

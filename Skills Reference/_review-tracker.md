@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **150**
+- Reviewed (verified + fixed): **151**
 - Flagged: **0**
-- Remaining (todo): **112**
+- Remaining (todo): **111**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -221,7 +221,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#176` **Organizational Slack** · `Business/organizational-slack.md` · **st:** fixed · **n:** removed false Scotch-tape/15%-time claim; backlinks added to 108, 114, 149, 113, 158.
 - [x] `#179` **Innovation Health Indicators** · `Business/innovation-health-indicators.md` · **st:** fixed · **n:** backlinks added to all 10 connected cards; structure (4 whitelisted extra sections), content, and refs verified clean.
 - [x] `#180` **Opportunity Solution Trees** · `Startups/opportunity-solution-trees.md` · **st:** fixed · **n:** backlinks added to 103, 73, 63, 107, 70; structure, Torres (2021) ref, and fintech example verified clean.
-- [ ] `#181` **Pretotyping** · `Startups/pretotyping.md` · **st:** todo · **n:** —
+- [x] `#181` **Pretotyping** · `Startups/pretotyping.md` · **st:** fixed · **n:** filled empty rationale on id:63 connection; backlinks added to 64, 73, 63, 72, 175, 7; structure and Savoia (2019) ref verified clean.
 - [ ] `#182` **Continuous Discovery** · `Startups/continuous-discovery.md` · **st:** todo · **n:** —
 - [ ] `#189` **Experiment Ladder** · `Startups/experiment-ladder.md` · **st:** todo · **n:** —
 - [ ] `#237` **Cobra Effect** · `Innovation-Entrepreneurship/cobra-effect.md` · **st:** todo · **n:** —

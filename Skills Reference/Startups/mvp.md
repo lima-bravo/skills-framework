@@ -11,6 +11,8 @@ connections:
     rationale: assumption mapping identifies which assumptions the MVP should test.
   - id: 66
     rationale: customer development generates the hypotheses that the MVP tests.
+  - id: 181
+    rationale: pretotyping answers the demand question that precedes the MVP; an MVP is built after pretotyping confirms there is an audience worth building for.
   - id: 175
     rationale: the MVP is an effectual instrument — a bird-in-hand commitment that produces learning without requiring a fully specified goal.
 references:

@@ -10,7 +10,7 @@ connections:
   - id: 73
     rationale: the DYOD discipline in pretotyping is assumption mapping applied to a single test; assumption mapping identifies which assumption to pretotype first.
   - id: 63
-    rationale: ""
+    rationale: pretotyping is an accelerated BML cycle compressed to a single demand question; it makes the loop cheaper by answering the most critical assumption before any build investment is made.
   - id: 214
     rationale: pretotyping is the crawl-stage instrument; the chain shows how it gates into walk and run — pretotyping is an accelerated BML cycle operating before the build investment; it makes the loop cheaper by answering the most critical question at the lowest cost.
   - id: 72
