@@ -31,6 +31,10 @@ connections:
     rationale: follow-on when flow must be improved
   - id: 165
     rationale: Step 1 for engagements
+  - id: 159
+    rationale: Step 9 — WSJF ranks work by economic value when stakes are clear
+  - id: 153
+    rationale: Step 9 — Kill Criteria marks initiatives that should not start; the "never" list
 ---
 
 # Work to Be Done

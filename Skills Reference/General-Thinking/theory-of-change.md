@@ -27,6 +27,8 @@ connections:
     rationale: a strategy stated as a falsifiable hypothesis is a Theory of Change — both disciplines require making the assumed causal links explicit so they can be tested rather than assumed.
   - id: 164
     rationale: the design phase of an engagement articulates the Theory of Change — the causal logic linking proposed interventions to the outcomes the client has agreed to pursue.
+  - id: 170
+    rationale: Step 4 of the Work to Be Done chain requires drawing the causal chain and surfacing the assumptions at every arrow — the Theory of Change is the load-bearing logic that distinguishes a plan from a hope.
 references:
   - title: Realistic Evaluation
     authorYear: Ray Pawson & Nick Tilley (1997)

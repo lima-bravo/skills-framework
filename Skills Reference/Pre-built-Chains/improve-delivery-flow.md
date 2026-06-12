@@ -4,6 +4,9 @@ name: Improve Delivery Flow
 category: Pre-built Chains
 cardType: chain
 tagline: Improve Delivery Flow
+connections:
+  - id: 170
+    rationale: Work to Be Done defines the work and hands off to Improve Delivery Flow when execution mechanics need depth — this chain defines what; Improve Delivery Flow optimizes how it moves.
 ---
 
 # Improve Delivery Flow

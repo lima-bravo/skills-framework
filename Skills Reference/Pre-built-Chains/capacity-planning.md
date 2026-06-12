@@ -21,6 +21,8 @@ connections:
     rationale: final buffer applied in Step 7
   - id: 51
     rationale: process integrity check in Step 8
+  - id: 170
+    rationale: Step 10 of the Work to Be Done chain runs a summary-level Capacity Planning check before committing — verify true cognitive capacity supports the scoped work with adequate margin
 ---
 
 # Capacity Planning

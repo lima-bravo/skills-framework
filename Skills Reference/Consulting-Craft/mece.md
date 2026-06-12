@@ -23,6 +23,8 @@ connections:
     rationale: MECE as one of five components of an integrated operating posture, not a standalone technique.
   - id: 254
     rationale: the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation that would leave the cascade internally inconsistent.
+  - id: 170
+    rationale: Step 5 of the Work to Be Done chain decomposes the outcome into a MECE work tree — exhaustive and without overlap — before any estimation or sequencing begins.
 references:
   - title: The Pyramid Principle
     authorYear: Barbara Minto (1985)

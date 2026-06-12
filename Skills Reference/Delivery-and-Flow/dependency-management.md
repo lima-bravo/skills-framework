@@ -17,6 +17,8 @@ connections:
     rationale: internal platforms are the leverage mechanism that reduces dependencies structurally.
   - id: 150
     rationale: dependencies are a major source of extraneous cognitive load — every external dependency a team must coordinate with is mental overhead that doesn't serve the team's core problem.
+  - id: 170
+    rationale: Step 8 of the Work to Be Done chain flags cross-team dependencies as part of the flow sketch — dependency surface area determines where the critical path will stall before execution begins.
 references:
   - title: Team Topologies
     authorYear: Matthew Skelton & Manuel Pais (2019)

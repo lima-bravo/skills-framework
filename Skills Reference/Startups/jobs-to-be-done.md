@@ -33,6 +33,8 @@ connections:
     rationale: the continuous interview format is structured around JTBD — what job is the customer trying to accomplish, what triggers it, what gets in the way?
   - id: 112
     rationale: disruptions often succeed because they do the job better for a segment the incumbent has stopped serving; JTBD analysis reveals which overlooked segments are ripe for a disruptive foothold.
+  - id: 170
+    rationale: Step 2 of the Work to Be Done chain applies JTBD analysis to name the customer job — functional, social, and emotional progress — that the outcome must deliver; the job frames what successful work must enable, not just what will be built.
 references:
   - title: "Competing Against Luck: The Story of Innovation and Customer Choice"
     authorYear: Clayton M. Christensen, Taddy Hall, Karen Dillon & David S. Duncan (2016)

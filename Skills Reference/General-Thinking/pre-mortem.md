@@ -47,6 +47,8 @@ connections:
     rationale: reference class forecasting and the pre-mortem are complementary outside-view techniques — RCF asks what happened to similar projects; the pre-mortem asks what could go wrong in this one; together they bound the failure space.
   - id: 161
     rationale: imagining the hypothesis is wrong — and asking what evidence would confirm that — is the pre-mortem applied to hypothesis-driven work; both tools treat the absence of a strong disconfirmation case as a warning sign.
+  - id: 170
+    rationale: Step 6 of the Work to Be Done chain includes a pre-mortem — imagining the outcome failed 12 months later and auditing which work items were waste and which were missing.
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

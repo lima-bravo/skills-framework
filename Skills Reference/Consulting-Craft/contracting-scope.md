@@ -15,6 +15,8 @@ connections:
     rationale: contracts should include stopping conditions.
   - id: 30
     rationale: scope decisions are explicit trade-offs.
+  - id: 170
+    rationale: for consulting engagements, the Work to Be Done chain's Step 1 pairs with Contracting & Scope — the outcome definition becomes the success criteria that bound the scope agreement.
 references:
   - title: Flawless Consulting
     authorYear: Peter Block (1981; 3rd ed. 2011)

@@ -25,6 +25,8 @@ connections:
     rationale: choosing a leading indicator is a falsifiable hypothesis about what drives the outcome; KPI architecture is hypothesis-driven thinking applied to measurement design.
   - id: 164
     rationale: diagnosis in the engagement lifecycle runs on hypothesis-driven work — the day-one hypothesis structures what gets investigated rather than triggering boil-the-ocean data gathering.
+  - id: 170
+    rationale: Step 6 of the Work to Be Done chain refines the work tree by turning the top untested assumptions into falsifiable hypotheses with defined cheap tests before heavy work starts.
 references:
   - title: The McKinsey Way
     authorYear: Ethan M. Rasiel (1999)

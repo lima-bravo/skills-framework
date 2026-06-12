@@ -17,6 +17,8 @@ connections:
     rationale: handoffs between teams reflect org boundaries; future-state may require org change.
   - id: 145
     rationale: the A3's current-state section is typically built on VSM evidence — the map provides the fact base that an A3's diagnosis compresses to one page.
+  - id: 170
+    rationale: Step 8 of the Work to Be Done chain runs a light VSM on the critical path from trigger to outcome — enough to name waits, handoffs, owners, and hypothesize the bottleneck before deep flow work begins.
 references:
   - title: "Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda"
     authorYear: Mike Rother & John Shook (1999)

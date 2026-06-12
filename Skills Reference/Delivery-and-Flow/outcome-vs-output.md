@@ -33,6 +33,8 @@ connections:
     rationale: contracting on outcomes rather than deliverables is the consulting application of this distinction — a scope agreement that names outputs can be met while the client's actual problem goes unsolved.
   - id: 253
     rationale: the decision-orientation component of structured problem solving restates this distinction — every output should exist to enable a specific choice, not merely to document activity.
+  - id: 170
+    rationale: the Work to Be Done chain's Step 1 grounds the entire work definition in an observable outcome — the entry filter that separates deliverable-thinking from outcome-thinking before any decomposition begins.
 references:
   - title: "Outcomes Over Output: Why Customer Behavior Is the Key Metric for Business Success"
     authorYear: Josh Seiden (2019)

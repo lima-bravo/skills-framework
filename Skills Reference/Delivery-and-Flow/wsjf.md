@@ -15,6 +15,8 @@ connections:
     rationale: WSJF works on bottleneck capacity.
   - id: 141
     rationale: pairs to forecast value delivery under a WSJF queue.
+  - id: 170
+    rationale: Step 9 of the Work to Be Done chain uses WSJF to rank work items by economic value where stakes are clear — Cost of Delay divided by job size determines which items to sequence first.
 references:
   - title: The Principles of Product Development Flow
     authorYear: Donald G. Reinertsen (2009)

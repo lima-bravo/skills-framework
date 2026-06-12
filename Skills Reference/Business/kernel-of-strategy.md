@@ -21,6 +21,8 @@ connections:
     rationale: "Lafley & Martin's five-choice cascade is the operational complement to Rumelt's kernel: Rumelt names what a strategy must contain; Playing to Win shows how to build the choices so they reinforce each other."
   - id: 248
     rationale: a profit pool map is a diagnosis tool; it becomes strategy only when paired with a guiding policy and coherent actions that follow from where the profit actually sits.
+  - id: 170
+    rationale: Steps 3 and 7 of the Work to Be Done chain apply the kernel structure — Step 3 diagnoses the central crux, Step 7 derives a guiding policy and 3–5 coherent actions that trace back to that diagnosis.
 references:
   - title: "Good Strategy Bad Strategy: The Difference and Why It Matters"
     authorYear: Richard P. Rumelt (2011)

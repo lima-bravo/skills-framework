@@ -45,6 +45,8 @@ connections:
     rationale: portfolio kill decisions are how LPM prevents zombie initiatives — kill criteria applied at the portfolio level are what make the portfolio kanban a governance tool rather than a status display.
   - id: 165
     rationale: contracts should include stopping conditions — pre-agreed kill criteria that trigger re-contracting or termination when stated conditions are not met, removing the decision from real-time political pressure.
+  - id: 170
+    rationale: Step 9 of the Work to Be Done chain uses Kill Criteria to explicitly mark initiatives that should not start — the "never" list is as important as the start list.
 references:
   - title: "Quit: The Power of Knowing When to Walk Away"
     authorYear: Annie Duke (2022)

@@ -19,6 +19,8 @@ connections:
     rationale: "Rumelt's coherent action requires the same discipline: a short, mutually reinforcing set of commitments that rule things out, not a comprehensive list of everything desirable."
   - id: 253
     rationale: the 80/20 focus component of structured problem solving specialises into this operating habit — of all that could matter, which one thing, if done, makes the rest easier or unnecessary.
+  - id: 170
+    rationale: Step 9 of the Work to Be Done chain applies the One Thing discipline to sequencing — if only one workstream could run this quarter, which unlocks the most outcome per unit of constraint?
 references:
   - title: The One Thing
     authorYear: Gary Keller & Jay Papasan (2013)
