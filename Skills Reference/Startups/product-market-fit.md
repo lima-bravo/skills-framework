@@ -17,6 +17,8 @@ connections:
     rationale: "fit in the Value Prop Canvas is the direct diagnostic for PMF: when pain relievers and gain creators match the customer's highest-priority pains and gains, the pull dynamic becomes achievable."
   - id: 65
     rationale: the goal of pivots is to find the product-market fit that perseverance is preserving; PMF is the signal that the pivot search can stop.
+  - id: 67
+    rationale: innovation accounting provides the cohort-level metrics that make PMF measurable; retention curves and activation rates are the instruments of both.
 references:
   - title: Product/Market Fit
     authorYear: Marc Andreessen, pmarchive.com (2007)

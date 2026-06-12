@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **136**
+- Reviewed (verified + fixed): **137**
 - Flagged: **0**
-- Remaining (todo): **126**
+- Remaining (todo): **125**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -207,7 +207,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#64` **MVP** · `Startups/mvp.md` · **st:** fixed · **n:** added --- before refs; fixed double --- footer; Gap-A: added Four Steps to the Epiphany (Blank 2003); all backlinks already present
 - [x] `#65` **Pivot or Persevere** · `Startups/pivot-or-persevere.md` · **st:** fixed · **n:** added --- before refs; fixed double --- footer; Gap-A: Disciplined Entrepreneurship (Aulet 2013); backlinks added to build-measure-learn, sunk-cost, product-market-fit
 - [x] `#66` **Customer Development** · `Startups/customer-development.md` · **st:** verified · **n:** structure clean; refs match manifest (Four Steps cites 2005 vs manifest 2003, left as-is); backlink added to assumption-mapping
-- [ ] `#67` **Innovation Accounting** · `Startups/innovation-accounting.md` · **st:** todo · **n:** —
+- [x] `#67` **Innovation Accounting** · `Startups/innovation-accounting.md` · **st:** fixed · **n:** structure and refs clean; backlinks added to build-measure-learn, product-market-fit, experiment-design (all three were missing)
 - [ ] `#70` **Innovation Funnel** · `Business/innovation-funnel.md` · **st:** todo · **n:** —
 - [ ] `#103` **Jobs to Be Done** · `Startups/jobs-to-be-done.md` · **st:** todo · **n:** —
 - [ ] `#110` **Design Thinking** · `Startups/design-thinking.md` · **st:** todo · **n:** —
