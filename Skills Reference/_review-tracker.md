@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **180**
+- Reviewed (verified + fixed): **181**
 - Flagged: **0**
-- Remaining (todo): **82**
+- Remaining (todo): **81**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -266,7 +266,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Delivery & Flow (33)
 
 - [x] `#131` **Little's Law** · `Delivery-and-Flow/littles-law.md` · **st:** fixed · **n:** Refs verified (Little 1961, Reinertsen 2009, Vacanti 2015) ✓; worked example arithmetic correct ✓; added 1 missing backlink (bottlenecks #18). build + check:counts pass.
-- [ ] `#132` **WIP Limits** · `Delivery-and-Flow/wip-limits.md` · **st:** todo · **n:** —
+- [x] `#132` **WIP Limits** · `Delivery-and-Flow/wip-limits.md` · **st:** fixed · **n:** Refs verified (Anderson 2010, Reinertsen 2009, Ohno 1988) ✓; added missing supports: fields and removed trailing periods from all 3 refs; added 1 missing backlink (bottlenecks #18). build + check:counts pass.
 - [ ] `#133` **Flow Efficiency vs Resource Efficiency** · `Delivery-and-Flow/flow-efficiency.md` · **st:** todo · **n:** —
 - [ ] `#134` **Lead Time vs Cycle Time** · `Delivery-and-Flow/lead-time-cycle-time.md` · **st:** todo · **n:** —
 - [ ] `#135` **Queueing & Wait Time** · `Delivery-and-Flow/queueing.md` · **st:** todo · **n:** —

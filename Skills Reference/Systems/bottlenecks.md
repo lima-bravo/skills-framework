@@ -39,6 +39,8 @@ connections:
     rationale: human cognitive capacity is the binding constraint in knowledge work — deep work hours per day, not calendar hours, determine the real throughput ceiling.
   - id: 131
     rationale: throughput in Little's Law is set by the bottleneck — optimizing non-bottleneck steps does not reduce cycle time.
+  - id: 132
+    rationale: WIP limits at non-bottleneck stages make the constraint visible by forcing starvation downstream when the bottleneck cannot keep up.
 references:
   - title: "The Goal: A Process of Ongoing Improvement"
     authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)

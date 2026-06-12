@@ -19,11 +19,14 @@ connections:
     rationale: "WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion."
 references:
   - title: "Kanban: Successful Evolutionary Change for Your Technology Business"
-    authorYear: David J. Anderson (2010).
+    authorYear: David J. Anderson (2010)
+    supports: the Kanban Method for knowledge work; WIP limits as the central operating mechanism.
   - title: The Principles of Product Development Flow
-    authorYear: Donald G. Reinertsen (2009).
+    authorYear: Donald G. Reinertsen (2009)
+    supports: the economic case for WIP limits in product development — queue length drives cycle time.
   - title: "Toyota Production System: Beyond Large-Scale Production"
-    authorYear: Taiichi Ohno (1988).
+    authorYear: Taiichi Ohno (1988)
+    supports: the TPS origin of pull systems and WIP control; the source of the stop-and-fix culture that makes WIP limits effective.
 ---
 
 # WIP Limits
