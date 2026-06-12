@@ -19,6 +19,8 @@ connections:
     rationale: H3 investments are reversible (option value, limited commitment); H1 is irreversible (full commitment). Two-Way Doors logic explains why H3 decisions should be made faster and with less analysis than H1 decisions.
   - id: 210
     rationale: "Three Horizons and Wardley Maps compose naturally: H1 maps to Commodity/Product, H2 to Custom, H3 to Genesis. The evolution axis tells you which horizon a component actually belongs to."
+  - id: 172
+    rationale: ambidextrous organization is the structural implementation of Three Horizons; it is how an organization builds the capacity to manage H1 alongside H2 and H3 simultaneously.
 references:
   - title: "The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise"
     authorYear: Mehrdad Baghai, Stephen Coley & David White (1999)

@@ -19,6 +19,8 @@ connections:
     rationale: culture transmission mechanisms must change as organisations cross Dunbar thresholds; relational transmission fails above ~150 and must be replaced by artefact and ritual.
   - id: 192
     rationale: culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed; SDT provides the diagnostic lens for what culture is actually doing to motivation.
+  - id: 172
+    rationale: exploit and explore require different cultural operating conditions; ambidextrous design is partly a culture management problem, and Organizational Culture provides the diagnostic vocabulary for that challenge.
 references:
   - title: Organizational Culture and Leadership
     authorYear: Edgar Schein, 1985 (5th ed. 2017)
