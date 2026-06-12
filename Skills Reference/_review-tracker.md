@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **236**
+- Reviewed (verified + fixed): **237**
 - Flagged: **0**
-- Remaining (todo): **26**
+- Remaining (todo): **25**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -329,7 +329,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#177` **Innovation Capability Diagnostic** · `Pre-built-Chains/innovation-capability-diagnostic.md` · **st:** verified · **n:** chain card; 6 steps + synthesis factually sound; frameworks verified correct
 - [x] `#178` **Design and Launch an Innovation Program** · `Pre-built-Chains/design-launch-innovation-program.md` · **st:** verified · **n:** chain card; 7 steps + governance section factually sound; all frameworks verified
 - [x] `#186` **AI Agent Governance Design** · `Pre-built-Chains/ai-agent-governance-design.md` · **st:** verified · **n:** chain card; 9 steps technically sound; all referenced cards exist; AI security practices correct
-- [ ] `#187` **AI Use Case Autonomy Assessment** · `Pre-built-Chains/ai-use-case-autonomy-assessment.md` · **st:** todo · **n:** —
+- [x] `#187` **AI Use Case Autonomy Assessment** · `Pre-built-Chains/ai-use-case-autonomy-assessment.md` · **st:** verified · **n:** chain card; 8 steps technically sound; all referenced cards confirmed to exist
 - [ ] `#198` **Mission Execution Protocol** · `Pre-built-Chains/mission-execution-protocol.md` · **st:** todo · **n:** —
 - [ ] `#213` **From Idea to Hypothesis** · `Pre-built-Chains/from-idea-to-hypothesis.md` · **st:** todo · **n:** —
 - [ ] `#214` **Crawl / Walk / Run** · `Pre-built-Chains/crawl-walk-run.md` · **st:** todo · **n:** —
