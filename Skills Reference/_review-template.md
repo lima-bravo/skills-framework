@@ -3,10 +3,16 @@
 Copy this block for each skill under review. Work top to bottom; do not mark a card
 `verified`/`fixed` in `_review-tracker.md` until every check below has an outcome.
 
-The governing rule: **improve within the current framework.** Keep the fixed 6-section
+The governing rule: **improve within the current framework.** Keep the fixed section
 structure, the card's voice, and its place in the category. Do not invent new sections,
 rename categories, or change a card's id. If a card seems to need a structural change,
 mark it `flagged` and raise it rather than acting unilaterally.
+
+> **Format note (post Phase 7 migration):** All cards now use YAML frontmatter for
+> `connections` and `references`. The body contains only narrative sections. `## Connections`
+> and `## References` must NOT appear in the body. Many cards also have a double `---`
+> before the footer (migration artifact) — these are deferred to a bulk-fix pass; do not
+> fix individually during reviews.
 
 ---
 
@@ -18,12 +24,15 @@ mark it `flagged` and raise it rather than acting unilaterally.
 - **Outcome:** `verified` | `fixed` | `flagged`
 
 ### 1. Structure integrity
-- [ ] Title (`# Name`) and tagline (`*...*`) present and accurate.
-- [ ] Category/header line present and points to the right category + `docs/deck.html`.
-- [ ] All six sections present and in order: **Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections**.
-- [ ] `## References` section present after Connections.
-- [ ] Footer link block intact.
-- [ ] Manifest entry (`skills-manifest.json`) matches: id, name, category, file path, color.
+- [ ] YAML frontmatter present with all required fields: `id`, `name`, `category`, `cardType`, `tagline`.
+- [ ] `connections:` is an array of `{id, rationale}` entries (numeric ids, no file paths).
+- [ ] `references:` is an array of `{title, authorYear, supports}` entries.
+- [ ] Body has exactly the required narrative sections in order:
+  - **standard/extended:** Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example
+  - **chain:** Step N sections only
+- [ ] `## Connections` and `## References` do NOT appear in the body.
+- [ ] Footer `*Part of the Skills Framework…*` present.
+- [ ] Manifest entry matches: id, name, category, file path, color.
 
 ### 2. Conceptual correctness
 - [ ] **Definition** is accurate, not misleading, and faithful to the concept's accepted meaning (check the named originator/source where one is claimed).
@@ -37,18 +46,18 @@ mark it `flagged` and raise it rather than acting unilaterally.
 - [ ] Every factual claim, name, date, and number in the example is verifiable and correct. **Search to confirm any specific figure or attribution.**
 - [ ] If the example cites a real company/event, the account is accurate and not mythologised.
 
-### 4. References (high-rigor)
-- [ ] Each reference is a **real, existing source** (title exists).
-- [ ] **Author and year are correct.**
+### 4. References (frontmatter)
+- [ ] The `references:` frontmatter contains the most relevant sources for this card's central claims.
+- [ ] Each reference is a **real, existing source** (title and author are correct).
 - [ ] The source **actually supports** the model/claim it's attached to (not a loose topical match).
-- [ ] References are sufficient: the card's central claims are backed.
-- [ ] Each reference is registered in `skills-manifest.json` → top-level `refs` array, with this skill listed in its `skills` array (id, name, color). No duplicate ref entries.
+- [ ] Each reference entry has a useful `supports:` note.
+- [ ] After any ref change: run `npm run derive:refs -- --write` then `npm run build`.
 
 ### 5. Connection integrity
-- [ ] Every `→` link in **Connections** resolves to an existing card file.
-- [ ] Each connection's one-line rationale is accurate (the relationship is real).
-- [ ] Warranted **backlinks** exist: cards named here also reference this card where it makes sense.
-- [ ] After any change, `npm run build` regenerates the graph so connections/counts stay in sync.
+- [ ] Every `connections:` entry uses a valid numeric `id` pointing to a real skill.
+- [ ] Each connection's `rationale` accurately describes the relationship.
+- [ ] Warranted **backlinks** exist: cards named in `connections` also have a reciprocal entry where it makes sense.
+- [ ] After any change, `npm run build` regenerates the graph so connection counts stay in sync.
 
 ### 6. Verdict
 - **Outcome:** <verified | fixed | flagged>
@@ -58,9 +67,9 @@ mark it `flagged` and raise it rather than acting unilaterally.
 
 ### 7. Sync checklist (only if anything changed)
 - [ ] Card file saved.
-- [ ] `skills-manifest.json` updated (refs / metadata) if needed.
-- [ ] Backlinks added to related cards if needed.
+- [ ] If refs changed: `npm run derive:refs -- --write` run to sync manifest.
 - [ ] `npm run build` run (rebuilds deck, graph, guides) **and** `npm run check:counts` passes.
+- [ ] Backlinks added to related cards' `connections:` frontmatter if needed.
 - [ ] `_ai-index.md` updated if inventory/cluster info changed.
 - [ ] Row updated in `_review-tracker.md` (box ticked, `st:` set, `n:` note written).
 
