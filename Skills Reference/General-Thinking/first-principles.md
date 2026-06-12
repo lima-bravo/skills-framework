@@ -41,6 +41,8 @@ connections:
     rationale: identifying zero factors requires first-principles reasoning — asking what is genuinely necessary (a zero candidate) vs. merely valuable (a non-zero factor).
   - id: 233
     rationale: "Fermi estimation is applied first-principles thinking: building up an answer from basic components rather than extrapolating from analogues or waiting for unavailable data."
+  - id: 86
+    rationale: model chaining is built from principled building blocks — first principles decomposition is the foundation from which individual models are selected and combined.
 references:
   - title: Discourse on the Method
     authorYear: René Descartes (1637)

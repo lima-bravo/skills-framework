@@ -38,7 +38,7 @@ The practitioner builds a repertoire of models across domains — physics, econo
 ## Practitioner Heuristics
 
 - **Always ask: which other model explains a different aspect of this situation?** After applying the first model that comes to mind, systematically ask which category of models (systems, psychology, economics, physics) might add to the picture.
-- **Build a personal model library and use it.** Read widely across disciplines. Take notes in terms of the model. The library is only useful if it is actively exercized; use unfamiliar models on familiar problems.
+- **Build a personal model library and use it.** Read widely across disciplines. Take notes in terms of the model. The library is only useful if it is actively exercised; use unfamiliar models on familiar problems.
 - **Look for models that agree and models that conflict.** If two models applied to the same situation produce different recommendations, that tension is important. Understand why before deciding.
 - **Use model chains as the structure of written analysis.** A piece of strategic analysis that walks through the situation through five different model lenses is more robust than one that applies a single framework.
 - **Calibrate the models to the situation.** Not every model applies to every situation. The skill of knowing which models are relevant — and at what confidence level — is higher-order than knowing the models themselves.

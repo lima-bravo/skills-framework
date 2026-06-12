@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **169**
+- Reviewed (verified + fixed): **170**
 - Flagged: **0**
-- Remaining (todo): **93**
+- Remaining (todo): **92**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -249,7 +249,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## Learning (6)
 
-- [ ] `#86` **Model Chaining** · `Learning/model-chaining.md` · **st:** todo · **n:** —
+- [x] `#86` **Model Chaining** · `Learning/model-chaining.md` · **st:** fixed · **n:** Refs verified (Munger/Kaufman 2005, Parrish 2019) ✓; typo "exercized"→"exercised" fixed; added backlink in first-principles (#0). build + check:counts pass.
 - [ ] `#87` **T-Shaped** · `Learning/t-shaped.md` · **st:** todo · **n:** —
 - [ ] `#88` **Five-Hour Rule** · `Learning/five-hour-rule.md` · **st:** todo · **n:** —
 - [ ] `#89` **Learning Transfer** · `Learning/learning-transfer.md` · **st:** todo · **n:** —
