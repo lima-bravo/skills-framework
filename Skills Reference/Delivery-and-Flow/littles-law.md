@@ -13,6 +13,8 @@ connections:
     rationale: throughput in L = λW is set by the bottleneck; Little's Law explains why optimizing non-bottlenecks does not move cycle time.
   - id: 133
     rationale: cycle time decomposes into work time plus wait time; flow efficiency exposes the ratio.
+  - id: 134
+    rationale: lead time and cycle time both fall out of L = λW; they differ only in where you start the clock.
 references:
   - title: "A Proof for the Queuing Formula: L = λW"
     authorYear: John D. C. Little (1961)

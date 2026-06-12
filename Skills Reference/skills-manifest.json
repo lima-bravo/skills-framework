@@ -2034,11 +2034,6 @@
           "color": "#0891B2"
         },
         {
-          "id": 134,
-          "name": "Lead Time vs Cycle Time",
-          "color": "#0891B2"
-        },
-        {
           "id": 142,
           "name": "DORA Metrics",
           "color": "#0891B2"
@@ -2102,11 +2097,6 @@
         {
           "id": 131,
           "name": "Little's Law",
-          "color": "#0891B2"
-        },
-        {
-          "id": 134,
-          "name": "Lead Time vs Cycle Time",
           "color": "#0891B2"
         },
         {
@@ -6318,11 +6308,6 @@
         {
           "id": 133,
           "name": "Flow Efficiency vs Resource Efficiency",
-          "color": "#0891B2"
-        },
-        {
-          "id": 134,
-          "name": "Lead Time vs Cycle Time",
           "color": "#0891B2"
         },
         {

@@ -15,11 +15,14 @@ connections:
     rationale: '"lead time for changes" is the specific DORA variant for code delivery.'
 references:
   - title: Actionable Agile Metrics for Predictability
-    authorYear: Daniel S. Vacanti (2015).
+    authorYear: Daniel S. Vacanti (2015)
+    supports: the operational definitions of lead time and cycle time for knowledge work; percentile-based reporting and aged WIP as leading indicators.
   - title: The Principles of Product Development Flow
-    authorYear: Donald G. Reinertsen (2009).
+    authorYear: Donald G. Reinertsen (2009)
+    supports: the formalization of lead time and cycle time distinctions in product development; wait time as the dominant component of lead time.
   - title: Accelerate
-    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: the lead-time-for-changes metric is one of the four DORA metrics linking delivery speed to organizational performance.
 ---
 
 # Lead Time vs Cycle Time
