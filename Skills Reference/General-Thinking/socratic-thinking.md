@@ -13,6 +13,8 @@ connections:
     rationale: Socratic questioning walks back down the ladder from belief to raw data.
   - id: 223
     rationale: "complementary practices: Socratic questioning surfaces hidden assumptions in your own view; steelmanning ensures the opposing position is understood at its strongest before being engaged."
+  - id: 162
+    rationale: issue trees decompose problems by structured questioning; MECE is the shape those questions must take — neither overlapping nor leaving gaps.
 references:
   - title: The Republic
     authorYear: Plato (c. 380 BCE)

@@ -27,6 +27,8 @@ connections:
     rationale: strategic prioritization is the executive practice of trade-off reasoning — choosing the one thing is choosing what to trade away, not what to add.
   - id: 159
     rationale: WSJF is a structured trade-off mechanism — it makes the opportunity cost of every sequencing decision explicit by expressing it as cost of delay per unit of job size.
+  - id: 162
+    rationale: trade-off analysis requires MECE alternatives — options that overlap or leave gaps cannot produce a clean choice.
 references:
   - title: An Essay on the Nature and Significance of Economic Science
     authorYear: Lionel Robbins (1932)

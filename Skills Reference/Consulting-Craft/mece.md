@@ -24,11 +24,11 @@ connections:
   - id: 254
     rationale: the where-to-play choice should partition the relevant market space cleanly; MECE thinking catches gaps and overlaps in the segmentation that would leave the cascade internally inconsistent.
 references:
-  - title: "The Pyramid Principle: Logic in Writing and Thinking"
-    authorYear: Barbara Minto (1987)
+  - title: The Pyramid Principle
+    authorYear: Barbara Minto (1985)
     supports: Minto's source text for the MECE principle and its application to structuring written and oral communication.
-  - title: "Bulletproof Problem Solving: The One Skill That Changes Everything"
-    authorYear: Charles Conn & Robert McLean (2018)
+  - title: Bulletproof Problem Solving
+    authorYear: Charles Conn & Robert McLean (2019)
     supports: the modern application of MECE to issue trees and problem decomposition in consulting and strategy work.
   - title: The McKinsey Mind
     authorYear: Ethan M. Rasiel & Paul N. Friga (2001)
