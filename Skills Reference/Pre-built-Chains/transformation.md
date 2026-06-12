@@ -8,8 +8,9 @@ tagline: Eight-step protocol for leading organisational transformation — from 
 
 # Transformation Chain
 
-**Category:** Pre-built Chains
-**Tagline:** Eight-step protocol for leading organisational transformation — from diagnosis to institutionalisation
+**Category:** [Pre-built Chains](../../docs/deck.html) &nbsp;|&nbsp; **[← Card Deck](../../docs/deck.html)**
+
+---
 ## When to Use
 
 Before launching any major organisational transformation: a merger, new operating model, digital transformation, cultural shift, or strategic pivot. If the transformation is prompted by organisational underperformance rather than a strategic opportunity, run the [**Organisational Degradation Scan**](organisational-degradation-scan.md) first — it identifies which degradation mechanisms are operative and ensures the transformation addresses root causes rather than symptoms.
