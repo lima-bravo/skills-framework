@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **195**
+- Reviewed (verified + fixed): **196**
 - Flagged: **0**
-- Remaining (todo): **67**
+- Remaining (todo): **66**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -281,7 +281,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#144` **Outcome vs Output** · `Delivery-and-Flow/outcome-vs-output.md` · **st:** fixed · **n:** added 3 missing backlinks (kill-criteria, build-measure-learn, goodharts-law); content and refs verified accurate
 - [x] `#145` **A3 Problem Solving** · `Delivery-and-Flow/a3-problem-solving.md` · **st:** fixed · **n:** added 3 missing backlinks (post-mortem, value-stream-mapping, theory-of-change); content and refs verified (7-section structure and Shook 2008 accurate)
 - [x] `#146` **PDCA** · `Delivery-and-Flow/pdca.md` · **st:** fixed · **n:** added 4 missing backlinks (ooda-loop, post-mortem, build-measure-learn, pre-mortem); content and refs accurate.
-- [ ] `#147` **Gemba** · `Delivery-and-Flow/gemba.md` · **st:** todo · **n:** —
+- [x] `#147` **Gemba** · `Delivery-and-Flow/gemba.md` · **st:** fixed · **n:** added 4 missing backlinks (map-territory, a3-problem-solving, customer-development, conways-law); content and refs accurate.
 - [ ] `#148` **Attention Budget** · `Delivery-and-Flow/attention-budget.md` · **st:** todo · **n:** —
 - [ ] `#149` **Context-Switching Cost** · `Delivery-and-Flow/context-switching.md` · **st:** todo · **n:** —
 - [ ] `#150` **Cognitive Load (Team)** · `Delivery-and-Flow/cognitive-load-team.md` · **st:** todo · **n:** —

@@ -25,6 +25,8 @@ connections:
     rationale: design thinking and customer development share field-based learning before solution building; design thinking adds structured ideation and rapid prototyping to the toolkit.
   - id: 90
     rationale: customer development generates the empirical data that makes audience models accurate — interviews and observations replace assumptions about who the audience is.
+  - id: 147
+    rationale: customer development is the startup equivalent of gemba — go to the actual customer, in their actual context, and observe before you build.
 references:
   - title: "The Four Steps to the Epiphany: Successful Strategies for Products that Win"
     authorYear: Steve Blank (2005)

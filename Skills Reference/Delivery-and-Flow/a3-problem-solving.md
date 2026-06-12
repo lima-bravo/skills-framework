@@ -15,6 +15,8 @@ connections:
     rationale: VSM produces the current-state evidence an A3 builds on.
   - id: 128
     rationale: countermeasures express a theory; A3 is the operational version.
+  - id: 147
+    rationale: the A3's current-state section demands gemba evidence — the diagnosis is only as good as direct observation of where the work actually happens.
 references:
   - title: "Managing to Learn: Using the A3 Management Process"
     authorYear: John Shook (2008)

@@ -27,6 +27,8 @@ connections:
     rationale: the reference frame is part of the map; different observers draw different maps of the same territory.
   - id: 173
     rationale: dominant logic is an organizational map that was once accurate but has diverged from the territory; the danger is not having a map but not knowing it is outdated.
+  - id: 147
+    rationale: gemba is the direct antidote to map–territory drift — going to the actual place recalibrates the mental model against reality rather than against a filtered report of it.
 references:
   - title: "Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics"
     authorYear: Alfred Korzybski (1933)
