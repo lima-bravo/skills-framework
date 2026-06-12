@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **141**
+- Reviewed (verified + fixed): **142**
 - Flagged: **0**
-- Remaining (todo): **121**
+- Remaining (todo): **120**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -212,7 +212,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#103` **Jobs to Be Done** · `Startups/jobs-to-be-done.md` · **st:** fixed · **n:** structure, content, and refs clean; backlinks added to customer-development, product-market-fit, build-measure-learn, loss-aversion, activation-energy, inertia, first-principles (7 missing)
 - [x] `#110` **Design Thinking** · `Startups/design-thinking.md` · **st:** fixed · **n:** structure, content, and refs clean; backlinks added to jobs-to-be-done, customer-development, assumption-mapping, build-measure-learn (4 missing; divergent-convergent-thinking already had one)
 - [x] `#111` **Crossing the Chasm** · `Startups/crossing-the-chasm.md` · **st:** fixed · **n:** structure, content, and refs clean; backlinks added to s-curves, product-market-fit, network-effects, critical-mass; disruptive-innovation already had one
-- [ ] `#112` **Disruptive Innovation** · `Business/disruptive-innovation.md` · **st:** todo · **n:** —
+- [x] `#112` **Disruptive Innovation** · `Business/disruptive-innovation.md` · **st:** fixed · **n:** structure, content, and refs clean; Netflix/Blockbuster example accurate; backlinks added to s-curves, jobs-to-be-done, business-model-canvas (6 of 9 already had backlinks)
 - [ ] `#113` **Three Horizons** · `Business/three-horizons.md` · **st:** todo · **n:** —
 - [ ] `#172` **Ambidextrous Organization** · `Business/ambidextrous-organization.md` · **st:** todo · **n:** —
 - [ ] `#173` **Dominant Logic** · `Business/dominant-logic.md` · **st:** todo · **n:** —

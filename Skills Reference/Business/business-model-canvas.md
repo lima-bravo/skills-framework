@@ -13,6 +13,8 @@ connections:
     rationale: the canvas is a framework for asking whether a business model around which PMF could be achieved exists.
   - id: 217
     rationale: the revenue streams section of the canvas is the capture design; the value proposition is the creation design; misalignment between them is the most common business model failure.
+  - id: 112
+    rationale: disruption is as much a business model innovation as a product innovation; the disruptor's canvas is structurally different from the incumbent's, which is why direct competitive response is so difficult.
 references:
   - title: "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers"
     authorYear: Alexander Osterwalder & Yves Pigneur (2010)

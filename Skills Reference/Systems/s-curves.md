@@ -27,6 +27,8 @@ connections:
     rationale: "Long Tail markets often follow an S-curve adoption pattern: slow initial tail growth as discovery infrastructure is built, then rapid expansion as recommendation and search mature."
   - id: 111
     rationale: the chasm sits at the inflection point on the S-curve between early adopters and the early majority; crossing it is what allows the adoption curve to steepen into its growth phase.
+  - id: 112
+    rationale: disruptive innovations ride a new S-curve that eventually intersects the incumbent's; the crossing point is where displacement occurs and is the incumbent's primary analytical challenge.
 references:
   - title: Diffusion of Innovations
     authorYear: Everett M. Rogers (1962; 5th ed. 2003)
