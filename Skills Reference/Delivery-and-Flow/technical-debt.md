@@ -18,6 +18,9 @@ connections:
   - id: 256
     rationale: debt increases incident rate, which forces a reliability-vs-velocity trade-off that the team did not choose to make.
 references:
+  - title: "The WyCash Portfolio Management System"
+    authorYear: Ward Cunningham (1992)
+    supports: the original introduction of the technical debt metaphor — Cunningham's analogy between design shortcuts and financial debt, and the compounding interest paid in future delivery slowdowns.
   - title: Working Effectively with Legacy Code
     authorYear: Michael C. Feathers (2004)
     supports: Practical techniques for changing high-debt code safely — the operational face of debt repayment.

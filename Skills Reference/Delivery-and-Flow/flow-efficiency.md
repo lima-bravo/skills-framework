@@ -23,6 +23,8 @@ connections:
     rationale: short DORA lead times for changes are the observable evidence of high flow efficiency in software delivery; the two measures name the same phenomenon at different levels of abstraction.
   - id: 143
     rationale: Flow Efficiency is one of Kersten's five flow metrics; the Flow Framework operationalises the efficiency ratio at value-stream scale across the portfolio.
+  - id: 255
+    rationale: technical debt is the primary structural drag on flow efficiency — it converts active work time into workarounds and incidents, inflating the wait component that the efficiency ratio makes visible.
 references:
   - title: "This Is Lean: Resolving the Efficiency Paradox"
     authorYear: Niklas Modig & Pär Åhlström (2012)

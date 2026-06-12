@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **209**
+- Reviewed (verified + fixed): **210**
 - Flagged: **0**
-- Remaining (todo): **53**
+- Remaining (todo): **52**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -296,7 +296,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#159` **WSJF** · `Delivery-and-Flow/wsjf.md` · **st:** fixed · **n:** added 3 missing backlinks (trade-offs, bottlenecks, probabilistic-forecasting); content and refs accurate.
 - [x] `#160` **Reference Class Forecasting** · `Delivery-and-Flow/reference-class-forecasting.md` · **st:** fixed · **n:** fixed wrong attribution (Tversky died 1996, before RCF was formalized — Flyvbjerg developed it, drawing on K&T framework); added 4 missing backlinks (planning-fallacy, pre-mortem, margin-of-safety, probabilistic-thinking).
 - [x] `#209` **Empirical Process Control** · `Delivery-and-Flow/empirical-process-control.md` · **st:** fixed · **n:** added 5 --- separators, fixed dup footer, expanded 5 bare refs; Gap-A [248] Snowden & Boone; Gap-B2: Shewhart 1931, Deming 1986, Takeuchi/Nonaka 1986, Scrum Guide 2020; backlinks in drift-to-failure, experiment-design, outcome-vs-output
-- [ ] `#255` **Technical Debt** · `Delivery-and-Flow/technical-debt.md` · **st:** todo · **n:** —
+- [x] `#255` **Technical Debt** · `Delivery-and-Flow/technical-debt.md` · **st:** fixed · **n:** added Cunningham (1992) ref; backlinks added in flow-efficiency and littles-law; refs 376→377
 - [ ] `#256` **Reliability vs. Feature Velocity** · `Delivery-and-Flow/reliability-vs-velocity.md` · **st:** todo · **n:** —
 
 ## Consulting Craft (10)

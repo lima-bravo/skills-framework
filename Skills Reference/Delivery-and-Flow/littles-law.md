@@ -19,6 +19,8 @@ connections:
     rationale: the Kanban Method is one of the most complete operational implementations of Little's Law; its WIP limits make L = λW a daily management discipline.
   - id: 141
     rationale: probabilistic forecasting uses historical throughput and cycle time — both derived from Little's Law — as the core inputs to Monte Carlo simulation.
+  - id: 255
+    rationale: technical debt inflates cycle time (L = λW) without increasing throughput — it raises wait time through workarounds and incident load, and reduces effective throughput through rework, so the law predicts the delivery slowdown that debt causes.
 references:
   - title: "A Proof for the Queuing Formula: L = λW"
     authorYear: John D. C. Little (1961)

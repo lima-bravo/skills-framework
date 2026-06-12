@@ -6804,6 +6804,17 @@
       ]
     },
     {
+      "title": "The WyCash Portfolio Management System",
+      "authorYear": "Ward Cunningham (1992)",
+      "skills": [
+        {
+          "id": 255,
+          "name": "Technical Debt",
+          "color": "#0891B2"
+        }
+      ]
+    },
+    {
       "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
       "authorYear": "Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976)",
       "skills": [
