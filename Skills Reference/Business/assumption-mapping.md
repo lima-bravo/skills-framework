@@ -27,6 +27,8 @@ connections:
     rationale: red teams often attack at the level of assumptions; assumption mapping done beforehand gives the red team a structured inventory of which beliefs are most critical and least supported.
   - id: 66
     rationale: customer development produces the evidence that validates or invalidates the critical assumptions surfaced by the map.
+  - id: 70
+    rationale: each stage of the innovation funnel tests specific assumptions before advancing; assumption mapping identifies which ones are critical enough to gate on.
 references:
   - title: "Testing Business Ideas: A Field Guide for Rapid Experimentation"
     authorYear: David J. Bland & Alexander Osterwalder (2019)

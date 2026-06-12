@@ -25,6 +25,8 @@ connections:
     rationale: the pivot-or-persevere decision is the "learn" step of the BML loop operationalized as a structured strategy update.
   - id: 67
     rationale: innovation accounting is the measurement discipline that gives each BML cycle its metrics rigor; it defines what "measure" means in practice.
+  - id: 70
+    rationale: the innovation funnel uses BML as the learning mechanism within each stage; each gate decision is informed by a completed BML cycle.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)
