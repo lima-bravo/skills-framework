@@ -51,6 +51,8 @@ connections:
     rationale: rigorous experiment design is the structural antidote to confirmation bias in analysis; pre-defined success criteria and blinding remove the experimenter's ability to interpret results selectively.
   - id: 173
     rationale: dominant logic is confirmation bias institutionalized at the organizational level — the firm systematically attends to evidence that confirms its existing theory of the business.
+  - id: 79
+    rationale: convenience sampling operationalizes confirmation bias at the data-collection stage — selecting a sample that is predisposed to confirm the hypothesis under investigation.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)

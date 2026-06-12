@@ -53,6 +53,8 @@ connections:
     rationale: effectuation doesn't abandon probabilistic reasoning; it acknowledges when the distribution is too unknown to compute and uses affordable loss as a substitute for expected value.
   - id: 78
     rationale: probabilistic thinking is the framework for reasoning in high-randomness domains — calibrating how much of an observed outcome is signal versus noise.
+  - id: 79
+    rationale: valid probability estimates require valid sampling — the representativeness and size of the sample constrain any probabilistic inference.
 references:
   - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
     authorYear: Annie Duke (2018)

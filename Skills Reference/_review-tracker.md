@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **158**
+- Reviewed (verified + fixed): **159**
 - Flagged: **0**
-- Remaining (todo): **104**
+- Remaining (todo): **103**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -232,7 +232,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#76` **Local Maxima** · `Mathematics/local-maxima.md` · **st:** fixed · **n:** Content and refs verified clean (Pólya 1945 + Algorithms to Live By correct). Added 1 missing backlink (id:37 Creative Destruction). build + check:counts pass.
 - [x] `#77` **Regression to the Mean** · `Mathematics/regression-to-the-mean.md` · **st:** fixed · **n:** Fixed 2 typos ("centerd"→"centered", "praized"→"praised"). Added 2 missing backlinks (ids 54, 56). Refs and content verified clean. build + check:counts pass.
 - [x] `#78` **Randomness** · `Mathematics/randomness.md` · **st:** fixed · **n:** Content and refs verified clean (Taleb 2001, Mlodinow 2008, Silver 2012 all correct). Added 2 missing backlinks (ids 7, 77). build + check:counts pass.
-- [ ] `#79` **Sampling** · `Mathematics/sampling.md` · **st:** todo · **n:** —
+- [x] `#79` **Sampling** · `Mathematics/sampling.md` · **st:** fixed · **n:** Content and refs verified clean (Huff 1954, Silver 2012 correct; WEIRD acronym accurate). Added 2 missing backlinks (ids 7, 55). build + check:counts pass.
 - [ ] `#80` **Surface Area** · `Mathematics/surface-area.md` · **st:** todo · **n:** —
 - [ ] `#81` **Multiply by Zero** · `Mathematics/multiply-by-zero.md` · **st:** todo · **n:** —
 - [ ] `#227` **Expected Value** · `Mathematics/expected-value.md` · **st:** todo · **n:** —
