@@ -13,6 +13,8 @@ connections:
     rationale: the abstraction step in learning transfer often requires first-principles thinking to identify what the transferable principle actually is.
   - id: 106
     rationale: "analogical reasoning at the problem-solving level is the same mechanism as learning transfer at the individual level: applying structural insight from one domain to a superficially different context."
+  - id: 174
+    rationale: the absorptive capacity binding constraint on open innovation is essentially a learning transfer problem — whether the organization can recognize and apply external knowledge in its own context.
 references:
   - title: "Make It Stick: The Science of Successful Learning"
     authorYear: P.C. Brown, H.L. Roediger III & M.A. McDaniel (2014)

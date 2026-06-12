@@ -31,6 +31,8 @@ connections:
     rationale: JTBD sharpens the hypothesis for each BML cycle — it defines what job-completing capability to build and what "improved" means in the measure step.
   - id: 110
     rationale: design thinking produces the right question to test; build-measure-learn provides the quantitative loop to validate the answer at scale.
+  - id: 174
+    rationale: open innovation expands the surface area for experimentation; the same learning loop applies whether the experiment originates internally or is sourced externally.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)

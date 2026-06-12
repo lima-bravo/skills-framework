@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **145**
+- Reviewed (verified + fixed): **146**
 - Flagged: **0**
-- Remaining (todo): **117**
+- Remaining (todo): **116**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -216,7 +216,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#113` **Three Horizons** · `Business/three-horizons.md` · **st:** fixed · **n:** structure, content, and ref (Alchemy of Growth 1999) clean; AWS example accurate; backlinks added to portfolio-map, disruptive-innovation, s-curves, two-way-doors; funnel-intake and 2 others already had them
 - [x] `#172` **Ambidextrous Organization** · `Business/ambidextrous-organization.md` · **st:** fixed · **n:** backlinks added to 108, 113, 112, 124; structure, content, and ref verified clean.
 - [x] `#173` **Dominant Logic** · `Business/dominant-logic.md` · **st:** fixed · **n:** added Prahalad & Bettis (1986) originating paper; backlinks added to 112, 55, 6, 122, 102; 16 orphan manifest refs (migration artifact) cleaned by derive:refs --write, prose counts updated to 373.
-- [ ] `#174` **Open Innovation** · `Business/open-innovation.md` · **st:** todo · **n:** —
+- [x] `#174` **Open Innovation** · `Business/open-innovation.md` · **st:** fixed · **n:** backlinks added to 172, 109, 82, 89, 173, 63; structure, content, and Chesbrough (2003) ref verified clean.
 - [ ] `#175` **Effectuation** · `Startups/effectuation.md` · **st:** todo · **n:** —
 - [ ] `#176` **Organizational Slack** · `Business/organizational-slack.md` · **st:** todo · **n:** —
 - [ ] `#179` **Innovation Health Indicators** · `Business/innovation-health-indicators.md` · **st:** todo · **n:** —

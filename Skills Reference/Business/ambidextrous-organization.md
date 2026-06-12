@@ -17,6 +17,8 @@ connections:
     rationale: the cognitive mechanism that causes exploit to reject explore's discoveries; understanding dominant logic explains why structural separation alone is insufficient.
   - id: 176
     rationale: explore requires protected capacity; without slack, the ambidextrous structure is nominal rather than real.
+  - id: 174
+    rationale: open innovation is a sourcing strategy for the explore function; ambidextrous structure determines whether the organization can actually absorb and deploy what it sources externally.
 references:
   - title: "Lead and Disrupt: How to Solve the Innovator's Dilemma"
     authorYear: Charles A. O'Reilly III & Michael L. Tushman (2016)

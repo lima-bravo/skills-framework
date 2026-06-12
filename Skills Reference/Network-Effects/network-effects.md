@@ -31,6 +31,8 @@ connections:
     rationale: reciprocal networks, where giving to one member benefits others, generate stronger and more durable network effects than purely transactional ones.
   - id: 111
     rationale: beachhead strategies for crossing the chasm leverage network effects within a single community first; the density of that beachhead is what makes the expansion into adjacent segments possible.
+  - id: 174
+    rationale: open ecosystems and platform strategies often generate network effects that amplify the value of open innovation approaches; openness can accelerate adoption and strengthen the network.
 references:
   - title: "Platform Revolution: How Networked Markets Are Transforming the Economy"
     authorYear: G.G. Parker, M.W. Van Alstyne & S.P. Choudary (2016)

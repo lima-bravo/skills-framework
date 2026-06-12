@@ -17,6 +17,8 @@ connections:
     rationale: "each step through the adjacent possible compounds: entering a new room doesn't just solve today's problem, it opens new doors unavailable from the previous room. The value of early steps is partly the future steps they make accessible."
   - id: 210
     rationale: "Wardley Maps reveal the adjacent possible in strategic terms: components at the Genesis/Custom boundary are where new moves become accessible; Commodity components are closed territory."
+  - id: 174
+    rationale: open innovation deliberately expands the organization's adjacent possible by connecting it to external knowledge flows — making combinations accessible that internal resources alone cannot reach.
 references:
   - title: Where Good Ideas Come From
     authorYear: Steven Johnson (2010)

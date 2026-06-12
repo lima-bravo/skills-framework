@@ -23,6 +23,8 @@ connections:
     rationale: "dominant logic is narrative instinct institutionalised: the founding story that the organisation encodes and then uses to filter all new evidence."
   - id: 205
     rationale: "dominant logic is organisation-level consistency bias: the founding narrative must be defended because it is central to institutional identity."
+  - id: 174
+    rationale: NIH syndrome is dominant logic applied to external sourcing — the same cognitive filters that cause organizations to miss disruption also cause them to discount external innovation.
 references:
   - title: "The Dominant Logic: A New Linkage Between Diversity and Performance"
     authorYear: C.K. Prahalad & Richard A. Bettis (1986)
