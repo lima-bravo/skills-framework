@@ -23,6 +23,8 @@ connections:
     rationale: JTBD discovers which jobs exist and how customers experience them; segmentation is the strategic move of grouping customers by which jobs they share and how much each group is worth pursuing — discovery and grouping are different activities that should not be conflated.
   - id: 0
     rationale: "JTBD is an application of first principles to product strategy: stripping away assumptions about product categories to ask what the customer fundamentally needs and what moment makes that need urgent."
+  - id: 110
+    rationale: "design thinking's empathy stage and JTBD are complementary: JTBD identifies the job to be done and its four forces; design thinking provides the process for uncovering the human experience that surrounds it."
 references:
   - title: "Competing Against Luck: The Story of Innovation and Customer Choice"
     authorYear: Clayton M. Christensen, Taddy Hall, Karen Dillon & David S. Duncan (2016)

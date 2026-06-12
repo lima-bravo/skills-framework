@@ -29,6 +29,8 @@ connections:
     rationale: the innovation funnel uses BML as the learning mechanism within each stage; each gate decision is informed by a completed BML cycle.
   - id: 103
     rationale: JTBD sharpens the hypothesis for each BML cycle — it defines what job-completing capability to build and what "improved" means in the measure step.
+  - id: 110
+    rationale: design thinking produces the right question to test; build-measure-learn provides the quantitative loop to validate the answer at scale.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)
