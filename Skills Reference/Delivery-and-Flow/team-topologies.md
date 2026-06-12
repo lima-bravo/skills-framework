@@ -69,7 +69,7 @@ Most enterprise org-charts treat teams as boxes labelled by function (engineerin
 
 ## Worked Example
 
-A 400-person fintech reorganization moves from a 30-team feature-matrix to a Team Topologies model. The mapping: 14 stream-aligned teams (each owns one customer journey end-to-end), 4 platform teams (identity, deployment, observability, data), 2 complicated-subsystem teams (risk engine, payment connectivity), and a small enabling team that rotates capability uplift through stream-aligned teams. Interaction modes are written and visible on a wall. Within a year, DORA metrics move from low- to high-band on three of four indicators, cross-team dependency tickets fall 60%, and onboarding time for new senior engineers drops from 7 to 9 weeks down to 4. The biggest difficulty was killing two persistent collaboration relationships that the old org-chart had required.
+A 400-person fintech reorganization moves from a 30-team feature-matrix to a Team Topologies model. The mapping: 14 stream-aligned teams (each owns one customer journey end-to-end), 4 platform teams (identity, deployment, observability, data), 2 complicated-subsystem teams (risk engine, payment connectivity), and a small enabling team that rotates capability uplift through stream-aligned teams. Interaction modes are written and visible on a wall. Within a year, DORA metrics move from low- to high-band on three of four indicators, cross-team dependency tickets fall 60%, and onboarding time for new senior engineers drops from 7–9 weeks to 4. The biggest difficulty was killing two persistent collaboration relationships that the old org-chart had required.
 
 ---
 

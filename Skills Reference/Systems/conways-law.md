@@ -27,6 +27,8 @@ connections:
     rationale: gemba walks surface the org boundaries that show up as flow problems — the handoffs that take longest almost always cross team boundaries that Conway's Law predicts.
   - id: 150
     rationale: Conway's Law and cognitive load are mutually determining — the architecture a team owns shapes its cognitive load, and the load a team can bear constrains the architecture it can sustain.
+  - id: 154
+    rationale: Team Topologies is the applied Conway's Law playbook — the four team types and three interaction modes are the operational instruments for executing the Inverse Conway Maneuver.
 references:
   - title: How Do Committees Invent?
     authorYear: Melvin E. Conway, Datamation (1968)
