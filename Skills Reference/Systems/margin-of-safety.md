@@ -41,6 +41,8 @@ connections:
     rationale: reference class forecasting quantifies the empirical basis for margin of safety — base-rate overruns on comparable projects determine how much buffer is structurally justified, rather than leaving it to gut feel.
   - id: 256
     rationale: an error budget is a domain-specific form of margin-of-safety reasoning — it reserves a defined tolerance for failure before velocity must give way to reliability work.
+  - id: 117
+    rationale: the Capacity Planning chain mandates a minimum 20% buffer in Step 7 and sets 70–80% utilization as the viable ceiling — the margin-of-safety principle applied quantitatively to resource plans.
 references:
   - title: "The Intelligent Investor: The Definitive Book on Value Investing"
     authorYear: Benjamin Graham (1949; rev. ed. 2003)

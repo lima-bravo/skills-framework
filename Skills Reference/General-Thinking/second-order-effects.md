@@ -29,6 +29,8 @@ connections:
     rationale: each scenario must include the downstream consequences of primary shifts; a scenario that stops at first-order changes misses the dynamics that determine which future actually arrives.
   - id: 237
     rationale: the Cobra Effect is a specific second-order effect where the mechanism of backfire runs through the intervention's own incentive structure rather than through downstream consequences.
+  - id: 117
+    rationale: the Capacity Planning chain's Step 6 models the near-capacity feedback loop — high utilization degrades quality, which generates reactive work, which further erodes capacity — a second-order dynamic that naive headcount math misses.
 references:
   - title: "The Most Important Thing: Uncommon Sense for the Thoughtful Investor"
     authorYear: Howard Marks (2011)

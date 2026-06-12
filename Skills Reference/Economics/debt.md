@@ -11,6 +11,8 @@ connections:
     rationale: debt reduces margin of safety by creating fixed future obligations; the two must be considered together.
   - id: 30
     rationale: taking on debt is a trade-off between present capability and future flexibility.
+  - id: 117
+    rationale: the Capacity Planning chain's Step 5 deducts pre-existing cognitive debt — ongoing fires, accumulated technical and organizational obligations — from available capacity before committing to new work.
 references:
   - title: "Money: The Unauthorized Biography"
     authorYear: Felix Martin (2013)

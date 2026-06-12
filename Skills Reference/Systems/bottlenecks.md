@@ -51,6 +51,8 @@ connections:
     rationale: high-fan-in teams are scaled-delivery bottlenecks — when many teams depend on one, that team's capacity becomes the system constraint regardless of its throughput.
   - id: 159
     rationale: WSJF operates on bottleneck capacity — the sequencing rule only matters when there is a scarcity constraint, and its value is highest precisely at the bottleneck where choosing wrong is most costly.
+  - id: 117
+    rationale: the Capacity Planning chain's Step 4 identifies the single binding constraint — the person, skill, or dependency the plan flows through — whose adjusted capacity sets the ceiling for the whole plan.
 references:
   - title: "The Goal: A Process of Ongoing Improvement"
     authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)

@@ -27,6 +27,8 @@ connections:
     rationale: the Attention Budget is the operational discipline that creates space for deep work — capping concurrent commitments is what makes 2–4 hour focus blocks achievable rather than aspirational.
   - id: 149
     rationale: context-switching cost is what deep work defends against — every interruption erases the loaded cognitive context that deep work depends on, and recovery time is non-trivial.
+  - id: 117
+    rationale: the Capacity Planning chain uses deep work hours (3.5 per person per day) as its foundational capacity metric — calendar hours are the wrong denominator for cognitive work planning.
 references:
   - title: "Deep Work: Rules for Focused Success in a Distracted World"
     authorYear: Cal Newport (2016)
