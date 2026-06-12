@@ -19,9 +19,11 @@ connections:
     rationale: fragmented attention destroys cognitive slack even when calendar slack nominally exists; the two must be managed together.
 references:
   - title: "Quality Software Management Vol. 1: Systems Thinking"
-    authorYear: Gerald M. Weinberg (1992).
+    authorYear: Gerald M. Weinberg (1992)
+    supports: the quantification of context-switching cost — each additional concurrent project reduces productive time non-linearly.
   - title: "Peopleware: Productive Projects and Teams"
-    authorYear: Tom DeMarco & Timothy Lister (1987).
+    authorYear: Tom DeMarco & Timothy Lister (1987)
+    supports: the empirical case for uninterrupted flow time as the foundation of knowledge work productivity.
 ---
 
 # Context-Switching Cost

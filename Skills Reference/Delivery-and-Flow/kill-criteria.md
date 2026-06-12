@@ -37,11 +37,14 @@ connections:
     rationale: "kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth."
 references:
   - title: "Quit: The Power of Knowing When to Walk Away"
-    authorYear: Annie Duke (2022).
+    authorYear: Annie Duke (2022)
+    supports: the psychology of quitting and the value of pre-committing to exit criteria before sunk-cost attachment sets in.
   - title: Thinking in Bets
-    authorYear: Annie Duke (2018).
+    authorYear: Annie Duke (2018)
+    supports: the decision-making framework for setting kill criteria in advance, before emotional commitment to an outcome.
   - title: The Hard Thing About Hard Things
-    authorYear: Ben Horowitz (2014).
+    authorYear: Ben Horowitz (2014)
+    supports: the practitioner account of difficult product and company decisions including when to kill initiatives.
 ---
 
 # Kill Criteria

@@ -19,11 +19,14 @@ connections:
     rationale: the Plan-step discipline of imagining failure modes before acting.
 references:
   - title: Out of the Crisis
-    authorYear: W. Edwards Deming (1986).
+    authorYear: W. Edwards Deming (1986)
+    supports: Deming's elaboration of the Shewhart cycle and its application to continuous quality improvement.
   - title: Statistical Method from the Viewpoint of Quality Control
-    authorYear: Walter A. Shewhart (1939).
+    authorYear: Walter A. Shewhart (1939)
+    supports: the original statistical quality control cycle from which PDCA derives.
   - title: The Toyota Way
-    authorYear: Jeffrey K. Liker (2004).
+    authorYear: Jeffrey K. Liker (2004)
+    supports: the Toyota application of PDCA as the engine of kaizen and the scientific thinking habit.
 ---
 
 # PDCA

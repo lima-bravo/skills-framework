@@ -19,11 +19,14 @@ connections:
     rationale: the measurement system that a KPI architecture builds is the infrastructure OKRs depend on; OKRs without a driver-tree measurement architecture underneath them become aspirational statements no one can track.
 references:
   - title: Measure What Matters
-    authorYear: John Doerr (2018).
+    authorYear: John Doerr (2018)
+    supports: the OKR methodology as practiced at Intel and Google; the source text for modern OKR implementation.
   - title: High Output Management
-    authorYear: Andrew S. Grove (1983).
+    authorYear: Andrew S. Grove (1983)
+    supports: the MBO framework at Intel from which OKRs evolved; the managerial logic for objectives and key results.
   - title: Radical Focus
-    authorYear: Christina Wodtke (2016).
+    authorYear: Christina Wodtke (2016)
+    supports: the practical guide to implementing OKRs in small teams and startups.
 ---
 
 # OKRs

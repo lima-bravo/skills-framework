@@ -17,11 +17,14 @@ connections:
     rationale: the team-level variant.
 references:
   - title: "Deep Work: Rules for Focused Success in a Distracted World"
-    authorYear: Cal Newport (2016).
+    authorYear: Cal Newport (2016)
+    supports: the case for deep work as the most valuable knowledge work skill; cognitive capacity as a finite daily resource.
   - title: The Principles of Product Development Flow
-    authorYear: Donald G. Reinertsen (2009).
+    authorYear: Donald G. Reinertsen (2009)
+    supports: the economic cost of interruptions and context switching in product development; attention as a capacity constraint.
   - title: Getting Things Done
-    authorYear: David Allen (2001).
+    authorYear: David Allen (2001)
+    supports: the GTD system for externalizing open loops to free cognitive capacity for focused work.
 ---
 
 # Attention Budget

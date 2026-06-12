@@ -17,12 +17,14 @@ connections:
     rationale: pairs to forecast value delivery under a WSJF queue.
 references:
   - title: The Principles of Product Development Flow
-    authorYear: Donald G. Reinertsen (2009).
+    authorYear: Donald G. Reinertsen (2009)
+    supports: the full economic model of cost of delay and the CD3 formula from which WSJF derives.
   - title: SAFe
-    authorYear: Dean Leffingwell (Scaled Agile Framework
-    supports: WSJF formulation).
+    authorYear: Dean Leffingwell & Scaled Agile (2011–ongoing)
+    supports: the WSJF formula for sequencing work by cost of delay divided by job duration.
   - title: Lean Enterprise
-    authorYear: Jez Humble, Joanne Molesky & Barry O'Reilly (2014).
+    authorYear: Jez Humble, Joanne Molesky & Barry O'Reilly (2014)
+    supports: the lean portfolio investment approach that WSJF enables at scale.
 ---
 
 # WSJF

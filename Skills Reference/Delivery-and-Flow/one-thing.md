@@ -19,11 +19,14 @@ connections:
     rationale: "Rumelt's coherent action requires the same discipline: a short, mutually reinforcing set of commitments that rule things out, not a comprehensive list of everything desirable."
 references:
   - title: The One Thing
-    authorYear: Gary Keller & Jay Papasan (2013).
+    authorYear: Gary Keller & Jay Papasan (2013)
+    supports: the Focusing Question as a tool for identifying the single highest-leverage priority at any level.
   - title: The Advantage
-    authorYear: Patrick Lencioni (2012).
+    authorYear: Patrick Lencioni (2012)
+    supports: the organizational equivalent — a single thematic goal that unifies a leadership team around one priority.
   - title: Good Strategy / Bad Strategy
-    authorYear: Richard Rumelt (2011).
+    authorYear: Richard Rumelt (2011)
+    supports: good strategy as a diagnosis, guiding policy, and coherent set of actions focused on the critical challenge.
 ---
 
 # Strategic Prioritization ("One Thing")

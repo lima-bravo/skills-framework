@@ -17,11 +17,14 @@ connections:
     rationale: Flow Load makes WIP visible at portfolio scale.
 references:
   - title: Project to Product
-    authorYear: Mik Kersten (2018).
+    authorYear: Mik Kersten (2018)
+    supports: the Flow Framework — flow items, velocity, time, efficiency, and load — as business-level metrics for product value streams.
   - title: Accelerate
-    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: the DORA delivery-level metrics that complement flow metrics for a complete performance picture.
   - title: The Phoenix Project
-    authorYear: Gene Kim, Kevin Behr & George Spafford (2013).
+    authorYear: Gene Kim, Kevin Behr & George Spafford (2013)
+    supports: the narrative case for flow-oriented thinking in software delivery; the consequences of ignoring flow metrics.
 ---
 
 # Flow Metrics

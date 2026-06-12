@@ -20,12 +20,16 @@ connections:
 references:
   - title: Self-Determination Theory
     authorYear: Ryan & Deci, 2017
+    supports: the empirical foundation — autonomy, competence, relatedness — that purpose clarity satisfies; the motivational mechanism explained.
   - title: Start With Why
     authorYear: Simon Sinek, 2009
+    supports: Sinek's case for why-before-how as the organizing principle of leadership communication and organizational identity.
   - title: The Making of a Manager
     authorYear: Julie Zhuo, 2019
+    supports: Zhuo's practitioner account of what new managers learn about purpose, feedback, and team clarity.
   - title: Radical Candor
     authorYear: Kim Scott, 2017
+    supports: Kim Scott's framework for caring personally and challenging directly; purpose clarity as the foundation of honest management.
 ---
 
 # Purpose Clarity

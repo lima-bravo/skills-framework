@@ -17,11 +17,14 @@ connections:
     rationale: pull systems are balancing feedback loops; Kanban makes the loop visible.
 references:
   - title: "Kanban: Successful Evolutionary Change for Your Technology Business"
-    authorYear: David J. Anderson (2010).
+    authorYear: David J. Anderson (2010)
+    supports: the definitive text on the Kanban Method for knowledge work; the source of its practices and change management approach.
   - title: Kanban from the Inside
-    authorYear: Mike Burrows (2014).
+    authorYear: Mike Burrows (2014)
+    supports: a deeper exploration of Kanban's values, principles, and practices; the practitioner's complement to Anderson.
   - title: "Toyota Production System: Beyond Large-Scale Production"
-    authorYear: Taiichi Ohno (1988).
+    authorYear: Taiichi Ohno (1988)
+    supports: the TPS origin of kanban as a pull-scheduling signal; the physical-world system that inspired the method.
 ---
 
 # Kanban Method

@@ -17,11 +17,14 @@ connections:
     rationale: scope decisions are explicit trade-offs.
 references:
   - title: Flawless Consulting
-    authorYear: Peter Block (1981; 3rd ed. 2011).
+    authorYear: Peter Block (1981; 3rd ed. 2011)
+    supports: Block's definitive treatment of contracting as the foundation of every consulting engagement; the want/offer/concern structure.
   - title: The Trusted Advisor
-    authorYear: David H. Maister, Charles H. Green & Robert M. Galford (2000).
+    authorYear: David H. Maister, Charles H. Green & Robert M. Galford (2000)
+    supports: the trust-based approach to contracting; how clear agreements enable the advisor relationship rather than constraining it.
   - title: Million Dollar Consulting
-    authorYear: Alan Weiss (1992; 6th ed. 2021).
+    authorYear: Alan Weiss (1992; 6th ed. 2021)
+    supports: Weiss's practitioner framework for value-based fees, scope definition, and deliverable specification in consulting engagements.
 ---
 
 # Contracting & Scope

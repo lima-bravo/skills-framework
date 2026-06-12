@@ -24,12 +24,16 @@ connections:
 references:
   - title: "Army Doctrine Reference Publication 6-0: Mission Command"
     authorYear: US Army, 2012 (updated 2019)
+    supports: the US Army's mission command doctrine; the formal specification of commander's intent as a decision-enabling tool.
   - title: The Art of Action
     authorYear: Stephen Bungay, 2011 (civilian translation of Auftragstaktik and intent communication)
+    supports: Bungay's civilian translation of the three gaps and directed telescope; intent as the bridge between strategy and action.
   - title: Team of Teams
     authorYear: General Stanley McChrystal, 2015
+    supports: McChrystal's account of distributing authority through shared consciousness and empowered execution — intent at scale.
   - title: Extreme Ownership
     authorYear: Jocko Willink & Leif Babin, 2015
+    supports: Willink & Babin's practitioner account of decentralized command; clear intent as the enabling condition for autonomous execution.
 ---
 
 # Leader's Intent

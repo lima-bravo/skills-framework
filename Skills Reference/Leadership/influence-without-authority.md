@@ -22,17 +22,18 @@ connections:
   - id: 234
     rationale: "Overton Window strategy is the long-game version of influence without authority: shaping what's thinkable before making the ask."
 references:
-  - title: "Influence Without Authority: The Use of Alliances, Reciprocity, and Exchange to Accomplish Work."
-    authorYear: Cohen, A.R. & Bradford, D.L. (1989) — Organizational Dynamics
-    supports: ", 17(3), 4–17. The foundational framework."
+  - title: "Influence Without Authority: The Use of Alliances, Reciprocity, and Exchange to Accomplish Work"
+    authorYear: A.R. Cohen & D.L. Bradford (1989)
+    supports: the foundational exchange-based framework for influence without formal authority — the currency model for trading value across organizational boundaries.
   - title: "Influence: The Psychology of Persuasion"
-    authorYear: Cialdini, R.B. (1984)
-    supports: The six principles of influence.
+    authorYear: R.B. Cialdini (1984)
+    supports: the six principles of influence — reciprocity, commitment, social proof, authority, liking, scarcity — as psychological levers available without positional power.
   - title: Power and Influence
-    authorYear: Kotter, J.P. (1985)
+    authorYear: J.P. Kotter (1985)
+    supports: the political model of organizational power and how to build influence through networks and relationships without relying on formal authority.
   - title: Getting to Yes
-    authorYear: Fisher, R. & Ury, W. (1981)
-    supports: Interest-based negotiation as influence discipline.
+    authorYear: R. Fisher & W. Ury (1981)
+    supports: interest-based negotiation as influence discipline — finding what the other party actually needs rather than arguing positions.
 ---
 
 # Influence Without Authority

@@ -25,11 +25,14 @@ connections:
     rationale: "the pyramid's answer-first principle applies directly: the approver needs to know what is being asked, why, and on what terms before the supporting analysis, not after."
 references:
   - title: "The Pyramid Principle: Logic in Writing and Thinking"
-    authorYear: Barbara Minto (1987).
+    authorYear: Barbara Minto (1987)
+    supports: Minto's source text — the definitive treatment of top-down communication structure for business writing and presentations.
   - title: The McKinsey Way
-    authorYear: Ethan M. Rasiel (1999).
+    authorYear: Ethan M. Rasiel (1999)
+    supports: Rasiel's account of how the Pyramid Principle is applied in consulting practice.
   - title: HBR Guide to Better Business Writing
-    authorYear: Bryan A. Garner (2012).
+    authorYear: Bryan A. Garner (2012)
+    supports: Garner's guide to clear business writing; the Pyramid Principle's principles extended to broader writing craft.
 ---
 
 # Pyramid Principle

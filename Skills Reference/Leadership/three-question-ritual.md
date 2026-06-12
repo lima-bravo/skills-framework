@@ -17,11 +17,14 @@ connections:
     rationale: the alignment/decision distinction (Q1) is the same boundary the board/management split operates on
 references:
   - title: Death by Meeting
-    authorYear: Patrick Lencioni, 2004
+    authorYear: Patrick Lencioni (2004)
+    supports: the diagnosis of dysfunctional meeting cultures and the structural fixes — including closing rituals — that restore decision clarity and engagement.
   - title: The Responsibility Virus
-    authorYear: Roger Martin, 2002
+    authorYear: Roger Martin (2002)
+    supports: the over- and under-responsibility dynamic in leadership; Q2 (single owner) directly counteracts responsibility collapse.
   - title: Project Management Body of Knowledge (PMBOK Guide)
-    authorYear: Project Management Institute, 7th ed. 2021
+    authorYear: Project Management Institute (2021)
+    supports: the communication and status-reporting principles the three-question ritual operationalises at meeting granularity.
 ---
 
 # Three-Question Ritual

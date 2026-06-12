@@ -19,11 +19,14 @@ connections:
     rationale: probabilistic forecasting requires an inspectable, stable system; EPC provides the governance that keeps the system transparent enough to forecast reliably.
 references:
   - title: Actionable Agile Metrics for Predictability
-    authorYear: Daniel S. Vacanti (2015).
+    authorYear: Daniel S. Vacanti (2015)
+    supports: the Monte Carlo simulation approach to forecasting delivery dates from historical cycle time data.
   - title: When Will It Be Done?
-    authorYear: Daniel S. Vacanti (2020).
+    authorYear: Daniel S. Vacanti (2020)
+    supports: the practical guide to answering "when?" questions probabilistically for knowledge work teams.
   - title: Forecasting and Simulating Software Development Projects
-    authorYear: Troy Magennis (2011).
+    authorYear: Troy Magennis (2011)
+    supports: simulation techniques and open-source tooling for software project forecasting.
 ---
 
 # Probabilistic Forecasting

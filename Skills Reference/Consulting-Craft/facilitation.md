@@ -17,13 +17,13 @@ connections:
     rationale: MECE issue-tree construction can be done as a facilitated group activity; this distributes the framing work and increases the likelihood that important branches are not missed by a single analyst.
 references:
   - title: "The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation"
-    authorYear: Henri Lipmanowicz & Keith McCandless (2014). liberatingstructures.com.
+    authorYear: Henri Lipmanowicz & Keith McCandless (2014)
     supports: The 33 microstructures that replace default meeting formats with interaction patterns designed to elicit distributed intelligence.
   - title: Facilitator's Guide to Participatory Decision-Making
-    authorYear: Sam Kaner (2014; 3rd ed.).
+    authorYear: Sam Kaner (2014; 3rd ed.)
     supports: Divergence–convergence facilitation and participatory decision processes at group scale.
   - title: "The Art of Gathering: How We Meet and Why It Matters"
-    authorYear: Priya Parker (2018).
+    authorYear: Priya Parker (2018)
     supports: Meeting design as a deliberate act — purpose, format, and participant experience before content.
   - title: Humble Consulting
     authorYear: Edgar H. Schein (2016)

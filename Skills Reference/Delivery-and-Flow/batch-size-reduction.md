@@ -17,11 +17,14 @@ connections:
     rationale: an MVP is a deliberate batch-size reduction on a product bet.
 references:
   - title: The Principles of Product Development Flow
-    authorYear: Donald G. Reinertsen (2009).
+    authorYear: Donald G. Reinertsen (2009)
+    supports: the economic case for small batches — transaction cost, holding cost, and variability reduction.
   - title: Continuous Delivery
-    authorYear: Jez Humble & David Farley (2010).
+    authorYear: Jez Humble & David Farley (2010)
+    supports: the deployment pipeline practices that make small software batches viable and low-risk.
   - title: The Toyota Way
-    authorYear: Jeffrey K. Liker (2004).
+    authorYear: Jeffrey K. Liker (2004)
+    supports: the TPS origin of single-piece flow and small-batch thinking as the foundation of lean operations.
 ---
 
 # Batch Size Reduction

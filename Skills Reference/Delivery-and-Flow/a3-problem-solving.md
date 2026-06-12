@@ -17,11 +17,14 @@ connections:
     rationale: countermeasures express a theory; A3 is the operational version.
 references:
   - title: "Managing to Learn: Using the A3 Management Process"
-    authorYear: John Shook (2008).
+    authorYear: John Shook (2008)
+    supports: the source text for A3 management; the A3 as a tool for developing thinking and coaching problem-solvers.
   - title: Toyota Kata
-    authorYear: Mike Rother (2009).
+    authorYear: Mike Rother (2009)
+    supports: the scientific thinking methodology (Improvement Kata) that provides the cognitive engine inside the A3 process.
   - title: The Toyota Way
-    authorYear: Jeffrey K. Liker (2004).
+    authorYear: Jeffrey K. Liker (2004)
+    supports: the Toyota management system context for A3 as a vehicle for developing people and solving problems at the source.
 ---
 
 # A3 Problem Solving

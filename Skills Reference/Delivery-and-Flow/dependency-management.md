@@ -17,11 +17,14 @@ connections:
     rationale: internal platforms are the leverage mechanism that reduces dependencies structurally.
 references:
   - title: Team Topologies
-    authorYear: Matthew Skelton & Manuel Pais (2019).
+    authorYear: Matthew Skelton & Manuel Pais (2019)
+    supports: the Team Topologies framework for managing inter-team dependencies through team types and interaction modes.
   - title: Accelerate
-    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: the empirical evidence linking low external dependencies to delivery performance and organizational agility.
   - title: The Phoenix Project
-    authorYear: Gene Kim, Kevin Behr & George Spafford (2013).
+    authorYear: Gene Kim, Kevin Behr & George Spafford (2013)
+    supports: the narrative depiction of dependency-driven delivery failure and its resolution through flow thinking.
 ---
 
 # Dependency Management

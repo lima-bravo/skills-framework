@@ -22,10 +22,13 @@ connections:
 references:
   - title: The Art of Action
     authorYear: Stephen Bungay, 2011
+    supports: Bungay's civilian translation of Auftragstaktik; the three gaps (knowledge, alignment, effects) and the directed telescope.
   - title: "Moltke on the Art of War: Selected Writings"
     authorYear: Helmuth von Moltke / Daniel Hughes ed., 1993
+    supports: the primary source for Auftragstaktik — Moltke's doctrine of initiative within commander's intent.
   - title: Turn the Ship Around!
     authorYear: L. David Marquet, 2013
+    supports: the naval application of mission command — leader-leader rather than leader-follower model — in a modern organizational context.
 ---
 
 # Mission Command

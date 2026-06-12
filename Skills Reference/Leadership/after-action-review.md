@@ -36,12 +36,16 @@ connections:
 references:
   - title: "Army Regulation 11-33: Army Lessons Learned Program"
     authorYear: US Army
+    supports: the US Army's formal AAR doctrine; the source protocol for structured post-event learning.
   - title: The Fifth Discipline
     authorYear: Peter Senge, 1990 (the learning organisation as the civilian theoretical framework)
+    supports: the learning organisation as the civilian theoretical framework for AARs; systems thinking and mental models as the diagnostic lens.
   - title: An Everyone Culture
     authorYear: Kegan & Lahey, 2016 (the cultural conditions required for honest AARs)
+    supports: the cultural conditions required for honest AARs — psychological safety and developmental norms where feedback is normal.
   - title: Accelerate
     authorYear: Forsgren, Humble & Kim, 2018 (retrospectives as the engineering team's equivalent of the AAR)
+    supports: retrospectives as the engineering equivalent of the AAR; the empirical link between learning practices and delivery performance.
 ---
 
 # After-Action Review

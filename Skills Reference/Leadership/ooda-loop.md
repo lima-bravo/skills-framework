@@ -18,10 +18,13 @@ connections:
 references:
   - title: "boyd: The Fighter Pilot Who Changed the Art of War"
     authorYear: Robert Coram, 2002
+    supports: the definitive biography of Boyd and the intellectual history of the OODA loop's development from aerial combat to strategy.
   - title: Certain to Win
     authorYear: Chet Richards, 2004
+    supports: the application of Boyd's concepts to business strategy; the OODA loop as a competitive framework.
   - title: The Art of Maneuver
     authorYear: Robert Leonhard, 1991
+    supports: the military context for maneuver warfare and tempo as the strategic variable the OODA loop captures.
 ---
 
 # OODA Loop

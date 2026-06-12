@@ -21,11 +21,14 @@ connections:
     rationale: "Dunbar's Number is the cognitive constraint Team Topologies operationalises: team sizes and interaction patterns are bounded by what human relationship networks can sustain."
 references:
   - title: "Team Topologies: Organizing Business and Technology Teams for Fast Flow"
-    authorYear: Matthew Skelton & Manuel Pais (2019).
+    authorYear: Matthew Skelton & Manuel Pais (2019)
+    supports: the source text for Team Topologies; the four team types and three interaction modes for fast flow.
   - title: Accelerate
-    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: the empirical connection between team structure and software delivery performance underpinning Team Topologies.
   - title: Project to Product
-    authorYear: Mik Kersten (2018).
+    authorYear: Mik Kersten (2018)
+    supports: the business-level value stream view that Team Topologies enables at the organizational level.
 ---
 
 # Team Topologies

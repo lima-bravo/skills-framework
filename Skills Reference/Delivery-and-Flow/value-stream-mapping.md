@@ -17,11 +17,14 @@ connections:
     rationale: handoffs between teams reflect org boundaries; future-state may require org change.
 references:
   - title: "Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda"
-    authorYear: Mike Rother & John Shook (1999).
+    authorYear: Mike Rother & John Shook (1999)
+    supports: the original VSM workbook; the foundational text and visual vocabulary for value stream mapping practice.
   - title: "Value Stream Mapping: How to Visualize Work and Align Leadership for Organizational Transformation"
-    authorYear: Karen Martin & Mike Osterling (2013).
+    authorYear: Karen Martin & Mike Osterling (2013)
+    supports: the application of VSM to knowledge work, administrative, and service delivery processes.
   - title: The DevOps Handbook
-    authorYear: Gene Kim, Jez Humble, Patrick Debois & John Willis (2016).
+    authorYear: Gene Kim, Jez Humble, Patrick Debois & John Willis (2016)
+    supports: the DevOps application of value stream mapping to software delivery pipelines; eliminating waste in the deployment flow.
 ---
 
 # Value Stream Mapping

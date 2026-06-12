@@ -25,7 +25,7 @@ references:
     authorYear: Beyer, Murphy, Rensin, Kawahara & Thorne (2018)
     supports: O'Reilly. Practical implementation guide.
   - title: "Accelerate: The Science of Lean Software and DevOps"
-    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
     supports: Empirical link between deployment practices, incident rates, and the reliability–velocity trade-off teams actually experience.
 ---
 

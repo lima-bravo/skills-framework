@@ -27,9 +27,11 @@ connections:
     rationale: where Fermi estimation builds up from factors, reference class forecasting anchors on base rates from comparable cases — use both as cross-checks on each other.
 references:
   - title: Thinking, Fast and Slow
-    authorYear: Daniel Kahneman (2011).
+    authorYear: Daniel Kahneman (2011)
+    supports: the planning fallacy and the outside view; the psychological basis for using reference classes over inside-view estimates.
   - title: How Big Things Get Done
-    authorYear: Bent Flyvbjerg & Dan Gardner (2023).
+    authorYear: Bent Flyvbjerg & Dan Gardner (2023)
+    supports: the empirical evidence for reference class forecasting in major projects; the statistical case for historical base rates over optimistic projections.
 ---
 
 # Reference Class Forecasting

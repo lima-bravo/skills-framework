@@ -19,14 +19,17 @@ connections:
     rationale: the AAR retroactively surfaces the misalignments that Brief-Backs should have caught; patterns in AAR findings should improve briefing quality
 references:
   - title: "Army Doctrine Reference Publication 6-0: Mission Command"
-    authorYear: US Army, 2012 (updated 2019)
+    authorYear: US Army (2012, updated 2019)
+    supports: the doctrine source for brief-backs — the verbal confirmation that commanders' intent has been received and understood.
   - title: Team of Teams
-    authorYear: General Stanley McChrystal, 2015
+    authorYear: General Stanley McChrystal (2015)
+    supports: distributed authority requiring that intent is genuinely shared, not just broadcast — brief-backs as the verification mechanism.
   - title: The Checklist Manifesto
-    authorYear: Atul Gawande, 2009 (the same logic applied to medical and aviation contexts)
+    authorYear: Atul Gawande (2009)
+    supports: the aviation and surgical read-back protocol — the same brief-back logic applied to high-stakes execution in non-military contexts.
   - title: Crucial Conversations
-    authorYear: Patterson, Grenny, McMillan & Switzler, 2002 (the interpersonal conditions required for honest Brief
-    supports: Backs)
+    authorYear: Patterson, Grenny, McMillan & Switzler (2002)
+    supports: the interpersonal conditions required for honest brief-backs — psychological safety and the ability to surface contradictions without penalty.
 ---
 
 # Brief-Back Protocols

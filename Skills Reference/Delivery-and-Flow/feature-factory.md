@@ -17,9 +17,11 @@ connections:
     rationale: the portfolio-level structure that makes product orientation durable.
 references:
   - title: Escaping the Build Trap
-    authorYear: Melissa Perri (2018).
+    authorYear: Melissa Perri (2018)
+    supports: the definitive diagnosis of feature factory anti-patterns and the organizational path to outcome-oriented product management.
   - title: Inspired
-    authorYear: Marty Cagan (2008; 2nd ed. 2017).
+    authorYear: Marty Cagan (2008; 2nd ed. 2017)
+    supports: the contrast between feature-factory and product-led thinking; what it means to build products customers love.
 ---
 
 # Feature Factory vs Product Orientation

@@ -21,11 +21,14 @@ connections:
     rationale: portfolio-level slack policy — explicit capacity reservation for strategic bets — is the mechanism for protecting exploration investment at scale.
 references:
   - title: SAFe Lean Portfolio Management
-    authorYear: Dean Leffingwell et al. (Scaled Agile).
+    authorYear: Dean Leffingwell et al. (Scaled Agile)
+    supports: the SAFe Lean Portfolio Management practice — portfolio kanban, value streams, participatory budgeting.
   - title: Lean Enterprise
-    authorYear: Jez Humble, Joanne Molesky & Barry O'Reilly (2014).
+    authorYear: Jez Humble, Joanne Molesky & Barry O'Reilly (2014)
+    supports: the Lean Enterprise approach to portfolio investment, hypothesis-driven development, and organizational agility at scale.
   - title: The Principles of Product Development Flow
-    authorYear: Donald G. Reinertsen (2009).
+    authorYear: Donald G. Reinertsen (2009)
+    supports: the product development flow foundation — cost of delay, WIP limits, decentralized decisions — that lean portfolio practices operationalise.
 ---
 
 # Lean Portfolio Management

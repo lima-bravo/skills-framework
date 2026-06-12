@@ -17,11 +17,14 @@ connections:
     rationale: gemba surfaces the org boundaries that show up as flow problems.
 references:
   - title: "Gemba Kaizen: A Commonsense Approach to a Continuous Improvement Strategy"
-    authorYear: Masaaki Imai (1997).
+    authorYear: Masaaki Imai (1997)
+    supports: the Gemba Kaizen framework — go to the actual place, observe the actual situation, improve the actual process.
   - title: "Toyota Production System: Beyond Large-Scale Production"
-    authorYear: Taiichi Ohno (1988).
+    authorYear: Taiichi Ohno (1988)
+    supports: the TPS principle of direct observation at the point of production as the only basis for real improvement.
   - title: The Toyota Way
-    authorYear: Jeffrey K. Liker (2004).
+    authorYear: Jeffrey K. Liker (2004)
+    supports: the Toyota management principle of genchi genbutsu — go and see for yourself before making decisions.
 ---
 
 # Gemba

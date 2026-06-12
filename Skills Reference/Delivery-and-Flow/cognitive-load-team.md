@@ -21,9 +21,11 @@ connections:
     rationale: excess detail is one of the primary sources of unnecessary cognitive load; Quantity and Relation violations directly tax team capacity.
 references:
   - title: "Team Topologies: Organizing Business and Technology Teams for Fast Flow"
-    authorYear: Matthew Skelton & Manuel Pais (2019).
+    authorYear: Matthew Skelton & Manuel Pais (2019)
+    supports: the Team Topologies framework for designing team structures explicitly around cognitive load limits.
   - title: Accelerate
-    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: the empirical link between team structure, cognitive load, and software delivery performance.
 ---
 
 # Cognitive Load (Team)

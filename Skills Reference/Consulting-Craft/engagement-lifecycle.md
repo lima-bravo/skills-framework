@@ -21,11 +21,14 @@ connections:
     rationale: workshop and discovery phases of the engagement lifecycle require facilitation design; structure determines whose intelligence the work uses.
 references:
   - title: Flawless Consulting
-    authorYear: Peter Block (1981; 3rd ed. 2011).
+    authorYear: Peter Block (1981; 3rd ed. 2011)
+    supports: Block's foundational text on the consulting engagement cycle — contracting, discovery, feedback, decision — and the client-consultant relationship.
   - title: Process Consultation
-    authorYear: Edgar H. Schein (1969).
+    authorYear: Edgar H. Schein (1969)
+    supports: Schein's model of the helping relationship; process consultation as an alternative to expert and doctor-patient modes.
   - title: The Trusted Advisor
-    authorYear: David H. Maister, Charles H. Green & Robert M. Galford (2000).
+    authorYear: David H. Maister, Charles H. Green & Robert M. Galford (2000)
+    supports: Maister, Green & Galford's framework for moving from subject-matter expert to trusted advisor through the Trust Equation.
 ---
 
 # Engagement Lifecycle

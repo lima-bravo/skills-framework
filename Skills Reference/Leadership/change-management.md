@@ -28,10 +28,13 @@ connections:
 references:
   - title: Leading Change
     authorYear: John Kotter, 1996
+    supports: Kotter's eight-step model for large-scale organizational change; the source text for the sense-of-urgency and coalition-building steps.
   - title: "ADKAR: A Model for Change in Business, Government and our Community"
     authorYear: Jeff Hiatt, 2006
+    supports: the individual-level change model — Awareness, Desire, Knowledge, Ability, Reinforcement — that complements organizational change frameworks.
   - title: Managing Transitions
     authorYear: William Bridges, 2009
+    supports: Bridges' distinction between change (external event) and transition (internal psychological process); endings must precede new beginnings.
 ---
 
 # Change Management

@@ -24,10 +24,13 @@ connections:
 references:
   - title: Organizational Culture and Leadership
     authorYear: Edgar Schein, 1985 (5th ed. 2017)
+    supports: Schein's foundational model — artifacts, espoused values, basic assumptions — and the mechanisms by which culture is created and changed.
   - title: The Corporate Culture Survival Guide
     authorYear: Edgar Schein, 1999
+    supports: Schein's practitioner guide to diagnosing and working with culture; the consultant's approach to culture change.
   - title: An Everyone Culture
     authorYear: Robert Kegan & Lisa Laskow Lahey, 2016
+    supports: the developmental culture model — the Deliberately Developmental Organization — where growth is the core operating principle.
 ---
 
 # Organizational Culture

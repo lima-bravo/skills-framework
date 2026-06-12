@@ -19,11 +19,14 @@ connections:
     rationale: short-run extremes will revert; don't overreact.
 references:
   - title: Out of the Crisis
-    authorYear: W. Edwards Deming (1986).
+    authorYear: W. Edwards Deming (1986)
+    supports: the source text for understanding variation in quality systems; the distinction between common and special cause variation.
   - title: Actionable Agile Metrics for Predictability
-    authorYear: Daniel S. Vacanti (2015).
+    authorYear: Daniel S. Vacanti (2015)
+    supports: the application of statistical variability analysis to Kanban flow metrics and cycle time distributions.
   - title: When Will It Be Done?
-    authorYear: Daniel S. Vacanti (2020).
+    authorYear: Daniel S. Vacanti (2020)
+    supports: the extension into probabilistic forecasting — using cycle time histograms to answer delivery date questions.
 ---
 
 # Statistical Variability

@@ -20,12 +20,16 @@ connections:
 references:
   - title: The Surprising Science of Meetings
     authorYear: Steven Rogelberg, 2019
+    supports: Rogelberg's research on meeting effectiveness; the evidence base for why most meetings are unnecessary and how to redesign them.
   - title: Deep Work
     authorYear: Cal Newport, 2016
+    supports: the cognitive case for protecting uninterrupted work time; async-first is the organizational policy that makes deep work possible.
   - title: A World Without Email
     authorYear: Cal Newport, 2021
+    supports: Newport's argument for workflow protocols that replace the hyperactive hive mind with intentional async communication.
   - title: Remote
     authorYear: Jason Fried & David Heinemeier Hansson, 2013
+    supports: the practitioner guide to remote and async work; the cultural and tooling foundations for an async-first organization.
 ---
 
 # Async-First Default

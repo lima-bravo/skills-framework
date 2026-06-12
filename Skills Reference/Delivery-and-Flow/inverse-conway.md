@@ -17,9 +17,11 @@ connections:
     rationale: the original observation that the maneuver inverts.
 references:
   - title: Accelerate
-    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: empirical evidence that teams who design systems around their desired architecture deliver faster than those constrained by org structure.
   - title: Team Topologies
-    authorYear: Matthew Skelton & Manuel Pais (2019).
+    authorYear: Matthew Skelton & Manuel Pais (2019)
+    supports: the Team Topologies approach to applying the Inverse Conway Maneuver deliberately through team design.
 ---
 
 # Inverse Conway Maneuver

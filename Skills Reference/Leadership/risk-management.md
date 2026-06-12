@@ -18,10 +18,13 @@ connections:
 references:
   - title: Enterprise Risk Management — Integrating with Strategy and Performance
     authorYear: COSO, 2017
+    supports: the COSO ERM framework integrating risk management with strategy and performance across the enterprise.
   - title: "Against the Gods: The Remarkable Story of Risk"
     authorYear: Peter Bernstein, 1996
+    supports: the history of risk and probability; the intellectual foundation of modern quantitative risk management.
   - title: The Failure of Risk Management
     authorYear: Douglas Hubbard, 2009
+    supports: the critique of standard risk management practices — why qualitative heat maps fail and what rigorous measurement requires.
 ---
 
 # Risk Management

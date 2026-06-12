@@ -25,11 +25,14 @@ connections:
     rationale: a growth team shipping features while the binding constraint goes unaddressed is the canonical outcome-vs-output failure in a growth context.
 references:
   - title: "Outcomes Over Output: Why Customer Behavior Is the Key Metric for Business Success"
-    authorYear: Josh Seiden (2019).
+    authorYear: Josh Seiden (2019)
+    supports: the definitive case for outcome-based product management; customer behavior change as the real unit of success.
   - title: Escaping the Build Trap
-    authorYear: Melissa Perri (2018).
+    authorYear: Melissa Perri (2018)
+    supports: the product management critique of feature factories and the organizational path to outcome orientation.
   - title: "Inspired: How to Create Tech Products Customers Love"
-    authorYear: Marty Cagan (2008; 2nd ed. 2017).
+    authorYear: Marty Cagan (2008; 2nd ed. 2017)
+    supports: the product manager's framework for building what customers love by focusing on outcomes rather than shipping features.
 ---
 
 # Outcome vs Output

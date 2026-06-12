@@ -25,11 +25,14 @@ connections:
     rationale: "DORA is a worked example of KPI architecture done well: a small set of decision-linked, leading-and-lagging metrics derived from first principles for software delivery."
 references:
   - title: "Accelerate: The Science of Lean Software and DevOps"
-    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018).
+    authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
+    supports: the research basis for the four DORA metrics (deployment frequency, lead time, change failure rate, MTTR) and their link to organizational performance.
   - title: State of DevOps Report
-    authorYear: DORA / Google Cloud (annual, 2014–present).
+    authorYear: DORA / Google Cloud (annual, 2014–present)
+    supports: the ongoing industry benchmark tracking DORA metric performance across thousands of organizations annually.
   - title: The DevOps Handbook
-    authorYear: Gene Kim, Jez Humble, Patrick Debois & John Willis (2016).
+    authorYear: Gene Kim, Jez Humble, Patrick Debois & John Willis (2016)
+    supports: the DevOps technical practices that drive improvement in the four DORA metrics.
 ---
 
 # DORA Metrics
