@@ -13,6 +13,8 @@ connections:
     rationale: T-shaped breadth is the raw material for model chaining — domain-spanning knowledge is what makes cross-disciplinary model combinations possible.
   - id: 88
     rationale: deliberate cross-domain reading (the five-hour rule) is how the model library that enables chaining is built and maintained over time.
+  - id: 89
+    rationale: learning transfer is how models from different domains become available for chaining — abstraction is what makes the combination possible.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charlie Munger, ed. Peter Kaufman (2005)

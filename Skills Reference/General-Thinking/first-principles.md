@@ -43,6 +43,8 @@ connections:
     rationale: "Fermi estimation is applied first-principles thinking: building up an answer from basic components rather than extrapolating from analogues or waiting for unavailable data."
   - id: 86
     rationale: model chaining is built from principled building blocks — first principles decomposition is the foundation from which individual models are selected and combined.
+  - id: 89
+    rationale: the abstraction step in learning transfer requires first-principles thinking to identify what the transferable principle actually is beneath the surface features.
 references:
   - title: Discourse on the Method
     authorYear: René Descartes (1637)

@@ -13,6 +13,8 @@ connections:
     rationale: "the T-shape is an alloy: depth provides the vertical, breadth enables the horizontal cross-domain connections."
   - id: 88
     rationale: the five-hour rule is the maintenance mechanism for the T's horizontal bar — deliberate breadth-reading prevents the crossbar from degrading.
+  - id: 89
+    rationale: the horizontal bar enables learning transfer — broad exposure is the raw material from which cross-domain insight is drawn.
 references:
   - title: "Range: Why Generalists Triumph in a Specialized World"
     authorYear: David Epstein (2019)
