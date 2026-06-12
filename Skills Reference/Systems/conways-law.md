@@ -21,6 +21,8 @@ connections:
     rationale: RACI matrices mirror organisational structure; the gaps and overlaps in a RACI are often direct reflections of ambiguous org design that Conway's Law predicts will appear in the work product too.
   - id: 139
     rationale: VSM traces actual handoffs across team boundaries; Conway's Law explains why the most expensive handoffs in the map almost always follow org structure lines.
+  - id: 142
+    rationale: DORA performance correlates with team-aligned-to-stream architecture; Conway's Law explains why — teams whose structure matches their delivery boundary have fewer coordination-induced lead-time failures.
 references:
   - title: How Do Committees Invent?
     authorYear: Melvin E. Conway, Datamation (1968)

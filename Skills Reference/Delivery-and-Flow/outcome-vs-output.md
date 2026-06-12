@@ -23,6 +23,8 @@ connections:
     rationale: EPC's inspection criterion should be outcome, not output; a sprint review that only asks "did we ship?" rather than "did the metric move?" is EPC in form but not function.
   - id: 247
     rationale: a growth team shipping features while the binding constraint goes unaddressed is the canonical outcome-vs-output failure in a growth context.
+  - id: 142
+    rationale: DORA measures delivery capability (output); pairing it with product outcome metrics closes the loop — fast delivery that produces no behavior change is still a feature factory.
 references:
   - title: "Outcomes Over Output: Why Customer Behavior Is the Key Metric for Business Success"
     authorYear: Josh Seiden (2019)
