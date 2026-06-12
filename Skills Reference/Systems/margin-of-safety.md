@@ -29,6 +29,8 @@ connections:
     rationale: protecting the compounding base requires margin of safety — a 50% loss demands a 100% gain to recover, so preserving the base is more valuable than maximising short-term return.
   - id: 80
     rationale: high surface area increases vulnerability; margin of safety provides the buffer that makes high-surface-area strategies survivable when an exposure point is exploited.
+  - id: 81
+    rationale: zeros are the risks that margin of safety is most critical for — a zero factor produces total loss, making reserve capacity the difference between survival and collapse.
 references:
   - title: "The Intelligent Investor: The Definitive Book on Value Investing"
     authorYear: Benjamin Graham (1949; rev. ed. 2003)

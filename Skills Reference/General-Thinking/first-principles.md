@@ -37,6 +37,8 @@ connections:
     rationale: "Rumelt's diagnosis step is first-principles thinking applied to a strategic situation: stripping away goals and aspirations to identify the central challenge that actually constrains progress."
   - id: 103
     rationale: "JTBD is first principles applied to product strategy: stripping away product-category assumptions to ask what the customer fundamentally needs and what moment makes that need urgent."
+  - id: 81
+    rationale: identifying zero factors requires first-principles reasoning — asking what is genuinely necessary (a zero candidate) vs. merely valuable (a non-zero factor).
 references:
   - title: Discourse on the Method
     authorYear: René Descartes (1637)

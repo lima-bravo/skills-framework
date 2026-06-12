@@ -33,6 +33,8 @@ connections:
     rationale: fragmented calendars make attention the binding bottleneck for makers; the scheduling structure is the constraint to elevate.
   - id: 250
     rationale: "the driver-tree logic underneath KPI architecture is the same constraint-tracing logic: find the binding link in the chain, instrument it, and stop measuring what doesn't move the system."
+  - id: 81
+    rationale: the zero factor is often a bottleneck taken to its extreme — where a constraint so completely limits throughput that the whole system's output collapses to zero.
 references:
   - title: "The Goal: A Process of Ongoing Improvement"
     authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)

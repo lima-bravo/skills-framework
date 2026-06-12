@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **160**
+- Reviewed (verified + fixed): **161**
 - Flagged: **0**
-- Remaining (todo): **102**
+- Remaining (todo): **101**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -234,7 +234,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#78` **Randomness** · `Mathematics/randomness.md` · **st:** fixed · **n:** Content and refs verified clean (Taleb 2001, Mlodinow 2008, Silver 2012 all correct). Added 2 missing backlinks (ids 7, 77). build + check:counts pass.
 - [x] `#79` **Sampling** · `Mathematics/sampling.md` · **st:** fixed · **n:** Content and refs verified clean (Huff 1954, Silver 2012 correct; WEIRD acronym accurate). Added 2 missing backlinks (ids 7, 55). build + check:counts pass.
 - [x] `#80` **Surface Area** · `Mathematics/surface-area.md` · **st:** fixed · **n:** Content and ref verified clean (Taleb Antifragile 2012 correct). Added 3 missing backlinks (ids 82, 41, 24). build + check:counts pass.
-- [ ] `#81` **Multiply by Zero** · `Mathematics/multiply-by-zero.md` · **st:** todo · **n:** —
+- [x] `#81` **Multiply by Zero** · `Mathematics/multiply-by-zero.md` · **st:** fixed · **n:** Content and ref verified clean (Goldratt & Cox 1984 correct). Added 3 missing backlinks (ids 18, 0, 24). build + check:counts pass.
 - [ ] `#227` **Expected Value** · `Mathematics/expected-value.md` · **st:** todo · **n:** —
 - [ ] `#228` **Bayesian Updating** · `Mathematics/bayesian-updating.md` · **st:** todo · **n:** —
 - [ ] `#233` **Fermi Estimation** · `Mathematics/fermi-estimation.md` · **st:** todo · **n:** —
