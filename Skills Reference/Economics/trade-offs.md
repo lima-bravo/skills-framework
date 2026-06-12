@@ -29,6 +29,8 @@ connections:
     rationale: WSJF is a structured trade-off mechanism — it makes the opportunity cost of every sequencing decision explicit by expressing it as cost of delay per unit of job size.
   - id: 162
     rationale: trade-off analysis requires MECE alternatives — options that overlap or leave gaps cannot produce a clean choice.
+  - id: 165
+    rationale: scope decisions are explicit trade-offs — every boundary drawn in a contract is a choice about what will not be done, and naming that opportunity cost prevents scope from being treated as free.
 references:
   - title: An Essay on the Nature and Significance of Economic Science
     authorYear: Lionel Robbins (1932)

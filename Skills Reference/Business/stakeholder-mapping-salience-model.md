@@ -17,6 +17,8 @@ connections:
     rationale: "the engagement-planning counterpart to this card's analysis: salience mapping tells you who matters and how much; pre-wiring tells you what to do about it before the decision meeting."
   - id: 127
     rationale: RACI operationalises the salience analysis into specific accountability assignments; knowing who matters most (salience) determines whose phone rings when an outcome is missed (RACI).
+  - id: 165
+    rationale: contracting requires stakeholder alignment; salience mapping identifies who must be aligned and how much weight each stakeholder's sign-off carries before scope can be fixed.
 references:
   - title: Toward a Theory of Stakeholder Identification and Salience
     authorYear: Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood, Academy of Management Review Vol. 22 No. 4 (1997)

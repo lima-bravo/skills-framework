@@ -29,6 +29,8 @@ connections:
     rationale: flow metrics measure portfolio outputs (velocity, distribution, load); outcome metrics are the anchor that keeps them from becoming ends in themselves.
   - id: 151
     rationale: the one thing should always be stated as an outcome, not an output — "become the default platform" rather than "ship five features"; outcome framing is what makes strategic prioritization meaningful.
+  - id: 165
+    rationale: contracting on outcomes rather than deliverables is the consulting application of this distinction — a scope agreement that names outputs can be met while the client's actual problem goes unsolved.
 references:
   - title: "Outcomes Over Output: Why Customer Behavior Is the Key Metric for Business Success"
     authorYear: Josh Seiden (2019)
