@@ -23,6 +23,8 @@ connections:
     rationale: cost of delay provides the time dimension for trade-off analysis — what is lost per week of waiting makes the opportunity cost of sequencing decisions concrete and comparable.
   - id: 142
     rationale: DORA's throughput/stability pairing reframes the speed-vs-quality trade-off as falsely posed — empirically, high performers achieve both simultaneously.
+  - id: 151
+    rationale: strategic prioritization is the executive practice of trade-off reasoning — choosing the one thing is choosing what to trade away, not what to add.
 references:
   - title: An Essay on the Nature and Significance of Economic Science
     authorYear: Lionel Robbins (1932)

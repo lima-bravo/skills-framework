@@ -27,6 +27,8 @@ connections:
     rationale: DORA measures delivery capability (output); pairing it with product outcome metrics closes the loop — fast delivery that produces no behavior change is still a feature factory.
   - id: 143
     rationale: flow metrics measure portfolio outputs (velocity, distribution, load); outcome metrics are the anchor that keeps them from becoming ends in themselves.
+  - id: 151
+    rationale: the one thing should always be stated as an outcome, not an output — "become the default platform" rather than "ship five features"; outcome framing is what makes strategic prioritization meaningful.
 references:
   - title: "Outcomes Over Output: Why Customer Behavior Is the Key Metric for Business Success"
     authorYear: Josh Seiden (2019)
