@@ -55,7 +55,7 @@ Assign rough probabilities to the scenarios under each option: stay and conditio
 
 ## Step 8 — Margin of Safety: Do I have the financial and personal runway to make this decision well?
 
-Decisions made under acute financial pressure or emotional exhaustion are compromized. Assess your runway — financial, relational, psychological — and make the decision at a moment of adequate stability if possible.
+Decisions made under acute financial pressure or emotional exhaustion are compromised. Assess your runway — financial, relational, psychological — and make the decision at a moment of adequate stability if possible.
 
 ---
 
