@@ -15,9 +15,9 @@ references:
   - title: "Range: Why Generalists Triumph in a Specialized World"
     authorYear: David Epstein (2019)
     supports: the empirical case for breadth (the T's crossbar) as the foundation for deep expertise.
-  - title: "Creative Confidence: Unleashing the Creative Potential Within Us All"
-    authorYear: Tom Kelley & David Kelley (2013)
-    supports: IDEO's T-shaped model as the design for effective cross-functional teams.
+  - title: "Design Thinking"
+    authorYear: Tim Brown (2008)
+    supports: "the canonical IDEO articulation of T-shaped professionals: depth that enables tangible contribution combined with breadth for cross-discipline collaboration."
 ---
 
 # T-Shaped

@@ -9,6 +9,8 @@ connections:
     rationale: model chains are built from principled building blocks, not arbitrary combinations.
   - id: 105
     rationale: the pre-built chains in this framework are curated model chains for specific recurring decisions.
+  - id: 87
+    rationale: T-shaped breadth is the raw material for model chaining — domain-spanning knowledge is what makes cross-disciplinary model combinations possible.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charlie Munger, ed. Peter Kaufman (2005)

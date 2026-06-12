@@ -2696,11 +2696,6 @@
       "authorYear": "Tom Kelley & David Kelley (2013)",
       "skills": [
         {
-          "id": 87,
-          "name": "T-Shaped",
-          "color": "#059669"
-        },
-        {
           "id": 107,
           "name": "Divergent and Convergent Thinking",
           "color": "#3B82F6"
@@ -2839,6 +2834,17 @@
           "id": 237,
           "name": "Cobra Effect",
           "color": "#DC2626"
+        }
+      ]
+    },
+    {
+      "title": "Design Thinking",
+      "authorYear": "Tim Brown (2008)",
+      "skills": [
+        {
+          "id": 87,
+          "name": "T-Shaped",
+          "color": "#059669"
         }
       ]
     },
