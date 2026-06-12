@@ -57,6 +57,8 @@ connections:
     rationale: valid probability estimates require valid sampling — the representativeness and size of the sample constrain any probabilistic inference.
   - id: 233
     rationale: Fermi estimation provides the structure for quantifying what you don't know — converting vague probabilistic uncertainty into tractable sub-estimates.
+  - id: 160
+    rationale: reference class forecasting is base-rate, outside-view probabilistic thinking applied to projects — it operationalizes the probabilistic discipline of anchoring on empirical distributions before adjusting for case-specific factors.
 references:
   - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
     authorYear: Annie Duke (2018)

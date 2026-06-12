@@ -37,6 +37,8 @@ connections:
     rationale: power law tails make margin of safety more important, not less — the worst-case event in a fat-tailed distribution is not negligibly rare.
   - id: 114
     rationale: capacity plans must include buffer for cognitive depletion and unplanned work — a plan that fully utilizes the 3–4 hour deep work ceiling has no margin of safety.
+  - id: 160
+    rationale: reference class forecasting quantifies the empirical basis for margin of safety — base-rate overruns on comparable projects determine how much buffer is structurally justified, rather than leaving it to gut feel.
 references:
   - title: "The Intelligent Investor: The Definitive Book on Value Investing"
     authorYear: Benjamin Graham (1949; rev. ed. 2003)

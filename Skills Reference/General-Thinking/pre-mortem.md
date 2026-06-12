@@ -43,6 +43,8 @@ connections:
     rationale: the pre-mortem disciplines PDCA's Plan step — imagining failure modes before acting is the same analytical move as writing down a testable prediction before running the experiment.
   - id: 153
     rationale: pre-mortem findings are a primary source of kill criteria — the failure modes imagined in a pre-mortem become the observable conditions that trigger stopping if they materialise.
+  - id: 160
+    rationale: reference class forecasting and the pre-mortem are complementary outside-view techniques — RCF asks what happened to similar projects; the pre-mortem asks what could go wrong in this one; together they bound the failure space.
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

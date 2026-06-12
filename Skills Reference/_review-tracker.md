@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **208**
+- Reviewed (verified + fixed): **209**
 - Flagged: **0**
-- Remaining (todo): **54**
+- Remaining (todo): **53**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -294,7 +294,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#157` **Feature Factory vs Product Orientation** · `Delivery-and-Flow/feature-factory.md` · **st:** fixed · **n:** added 4 missing backlinks (okrs, kill-criteria, build-measure-learn, lean-portfolio); fixed YAML error (bare quotes in rationale); content and refs accurate.
 - [x] `#158` **Lean Portfolio Management** · `Delivery-and-Flow/lean-portfolio.md` · **st:** fixed · **n:** fixed SAFe ref missing year (added 2011–ongoing); added 2 missing backlinks (kill-criteria, innovation-funnel); content accurate.
 - [x] `#159` **WSJF** · `Delivery-and-Flow/wsjf.md` · **st:** fixed · **n:** added 3 missing backlinks (trade-offs, bottlenecks, probabilistic-forecasting); content and refs accurate.
-- [ ] `#160` **Reference Class Forecasting** · `Delivery-and-Flow/reference-class-forecasting.md` · **st:** todo · **n:** —
+- [x] `#160` **Reference Class Forecasting** · `Delivery-and-Flow/reference-class-forecasting.md` · **st:** fixed · **n:** fixed wrong attribution (Tversky died 1996, before RCF was formalized — Flyvbjerg developed it, drawing on K&T framework); added 4 missing backlinks (planning-fallacy, pre-mortem, margin-of-safety, probabilistic-thinking).
 - [x] `#209` **Empirical Process Control** · `Delivery-and-Flow/empirical-process-control.md` · **st:** fixed · **n:** added 5 --- separators, fixed dup footer, expanded 5 bare refs; Gap-A [248] Snowden & Boone; Gap-B2: Shewhart 1931, Deming 1986, Takeuchi/Nonaka 1986, Scrum Guide 2020; backlinks in drift-to-failure, experiment-design, outcome-vs-output
 - [ ] `#255` **Technical Debt** · `Delivery-and-Flow/technical-debt.md` · **st:** todo · **n:** —
 - [ ] `#256` **Reliability vs. Feature Velocity** · `Delivery-and-Flow/reliability-vs-velocity.md` · **st:** todo · **n:** —

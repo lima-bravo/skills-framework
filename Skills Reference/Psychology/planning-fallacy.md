@@ -27,6 +27,8 @@ connections:
     rationale: "the planning fallacy is the empirical basis for building a realization plan: reference class evidence shows realized benefits consistently run below the business case, which a realization system should detect early rather than be surprised by."
   - id: 141
     rationale: probabilistic forecasting is the structural countermeasure to the planning fallacy — it replaces the confident inside-view single estimate with a distribution of actual past performance.
+  - id: 160
+    rationale: reference class forecasting is the most direct operational antidote to the planning fallacy — it forces the outside view by anchoring on base rates from comparable projects before any inside-view reasoning begins.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)

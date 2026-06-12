@@ -41,7 +41,7 @@ references:
 ---
 ## Definition
 
-Reference Class Forecasting (RCF) is a forecasting method developed by Daniel Kahneman and Amos Tversky and operationalized for large projects by Bent Flyvbjerg: estimate a project's outcome by identifying a class of comparable past projects ("the reference class") and adjusting their base-rate distribution for the specifics of the current project. The method consistently outperforms inside-view forecasts — those built from the bottom up by the people closest to the project — because inside-view forecasts systematically underweight base rates and overweight optimism. Flyvbjerg's research across thousands of major infrastructure projects shows reference-class forecasts cut overruns dramatically.
+Reference Class Forecasting (RCF) is a forecasting method developed by Bent Flyvbjerg for major projects, drawing on Kahneman and Tversky's inside/outside view framework: estimate a project's outcome by identifying a class of comparable past projects ("the reference class") and adjusting their base-rate distribution for the specifics of the current project. The method consistently outperforms inside-view forecasts — those built from the bottom up by the people closest to the project — because inside-view forecasts systematically underweight base rates and overweight optimism. Flyvbjerg's research across thousands of major infrastructure projects shows reference-class forecasts cut overruns dramatically.
 
 ---
 
