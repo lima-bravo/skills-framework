@@ -25,6 +25,8 @@ connections:
     rationale: "JTBD is an application of first principles to product strategy: stripping away assumptions about product categories to ask what the customer fundamentally needs and what moment makes that need urgent."
   - id: 110
     rationale: "design thinking's empathy stage and JTBD are complementary: JTBD identifies the job to be done and its four forces; design thinking provides the process for uncovering the human experience that surrounds it."
+  - id: 179
+    rationale: JTBD framing is the method behind hypothesis quality; a hypothesis without a JTBD-grounded customer need is not yet a well-formed hypothesis.
   - id: 112
     rationale: disruptions often succeed because they do the job better for a segment the incumbent has stopped serving; JTBD analysis reveals which overlooked segments are ripe for a disruptive foothold.
 references:

@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **148**
+- Reviewed (verified + fixed): **149**
 - Flagged: **0**
-- Remaining (todo): **114**
+- Remaining (todo): **113**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -219,7 +219,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#174` **Open Innovation** · `Business/open-innovation.md` · **st:** fixed · **n:** backlinks added to 172, 109, 82, 89, 173, 63; structure, content, and Chesbrough (2003) ref verified clean.
 - [x] `#175` **Effectuation** · `Startups/effectuation.md` · **st:** fixed · **n:** backlinks added to 63, 64, 12, 108, 109, 7; structure, content (Five Principles + Starbucks example), and Sarasvathy (2008) ref verified clean.
 - [x] `#176` **Organizational Slack** · `Business/organizational-slack.md` · **st:** fixed · **n:** removed false Scotch-tape/15%-time claim; backlinks added to 108, 114, 149, 113, 158.
-- [ ] `#179` **Innovation Health Indicators** · `Business/innovation-health-indicators.md` · **st:** todo · **n:** —
+- [x] `#179` **Innovation Health Indicators** · `Business/innovation-health-indicators.md` · **st:** fixed · **n:** backlinks added to all 10 connected cards; structure (4 whitelisted extra sections), content, and refs verified clean.
 - [ ] `#180` **Opportunity Solution Trees** · `Startups/opportunity-solution-trees.md` · **st:** todo · **n:** —
 - [ ] `#181` **Pretotyping** · `Startups/pretotyping.md` · **st:** todo · **n:** —
 - [ ] `#182` **Continuous Discovery** · `Startups/continuous-discovery.md` · **st:** todo · **n:** —

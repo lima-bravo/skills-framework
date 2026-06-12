@@ -19,6 +19,8 @@ connections:
     rationale: explore requires protected capacity; without slack, the ambidextrous structure is nominal rather than real.
   - id: 174
     rationale: open innovation is a sourcing strategy for the explore function; ambidextrous structure determines whether the organization can actually absorb and deploy what it sources externally.
+  - id: 179
+    rationale: governance independence and structural separation indicators directly measure whether the ambidextrous design is functioning in practice, not just on paper.
 references:
   - title: "Lead and Disrupt: How to Solve the Innovator's Dilemma"
     authorYear: Charles A. O'Reilly III & Michael L. Tushman (2016)

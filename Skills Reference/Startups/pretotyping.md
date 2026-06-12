@@ -17,6 +17,8 @@ connections:
     rationale: pretotype techniques are specific experiment designs optimized for demand testing; the choice of technique follows from what assumption is being tested.
   - id: 175
     rationale: "the pretotype's DYOD threshold is affordable-loss thinking applied to a single test: commit only what you can afford to lose if the result is negative."
+  - id: 179
+    rationale: time-to-first-experiment improves when teams use pretotyping techniques; cheap demand tests before expensive builds compress the pipeline clock.
   - id: 7
     rationale: interpreting pretotype results requires holding the result as a probability update, not a confirmation or refutation; a 12% Fake Door click rate shifts the probability of demand, it doesn't prove or disprove it.
 references:

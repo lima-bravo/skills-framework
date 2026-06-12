@@ -9,6 +9,8 @@ connections:
     rationale: innovation accounting is the measurement discipline within BML.
   - id: 62
     rationale: innovation accounting is the toolkit for measuring progress toward PMF.
+  - id: 179
+    rationale: innovation accounting covers experiment-level metrics; health indicators operate at the program and organizational level — the two systems are complementary.
   - id: 72
     rationale: the rigor of experiment design determines the quality of innovation accounting data.
 references:

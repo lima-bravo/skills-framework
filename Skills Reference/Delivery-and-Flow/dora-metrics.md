@@ -19,6 +19,8 @@ connections:
     rationale: rising Change Failure Rate and MTTR are the leading indicators of technical debt's interest payment in production.
   - id: 256
     rationale: DORA's four metrics are the inputs to error budget burn rate; Change Failure Rate and MTTR govern the reliability side of the trade-off.
+  - id: 179
+    rationale: "innovation health indicators apply the same leading-indicator logic as DORA — measuring system conditions and flow rather than only outcomes, to predict future performance."
   - id: 250
     rationale: "DORA is a worked example of KPI architecture done well: a small set of decision-linked, leading-and-lagging metrics derived from first principles for software delivery."
 references:

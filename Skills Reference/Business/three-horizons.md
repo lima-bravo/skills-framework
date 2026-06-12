@@ -23,6 +23,8 @@ connections:
     rationale: ambidextrous organization is the structural implementation of Three Horizons; it is how an organization builds the capacity to manage H1 alongside H2 and H3 simultaneously.
   - id: 176
     rationale: H2 and H3 work requires slack; organizations that run H1 at 100% efficiency consume the capacity needed to develop the next horizons.
+  - id: 179
+    rationale: H2+H3 investment ratio is the portfolio-level health indicator; Three Horizons provides the framework for interpreting whether that ratio is adequate.
 references:
   - title: "The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise"
     authorYear: Mehrdad Baghai, Stephen Coley & David White (1999)

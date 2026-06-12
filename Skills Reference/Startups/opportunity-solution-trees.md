@@ -15,6 +15,8 @@ connections:
     rationale: continuous discovery is the practice that keeps the opportunity level of the tree current; the tree is the artifact that discovery populates.
   - id: 107
     rationale: the tree enforces divergence at the opportunity and solution levels before convergence at the experiment level; it is a structural implementation of the diverge-converge discipline.
+  - id: 179
+    rationale: hypothesis quality at stage gate largely measures whether teams are building and updating OSTs; the tree is the artifact the gate assesses.
   - id: 70
     rationale: the OST operates inside the funnel; it is the tool that makes the funnel a learning accelerator rather than a filter.
 references:

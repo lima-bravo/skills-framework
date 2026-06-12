@@ -19,6 +19,8 @@ connections:
     rationale: portfolio-level slack policy — explicit capacity reservation for strategic bets — is the mechanism for protecting exploration investment at scale.
   - id: 241
     rationale: "Parkinson's Law is the failure mode of slack: unstructured spare capacity fills with low-value activity; the value of slack depends on it being deliberately allocated rather than simply available."
+  - id: 179
+    rationale: exploration capacity protection rate is the slack indicator operationalized; the health indicator makes the slack policy measurable and accountable.
 references:
   - title: A Behavioral Theory of the Firm
     authorYear: Richard M. Cyert & James G. March (1963)

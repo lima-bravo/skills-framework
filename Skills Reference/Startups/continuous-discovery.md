@@ -15,6 +15,8 @@ connections:
     rationale: the empathize phase of design thinking is continuous discovery done once at the start of a project; continuous discovery makes empathy an ongoing practice rather than a phase.
   - id: 66
     rationale: customer development (Steve Blank) is the project-level methodology; continuous discovery is the always-on practice that sustains customer understanding after the initial development stage.
+  - id: 179
+    rationale: discovery continuity rate directly measures whether the continuous discovery practice is being maintained; the health indicator makes the practice accountable.
   - id: 17
     rationale: continuous discovery installs a reinforcing feedback loop between customer reality and product decisions; the loop is the mechanism that prevents the team from drifting away from what customers need.
 references:
