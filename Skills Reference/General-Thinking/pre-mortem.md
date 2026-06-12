@@ -41,6 +41,8 @@ connections:
     rationale: pre-mortem probes a single decision for failure modes; scenario planning probes the environment for the range of futures a strategy must survive.
   - id: 146
     rationale: the pre-mortem disciplines PDCA's Plan step — imagining failure modes before acting is the same analytical move as writing down a testable prediction before running the experiment.
+  - id: 153
+    rationale: pre-mortem findings are a primary source of kill criteria — the failure modes imagined in a pre-mortem become the observable conditions that trigger stopping if they materialise.
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

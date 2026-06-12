@@ -11,6 +11,8 @@ connections:
     rationale: the perseverance trap is often sunk cost; the pivot decision must be separated from sunk cost attachment.
   - id: 62
     rationale: the goal of pivots is to find the product-market fit that perseverance is preserving.
+  - id: 153
+    rationale: kill criteria are the missing third option in the pivot-or-persevere binary — pre-defined conditions under which the initiative stops entirely, rather than redirects.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)

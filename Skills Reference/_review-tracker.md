@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **201**
+- Reviewed (verified + fixed): **202**
 - Flagged: **0**
-- Remaining (todo): **61**
+- Remaining (todo): **60**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -287,7 +287,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#150` **Cognitive Load (Team)** · `Delivery-and-Flow/cognitive-load-team.md` · **st:** fixed · **n:** added missing Sweller (1988) ref (cited in body, absent from refs); added 3 missing backlinks (conways-law, leverage, dependency-management); refs 374→375.
 - [x] `#151` **Strategic Prioritization (“One Thing”)** · `Delivery-and-Flow/one-thing.md` · **st:** fixed · **n:** added 4 missing backlinks (trade-offs, kill-criteria, exploration-vs-exploitation, outcome-vs-output); content and refs accurate.
 - [x] `#152` **OKRs** · `Delivery-and-Flow/okrs.md` · **st:** fixed · **n:** added 2 missing backlinks (goodharts-law, theory-of-change); content and refs accurate.
-- [ ] `#153` **Kill Criteria** · `Delivery-and-Flow/kill-criteria.md` · **st:** todo · **n:** —
+- [x] `#153` **Kill Criteria** · `Delivery-and-Flow/kill-criteria.md` · **st:** fixed · **n:** added 3 missing backlinks (pivot-or-persevere, sunk-cost, pre-mortem); 14 of 17 targets already had backlinks; content and refs accurate.
 - [ ] `#154` **Team Topologies** · `Delivery-and-Flow/team-topologies.md` · **st:** todo · **n:** —
 - [ ] `#155` **Inverse Conway Maneuver** · `Delivery-and-Flow/inverse-conway.md` · **st:** todo · **n:** —
 - [ ] `#156` **Dependency Management** · `Delivery-and-Flow/dependency-management.md` · **st:** todo · **n:** —

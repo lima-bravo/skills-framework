@@ -21,6 +21,8 @@ connections:
     rationale: "value realization exists structurally to counteract sunk-cost bias: the independent ledger and named owner remove the most invested party from judging their own work."
   - id: 65
     rationale: the perseverance trap in startup pivots is often sunk-cost reasoning; the structured pivot decision requires separating evidence from prior investment.
+  - id: 153
+    rationale: kill criteria are the structural antidote to sunk-cost bias — pre-committing exit conditions before investment removes the decision from the moment when sunk cost pressure is highest.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)
