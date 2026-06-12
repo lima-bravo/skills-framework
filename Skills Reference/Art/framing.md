@@ -23,6 +23,8 @@ connections:
     rationale: social proof provides the behaviour signal that framing then shapes; the same adoption behaviour is interpreted differently depending on how it is framed to observers.
   - id: 92
     rationale: contrast is often used to establish the frame — current state vs. desired state, problem vs. solution — making the difference the interpretive anchor.
+  - id: 93
+    rationale: the opening rhythm establishes the frame — the pacing and tone set at the start shape how everything that follows is interpreted.
 references:
   - title: "Frame Analysis: An Essay on the Organization of Experience"
     authorYear: Erving Goffman (1974)

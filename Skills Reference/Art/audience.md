@@ -15,6 +15,8 @@ connections:
     rationale: the Maxims are constant across audiences; what changes is the calibration of Quantity and Relation depending on what each audience needs to decide.
   - id: 92
     rationale: what constitutes meaningful contrast depends on the audience's prior knowledge — contrast that is invisible to an expert is jarring to a novice.
+  - id: 93
+    rationale: the right rhythm for any work depends on the audience's attention span, familiarity with the content, and context of consumption.
 references:
   - title: "This Is Marketing: You Can't Be Seen Until You Learn to See"
     authorYear: Seth Godin (2018)
