@@ -27,6 +27,8 @@ connections:
     rationale: "the planning fallacy is why buffers are needed: systematic underestimation makes margin of safety not a luxury but a structural requirement."
   - id: 75
     rationale: protecting the compounding base requires margin of safety — a 50% loss demands a 100% gain to recover, so preserving the base is more valuable than maximising short-term return.
+  - id: 80
+    rationale: high surface area increases vulnerability; margin of safety provides the buffer that makes high-surface-area strategies survivable when an exposure point is exploited.
 references:
   - title: "The Intelligent Investor: The Definitive Book on Value Investing"
     authorYear: Benjamin Graham (1949; rev. ed. 2003)

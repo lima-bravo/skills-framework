@@ -15,6 +15,8 @@ connections:
     rationale: friction reduces the effective multiple of leverage; a high-leverage action in a high-friction system produces less output than expected.
   - id: 47
     rationale: a catalyst creates leverage by making others more productive; the reusable mechanism produces compounding rather than linear returns.
+  - id: 80
+    rationale: high surface area creates high leverage — each public artefact or connection multiplies inbound opportunities, acting as a force multiplier for effort.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charlie Munger, ed. Peter Kaufman (2005)
