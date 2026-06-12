@@ -35,6 +35,8 @@ connections:
     rationale: "first principles thinking is the antidote to narrative instinct: it starts from structure and evidence rather than the inherited story the organisation operates inside."
   - id: 166
     rationale: "Rumelt's diagnosis step is first-principles thinking applied to a strategic situation: stripping away goals and aspirations to identify the central challenge that actually constrains progress."
+  - id: 103
+    rationale: "JTBD is first principles applied to product strategy: stripping away product-category assumptions to ask what the customer fundamentally needs and what moment makes that need urgent."
 references:
   - title: Discourse on the Method
     authorYear: René Descartes (1637)

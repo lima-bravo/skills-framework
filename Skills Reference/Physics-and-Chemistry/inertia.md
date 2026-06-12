@@ -17,6 +17,8 @@ connections:
     rationale: inertia is the force that must be overcome to change direction; velocity requires both speed and directional alignment.
   - id: 44
     rationale: "friction and inertia compound: friction is the energy cost of each movement; inertia is the resistance to changing direction at all."
+  - id: 103
+    rationale: "the fourth JTBD force — a customer's tendency to remain with their current solution — is inertia applied to adoption: the structural pull of the current state, independent of its quality."
 references:
   - title: Principia Mathematica
     authorYear: Isaac Newton (1687)

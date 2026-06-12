@@ -15,6 +15,8 @@ connections:
     rationale: the jobs, pains, and gains sections of the canvas are populated from customer development interviews; the canvas provides structure for what customer development uncovers.
   - id: 249
     rationale: customer development feeds segmentation with the needs and behavior data that makes segments predictive rather than descriptive.
+  - id: 103
+    rationale: JTBD gives customer development interviews a precise structure — the struggling moment and four forces define exactly what to surface and why.
 references:
   - title: "The Four Steps to the Epiphany: Successful Strategies for Products that Win"
     authorYear: Steve Blank (2005)

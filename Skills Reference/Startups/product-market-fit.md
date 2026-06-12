@@ -19,6 +19,8 @@ connections:
     rationale: the goal of pivots is to find the product-market fit that perseverance is preserving; PMF is the signal that the pivot search can stop.
   - id: 67
     rationale: innovation accounting provides the cohort-level metrics that make PMF measurable; retention curves and activation rates are the instruments of both.
+  - id: 103
+    rationale: JTBD is the diagnostic lens for understanding whether and why fit exists — fit means the product does the job better than any alternative for customers with a strong enough push.
 references:
   - title: Product/Market Fit
     authorYear: Marc Andreessen, pmarchive.com (2007)

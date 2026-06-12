@@ -15,6 +15,8 @@ connections:
     rationale: shifting between equilibria requires an energy input to cross the barrier between stable states; activation energy is that barrier's mechanism.
   - id: 116
     rationale: every interruption resets the activation energy required to re-enter deep focus; protecting unbroken time eliminates the repeated re-entry cost.
+  - id: 103
+    rationale: the JTBD struggling moment is the demand-side activation energy threshold — demand begins only when push crosses the barrier that makes switching worth the cost and effort.
 references:
   - title: "Switch: How to Change Things When Change Is Hard"
     authorYear: Chip Heath & Dan Heath (2010)

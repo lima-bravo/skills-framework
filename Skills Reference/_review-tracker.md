@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **138**
+- Reviewed (verified + fixed): **139**
 - Flagged: **0**
-- Remaining (todo): **124**
+- Remaining (todo): **123**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -209,7 +209,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#66` **Customer Development** · `Startups/customer-development.md` · **st:** verified · **n:** structure clean; refs match manifest (Four Steps cites 2005 vs manifest 2003, left as-is); backlink added to assumption-mapping
 - [x] `#67` **Innovation Accounting** · `Startups/innovation-accounting.md` · **st:** fixed · **n:** structure and refs clean; backlinks added to build-measure-learn, product-market-fit, experiment-design (all three were missing)
 - [x] `#70` **Innovation Funnel** · `Business/innovation-funnel.md` · **st:** fixed · **n:** structure and ref clean; backlinks added to build-measure-learn and assumption-mapping; portfolio-map and both chain cards already had backlinks
-- [ ] `#103` **Jobs to Be Done** · `Startups/jobs-to-be-done.md` · **st:** todo · **n:** —
+- [x] `#103` **Jobs to Be Done** · `Startups/jobs-to-be-done.md` · **st:** fixed · **n:** structure, content, and refs clean; backlinks added to customer-development, product-market-fit, build-measure-learn, loss-aversion, activation-energy, inertia, first-principles (7 missing)
 - [ ] `#110` **Design Thinking** · `Startups/design-thinking.md` · **st:** todo · **n:** —
 - [ ] `#111` **Crossing the Chasm** · `Startups/crossing-the-chasm.md` · **st:** todo · **n:** —
 - [ ] `#112` **Disruptive Innovation** · `Business/disruptive-innovation.md` · **st:** todo · **n:** —

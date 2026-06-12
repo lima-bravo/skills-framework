@@ -17,6 +17,8 @@ connections:
     rationale: "social proof often activates loss aversion: the fear of being the one who didn't adopt what everyone else has makes conformity feel urgent."
   - id: 219
     rationale: customers evaluate price increases as losses from their anchored reference point; the ~2× asymmetry means price increases are psychologically harder than the arithmetic suggests, which is why starting price matters so much.
+  - id: 103
+    rationale: the anxiety and inertia forces in JTBD's switching model are largely driven by loss aversion — the perceived cost of switching feels larger than the perceived gain even when the rational calculus favors it.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)
