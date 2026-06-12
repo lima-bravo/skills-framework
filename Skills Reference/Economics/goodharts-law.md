@@ -39,6 +39,8 @@ connections:
     rationale: output metrics (feature count, deployment frequency) become Goodhart targets the moment they are separated from the outcome they were proxying for.
   - id: 152
     rationale: OKR Key Results are designed to resist Goodhart drift — pairing them with an Objective keeps the metric anchored to intent; decoupling from compensation removes the strongest gaming incentive.
+  - id: 256
+    rationale: teams measured on uptime SLO alone optimize for it at the expense of latency, correctness, and incident frequency — Goodhart's Law in reliability metrics.
 references:
   - title: The Tyranny of Metrics
     authorYear: Jerry Z. Muller (2018)

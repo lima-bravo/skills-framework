@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **210**
+- Reviewed (verified + fixed): **211**
 - Flagged: **0**
-- Remaining (todo): **52**
+- Remaining (todo): **51**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -297,7 +297,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#160` **Reference Class Forecasting** · `Delivery-and-Flow/reference-class-forecasting.md` · **st:** fixed · **n:** fixed wrong attribution (Tversky died 1996, before RCF was formalized — Flyvbjerg developed it, drawing on K&T framework); added 4 missing backlinks (planning-fallacy, pre-mortem, margin-of-safety, probabilistic-thinking).
 - [x] `#209` **Empirical Process Control** · `Delivery-and-Flow/empirical-process-control.md` · **st:** fixed · **n:** added 5 --- separators, fixed dup footer, expanded 5 bare refs; Gap-A [248] Snowden & Boone; Gap-B2: Shewhart 1931, Deming 1986, Takeuchi/Nonaka 1986, Scrum Guide 2020; backlinks in drift-to-failure, experiment-design, outcome-vs-output
 - [x] `#255` **Technical Debt** · `Delivery-and-Flow/technical-debt.md` · **st:** fixed · **n:** added Cunningham (1992) ref; backlinks added in flow-efficiency and littles-law; refs 376→377
-- [ ] `#256` **Reliability vs. Feature Velocity** · `Delivery-and-Flow/reliability-vs-velocity.md` · **st:** todo · **n:** —
+- [x] `#256` **Reliability vs. Feature Velocity** · `Delivery-and-Flow/reliability-vs-velocity.md` · **st:** fixed · **n:** backlinks added in margin-of-safety, goodharts-law, statistical-variability; card content verified clean
 
 ## Consulting Craft (10)
 

@@ -17,6 +17,8 @@ connections:
     rationale: single-number commitments become targets and degrade the underlying behavior.
   - id: 77
     rationale: short-run extremes will revert; don't overreact.
+  - id: 256
+    rationale: SLO burn rates are probabilistic; variance in incident frequency must be accounted for in budget management, not just expected value.
 references:
   - title: Out of the Crisis
     authorYear: W. Edwards Deming (1986)
