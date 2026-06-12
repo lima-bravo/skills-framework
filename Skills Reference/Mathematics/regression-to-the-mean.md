@@ -17,6 +17,8 @@ connections:
     rationale: bubble collapses are extreme reversion events; the gap between price and intrinsic value cannot widen indefinitely.
   - id: 115
     rationale: exceptional early velocity regresses to the mean; plans that extrapolate it are compounding the planning fallacy with a regression error.
+  - id: 78
+    rationale: regression to the mean is a specific, predictable form of randomness — the statistical pull toward the centre that makes extreme outcomes self-limiting.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)

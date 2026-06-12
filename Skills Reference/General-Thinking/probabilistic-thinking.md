@@ -51,6 +51,8 @@ connections:
     rationale: interpreting pretotype results requires holding results as probability updates — a 12% Fake Door click rate shifts the probability of demand, it doesn't prove or disprove it.
   - id: 175
     rationale: effectuation doesn't abandon probabilistic reasoning; it acknowledges when the distribution is too unknown to compute and uses affordable loss as a substitute for expected value.
+  - id: 78
+    rationale: probabilistic thinking is the framework for reasoning in high-randomness domains — calibrating how much of an observed outcome is signal versus noise.
 references:
   - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
     authorYear: Annie Duke (2018)
