@@ -23,6 +23,8 @@ connections:
     rationale: unserviced debt compounds the same way returns do but in the wrong direction; compounding explains why small deferrals become existential obligations.
   - id: 238
     rationale: compounding is the temporal expression of power law dynamics — multiplicative growth produces the same disproportionality over time that power laws produce across populations.
+  - id: 83
+    rationale: k > 1 viral growth produces compound user acquisition — each new cohort generates more users than the last, making the growth curve exponential rather than linear.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charlie Munger, ed. Peter Kaufman (2005)

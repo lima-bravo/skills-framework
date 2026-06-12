@@ -57,7 +57,7 @@ The mechanism: User A joins → experiences value → tells User B (or the mecha
 
 ## Worked Example
 
-Hotmail's early growth is the canonical example. Every email sent by a Hotmail user included "Get your free email at Hotmail" in the footer — a built-in viral mechanism. The product's free offering and every email were the invite mechanism; the recipient's ability to see the email quality was the demonstration of value. From 500,000 to 12 million users in 18 months. The mechanism was simple, product-embedded, and required no marketing spend.
+Hotmail's early growth is the canonical example. Every email sent by a Hotmail user included "Get your free email at Hotmail" in the footer — a built-in viral mechanism. The product's free offering and every email were the invite mechanism; the recipient's ability to see the email quality was the demonstration of value. From launch to 12 million users in 18 months. The mechanism was simple, product-embedded, and required no marketing spend.
 
 ---
 
