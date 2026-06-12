@@ -55,6 +55,8 @@ connections:
     rationale: convenience sampling operationalizes confirmation bias at the data-collection stage — selecting a sample that is predisposed to confirm the hypothesis under investigation.
   - id: 228
     rationale: the psychological tendency to under-update on disconfirming evidence is the main enemy of good Bayesian practice — confirmation bias selectively applies updates that align with the prior.
+  - id: 105
+    rationale: the primary purpose of pre-built chain structure is to prevent confirmation bias from narrowing analysis to only the models that support the preferred conclusion.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)

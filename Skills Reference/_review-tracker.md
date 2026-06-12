@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **173**
+- Reviewed (verified + fixed): **174**
 - Flagged: **0**
-- Remaining (todo): **89**
+- Remaining (todo): **88**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -253,7 +253,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#87` **T-Shaped** · `Learning/t-shaped.md` · **st:** fixed · **n:** Replaced Kelley/Creative Confidence ref (doesn't discuss T-shaped) with Tim Brown HBR 2008 "Design Thinking" (canonical IDEO T-shaped source). Epstein 2019 verified ✓. Added backlink in model-chaining (#86). Refs 374→375. build + check:counts pass.
 - [x] `#88` **Five-Hour Rule** · `Learning/five-hour-rule.md` · **st:** fixed · **n:** Refs verified (Franklin Autobiography 1791, Munger/Kaufman 2005) ✓; Naval Ravikant example accurate ✓; added 3 missing backlinks (compounding #75, t-shaped #87, model-chaining #86). build + check:counts pass.
 - [x] `#89` **Learning Transfer** · `Learning/learning-transfer.md` · **st:** fixed · **n:** Refs verified (Brown/Roediger/McDaniel 2014, Haskell 2001) ✓; worked example accurate ✓; added 3 missing backlinks (model-chaining #86, t-shaped #87, first-principles #0). build + check:counts pass.
-- [ ] `#105` **Pre-built Chains** · `Learning/pre-built-chains.md` · **st:** todo · **n:** —
+- [x] `#105` **Pre-built Chains** · `Learning/pre-built-chains.md` · **st:** fixed · **n:** Refs verified (Munger/Kaufman 2005, Pólya 1945) ✓; worked example accurate ✓; added 4 missing backlinks (first-principles #0, inversion #1, confirmation-bias #55, two-way-doors #16). build + check:counts pass.
 - [ ] `#114` **Deep Work / Cognitive Capacity** · `Learning/deep-work.md` · **st:** todo · **n:** —
 
 ## Art (4)

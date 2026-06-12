@@ -45,6 +45,8 @@ connections:
     rationale: model chaining is built from principled building blocks — first principles decomposition is the foundation from which individual models are selected and combined.
   - id: 89
     rationale: the abstraction step in learning transfer requires first-principles thinking to identify what the transferable principle actually is beneath the surface features.
+  - id: 105
+    rationale: pre-built chains encode first-principles reasoning about each decision type — the distilled answer to what the irreducible questions are for a given class of problem.
 references:
   - title: Discourse on the Method
     authorYear: René Descartes (1637)

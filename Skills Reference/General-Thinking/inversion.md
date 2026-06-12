@@ -27,6 +27,8 @@ connections:
     rationale: '"if I were starting fresh today" is inversion applied to a current commitment; it removes sunk cost framing by forcing a clean reference point.'
   - id: 123
     rationale: "building the most challenging scenario is an inversion exercise applied to strategic planning: imagine your strategy fails, then ask what environment produced that outcome."
+  - id: 105
+    rationale: every pre-built chain includes an inversion step as a structural disconfirmation mechanism — the pre-mortem or assumption challenge is required, not optional.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)

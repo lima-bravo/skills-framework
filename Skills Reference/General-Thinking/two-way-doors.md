@@ -17,6 +17,8 @@ connections:
     rationale: H3 investments are reversible options; H1 commitments are largely irreversible. Two-Way Doors logic explains why H3 decisions should move faster and require less analysis than H1 ones.
   - id: 189
     rationale: lower rungs of the Experiment Ladder are two-way doors — cheap and reversible; upper rungs become progressively less reversible, requiring stronger evidence before climbing.
+  - id: 105
+    rationale: chains are most valuable for irreversible decisions — two-way doors logic determines when chain-level rigor is warranted vs. when fast intuitive analysis suffices.
 references:
   - title: "Invent and Wander: The Collected Writings of Jeff Bezos"
     authorYear: Jeff Bezos, ed. Walter Isaacson (2021)
