@@ -33,6 +33,8 @@ connections:
     rationale: when revenue or margin targets become the primary pricing driver, pricing degrades into a number-hitting exercise; value capture becomes a side effect of hitting the target rather than the purpose of the decision.
   - id: 225
     rationale: "optimising for easy-to-measure A/B metrics (click rates, micro-conversions) is a Goodhart failure: the metric becomes the target and drifts from what actually matters (retention, LTV, brand)."
+  - id: 140
+    rationale: single-date commitments become Goodhart targets — the team optimises for hitting the date rather than managing the actual distribution; statistical variability surfaces the distortion.
 references:
   - title: The Tyranny of Metrics
     authorYear: Jerry Z. Muller (2018)

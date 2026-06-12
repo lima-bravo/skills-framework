@@ -19,6 +19,8 @@ connections:
     rationale: exceptional early velocity regresses to the mean; plans that extrapolate it are compounding the planning fallacy with a regression error.
   - id: 78
     rationale: regression to the mean is a specific, predictable form of randomness — the statistical pull toward the centre that makes extreme outcomes self-limiting.
+  - id: 140
+    rationale: statistical variability is the mechanism through which regression operates in delivery systems; short-run extremes (very fast or very slow items) will revert — don't treat outliers as the new baseline.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)
