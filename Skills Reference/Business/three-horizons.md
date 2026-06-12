@@ -21,6 +21,8 @@ connections:
     rationale: "Three Horizons and Wardley Maps compose naturally: H1 maps to Commodity/Product, H2 to Custom, H3 to Genesis. The evolution axis tells you which horizon a component actually belongs to."
   - id: 172
     rationale: ambidextrous organization is the structural implementation of Three Horizons; it is how an organization builds the capacity to manage H1 alongside H2 and H3 simultaneously.
+  - id: 176
+    rationale: H2 and H3 work requires slack; organizations that run H1 at 100% efficiency consume the capacity needed to develop the next horizons.
 references:
   - title: "The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise"
     authorYear: Mehrdad Baghai, Stephen Coley & David White (1999)

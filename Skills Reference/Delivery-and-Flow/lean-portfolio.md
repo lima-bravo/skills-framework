@@ -17,6 +17,8 @@ connections:
     rationale: stage-gate funding is the contrast LPM is designed to replace.
   - id: 216
     rationale: portfolio kill decisions should be grounded in unit economics; an initiative with deteriorating LTV:CAC is a kill candidate regardless of revenue trajectory.
+  - id: 176
+    rationale: portfolio-level slack policy — explicit capacity reservation for strategic bets — is the mechanism for protecting exploration investment at scale.
 references:
   - title: SAFe Lean Portfolio Management
     authorYear: Dean Leffingwell et al. (Scaled Agile).

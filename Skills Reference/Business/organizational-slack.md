@@ -82,7 +82,7 @@ For innovation purposes, unabsorbed slack — particularly in human attention an
 
 ## Worked Example
 
-3M's longstanding rule that technical employees could spend 15% of their time on self-chosen projects is the defining case. It was not a motivational perk; it was a deliberate slack policy. Post-it Notes, Scotch tape, and numerous other product lines originated from 15% time. 3M's insight was that innovation could not be fully planned — that a portion of new product value would always come from places that management could not predict in advance. The 15% policy created the structural conditions for those unexpected contributions to exist. When 3M reduced this slack during cost-cutting periods, innovation output measurably declined. The correlation between protected exploration time and novel product development was direct and observable.
+3M's longstanding rule that technical employees could spend 15% of their time on self-chosen projects is the defining case. It was not a motivational perk; it was a deliberate slack policy. Post-it Notes and numerous other product lines originated from 15% time. 3M's insight was that innovation could not be fully planned — that a portion of new product value would always come from places that management could not predict in advance. The 15% policy created the structural conditions for those unexpected contributions to exist. When 3M reduced this slack during cost-cutting periods, innovation output measurably declined. The correlation between protected exploration time and novel product development was direct and observable.
 
 ---
 

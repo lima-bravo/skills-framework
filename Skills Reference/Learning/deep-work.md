@@ -21,6 +21,8 @@ connections:
     rationale: capacity plans must include buffer for depletion and unplanned work
   - id: 45
     rationale: every interruption resets the cognitive cost of re-entering deep focus
+  - id: 176
+    rationale: innovation requires focused, uninterrupted cognitive work; slack policy and deep work norms are the organizational and individual sides of the same requirement.
 references:
   - title: "Deep Work: Rules for Focused Success in a Distracted World"
     authorYear: Cal Newport (2016)

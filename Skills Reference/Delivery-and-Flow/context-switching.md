@@ -15,6 +15,8 @@ connections:
     rationale: switching adds extraneous load.
   - id: 114
     rationale: the practice context-switching defends against.
+  - id: 176
+    rationale: fragmented attention destroys cognitive slack even when calendar slack nominally exists; the two must be managed together.
 references:
   - title: "Quality Software Management Vol. 1: Systems Thinking"
     authorYear: Gerald M. Weinberg (1992).
