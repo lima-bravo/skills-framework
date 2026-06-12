@@ -23,6 +23,8 @@ connections:
     rationale: every credible business case must anchor its projections to a reference class before any inside-view adjustments; RCF is the method that makes that anchor systematic.
   - id: 251
     rationale: "the outside-view anchor for building a realization plan: reference class evidence consistently shows realized benefits run below the business case, which is why expecting — and planning for — the gap is the first practitioner heuristic."
+  - id: 233
+    rationale: where Fermi estimation builds up from factors, reference class forecasting anchors on base rates from comparable cases — use both as cross-checks on each other.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011).

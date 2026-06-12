@@ -29,6 +29,8 @@ connections:
     rationale: EV calculations are only as good as the probability estimates feeding into them — calibration is the discipline that makes those estimates accurate rather than overconfident.
   - id: 228
     rationale: calibrated probability estimates are the foundation of good priors — Bayesian updating assumes you can assign meaningful likelihoods, which requires calibration to be valid.
+  - id: 233
+    rationale: tracking whether Fermi estimates land within the expected range is a calibration exercise — it reveals which decomposition habits are systematically biased.
 references:
   - title: "Superforecasting: The Art and Science of Prediction"
     authorYear: Philip E. Tetlock & Dan Gardner (2015)

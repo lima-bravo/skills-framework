@@ -55,6 +55,8 @@ connections:
     rationale: probabilistic thinking is the framework for reasoning in high-randomness domains — calibrating how much of an observed outcome is signal versus noise.
   - id: 79
     rationale: valid probability estimates require valid sampling — the representativeness and size of the sample constrain any probabilistic inference.
+  - id: 233
+    rationale: Fermi estimation provides the structure for quantifying what you don't know — converting vague probabilistic uncertainty into tractable sub-estimates.
 references:
   - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
     authorYear: Annie Duke (2018)

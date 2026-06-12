@@ -39,6 +39,8 @@ connections:
     rationale: "JTBD is first principles applied to product strategy: stripping away product-category assumptions to ask what the customer fundamentally needs and what moment makes that need urgent."
   - id: 81
     rationale: identifying zero factors requires first-principles reasoning — asking what is genuinely necessary (a zero candidate) vs. merely valuable (a non-zero factor).
+  - id: 233
+    rationale: "Fermi estimation is applied first-principles thinking: building up an answer from basic components rather than extrapolating from analogues or waiting for unavailable data."
 references:
   - title: Discourse on the Method
     authorYear: René Descartes (1637)

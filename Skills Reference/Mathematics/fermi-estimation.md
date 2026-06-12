@@ -23,7 +23,7 @@ references:
     supports: the foundational guide to decomposing problems into tractable sub-problems.
   - title: The Feynman Lectures on Physics
     authorYear: R.P. Feynman, R.B. Leighton & M. Sands (1963)
-    supports: Feynman's estimation approach in the tradition of his teacher Fermi.
+    supports: order-of-magnitude reasoning and estimation as core physics practice — the same tradition Fermi exemplified and Feynman carried forward as a colleague at Los Alamos.
 ---
 
 # Fermi Estimation
