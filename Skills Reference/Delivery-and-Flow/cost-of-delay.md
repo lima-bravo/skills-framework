@@ -15,12 +15,14 @@ connections:
     rationale: CoD is the input that lets portfolio funding follow economic value.
   - id: 141
     rationale: pairs with CoD to estimate the dollar value of "ship this six weeks earlier."
+  - id: 136
+    rationale: batch reduction lowers holding cost; cost of delay is the economic frame that quantifies what waiting for a larger batch actually costs.
 references:
   - title: The Principles of Product Development Flow
     authorYear: Donald G. Reinertsen (2009)
     supports: the full economic model of cost of delay; the source for CD3 and WSJF calculations.
-  - title: "SAFe: Scaled Agile Framework"
-    authorYear: Dean Leffingwell (CoD/WSJF practice)
+  - title: SAFe
+    authorYear: Dean Leffingwell & Scaled Agile (2011–ongoing)
     supports: the WSJF formula that operationalises cost of delay as a sequencing priority in large portfolios.
 ---
 

@@ -17,6 +17,8 @@ connections:
     rationale: the MVP is one instrument at the product rung of the Experiment Ladder — not a synonym for the ladder itself, and not the right tool for every assumption.
   - id: 175
     rationale: the MVP is an effectual instrument — a bird-in-hand commitment that produces learning without requiring a fully specified goal.
+  - id: 136
+    rationale: an MVP is a deliberate batch-size reduction on a product bet — shipping the minimum scope to generate learning rather than waiting for a fully-featured release.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)

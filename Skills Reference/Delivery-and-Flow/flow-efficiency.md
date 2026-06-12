@@ -15,6 +15,8 @@ connections:
     rationale: the economics card; this is the operational specialization.
   - id: 116
     rationale: slack at the individual level is the analogue of slack at the team level.
+  - id: 136
+    rationale: large batches inflate the wait component of flow time; batch-size reduction is the primary structural lever for improving flow efficiency.
 references:
   - title: "This Is Lean: Resolving the Efficiency Paradox"
     authorYear: Niklas Modig & Pär Åhlström (2012)

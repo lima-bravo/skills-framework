@@ -43,6 +43,8 @@ connections:
     rationale: continuous discovery runs upstream of the BML cycle — it continuously generates the opportunities and hypotheses that BML cycles test.
   - id: 189
     rationale: the Experiment Ladder operates within the BML cycle — it determines which type of build is appropriate for each learning loop.
+  - id: 136
+    rationale: small batches are how BML cycles stay fast; batch-size reduction is the delivery mechanism that makes rapid build-measure-learn iterations operationally viable.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)

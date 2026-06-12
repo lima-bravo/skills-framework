@@ -4782,6 +4782,11 @@
       "authorYear": "Dean Leffingwell & Scaled Agile (2011–ongoing)",
       "skills": [
         {
+          "id": 137,
+          "name": "Cost of Delay",
+          "color": "#0891B2"
+        },
+        {
           "id": 159,
           "name": "WSJF",
           "color": "#0891B2"
@@ -4795,17 +4800,6 @@
         {
           "id": 158,
           "name": "Lean Portfolio Management",
-          "color": "#0891B2"
-        }
-      ]
-    },
-    {
-      "title": "SAFe: Scaled Agile Framework",
-      "authorYear": "Dean Leffingwell (CoD/WSJF practice)",
-      "skills": [
-        {
-          "id": 137,
-          "name": "Cost of Delay",
           "color": "#0891B2"
         }
       ]
