@@ -23,6 +23,8 @@ connections:
     rationale: every interruption resets the cognitive cost of re-entering deep focus
   - id: 176
     rationale: innovation requires focused, uninterrupted cognitive work; slack policy and deep work norms are the organizational and individual sides of the same requirement.
+  - id: 148
+    rationale: the Attention Budget is the operational discipline that creates space for deep work — capping concurrent commitments is what makes 2–4 hour focus blocks achievable rather than aspirational.
 references:
   - title: "Deep Work: Rules for Focused Success in a Distracted World"
     authorYear: Cal Newport (2016)

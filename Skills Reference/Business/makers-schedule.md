@@ -21,6 +21,8 @@ connections:
     rationale: org communication structures determine scheduling norms as a structural output.
   - id: 133
     rationale: slack at the individual scheduling level is the analogue of slack capacity at the team level — both are the price of responsiveness over pure utilization.
+  - id: 148
+    rationale: the Attention Budget provides the explicit WIP cap that the Maker's Schedule principle operates within — protecting maker blocks requires enforcing a limit on concurrent commitments.
 references:
   - title: Maker's Schedule, Manager's Schedule
     authorYear: Paul Graham (paulgraham.com, 2009)
