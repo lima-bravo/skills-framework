@@ -19,6 +19,8 @@ connections:
     rationale: the vivid case narrative that overrides the base rate is a product of narrative instinct; the specific story crowds out the statistical background
   - id: 211
     rationale: base rate neglect is the most common source of overconfidence; good calibration requires anchoring on base rates before adjusting for specifics
+  - id: 227
+    rationale: base rate neglect is the most common source of miscalibrated probabilities feeding into EV calculations — overconfident priors produce overstated expected values.
 references:
   - title: '"On the Psychology of Prediction"'
     authorYear: Daniel Kahneman & Amos Tversky (1973), *Psychological Review*, 80(4)

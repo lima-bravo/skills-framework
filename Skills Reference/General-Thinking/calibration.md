@@ -25,6 +25,8 @@ connections:
     rationale: a calibrated business case presents ranges that reflect genuine uncertainty rather than false precision designed to be persuasive; calibration is what distinguishes analytical from advocacy documents.
   - id: 250
     rationale: setting a threshold that triggers real action requires an honest sense of what range of variation is normal noise versus genuine signal; calibration is the cognitive discipline behind threshold design.
+  - id: 227
+    rationale: EV calculations are only as good as the probability estimates feeding into them — calibration is the discipline that makes those estimates accurate rather than overconfident.
 references:
   - title: "Superforecasting: The Art and Science of Prediction"
     authorYear: Philip E. Tetlock & Dan Gardner (2015)

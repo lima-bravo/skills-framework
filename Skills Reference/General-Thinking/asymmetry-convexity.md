@@ -17,6 +17,8 @@ connections:
     rationale: the regret asymmetry (inactions outweigh actions at 80) is the psychological form of the payoff asymmetry described here; both point toward taking the bounded-downside bet.
   - id: 175
     rationale: affordable loss is a strategy for capping downside while keeping upside open; convexity thinking formalizes the same logic — bounded loss, unbounded potential gain.
+  - id: 227
+    rationale: asymmetric payoff structures are the cases where EV dramatically outperforms intuition — bounded downside with large upside produces positive EV even at low probability of success.
 references:
   - title: "Antifragile: Things That Gain from Disorder"
     authorYear: Nassim Nicholas Taleb (2012)
