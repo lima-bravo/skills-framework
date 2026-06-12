@@ -13,12 +13,13 @@ connections:
     rationale: interaction modes become dependency contracts.
   - id: 124
     rationale: culture is the sociotechnical complement to structural redesign.
-  - id: 28
-    rationale: the original observation that the maneuver inverts.
 references:
+  - title: "Dealing with Creaky Legacy Platforms"
+    authorYear: Jonny LeRoy & Matt Simons (Cutter IT Journal, 2010)
+    supports: the original coinage of the "Inverse Conway Maneuver" — deliberately shaping organizational structure to produce the desired system architecture.
   - title: Accelerate
     authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)
-    supports: empirical evidence that teams who design systems around their desired architecture deliver faster than those constrained by org structure.
+    supports: empirical evidence that teams who design systems around their desired architecture deliver faster than those constrained by org structure; provides quantitative backing for the maneuver's effectiveness.
   - title: Team Topologies
     authorYear: Matthew Skelton & Manuel Pais (2019)
     supports: the Team Topologies approach to applying the Inverse Conway Maneuver deliberately through team design.
@@ -31,7 +32,7 @@ references:
 ---
 ## Definition
 
-Conway's Law observes that systems mirror the communication structure of the organizations that build them. The "inverse Conway maneuver" — coined in *Accelerate* (Forsgren, Humble & Kim, 2018) and developed in *Team Topologies* — is the deliberate application of this law in reverse: design the organization to produce the desired system architecture. Want loosely coupled services? Build loosely coupled teams. Want a clean platform/product separation? Build distinct platform and product teams with API-style interaction. Without the maneuver, every attempted architecture is fighting the org chart that surrounds it.
+Conway's Law observes that systems mirror the communication structure of the organizations that build them. The "inverse Conway maneuver" — coined by Jonny LeRoy and Matt Simons (*Cutter IT Journal*, 2010) and developed in *Team Topologies* (Skelton & Pais, 2019) — is the deliberate application of this law in reverse: design the organization to produce the desired system architecture. Want loosely coupled services? Build loosely coupled teams. Want a clean platform/product separation? Build distinct platform and product teams with API-style interaction. Without the maneuver, every attempted architecture is fighting the org chart that surrounds it.
 
 ---
 

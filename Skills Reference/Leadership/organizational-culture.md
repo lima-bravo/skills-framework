@@ -21,6 +21,8 @@ connections:
     rationale: culture determines whether autonomy, competence, and relatedness are structurally available or systematically suppressed; SDT provides the diagnostic lens for what culture is actually doing to motivation.
   - id: 172
     rationale: exploit and explore require different cultural operating conditions; ambidextrous design is partly a culture management problem, and Organizational Culture provides the diagnostic vocabulary for that challenge.
+  - id: 155
+    rationale: the Inverse Conway Maneuver restructures teams to shape architecture, but culture determines whether new team boundaries actually hold — a structural split without cultural alignment reverts to the old communication patterns.
 references:
   - title: Organizational Culture and Leadership
     authorYear: Edgar Schein, 1985 (5th ed. 2017)

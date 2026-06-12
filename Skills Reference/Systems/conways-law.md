@@ -29,6 +29,8 @@ connections:
     rationale: Conway's Law and cognitive load are mutually determining — the architecture a team owns shapes its cognitive load, and the load a team can bear constrains the architecture it can sustain.
   - id: 154
     rationale: Team Topologies is the applied Conway's Law playbook — the four team types and three interaction modes are the operational instruments for executing the Inverse Conway Maneuver.
+  - id: 155
+    rationale: the Inverse Conway Maneuver is the deliberate application of Conway's Law in reverse — designing organization structure to produce the desired architecture rather than accepting whatever architecture the current org produces.
 references:
   - title: How Do Committees Invent?
     authorYear: Melvin E. Conway, Datamation (1968)

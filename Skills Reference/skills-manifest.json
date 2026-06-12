@@ -2801,6 +2801,17 @@
       ]
     },
     {
+      "title": "Dealing with Creaky Legacy Platforms",
+      "authorYear": "Jonny LeRoy & Matt Simons (Cutter IT Journal, 2010)",
+      "skills": [
+        {
+          "id": 155,
+          "name": "Inverse Conway Maneuver",
+          "color": "#0891B2"
+        }
+      ]
+    },
+    {
       "title": "Death by Meeting",
       "authorYear": "Patrick Lencioni (2004)",
       "skills": [
