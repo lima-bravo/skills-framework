@@ -19,6 +19,8 @@ connections:
     rationale: customers evaluate price increases as losses from their anchored reference point; the ~2× asymmetry means price increases are psychologically harder than the arithmetic suggests, which is why starting price matters so much.
   - id: 103
     rationale: the anxiety and inertia forces in JTBD's switching model are largely driven by loss aversion — the perceived cost of switching feels larger than the perceived gain even when the rational calculus favors it.
+  - id: 91
+    rationale: framing as loss vs. gain activates loss aversion differentially — the practitioner who controls the frame controls which valence the audience experiences.
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)

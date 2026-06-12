@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **176**
+- Reviewed (verified + fixed): **177**
 - Flagged: **0**
-- Remaining (todo): **86**
+- Remaining (todo): **85**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -259,7 +259,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Art (4)
 
 - [x] `#90` **Audience** · `Art/audience.md` · **st:** fixed · **n:** Refs verified (Godin 2018, Heath & Heath 2007) ✓; content clean ✓; added 2 missing backlinks (customer-development #66, value-prop-canvas #69). build + check:counts pass.
-- [ ] `#91` **Framing** · `Art/framing.md` · **st:** todo · **n:** —
+- [x] `#91` **Framing** · `Art/framing.md` · **st:** fixed · **n:** Refs verified (Goffman 1974, Kahneman 2011) ✓; worked example accurate ✓; added 2 missing backlinks (loss-aversion #52, anchoring #54). build + check:counts pass.
 - [ ] `#92` **Contrast** · `Art/contrast.md` · **st:** todo · **n:** —
 - [ ] `#93` **Rhythm** · `Art/rhythm.md` · **st:** todo · **n:** —
 
