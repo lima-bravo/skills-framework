@@ -23,6 +23,8 @@ connections:
     rationale: slack at the individual scheduling level is the analogue of slack capacity at the team level — both are the price of responsiveness over pure utilization.
   - id: 148
     rationale: the Attention Budget provides the explicit WIP cap that the Maker's Schedule principle operates within — protecting maker blocks requires enforcing a limit on concurrent commitments.
+  - id: 149
+    rationale: context-switching cost is what the Maker's Schedule is designed to minimize — fragmented calendars impose the switching tax that destroys maker-mode productivity.
 references:
   - title: Maker's Schedule, Manager's Schedule
     authorYear: Paul Graham (paulgraham.com, 2009)

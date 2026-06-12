@@ -19,6 +19,8 @@ connections:
     rationale: "WIP limits are the flow-system expression of Parkinson's Law management: constraining work in progress forces completion rather than expansion."
   - id: 143
     rationale: Flow Load (the flow metric for work in progress across a value stream) is WIP limits operating at portfolio scale; the same constraint logic applied one level up.
+  - id: 149
+    rationale: context-switching cost is the mechanism WIP limits suppress — limiting concurrent items reduces the number of context switches workers must perform, recovering the cognitive capacity lost to reloading.
 references:
   - title: "Kanban: Successful Evolutionary Change for Your Technology Business"
     authorYear: David J. Anderson (2010)

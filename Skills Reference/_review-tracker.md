@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **197**
+- Reviewed (verified + fixed): **198**
 - Flagged: **0**
-- Remaining (todo): **65**
+- Remaining (todo): **64**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -283,7 +283,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#146` **PDCA** · `Delivery-and-Flow/pdca.md` · **st:** fixed · **n:** added 4 missing backlinks (ooda-loop, post-mortem, build-measure-learn, pre-mortem); content and refs accurate.
 - [x] `#147` **Gemba** · `Delivery-and-Flow/gemba.md` · **st:** fixed · **n:** added 4 missing backlinks (map-territory, a3-problem-solving, customer-development, conways-law); content and refs accurate.
 - [x] `#148` **Attention Budget** · `Delivery-and-Flow/attention-budget.md` · **st:** fixed · **n:** added 2 missing backlinks (makers-schedule, deep-work); content and refs accurate.
-- [ ] `#149` **Context-Switching Cost** · `Delivery-and-Flow/context-switching.md` · **st:** todo · **n:** —
+- [x] `#149` **Context-Switching Cost** · `Delivery-and-Flow/context-switching.md` · **st:** fixed · **n:** added 4 missing backlinks (makers-schedule, wip-limits, cognitive-load-team, deep-work); Weinberg numbers correctly caveated; content accurate.
 - [ ] `#150` **Cognitive Load (Team)** · `Delivery-and-Flow/cognitive-load-team.md` · **st:** todo · **n:** —
 - [ ] `#151` **Strategic Prioritization (“One Thing”)** · `Delivery-and-Flow/one-thing.md` · **st:** todo · **n:** —
 - [ ] `#152` **OKRs** · `Delivery-and-Flow/okrs.md` · **st:** todo · **n:** —

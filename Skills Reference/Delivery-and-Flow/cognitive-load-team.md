@@ -19,6 +19,8 @@ connections:
     rationale: team size is a direct driver of coordination overhead, which constitutes extraneous cognitive load; both levers must be managed together.
   - id: 226
     rationale: excess detail is one of the primary sources of unnecessary cognitive load; Quantity and Relation violations directly tax team capacity.
+  - id: 149
+    rationale: context-switching imposes extraneous cognitive load at the team level — every switch between unrelated work types burns working memory that could otherwise serve the current task.
 references:
   - title: "Team Topologies: Organizing Business and Technology Teams for Fast Flow"
     authorYear: Matthew Skelton & Manuel Pais (2019)
