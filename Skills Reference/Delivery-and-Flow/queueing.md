@@ -17,9 +17,11 @@ connections:
     rationale: queues form upstream of bottlenecks; finding the longest queue locates the constraint.
 references:
   - title: The Principles of Product Development Flow
-    authorYear: Donald G. Reinertsen (2009).
+    authorYear: Donald G. Reinertsen (2009)
+    supports: the application of queueing theory to product development; the non-linear relationship between utilization and wait time as the central insight.
   - title: Factory Physics
-    authorYear: Wallace J. Hopp & Mark L. Spearman (1996).
+    authorYear: Wallace J. Hopp & Mark L. Spearman (1996)
+    supports: the academic foundation of factory queueing dynamics; the Kingman approximation and variability-utilization interaction.
 ---
 
 # Queueing & Wait Time

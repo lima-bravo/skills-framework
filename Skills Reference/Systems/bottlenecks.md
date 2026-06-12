@@ -41,6 +41,8 @@ connections:
     rationale: throughput in Little's Law is set by the bottleneck — optimizing non-bottleneck steps does not reduce cycle time.
   - id: 132
     rationale: WIP limits at non-bottleneck stages make the constraint visible by forcing starvation downstream when the bottleneck cannot keep up.
+  - id: 135
+    rationale: queues form upstream of bottlenecks — the longest queue locates the constraint in any delivery system.
 references:
   - title: "The Goal: A Process of Ongoing Improvement"
     authorYear: Eliyahu M. Goldratt & Jeff Cox (1984)

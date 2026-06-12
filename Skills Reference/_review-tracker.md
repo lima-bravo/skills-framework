@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **183**
+- Reviewed (verified + fixed): **184**
 - Flagged: **0**
-- Remaining (todo): **79**
+- Remaining (todo): **78**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -269,7 +269,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#132` **WIP Limits** · `Delivery-and-Flow/wip-limits.md` · **st:** fixed · **n:** Refs verified (Anderson 2010, Reinertsen 2009, Ohno 1988) ✓; added missing supports: fields and removed trailing periods from all 3 refs; added 1 missing backlink (bottlenecks #18). build + check:counts pass.
 - [x] `#133` **Flow Efficiency vs Resource Efficiency** · `Delivery-and-Flow/flow-efficiency.md` · **st:** fixed · **n:** Refs verified (Modig & Åhlström 2012, Reinertsen 2009, Forsgren et al. 2018) ✓; added missing supports: fields and removed trailing periods from all 3 refs; added 2 missing backlinks (efficiency #35, makers-schedule #116). build + check:counts pass.
 - [x] `#134` **Lead Time vs Cycle Time** · `Delivery-and-Flow/lead-time-cycle-time.md` · **st:** fixed · **n:** Refs verified (Vacanti 2015, Reinertsen 2009, Forsgren et al. 2018) ✓; added missing supports: fields and removed trailing periods; added 1 missing backlink (littles-law #131). YAML parse error on embedded quotes — fixed by rephrasing supports: field. build + check:counts pass.
-- [ ] `#135` **Queueing & Wait Time** · `Delivery-and-Flow/queueing.md` · **st:** todo · **n:** —
+- [x] `#135` **Queueing & Wait Time** · `Delivery-and-Flow/queueing.md` · **st:** fixed · **n:** Refs verified (Reinertsen 2009, Hopp & Spearman 1996) ✓; Kingman/Erlang content accurate ✓; added missing supports: fields and removed trailing periods; added 1 missing backlink (bottlenecks #18). build + check:counts pass.
 - [ ] `#136` **Batch Size Reduction** · `Delivery-and-Flow/batch-size-reduction.md` · **st:** todo · **n:** —
 - [ ] `#137` **Cost of Delay** · `Delivery-and-Flow/cost-of-delay.md` · **st:** todo · **n:** —
 - [ ] `#138` **Kanban Method** · `Delivery-and-Flow/kanban-method.md` · **st:** todo · **n:** —
