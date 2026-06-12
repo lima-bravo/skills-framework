@@ -19,6 +19,8 @@ connections:
     rationale: "Wardley Maps reveal the adjacent possible in strategic terms: components at the Genesis/Custom boundary are where new moves become accessible; Commodity components are closed territory."
   - id: 174
     rationale: open innovation deliberately expands the organization's adjacent possible by connecting it to external knowledge flows — making combinations accessible that internal resources alone cannot reach.
+  - id: 175
+    rationale: the crazy quilt principle expands the adjacent possible through partner commitments; each new partner opens doors that weren't accessible from the original starting position.
 references:
   - title: Where Good Ideas Come From
     authorYear: Steven Johnson (2010)

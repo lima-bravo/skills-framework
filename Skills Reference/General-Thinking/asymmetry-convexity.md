@@ -15,6 +15,8 @@ connections:
     rationale: Black Swan events are the tail events that convex positions are designed to survive and benefit from; asymmetric positioning is both the defense and the offense against tail risk.
   - id: 15
     rationale: the regret asymmetry (inactions outweigh actions at 80) is the psychological form of the payoff asymmetry described here; both point toward taking the bounded-downside bet.
+  - id: 175
+    rationale: affordable loss is a strategy for capping downside while keeping upside open; convexity thinking formalizes the same logic — bounded loss, unbounded potential gain.
 references:
   - title: "Antifragile: Things That Gain from Disorder"
     authorYear: Nassim Nicholas Taleb (2012)

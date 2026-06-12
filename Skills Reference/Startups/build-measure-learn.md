@@ -33,6 +33,8 @@ connections:
     rationale: design thinking produces the right question to test; build-measure-learn provides the quantitative loop to validate the answer at scale.
   - id: 174
     rationale: open innovation expands the surface area for experimentation; the same learning loop applies whether the experiment originates internally or is sourced externally.
+  - id: 175
+    rationale: effectuation provides the decision logic for the early cycle; Build-Measure-Learn provides the process structure — together they describe how expert entrepreneurs move through uncertainty.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)

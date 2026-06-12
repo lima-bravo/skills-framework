@@ -47,6 +47,8 @@ connections:
     rationale: "scenario planning is probabilistic thinking applied to strategy: it makes the distribution of futures explicit rather than collapsing to a single expected-value forecast."
   - id: 225
     rationale: statistical significance, power, and confidence intervals are applications of probabilistic thinking; interpreting A/B test results correctly requires understanding probability, not just reading outcome metrics.
+  - id: 175
+    rationale: effectuation doesn't abandon probabilistic reasoning; it acknowledges when the distribution is too unknown to compute and uses affordable loss as a substitute for expected value.
 references:
   - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
     authorYear: Annie Duke (2018)

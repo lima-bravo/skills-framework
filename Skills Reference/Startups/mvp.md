@@ -11,6 +11,8 @@ connections:
     rationale: assumption mapping identifies which assumptions the MVP should test.
   - id: 66
     rationale: customer development generates the hypotheses that the MVP tests.
+  - id: 175
+    rationale: the MVP is an effectual instrument — a bird-in-hand commitment that produces learning without requiring a fully specified goal.
 references:
   - title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
     authorYear: Eric Ries (2011)
