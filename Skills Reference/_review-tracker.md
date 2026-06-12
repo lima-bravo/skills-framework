@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **224**
+- Reviewed (verified + fixed): **225**
 - Flagged: **0**
-- Remaining (todo): **38**
+- Remaining (todo): **37**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -317,7 +317,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#94` **Pricing Decision** · `Pre-built-Chains/pricing-decision.md` · **st:** verified · **n:** chain card; 7 steps factually sound; no connections/refs expected
 - [x] `#95` **Market Entry** · `Pre-built-Chains/market-entry.md` · **st:** verified · **n:** chain card; 8 steps factually sound; no connections/refs expected
 - [x] `#96` **Hiring Decision** · `Pre-built-Chains/hiring-decision.md` · **st:** verified · **n:** chain card; 8 steps factually sound; no connections/refs expected
-- [ ] `#97` **Product Launch** · `Pre-built-Chains/product-launch.md` · **st:** todo · **n:** —
+- [x] `#97` **Product Launch** · `Pre-built-Chains/product-launch.md` · **st:** verified · **n:** chain card; 8 steps factually sound; no connections/refs expected
 - [ ] `#98` **Investment Decision** · `Pre-built-Chains/investment-decision.md` · **st:** todo · **n:** —
 - [ ] `#99` **Should I Quit** · `Pre-built-Chains/should-i-quit.md` · **st:** todo · **n:** —
 - [ ] `#100` **Life Decision** · `Pre-built-Chains/life-decision.md` · **st:** todo · **n:** —
