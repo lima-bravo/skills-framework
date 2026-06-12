@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **154**
+- Reviewed (verified + fixed): **155**
 - Flagged: **0**
-- Remaining (todo): **108**
+- Remaining (todo): **107**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -228,7 +228,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## Mathematics (11)
 
-- [ ] `#75` **Compounding** · `Mathematics/compounding.md` · **st:** todo · **n:** —
+- [x] `#75` **Compounding** · `Mathematics/compounding.md` · **st:** fixed · **n:** Content verified (1% → 37x correct; 50% loss/100% gain correct; Amazon flywheel 1994 correct). Added 2 missing backlinks (ids 17, 24). build + check:counts pass.
 - [ ] `#76` **Local Maxima** · `Mathematics/local-maxima.md` · **st:** todo · **n:** —
 - [ ] `#77` **Regression to the Mean** · `Mathematics/regression-to-the-mean.md` · **st:** todo · **n:** —
 - [ ] `#78` **Randomness** · `Mathematics/randomness.md` · **st:** todo · **n:** —

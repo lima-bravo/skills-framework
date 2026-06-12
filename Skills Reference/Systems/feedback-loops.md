@@ -49,6 +49,8 @@ connections:
     rationale: continuous discovery installs a reinforcing feedback loop between customer reality and product decisions — the loop is the mechanism that prevents drift away from what customers actually need.
   - id: 62
     rationale: PMF activates a reinforcing feedback loop between product quality, retention, and word-of-mouth; the absence of that loop is the diagnostic signal that PMF has not been achieved.
+  - id: 75
+    rationale: compounding is a reinforcing feedback loop — gains become the new base for the next cycle; the two concepts describe the same exponential dynamic from different angles.
 references:
   - title: "Thinking in Systems: A Primer"
     authorYear: Donella H. Meadows (2008)
