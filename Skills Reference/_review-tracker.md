@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **231**
+- Reviewed (verified + fixed): **232**
 - Flagged: **0**
-- Remaining (todo): **31**
+- Remaining (todo): **30**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -324,7 +324,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#117` **Capacity Planning** · `Pre-built-Chains/capacity-planning.md` · **st:** fixed · **n:** added 8 missing reciprocal backlinks in deep-work, makers-schedule, planning-fallacy, bottlenecks, debt, second-order-effects, margin-of-safety, incentives
 - [x] `#130` **Transformation Chain** · `Pre-built-Chains/transformation.md` · **st:** fixed · **n:** fixed header (linked category, removed redundant tagline line, added --- separator)
 - [x] `#168` **Improve Delivery Flow** · `Pre-built-Chains/improve-delivery-flow.md` · **st:** verified · **n:** chain card; 8 steps factually sound; no connections/refs expected
-- [ ] `#169` **Org Design for Flow Diagnostic** · `Pre-built-Chains/org-design-for-flow.md` · **st:** todo · **n:** —
+- [x] `#169` **Org Design for Flow Diagnostic** · `Pre-built-Chains/org-design-for-flow.md` · **st:** verified · **n:** chain card; 8 steps factually sound; Team Topologies types/modes correct
 - [ ] `#170` **Work to Be Done** · `Pre-built-Chains/work-to-be-done.md` · **st:** todo · **n:** —
 - [ ] `#177` **Innovation Capability Diagnostic** · `Pre-built-Chains/innovation-capability-diagnostic.md` · **st:** todo · **n:** —
 - [ ] `#178` **Design and Launch an Innovation Program** · `Pre-built-Chains/design-launch-innovation-program.md` · **st:** todo · **n:** —
