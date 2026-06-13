@@ -45,6 +45,8 @@ connections:
     rationale: Organisational Degradation Scan applies Goodhart's Law in Step 5 — checking whether metrics have decoupled from the outcomes they were designed to track
   - id: 124
     rationale: culture determines what people actually optimise for when explicit metrics are ambiguous — Goodhart's Law operates more powerfully in low-trust, blame-oriented cultures
+  - id: 129
+    rationale: boards that over-rely on quantitative reporting create Goodhart pressure throughout the organisation — the metrics optimised for the board cease to measure what the board actually needs to know
 references:
   - title: The Tyranny of Metrics
     authorYear: Jerry Z. Muller (2018)

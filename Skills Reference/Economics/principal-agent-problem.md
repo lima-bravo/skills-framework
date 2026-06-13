@@ -37,6 +37,8 @@ connections:
     rationale: Organizational Culture shapes how agents interpret their principal's intent; basic assumptions determine whether delegation or self-interest fills the gap
   - id: 126
     rationale: risk governance depends on agents internalising accountability for the risks they create; without aligned incentives the Three Lines collapse into box-ticking
+  - id: 129
+    rationale: Board Governance is the institutional architecture for managing owner/executive agency risk — the structural response to the principal–agent problem at the top of the organisation
 references:
   - title: "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"
     authorYear: Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976)

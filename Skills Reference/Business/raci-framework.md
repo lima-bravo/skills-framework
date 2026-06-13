@@ -17,6 +17,8 @@ connections:
     rationale: RACI should be built during change design alongside the guiding coalition, not after accountability disputes have already begun.
   - id: 220
     rationale: the RACI is the formal accountability layer; power mapping reveals the informal influence structure beneath it; when the two diverge significantly, the organisation has a governance design problem.
+  - id: 129
+    rationale: the board/management boundary is the highest-stakes RACI distinction in the organisation; unclear accountability at this level is a primary governance failure mode
 references:
   - title: "Organization Design: Engaging with Change"
     authorYear: Naomi Stanford (Routledge, 2nd ed., 2013)

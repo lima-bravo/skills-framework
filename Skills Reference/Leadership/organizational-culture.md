@@ -25,6 +25,8 @@ connections:
     rationale: the Inverse Conway Maneuver restructures teams to shape architecture, but culture determines whether new team boundaries actually hold — a structural split without cultural alignment reverts to the old communication patterns.
   - id: 125
     rationale: Change Management's step 8 only succeeds when new behaviours reach the basic-assumptions level of culture; Schein's model explains why anchoring reverts
+  - id: 129
+    rationale: the board both reflects and shapes organisational culture; culture at the top is set by what the board tolerates, celebrates, and ignores
 references:
   - title: Organizational Culture and Leadership
     authorYear: Edgar Schein, 1985 (5th ed. 2017)

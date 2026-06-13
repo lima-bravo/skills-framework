@@ -19,12 +19,12 @@ references:
   - title: Corporate Governance
     authorYear: Robert Monks & Nell Minow, 5th ed. 2011
     supports: the foundational text on board structure, director duties, and shareholder rights; Monks & Minow's activist shareholder perspective.
-  - title: The Boardroom Imperative
+  - title: Boards That Deliver
     authorYear: Ram Charan, 2005
     supports: Ram Charan's practitioner guide to effective board-CEO relationships and board oversight of strategy and talent.
-  - title: OECD Principles of Corporate Governance
+  - title: G20/OECD Principles of Corporate Governance
     authorYear: OECD, 2023
-    supports: the foundational text on board structure, director duties, and shareholder rights; Monks & Minow's activist shareholder perspective.
+    supports: the international standard for corporate governance — board responsibilities, shareholder rights, disclosure, and the 2023 update on sustainability and resilience.
 ---
 
 # Board Governance
