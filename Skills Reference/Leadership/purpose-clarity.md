@@ -17,6 +17,8 @@ connections:
     rationale: decision memos and written communications are the async alternative to alignment meetings; they only work if the writer can articulate purpose clearly enough to convey it in writing
   - id: 190
     rationale: Q1 of the meeting close ("what is the decision?") implicitly requires purpose clarity; people who don't know why their work matters cannot reliably identify which decisions are load-bearing
+  - id: 194
+    rationale: the Purpose component of Leader's Intent is purpose clarity operationalised for execution briefings; the two concepts are the same mechanism at different abstraction levels
 references:
   - title: Self-Determination Theory
     authorYear: Ryan & Deci, 2017

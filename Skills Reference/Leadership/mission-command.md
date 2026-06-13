@@ -29,6 +29,8 @@ connections:
     rationale: Q1 clarifies the decision boundary; Mission Command specifies the intent within which the single owner executes autonomously
   - id: 193
     rationale: Purpose Clarity provides the meaning dimension Mission Command needs — both are required; Mission Command without Purpose Clarity produces technically correct but disengaged execution
+  - id: 194
+    rationale: Leader's Intent is the craft-level tool that operationalises Mission Command — the specific template for constructing and communicating intent well
 references:
   - title: The Art of Action
     authorYear: Stephen Bungay, 2011
