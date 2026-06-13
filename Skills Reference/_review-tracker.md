@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **258**
+- Reviewed (verified + fixed): **259**
 - Flagged: **0**
-- Remaining (todo): **4**
+- Remaining (todo): **3**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -354,7 +354,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#221` **Influence Without Authority** · `Leadership/influence-without-authority.md` · **st:** fixed · **n:** fixed 4 authorYear formats; added 5 missing backlinks (#49, #205, #101, #74, #121)
 - [x] `#222` **Coalition Building** · `Leadership/coalition-building.md` · **st:** fixed · **n:** fixed 4 authorYear formats (inverted → comma); added 3 missing backlinks (#74, #205, #202)
 - [x] `#242` **Peter Principle** · `Leadership/peter-principle.md` · **st:** fixed · **n:** fixed 1 authorYear format; added 5 missing backlinks (#57, #121, #51, #96, #124)
-- [ ] `#257` **Span of Control** · `Leadership/span-of-control.md` · **st:** todo · **n:** —
+- [x] `#257` **Span of Control** · `Leadership/span-of-control.md` · **st:** fixed · **n:** fixed 3 authorYear formats; added 2 missing backlinks (#156, #155)
 
 ## Applied AI (3)
 

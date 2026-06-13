@@ -13,6 +13,8 @@ connections:
     rationale: interaction modes become dependency contracts.
   - id: 124
     rationale: culture is the sociotechnical complement to structural redesign.
+  - id: 257
+    rationale: team size and structure determine what architectures are buildable; span-of-control decisions are therefore architectural decisions that interact directly with Conway's Law
 references:
   - title: "Dealing with Creaky Legacy Platforms"
     authorYear: Jonny LeRoy & Matt Simons (Cutter IT Journal, 2010)

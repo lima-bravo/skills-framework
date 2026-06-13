@@ -19,6 +19,8 @@ connections:
     rationale: dependencies are a major source of extraneous cognitive load — every external dependency a team must coordinate with is mental overhead that doesn't serve the team's core problem.
   - id: 170
     rationale: Step 8 of the Work to Be Done chain flags cross-team dependencies as part of the flow sketch — dependency surface area determines where the critical path will stall before execution begins.
+  - id: 257
+    rationale: cross-team dependencies scale with the number of teams, which is itself a function of how span-of-control limits have been applied; the two decisions are therefore linked
 references:
   - title: Team Topologies
     authorYear: Matthew Skelton & Manuel Pais (2019)
