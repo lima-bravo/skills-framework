@@ -23,7 +23,7 @@ connections:
     rationale: Organisational Degradation Scan applies the Peter Principle in Step 4 — assessing whether management layer incompetence accumulated through promotion-on-past-performance is sustaining degradation
 references:
   - title: "The Peter Principle: Why Things Always Go Wrong"
-    authorYear: Laurence J. Peter & Raymond Hull (1969)
+    authorYear: Laurence J. Peter & Raymond Hull, 1969
     supports: the source text coining the principle and documenting its mechanics.
 ---
 

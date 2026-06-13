@@ -13,6 +13,8 @@ connections:
     rationale: calibration is the direct antidote to Dunning-Kruger; the practice of tracking predictions against outcomes is how miscalibration at low competence gets corrected.
   - id: 104
     rationale: "low psychological safety amplifies Dunning-Kruger at team level: overconfident members go unchallenged and uncertain members withhold knowledge."
+  - id: 242
+    rationale: people promoted beyond their competence often lack metacognitive awareness to recognise their own incompetence; Dunning-Kruger compounds the Peter Principle by making self-correction less likely
 references:
   - title: "Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments"
     authorYear: Justin Kruger & David Dunning, Journal of Personality and Social Psychology Vol. 77 No. 6 (1999)

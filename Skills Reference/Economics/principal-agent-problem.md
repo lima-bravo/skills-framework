@@ -41,6 +41,8 @@ connections:
     rationale: Board Governance is the institutional architecture for managing owner/executive agency risk — the structural response to the principal–agent problem at the top of the organisation
   - id: 221
     rationale: when you influence an agent whose interests diverge from the principal's, the influence may not produce the organisational outcome you intended — understand whose interests you are actually activating
+  - id: 242
+    rationale: "the Peter Principle creates principal-agent misalignment: the organisation promotes believing it is rewarding performance, while inadvertently degrading the capability of the role the promoted person now occupies"
 references:
   - title: "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"
     authorYear: Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976)

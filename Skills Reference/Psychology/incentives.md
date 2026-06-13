@@ -55,6 +55,8 @@ connections:
     rationale: incentive structures and basic assumptions interact; changing one without the other produces unpredictable results — culture and incentives must move together
   - id: 191
     rationale: meetings proliferate because calling one is costless and signals effort; async-first requires counteracting those visibility incentives
+  - id: 242
+    rationale: "the Peter Principle is an incentive design failure: if promotion is the only path to status and compensation, individual contributors are incentivised to pursue roles they may be unsuited for"
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)

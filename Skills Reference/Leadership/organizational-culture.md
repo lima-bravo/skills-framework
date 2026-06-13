@@ -29,6 +29,8 @@ connections:
     rationale: the board both reflects and shapes organisational culture; culture at the top is set by what the board tolerates, celebrates, and ignores
   - id: 193
     rationale: purpose clarity is both a product of open culture and a driver of it — leaders who make purpose explicit model the communication standard the culture requires
+  - id: 242
+    rationale: the Peter Principle accumulates faster in cultures that equate career progression with management hierarchy; cultures that genuinely value specialist excellence are more resistant
 references:
   - title: Organizational Culture and Leadership
     authorYear: Edgar Schein, 1985 (5th ed. 2017)

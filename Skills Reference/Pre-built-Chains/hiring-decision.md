@@ -7,6 +7,8 @@ tagline: Hiring Decision
 connections:
   - id: 244
     rationale: Organisational Degradation Scan feeds into this chain when Peter Principle accumulation is the primary mechanism and role redesign or replacement is indicated
+  - id: 242
+    rationale: the Hiring Decision chain should explicitly address whether promotion is the right mechanism, or whether an external hire or role redesign better serves the need
 ---
 
 # Hiring Decision
