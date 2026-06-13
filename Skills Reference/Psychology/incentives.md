@@ -51,6 +51,8 @@ connections:
     rationale: "the Cobra Effect is always an incentive design failure: the intervention creates incentives that point toward sustaining rather than solving the problem."
   - id: 117
     rationale: the Capacity Planning chain's Step 8 verifies that the planning process rewards honesty about constraints rather than optimism that wins approval — the incentive check that makes the rest of the chain trustworthy.
+  - id: 124
+    rationale: incentive structures and basic assumptions interact; changing one without the other produces unpredictable results — culture and incentives must move together
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)

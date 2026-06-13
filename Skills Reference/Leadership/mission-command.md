@@ -21,6 +21,8 @@ connections:
     rationale: RACI clarifies who is accountable for each outcome; mission command specifies the intent within which that accountable person acts autonomously.
   - id: 164
     rationale: the coaching stance in an engagement lifecycle is mission command for the consultant-client relationship — set intent, withdraw, trust the client team's execution.
+  - id: 124
+    rationale: Mission Command requires a basic-assumptions level belief that subordinates can be trusted; it fails in high-authority cultures where the operative assumption is that control is necessary
 references:
   - title: The Art of Action
     authorYear: Stephen Bungay, 2011

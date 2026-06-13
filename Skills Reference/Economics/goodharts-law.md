@@ -43,6 +43,8 @@ connections:
     rationale: teams measured on uptime SLO alone optimize for it at the expense of latency, correctness, and incident frequency — Goodhart's Law in reliability metrics.
   - id: 244
     rationale: Organisational Degradation Scan applies Goodhart's Law in Step 5 — checking whether metrics have decoupled from the outcomes they were designed to track
+  - id: 124
+    rationale: culture determines what people actually optimise for when explicit metrics are ambiguous — Goodhart's Law operates more powerfully in low-trust, blame-oriented cultures
 references:
   - title: The Tyranny of Metrics
     authorYear: Jerry Z. Muller (2018)

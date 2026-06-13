@@ -33,6 +33,8 @@ connections:
     rationale: coaching stance only works in an environment where clients feel safe to say they don't know or were wrong — without psychological safety, the client manages up rather than engaging honestly with the diagnosis.
   - id: 259
     rationale: Liberating Structures reduce the cost of speaking but do not eliminate it; in low-safety environments, structural protections must be stronger — anonymity, pre-meeting interviews — for genuine intelligence to surface.
+  - id: 124
+    rationale: psychological safety is a measurable artefact of the underlying assumption about whether failure and dissent are safe — the most diagnostic read of the assumptions layer
 references:
   - title: "The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth"
     authorYear: Amy C. Edmondson (2018)
