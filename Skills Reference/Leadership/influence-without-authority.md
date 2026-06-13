@@ -25,16 +25,16 @@ connections:
     rationale: pre-wiring is influence without authority applied specifically to the run-up to a decision meeting — moving stakeholders toward a position before the room where the decision is ratified.
 references:
   - title: "Influence Without Authority: The Use of Alliances, Reciprocity, and Exchange to Accomplish Work"
-    authorYear: A.R. Cohen & D.L. Bradford (1989)
+    authorYear: A.R. Cohen & D.L. Bradford, 1989
     supports: the foundational exchange-based framework for influence without formal authority — the currency model for trading value across organizational boundaries.
   - title: "Influence: The Psychology of Persuasion"
-    authorYear: R.B. Cialdini (1984)
+    authorYear: R.B. Cialdini, 1984
     supports: the six principles of influence — reciprocity, commitment, social proof, authority, liking, scarcity — as psychological levers available without positional power.
   - title: Power and Influence
-    authorYear: J.P. Kotter (1985)
+    authorYear: J.P. Kotter, 1985
     supports: the political model of organizational power and how to build influence through networks and relationships without relying on formal authority.
   - title: Getting to Yes
-    authorYear: R. Fisher & W. Ury (1981)
+    authorYear: R. Fisher & W. Ury, 1981
     supports: interest-based negotiation as influence discipline — finding what the other party actually needs rather than arguing positions.
 ---
 

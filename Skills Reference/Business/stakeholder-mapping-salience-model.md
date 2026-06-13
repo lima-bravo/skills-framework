@@ -25,6 +25,8 @@ connections:
     rationale: Q3 is a quick stakeholder salience scan under time pressure — identifying who has legitimacy or urgency before they learn about the decision through back channels
   - id: 191
     rationale: knowing who needs to be in the room vs. who needs only async notification is the informational prerequisite for applying the triage filter correctly
+  - id: 221
+    rationale: stakeholder mapping identifies who has legitimate standing and what they care about; it complements power mapping as input to an influence strategy
 references:
   - title: Toward a Theory of Stakeholder Identification and Salience
     authorYear: Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood, Academy of Management Review Vol. 22 No. 4 (1997)

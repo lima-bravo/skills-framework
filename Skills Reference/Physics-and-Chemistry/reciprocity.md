@@ -13,6 +13,8 @@ connections:
     rationale: reciprocal networks (where giving to one member benefits others) are more valuable than transactional ones.
   - id: 230
     rationale: "Tit-for-Tat, the most successful strategy in repeated Prisoner's Dilemmas, is a formalisation of reciprocity: cooperate first, then mirror the other player."
+  - id: 221
+    rationale: influence without authority operates largely through reciprocal exchange of genuine value; reciprocity is the foundational mechanism that makes the approach work
 references:
   - title: "Influence: The Psychology of Persuasion"
     authorYear: Robert B. Cialdini (1984)

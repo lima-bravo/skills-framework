@@ -23,6 +23,8 @@ connections:
     rationale: public commitments to cooperate can serve as credible signals that shift the equilibrium away from mutual defection
   - id: 252
     rationale: once someone has voiced a position privately and had it heard, they are far more likely to hold a consistent position in the room — pre-wiring exploits commitment consistency to lock in support before the decision meeting.
+  - id: 221
+    rationale: small initial compliance establishes a pattern that makes larger subsequent asks more natural — commitment consistency works in favour of influence-builders who start with small, easy asks
 references:
   - title: "Influence: The Psychology of Persuasion"
     authorYear: Robert B. Cialdini (1984)

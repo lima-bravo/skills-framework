@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **255**
+- Reviewed (verified + fixed): **256**
 - Flagged: **0**
-- Remaining (todo): **7**
+- Remaining (todo): **6**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -351,7 +351,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#195` **Brief-Back Protocols** · `Leadership/brief-back-protocols.md` · **st:** fixed · **n:** fixed 4 authorYear formats (parentheses → comma); added 4 missing backlinks (#118, #104, #10, #190)
 - [x] `#196` **After-Action Review** · `Leadership/after-action-review.md` · **st:** fixed · **n:** cleaned 3 authorYear parentheticals; added 3 missing backlinks (#17, #104, #118)
 - [x] `#197` **Tactical Pause** · `Leadership/tactical-pause.md` · **st:** fixed · **n:** fixed 4 authorYear formats; added 6 missing backlinks (#119, #122, #194, #118, #10, #196)
-- [ ] `#221` **Influence Without Authority** · `Leadership/influence-without-authority.md` · **st:** todo · **n:** —
+- [x] `#221` **Influence Without Authority** · `Leadership/influence-without-authority.md` · **st:** fixed · **n:** fixed 4 authorYear formats; added 5 missing backlinks (#49, #205, #101, #74, #121)
 - [ ] `#222` **Coalition Building** · `Leadership/coalition-building.md` · **st:** todo · **n:** —
 - [ ] `#242` **Peter Principle** · `Leadership/peter-principle.md` · **st:** todo · **n:** —
 - [ ] `#257` **Span of Control** · `Leadership/span-of-control.md` · **st:** todo · **n:** —
