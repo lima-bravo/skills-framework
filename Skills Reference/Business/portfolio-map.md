@@ -17,6 +17,8 @@ connections:
     rationale: portfolio decisions flow from the where-to-play choice in the cascade; Playing to Win makes that linkage explicit rather than leaving portfolio allocation to financial criteria alone.
   - id: 113
     rationale: Three Horizons provides the strategic logic for the H1/H2/H3 allocation; the portfolio map is the tool for visualising and managing that allocation across time.
+  - id: 245
+    rationale: Funnel Intake uses Portfolio Map in Step 3A — checking whether the portfolio has capacity and intent at the idea's horizon before opening the funnel
 references:
   - title: "The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise"
     authorYear: Mehrdad Baghai, Stephen Coley & David White (1999)
