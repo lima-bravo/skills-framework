@@ -53,6 +53,8 @@ connections:
     rationale: the Capacity Planning chain's Step 8 verifies that the planning process rewards honesty about constraints rather than optimism that wins approval — the incentive check that makes the rest of the chain trustworthy.
   - id: 124
     rationale: incentive structures and basic assumptions interact; changing one without the other produces unpredictable results — culture and incentives must move together
+  - id: 191
+    rationale: meetings proliferate because calling one is costless and signals effort; async-first requires counteracting those visibility incentives
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)

@@ -29,6 +29,8 @@ connections:
     rationale: context-switching cost is what deep work defends against — every interruption erases the loaded cognitive context that deep work depends on, and recovery time is non-trivial.
   - id: 117
     rationale: the Capacity Planning chain uses deep work hours (3.5 per person per day) as its foundational capacity metric — calendar hours are the wrong denominator for cognitive work planning.
+  - id: 191
+    rationale: async-first is the organisational practice that makes deep work structurally possible at scale — protecting uninterrupted blocks by default
 references:
   - title: "Deep Work: Rules for Focused Success in a Distracted World"
     authorYear: Cal Newport (2016)
