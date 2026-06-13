@@ -15,6 +15,8 @@ connections:
     rationale: optimization works with marginal returns; diminishing returns is the curve that determines where to stop allocating.
   - id: 120
     rationale: "local optimisation of a proxy metric is how Goodhart's Law manifests in practice: the optimiser hits the number while the underlying objective degrades."
+  - id: 263
+    rationale: Delete Before You Optimise is the prerequisite discipline — question whether the thing being optimised should exist before finding the optimum within it.
 references:
   - title: "Algorithms to Live By: The Computer Science of Human Decisions"
     authorYear: Brian Christian & Tom Griffiths (2016)

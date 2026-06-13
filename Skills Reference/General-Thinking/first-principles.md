@@ -51,6 +51,8 @@ connections:
     rationale: MECE problem statements often reveal a first-principles structure — the categories that are truly irreducible and non-overlapping for a given domain.
   - id: 118
     rationale: Mission Command forces first-principles articulation of the commander's intent — why the mission matters, not just what to do
+  - id: 263
+    rationale: Delete Before You Optimise applies first-principles questioning to requirements — asking which should exist at all before rebuilding from bedrock.
 references:
   - title: Discourse on the Method
     authorYear: René Descartes (1637)

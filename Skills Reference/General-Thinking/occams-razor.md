@@ -15,6 +15,8 @@ connections:
     rationale: sister parsimony principle in a different domain; Occam's Razor governs explanatory economy, Grice governs communicative economy.
   - id: 233
     rationale: prefer the simplest decomposition that captures the dominant factors — adding more factors increases arithmetic complexity without necessarily improving the accuracy of a Fermi estimate.
+  - id: 263
+    rationale: Delete Before You Optimise applies Occam's parsimony to requirements and process steps — both resist unnecessary complexity, but this card targets execution rather than explanation.
 references:
   - title: The Logic of Scientific Discovery
     authorYear: Karl R. Popper (1934; English trans. 1959)

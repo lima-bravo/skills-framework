@@ -19,6 +19,8 @@ connections:
     rationale: the A3's current-state section is typically built on VSM evidence — the map provides the fact base that an A3's diagnosis compresses to one page.
   - id: 170
     rationale: Step 8 of the Work to Be Done chain runs a light VSM on the critical path from trigger to outcome — enough to name waits, handoffs, owners, and hypothesize the bottleneck before deep flow work begins.
+  - id: 263
+    rationale: VSM surfaces which steps are non-value-adding (muda) — it is the diagnostic instrument that reveals what Delete Before You Optimise should target first.
 references:
   - title: "Learning to See: Value-Stream Mapping to Create Value and Eliminate Muda"
     authorYear: Mike Rother & John Shook (1999)

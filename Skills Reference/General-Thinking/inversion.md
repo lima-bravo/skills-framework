@@ -29,6 +29,8 @@ connections:
     rationale: "building the most challenging scenario is an inversion exercise applied to strategic planning: imagine your strategy fails, then ask what environment produced that outcome."
   - id: 105
     rationale: every pre-built chain includes an inversion step as a structural disconfirmation mechanism — the pre-mortem or assumption challenge is required, not optional.
+  - id: 263
+    rationale: Delete Before You Optimise is inversion applied to requirements — instead of asking how to improve a step, ask what would break if it didn't exist.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)

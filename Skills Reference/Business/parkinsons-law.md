@@ -21,6 +21,8 @@ connections:
     rationale: "kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth."
   - id: 244
     rationale: Organisational Degradation Scan applies Parkinson's Law in Step 3 — diagnosing whether headcount and process are growing faster than output as a structural degradation mechanism
+  - id: 263
+    rationale: Delete Before You Optimise is the active countermeasure to Parkinson expansion — where Parkinson's Law describes why unnecessary work persists, this card is the discipline for eliminating it.
 references:
   - title: Parkinson's Law, and Other Studies in Administration
     authorYear: C. Northcote Parkinson (1958)

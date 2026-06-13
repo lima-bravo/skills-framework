@@ -1853,6 +1853,14 @@
       "file": "Skills Reference/Economics/incentive-design.md",
       "color": "#16A34A",
       "cardType": "standard"
+    },
+    "General-Thinking/delete-before-you-optimise.md": {
+      "id": 263,
+      "name": "Delete Before You Optimise",
+      "category": "General Thinking",
+      "file": "Skills Reference/General-Thinking/delete-before-you-optimise.md",
+      "color": "#3B82F6",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -2395,6 +2403,17 @@
       ]
     },
     {
+      "title": "Boards That Deliver",
+      "authorYear": "Ram Charan, 2005",
+      "skills": [
+        {
+          "id": 129,
+          "name": "Board Governance",
+          "color": "#1E40AF"
+        }
+      ]
+    },
+    {
       "title": "Bowling Alone: The Collapse and Revival of American Community",
       "authorYear": "Robert D. Putnam (2000)",
       "skills": [
@@ -2406,7 +2425,7 @@
       ]
     },
     {
-      "title": "boyd: The Fighter Pilot Who Changed the Art of War",
+      "title": "Boyd: The Fighter Pilot Who Changed the Art of War",
       "authorYear": "Robert Coram, 2002",
       "skills": [
         {
@@ -3012,6 +3031,17 @@
       ]
     },
     {
+      "title": "Elon Musk",
+      "authorYear": "Walter Isaacson, 2023",
+      "skills": [
+        {
+          "id": 263,
+          "name": "Delete Before You Optimise",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
       "title": "Emergence: The Connected Lives of Ants, Brains, Cities, and Software",
       "authorYear": "Steven Johnson (2001)",
       "skills": [
@@ -3214,6 +3244,17 @@
           "id": 206,
           "name": "Base Rate Neglect",
           "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "G20/OECD Principles of Corporate Governance",
+      "authorYear": "OECD, 2023",
+      "skills": [
+        {
+          "id": 129,
+          "name": "Board Governance",
+          "color": "#1E40AF"
         }
       ]
     },
@@ -5658,6 +5699,17 @@
       ]
     },
     {
+      "title": "The Effective Executive",
+      "authorYear": "Peter F. Drucker, 1967",
+      "skills": [
+        {
+          "id": 263,
+          "name": "Delete Before You Optimise",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
       "title": "The Elements of Style",
       "authorYear": "William Strunk Jr. & E.B. White (1959)",
       "skills": [
@@ -7127,6 +7179,11 @@
           "id": 147,
           "name": "Gemba",
           "color": "#0891B2"
+        },
+        {
+          "id": 263,
+          "name": "Delete Before You Optimise",
+          "color": "#3B82F6"
         }
       ]
     },

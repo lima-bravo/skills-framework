@@ -15,6 +15,8 @@ connections:
     rationale: "Gresham's Law is a market efficiency failure: when quality is not priced, low-quality options systematically displace high-quality ones."
   - id: 133
     rationale: flow efficiency vs resource efficiency is the operational specialization of the broader efficiency trade-off — optimizing one dimension degrades the other.
+  - id: 263
+    rationale: Delete Before You Optimise is the upstream discipline — efficiency asks how well you execute; this card asks whether to execute at all.
 references:
   - title: The Wealth of Nations
     authorYear: Adam Smith (1776)
