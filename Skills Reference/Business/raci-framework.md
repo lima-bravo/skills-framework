@@ -23,6 +23,8 @@ connections:
     rationale: Three-Question Ritual operationalises RACI at meeting granularity — Q2 (one Accountable) and Q3 (Informed list) apply the framework in real time before the meeting ends
   - id: 191
     rationale: decision memos (the async alternative to alignment meetings) need a named Accountable to replace the implicit accountability a meeting provides
+  - id: 193
+    rationale: the Accountable role in RACI only works at the human level when the person holding it understands why the outcome matters; purpose clarity is the prerequisite
 references:
   - title: "Organization Design: Engaging with Change"
     authorYear: Naomi Stanford (Routledge, 2nd ed., 2013)

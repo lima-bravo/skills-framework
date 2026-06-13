@@ -17,6 +17,8 @@ connections:
     rationale: the alignment/decision distinction (Q1) is the same boundary the board/management split operates on
   - id: 191
     rationale: Async-First Default is the entry gate for meetings; the three-question ritual is the exit discipline for the meetings that pass the triage filter
+  - id: 193
+    rationale: Q1 of the meeting close (what is the decision?) implicitly requires purpose clarity — people who do not know why their work matters cannot reliably identify which decisions are load-bearing
 references:
   - title: Death by Meeting
     authorYear: Patrick Lencioni, 2004

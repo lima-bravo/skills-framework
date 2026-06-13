@@ -27,6 +27,8 @@ connections:
     rationale: Change Management's step 8 only succeeds when new behaviours reach the basic-assumptions level of culture; Schein's model explains why anchoring reverts
   - id: 129
     rationale: the board both reflects and shapes organisational culture; culture at the top is set by what the board tolerates, celebrates, and ignores
+  - id: 193
+    rationale: purpose clarity is both a product of open culture and a driver of it — leaders who make purpose explicit model the communication standard the culture requires
 references:
   - title: Organizational Culture and Leadership
     authorYear: Edgar Schein, 1985 (5th ed. 2017)

@@ -17,6 +17,8 @@ connections:
     rationale: async-first is the organisational practice that makes deep work structurally possible at scale
   - id: 51
     rationale: meetings proliferate because calling one is costless and signals effort; async-first requires counteracting visibility incentives
+  - id: 193
+    rationale: decision memos and async alternatives to alignment meetings only work if the writer can articulate purpose clearly enough to convey it without a room
 references:
   - title: The Surprising Science of Meetings
     authorYear: Steven Rogelberg, 2019
