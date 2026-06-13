@@ -103,6 +103,4 @@ Updated estimate: 40% (base rate adjusted upward for specific factors she can po
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

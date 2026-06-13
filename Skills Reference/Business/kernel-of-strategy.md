@@ -79,6 +79,4 @@ A mid-market software firm's "strategy" is a slide deck of five priorities (grow
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

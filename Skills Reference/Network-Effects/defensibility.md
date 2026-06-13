@@ -65,6 +65,4 @@ Amazon's defensibility is often described as its logistics network. But the actu
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

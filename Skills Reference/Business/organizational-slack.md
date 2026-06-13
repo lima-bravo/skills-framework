@@ -88,6 +88,4 @@ For innovation purposes, unabsorbed slack — particularly in human attention an
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

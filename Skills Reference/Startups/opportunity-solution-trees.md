@@ -85,6 +85,4 @@ A fintech team is accountable for an outcome: increase the percentage of custome
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

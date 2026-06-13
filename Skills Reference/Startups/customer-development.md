@@ -79,6 +79,4 @@ The founders of Airbnb validated their core hypothesis by manually creating list
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

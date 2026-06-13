@@ -103,6 +103,4 @@ A company pays its sales force a commission purely on bookings to align reps (ag
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

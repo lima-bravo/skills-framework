@@ -69,6 +69,4 @@ A retailer wants a clean separation between order capture and order fulfillment 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

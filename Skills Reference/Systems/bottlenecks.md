@@ -103,6 +103,4 @@ An engineering team complains they can't ship fast enough. The diagnosis: pull r
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

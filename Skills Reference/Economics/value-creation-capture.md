@@ -93,6 +93,4 @@ Strategic options: (1) Sell to payers who bear the readmission cost — direct c
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

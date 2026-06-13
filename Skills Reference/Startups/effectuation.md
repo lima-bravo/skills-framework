@@ -84,6 +84,4 @@ The founding of Starbucks illustrates the lemonade principle. Howard Schultz vis
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -109,6 +109,4 @@ A SaaS company notices that as their customer success team grows, NPS improves, 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

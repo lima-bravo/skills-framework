@@ -101,6 +101,4 @@ Dropbox's famous explainer video is a canonical Build-Measure-Learn example. Bef
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

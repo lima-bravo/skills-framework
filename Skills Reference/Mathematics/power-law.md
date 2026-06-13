@@ -84,6 +84,4 @@ The strategic implication: stop acquiring broad and start acquiring narrow. The 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

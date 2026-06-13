@@ -131,6 +131,4 @@ A CPO inherits an innovation programme that reports glowing numbers: 200 ideas i
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -94,6 +94,4 @@ Google's Project Aristotle studied 180 teams to identify what made teams effecti
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

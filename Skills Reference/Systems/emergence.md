@@ -73,6 +73,4 @@ A company redesigns its physical office to improve collaboration — open plan, 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

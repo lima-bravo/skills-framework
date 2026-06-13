@@ -62,6 +62,4 @@ In consumer mobile apps, feature velocity has become a Red Queen race: every app
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

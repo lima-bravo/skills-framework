@@ -99,6 +99,4 @@ The failure mode: a contractor's credentials are compromised, they access an unr
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

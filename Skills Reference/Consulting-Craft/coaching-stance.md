@@ -74,6 +74,4 @@ A consulting team is brought in to redesign a large organisation's operating mod
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

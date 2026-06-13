@@ -121,8 +121,4 @@ Run a [Pre-mortem](../General-Thinking/pre-mortem.md) at this stage: assume the 
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

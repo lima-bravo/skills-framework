@@ -116,6 +116,4 @@ Ideas that receive an "intake decision: proceed" are handed directly to Chain 21
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

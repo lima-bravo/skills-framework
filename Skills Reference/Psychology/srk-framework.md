@@ -88,6 +88,4 @@ The post-mortem asks: was she undertrained? No. Was the procedure unclear? No. W
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -67,6 +67,4 @@ A law firm handling high-volume contract review introduces an NLP algorithm to f
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

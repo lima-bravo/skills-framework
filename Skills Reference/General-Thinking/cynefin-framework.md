@@ -96,6 +96,4 @@ A bank rolls out a process-improvement methodology that worked beautifully in it
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

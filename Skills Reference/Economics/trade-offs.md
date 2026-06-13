@@ -84,6 +84,4 @@ A product team has three months before a major launch. They can ship a feature-c
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

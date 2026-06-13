@@ -73,6 +73,4 @@ Redesign: the team lead introduces a four-week timebox for the next prototype cy
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

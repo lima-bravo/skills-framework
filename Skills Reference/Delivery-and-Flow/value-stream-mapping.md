@@ -73,6 +73,4 @@ A bank wants to cut loan origination time from 23 days to 7. A VSM workshop trac
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

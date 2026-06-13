@@ -83,6 +83,4 @@ A partner who has studied change dynamics tries a different approach. She select
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

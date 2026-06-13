@@ -80,6 +80,4 @@ Resolution: the platform team appoints a CI steward role, introduces build-time 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -93,6 +93,4 @@ By the time the ExCo discussion occurs, the framework has five active divisional
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

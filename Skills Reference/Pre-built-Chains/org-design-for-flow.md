@@ -64,8 +64,4 @@ Instrument the new topology with DORA (for software streams) and Flow Metrics at
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

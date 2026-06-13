@@ -59,6 +59,4 @@ A senior engineer has been at the company three years, high-performing, and rece
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

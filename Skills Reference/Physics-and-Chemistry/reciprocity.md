@@ -65,6 +65,4 @@ A venture partner makes ten introductions to potential customers for a startup f
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

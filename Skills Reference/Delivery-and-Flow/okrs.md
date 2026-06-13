@@ -74,6 +74,4 @@ A 600-person enterprise software business introduces OKRs to replace a feature r
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

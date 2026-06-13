@@ -81,6 +81,4 @@ A consulting team prepares a CFO-facing recommendation on whether to centralize 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

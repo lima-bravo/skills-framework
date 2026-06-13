@@ -71,6 +71,4 @@ Reddit's early growth strategy was to create fake accounts and post content them
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

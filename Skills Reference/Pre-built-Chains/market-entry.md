@@ -59,8 +59,4 @@ Design the entry as a structured experiment. What is the cheapest way to test th
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

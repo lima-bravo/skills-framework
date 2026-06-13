@@ -77,6 +77,4 @@ The escape: an industry consortium (commitment mechanism) that makes the coopera
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

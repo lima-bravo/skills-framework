@@ -71,6 +71,4 @@ A product team wants to deprecate a legacy API that some customers still use. In
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

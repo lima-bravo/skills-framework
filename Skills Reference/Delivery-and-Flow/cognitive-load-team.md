@@ -75,6 +75,4 @@ A payment-platform team of nine engineers owns five services, the on-call rotati
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

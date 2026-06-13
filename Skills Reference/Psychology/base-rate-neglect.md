@@ -96,6 +96,4 @@ Armed with the base rate, the team can ask the right question: what specific fea
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -71,6 +71,4 @@ A claims-processing function has cycle time of 14 days against a target of 7. A 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

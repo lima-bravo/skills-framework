@@ -73,6 +73,4 @@ A 9-month transformation engagement for an insurer. Diagnose (weeks 1–6): valu
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

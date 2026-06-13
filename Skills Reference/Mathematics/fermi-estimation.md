@@ -81,6 +81,4 @@ Cross-check: the team knows a competitor charges £6k–£12k and has ~200 UK cu
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

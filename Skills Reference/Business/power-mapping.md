@@ -91,6 +91,4 @@ Revised approach: a detailed technical session with the Head of Architecture (wh
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

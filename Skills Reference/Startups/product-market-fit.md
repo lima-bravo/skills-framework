@@ -76,6 +76,4 @@ Slack's early users were internal at Stewart Butterfield's game company Glitch. 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

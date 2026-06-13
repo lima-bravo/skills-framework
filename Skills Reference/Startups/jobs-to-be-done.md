@@ -112,6 +112,4 @@ The competing frame made the product insight clear: the milkshake competed not w
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

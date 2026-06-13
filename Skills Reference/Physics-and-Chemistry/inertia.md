@@ -74,6 +74,4 @@ A company decides to shift from annual to quarterly planning cycles. The change 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

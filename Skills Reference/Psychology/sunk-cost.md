@@ -76,6 +76,4 @@ A company has spent £2M and two years building a B2B product that has found no 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

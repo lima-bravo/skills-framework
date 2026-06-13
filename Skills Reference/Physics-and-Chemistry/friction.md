@@ -66,6 +66,4 @@ An engineering team's deployment process requires: code review (necessary), inte
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

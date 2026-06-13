@@ -78,6 +78,4 @@ Each chain reasons: "If the other holds, I earn more by cutting (£15m vs £10m)
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -57,6 +57,4 @@ A SaaS company has excellent product-market fit, a talented team, and strong uni
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

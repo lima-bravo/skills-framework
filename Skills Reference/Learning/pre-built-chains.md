@@ -67,6 +67,4 @@ A founder is deciding whether to raise a Series A or continue bootstrapping. She
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

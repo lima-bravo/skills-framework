@@ -70,6 +70,4 @@ A consulting partner running eight workstreams reports chronic delays and team f
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

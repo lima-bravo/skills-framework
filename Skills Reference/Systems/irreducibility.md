@@ -68,6 +68,4 @@ A consultancy builds a unified pricing model for a client, arguing that the curr
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

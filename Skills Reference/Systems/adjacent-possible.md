@@ -73,6 +73,4 @@ The emergence of the smartphone illustrates the sequential logic of the adjacent
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

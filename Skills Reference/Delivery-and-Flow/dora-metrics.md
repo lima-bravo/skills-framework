@@ -81,6 +81,4 @@ An enterprise IT organization with 8 product teams is asked to "improve delivery
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

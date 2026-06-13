@@ -85,6 +85,4 @@ Hindsight bias turned an understandable gap in legacy system knowledge into an o
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

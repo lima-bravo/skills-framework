@@ -70,6 +70,4 @@ A product team claims "users want more features." Socratic examination: "Which u
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

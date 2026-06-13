@@ -79,6 +79,4 @@ Procter & Gamble's Connect + Develop program is the defining case. In the early 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -68,6 +68,4 @@ A B2B SaaS company reports 92% annual gross retention — excellent by industry 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

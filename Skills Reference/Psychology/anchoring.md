@@ -78,6 +78,4 @@ A founder is raising a Series A. The first VC she meets opens with "we're thinki
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

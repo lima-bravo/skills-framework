@@ -72,6 +72,4 @@ A payment processing team has a 99.9% availability SLO (8.7 hours downtime per y
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

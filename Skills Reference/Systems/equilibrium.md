@@ -70,6 +70,4 @@ A management team wants to shift from a hierarchical to a flat decision-making c
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

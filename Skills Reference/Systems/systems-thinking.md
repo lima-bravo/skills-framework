@@ -80,6 +80,4 @@ A software team faces growing bug counts. The linear fix: add QA headcount. Bug 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

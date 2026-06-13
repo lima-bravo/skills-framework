@@ -57,6 +57,4 @@ A company offers excellent compensation, interesting work, and a stated mission.
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

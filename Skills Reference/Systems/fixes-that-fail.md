@@ -79,6 +79,4 @@ The resolution: a six-week pause on safety-stock increases, a dedicated forecast
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

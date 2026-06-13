@@ -71,6 +71,4 @@ A regional health system engages a consultancy to "improve operational efficienc
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

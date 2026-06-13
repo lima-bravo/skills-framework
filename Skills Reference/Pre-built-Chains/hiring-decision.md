@@ -64,8 +64,4 @@ The cost of a senior hire that doesn't work out is typically 2-4x annual salary 
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

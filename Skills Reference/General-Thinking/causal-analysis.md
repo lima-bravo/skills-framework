@@ -81,6 +81,4 @@ Causal loop analysis reveals the feedback structure: time pressure → test-skip
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

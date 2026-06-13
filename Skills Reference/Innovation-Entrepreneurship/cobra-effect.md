@@ -146,6 +146,4 @@ Eighteen months later: the ideas portal has 4,000 submissions. Innovation scores
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

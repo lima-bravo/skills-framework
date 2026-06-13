@@ -78,6 +78,4 @@ A product team is pressured by finance to raise developer utilization from 75% t
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

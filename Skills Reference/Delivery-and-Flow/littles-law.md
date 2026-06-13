@@ -74,6 +74,4 @@ A platform team complains that initiatives take six months on average. The portf
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

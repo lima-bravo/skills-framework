@@ -77,6 +77,4 @@ A CFO needs to present a £2M cost overrun to the board. Two frames: Frame 1: "W
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

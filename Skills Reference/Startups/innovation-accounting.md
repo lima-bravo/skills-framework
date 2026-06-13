@@ -61,6 +61,4 @@ A mobile app team tracks DAU (daily active users) as their north star metric. DA
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

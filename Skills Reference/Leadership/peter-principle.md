@@ -75,6 +75,4 @@ Three years later, the firm has lost its best producer and has an underperformin
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

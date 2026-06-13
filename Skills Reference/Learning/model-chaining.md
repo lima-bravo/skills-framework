@@ -64,6 +64,4 @@ A company is experiencing high customer churn despite strong product reviews. Mo
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

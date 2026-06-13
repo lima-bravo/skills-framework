@@ -91,6 +91,4 @@ The steelman doesn't kill the opportunity — but it reframes the timeline and c
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

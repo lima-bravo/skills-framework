@@ -90,6 +90,4 @@ A city decides to build a new urban highway to reduce commute times (first-order
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

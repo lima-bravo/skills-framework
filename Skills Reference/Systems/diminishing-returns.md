@@ -75,6 +75,4 @@ A marketing team has been investing in content and SEO for three years. The firs
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -114,6 +114,4 @@ A software company introduces a per-feature shipping bonus to lift engineering o
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

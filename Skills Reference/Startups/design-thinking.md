@@ -69,6 +69,4 @@ IDEO was hired to redesign the patient experience in a large hospital. The stand
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -149,6 +149,4 @@ This chain produces a diagnosis, not a remediation plan. The outputs feed direct
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

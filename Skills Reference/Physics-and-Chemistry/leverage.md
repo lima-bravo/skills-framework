@@ -76,6 +76,4 @@ A founder spends the first year of her company answering customer support person
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

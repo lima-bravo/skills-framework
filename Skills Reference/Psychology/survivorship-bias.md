@@ -94,6 +94,4 @@ A survivorship-aware analysis would start with all 18 acquisition attempts, code
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -89,6 +89,4 @@ The new system has nine metrics, not sixty. Each has a named owner, a threshold 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

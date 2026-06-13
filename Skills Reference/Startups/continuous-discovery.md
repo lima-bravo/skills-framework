@@ -83,6 +83,4 @@ Spotify's product squads operate a continuous discovery model in which each squa
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -83,6 +83,4 @@ A new engineering manager inherits a team that was previously micromanaged. The 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

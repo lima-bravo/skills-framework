@@ -64,6 +64,4 @@ The 2000-2001 dot-com bubble followed the classic structure. The displacement: t
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

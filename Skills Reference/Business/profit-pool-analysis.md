@@ -86,6 +86,4 @@ The structural explanation is what makes the map actionable rather than merely i
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -108,6 +108,4 @@ SpaceX's origin story is the canonical case. Elon Musk wanted to buy rockets and
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

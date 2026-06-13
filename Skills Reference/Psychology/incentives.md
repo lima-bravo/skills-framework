@@ -107,6 +107,4 @@ A software company introduces a bug bounty program: developers find and report b
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

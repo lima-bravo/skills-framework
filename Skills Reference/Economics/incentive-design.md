@@ -85,6 +85,4 @@ A support team is measured on tickets closed per day. Close rates rise; customer
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

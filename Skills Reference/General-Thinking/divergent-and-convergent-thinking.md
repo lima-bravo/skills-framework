@@ -75,6 +75,4 @@ Pixar's story development process is one of the most documented and successful a
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

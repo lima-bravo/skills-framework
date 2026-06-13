@@ -70,6 +70,4 @@ A startup's north-star metric drops 15% over two weeks. The team generates three
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

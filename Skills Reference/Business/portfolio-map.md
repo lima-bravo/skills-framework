@@ -71,6 +71,4 @@ Google's resource allocation explicitly accounts for the 70-20-10 rule: 70% of r
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -73,6 +73,4 @@ A 14-value-stream enterprise dashboards Flow Distribution for the first time. Ag
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -67,6 +67,4 @@ A large software company reorganizes into product squads, each responsible for a
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

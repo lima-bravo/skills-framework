@@ -76,6 +76,4 @@ A marketing operations team has 22 campaigns in flight across 8 people. Cycle ti
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

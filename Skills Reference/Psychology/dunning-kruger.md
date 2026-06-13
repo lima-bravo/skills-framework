@@ -68,6 +68,4 @@ A highly successful B2C founder decides to start a B2B company. She has strong g
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

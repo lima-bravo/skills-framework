@@ -63,6 +63,4 @@ Jeff Bezos's "two-pizza team" rule emerged from a thought experiment: if coordin
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

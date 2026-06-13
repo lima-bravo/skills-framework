@@ -75,6 +75,4 @@ The Long Tail argument: the 340 integrations are exactly why enterprise customer
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

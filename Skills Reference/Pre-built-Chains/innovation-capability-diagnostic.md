@@ -64,8 +64,4 @@ The six steps produce a picture across six dimensions. Summarize your findings b
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

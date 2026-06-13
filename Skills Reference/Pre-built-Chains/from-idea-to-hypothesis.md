@@ -123,6 +123,4 @@ This card is the input to the Crawl / Walk / Run chain and the standing record o
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

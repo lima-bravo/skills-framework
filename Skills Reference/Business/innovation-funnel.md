@@ -68,6 +68,4 @@ A FMCG company runs an annual innovation sprint: 200 ideas entered, 50 developed
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

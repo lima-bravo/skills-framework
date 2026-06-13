@@ -73,6 +73,4 @@ The smaller company's advisor suggests anchoring on 60/40 — not because it's t
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -76,6 +76,4 @@ A regulatory delivery program has a hard deadline 14 weeks away. The single-date
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

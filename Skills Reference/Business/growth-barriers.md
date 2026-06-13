@@ -82,6 +82,4 @@ The binding constraint is not sales execution or competitive pressure — it is 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -73,6 +73,4 @@ An engineering org has been delivering features at a declining rate for 18 month
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -82,6 +82,4 @@ Amazon's flywheel is the most celebrated corporate compounding engine: lower pri
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -155,8 +155,4 @@ Run a [Pre-mortem](../General-Thinking/pre-mortem.md) with the design team: what
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

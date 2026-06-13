@@ -59,8 +59,4 @@ Decisions made under acute financial pressure or emotional exhaustion are compro
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

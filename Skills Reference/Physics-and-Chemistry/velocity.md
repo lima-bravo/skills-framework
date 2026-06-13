@@ -64,6 +64,4 @@ A Series A startup is hiring quickly, shipping features at pace, and growing hea
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

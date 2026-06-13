@@ -70,6 +70,4 @@ A security team is allocating their budget. They've just experienced a phishing 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

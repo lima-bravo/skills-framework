@@ -71,6 +71,4 @@ A software delivery program is running 18 months behind schedule. The programme 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

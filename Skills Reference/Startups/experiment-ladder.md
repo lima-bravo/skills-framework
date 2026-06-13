@@ -98,6 +98,4 @@ The team has now tested all four critical assumptions — in ascending order of 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

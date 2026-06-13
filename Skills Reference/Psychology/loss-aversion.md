@@ -71,6 +71,4 @@ A startup's product team is deciding whether to deprecate a feature used by 8% o
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

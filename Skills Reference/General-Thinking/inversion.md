@@ -81,6 +81,4 @@ A team is designing a new onboarding flow for a SaaS product. Forward thinking g
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

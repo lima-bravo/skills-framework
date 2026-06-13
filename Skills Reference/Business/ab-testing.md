@@ -96,6 +96,4 @@ Two weeks later, a senior marketer suggests stopping a new test early because "t
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

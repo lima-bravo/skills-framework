@@ -84,6 +84,4 @@ A retail chain builds an inventory optimization model that performs excellently 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

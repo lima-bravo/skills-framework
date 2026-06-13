@@ -65,6 +65,4 @@ Naval Ravikant has described his reading practice: he reads many books simultane
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

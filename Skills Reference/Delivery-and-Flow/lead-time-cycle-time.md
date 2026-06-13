@@ -66,6 +66,4 @@ A regulatory team reports 6-day cycle time on policy reviews and is pressured to
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

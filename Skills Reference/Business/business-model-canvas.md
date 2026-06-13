@@ -64,6 +64,4 @@ A founder building a B2B SaaS product fills in the canvas. Under Revenue Streams
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -78,6 +78,4 @@ A transformation programme stalls when a critical integration milestone slips, a
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

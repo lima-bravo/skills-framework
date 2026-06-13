@@ -89,6 +89,4 @@ Outcome: the hired candidate is not either of the pre-championed individuals. Po
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

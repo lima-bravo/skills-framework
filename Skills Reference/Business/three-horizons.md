@@ -74,6 +74,4 @@ Amazon's portfolio across the three horizons is a live case study. H1 is the e-c
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

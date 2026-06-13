@@ -97,6 +97,4 @@ A consistency-aware culture would have pre-specified the conditions under which 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -61,6 +61,4 @@ A Slack workspace creates a single all-company channel. Initially, it contains v
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -65,6 +65,4 @@ Amazon's decision to build AWS illustrates comparative advantage analysis at the
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

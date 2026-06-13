@@ -81,6 +81,4 @@ Netflix's disruption of Blockbuster followed the textbook mechanism. Netflix lau
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

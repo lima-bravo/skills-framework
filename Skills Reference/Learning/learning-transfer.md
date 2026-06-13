@@ -65,6 +65,4 @@ A former military officer joins a startup as COO. Her military training: clear m
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -75,6 +75,4 @@ An operations team is held to a 10-day SLA, computed as the mean of last quarter
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

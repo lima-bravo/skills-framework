@@ -74,6 +74,4 @@ Zappos founder Nick Swinmurn wanted to test whether people would buy shoes onlin
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

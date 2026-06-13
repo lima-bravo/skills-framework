@@ -96,6 +96,4 @@ None of these were visible to the proposal team — they were too close to the w
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

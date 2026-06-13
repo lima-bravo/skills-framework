@@ -67,8 +67,4 @@ Run a monthly program review with the sponsor covering: experiments completed an
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -83,6 +83,4 @@ The calculation argues for building. The team should also check: is the 30% flop
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

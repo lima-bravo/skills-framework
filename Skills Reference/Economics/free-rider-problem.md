@@ -74,6 +74,4 @@ Interventions: (1) Platform contribution time is written into each squad's capac
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

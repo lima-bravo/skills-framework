@@ -102,6 +102,4 @@ A system relying only on normative defenses ("do not follow instructions in retr
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -84,6 +84,4 @@ A foundation funds a programme to improve youth employment by running CV-writing
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

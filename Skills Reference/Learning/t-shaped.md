@@ -64,6 +64,4 @@ A data scientist builds deep expertise in machine learning (vertical). Over five
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

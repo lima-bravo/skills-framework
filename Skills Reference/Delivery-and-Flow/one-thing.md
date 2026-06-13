@@ -75,6 +75,4 @@ An executive team enters a planning offsite with 14 candidate strategic initiati
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

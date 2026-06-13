@@ -62,6 +62,4 @@ A law firm has a highly profitable and well-optimized practice serving mid-marke
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

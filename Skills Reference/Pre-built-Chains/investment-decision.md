@@ -59,8 +59,4 @@ Management/founder incentives, fund structure incentives, and board incentives a
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

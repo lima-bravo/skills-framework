@@ -89,6 +89,4 @@ An e-commerce team is testing whether a new checkout flow improves conversion. T
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

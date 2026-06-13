@@ -89,6 +89,4 @@ A startup grows from 10 to 60 engineers. At 10, everyone talks to everyone, the 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

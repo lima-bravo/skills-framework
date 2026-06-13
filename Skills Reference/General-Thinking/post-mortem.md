@@ -70,6 +70,4 @@ Amazon's culture of written post-mortems after production incidents includes a s
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

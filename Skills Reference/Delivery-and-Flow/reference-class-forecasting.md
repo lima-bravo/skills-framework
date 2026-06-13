@@ -78,6 +78,4 @@ A regional bank plans a core banking modernization. The internal estimate is 24 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

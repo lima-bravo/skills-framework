@@ -61,6 +61,4 @@ A consulting firm combines strategy expertise (good at defining what to do) with
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

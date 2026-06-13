@@ -61,6 +61,4 @@ A keynote speaker is preparing a 20-minute talk. Rhythm design: Open with a prov
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

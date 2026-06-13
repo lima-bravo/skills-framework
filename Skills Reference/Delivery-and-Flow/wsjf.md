@@ -73,6 +73,4 @@ A platform team's quarterly intake holds 22 candidate initiatives funded for cap
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

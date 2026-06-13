@@ -94,6 +94,4 @@ The revised case is approved at a reduced headline savings figure (£1.9M base c
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

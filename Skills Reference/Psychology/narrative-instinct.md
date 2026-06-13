@@ -96,6 +96,4 @@ The narrative instinct produced a story centred on a protagonist (the founder), 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -57,6 +57,4 @@ An author publishes a book on a technical topic. The book is the expansion of su
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

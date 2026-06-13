@@ -80,6 +80,4 @@ The CEO's initial instinct (a major platform investment) is not in the top three
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

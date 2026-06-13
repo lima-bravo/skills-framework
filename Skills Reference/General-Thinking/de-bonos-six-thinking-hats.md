@@ -65,6 +65,4 @@ A leadership team is deciding whether to acquire a competitor. The discussion ha
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

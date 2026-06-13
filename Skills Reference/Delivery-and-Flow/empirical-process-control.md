@@ -97,6 +97,4 @@ The difference is not that one team was smarter or faster. It is that one team h
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

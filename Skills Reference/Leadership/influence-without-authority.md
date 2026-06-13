@@ -93,6 +93,4 @@ Total elapsed time: eight weeks. No formal authority was used. The outcome was b
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -91,6 +91,4 @@ The fact base reframes the question entirely. The presenting problem ("we need a
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -75,6 +75,4 @@ Kodak invented the digital camera in 1975 and buried the invention because it th
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

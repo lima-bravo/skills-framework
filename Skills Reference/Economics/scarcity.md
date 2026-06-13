@@ -67,6 +67,4 @@ A Series B startup has raised successfully and has 24 months of runway. Capital 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

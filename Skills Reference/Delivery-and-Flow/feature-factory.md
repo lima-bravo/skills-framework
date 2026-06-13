@@ -66,6 +66,4 @@ A 1500-person enterprise software product organization is praised internally for
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

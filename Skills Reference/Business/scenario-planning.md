@@ -82,6 +82,4 @@ Shell is the canonical case for a reason. In the early 1970s its planners, rathe
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

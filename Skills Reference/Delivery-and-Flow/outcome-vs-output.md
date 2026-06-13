@@ -89,6 +89,4 @@ A B2B SaaS product team is praised internally for shipping 14 major features in 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

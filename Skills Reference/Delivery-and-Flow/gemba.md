@@ -69,6 +69,4 @@ A consulting partner overseeing a transformation reads weekly status reports ind
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

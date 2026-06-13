@@ -93,6 +93,4 @@ Decision: adopt cloud-native data platform and managed ML tooling; redirect 60% 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

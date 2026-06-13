@@ -122,6 +122,4 @@ A product team is deciding whether to build a feature. The PM estimates "it will
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

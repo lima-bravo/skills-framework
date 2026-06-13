@@ -89,6 +89,4 @@ In the early development of Google Glass, one team wanted to test demand for a p
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

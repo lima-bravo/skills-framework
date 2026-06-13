@@ -80,6 +80,4 @@ The path dependence is severe: decades of integration debt mean that hundreds of
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

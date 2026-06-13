@@ -70,6 +70,4 @@ A bank's compliance function reviews vendor changes in monthly cohorts of 40–8
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

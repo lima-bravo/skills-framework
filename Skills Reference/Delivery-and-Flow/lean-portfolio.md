@@ -76,6 +76,4 @@ A 2500-person enterprise IT organization runs 28 simultaneous large initiatives 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

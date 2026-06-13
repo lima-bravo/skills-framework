@@ -68,6 +68,4 @@ A startup ships their MVP with no automated testing, a monolithic architecture, 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

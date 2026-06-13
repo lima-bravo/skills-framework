@@ -68,6 +68,4 @@ A product lead reports being "fully booked but never finishing anything." A two-
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

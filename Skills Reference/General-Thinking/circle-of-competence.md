@@ -67,6 +67,4 @@ A successful SaaS founder raises a fund and begins making angel investments. Her
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

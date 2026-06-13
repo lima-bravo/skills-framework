@@ -64,8 +64,4 @@ Write the predicted improvement (e.g., "85th-percentile lead time falls from 41 
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

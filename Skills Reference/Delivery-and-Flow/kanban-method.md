@@ -69,6 +69,4 @@ A 14-person platform engineering team manages requests from five product groups.
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

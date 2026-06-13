@@ -80,6 +80,4 @@ Revised pricing: SMB tier at £4,800/year (still discounted vs current), mid-mar
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

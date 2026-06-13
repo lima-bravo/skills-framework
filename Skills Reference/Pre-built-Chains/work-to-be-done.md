@@ -122,6 +122,4 @@ A single **Work to Be Done** artifact containing:
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

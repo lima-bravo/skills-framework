@@ -61,6 +61,4 @@ Hotmail's early growth is the canonical example. Every email sent by a Hotmail u
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

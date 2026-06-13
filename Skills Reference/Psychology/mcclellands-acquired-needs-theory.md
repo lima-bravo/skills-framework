@@ -64,6 +64,4 @@ A startup's two founders are diagnostically different: one is high-nAch (driven 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

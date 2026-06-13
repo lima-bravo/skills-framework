@@ -63,6 +63,4 @@ A startup's customer support is handled personally by the founders — every ema
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

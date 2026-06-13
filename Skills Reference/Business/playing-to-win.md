@@ -71,6 +71,4 @@ A B2B software firm's strategy process produces a comprehensive plan: winning as
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

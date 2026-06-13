@@ -59,8 +59,4 @@ Define the innovation accounting metrics before launch. What does success look l
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

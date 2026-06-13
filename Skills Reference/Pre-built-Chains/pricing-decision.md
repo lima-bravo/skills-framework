@@ -55,8 +55,4 @@ At the lowest credible volume, does this price cover fully loaded cost of delive
 
 ---
 
----
-
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

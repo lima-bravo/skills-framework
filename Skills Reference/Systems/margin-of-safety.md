@@ -97,6 +97,4 @@ A startup plans to raise 18 months of runway. Their model shows they'll reach pr
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

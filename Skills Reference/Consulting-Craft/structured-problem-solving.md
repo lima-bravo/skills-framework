@@ -93,6 +93,4 @@ A team practicing the integrated posture starts differently. **Decision-orientat
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

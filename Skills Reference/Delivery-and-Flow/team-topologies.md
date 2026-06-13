@@ -73,6 +73,4 @@ A 400-person fintech reorganization moves from a 30-team feature-matrix to a Tea
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

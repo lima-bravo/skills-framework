@@ -80,6 +80,4 @@ The correct response would have been: (1) recognise that correlated housing expo
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

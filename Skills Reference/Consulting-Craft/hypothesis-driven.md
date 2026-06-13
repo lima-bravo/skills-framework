@@ -81,6 +81,4 @@ A consulting team is engaged to diagnose declining margin in a 40-product portfo
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

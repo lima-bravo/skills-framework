@@ -104,6 +104,4 @@ A hospital system under pressure to cut emergency-department waiting times sets 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

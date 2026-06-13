@@ -61,6 +61,4 @@ Bezos's original application: he was a high-performing VP at D.E. Shaw, contempl
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

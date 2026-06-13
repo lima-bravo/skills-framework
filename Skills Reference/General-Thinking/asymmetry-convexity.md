@@ -69,6 +69,4 @@ A startup's investment in attending a major industry conference is asymmetric: t
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

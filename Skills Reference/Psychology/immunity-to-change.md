@@ -73,6 +73,4 @@ A senior partner has been told for three years that they need to delegate more. 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

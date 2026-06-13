@@ -67,6 +67,4 @@ A startup builds an internal developer platform: a standardized toolchain, deplo
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

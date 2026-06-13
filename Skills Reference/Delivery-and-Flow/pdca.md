@@ -71,6 +71,4 @@ A platform engineering team's incident rate is rising. Plan: hypothesize that a 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

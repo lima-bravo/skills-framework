@@ -64,6 +64,4 @@ A startup raises a £3M seed round. The founder announces this to the team as a 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

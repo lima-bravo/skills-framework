@@ -65,6 +65,4 @@ A startup's weekly active users fluctuate: 1,200 → 1,050 → 1,350 → 1,100 �
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

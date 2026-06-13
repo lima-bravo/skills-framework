@@ -84,6 +84,4 @@ Nokia's decline follows the same structure. Nokia understood touchscreens and ap
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

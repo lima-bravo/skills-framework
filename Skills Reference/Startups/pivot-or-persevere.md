@@ -63,6 +63,4 @@ Instagram began as Burbn — a check-in app with gaming elements. The data showe
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

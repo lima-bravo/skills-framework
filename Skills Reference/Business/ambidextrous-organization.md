@@ -85,6 +85,4 @@ Amazon operates one of the most studied ambidextrous structures in business. The
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

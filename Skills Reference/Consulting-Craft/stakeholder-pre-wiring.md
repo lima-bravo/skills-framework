@@ -88,6 +88,4 @@ By the time the planning meeting happens, the CFO is a confirmed advocate, the H
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

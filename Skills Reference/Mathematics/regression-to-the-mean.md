@@ -70,6 +70,4 @@ A school introduces a motivational intervention for students who scored exceptio
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

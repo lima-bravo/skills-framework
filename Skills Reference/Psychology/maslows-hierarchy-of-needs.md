@@ -66,6 +66,4 @@ A company introduces a purpose-driven culture program with a compelling mission,
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

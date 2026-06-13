@@ -89,6 +89,4 @@ A software team estimates a feature at 3 weeks. Their own reference class — fe
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

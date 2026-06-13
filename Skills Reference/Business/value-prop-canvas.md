@@ -66,6 +66,4 @@ A team building project management software maps the customer side for their pri
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

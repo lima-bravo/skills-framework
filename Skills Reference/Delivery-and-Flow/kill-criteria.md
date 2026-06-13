@@ -101,6 +101,4 @@ A bank's innovation portfolio funds 12 internal startups, each with a 12-month r
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

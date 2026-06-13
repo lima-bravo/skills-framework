@@ -69,6 +69,4 @@ A manager concludes that an employee "doesn't care about quality." Walking back 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

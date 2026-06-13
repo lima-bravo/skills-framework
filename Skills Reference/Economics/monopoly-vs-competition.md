@@ -66,6 +66,4 @@ Stripe entered the payments market dominated by established processors (PayPal, 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

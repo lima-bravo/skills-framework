@@ -60,6 +60,4 @@ Airbnb's early chicken-and-egg solution: the founders craigslist-scraped attract
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

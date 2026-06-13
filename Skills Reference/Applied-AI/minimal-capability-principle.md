@@ -90,6 +90,4 @@ The result: a hostile regulatory document that contains injected instructions ca
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

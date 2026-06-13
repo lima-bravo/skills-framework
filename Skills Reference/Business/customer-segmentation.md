@@ -84,6 +84,4 @@ Scored on attractiveness and right to win: structured-process teams are smaller 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

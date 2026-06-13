@@ -65,6 +65,4 @@ A senior engineer's code change ships without going through code review, breakin
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

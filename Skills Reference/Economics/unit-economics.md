@@ -93,6 +93,4 @@ The SMB segment is marginally viable at best and is pulling the blended ratio do
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

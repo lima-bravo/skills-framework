@@ -68,6 +68,4 @@ A product team is designing onboarding for a B2B analytics tool. Their default a
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

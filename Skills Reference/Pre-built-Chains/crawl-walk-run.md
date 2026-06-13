@@ -118,6 +118,4 @@ The record of gate decisions — what was decided, why, and what the results sho
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

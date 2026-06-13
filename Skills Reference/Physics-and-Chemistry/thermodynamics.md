@@ -63,6 +63,4 @@ A company's internal knowledge base is excellent when first built. Three years l
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

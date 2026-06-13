@@ -88,6 +88,4 @@ A software company built its business on desktop applications through the 1990s.
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

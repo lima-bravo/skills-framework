@@ -79,6 +79,4 @@ A retailer's CFO asks why operating margin is down 3 points. A first analyst res
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

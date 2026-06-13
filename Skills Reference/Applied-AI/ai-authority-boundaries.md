@@ -108,6 +108,4 @@ A team ships an AI agent that drafts and sends customer refund approvals overnig
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

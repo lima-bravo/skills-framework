@@ -79,6 +79,4 @@ A logistics company plans to build a new sorting facility in a mid-sized town. I
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

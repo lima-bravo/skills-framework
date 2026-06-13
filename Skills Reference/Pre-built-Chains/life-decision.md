@@ -59,6 +59,4 @@ Reversible decisions (moving cities, taking a new job) deserve less analysis and
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

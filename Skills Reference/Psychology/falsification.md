@@ -105,6 +105,4 @@ The falsification-oriented redesign: run a controlled comparison, with explicitl
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

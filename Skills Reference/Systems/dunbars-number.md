@@ -77,6 +77,4 @@ The diagnosis: the organisation crossed Dunbar's Number without designing the in
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

@@ -67,6 +67,4 @@ In the 1850s, Charles Darwin was struggling with the mechanism of species change
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

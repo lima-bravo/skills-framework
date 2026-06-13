@@ -100,6 +100,4 @@ A strategy team completes a market entry analysis. Three communication failures 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

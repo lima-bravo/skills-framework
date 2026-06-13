@@ -68,6 +68,4 @@ A product portfolio committee has 11 funded initiatives competing for capacity t
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

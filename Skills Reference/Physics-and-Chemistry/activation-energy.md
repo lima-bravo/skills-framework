@@ -72,6 +72,4 @@ A company wants engineers to write more documentation. They mandate it, incentiv
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

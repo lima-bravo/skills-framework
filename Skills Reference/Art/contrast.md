@@ -57,6 +57,4 @@ A consulting firm's presentations suffer from slide decks with 40 uniformly form
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

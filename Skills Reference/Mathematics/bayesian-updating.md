@@ -82,6 +82,4 @@ The manager's confidence in hiring has increased substantially — but it remain
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

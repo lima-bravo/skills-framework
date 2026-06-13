@@ -86,6 +86,4 @@ A team is planning a new market entry. They list their assumptions and find 35. 
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

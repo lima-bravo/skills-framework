@@ -89,6 +89,4 @@ LinkedIn is a direct professional network effect: each professional who joins ma
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*

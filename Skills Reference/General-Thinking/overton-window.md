@@ -78,6 +78,4 @@ By 2022, post-pandemic, the window has moved substantially on its own — but he
 
 ---
 
----
-
 *Part of the [Skills Framework](../../Skills%20Framework.md) · [Card Deck](../../docs/deck.html)*
