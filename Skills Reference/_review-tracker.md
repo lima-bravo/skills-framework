@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **259**
+- Reviewed (verified + fixed): **260**
 - Flagged: **0**
-- Remaining (todo): **3**
+- Remaining (todo): **2**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -358,7 +358,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## Applied AI (3)
 
-- [ ] `#183` **AI Authority Boundaries** · `Applied-AI/ai-authority-boundaries.md` · **st:** todo · **n:** —
+- [x] `#183` **AI Authority Boundaries** · `Applied-AI/ai-authority-boundaries.md` · **st:** fixed · **n:** fixed 2 authorYear formats; added 6 missing backlinks (#121, #127, #16, #10, #126, #142)
 - [ ] `#184` **Minimal Capability Principle** · `Applied-AI/minimal-capability-principle.md` · **st:** todo · **n:** —
 - [ ] `#185` **Prompt Injection** · `Applied-AI/prompt-injection.md` · **st:** todo · **n:** —
 

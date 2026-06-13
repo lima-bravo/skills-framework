@@ -59,6 +59,8 @@ connections:
     rationale: the Back Brief and the pre-mortem address the same failure — plans that look fine until they meet reality — at the same moment before execution; they are complementary, not substitutes
   - id: 197
     rationale: pre-mortems anticipate the conditions that would require a Tactical Pause; a well-run pre-mortem includes the trigger conditions that should cause the team to stop and reassess mid-execution
+  - id: 183
+    rationale: run a pre-mortem on any agentic system before deployment to surface which authority gates are insufficient for the consequence class of the actions being automated
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

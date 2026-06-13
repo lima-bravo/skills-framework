@@ -25,6 +25,8 @@ connections:
     rationale: "DORA is a worked example of KPI architecture done well: a small set of decision-linked, leading-and-lagging metrics derived from first principles for software delivery."
   - id: 143
     rationale: flow metrics (Project to Product) complement DORA — DORA measures how good the delivery engine is; flow metrics show what the engine is being used for at portfolio level.
+  - id: 183
+    rationale: authority boundary registers measure governance system health in agentic AI systems in the same way DORA metrics measure delivery system health
 references:
   - title: "Accelerate: The Science of Lean Software and DevOps"
     authorYear: Nicole Forsgren, Jez Humble & Gene Kim (2018)

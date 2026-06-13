@@ -43,6 +43,8 @@ connections:
     rationale: when you influence an agent whose interests diverge from the principal's, the influence may not produce the organisational outcome you intended — understand whose interests you are actually activating
   - id: 242
     rationale: "the Peter Principle creates principal-agent misalignment: the organisation promotes believing it is rewarding performance, while inadvertently degrading the capability of the role the promoted person now occupies"
+  - id: 183
+    rationale: AI authority boundaries are the operational implementation of principal-agent theory in agentic systems — they define what the agent may commit without re-authorization from the principal
 references:
   - title: "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"
     authorYear: Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976)

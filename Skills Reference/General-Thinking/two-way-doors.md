@@ -19,6 +19,8 @@ connections:
     rationale: lower rungs of the Experiment Ladder are two-way doors — cheap and reversible; upper rungs become progressively less reversible, requiring stronger evidence before climbing.
   - id: 105
     rationale: chains are most valuable for irreversible decisions — two-way doors logic determines when chain-level rigor is warranted vs. when fast intuitive analysis suffices.
+  - id: 183
+    rationale: the reversibility lens for AI governance — irreversible actions (sending email, filing tickets, approving transactions) require the hardest authority gates; reversible ones can use softer controls
 references:
   - title: "Invent and Wander: The Collected Writings of Jeff Bezos"
     authorYear: Jeff Bezos, ed. Walter Isaacson (2021)

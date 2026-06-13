@@ -15,6 +15,8 @@ connections:
     rationale: risk governance depends on agents internalising accountability
   - id: 129
     rationale: the board sets risk appetite and receives assurance
+  - id: 183
+    rationale: AI authority boundary design is a form of operational risk management — it defines the consequence class of autonomous actions and enforces gates proportional to their residual risk
 references:
   - title: Enterprise Risk Management — Integrating with Strategy and Performance
     authorYear: COSO, 2017

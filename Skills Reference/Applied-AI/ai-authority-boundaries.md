@@ -23,10 +23,10 @@ connections:
     rationale: "structural analogy: DORA measures delivery system health; authority boundary registers measure governance system health."
 references:
   - title: "Human Compatible: Artificial Intelligence and the Problem of Control"
-    authorYear: Stuart Russell (2019)
+    authorYear: Stuart Russell, 2019
     supports: the foundational case for human oversight as AI systems become more autonomous.
   - title: "The Alignment Problem: Machine Learning and Human Values"
-    authorYear: Brian Christian (2020)
+    authorYear: Brian Christian, 2020
     supports: the gap between what AI systems optimize for and what humans actually authorize.
 ---
 
