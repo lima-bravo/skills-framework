@@ -19,6 +19,8 @@ connections:
     rationale: Async-First Default is the entry gate for meetings; the three-question ritual is the exit discipline for the meetings that pass the triage filter
   - id: 193
     rationale: Q1 of the meeting close (what is the decision?) implicitly requires purpose clarity — people who do not know why their work matters cannot reliably identify which decisions are load-bearing
+  - id: 195
+    rationale: the Three-Question Ritual closes meetings at the end; Brief-Back Protocols close the alignment gap at the beginning; together they create a full-cycle communication discipline
 references:
   - title: Death by Meeting
     authorYear: Patrick Lencioni, 2004

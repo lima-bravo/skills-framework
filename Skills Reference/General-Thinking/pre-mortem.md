@@ -55,6 +55,8 @@ connections:
     rationale: the pre-mortem stress-tests the current orientation by running the loop backwards — asking what failure would look like from this picture
   - id: 126
     rationale: pre-mortem is the agile risk identification tool for specific initiatives — surfaces latent risks before commitment without requiring a full ERM apparatus
+  - id: 195
+    rationale: the Back Brief and the pre-mortem address the same failure — plans that look fine until they meet reality — at the same moment before execution; they are complementary, not substitutes
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

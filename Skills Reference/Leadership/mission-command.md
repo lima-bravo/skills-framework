@@ -31,6 +31,8 @@ connections:
     rationale: Purpose Clarity provides the meaning dimension Mission Command needs — both are required; Mission Command without Purpose Clarity produces technically correct but disengaged execution
   - id: 194
     rationale: Leader's Intent is the craft-level tool that operationalises Mission Command — the specific template for constructing and communicating intent well
+  - id: 195
+    rationale: Brief-Back Protocols are the verification layer for Mission Command — the communication discipline that makes intent-based leadership operationally reliable
 references:
   - title: The Art of Action
     authorYear: Stephen Bungay, 2011

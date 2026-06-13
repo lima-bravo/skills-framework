@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **252**
+- Reviewed (verified + fixed): **253**
 - Flagged: **0**
-- Remaining (todo): **10**
+- Remaining (todo): **9**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -348,7 +348,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#191` **Async-First Default** · `Leadership/async-first-default.md` · **st:** fixed · **n:** Refs verified (Rogelberg 2019, Newport 2016/2021, Fried & DHH 2013 ✓); added 6 missing backlinks
 - [x] `#193` **Purpose Clarity** · `Leadership/purpose-clarity.md` · **st:** fixed · **n:** Refs verified (Ryan & Deci 2017, Sinek 2009, Zhuo 2019, Scott 2017 ✓); added 5 missing backlinks
 - [x] `#194` **Leader's Intent** · `Leadership/leaders-intent.md` · **st:** fixed · **n:** cleaned Bungay authorYear (parenthetical → supports); added 2 missing backlinks (#118 Mission Command, #193 Purpose Clarity)
-- [ ] `#195` **Brief-Back Protocols** · `Leadership/brief-back-protocols.md` · **st:** todo · **n:** —
+- [x] `#195` **Brief-Back Protocols** · `Leadership/brief-back-protocols.md` · **st:** fixed · **n:** fixed 4 authorYear formats (parentheses → comma); added 4 missing backlinks (#118, #104, #10, #190)
 - [ ] `#196` **After-Action Review** · `Leadership/after-action-review.md` · **st:** todo · **n:** —
 - [ ] `#197` **Tactical Pause** · `Leadership/tactical-pause.md` · **st:** todo · **n:** —
 - [ ] `#221` **Influence Without Authority** · `Leadership/influence-without-authority.md` · **st:** todo · **n:** —
