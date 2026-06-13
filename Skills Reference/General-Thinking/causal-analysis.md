@@ -19,6 +19,8 @@ connections:
     rationale: both disciplines strip away assumption layers; causal analysis strips backward from an outcome, first principles strips downward from a belief.
   - id: 247
     rationale: growth barrier diagnosis relies on causal analysis to distinguish root cause from symptom; "growth stalled after we changed pricing" is a timing correlation, not a traced mechanism.
+  - id: 185
+    rationale: when an agentic system behaves unexpectedly, prompt injection should be in the causal hypothesis space; causal analysis is the tool for tracing whether unexpected behavior originated from injected content
 references:
   - title: "The Book of Why: The New Science of Cause and Effect"
     authorYear: Judea Pearl & Dana Mackenzie (2018)

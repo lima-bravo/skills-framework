@@ -61,6 +61,8 @@ connections:
     rationale: pre-mortems anticipate the conditions that would require a Tactical Pause; a well-run pre-mortem includes the trigger conditions that should cause the team to stop and reassess mid-execution
   - id: 183
     rationale: run a pre-mortem on any agentic system before deployment to surface which authority gates are insufficient for the consequence class of the actions being automated
+  - id: 185
+    rationale: "run a pre-mortem specifically on injection scenarios before deployment: what would a successful injection look like, and what would it cause?"
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

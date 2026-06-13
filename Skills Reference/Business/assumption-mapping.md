@@ -35,6 +35,8 @@ connections:
     rationale: the DYOD discipline in pretotyping is assumption mapping applied to a single test; assumption mapping identifies which assumption to pretotype first.
   - id: 110
     rationale: design thinking's prototyping stage is most productive when combined with assumption mapping — the prototype should test the highest-priority assumption explicitly.
+  - id: 185
+    rationale: before deploying any agentic system, map the assumptions that must hold for the system to be safe; injection resistance is one of the highest-priority assumptions to validate structurally
 references:
   - title: "Testing Business Ideas: A Field Guide for Rapid Experimentation"
     authorYear: David J. Bland & Alexander Osterwalder (2019)

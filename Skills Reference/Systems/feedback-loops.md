@@ -55,6 +55,8 @@ connections:
     rationale: the Kanban Method's pull system is a balancing feedback loop made operational — column WIP limits force upstream stages to stop when downstream is full, creating system-wide flow regulation.
   - id: 196
     rationale: the AAR is the mechanism that closes the feedback loop between execution and planning; without it, experience accumulates but the loop is open and learning does not compound
+  - id: 185
+    rationale: multi-agent systems with injection vulnerabilities at the seam create reinforcing loops where injected content compounds through agent handoffs
 references:
   - title: "Thinking in Systems: A Primer"
     authorYear: Donella H. Meadows (2008)

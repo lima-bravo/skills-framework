@@ -21,10 +21,10 @@ connections:
     rationale: multi-agent systems with injection vulnerabilities at the seam create reinforcing loops where injected content compounds through agent handoffs.
 references:
   - title: "The Alignment Problem: Machine Learning and Human Values"
-    authorYear: Brian Christian (2020)
+    authorYear: Brian Christian, 2020
     supports: the background on how AI systems interpret and act on instructions.
   - title: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection
-    authorYear: Kai Greshake et al. (2023)
+    authorYear: Kai Greshake et al., 2023
     supports: the first systematic academic treatment of indirect prompt injection as an attack class.
 ---
 
