@@ -18,7 +18,7 @@ connections:
   - id: 146
     rationale: PDCA and OODA are both iterative learning cycles; OODA is the faster, decision-making variant applied in competitive environments where speed of orientation matters more than prediction accuracy.
 references:
-  - title: "boyd: The Fighter Pilot Who Changed the Art of War"
+  - title: "Boyd: The Fighter Pilot Who Changed the Art of War"
     authorYear: Robert Coram, 2002
     supports: the definitive biography of Boyd and the intellectual history of the OODA loop's development from aerial combat to strategy.
   - title: Certain to Win

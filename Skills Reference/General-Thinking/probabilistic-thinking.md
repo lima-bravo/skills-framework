@@ -59,6 +59,8 @@ connections:
     rationale: Fermi estimation provides the structure for quantifying what you don't know — converting vague probabilistic uncertainty into tractable sub-estimates.
   - id: 160
     rationale: reference class forecasting is base-rate, outside-view probabilistic thinking applied to projects — it operationalizes the probabilistic discipline of anchoring on empirical distributions before adjusting for case-specific factors.
+  - id: 119
+    rationale: the Orient stage benefits from probabilistic thinking — holding multiple hypotheses about the situation simultaneously rather than committing prematurely to one orientation
 references:
   - title: "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts"
     authorYear: Annie Duke (2018)

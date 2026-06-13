@@ -51,6 +51,8 @@ connections:
     rationale: Step 6 of the Work to Be Done chain includes a pre-mortem — imagining the outcome failed 12 months later and auditing which work items were waste and which were missing.
   - id: 118
     rationale: Mission Command's back-brief and intent-setting practice pairs with pre-mortem to surface flawed assumptions and trigger conditions before commitment
+  - id: 119
+    rationale: the pre-mortem stress-tests the current orientation by running the loop backwards — asking what failure would look like from this picture
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

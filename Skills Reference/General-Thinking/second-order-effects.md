@@ -31,6 +31,8 @@ connections:
     rationale: the Cobra Effect is a specific second-order effect where the mechanism of backfire runs through the intervention's own incentive structure rather than through downstream consequences.
   - id: 117
     rationale: the Capacity Planning chain's Step 6 models the near-capacity feedback loop — high utilization degrades quality, which generates reactive work, which further erodes capacity — a second-order dynamic that naive headcount math misses.
+  - id: 119
+    rationale: OODA Loop's Orient stage must model second-order effects — what your Act will cause others to do next
 references:
   - title: "The Most Important Thing: Uncommon Sense for the Thoughtful Investor"
     authorYear: Howard Marks (2011)

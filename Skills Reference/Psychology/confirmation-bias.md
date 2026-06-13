@@ -59,6 +59,8 @@ connections:
     rationale: the primary purpose of pre-built chain structure is to prevent confirmation bias from narrowing analysis to only the models that support the preferred conclusion.
   - id: 253
     rationale: the posture's hardest discipline — willingness to rewrite the day-one hypothesis when analysis contradicts it — exists specifically to defend against confirmation bias, the most corrosive failure mode of hypothesis-led work.
+  - id: 119
+    rationale: confirmation bias is the single biggest degrader of the Orient stage; it filters observations through fixed beliefs and converges the loop on the wrong picture
 references:
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)
