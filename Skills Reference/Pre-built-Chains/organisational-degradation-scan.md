@@ -23,6 +23,12 @@ connections:
     rationale: the agency dimension running through every degradation mechanism; identifies where structural incentive redesign is necessary.
   - id: 130
     rationale: the action chain that follows from this diagnosis; do not enter it without completing the scan first.
+  - id: 169
+    rationale: the structural follow-on when Conway's Law is identified as the primary degradation mechanism; diagnosis feeds directly into the flow-design diagnostic.
+  - id: 177
+    rationale: the diagnostic follow-on when the Cobra Effect is operating primarily through innovation and change programmes.
+  - id: 96
+    rationale: the hiring-side follow-on when Peter Principle accumulation is the primary mechanism and role redesign or replacement is indicated.
 ---
 
 # Organisational Degradation Scan

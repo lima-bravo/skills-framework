@@ -29,6 +29,8 @@ connections:
     rationale: adversarial modelling before deployment is the incentive design practice that catches cobra-effect structures before they go live
   - id: 241
     rationale: "oversight and compliance machinery added to fix a cobra problem can itself trigger Parkinson expansion: the bureaucratic infrastructure grows to fill available budget and attention, becoming its own cobra."
+  - id: 244
+    rationale: Organisational Degradation Scan checks the Cobra Effect in Step 5 — whether intervention programmes are sustaining the problems they were commissioned to solve
 references:
   - title: "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
     authorYear: Steven D. Levitt & Stephen J. Dubner (2005)

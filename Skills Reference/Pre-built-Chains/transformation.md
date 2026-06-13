@@ -4,6 +4,9 @@ name: Transformation Chain
 category: Pre-built Chains
 cardType: chain
 tagline: Eight-step protocol for leading organisational transformation — from diagnosis to institutionalisation
+connections:
+  - id: 244
+    rationale: Organisational Degradation Scan is the diagnostic prerequisite to this chain; do not enter transformation without completing the scan first
 ---
 
 # Transformation Chain

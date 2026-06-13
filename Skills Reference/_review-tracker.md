@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **240**
+- Reviewed (verified + fixed): **241**
 - Flagged: **0**
-- Remaining (todo): **22**
+- Remaining (todo): **21**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -333,7 +333,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#198` **Mission Execution Protocol** · `Pre-built-Chains/mission-execution-protocol.md` · **st:** fixed · **n:** fixed header (linked category, removed redundant tagline, added --- separator); content verified correct
 - [x] `#213` **From Idea to Hypothesis** · `Pre-built-Chains/from-idea-to-hypothesis.md` · **st:** fixed · **n:** added 4 missing backlinks in opportunity-solution-trees, jobs-to-be-done, wsjf, experiment-design
 - [x] `#214` **Crawl / Walk / Run** · `Pre-built-Chains/crawl-walk-run.md` · **st:** verified · **n:** Content sound; added 6 missing backlinks (MVP, Observer Bias, Statistical Variability, Calibration, Reference Class Forecasting, Flow Metrics)
-- [ ] `#244` **Organisational Degradation Scan** · `Pre-built-Chains/organisational-degradation-scan.md` · **st:** todo · **n:** —
+- [x] `#244` **Organisational Degradation Scan** · `Pre-built-Chains/organisational-degradation-scan.md` · **st:** fixed · **n:** Content sound; added 3 YAML connections (#169, #177, #96) + 11 backlinks; connections 1074→1077
 - [ ] `#245` **Funnel Intake** · `Pre-built-Chains/funnel-intake.md` · **st:** todo · **n:** —
 
 ## Leadership (17)

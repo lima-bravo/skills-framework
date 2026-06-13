@@ -19,6 +19,8 @@ connections:
     rationale: above Dunbar's Number, organisations rely on process and structure rather than direct relationships; Parkinson expansion accelerates as organisations exceed the scale where informal coordination works.
   - id: 153
     rationale: "kill criteria are the antidote to Parkinson expansion in projects: pre-defined conditions under which work stops, preventing indefinite scope growth."
+  - id: 244
+    rationale: Organisational Degradation Scan applies Parkinson's Law in Step 3 — diagnosing whether headcount and process are growing faster than output as a structural degradation mechanism
 references:
   - title: Parkinson's Law, and Other Studies in Administration
     authorYear: C. Northcote Parkinson (1958)

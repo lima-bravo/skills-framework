@@ -4,6 +4,9 @@ name: Innovation Capability Diagnostic
 category: Pre-built Chains
 cardType: chain
 tagline: Take an honest inventory before you prescribe
+connections:
+  - id: 244
+    rationale: Organisational Degradation Scan feeds into this chain when the Cobra Effect is operating primarily through innovation and change programmes
 ---
 
 # Innovation Capability Diagnostic

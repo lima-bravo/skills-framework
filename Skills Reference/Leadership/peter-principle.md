@@ -19,6 +19,8 @@ connections:
     rationale: the Hiring Decision chain should explicitly address whether promotion is the right mechanism, or whether an external hire or role redesign better serves the need.
   - id: 124
     rationale: the Peter Principle accumulates faster in cultures that equate career progression with management hierarchy; cultures that genuinely value specialist excellence are more resistant.
+  - id: 244
+    rationale: Organisational Degradation Scan applies the Peter Principle in Step 4 — assessing whether management layer incompetence accumulated through promotion-on-past-performance is sustaining degradation
 references:
   - title: "The Peter Principle: Why Things Always Go Wrong"
     authorYear: Laurence J. Peter & Raymond Hull (1969)

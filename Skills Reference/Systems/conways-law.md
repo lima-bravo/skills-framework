@@ -33,6 +33,8 @@ connections:
     rationale: the Inverse Conway Maneuver is the deliberate application of Conway's Law in reverse — designing organization structure to produce the desired architecture rather than accepting whatever architecture the current org produces.
   - id: 156
     rationale: dependencies follow team boundaries — cross-team coupling in the codebase reflects communication lines in the org, making dependency management inseparable from org design.
+  - id: 244
+    rationale: Organisational Degradation Scan applies Conway's Law in Step 6 — examining whether organisational structure is entrenching the systems and processes creating drag
 references:
   - title: How Do Committees Invent?
     authorYear: Melvin E. Conway, Datamation (1968)

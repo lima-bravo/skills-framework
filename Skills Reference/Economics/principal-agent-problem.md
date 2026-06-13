@@ -31,6 +31,8 @@ connections:
     rationale: agents who benefit from a shared resource without contributing create a free-rider structure that compounds the principal-agent misalignment
   - id: 127
     rationale: RACI makes accountability expectations explicit so agents can't credibly claim they didn't know who owned the outcome; it is the structural intervention that closes the principal-agent information gap at the task level.
+  - id: 244
+    rationale: Organisational Degradation Scan applies the Principal–Agent Problem in Step 7 — identifying where individual incentives are most misaligned with organisational goals and sustaining degradation
 references:
   - title: "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"
     authorYear: Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976)

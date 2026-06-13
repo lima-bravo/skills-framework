@@ -21,6 +21,8 @@ connections:
     rationale: Mission Command works best within Dunbar's Number, where commanders know their people directly; above the threshold, it requires formal doctrine and training to replace relational understanding.
   - id: 104
     rationale: psychological safety is a relational property that operates within Dunbar's Number; above the threshold, it must be actively designed into team structure and leadership behaviour.
+  - id: 244
+    rationale: Organisational Degradation Scan uses Dunbar's Number as Step 2 — the scale threshold at which relational coordination breaks; crossing it without redesigning coordination is a primary degradation trigger
 references:
   - title: Grooming, Gossip, and the Evolution of Language
     authorYear: Robin Dunbar (1996)

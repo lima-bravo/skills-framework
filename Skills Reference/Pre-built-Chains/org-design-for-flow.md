@@ -4,6 +4,9 @@ name: Org Design for Flow Diagnostic
 category: Pre-built Chains
 cardType: chain
 tagline: Org Design for Flow Diagnostic
+connections:
+  - id: 244
+    rationale: Organisational Degradation Scan feeds into this chain when Conway's Law is identified as the primary degradation mechanism
 ---
 
 # Org Design for Flow Diagnostic
