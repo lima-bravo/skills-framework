@@ -49,6 +49,8 @@ connections:
     rationale: imagining the hypothesis is wrong — and asking what evidence would confirm that — is the pre-mortem applied to hypothesis-driven work; both tools treat the absence of a strong disconfirmation case as a warning sign.
   - id: 170
     rationale: Step 6 of the Work to Be Done chain includes a pre-mortem — imagining the outcome failed 12 months later and auditing which work items were waste and which were missing.
+  - id: 118
+    rationale: Mission Command's back-brief and intent-setting practice pairs with pre-mortem to surface flawed assumptions and trigger conditions before commitment
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

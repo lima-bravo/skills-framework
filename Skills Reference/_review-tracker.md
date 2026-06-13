@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **242**
+- Reviewed (verified + fixed): **243**
 - Flagged: **0**
-- Remaining (todo): **20**
+- Remaining (todo): **19**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -338,7 +338,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 
 ## Leadership (17)
 
-- [ ] `#118` **Mission Command** · `Leadership/mission-command.md` · **st:** todo · **n:** —
+- [x] `#118` **Mission Command** · `Leadership/mission-command.md` · **st:** fixed · **n:** References verified (Bungay 2011, Moltke/Hughes 1993, Marquet 2013 ✓); added 3 missing backlinks (Pre-mortem, First Principles, Capacity Planning)
 - [ ] `#119` **OODA Loop** · `Leadership/ooda-loop.md` · **st:** todo · **n:** —
 - [ ] `#124` **Organizational Culture** · `Leadership/organizational-culture.md` · **st:** todo · **n:** —
 - [ ] `#125` **Change Management** · `Leadership/change-management.md` · **st:** todo · **n:** —

@@ -49,6 +49,8 @@ connections:
     rationale: pre-built chains encode first-principles reasoning about each decision type — the distilled answer to what the irreducible questions are for a given class of problem.
   - id: 162
     rationale: MECE problem statements often reveal a first-principles structure — the categories that are truly irreducible and non-overlapping for a given domain.
+  - id: 118
+    rationale: Mission Command forces first-principles articulation of the commander's intent — why the mission matters, not just what to do
 references:
   - title: Discourse on the Method
     authorYear: René Descartes (1637)

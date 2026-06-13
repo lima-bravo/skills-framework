@@ -23,6 +23,8 @@ connections:
     rationale: process integrity check in Step 8
   - id: 170
     rationale: Step 10 of the Work to Be Done chain runs a summary-level Capacity Planning check before committing — verify true cognitive capacity supports the scoped work with adequate margin
+  - id: 118
+    rationale: Mission Command creates the cultural infrastructure for delegated accountability that makes honest capacity estimates possible
 ---
 
 # Capacity Planning
