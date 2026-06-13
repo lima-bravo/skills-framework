@@ -37,6 +37,8 @@ connections:
     rationale: psychological safety is a measurable artefact of the underlying assumption about whether failure and dissent are safe — the most diagnostic read of the assumptions layer
   - id: 195
     rationale: Brief-Back Protocols only surface honest comprehension gaps and plan doubts if teams feel safe being wrong in front of their leader; psychological safety is the enabling condition
+  - id: 196
+    rationale: an AAR run in a blame culture produces a sanitised account rather than a useful one; psychological safety is the precondition for honest answers to questions 2 and 3
 references:
   - title: "The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth"
     authorYear: Amy C. Edmondson (2018)

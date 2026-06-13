@@ -33,6 +33,8 @@ connections:
     rationale: Leader's Intent is the craft-level tool that operationalises Mission Command — the specific template for constructing and communicating intent well
   - id: 195
     rationale: Brief-Back Protocols are the verification layer for Mission Command — the communication discipline that makes intent-based leadership operationally reliable
+  - id: 196
+    rationale: the AAR is the learning infrastructure that makes Mission Command sustainable over time; teams that practice it develop the judgment and calibration Mission Command requires
 references:
   - title: The Art of Action
     authorYear: Stephen Bungay, 2011

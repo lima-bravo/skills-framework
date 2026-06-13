@@ -38,13 +38,13 @@ references:
     authorYear: US Army
     supports: the US Army's formal AAR doctrine; the source protocol for structured post-event learning.
   - title: The Fifth Discipline
-    authorYear: Peter Senge, 1990 (the learning organisation as the civilian theoretical framework)
+    authorYear: Peter Senge, 1990
     supports: the learning organisation as the civilian theoretical framework for AARs; systems thinking and mental models as the diagnostic lens.
   - title: An Everyone Culture
-    authorYear: Kegan & Lahey, 2016 (the cultural conditions required for honest AARs)
+    authorYear: Kegan & Lahey, 2016
     supports: the cultural conditions required for honest AARs — psychological safety and developmental norms where feedback is normal.
   - title: Accelerate
-    authorYear: Forsgren, Humble & Kim, 2018 (retrospectives as the engineering team's equivalent of the AAR)
+    authorYear: Forsgren, Humble & Kim, 2018
     supports: retrospectives as the engineering equivalent of the AAR; the empirical link between learning practices and delivery performance.
 ---
 

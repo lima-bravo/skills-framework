@@ -53,6 +53,8 @@ connections:
     rationale: compounding is a reinforcing feedback loop — gains become the new base for the next cycle; the two concepts describe the same exponential dynamic from different angles.
   - id: 138
     rationale: the Kanban Method's pull system is a balancing feedback loop made operational — column WIP limits force upstream stages to stop when downstream is full, creating system-wide flow regulation.
+  - id: 196
+    rationale: the AAR is the mechanism that closes the feedback loop between execution and planning; without it, experience accumulates but the loop is open and learning does not compound
 references:
   - title: "Thinking in Systems: A Primer"
     authorYear: Donella H. Meadows (2008)
