@@ -19,6 +19,8 @@ connections:
     rationale: the RACI is the formal accountability layer; power mapping reveals the informal influence structure beneath it; when the two diverge significantly, the organisation has a governance design problem.
   - id: 129
     rationale: the board/management boundary is the highest-stakes RACI distinction in the organisation; unclear accountability at this level is a primary governance failure mode
+  - id: 190
+    rationale: Three-Question Ritual operationalises RACI at meeting granularity — Q2 (one Accountable) and Q3 (Informed list) apply the framework in real time before the meeting ends
 references:
   - title: "Organization Design: Engaging with Change"
     authorYear: Naomi Stanford (Routledge, 2nd ed., 2013)

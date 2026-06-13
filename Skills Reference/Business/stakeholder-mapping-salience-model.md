@@ -21,6 +21,8 @@ connections:
     rationale: contracting requires stakeholder alignment; salience mapping identifies who must be aligned and how much weight each stakeholder's sign-off carries before scope can be fixed.
   - id: 125
     rationale: the guiding coalition is built through stakeholder analysis; Salience Model identifies who has power, legitimacy, and urgency before designing the coalition
+  - id: 190
+    rationale: Q3 is a quick stakeholder salience scan under time pressure — identifying who has legitimacy or urgency before they learn about the decision through back channels
 references:
   - title: Toward a Theory of Stakeholder Identification and Salience
     authorYear: Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood, Academy of Management Review Vol. 22 No. 4 (1997)

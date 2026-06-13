@@ -15,6 +15,8 @@ connections:
     rationale: boards that over-rely on quantitative reporting create Goodhart pressure throughout the organisation
   - id: 124
     rationale: the board both reflects and shapes organisational culture
+  - id: 190
+    rationale: the alignment/decision distinction in Q1 mirrors the board/management boundary — both disciplines exist to prevent the same conversation recurring without a committed owner
 references:
   - title: Corporate Governance
     authorYear: Robert Monks & Nell Minow, 5th ed. 2011

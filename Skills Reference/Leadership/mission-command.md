@@ -25,6 +25,8 @@ connections:
     rationale: Mission Command requires a basic-assumptions level belief that subordinates can be trusted; it fails in high-authority cultures where the operative assumption is that control is necessary
   - id: 125
     rationale: enlisting volunteers and building coalitions requires intent-based communication — Mission Command provides the mode for briefing the change's purpose and end state
+  - id: 190
+    rationale: Q1 clarifies the decision boundary; Mission Command specifies the intent within which the single owner executes autonomously
 references:
   - title: The Art of Action
     authorYear: Stephen Bungay, 2011

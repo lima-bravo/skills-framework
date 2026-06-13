@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **248**
+- Reviewed (verified + fixed): **249**
 - Flagged: **0**
-- Remaining (todo): **14**
+- Remaining (todo): **13**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -344,7 +344,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#125` **Change Management** · `Leadership/change-management.md` · **st:** fixed · **n:** Refs verified (Kotter 1996, Hiatt 2006, Bridges 2009 ✓); added 5 missing backlinks
 - [x] `#126` **Risk Management** · `Leadership/risk-management.md` · **st:** fixed · **n:** Refs verified (COSO 2017, Bernstein 1996, Hubbard 2009 ✓); added 4 missing backlinks
 - [x] `#129` **Board Governance** · `Leadership/board-governance.md` · **st:** fixed · **n:** Fixed Charan title ("The Boardroom Imperative" → "Boards That Deliver") + OECD supports copy-paste; added 4 missing backlinks
-- [ ] `#190` **Three-Question Ritual** · `Leadership/three-question-ritual.md` · **st:** todo · **n:** —
+- [x] `#190` **Three-Question Ritual** · `Leadership/three-question-ritual.md` · **st:** fixed · **n:** Fixed 3 reference authorYear formats (parentheses→comma); refs verified (Lencioni 2004, Martin 2002 ✓); added 5 backlinks; fixed YAML parse error in change-management.md backlink
 - [ ] `#191` **Async-First Default** · `Leadership/async-first-default.md` · **st:** todo · **n:** —
 - [ ] `#193` **Purpose Clarity** · `Leadership/purpose-clarity.md` · **st:** todo · **n:** —
 - [ ] `#194` **Leader's Intent** · `Leadership/leaders-intent.md` · **st:** todo · **n:** —

@@ -27,6 +27,8 @@ connections:
     rationale: "the missing chapter in most change-management playbooks: why willing, intelligent people consistently fail to change even when the plan is clear."
   - id: 164
     rationale: the design and deliver phases of an engagement lifecycle run diagnosis and change in parallel; change management provides the model for moving stakeholders through transition while delivery executes.
+  - id: 190
+    rationale: "consistent use of the three-question ritual builds a cultural norm: meetings produce decisions, not just discussion — the micro-habit that sustains change management"
 references:
   - title: Leading Change
     authorYear: John Kotter, 1996
