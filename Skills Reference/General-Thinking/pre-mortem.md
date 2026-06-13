@@ -53,6 +53,8 @@ connections:
     rationale: Mission Command's back-brief and intent-setting practice pairs with pre-mortem to surface flawed assumptions and trigger conditions before commitment
   - id: 119
     rationale: the pre-mortem stress-tests the current orientation by running the loop backwards — asking what failure would look like from this picture
+  - id: 126
+    rationale: pre-mortem is the agile risk identification tool for specific initiatives — surfaces latent risks before commitment without requiring a full ERM apparatus
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

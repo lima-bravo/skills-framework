@@ -21,6 +21,8 @@ connections:
     rationale: scenario planning surfaces a range of futures, but the Black Swan is outside the range by definition; use both tools together, not as substitutes.
   - id: 210
     rationale: Wardley Maps can be projected forward to generate the alternative futures that scenario planning then stress-tests.
+  - id: 126
+    rationale: Risk Management uses scenario planning as its primary tool for external and strategic risk; scenario planning stress-tests risk appetite against plausible futures
 references:
   - title: "The Art of the Long View: Planning for an Uncertain World"
     authorYear: Peter Schwartz (1991)

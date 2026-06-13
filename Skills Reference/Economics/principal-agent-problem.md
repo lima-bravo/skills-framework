@@ -35,6 +35,8 @@ connections:
     rationale: Organisational Degradation Scan applies the Principal–Agent Problem in Step 7 — identifying where individual incentives are most misaligned with organisational goals and sustaining degradation
   - id: 124
     rationale: Organizational Culture shapes how agents interpret their principal's intent; basic assumptions determine whether delegation or self-interest fills the gap
+  - id: 126
+    rationale: risk governance depends on agents internalising accountability for the risks they create; without aligned incentives the Three Lines collapse into box-ticking
 references:
   - title: "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"
     authorYear: Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976)

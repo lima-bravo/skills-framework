@@ -43,6 +43,8 @@ connections:
     rationale: an error budget is a domain-specific form of margin-of-safety reasoning — it reserves a defined tolerance for failure before velocity must give way to reliability work.
   - id: 117
     rationale: the Capacity Planning chain mandates a minimum 20% buffer in Step 7 and sets 70–80% utilization as the viable ceiling — the margin-of-safety principle applied quantitatively to resource plans.
+  - id: 126
+    rationale: Margin of Safety is the operational implementation of risk appetite — the buffer between residual risk and the boundary where appetite is breached
 references:
   - title: "The Intelligent Investor: The Definitive Book on Value Investing"
     authorYear: Benjamin Graham (1949; rev. ed. 2003)
