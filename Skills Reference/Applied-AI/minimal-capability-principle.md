@@ -19,10 +19,10 @@ connections:
     rationale: the general principle of designing with buffer against worst-case scenarios; minimal capability applies this to AI agent architecture.
 references:
   - title: The Protection of Information in Computer Systems
-    authorYear: Jerome H. Saltzer & Michael D. Schroeder, Proceedings of the IEEE Vol. 63 No. 9 (1975)
-    supports: the original statement of the principle of least privilege in computer security.
+    authorYear: Jerome H. Saltzer & Michael D. Schroeder, 1975
+    supports: the original statement of the principle of least privilege in computer security; published in Proceedings of the IEEE, Vol. 63 No. 9.
   - title: "Human Compatible: Artificial Intelligence and the Problem of Control"
-    authorYear: Stuart Russell (2019)
+    authorYear: Stuart Russell, 2019
     supports: capability restriction as the primary mechanism of AI control.
 ---
 

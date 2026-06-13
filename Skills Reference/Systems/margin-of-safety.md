@@ -45,6 +45,8 @@ connections:
     rationale: the Capacity Planning chain mandates a minimum 20% buffer in Step 7 and sets 70–80% utilization as the viable ceiling — the margin-of-safety principle applied quantitatively to resource plans.
   - id: 126
     rationale: Margin of Safety is the operational implementation of risk appetite — the buffer between residual risk and the boundary where appetite is breached
+  - id: 184
+    rationale: the minimal capability principle applies the margin-of-safety logic to AI agent architecture — designing with buffer against worst-case scenarios by removing capability rather than relying on normative controls
 references:
   - title: "The Intelligent Investor: The Definitive Book on Value Investing"
     authorYear: Benjamin Graham (1949; rev. ed. 2003)

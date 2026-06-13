@@ -21,6 +21,8 @@ connections:
     rationale: Step 8 of the Work to Be Done chain flags cross-team dependencies as part of the flow sketch — dependency surface area determines where the critical path will stall before execution begins.
   - id: 257
     rationale: cross-team dependencies scale with the number of teams, which is itself a function of how span-of-control limits have been applied; the two decisions are therefore linked
+  - id: 184
+    rationale: multi-agent tool grant design creates structural dependencies between agents; these should be made explicit in the capability manifest and reviewed at each workflow change
 references:
   - title: Team Topologies
     authorYear: Matthew Skelton & Manuel Pais (2019)

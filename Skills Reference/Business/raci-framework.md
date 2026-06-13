@@ -27,6 +27,8 @@ connections:
     rationale: the Accountable role in RACI only works at the human level when the person holding it understands why the outcome matters; purpose clarity is the prerequisite
   - id: 183
     rationale: authority boundary design answers the same question RACI answers for human workflows — who is Responsible, Accountable, Consulted, and Informed — but for human-AI workflows
+  - id: 184
+    rationale: the minimal capability principle is the machine-layer answer to the same question RACI answers at the human layer — who has authority to act in this workflow
 references:
   - title: "Organization Design: Engaging with Change"
     authorYear: Naomi Stanford (Routledge, 2nd ed., 2013)

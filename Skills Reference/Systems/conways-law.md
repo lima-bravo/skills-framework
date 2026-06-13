@@ -35,6 +35,8 @@ connections:
     rationale: dependencies follow team boundaries — cross-team coupling in the codebase reflects communication lines in the org, making dependency management inseparable from org design.
   - id: 244
     rationale: Organisational Degradation Scan applies Conway's Law in Step 6 — examining whether organisational structure is entrenching the systems and processes creating drag
+  - id: 184
+    rationale: tool grant architecture in multi-agent AI systems mirrors the authorized accountability structure; Conway's Law predicts that the agent architecture will reflect the team structure that built it
 references:
   - title: How Do Committees Invent?
     authorYear: Melvin E. Conway, Datamation (1968)
