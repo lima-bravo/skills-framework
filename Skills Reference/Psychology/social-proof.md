@@ -15,6 +15,8 @@ connections:
     rationale: formal incentives and social proof can work with or against each other; understanding both is necessary to predict which will dominate
   - id: 203
     rationale: the story of "everyone is doing X" is one of the most powerful narrative frames; social proof is amplified when it is attached to a compelling narrative
+  - id: 222
+    rationale: the visible size and credibility of a coalition influences undecided stakeholders; announcing coalition membership strategically is a social proof intervention
 references:
   - title: "Influence: The Psychology of Persuasion"
     authorYear: Robert B. Cialdini (1984)

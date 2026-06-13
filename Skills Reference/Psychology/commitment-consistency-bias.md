@@ -25,6 +25,8 @@ connections:
     rationale: once someone has voiced a position privately and had it heard, they are far more likely to hold a consistent position in the room — pre-wiring exploits commitment consistency to lock in support before the decision meeting.
   - id: 221
     rationale: small initial compliance establishes a pattern that makes larger subsequent asks more natural — commitment consistency works in favour of influence-builders who start with small, easy asks
+  - id: 222
+    rationale: coalition members who have publicly committed to the initiative are significantly more likely to sustain that support under pressure than those who have only privately agreed
 references:
   - title: "Influence: The Psychology of Persuasion"
     authorYear: Robert B. Cialdini (1984)

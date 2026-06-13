@@ -25,17 +25,17 @@ connections:
     rationale: securing early allies quietly before the decision meeting is the pre-wiring application of coalition building — a credible early supporter changes how later skeptics receive the same recommendation.
 references:
   - title: Leading Change
-    authorYear: Kotter, J.P. (1996)
+    authorYear: J.P. Kotter, 1996
     supports: 'Chapter 4: "Creating the Guiding Coalition."'
   - title: The Evolution of Cooperation
-    authorYear: Axelrod, R. (1984)
-    supports: The game-theoretic foundation for understanding coalition stability.
+    authorYear: R. Axelrod, 1984
+    supports: the game-theoretic foundation for understanding coalition stability — why cooperation emerges and how it is sustained.
   - title: "Influence: The Psychology of Persuasion"
-    authorYear: Cialdini, R.B. (1984)
-    supports: Social proof and commitment as coalition mechanics.
+    authorYear: R.B. Cialdini, 1984
+    supports: social proof and commitment as coalition mechanics — why visible support from credible early members attracts subsequent members.
   - title: 3-D Negotiation
-    authorYear: Lax, D.A. & Sebenius, J.K. (2006)
-    supports: Sequencing and deal design in multi-party influence.
+    authorYear: D.A. Lax & J.K. Sebenius, 2006
+    supports: sequencing and deal design in multi-party influence — the setup moves that determine whether a coalition can be assembled before the room convenes.
 ---
 
 # Coalition Building
