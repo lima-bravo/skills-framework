@@ -35,6 +35,8 @@ connections:
     rationale: Brief-Back Protocols are the verification layer for Mission Command — the communication discipline that makes intent-based leadership operationally reliable
   - id: 196
     rationale: the AAR is the learning infrastructure that makes Mission Command sustainable over time; teams that practice it develop the judgment and calibration Mission Command requires
+  - id: 197
+    rationale: Mission Command grants the authority to adapt when the plan no longer fits; the Tactical Pause is the moment when that authority is exercised collectively
 references:
   - title: The Art of Action
     authorYear: Stephen Bungay, 2011

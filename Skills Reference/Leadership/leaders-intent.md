@@ -21,6 +21,8 @@ connections:
     rationale: "a Leader's Intent is a direct application of the Maxims: Quantity (purpose + key tasks + end state — no more), Relation (no method, only what guides judgment), Manner (short enough to recall under pressure)"
   - id: 207
     rationale: intent-based leadership works partly because it grants teams permission to apply knowledge-based reasoning in novel situations rather than waiting for rule-based authorisation that the situation may not accommodate.
+  - id: 197
+    rationale: the Tactical Pause tests whether the Leader's Intent was constructed clearly enough to guide adaptation; a team with clear purpose and end state can reassess and adapt when the plan fails
 references:
   - title: "Army Doctrine Reference Publication 6-0: Mission Command"
     authorYear: US Army, 2012 (updated 2019)

@@ -17,6 +17,8 @@ connections:
     rationale: stress-testing the current orientation by running the loop backwards
   - id: 146
     rationale: PDCA and OODA are both iterative learning cycles; OODA is the faster, decision-making variant applied in competitive environments where speed of orientation matters more than prediction accuracy.
+  - id: 197
+    rationale: the Tactical Pause is a triggered, deliberate initiation of a new Observe-Orient cycle mid-execution — the permission structure that activates the OODA Loop when the current cycle has broken down
 references:
   - title: "Boyd: The Fighter Pilot Who Changed the Art of War"
     authorYear: Robert Coram, 2002

@@ -33,6 +33,8 @@ connections:
     rationale: "SRK classification sharpens the AAR: separate slip/lapse findings from rule-mistake findings from knowledge-mistake findings; each stream demands a different remediation conversation."
   - id: 251
     rationale: "value realization reviews borrow directly from the AAR format: what benefit was expected, what was actually captured, why the gap, what changes next time."
+  - id: 197
+    rationale: the AAR frequently identifies situations where a Tactical Pause should have been called but wasn't; these findings should calibrate future trigger sensitivity
 references:
   - title: "Army Regulation 11-33: Army Lessons Learned Program"
     authorYear: US Army

@@ -57,6 +57,8 @@ connections:
     rationale: pre-mortem is the agile risk identification tool for specific initiatives — surfaces latent risks before commitment without requiring a full ERM apparatus
   - id: 195
     rationale: the Back Brief and the pre-mortem address the same failure — plans that look fine until they meet reality — at the same moment before execution; they are complementary, not substitutes
+  - id: 197
+    rationale: pre-mortems anticipate the conditions that would require a Tactical Pause; a well-run pre-mortem includes the trigger conditions that should cause the team to stop and reassess mid-execution
 references:
   - title: "Sources of Power: How People Make Decisions"
     authorYear: Gary Klein (1998)

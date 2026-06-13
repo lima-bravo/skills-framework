@@ -21,16 +21,16 @@ connections:
     rationale: the Tactical Pause is the operational intervention that makes drift visible before it reaches the boundary; without deliberate pauses, locally reasonable decisions accumulate into trajectory-level failures visible only in hindsight.
 references:
   - title: "Army Doctrine Reference Publication 6-0: Mission Command"
-    authorYear: US Army (2012, updated 2019)
+    authorYear: US Army, 2012 (updated 2019)
     supports: the doctrine source for deliberate pauses mid-mission when situational clarity requires halting execution to reassess before continuing.
   - title: Thinking, Fast and Slow
-    authorYear: Daniel Kahneman (2011)
+    authorYear: Daniel Kahneman, 2011
     supports: System 2 engagement under pressure — the cognitive mechanism the Tactical Pause activates by interrupting System 1 autopilot.
   - title: The Art of Action
-    authorYear: Stephen Bungay (2011)
+    authorYear: Stephen Bungay, 2011
     supports: the knowledge-alignment-effects gap framework; the Tactical Pause is how teams surface and close those gaps mid-execution.
   - title: Team of Teams
-    authorYear: General Stanley McChrystal (2015)
+    authorYear: General Stanley McChrystal, 2015
     supports: shared consciousness as the enabler of adaptive execution — teams that pause, share, and update their picture together can act decisively without waiting for orders.
 ---
 

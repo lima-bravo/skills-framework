@@ -31,6 +31,8 @@ connections:
     rationale: dominant logic operates well in Complicated and Obvious domains where the environment is stable; it becomes a strategic liability when the environment shifts to Complex or Chaotic.
   - id: 125
     rationale: change approach must match the domain type — Clear-domain rollouts need different handling from Complex-domain transformations where the path emerges
+  - id: 197
+    rationale: in Complex or Chaotic domains the correct response is "probe, sense, respond" rather than executing a predetermined plan; the Tactical Pause is the operational mechanism for shifting into sensing mode
 references:
   - title: "\"A Leader's Framework for Decision Making\""
     authorYear: Dave Snowden & Mary Boone, Harvard Business Review (2007)
