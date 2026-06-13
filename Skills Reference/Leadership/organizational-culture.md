@@ -23,6 +23,8 @@ connections:
     rationale: exploit and explore require different cultural operating conditions; ambidextrous design is partly a culture management problem, and Organizational Culture provides the diagnostic vocabulary for that challenge.
   - id: 155
     rationale: the Inverse Conway Maneuver restructures teams to shape architecture, but culture determines whether new team boundaries actually hold — a structural split without cultural alignment reverts to the old communication patterns.
+  - id: 125
+    rationale: Change Management's step 8 only succeeds when new behaviours reach the basic-assumptions level of culture; Schein's model explains why anchoring reverts
 references:
   - title: Organizational Culture and Leadership
     authorYear: Edgar Schein, 1985 (5th ed. 2017)

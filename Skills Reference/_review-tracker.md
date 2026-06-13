@@ -20,9 +20,9 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 ## Progress
 
 - Total skills: **262**
-- Reviewed (verified + fixed): **245**
+- Reviewed (verified + fixed): **246**
 - Flagged: **0**
-- Remaining (todo): **17**
+- Remaining (todo): **16**
 
 > ✅ **Resolved (found during #1, fixed in dedicated pass):** the manifest `refs` array had
 > **252** skill entries whose `id` was a file-path string (broke ref-pill click-through in
@@ -341,7 +341,7 @@ Find the next unstarted skill: search this file for `st: todo`. Find open issues
 - [x] `#118` **Mission Command** · `Leadership/mission-command.md` · **st:** fixed · **n:** References verified (Bungay 2011, Moltke/Hughes 1993, Marquet 2013 ✓); added 3 missing backlinks (Pre-mortem, First Principles, Capacity Planning)
 - [x] `#119` **OODA Loop** · `Leadership/ooda-loop.md` · **st:** fixed · **n:** Fixed title casing "boyd:" → "Boyd:"; refs verified (Coram 2002, Richards 2004, Leonhard 1991 ✓); added 4 missing backlinks
 - [x] `#124` **Organizational Culture** · `Leadership/organizational-culture.md` · **st:** fixed · **n:** Refs verified (Schein 1985/1999, Kegan & Lahey 2016 ✓); added 5 missing backlinks
-- [ ] `#125` **Change Management** · `Leadership/change-management.md` · **st:** todo · **n:** —
+- [x] `#125` **Change Management** · `Leadership/change-management.md` · **st:** fixed · **n:** Refs verified (Kotter 1996, Hiatt 2006, Bridges 2009 ✓); added 5 missing backlinks
 - [ ] `#126` **Risk Management** · `Leadership/risk-management.md` · **st:** todo · **n:** —
 - [ ] `#129` **Board Governance** · `Leadership/board-governance.md` · **st:** todo · **n:** —
 - [ ] `#190` **Three-Question Ritual** · `Leadership/three-question-ritual.md` · **st:** todo · **n:** —

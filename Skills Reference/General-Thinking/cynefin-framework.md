@@ -29,6 +29,8 @@ connections:
     rationale: "Cynefin prescribes which response mode a domain calls for; SRK explains the cognitive mechanics underneath: rule-based performance in Complicated domains, knowledge-based reasoning when the domain is Complex or novel."
   - id: 173
     rationale: dominant logic operates well in Complicated and Obvious domains where the environment is stable; it becomes a strategic liability when the environment shifts to Complex or Chaotic.
+  - id: 125
+    rationale: change approach must match the domain type — Clear-domain rollouts need different handling from Complex-domain transformations where the path emerges
 references:
   - title: "\"A Leader's Framework for Decision Making\""
     authorYear: Dave Snowden & Mary Boone, Harvard Business Review (2007)
