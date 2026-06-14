@@ -36,22 +36,22 @@ The categories are not arbitrary. They reflect different levels of abstraction a
 
 | Category | Skills | What it's for |
 |---|---|---|
-| General Thinking | 24 | Any problem; the foundational layer |
-| Systems | 17 | Understanding how things behave over time |
-| Economics | 15 | Resource allocation, incentives, markets |
+| General Thinking | 29 | Any problem; the foundational layer |
+| Systems | 24 | How systems behave, are defined, and self-regulate — dynamics, soft systems, and control |
+| Economics | 22 | Resource allocation, incentives, markets |
 | Physics & Chemistry | 10 | Structural forces and mechanisms |
 | Psychology | 26 | Human behavior, bias, and motivation |
-| Innovation & Entrepreneurship | 22 | New ventures, products, and innovation programs |
-| Business | 14 | Established organization management and strategy |
-| Mathematics | 7 | Quantitative and logical reasoning |
+| Innovation & Entrepreneurship | 23 | New ventures, products, and innovation programs |
+| Business | 23 | Established organization management and strategy |
+| Mathematics | 11 | Quantitative and logical reasoning |
 | Network Effects | 4 | Platform and ecosystem strategy |
 | Learning | 6 | Building capability deliberately |
 | Art | 4 | Communication and creative expression |
-| Delivery & Flow | 31 | Throughput, WIP, metrics, org design for flow |
-| Consulting Craft | 5 | Problem structuring, executive communication, engagement management |
-| Leadership | 15 | Change, culture, governance, trust, operational execution, meeting discipline |
+| Delivery & Flow | 33 | Throughput, WIP, metrics, org design for flow |
+| Consulting Craft | 10 | Problem structuring, executive communication, engagement management |
+| Leadership | 17 | Change, culture, governance, trust, operational execution, meeting discipline |
 | Applied AI | 3 | AI governance, authority boundaries, agentic system design |
-| Pre-built Chains | 19 | High-stakes recurring decisions and structured methodologies |
+| Pre-built Chains | 22 | High-stakes recurring decisions and structured methodologies |
 
 *Skill counts match `skills-manifest.json` (267 total).*
 
@@ -175,7 +175,9 @@ After a few weeks of use, you will develop your own intuitions about which model
 
 **Decision quality cluster**: First Principles + Inversion + Probabilistic Thinking + Margin of Safety + Two-Way Doors + Regret Minimization Framework
 
-**System intervention cluster**: Feedback Loops + Bottlenecks + Leverage + Activation Energy + Incentives
+**System intervention cluster**: Feedback Loops + System Archetypes + Bottlenecks + Leverage + Activation Energy + Incentives
+
+**Systems analysis cluster**: System Archetypes + CATWOE + Requisite Variety + Causal Analysis + Feedback Loops + Cynefin Framework — composed by the DRRT chain (Deconstruct → Relationships → Recognise → Test) for working a misbehaving system from first principles
 
 **Market strategy cluster**: Monopoly vs. Competition + Network Effects + Creative Destruction + Defensibility + Red Queen Dilemma
 
@@ -193,7 +195,7 @@ After a few weeks of use, you will develop your own intuitions about which model
 
 **Calibrated forecasting cluster**: Probabilistic Thinking + Base Rate Neglect + Reference Class Forecasting + Planning Fallacy + Falsification + Probabilistic Forecasting
 
-**System reliability and drift cluster**: Drift to Failure + SRK Framework + Goodhart's Law + Feedback Loops + Commitment & Consistency Bias + After-Action Review
+**System reliability and drift cluster**: Drift to Failure + System Archetypes + SRK Framework + Goodhart's Law + Feedback Loops + Commitment & Consistency Bias + After-Action Review
 
 **Communication cluster**: Audience + Framing + Contrast + Rhythm + Anchoring + Pyramid Principle
 
@@ -365,9 +367,13 @@ When you know roughly what kind of situation you're in but aren't sure which ski
 
 **You're trying to change something but hitting resistance**: Immunity to Change, Activation Energy, Loss Aversion, Inertia, Change Management
 
-**An organization keeps making the same mistakes**: Dominant Logic, Feedback Loops, Goodhart's Law, Organizational Culture, SRK Framework, Drift to Failure
+**An organization keeps making the same mistakes**: Dominant Logic, Feedback Loops, Goodhart's Law, Organizational Culture, SRK Framework, Drift to Failure, System Archetypes
 
-**A long-successful system or process is quietly degrading**: Drift to Failure, Goodhart's Law, Commitment & Consistency Bias, Survivorship Bias
+**A long-successful system or process is quietly degrading**: Drift to Failure, Goodhart's Law, Commitment & Consistency Bias, Survivorship Bias, System Archetypes
+
+**A redesign keeps failing because people can't agree what the system is for**: CATWOE, Situation Assessment, Stakeholder Mapping (Salience Model)
+
+**A rule or process keeps breaking on the exceptions**: Requisite Variety, Mission Command, Cynefin Framework
 
 **You're running a post-mortem and want it to produce real learning**: Hindsight Bias, Fundamental Attribution Error, SRK Framework, Survivorship Bias, Narrative Instinct, After-Action Review
 
