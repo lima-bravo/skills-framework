@@ -60,6 +60,8 @@ Time is not homogeneous for knowledge workers. Its value depends entirely on whe
 
 Same total hours. Same meeting load. Profoundly different capacity. This is the asymmetry managers applying their own scheduling intuitions to makers miss — because for managers, meeting distribution within the day genuinely does not matter much.
 
+Where [Deep Work / Cognitive Capacity](../Learning/deep-work.md) sets the ceiling on how many focused hours exist, this card is about whether the calendar's *structure* lets you reach it — the same capacity, fragmented, collapses toward zero.
+
 ---
 
 ## Practitioner Heuristics

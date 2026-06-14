@@ -62,6 +62,8 @@ Cognitive capacity behaves more like a limited daily battery than a renewable re
 
 Once the deep work capacity is exhausted, the hours remaining produce output that looks like work but lacks the quality and complexity of the earlier hours. Managers who measure productivity by hours present rather than deep work hours available will systematically overestimate what their teams can deliver.
 
+This card is about the *size* of the daily deep-work budget; whether you can actually spend it depends on how the calendar is arranged — see [Maker's Schedule vs. Manager's Schedule](../Business/makers-schedule.md). A high capacity ceiling means nothing if the day is fragmented below the minimum block.
+
 ---
 
 ## Practitioner Heuristics
