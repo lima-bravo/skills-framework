@@ -16,48 +16,17 @@ This gives you a complete inventory of all skills by category, file paths, key c
 
 ---
 
-## Skill Review Pass (in progress)
-
-A full-rigor review of every card is underway: verify correctness and references,
-then improve each card **within the current framework** (same 6-section structure,
-same voice, same category — no new sections, no id changes).
-
-**Three files drive this work:**
-
-| File | Role |
-|---|---|
-| `Skills Reference/_review-tracker.md` | Master checklist — one row per skill, with status (`st:`) and a one-line note (`n:`). The source of truth for what's been done. |
-| `Skills Reference/_review-template.md` | The per-card checklist to run for each skill (structure → correctness → worked example → references → connections → verdict → sync). |
-| `Skills Reference/_review-log.md` | Optional running audit trail of completed review blocks. Create it on first use. |
-
-**To review the next skill, one at a time:**
-
-1. Open `_review-tracker.md` and find the next skill with `st: todo` (work top-to-bottom, or let the user pick).
-2. Set its row to `st: wip`.
-3. Read that card at the file path shown, then work through every check in `_review-template.md`.
-4. **Verify, don't assume.** Fact-check the worked example and validate references by web search — confirm the source exists, the author/year is right, and it actually supports the claim. A plausible-looking citation is not a verified one.
-5. Apply fixes **in place**, preserving the card's structure and voice. If a card needs a structural or scope change, set `st: flagged` and surface it instead of acting unilaterally.
-6. If anything changed: run the **Sync checklist** (update `skills-manifest.json` refs if needed, add backlinks, run `npm run build`, confirm `npm run check:counts` passes, update `_ai-index.md` if inventory/clusters changed).
-7. Update the tracker row: tick the box, set `st:` to `verified` / `fixed` / `flagged`, write the `n:` note. Then update the four counters in the tracker's **Progress** block.
-
-**Counts are guarded.** `npm run check:counts` derives every canonical number from
-`skills-manifest.json` and the generated graph and fails the build on drift. If a count
-legitimately changes during a review, edit the card/manifest, run `npm run build`, then
-let `check:counts` name any prose still to fix.
-
----
-
 ## Git commits
 
-Commit automatically — do not ask the user to run commits. After completing each card review (build passes, counts pass), stage and commit immediately.
+Commit automatically — do not ask the user to run commits. After completing each card or change (build passes, counts pass), stage and commit immediately.
 
 **When to commit:**
 
-- After a skill's review is fully applied and `npm run build` + `check:counts` pass — one commit per reviewed card.
-- After tooling/structure changes (tracker, template, CLAUDE.md, index updates).
+- After a card or change is fully applied and `npm run build` + `check:counts` pass — one commit per logical change.
+- After tooling/structure changes (CLAUDE.md, index updates, build scripts).
 - Before any large or risky change, so there's a clean restore point.
 
-**Commit format:** concise imperative subject line (≤ ~70 chars) plus a short body if the change needs explanation. Keep commits small and topical; don't bundle unrelated card reviews into one commit.
+**Commit format:** concise imperative subject line (≤ ~70 chars) plus a short body if the change needs explanation. Keep commits small and topical; don't bundle unrelated changes into one commit.
 
 ---
 
