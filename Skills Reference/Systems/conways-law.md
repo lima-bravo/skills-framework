@@ -56,7 +56,7 @@ references:
 ---
 ## Definition
 
-Conway's Law, formulated by software engineer Melvin Conway in 1967, states: *"Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."* Originally stated about software, it has proven to apply broadly to products, processes, and organizational structures. The inverse, known as the **Reverse Conway Manoeuvre**, proposes deliberately restructuring teams to produce the system architecture you actually want.
+Conway's Law, formulated by software engineer Melvin Conway in 1967, states: *"Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure."* Originally stated about software, it has proven to apply broadly to products, processes, and organizational structures. The inverse, known as the **Inverse Conway Maneuver**, proposes deliberately restructuring teams to produce the system architecture you actually want.
 
 ---
 
@@ -69,7 +69,7 @@ Teams build interfaces between systems where they have interfaces between themse
 ## Practitioner Heuristics
 
 - **Audit the team structure before designing the system architecture.** If you want a microservices architecture, you need teams that own individual services and have minimal cross-team dependencies. If your team structure is tightly coupled, your microservices will be too.
-- **Apply the Reverse Conway Manoeuvre deliberately.** When Amazon decided to build AWS, they restructured around the "two-pizza team" model with explicit API ownership. The restructuring preceded the architecture; the architecture followed.
+- **Apply the Inverse Conway Maneuver deliberately.** When Amazon decided to build AWS, they restructured around the "two-pizza team" model with explicit API ownership. The restructuring preceded the architecture; the architecture followed.
 - **Use Conway's Law diagnostically.** If a system integration is consistently painful, fragile, or poorly defined, look at the interface between the teams responsible for it. The integration quality is a proxy for the relationship quality.
 - **Microservices require micro-teams.** The most common failure in microservices adoption: decomposing the system architecture without decomposing the team structure. The result is a distributed monolith — the worst of both worlds.
 - **Conway's Law also applies to products.** The features that are easiest to use are typically those where one team owns the entire user flow. Features that require multiple teams produce handoff seams that are visible in the user experience.

@@ -117,9 +117,9 @@ function validateStandardOrExtended(file, cardType, sections, hasFm) {
   }
 }
 
-function validateChain(file, sections) {
+function validateChain(file, sections, frontmatter) {
   const steps = sections.filter((s) => STEP_RE.test(s.title));
-  if (steps.length === 0) {
+  if (steps.length === 0 && !frontmatter?.skipStepValidation) {
     warn(file, 'chain card has no ## Step N sections (some chains use alternate section names)');
   }
   if (sections.length === 0) fail(file, 'chain card has no ## sections');
@@ -178,7 +178,7 @@ function main() {
     }
     if (!tagline) fail(file, 'missing tagline');
 
-    if (cardType === 'chain') validateChain(file, sections);
+    if (cardType === 'chain') validateChain(file, sections, parsed.frontmatter);
     else validateStandardOrExtended(file, cardType, sections, hasFm);
 
     for (const conn of parsed.connections) {

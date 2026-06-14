@@ -3,6 +3,7 @@ id: 214
 name: Crawl / Walk / Run
 category: Pre-built Chains
 cardType: chain
+skipStepValidation: true
 tagline: Each stage earns the right to the next. Failing the gate is not failure — running past it is.
 connections:
   - id: 213

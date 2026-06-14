@@ -36,30 +36,52 @@ connections:
 
 Before committing to a delivery timeline, resourcing a project, or agreeing to a scope of work. Use when you need to determine whether your team actually has the cognitive capacity to execute a plan — accounting for realistic productivity rates, calendar fragmentation, and planning optimism bias, not just headcount and nominal hours.
 
-## The Eight Steps
+## Step 1 — Establish True Cognitive Capacity
 
-**Step 1 — Establish True Cognitive Capacity** → **Deep Work / Cognitive Capacity**
+→ **Deep Work / Cognitive Capacity**
+
 Count actual deep work hours, not calendar hours. Formula: (people) × (working days) × 3.5 hours/day. Adjust down for high meeting loads.
 
-**Step 2 — Subtract the Fragmentation Tax** → **Maker's Schedule vs. Manager's Schedule**
+## Step 2 — Subtract the Fragmentation Tax
+
+→ **Maker's Schedule vs. Manager's Schedule**
+
 Audit daily meeting distribution. Apply fragmentation multiplier of 0.5–0.75 for scattered-meeting environments.
 
-**Step 3 — Correct the Demand Estimate** → **Planning Fallacy**
+## Step 3 — Correct the Demand Estimate
+
+→ **Planning Fallacy**
+
 Apply 1.5–2× correction to initial estimates, or anchor on reference class data. This is your realistic demand figure.
 
-**Step 4 — Identify the Binding Constraint** → **Bottlenecks**
+## Step 4 — Identify the Binding Constraint
+
+→ **Bottlenecks**
+
 Find the single person, skill, or dependency the plan flows through. Their adjusted capacity is the ceiling for the whole plan.
 
-**Step 5 — Account for Existing Cognitive Debt** → **Debt**
+## Step 5 — Account for Existing Cognitive Debt
+
+→ **Debt**
+
 Subtract pre-existing load from ongoing issues, fires, and accumulated technical or organizational debt.
 
-**Step 6 — Model Second-Order Capacity Effects** → **Second-Order Effects**
+## Step 6 — Model Second-Order Capacity Effects
+
+→ **Second-Order Effects**
+
 Map the feedback loop: near-capacity → lower quality → more unplanned reactive work → less capacity for the plan.
 
-**Step 7 — Apply Margin of Safety** → **Margin of Safety**
+## Step 7 — Apply Margin of Safety
+
+→ **Margin of Safety**
+
 Apply a minimum 20% buffer. A plan requiring 100% of adjusted capacity will fail. 70–80% utilization is the viable range.
 
-**Step 8 — Verify Incentive Alignment** → **Incentives**
+## Step 8 — Verify Incentive Alignment
+
+→ **Incentives**
+
 Confirm the planning process rewards honesty about constraints, not optimism that wins approval.
 
 ## Decision Output

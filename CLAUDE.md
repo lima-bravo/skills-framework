@@ -165,7 +165,7 @@ Canonical numbers (do not hand-type these anywhere without updating the prose to
 | Pre-built chains | category = `Pre-built Chains` | 21 |
 | Non-chain cards | total − chains | 242 |
 | Sources / references | `manifest.refs.length` | 381 |
-| Graph connections | generated `docs/graph.html` | 1084 |
+| Graph connections | generated `docs/graph.html` | 1102 |
 | Plugin (Cowork) skills | `SKILL.md` count under `plugins/` | 59 |
 
 When a count legitimately changes: edit cards/manifest, run `npm run build`, then read the checker output — it names the exact prose lines still to fix. If you reword a sentence that contains a count, update the matching regex in `check-counts.mjs` (a `NO MATCH` warning means the pattern no longer finds its line). This replaces the brittle manual "update the count in every ❌ file" steps above — those edits are still made by hand, but the checker now guarantees they were not missed.

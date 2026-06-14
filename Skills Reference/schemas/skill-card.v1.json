@@ -55,9 +55,7 @@
         "Mental Model",
         "Practitioner Heuristics",
         "Common Failure Modes",
-        "Worked Example",
-        "Connections",
-        "References"
+        "Worked Example"
       ],
       "sectionOrder": "requiredSections must appear in this order; no extra ## sections allowed"
     },
@@ -73,9 +71,7 @@
         "Mental Model",
         "Practitioner Heuristics",
         "Common Failure Modes",
-        "Worked Example",
-        "Connections",
-        "References"
+        "Worked Example"
       ],
       "extraSectionsAllowedAfter": "Mental Model",
       "extraSectionsAllowedBefore": "Practitioner Heuristics",
