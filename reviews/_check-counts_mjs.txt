@@ -1,0 +1,5 @@
+Canonical (from manifest/build): {"totalSkills":263,"categories":16,"chains":21,"nonChainCards":242,"nonChainCategories":15,"refs":381,"connections":1084,"pluginSkills":59}
+653 reference skill-link(s) checked.
+
+25 count occurrence(s) checked.
+✓ all hard-coded counts match the manifest.

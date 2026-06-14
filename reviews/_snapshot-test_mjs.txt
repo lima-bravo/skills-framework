@@ -1,0 +1,11 @@
+DRIFT skillCount: found 263, expected 262
+DRIFT connectionLines: found 2153, expected 1723
+DRIFT graphSkillLinks: found 1084, expected 1072
+DRIFT graphNodes: found 644, expected 651
+DRIFT sectionCount id=96: found 9, expected 8
+DRIFT sectionCount id=130: found 3, expected 2
+DRIFT sectionCount id=168: found 9, expected 8
+DRIFT sectionCount id=169: found 9, expected 8
+DRIFT sectionCount id=177: found 9, expected 8
+
+✗ 9 snapshot problem(s). Run with --write after intentional change.

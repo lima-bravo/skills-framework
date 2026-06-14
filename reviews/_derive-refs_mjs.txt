@@ -1,0 +1,2 @@
+Derived 651 raw ref lines → 379 canonical entries (manifest has 381)
+✓ derive-refs: 0 discrepancies

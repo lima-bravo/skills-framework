@@ -1,0 +1,4 @@
+WARN  Pre-built-Chains/capacity-planning.md: chain card has no ## Step N sections (some chains use alternate section names)
+WARN  Pre-built-Chains/transformation.md: chain card has no ## Step N sections (some chains use alternate section names)
+WARN  Pre-built-Chains/crawl-walk-run.md: chain card has no ## Step N sections (some chains use alternate section names)
+validate-cards: 263 cards, 3 warning(s), 0 error(s) (warn-only)

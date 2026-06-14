@@ -1,0 +1,2 @@
+Cards: 651 raw entries → manifest: 381 → merged: 381
+✓ reconcile-refs: card-derived bibliography matches merged manifest
