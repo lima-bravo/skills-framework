@@ -3,7 +3,7 @@ id: 107
 name: Divergent and Convergent Thinking
 category: General Thinking
 cardType: standard
-tagline: The two fundamental cognitive modes of innovation — generating many varied possibilities without judgment, then evaluating and selecting among them — which must be applied in sequence, not simultaneously.
+tagline: Generate, then judge — not both at once
 connections:
   - id: 110
     rationale: the empathize-define-ideate-prototype-test process is built on alternating divergent (ideation) and convergent (prototyping, testing) phases; divergent/convergent thinking is the underlying cognitive model.

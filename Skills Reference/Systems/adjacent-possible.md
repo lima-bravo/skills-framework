@@ -3,7 +3,7 @@ id: 109
 name: Adjacent Possible
 category: Systems
 cardType: standard
-tagline: At any moment, innovation can only move into the space of possibilities adjacent to what currently exists — each step opens new doors, but you cannot skip rooms.
+tagline: You can't skip rooms
 connections:
   - id: 102
     rationale: S-curves describe adoption trajectories once an innovation is accessible; the adjacent possible explains when and why an innovation first becomes accessible.

@@ -3,7 +3,7 @@ id: 106
 name: Analogical Reasoning
 category: General Thinking
 cardType: standard
-tagline: Recognizing structural similarities between different domains and importing solutions, mechanisms, or frameworks from one to solve problems in another.
+tagline: Borrow the structure, not the surface
 connections:
   - id: 0
     rationale: "first principles decomposes a problem to its foundations; analogical reasoning imports a solution framework from another domain. The two are complementary: first principles identifies what needs to be built; analogy identifies where it may already exist."

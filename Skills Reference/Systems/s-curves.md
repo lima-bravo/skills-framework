@@ -3,7 +3,7 @@ id: 102
 name: S-Curves
 category: Systems
 cardType: standard
-tagline: Growth that starts slow, accelerates, then decelerates as it approaches a ceiling — the universal pattern of adoption, learning, and development.
+tagline: Know where you are on the curve
 connections:
   - id: 37
     rationale: each creative destruction event is a moment where a new S-curve displaces the previous one; the two frameworks explain the same phenomenon at different levels of abstraction.

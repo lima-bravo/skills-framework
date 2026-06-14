@@ -3,7 +3,7 @@ id: 113
 name: Three Horizons
 category: Innovation & Entrepreneurship
 cardType: standard
-tagline: Managing innovation investment across three time horizons simultaneously — optimizing the core, building emerging businesses, and creating future options — each requiring a fundamentally different management logic.
+tagline: Each horizon needs its own logic
 connections:
   - id: 245
     rationale: Step 3A of this chain uses Three Horizons to classify ideas by horizon and check that the funnel's management logic matches before committing capacity
