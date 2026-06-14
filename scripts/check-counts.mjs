@@ -133,6 +133,12 @@ for (const [cat, n] of Object.entries(categoryCounts)) {
   A.push(['Skills Reference/training-guide.md', new RegExp(`\\| ${esc} \\| (\\d+) \\|`, 'g'), n]);
 }
 
+// docs/quick-reference.html — page-1 category headers (manual file; HTML escapes & as &amp;).
+for (const [cat, n] of Object.entries(categoryCounts)) {
+  const esc = cat.replace(/&/g, '&amp;').replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  A.push(['docs/quick-reference.html', new RegExp(`>${esc} &middot; (\\d+)<`, 'g'), n]);
+}
+
 function pluginCount(id) {
   const dir = path.join(PLUGINS, id, 'skills');
   if (!fs.existsSync(dir)) return null;
