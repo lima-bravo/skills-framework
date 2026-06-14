@@ -3,7 +3,7 @@ id: 95
 name: Market Entry
 category: Pre-built Chains
 cardType: chain
-tagline: Market Entry
+tagline: Define the beachhead and validate the assumptions before you commit resources
 ---
 
 # Market Entry

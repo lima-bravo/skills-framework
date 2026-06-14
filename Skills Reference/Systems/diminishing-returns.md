@@ -53,7 +53,7 @@ Every resource allocation problem involves an implicit curve: marginal benefit v
 
 ## Practitioner Heuristics
 
-- **Never evaluate investments in aggregate; evaluate them at the margin.** The question is not "has advertizing produced good ROI so far?" but "will the next £1 of advertizing produce an acceptable return?" These are often very different questions.
+- **Never evaluate investments in aggregate; evaluate them at the margin.** The question is not "has advertising produced good ROI so far?" but "will the next £1 of advertising produce an acceptable return?" These are often very different questions.
 - **Map your diminishing returns curves explicitly.** For key investment areas — marketing spend, headcount, feature investment — try to empirically estimate where marginal returns begin to fall. This is the point at which reallocation becomes attractive.
 - **Look for increasing returns as a counterpoint.** Before assuming diminishing returns, check whether the system might have superlinear properties (network effects, learning curves, scale advantages). Some curves are U-shaped: decreasing returns at low scale, increasing returns in the middle, decreasing again at very high scale.
 - **Use the concept to justify stopping.** Organizations have a strong bias toward continuation. Diminishing returns provides principled justification for stopping an investment that is still "working" — because its marginal contribution is now below the hurdle rate.

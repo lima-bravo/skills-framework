@@ -3,7 +3,7 @@ id: 99
 name: Should I Quit
 category: Pre-built Chains
 cardType: chain
-tagline: Should I Quit
+tagline: "Strip the sunk cost, map the forward paths — past investment is not a reason to stay"
 ---
 
 # Should I Quit

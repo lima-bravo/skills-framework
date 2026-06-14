@@ -81,7 +81,7 @@ Understanding feedback is understanding why systems behave the way they do over 
 
 ## Mental Model
 
-Draw the causal arrows: what does this output affect? Does the effect circle back to the original variable, and in what direction? A reinforcing loop looks like a cycle of arrows all pointing the same direction; a balancing loop has at least one arrow pointing against the others. The practitioner's insight is that **most surprizing system behavior comes from feedback loops that weren't on the diagram** — effects that were assumed to be one-way but actually circle back.
+Draw the causal arrows: what does this output affect? Does the effect circle back to the original variable, and in what direction? A reinforcing loop looks like a cycle of arrows all pointing the same direction; a balancing loop has at least one arrow pointing against the others. The practitioner's insight is that **most surprising system behavior comes from feedback loops that weren't on the diagram** — effects that were assumed to be one-way but actually circle back.
 
 ---
 

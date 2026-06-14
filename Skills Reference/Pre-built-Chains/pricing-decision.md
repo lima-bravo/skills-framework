@@ -3,7 +3,7 @@ id: 94
 name: Pricing Decision
 category: Pre-built Chains
 cardType: chain
-tagline: Pricing Decision
+tagline: "A price is a claim about value — test it before you commit to it"
 ---
 
 # Pricing Decision

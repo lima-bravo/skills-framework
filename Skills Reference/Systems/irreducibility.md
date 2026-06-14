@@ -40,7 +40,7 @@ The practitioner's skill is distinguishing genuinely irreducible complexity from
 
 ## Mental Model
 
-There are two sources of complexity in any system: **accidental complexity** (complexity arizing from implementation choices, historical accidents, poor design — it can be reduced) and **essential complexity** (complexity inherent to the problem domain — it cannot be reduced without changing what you're solving). Most of the complexity in real organizations, software systems, and markets is a mixture of both. The practitioner identifies which is which and attacks the accidental, while building systems capable of handling the essential.
+There are two sources of complexity in any system: **accidental complexity** (complexity arising from implementation choices, historical accidents, poor design — it can be reduced) and **essential complexity** (complexity inherent to the problem domain — it cannot be reduced without changing what you're solving). Most of the complexity in real organizations, software systems, and markets is a mixture of both. The practitioner identifies which is which and attacks the accidental, while building systems capable of handling the essential.
 
 ---
 

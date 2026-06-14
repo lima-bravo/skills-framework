@@ -3,7 +3,7 @@ id: 100
 name: Life Decision
 category: Pre-built Chains
 cardType: chain
-tagline: Life Decision
+tagline: Clarify values before evaluating options — the decision usually follows from that
 ---
 
 # Life Decision

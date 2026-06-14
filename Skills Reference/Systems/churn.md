@@ -64,7 +64,7 @@ Think of a leaking bucket. You are pouring water in (acquisition) while it leaks
 
 ## Worked Example
 
-A B2B SaaS company reports 92% annual gross retention — excellent by industry standards. But a cohort analysis reveals that enterprise customers (ACV >£50k) have 97% retention, while SMB customers (ACV <£5k) have 78% retention. The SMB segment is unprofitable on a fully-loaded basis including churn-driven CAC inefficiency. The aggregate number looked good, disguizing a clear strategic signal: either fix SMB retention specifically or exit that segment.
+A B2B SaaS company reports 92% annual gross retention — excellent by industry standards. But a cohort analysis reveals that enterprise customers (ACV >£50k) have 97% retention, while SMB customers (ACV <£5k) have 78% retention. The SMB segment is unprofitable on a fully-loaded basis including churn-driven CAC inefficiency. The aggregate number looked good, disguising a clear strategic signal: either fix SMB retention specifically or exit that segment.
 
 ---
 

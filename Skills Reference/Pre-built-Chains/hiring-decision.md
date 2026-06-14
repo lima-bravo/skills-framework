@@ -3,7 +3,7 @@ id: 96
 name: Hiring Decision
 category: Pre-built Chains
 cardType: chain
-tagline: Hiring Decision
+tagline: Most bad hires are bad definitions — clarify the role before you evaluate the person
 connections:
   - id: 244
     rationale: Organisational Degradation Scan feeds into this chain when Peter Principle accumulation is the primary mechanism and role redesign or replacement is indicated

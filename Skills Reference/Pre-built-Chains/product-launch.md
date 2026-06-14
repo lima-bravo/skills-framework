@@ -3,7 +3,7 @@ id: 97
 name: Product Launch
 category: Pre-built Chains
 cardType: chain
-tagline: Product Launch
+tagline: PMF before announcement — assumption-mapped, constraint-identified, and measured from day one
 ---
 
 # Product Launch

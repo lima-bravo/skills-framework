@@ -3,7 +3,7 @@ id: 98
 name: Investment Decision
 category: Pre-built Chains
 cardType: chain
-tagline: Investment Decision
+tagline: "Price is not value — the gap between them is the margin of safety"
 ---
 
 # Investment Decision

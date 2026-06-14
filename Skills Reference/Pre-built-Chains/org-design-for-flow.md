@@ -3,7 +3,7 @@ id: 169
 name: Org Design for Flow Diagnostic
 category: Pre-built Chains
 cardType: chain
-tagline: Org Design for Flow Diagnostic
+tagline: "Your org chart is your architecture — design for flow deliberately or inherit what you have"
 connections:
   - id: 244
     rationale: Organisational Degradation Scan feeds into this chain when Conway's Law is identified as the primary degradation mechanism
