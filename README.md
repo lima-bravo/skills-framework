@@ -4,6 +4,8 @@
 
 A mental-models framework with a publishable **reference website** (`docs/`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **267 skills** across **16 categories** (source of truth: `skills-manifest.json`).
 
+**Systems-thinking coverage** spans the three traditions a practitioner actually draws on: system **dynamics** — feedback loops, emergence, equilibrium, and the recurring [System Archetypes](Skills%20Reference/Systems/system-archetypes.md) (Meadows/Senge); **soft systems** — Checkland's [CATWOE](Skills%20Reference/Systems/catwoe.md) for agreeing what a contested system is *for* before redesigning it; and **regulation** — Ashby & Beer's [Requisite Variety](Skills%20Reference/Systems/requisite-variety.md), the cybernetic law as a thinking mode. The [DRRT chain](Skills%20Reference/Pre-built-Chains/drrt-systems-analysis.md) composes them into one analysis loop — Deconstruct → Relationships → Recognise → Test.
+
 ## Where to start
 
 **If you have a specific problem or situation** → open [`docs/situation-finder.html`](docs/situation-finder.html). 62 first-person situations with keyword search, each mapped to curated skills and relevant chains. Source: `Skills Reference/situations.json`. This is the recommended entry point.
