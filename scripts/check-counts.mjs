@@ -37,6 +37,12 @@ const nonChainCards = totalSkills - chains;
 const nonChainCategories = categories - 1; // every category except Pre-built Chains
 const refs = manifest.refs.length;
 
+// per-category counts (for the training-guide category table)
+const categoryCounts = {};
+for (const v of Object.values(manifest.skills)) {
+  categoryCounts[v.category] = (categoryCounts[v.category] || 0) + 1;
+}
+
 // connections: read from the generated graph (authoritative, always fresh)
 let connections = null;
 const graphPath = path.join(ROOT, 'docs', 'graph.html');
@@ -119,6 +125,13 @@ const A = [
   ['docs/index.html', /stat-n">(\d+)<\/span><div class="stat-l">Sources &amp; References/g, refs],
 
 ];
+
+// Skills Reference/training-guide.md — category table: one row per manifest category.
+// These per-category counts are NOT otherwise guarded and drifted silently before.
+for (const [cat, n] of Object.entries(categoryCounts)) {
+  const esc = cat.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  A.push(['Skills Reference/training-guide.md', new RegExp(`\\| ${esc} \\| (\\d+) \\|`, 'g'), n]);
+}
 
 function pluginCount(id) {
   const dir = path.join(PLUGINS, id, 'skills');
