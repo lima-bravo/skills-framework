@@ -37,7 +37,7 @@ A "feature factory" — coined by John Cutler in 2016 — is an organization tha
 
 ## Mental Model
 
-Two restaurants. One measures performance by meals served, dishes prepped, and kitchen activity. The other measures by repeat customers, table satisfaction, and food returned uneaten. The first is busy; the second is improving. The first looks productive on paper; the second has the metrics that matter. The same dichotomy in software: a feature-factory metric stack tracks velocity, story points, and shipped features; a product-oriented stack tracks activation, retention, customer outcomes, and cost-of-delay realization. Cutler's diagnostic checklist (no time spent measuring outcomes, no kills, no learning from launches, success = shipped) makes the distinction operationally visible.
+Two people follow training plans. One measures success by activity — workouts logged, miles run, hours under the bar — and by that scoreboard never misses a day. The other measures by adaptation — strength gained, race times improved, the event actually finished — and treats the training as a means to that end, changing the plan when the numbers don't move. The first looks disciplined on paper; the second is the one actually getting fitter. The same dichotomy in software: a feature-factory metric stack tracks velocity, story points, and shipped features; a product-oriented stack tracks activation, retention, customer outcomes, and cost-of-delay realization. Cutler's diagnostic checklist (no time spent measuring outcomes, no kills, no learning from launches, success = shipped) makes the distinction operationally visible.
 
 ---
 
