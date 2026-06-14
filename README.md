@@ -6,7 +6,7 @@ A mental-models framework with a publishable **reference website** (`docs/`), pe
 
 ## Where to start
 
-**If you have a specific problem or situation** → open [`docs/situation-finder.html`](docs/situation-finder.html). 60 first-person situations with keyword search, each mapped to curated skills and relevant chains. Source: `Skills Reference/situations.json`. This is the recommended entry point.
+**If you have a specific problem or situation** → open [`docs/situation-finder.html`](docs/situation-finder.html). 62 first-person situations with keyword search, each mapped to curated skills and relevant chains. Source: `Skills Reference/situations.json`. This is the recommended entry point.
 
 **If you're scanning a business across multiple dimensions** → open [`docs/executive-scan.html`](docs/executive-scan.html). Ten business lenses (strategy, portfolio economics, delivery, culture, metric integrity, innovation, incentives, risk, AI exposure, operating model), each with starter skills and diagnostic questions to ask.
 
