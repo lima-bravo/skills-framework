@@ -21,6 +21,8 @@ connections:
     rationale: McClelland's Achievement, Affiliation, and Power needs are dispositional preferences; SDT's three needs are universal requirements. Both are needed for a complete motivational picture
   - id: 262
     rationale: self-determination theory defines the intrinsic motivation boundary that extrinsic incentive structures must work within or risk crowding out
+  - id: 60
+    rationale: Max-Neef catalogues nine universal needs; SDT isolates the three (autonomy, competence, relatedness) that empirically drive intrinsic motivation and adds the crowding-out mechanism a need taxonomy doesn't capture
 references:
   - title: Self-Determination and Intrinsic Motivation in Human Behavior
     authorYear: Edward L. Deci & Richard M. Ryan (1985)
@@ -86,6 +88,8 @@ This has significant implications for incentive design. Bonuses, gamification, a
 ## Mental Model
 
 Think of intrinsic motivation as a fire that burns on its own once lit, but requires three types of air to keep burning: autonomy (the fire chooses its own direction), competence (the fuel is the right size — not too wet, not too small), and relatedness (the fire is part of something — a hearth, a signal, a forge). External rewards are accelerant: useful for starting a fire that isn't burning, but if applied to a fire that's already going, they consume the oxygen and leave behind a dependency on accelerant.
+
+**Choosing within the motivation cluster:** reach for SDT when the question is *intrinsic motivation and whether rewards are helping or harming* — autonomy, competence, relatedness, and the crowding-out effect; it is the default lens for creative and knowledge work. For a quick read on dominant unmet needs use [Maslow](maslows-hierarchy-of-needs.md); for individual disposition use [McClelland](mcclellands-acquired-needs-theory.md).
 
 ---
 

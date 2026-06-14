@@ -41,6 +41,8 @@ Abraham Maslow's 1943 hierarchy of needs proposes that human motivation is struc
 
 People are motivated by needs that are *unmet*, not by needs that are *present*. A person whose safety is insecure cannot meaningfully focus on esteem or self-actualization — the hierarchy is not aspirational but diagnostic. The practitioner's question is: "Where in the hierarchy is this person's attention currently focused?" — not "where would we like it to be?" Designing incentive structures, leadership approaches, and organizational cultures requires an accurate read on where people actually are, not where a well-provided-for leadership team assumes everyone to be.
 
+**Choosing within the motivation cluster:** reach for Maslow when you need a fast read on *which level of unmet need is dominating attention right now* — especially whether safety is threatened before you invest in belonging or purpose. For individual disposition use [McClelland](mcclellands-acquired-needs-theory.md); for designing intrinsic motivation use [Self-Determination Theory](self-determination-theory.md).
+
 ---
 
 ## Practitioner Heuristics

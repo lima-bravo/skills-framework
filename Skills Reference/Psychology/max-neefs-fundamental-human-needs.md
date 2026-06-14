@@ -11,6 +11,10 @@ connections:
     rationale: "Max-Neef is a non-hierarchical complement: where Maslow sequences needs, Max-Neef treats all nine as equally fundamental."
   - id: 51
     rationale: "the satisfier-need distinction is the most important refinement to incentive design: ensure your incentives meet actual needs, not just their most obvious satisfiers."
+  - id: 61
+    rationale: "both are non-hierarchical revisions of Maslow: ERG compresses to three levels and adds frustration-regression, where Max-Neef expands to nine universal needs and the need/satisfier distinction ERG lacks."
+  - id: 192
+    rationale: Max-Neef catalogues nine universal needs; SDT isolates the three (autonomy, competence, relatedness) that empirically drive intrinsic motivation and specifies the mechanism — meeting them produces motivation — that a static taxonomy doesn't address.
 references:
   - title: "Human Scale Development: Conception, Application and Further Reflections"
     authorYear: Manfred Max-Neef (1991)
@@ -31,6 +35,8 @@ Manfred Max-Neef's Fundamental Human Needs framework (1991) proposes that all hu
 ## Mental Model
 
 The crucial distinction is between **needs** (constant, universal) and **satisfiers** (variable, context-dependent). Money is not a need — it is a potential satisfier of multiple needs (subsistence, protection). A job is not a need — it can satisfy creation, identity, participation, and subsistence simultaneously, or it can violate some of them (a dehumanizing job that satisfies subsistence while destroying identity). **Pseudo-satisfiers** appear to meet a need but don't; **synergic satisfiers** genuinely meet multiple needs simultaneously. This distinction is the most practically valuable insight in the framework.
+
+**Choosing within the motivation cluster:** reach for Max-Neef when *more pay or perks isn't working* and you need to separate a fundamental need from its satisfier to find what is actually unmet or being violated. For individual variation in which needs dominate use [McClelland](mcclellands-acquired-needs-theory.md); for the specific dynamics of intrinsic motivation use [Self-Determination Theory](self-determination-theory.md).
 
 ---
 

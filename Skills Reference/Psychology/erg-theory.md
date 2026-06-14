@@ -13,6 +13,8 @@ connections:
     rationale: McClelland identifies which of these need domains is dominant for a given person; ERG describes the dynamics when any level is blocked.
   - id: 192
     rationale: SDT's Relatedness and Competence needs map onto ERG's corresponding levels; SDT adds the autonomy dimension and the internalisation continuum ERG lacks.
+  - id: 60
+    rationale: "both are non-hierarchical revisions of Maslow: Max-Neef expands to nine universal needs plus the need/satisfier distinction, where ERG compresses to three and adds the frustration-regression dynamic Max-Neef's static taxonomy lacks."
 references:
   - title: "Existence, Relatedness, and Growth: Human Needs in Organizational Settings"
     authorYear: Clayton P. Alderfer (1972)
@@ -33,6 +35,8 @@ Clayton Alderfer's ERG Theory (1969) is a revision of Maslow's hierarchy that co
 ## Mental Model
 
 ERG theory is more empirically grounded than Maslow in two important ways. The frustration-regression principle is diagnostically powerful: an employee who is frustrated in their attempts to grow (blocked from promotion, from creative work, from learning) will invest more energy in Relatedness needs (relationships, belonging) or Existence needs (pay, security) — not because those are more important but because they are more attainable. This explains observable behavior that Maslow's strict hierarchy cannot: people who seem focused on compensation ("Existence") despite having growth opportunities may be frustrated at the growth level and regressing.
+
+**Choosing within the motivation cluster:** reach for ERG when someone's focus has shifted *down* toward pay or security and you suspect a higher need is blocked — its frustration-regression lens is unique in the cluster. For where the unmet need sits use [Maslow](maslows-hierarchy-of-needs.md); for what a reward does to intrinsic drive use [Self-Determination Theory](self-determination-theory.md).
 
 ---
 

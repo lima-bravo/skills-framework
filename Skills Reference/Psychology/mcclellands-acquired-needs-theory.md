@@ -39,6 +39,8 @@ David McClelland's Acquired Needs Theory (1961) proposes that adults develop thr
 
 Every person has all three needs to some degree, but one or two typically dominate. The high-nAch person is most motivated by challenging goals, performance feedback, and personal agency. The high-nPow (social) person is motivated by leadership, influence, and systemic impact. The high-nAff person is most motivated by collaborative environments, relationships, and belonging. The practitioner's use: diagnosing dominant motivational need allows the calibration of management approach, role design, and team composition.
 
+**Choosing within the motivation cluster:** reach for McClelland when matching a *specific person* to a role or composing a team — it is about individual disposition (achievement, power, affiliation), not universal needs. For the universal set those dispositions draw from use [Max-Neef](max-neefs-fundamental-human-needs.md); for what happens when a dominant need is blocked use [ERG](erg-theory.md).
+
 ---
 
 ## Practitioner Heuristics
