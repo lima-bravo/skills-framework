@@ -86,13 +86,9 @@ Imagine estimating the height of a stranger approaching from a distance, before 
 
 ## Worked Example
 
-A management team is evaluating a major ERP implementation. The internal team estimates 18 months and £4M. The logic is coherent: scope is clear, vendor is experienced, internal team is capable, executive sponsor is engaged.
+An investment committee reviews a seed-stage startup: a magnetic repeat founder, a large and fast-growing market, an impressive early-access waitlist, and a polished demo. Every specific signal is positive, and the room's instinct is that this one is different. What no one states is the base rate — across seed-stage software startups, the large majority return less than the capital invested and only a small fraction produce venture-scale returns. The vivid, representative case has crowded out the prior.
 
-A reference class analysis asks: what is the typical outcome for ERP implementations of this scale in organisations of this type? The answer from research (Bent Flyvbjerg's dataset and industry studies): large ERP implementations average 30–40% cost overrun and 50–60% schedule overrun. Success rates (on-time, on-budget, full scope delivered) are under 30%.
-
-The reference class estimate: 27 months, £5.5M — before any specific assessment of this particular implementation. The team's 18-month, £4M estimate implicitly assumed this implementation would be in the top quartile of historical performance. That assumption needs to be justified, not assumed.
-
-Armed with the base rate, the team can ask the right question: what specific features of this implementation justify placing it in the top quartile? The conversation is now anchored to evidence rather than optimism.
+A base-rate-anchored committee reasons the other way around: start from "most seed bets lose money," then ask which specific features genuinely move this one off that prior, and by how much. The founder's track record may justify a real upward adjustment — but it is an adjustment from a low base rate, not a replacement of it. The discipline doesn't make the team more pessimistic; it makes them precise about exactly how much the vivid specifics are worth. The same correction applies wherever a compelling individual case invites you to forget the distribution it came from — a "can't-miss" hire, a "sure-thing" product launch, a "this market is different" expansion.
 
 ---
 
