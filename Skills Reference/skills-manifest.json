@@ -1885,6 +1885,14 @@
       "file": "Skills Reference/Pre-built-Chains/drrt-systems-analysis.md",
       "color": "#B45309",
       "cardType": "chain"
+    },
+    "Systems/requisite-variety.md": {
+      "id": 267,
+      "name": "Requisite Variety",
+      "category": "Systems",
+      "file": "Skills Reference/Systems/requisite-variety.md",
+      "color": "#0D9488",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -2286,6 +2294,17 @@
       ]
     },
     {
+      "title": "An Introduction to Cybernetics",
+      "authorYear": "W. Ross Ashby (1956)",
+      "skills": [
+        {
+          "id": 267,
+          "name": "Requisite Variety",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
       "title": "An Introduction to General Systems Thinking",
       "authorYear": "Gerald M. Weinberg (1975)",
       "skills": [
@@ -2456,6 +2475,17 @@
           "id": 119,
           "name": "OODA Loop",
           "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "Brain of the Firm",
+      "authorYear": "Stafford Beer (1972)",
+      "skills": [
+        {
+          "id": 267,
+          "name": "Requisite Variety",
+          "color": "#0D9488"
         }
       ]
     },

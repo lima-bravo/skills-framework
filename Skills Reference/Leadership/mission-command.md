@@ -15,6 +15,8 @@ connections:
     rationale: requires delegated accountability; mission command is the cultural infrastructure
   - id: 257
     rationale: effective mission command requires a team small enough for shared understanding of intent; groups larger than Dunbar's 15 cannot maintain the mutual context that autonomous action requires.
+  - id: 267
+    rationale: mission command is variety amplification in practice — pushing the response repertoire to the person closest to the local variety rather than holding it at a centre that cannot match it.
   - id: 258
     rationale: "mission command and coaching stance share the same underlying belief: those closest to the problem have better information than the center, and the center's job is to enable their judgment, not replace it."
   - id: 127

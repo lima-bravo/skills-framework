@@ -8,6 +8,7 @@
 | Problem recurs despite repeated fixes | 264·System Archetypes → 171·Causal Analysis → 260·Fixes That Fail |
 | Messy problem, stakeholders disagree what it even is | 265·CATWOE → 246·Situation Assessment → 122·Cynefin Framework |
 | System misbehaving — analyse the structure before fixing | Chain 266·DRRT Systems Analysis (Deconstruct → Relationships → Recognise → Test) |
+| Rule/process keeps failing on exceptions | 267·Requisite Variety → 118·Mission Command → 122·Cynefin Framework |
 | Forecast feels optimistic | 206·Base Rate Neglect → 160·Reference Class Forecasting → 115·Planning Fallacy |
 | Belief needs stress-testing | 223·Steelmanning → 204·Falsification → 224·Red Teaming |
 | Plan needs adversarial challenge | 10·Pre-mortem → 224·Red Teaming → 204·Falsification |

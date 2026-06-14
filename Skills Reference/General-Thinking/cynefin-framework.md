@@ -23,6 +23,8 @@ connections:
     rationale: 'classifying the domain is itself part of the diagnostic move: a "current-state" question can be Complicated (analysable, as in the worked example) or Complex (requiring probes before any diagnosis can be trusted), and a fact base should say which'
   - id: 265
     rationale: CATWOE is the soft-systems tool for the Complex, contested domain where the problem definition itself is disputed and a single agreed root definition does not yet exist.
+  - id: 267
+    rationale: a domain's variety sets the response mode requisite variety demands — a Complex domain carries more variety than fixed best practice can absorb, forcing probe-sense-respond.
   - id: 171
     rationale: "Cynefin identifies which causal mode is appropriate: Complicated domains suit 5 Whys or fishbone; Complex domains require causal loop analysis because the cause-and-effect relationship is a feedback structure, not a chain."
   - id: 188

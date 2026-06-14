@@ -1,6 +1,6 @@
 {
-  "skillCount": 266,
-  "connectionLines": 2216,
+  "skillCount": 267,
+  "connectionLines": 2226,
   "sectionCounts": {
     "0": 7,
     "1": 7,
@@ -267,8 +267,9 @@
     "263": 7,
     "264": 7,
     "265": 7,
-    "266": 6
+    "266": 6,
+    "267": 7
   },
-  "graphSkillLinks": 1130,
-  "graphNodes": 651
+  "graphSkillLinks": 1137,
+  "graphNodes": 654
 }
