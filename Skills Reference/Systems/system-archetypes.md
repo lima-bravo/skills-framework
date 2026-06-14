@@ -31,6 +31,8 @@ connections:
     rationale: Success-to-the-Successful locks in through path dependence; early advantage becomes structural rather than meritocratic.
   - id: 176
     rationale: the Growth and Underinvestment archetype is chronic under-resourcing of the capacity growth depends on; slack is the buffer whose absence triggers it.
+  - id: 266
+    rationale: the DRRT chain's Recognise step runs on this archetype library; DRRT is the end-to-end procedure that produces the mapped structure an archetype match needs.
 references:
   - title: "The Fifth Discipline: The Art and Practice of the Learning Organization"
     authorYear: Peter M. Senge (1990; 2nd ed. 2006)

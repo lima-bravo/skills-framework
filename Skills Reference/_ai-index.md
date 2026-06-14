@@ -1,10 +1,10 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-06-14 | 265 skills | 16 categories | 1127 graph connections -->
+<!-- Last updated: 2026-06-14 | 266 skills | 16 categories | 1130 graph connections -->
 
 ## What this framework is
 
-A library of mental model cards, each as a standalone markdown file. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 21 cards are pre-built chains (multi-model reasoning sequences for specific decisions.
+A library of mental model cards, each as a standalone markdown file. Cards follow a fixed 6-section structure (Definition · Mental Model · Practitioner Heuristics · Common Failure Modes · Worked Example · Connections). Skills connect to each other via the Connections section and a pre-computed graph. 22 cards are pre-built chains (multi-model reasoning sequences for specific decisions.
 
 **Primary use:** Surface the right model(s) for a situation, then apply structured reasoning through heuristics and failure modes.
 
@@ -77,8 +77,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Consulting Craft (10 skills) — #7C3AED
 `161·Hypothesis-Driven Consulting` `162·MECE` `163·Pyramid Principle` `164·Engagement Lifecycle` `165·Contracting & Scope` `246·Situation Assessment` `252·Stakeholder Pre-Wiring` `253·Structured Problem Solving` `258·Coaching Stance` `259·Facilitation`
 
-### Pre-built Chains (21 skills) — #B45309
-`94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run` `244·Organisational Degradation Scan` `245·Funnel Intake`
+### Pre-built Chains (22 skills) — #B45309
+`94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run` `244·Organisational Degradation Scan` `245·Funnel Intake` `266·DRRT Systems Analysis`
 
 ### Leadership (17 skills) — #1E40AF
 `118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building` `242·Peter Principle` `257·Span of Control`
@@ -95,6 +95,7 @@ Format: `id·Name` — file at `Category/filename.md`
 | System is quietly degrading | 208·Drift to Failure → 120·Goodhart's Law → 197·Tactical Pause |
 | Problem recurs despite repeated fixes | 264·System Archetypes → 171·Causal Analysis → 260·Fixes That Fail |
 | Messy problem, stakeholders disagree what it even is | 265·CATWOE → 246·Situation Assessment → 122·Cynefin Framework |
+| System misbehaving — analyse the structure before fixing | Chain 266·DRRT Systems Analysis (Deconstruct → Relationships → Recognise → Test) |
 | Forecast feels optimistic | 206·Base Rate Neglect → 160·Reference Class Forecasting → 115·Planning Fallacy |
 | Belief needs stress-testing | 223·Steelmanning → 204·Falsification → 224·Red Teaming |
 | Plan needs adversarial challenge | 10·Pre-mortem → 224·Red Teaming → 204·Falsification |
@@ -132,4 +133,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 265 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 266 skills · 16 categories · `skills-manifest.json` is authoritative*

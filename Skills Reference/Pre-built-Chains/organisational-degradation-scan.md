@@ -7,6 +7,8 @@ tagline: Diagnose why the organisation is getting worse before prescribing how t
 connections:
   - id: 208
     rationale: the universal precondition for organisational degradation; the point at which standards erode without conscious decision.
+  - id: 266
+    rationale: a sibling systems-diagnosis chain — where this scan hunts specific degradation mechanisms, DRRT is the general-purpose loop for deconstructing and mapping any system from scratch before recognising its pattern.
   - id: 243
     rationale: the scale threshold at which relational coordination breaks; crossing it without redesigning coordination is a primary degradation trigger.
   - id: 241

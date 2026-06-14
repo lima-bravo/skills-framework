@@ -1877,6 +1877,14 @@
       "file": "Skills Reference/Systems/catwoe.md",
       "color": "#0D9488",
       "cardType": "standard"
+    },
+    "Pre-built-Chains/drrt-systems-analysis.md": {
+      "id": 266,
+      "name": "DRRT Systems Analysis",
+      "category": "Pre-built Chains",
+      "file": "Skills Reference/Pre-built-Chains/drrt-systems-analysis.md",
+      "color": "#B45309",
+      "cardType": "chain"
     }
   },
   "refs": [

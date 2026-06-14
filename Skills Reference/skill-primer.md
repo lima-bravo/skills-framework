@@ -56,10 +56,10 @@ Mental models become useful tools when they connect to real situations. The firs
 
 ## If you want to go deeper
 
-The card is one of 265 in a framework organized across 16 categories: General Thinking, Systems, Economics, Psychology, Innovation, Strategy, Delivery, AI Governance, and more. The cards connect to each other — each one's Connections section maps to the models that amplify or check it.
+The card is one of 266 in a framework organized across 16 categories: General Thinking, Systems, Economics, Psychology, Innovation, Strategy, Delivery, AI Governance, and more. The cards connect to each other — each one's Connections section maps to the models that amplify or check it.
 
 If you found the card useful and want to explore further, the card deck (`index.html`) is searchable and filterable. The **training guide** (`training-guide.md`) explains how to use the full framework, including how to chain models together for complex problems.
 
 ---
 
-*Part of the Skills Framework · 265 skills across 16 categories*
+*Part of the Skills Framework · 266 skills across 16 categories*
