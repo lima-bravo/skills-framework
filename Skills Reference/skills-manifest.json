@@ -1869,6 +1869,14 @@
       "file": "Skills Reference/Systems/system-archetypes.md",
       "color": "#0D9488",
       "cardType": "standard"
+    },
+    "Systems/catwoe.md": {
+      "id": 265,
+      "name": "CATWOE",
+      "category": "Systems",
+      "file": "Skills Reference/Systems/catwoe.md",
+      "color": "#0D9488",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -5045,6 +5053,17 @@
       ]
     },
     {
+      "title": "Soft Systems Methodology in Action",
+      "authorYear": "Peter Checkland & Jim Scholes (1990)",
+      "skills": [
+        {
+          "id": 265,
+          "name": "CATWOE",
+          "color": "#0D9488"
+        }
+      ]
+    },
+    {
       "title": "Sources of Power: How People Make Decisions",
       "authorYear": "Gary Klein (1998)",
       "skills": [
@@ -5197,6 +5216,17 @@
           "id": 234,
           "name": "Overton Window",
           "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Systems Thinking, Systems Practice",
+      "authorYear": "Peter Checkland (1981; rev. 1999)",
+      "skills": [
+        {
+          "id": 265,
+          "name": "CATWOE",
+          "color": "#0D9488"
         }
       ]
     },

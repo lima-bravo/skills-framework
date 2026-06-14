@@ -7,6 +7,8 @@ tagline: "Inputs → Activities → Outputs → Outcomes → Impact: make the ca
 connections:
   - id: 0
     rationale: forces the question of why each causal link is expected to hold
+  - id: 265
+    rationale: CATWOE defines the system — and whose worldview it serves — that a theory of change then builds a causal pathway through; agree the transformation before mapping the change.
   - id: 10
     rationale: stress-tests which assumptions are most likely to fail
   - id: 72

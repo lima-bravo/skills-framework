@@ -1,6 +1,6 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-06-14 | 264 skills | 16 categories | 1118 graph connections -->
+<!-- Last updated: 2026-06-14 | 265 skills | 16 categories | 1127 graph connections -->
 
 ## What this framework is
 
@@ -41,8 +41,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### General Thinking (29 skills) — #3B82F6
 `0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry / Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning` `226·Grice's Maxims` `234·Overton Window` `240·Black Swan` `263·Delete Before You Optimise`
 
-### Systems (22 skills) — #0D9488
-`17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure` `235·Path Dependence` `243·Dunbar's Number` `260·Fixes That Fail` `261·Systems Thinking` `264·System Archetypes`
+### Systems (23 skills) — #0D9488
+`17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure` `235·Path Dependence` `243·Dunbar's Number` `260·Fixes That Fail` `261·Systems Thinking` `264·System Archetypes` `265·CATWOE`
 
 ### Economics (22 skills) — #16A34A
 `30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture` `229·Nash Equilibrium` `230·Prisoner's Dilemma` `231·Tragedy of the Commons` `232·Free Rider Problem` `236·Schelling Points` `239·Long Tail` `262·Incentive Design`
@@ -94,6 +94,7 @@ Format: `id·Name` — file at `Category/filename.md`
 | Post-mortem / learning review | 196·After-Action Review → 201·Hindsight Bias → 200·FAE → 207·SRK Framework |
 | System is quietly degrading | 208·Drift to Failure → 120·Goodhart's Law → 197·Tactical Pause |
 | Problem recurs despite repeated fixes | 264·System Archetypes → 171·Causal Analysis → 260·Fixes That Fail |
+| Messy problem, stakeholders disagree what it even is | 265·CATWOE → 246·Situation Assessment → 122·Cynefin Framework |
 | Forecast feels optimistic | 206·Base Rate Neglect → 160·Reference Class Forecasting → 115·Planning Fallacy |
 | Belief needs stress-testing | 223·Steelmanning → 204·Falsification → 224·Red Teaming |
 | Plan needs adversarial challenge | 10·Pre-mortem → 224·Red Teaming → 204·Falsification |
@@ -131,4 +132,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 264 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 265 skills · 16 categories · `skills-manifest.json` is authoritative*

@@ -11,6 +11,8 @@ connections:
     rationale: the six-lens scan is only useful if the lenses are exhaustive and non-overlapping; a current-state view organized around overlapping categories hides where the real issue sits.
   - id: 122
     rationale: 'situation assessment is also an act of classification: a "stalled growth" situation may be complicated (analyzable, as in the worked example) or complex (requiring probes before any diagnosis can be trusted).'
+  - id: 265
+    rationale: when a situation is contested because stakeholders mean different things by "the system," CATWOE writes a root definition per worldview to surface the disagreement the fact base alone can miss.
   - id: 247
     rationale: when the situation assessment surfaces a growth problem specifically, this is the card that takes the diagnosis from "growth has stalled" to "here is the binding constraint."
   - id: 211

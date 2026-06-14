@@ -13,6 +13,8 @@ connections:
     rationale: "the archetype systems thinking makes visible: symptomatic fixes that leave the generating structure intact"
   - id: 264
     rationale: the archetypes are systems thinking's pattern library — the recurring loop structures the discipline trains you to recognise; this card teaches the elements, that card catalogues their common assemblies.
+  - id: 265
+    rationale: CATWOE is the soft-systems complement — it questions what the system is and whose worldview defines it, the definitional work that precedes analysing a system's dynamics.
   - id: 208
     rationale: drift is invisible at the component level; only visible as a system-level trajectory over time
   - id: 235

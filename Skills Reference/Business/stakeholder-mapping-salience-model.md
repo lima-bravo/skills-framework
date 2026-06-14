@@ -7,6 +7,8 @@ tagline: Know who matters, how much, and why
 connections:
   - id: 220
     rationale: "stakeholder mapping analyses interests and salience; power mapping analyses influence structure. Use both: this card for prioritisation, power mapping for understanding how stakeholders relate to each other and who the real decision-makers are."
+  - id: 265
+    rationale: CATWOE gives stakeholders functional positions inside a system definition — Customers (affected), Actors (do the work), Owner (can stop it) — turning a salience list into roles in what the system is for.
   - id: 51
     rationale: stakeholder salience is determined partly by incentive alignment. High-power stakeholders whose incentives are aligned need less intensive management than those whose incentives are misaligned.
   - id: 2
