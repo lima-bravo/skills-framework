@@ -142,7 +142,7 @@ The reason for batching steps 7–8 is that both files are *views* that benefit 
 | `Skills Reference/_ai-index.md` | ✅ auto — from preamble, clusters, manifest |
 | `docs/training-guide.html` | ✅ auto — rendered from `training-guide.md` |
 | `docs/skill-primer.html` | ✅ auto — rendered from `skill-primer.md` |
-| `docs/index.html` | ❌ manual (count) — update Mental Models, Pre-built Chains, Graph Connections stats and matching prose |
+| `docs/index.html` | ❌ manual edit, ✅ count-guarded — hand-edit the five stat tiles (Mental Models, Categories, Pre-built Chains, Graph Connections, Sources & References); `check:counts` now asserts all five against the manifest |
 | `docs/quick-reference.html` | ❌ manual — update by hand |
 | `Skills Reference/skill-primer.md` | ❌ manual (count) — update "one of N" and footer line |
 | `README.md` | ❌ manual (count) — update intro paragraph, repo layout block, and Sources & References count |
@@ -154,7 +154,7 @@ The graph picks up new `connections:` entries automatically on rebuild — addin
 
 ## Count integrity (automated guard)
 
-The hand-maintained counts above drifted once (every prose file said 226 while the manifest held 244). To stop that recurring, **`scripts/check-counts.mjs` is the single source of truth for every hard-coded count** and is chained into `npm run build` (and runnable alone via `npm run check:counts`). It derives the canonical numbers from `skills-manifest.json` (plus the generated graph and the `plugins/` tree) and asserts that every count written into `CLAUDE.md`, `README.md`, `_ai-index.md`, `skill-primer.md`, `training-guide.md`, and `life-decision.md` matches. A mismatch **fails the build** and prints `file:line  found X, expected Y`.
+The hand-maintained counts above drifted once (every prose file said 226 while the manifest held 244). To stop that recurring, **`scripts/check-counts.mjs` is the single source of truth for every hard-coded count** and is chained into `npm run build` (and runnable alone via `npm run check:counts`). It derives the canonical numbers from `skills-manifest.json` (plus the generated graph and the `plugins/` tree) and asserts that every count written into `CLAUDE.md`, `README.md`, `_ai-index.md`, `skill-primer.md`, `training-guide.md`, `life-decision.md`, and the five stat tiles in `docs/index.html` matches. A mismatch **fails the build** and prints `file:line  found X, expected Y`.
 
 Canonical numbers (do not hand-type these anywhere without updating the prose to match — the checker will catch you):
 

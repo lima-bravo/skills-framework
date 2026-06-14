@@ -111,6 +111,13 @@ const A = [
   ['Skills Reference/_ai-index.md', /\| (\d+) skills \| (\d+) categories \| (\d+) graph connections/g, [totalSkills, categories, connections]],
   ['Skills Reference/_ai-index.md', /(\d+) cards are pre-built chains/g, chains],
 
+  // docs/index.html — landing-page stat tiles (manual file; these drift silently otherwise)
+  ['docs/index.html', /stat-n">(\d+)<\/span><div class="stat-l">Mental Models/g, nonChainCards],
+  ['docs/index.html', /stat-n">(\d+)<\/span><div class="stat-l">Categories/g, categories],
+  ['docs/index.html', /stat-n">(\d+)<\/span><div class="stat-l">Pre-built Chains/g, chains],
+  ['docs/index.html', /stat-n">(\d+)<\/span><div class="stat-l">Graph Connections/g, connections],
+  ['docs/index.html', /stat-n">(\d+)<\/span><div class="stat-l">Sources &amp; References/g, refs],
+
 ];
 
 function pluginCount(id) {
