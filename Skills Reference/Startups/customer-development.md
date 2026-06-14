@@ -75,7 +75,7 @@ The practitioner treats every assumption about customers — their problem, thei
 
 ## Worked Example
 
-The founders of Airbnb validated their core hypothesis by manually creating listings for their own apartment and hosting guests themselves. They then went to other Airbnb hosts' apartments personally, helped them photograph their spaces, and asked detailed questions about their hosting motivations, concerns, and pricing logic. This direct evidence — not surveying or desk research — produced the insight that professional photography dramatically increased bookings and that host trust concerns were the primary barrier to listing. Both insights came directly from customer development conversations, not from analysis.
+Intuit was founded on a single observation: Scott Cook watched his wife struggle to pay the household bills at the kitchen table and concluded the real problem was the tedium and error of manual money management — not a missing feature. Rather than build from that hunch alone, Intuit institutionalized direct observation as the "Follow Me Home" program: employees waited in software stores until someone bought a personal-finance product, then asked to follow them home and watch them install and use it in their own context. What they saw — where users hesitated, what they misread, which steps they abandoned — was evidence no survey or focus group would have surfaced, because it was behavior, not opinion. The discipline is the one Blank later formalized: the needs that decide whether a product succeeds are discovered by watching real customers in their real environment, not by reasoning about them from the office.
 
 ---
 
