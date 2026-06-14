@@ -59,23 +59,23 @@ The economist's version: you get what you measure, reward, and punish. The syste
 
 ## Practitioner Heuristics
 
-1. **Work backwards from behavior, not forwards from metrics.** Don't ask "what metric should I attach to this incentive?" Ask: "what behavior do I want, and what would make that behavior individually rational for the person in this role?" Then design toward that behavior, and select the metric that best tracks it.
+- **Work backwards from behavior, not forwards from metrics.** Don't ask "what metric should I attach to this incentive?" Ask: "what behavior do I want, and what would make that behavior individually rational for the person in this role?" Then design toward that behavior, and select the metric that best tracks it.
 
-2. **Check for crowding out.** Extrinsic rewards (money, recognition) can crowd out intrinsic motivation (competence, autonomy, purpose). Attaching a financial incentive to an activity people were previously doing voluntarily can reduce their engagement. If the task requires creativity, judgment, or sustained effort, intrinsic motivation is usually more powerful than incentive pay.
+- **Check for crowding out.** Extrinsic rewards (money, recognition) can crowd out intrinsic motivation (competence, autonomy, purpose). Attaching a financial incentive to an activity people were previously doing voluntarily can reduce their engagement. If the task requires creativity, judgment, or sustained effort, intrinsic motivation is usually more powerful than incentive pay.
 
-3. **Model the gaming scenario.** Before implementing, ask: "If I were a rational, self-interested actor in this role, how would I maximize my reward while minimizing my effort?" That scenario is your most important design input. If there is an easy path to high reward through low-value activity, it will be found.
+- **Model the gaming scenario.** Before implementing, ask: "If I were a rational, self-interested actor in this role, how would I maximize my reward while minimizing my effort?" That scenario is your most important design input. If there is an easy path to high reward through low-value activity, it will be found.
 
-4. **Align time horizons.** Short-term incentives (quarterly bonuses, annual reviews) produce short-term behavior. If the value of the work is realized over years, a structure that only rewards quarters will systematically underinvest in long-term outcomes. The incentive horizon must match the work horizon.
+- **Align time horizons.** Short-term incentives (quarterly bonuses, annual reviews) produce short-term behavior. If the value of the work is realized over years, a structure that only rewards quarters will systematically underinvest in long-term outcomes. The incentive horizon must match the work horizon.
 
 ---
 
 ## Common Failure Modes
 
-**Rewarding the metric, not the outcome.** The metric is a proxy for the outcome. Once it becomes a reward target, people optimize the metric without necessarily producing the outcome — Goodhart's Law in its most costly form. The countermeasure is small metric sets with rotating leading indicators, reviewed frequently enough to catch drift before it compounds.
+- **Rewarding the metric, not the outcome.** The metric is a proxy for the outcome. Once it becomes a reward target, people optimize the metric without necessarily producing the outcome — Goodhart's Law in its most costly form. The countermeasure is small metric sets with rotating leading indicators, reviewed frequently enough to catch drift before it compounds.
 
-**Ignoring the social incentive structure.** Formal incentive systems operate inside informal social ones. If the formal system rewards individual performance but the culture punishes outperforming colleagues, people will calibrate to the social incentive first. Incentive design that ignores the social layer will be neutralized by it.
+- **Ignoring the social incentive structure.** Formal incentive systems operate inside informal social ones. If the formal system rewards individual performance but the culture punishes outperforming colleagues, people will calibrate to the social incentive first. Incentive design that ignores the social layer will be neutralized by it.
 
-**The cobra effect.** Well-intentioned incentives that make the problem profitable create infrastructure for the problem to grow. Adversarial modelling — explicitly asking "how could someone profit from this scheme in a way that makes the problem worse?" — is required before deployment.
+- **The cobra effect.** Well-intentioned incentives that make the problem profitable create infrastructure for the problem to grow. Adversarial modelling — explicitly asking "how could someone profit from this scheme in a way that makes the problem worse?" — is required before deployment.
 
 ---
 

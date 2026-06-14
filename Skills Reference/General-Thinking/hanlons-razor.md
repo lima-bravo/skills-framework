@@ -14,6 +14,9 @@ connections:
   - id: 200
     rationale: "FAE is the cognitive mechanism Hanlon's Razor corrects: we over-attribute others' behaviour to character and intent while under-weighting situational factors."
 references:
+  - title: Murphy's Law Book Two
+    authorYear: Arthur Bloch ed. (1980)
+    supports: first published appearance of the aphorism, submitted by Robert J. Hanlon — the provenance of the razor.
   - title: Thinking, Fast and Slow
     authorYear: Daniel Kahneman (2011)
     supports: covers the attribution errors and cognitive biases that Hanlon's Razor is designed to counteract.

@@ -4204,6 +4204,17 @@
       ]
     },
     {
+      "title": "Murphy's Law Book Two",
+      "authorYear": "Arthur Bloch ed. (1980)",
+      "skills": [
+        {
+          "id": 4,
+          "name": "Hanlon's Razor",
+          "color": "#3B82F6"
+        }
+      ]
+    },
+    {
       "title": "Noise: A Flaw in Human Judgment",
       "authorYear": "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein (2021)",
       "skills": [

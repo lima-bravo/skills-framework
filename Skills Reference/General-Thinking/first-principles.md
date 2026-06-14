@@ -72,7 +72,7 @@ references:
 ---
 ## Definition
 
-First principles thinking is the practice of breaking a problem down to its most basic, irreducible truths — the things you know to be true from evidence or logic — and then reasoning upward from there rather than from analogy, convention, or received wisdom. The phrase comes from Aristotle ("the first basis from which a thing is known") and was popularized in modern practice by physicists and engineers who needed to escape the gravitational pull of industry assumptions.
+First principles thinking is the practice of breaking a problem down to its most basic, irreducible truths — the things you know to be true from evidence or logic — and then reasoning upward from there rather than from analogy, convention, or received wisdom. The phrase traces to Aristotle ("the first basis from which a thing is known") and was popularized in modern practice by physicists and engineers who needed to escape the gravitational pull of industry assumptions.
 
 The distinction that matters: reasoning by analogy asks "what have people done before in situations like this?" Reasoning from first principles asks "what is actually true here, and what follows from that?" The former is fast and usually good enough; the latter is expensive but occasionally reveals that everyone else has been building on a false premise.
 

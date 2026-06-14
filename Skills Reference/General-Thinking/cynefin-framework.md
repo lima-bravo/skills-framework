@@ -28,7 +28,7 @@ connections:
   - id: 207
     rationale: "Cynefin prescribes which response mode a domain calls for; SRK explains the cognitive mechanics underneath: rule-based performance in Complicated domains, knowledge-based reasoning when the domain is Complex or novel."
   - id: 173
-    rationale: dominant logic operates well in Complicated and Obvious domains where the environment is stable; it becomes a strategic liability when the environment shifts to Complex or Chaotic.
+    rationale: dominant logic operates well in Complicated and Clear domains where the environment is stable; it becomes a strategic liability when the environment shifts to Complex or Chaotic.
   - id: 125
     rationale: change approach must match the domain type — Clear-domain rollouts need different handling from Complex-domain transformations where the path emerges
   - id: 197
@@ -58,6 +58,7 @@ The Cynefin Framework (Welsh: "habitat") is a sense-making model developed by Da
 - **Complicated** — cause and effect require expertise; analyse then apply good practice
 - **Complex** — cause and effect only visible in retrospect; probe → sense → respond
 - **Chaotic** — no perceivable relationship; act first to stabilise, then sense
+- **Disorder** (fifth domain) — the state of not knowing which domain applies; the immediate task is to break the situation into parts and assign each to one of the other four
 
 The framework's power is prescriptive: applying a Complicated-domain method to a Complex-domain problem is not just inefficient — it is structurally wrong.
 

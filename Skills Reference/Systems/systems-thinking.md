@@ -54,23 +54,23 @@ Donella Meadows identified leverage points in systems — places to intervene, r
 
 ## Practitioner Heuristics
 
-1. **Map stocks and flows before diagnosing.** Every persistent problem involves a stock (accumulated backlog, deficit, dysfunction) that is not draining as fast as it fills. Identify what is accumulating, what is draining it, and what is replenishing it — before proposing any intervention.
+- **Map stocks and flows before diagnosing.** Every persistent problem involves a stock (accumulated backlog, deficit, dysfunction) that is not draining as fast as it fills. Identify what is accumulating, what is draining it, and what is replenishing it — before proposing any intervention.
 
-2. **Find the feedback loop, not the villain.** When a problem persists despite good-faith effort by capable people, the cause is structural. Ask: what feedback loop is sustaining this behavior? What information is missing, delayed, or distorted that would allow the system to self-correct?
+- **Find the feedback loop, not the villain.** When a problem persists despite good-faith effort by capable people, the cause is structural. Ask: what feedback loop is sustaining this behavior? What information is missing, delayed, or distorted that would allow the system to self-correct?
 
-3. **Beware time delays.** Systems with long delays between action and result systematically overshoot and oscillate. Interventions that seem not to be working are often working — the feedback just hasn't arrived yet. "We've tried everything" usually means "we've tried several things serially, each for less time than the system's characteristic delay."
+- **Beware time delays.** Systems with long delays between action and result systematically overshoot and oscillate. Interventions that seem not to be working are often working — the feedback just hasn't arrived yet. "We've tried everything" usually means "we've tried several things serially, each for less time than the system's characteristic delay."
 
-4. **Look for policy resistance.** When an intervention produces the opposite of its intended effect, or the effect appears but vanishes when pressure eases, the system is resisting. The intervention is fighting the structure rather than changing it.
+- **Look for policy resistance.** When an intervention produces the opposite of its intended effect, or the effect appears but vanishes when pressure eases, the system is resisting. The intervention is fighting the structure rather than changing it.
 
 ---
 
 ## Common Failure Modes
 
-**Fixing the symptom, not the structure.** The most common systems failure: an intervention that reduces a symptom without changing the underlying feedback loop produces short-term improvement followed by rebound. The system's structure is unchanged; the symptom recurs because the mechanism producing it is unchanged. Fixes That Fail and Drift to Failure are both expressions of this pattern.
+- **Fixing the symptom, not the structure.** The most common systems failure: an intervention that reduces a symptom without changing the underlying feedback loop produces short-term improvement followed by rebound. The system's structure is unchanged; the symptom recurs because the mechanism producing it is unchanged. Fixes That Fail and Drift to Failure are both expressions of this pattern.
 
-**Underestimating delays.** Managers act on the system, see no immediate result, and escalate — which arrives just as the original intervention's delayed effect kicks in, producing overshoot. The intervention wasn't too weak; it hadn't finished propagating.
+- **Underestimating delays.** Managers act on the system, see no immediate result, and escalate — which arrives just as the original intervention's delayed effect kicks in, producing overshoot. The intervention wasn't too weak; it hadn't finished propagating.
 
-**Local optimization, system degradation.** Optimizing each component independently can degrade system performance if the optimizations conflict. The components that appear most efficient in isolation are often those that have externalized their costs onto other parts of the system.
+- **Local optimization, system degradation.** Optimizing each component independently can degrade system performance if the optimizations conflict. The components that appear most efficient in isolation are often those that have externalized their costs onto other parts of the system.
 
 ---
 

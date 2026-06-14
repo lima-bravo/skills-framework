@@ -57,7 +57,7 @@ references:
 ---
 ## Definition
 
-Calibration is the degree to which stated confidence levels match actual outcomes over time. A calibrated person whose 70% predictions come true 70% of the time — and whose 90% predictions come true 90% of the time — has accurate beliefs about their own uncertainty. Calibration is the meta-skill that governs all probabilistic reasoning: without it, confidence figures are feelings labelled as probabilities. The concept originates in meteorological forecasting (Brier scores, 1950s), was formalised in judgment and decision research by Kahneman, Tversky, and Fischhoff, and applied to forecasting practice by Philip Tetlock's superforecaster research.
+Calibration is the degree to which stated confidence levels match actual outcomes over time. A calibrated person whose 70% predictions come true 70% of the time — and whose 90% predictions come true 90% of the time — has accurate beliefs about their own uncertainty. Calibration is the meta-skill that governs all probabilistic reasoning: without it, confidence figures are feelings labelled as probabilities. The concept originates in meteorological forecasting — the Brier score (1950) measures forecast accuracy as the mean squared error between stated probabilities and binary outcomes, rewarding confidence that earns its accuracy and penalising both overconfidence and underconfidence equally. It was formalised in judgment and decision research by Kahneman, Tversky, and Fischhoff, and applied to forecasting practice by Philip Tetlock's superforecaster research.
 
 ---
 

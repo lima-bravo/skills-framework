@@ -48,7 +48,7 @@ references:
 ---
 ## Definition
 
-The Map-Territory distinction, from Alfred Korzybski's 1931 formulation *"the map is not the territory,"* is the recognition that every model, framework, metric, belief, or mental representation is a simplified abstraction of reality — not reality itself. The map is useful precisely because it simplifies; it becomes dangerous when we forget that it does so.
+The Map-Territory distinction, from Alfred Korzybski — who first formulated *"the map is not the territory"* in 1931 and developed it fully in *Science and Sanity* (1933) — is the recognition that every model, framework, metric, belief, or mental representation is a simplified abstraction of reality — not reality itself. The map is useful precisely because it simplifies; it becomes dangerous when we forget that it does so.
 
 In practice: your financial model is not the business. The org chart is not how decisions actually get made. The customer persona is not the customer. The strategy deck is not the strategy. All of these are maps — useful approximations that omit details and introduce distortions.
 

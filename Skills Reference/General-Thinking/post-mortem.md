@@ -35,7 +35,7 @@ references:
 ---
 ## Definition
 
-A post-mortem (also called an after-action review, retrospective, or incident review) is a structured examination of a completed project, incident, or period of work to extract learnable lessons. The goal is not to assign blame but to identify systemic causes — the conditions, decisions, and process failures that produced the outcome — and to convert those causes into improvements. Post-mortems done well are one of the highest-leverage learning investments available to teams and organizations.
+A post-mortem (also called an incident review or retrospective) is a structured, deep investigation of a significant failure, incident, or repeated pattern to extract learnable lessons — distinct from the lighter-weight after-action review (AAR), which applies as a routine habit after any project. The goal is not to assign blame but to identify systemic causes — the conditions, decisions, and process failures that produced the outcome — and to convert those causes into improvements. Post-mortems done well are one of the highest-leverage learning investments available to teams and organizations.
 
 ---
 
