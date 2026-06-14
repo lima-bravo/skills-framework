@@ -10,7 +10,7 @@ connections:
   - id: 108
     rationale: "Three Horizons is the strategic planning expression of exploration vs. exploitation: H1 is exploitation, H3 is exploration, H2 is the managed transition between them."
   - id: 71
-    rationale: the portfolio map provides the tool for visualizing and managing the H1/H2/H3 allocation; Three Horizons provides the strategic logic for why the allocation matters.
+    rationale: "the division of labour between the two cards: Three Horizons is the strategic logic — why the allocation matters and why each horizon needs different management. Portfolio Map is the instrument — how you plot, balance, and rebalance any allocation (Three Horizons being one of several axis-sets it can use)."
   - id: 112
     rationale: H3 is where disruptive threats and disruptive opportunities are most likely to emerge; managing H3 explicitly is the structural defense against being disrupted and the structural mechanism for disrupting others.
   - id: 102

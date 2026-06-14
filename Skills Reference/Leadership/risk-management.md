@@ -17,6 +17,8 @@ connections:
     rationale: the board sets risk appetite and receives assurance
   - id: 183
     rationale: AI authority boundary design is a form of operational risk management — it defines the consequence class of autonomous actions and enforces gates proportional to their residual risk
+  - id: 71
+    rationale: the portfolio map is where correlated exposure becomes visible — bets that share a team, channel, or assumption are concentrated risk disguised as diversification; risk appetite should be applied to the set, not just each bet in isolation
 references:
   - title: Enterprise Risk Management — Integrating with Strategy and Performance
     authorYear: COSO, 2017
