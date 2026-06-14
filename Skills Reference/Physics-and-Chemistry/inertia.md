@@ -48,6 +48,8 @@ Inertia is the reason that the most common reason for organizational failure is 
 
 Think of a heavy object on a smooth surface. It takes significant energy to get it moving and significant energy to stop or redirect it once moving. Large organizations have enormous inertia: their processes, cultures, incentive systems, and customer relationships all represent "mass" that resists directional change. The practitioner's skill is distinguishing situations where inertia should be overcome (the current trajectory is wrong) from situations where it should be exploited (consistency and predictability have value).
 
+Inertia is not equilibrium. Equilibrium pulls a *disturbed* system back to a balance point — the ball rolls back to the bottom of the bowl. Inertia simply resists a *change of state*: it makes change hard to start, and once the system is moving, hard to stop or redirect — including when it is moving in the wrong direction.
+
 ---
 
 ## Practitioner Heuristics
@@ -70,7 +72,7 @@ Think of a heavy object on a smooth surface. It takes significant energy to get 
 
 ## Worked Example
 
-A company decides to shift from annual to quarterly planning cycles. The change is announced, frameworks are provided, and the new cycle begins. Six months later, most teams have reverted to annual planning with quarterly "check-ins" that don't meaningfully change plans. The inertia: budgeting is done annually (financial system inertia), manager incentives are tied to annual OKRs (incentive system inertia), the culture of big ambitious annual plans is embedded (cultural inertia). None of these changed. The planning cadence changed; the system that drove the planning cadence did not. Changing the cadence without changing the system is applying force against mass without a lever.
+A hardware company's flagship product line has driven revenue for a decade. Leadership knows the market is shifting to software subscriptions — and says so publicly. Yet two years on, the company is still organized entirely around the old line: the salesforce is comped on unit sales, the roadmap is full of incremental hardware features, supply contracts are sized for it, and the best engineers are still assigned to it. Nothing has *reverted* — the company never stopped, and that is the point. An object in motion stays in motion: the mass of a decade of processes, contracts, incentives, and careers carries the organization forward on the old trajectory long after the destination changed. Redirecting it takes sustained force applied at the lever points — comp structure, resource allocation, executive attention — not a memo announcing the new direction. (Contrast the reverting-change pattern in [Equilibrium](../Systems/equilibrium.md), where a *restoring force* actively pulls the system back; here the failure is not reversion but unstopped momentum.)
 
 ---
 
