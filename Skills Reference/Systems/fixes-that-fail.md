@@ -17,6 +17,8 @@ connections:
     rationale: the Fixes That Fail archetype works because the symptom-to-fix feedback loop is shorter and more visible than the root-cause feedback loop; structural leverage lies in strengthening the longer loop.
   - id: 261
     rationale: fixes that fail are only visible as a pattern through systems thinking; the linear view sees each fix in isolation and misses the archetype.
+  - id: 264
+    rationale: Fixes That Fail / Shifting the Burden is one entry in the archetype library; the System Archetypes card places it among the other recurring structures and the recognition skill that selects between them.
 references:
   - title: "Thinking in Systems: A Primer"
     authorYear: Donella H. Meadows (2008)

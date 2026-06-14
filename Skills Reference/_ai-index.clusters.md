@@ -5,6 +5,7 @@
 | Decision under uncertainty | 7·Probabilistic Thinking → 10·Pre-mortem → 12·Asymmetry/Convexity |
 | Post-mortem / learning review | 196·After-Action Review → 201·Hindsight Bias → 200·FAE → 207·SRK Framework |
 | System is quietly degrading | 208·Drift to Failure → 120·Goodhart's Law → 197·Tactical Pause |
+| Problem recurs despite repeated fixes | 264·System Archetypes → 171·Causal Analysis → 260·Fixes That Fail |
 | Forecast feels optimistic | 206·Base Rate Neglect → 160·Reference Class Forecasting → 115·Planning Fallacy |
 | Belief needs stress-testing | 223·Steelmanning → 204·Falsification → 224·Red Teaming |
 | Plan needs adversarial challenge | 10·Pre-mortem → 224·Red Teaming → 204·Falsification |

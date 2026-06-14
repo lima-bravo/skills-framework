@@ -19,6 +19,8 @@ connections:
     rationale: making commons depletion visible creates feedback loops that enable self-regulation.
   - id: 208
     rationale: "commons tragedies often unfold as slow drift: incremental overuse that looks acceptable in each period but accumulates to collapse."
+  - id: 264
+    rationale: the Tragedy of the Commons is one of the canonical system archetypes; the library card places it among the other recurring structures and the recognition skill that selects between them.
   - id: 262
     rationale: incentive design can make individual rationality and collective welfare coincide; the commons tragedy is what happens when it does not
   - id: 121

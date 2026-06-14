@@ -23,6 +23,8 @@ connections:
     rationale: Drift to Failure is the universal precondition for organisational degradation; the scan begins here before examining the specific mechanisms that compound it
   - id: 260
     rationale: "Fixes That Fail is the mechanism that produces drift: each symptomatic fix relieves the pressure that would force a fundamental solution, allowing the root cause to persist and grow."
+  - id: 264
+    rationale: Drift to Failure is the Eroding Goals archetype as a standalone card; the System Archetypes library is where recognising it sits alongside the other recurring structures.
   - id: 235
     rationale: "drift and path dependence compound: each drift step increases switching costs, making it progressively harder to reverse course as the system moves toward the risk boundary."
   - id: 231

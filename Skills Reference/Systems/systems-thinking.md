@@ -11,6 +11,8 @@ connections:
     rationale: systems thinking explains why emergent properties arise from component interactions rather than from any single part
   - id: 260
     rationale: "the archetype systems thinking makes visible: symptomatic fixes that leave the generating structure intact"
+  - id: 264
+    rationale: the archetypes are systems thinking's pattern library — the recurring loop structures the discipline trains you to recognise; this card teaches the elements, that card catalogues their common assemblies.
   - id: 208
     rationale: drift is invisible at the component level; only visible as a system-level trajectory over time
   - id: 235

@@ -15,6 +15,8 @@ connections:
     rationale: the archetype works because the symptom-to-fix feedback loop is shorter and more visible than the root-cause loop; structural leverage lies in strengthening the longer loop.
   - id: 261
     rationale: feedback loops are the primary mechanism systems thinking works with; the discipline of reading and redesigning them is systems thinking itself
+  - id: 264
+    rationale: system archetypes are particular assemblies of reinforcing and balancing loops; reading the feedback structure is the prerequisite for recognising which archetype you are in.
   - id: 11
     rationale: "the post-mortem closes the feedback loop on organizational action: action → outcome → structured learning → updated action."
   - id: 171

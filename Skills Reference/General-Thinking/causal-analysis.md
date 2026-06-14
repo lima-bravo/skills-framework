@@ -9,6 +9,8 @@ connections:
     rationale: causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the loop.
   - id: 17
     rationale: the systems-based mode of causal analysis is feedback loop analysis applied to problem diagnosis.
+  - id: 264
+    rationale: causal-loop diagramming is the practical technique for surfacing which system archetype a recurring problem actually embodies before it is named.
   - id: 10
     rationale: "applies causal analysis forward in time: what causal structure would produce failure from here?"
   - id: 11

@@ -1861,6 +1861,14 @@
       "file": "Skills Reference/General-Thinking/delete-before-you-optimise.md",
       "color": "#3B82F6",
       "cardType": "standard"
+    },
+    "Systems/system-archetypes.md": {
+      "id": 264,
+      "name": "System Archetypes",
+      "category": "Systems",
+      "file": "Skills Reference/Systems/system-archetypes.md",
+      "color": "#0D9488",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -5877,6 +5885,11 @@
           "id": 261,
           "name": "Systems Thinking",
           "color": "#0D9488"
+        },
+        {
+          "id": 264,
+          "name": "System Archetypes",
+          "color": "#0D9488"
         }
       ]
     },
@@ -6963,6 +6976,11 @@
           "id": 262,
           "name": "Incentive Design",
           "color": "#16A34A"
+        },
+        {
+          "id": 264,
+          "name": "System Archetypes",
+          "color": "#0D9488"
         }
       ]
     },
