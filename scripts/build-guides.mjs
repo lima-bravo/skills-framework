@@ -66,15 +66,12 @@ blockquote p{color:#1E3A5F;margin:0;}
 </head>
 <body>`;
 
-const NAV = (activePage) => `<div id="hdr">
+// Nav links are stamped in post-build by build-chrome.mjs (single source of
+// truth: site-chrome.mjs). We only emit the markers + surrounding chrome here.
+const NAV = () => `<div id="hdr">
   <h1>Skills Framework <span>Mental Models Reference</span></h1>
   <div id="hdr-nav">
-    <a href="index.html" class="nav-btn${activePage === 'home' ? ' active' : ''}">🏠 Home</a>
-    <a href="situation-finder.html" class="nav-btn${activePage === 'situations' ? ' active' : ''}">🔍 Situations</a>
-    <a href="deck.html" class="nav-btn${activePage === 'deck' ? ' active' : ''}">⊞ Card Deck</a>
-    <a href="executive-scan.html" class="nav-btn${activePage === 'exec' ? ' active' : ''}">⊛ Exec Scan</a>
-    <a href="graph.html" class="nav-btn${activePage === 'graph' ? ' active' : ''}">⬡ Graph</a>
-    <a href="training-guide.html" class="nav-btn${activePage === 'guide' ? ' active' : ''}">📖 Guide</a>
+    <!--NAV--><!--/NAV-->
   </div>
 </div>`;
 
@@ -220,14 +217,14 @@ function extractTitleAndSubtitle(md) {
 
 // ── Build one guide page ──────────────────────────────────────────────────────
 
-function buildGuide(mdFile, outFile, navKey) {
+function buildGuide(mdFile, outFile) {
   const md = fs.readFileSync(path.join(REF_DIR, mdFile), 'utf8');
   const { title, subtitle } = extractTitleAndSubtitle(md);
   const bodyHtml = mdToHtml(md);
 
   const html = [
     HEAD(title),
-    NAV(navKey),
+    NAV(),
     '<div id="content">',
     `<h1 class="page-title">${title}</h1>`,
     subtitle ? `<p class="page-subtitle">${subtitle}</p>` : '',
@@ -242,5 +239,5 @@ function buildGuide(mdFile, outFile, navKey) {
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 
-buildGuide('training-guide.md', 'training-guide.html', 'guide');
-buildGuide('skill-primer.md',   'skill-primer.html',   'primer');
+buildGuide('training-guide.md', 'training-guide.html');
+buildGuide('skill-primer.md',   'skill-primer.html');

@@ -24,6 +24,7 @@ header{background:var(--surface);border-bottom:1px solid var(--border);padding:.
 .nav-links{display:flex;gap:.5rem;margin-left:auto}
 .nav-btn{font-size:.72rem;font-weight:600;color:var(--muted);text-decoration:none;padding:.28rem .7rem;border:1px solid var(--border);border-radius:999px;letter-spacing:.04em;transition:color .15s,border-color .15s;white-space:nowrap}
 .nav-btn:hover{color:var(--text);border-color:var(--muted)}
+.nav-btn.active{background:var(--accent);color:#fff;border-color:var(--accent)}
 
 /* ── layout ── */
 main{max-width:1280px;margin:0 auto;padding:1.5rem 1.25rem 3rem}
@@ -87,11 +88,14 @@ main{max-width:1280px;margin:0 auto;padding:1.5rem 1.25rem 3rem}
   <div class="logo"><span>Executive Scan</span> · Skills Framework</div>
   <input id="search" type="search" placeholder="Filter by keyword…" autocomplete="off">
   <nav class="nav-links">
+    <!--NAV-->
     <a href="index.html" class="nav-btn">🏠 Home</a>
     <a href="situation-finder.html" class="nav-btn">🔍 Situations</a>
     <a href="deck.html" class="nav-btn">⊞ Card Deck</a>
+    <a href="executive-scan.html" class="nav-btn active" aria-current="page">⊛ Exec Scan</a>
     <a href="graph.html" class="nav-btn">⬡ Graph</a>
     <a href="training-guide.html" class="nav-btn">📖 Guide</a>
+    <!--/NAV-->
   </nav>
 </header>
 

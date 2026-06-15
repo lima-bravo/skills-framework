@@ -50,7 +50,7 @@ nav{display:flex;gap:.4rem;flex-wrap:wrap}
 .tool-tag{margin-top:.5rem;font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent2);opacity:.75}
 
 /* ── footer ── */
-footer{margin-top:auto;padding:1.25rem 1.5rem;border-top:1px solid var(--border);display:flex;justify-content:center;gap:1.5rem;flex-wrap:wrap}
+footer{margin-top:auto;padding:1.25rem 1.5rem;border-top:1px solid var(--border);display:flex;justify-content:center;gap:1.5rem;flex-wrap:wrap;font-size:.72rem;color:var(--muted);text-align:center}
 footer a{font-size:.72rem;color:var(--muted);text-decoration:none;transition:color .15s}
 footer a:hover{color:var(--text)}
 
@@ -62,12 +62,14 @@ footer a:hover{color:var(--text)}
 <header>
   <div class="logo">Skills Framework <span>· Mental Models Reference</span></div>
   <nav>
-    <a href="index.html" class="nav-btn active">🏠 Home</a>
+    <!--NAV-->
+    <a href="index.html" class="nav-btn active" aria-current="page">🏠 Home</a>
     <a href="situation-finder.html" class="nav-btn">🔍 Situations</a>
     <a href="deck.html" class="nav-btn">⊞ Card Deck</a>
     <a href="executive-scan.html" class="nav-btn">⊛ Exec Scan</a>
     <a href="graph.html" class="nav-btn">⬡ Graph</a>
     <a href="training-guide.html" class="nav-btn">📖 Guide</a>
+    <!--/NAV-->
   </nav>
 </header>
 
@@ -137,14 +139,7 @@ footer a:hover{color:var(--text)}
   </div>
 </section>
 
-<footer>
-  <a href="deck.html">Card Deck</a>
-  <a href="situation-finder.html">Situation Finder</a>
-  <a href="graph.html">Graph</a>
-  <a href="training-guide.html">Guide</a>
-  <a href="quick-reference.html">Quick Reference</a>
-  <span style="text-align:center;font-size:.68rem;color:var(--muted);flex-shrink:0;">© 2026 J.L. Bonebakker · Focus2Flow B.V.</span>
-</footer>
+<footer>© 2026 J.L. Bonebakker · Focus2Flow B.V.</footer>
 
 </body>
 </html>
