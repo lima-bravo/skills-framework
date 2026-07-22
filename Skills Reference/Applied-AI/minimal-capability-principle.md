@@ -17,6 +17,8 @@ connections:
     rationale: who has authority to act is the human-layer question; minimal capability is the machine-layer answer to the same question.
   - id: 24
     rationale: the general principle of designing with buffer against worst-case scenarios; minimal capability applies this to AI agent architecture.
+  - id: 268
+    rationale: enclave minimization is this same discipline read from the outside — shrinking a vendor's exposure surface to the smallest sub-computation that must see privileged data is minimal capability applied to evaluation rather than design.
 references:
   - title: The Protection of Information in Computer Systems
     authorYear: Jerome H. Saltzer & Michael D. Schroeder, 1975

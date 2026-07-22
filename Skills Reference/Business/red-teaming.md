@@ -23,6 +23,8 @@ connections:
     rationale: where red teaming attacks plans before commitment, A/B testing attacks hypotheses with live evidence during execution; the two are complementary tools for different phases of uncertainty reduction.
   - id: 248
     rationale: "once a profit pool map identifies an attractive position, red-team it: if the pool is this profitable, why hasn't it already been contested away?"
+  - id: 268
+    rationale: find the silence is red teaming pointed at a vendor's pitch instead of your own plan — the teardown supplies the specific questions ("show me the verification block") a red team would otherwise have to invent from scratch.
 references:
   - title: "Red Team: How to Succeed by Thinking Like the Enemy"
     authorYear: Micah Zenko (2015)

@@ -15,6 +15,8 @@ connections:
     rationale: an honest circle of competence is the first input to good calibration; overconfident people draw their circles too large and their confidence intervals too narrow.
   - id: 4
     rationale: distinguishing malice from incompetence requires domain knowledge; outside your circle, technical complexity is easily mistaken for deliberate obfuscation.
+  - id: 268
+    rationale: separating a vendor's independently verifiable architecture claims from founder and marketing assertions is a circle-of-competence discipline applied specifically to AI pitches.
 references:
   - title: "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger"
     authorYear: Charles T. Munger, ed. Peter D. Kaufman (2005)

@@ -45,6 +45,8 @@ connections:
     rationale: "the Peter Principle creates principal-agent misalignment: the organisation promotes believing it is rewarding performance, while inadvertently degrading the capability of the role the promoted person now occupies"
   - id: 183
     rationale: AI authority boundaries are the operational implementation of principal-agent theory in agentic systems — they define what the agent may commit without re-authorization from the principal
+  - id: 268
+    rationale: "generation is an unsupervised agent — a brilliant, overconfident colleague who never says \"I'm not sure\"; verification and control are the principal's mechanisms for checking an agent whose incentives and information are only partly visible"
 references:
   - title: "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"
     authorYear: Michael C. Jensen & William H. Meckling, Journal of Financial Economics Vol. 3 No. 4 (1976)

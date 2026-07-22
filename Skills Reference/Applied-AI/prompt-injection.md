@@ -19,6 +19,8 @@ connections:
     rationale: when an agentic system behaves unexpectedly, prompt injection should be in the causal hypothesis space, not just model error.
   - id: 17
     rationale: multi-agent systems with injection vulnerabilities at the seam create reinforcing loops where injected content compounds through agent handoffs.
+  - id: 268
+    rationale: "hidden generation blocks — a reranker, an LLM-as-judge, a planning step — are where a vendor's architecture reopens the exact seam prompt injection exploits; naming them in a teardown is injection-surface mapping applied to someone else's system."
 references:
   - title: "The Alignment Problem: Machine Learning and Human Values"
     authorYear: Brian Christian, 2020

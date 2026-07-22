@@ -1,6 +1,6 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-06-29 | 267 skills | 16 categories | 1137 graph connections -->
+<!-- Last updated: 2026-07-22 | 268 skills | 16 categories | 1144 graph connections -->
 
 ## What this framework is
 
@@ -83,8 +83,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Leadership (17 skills) — #1E40AF
 `118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building` `242·Peter Principle` `257·Span of Control`
 
-### Applied AI (3 skills) — #0369A1
-`183·AI Authority Boundaries` `184·Minimal Capability Principle` `185·Prompt Injection`
+### Applied AI (4 skills) — #0369A1
+`183·AI Authority Boundaries` `184·Minimal Capability Principle` `185·Prompt Injection` `268·AI Tool Teardown`
 
 ## High-signal clusters (for model chaining)
 
@@ -134,4 +134,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 267 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 268 skills · 16 categories · `skills-manifest.json` is authoritative*

@@ -21,6 +21,8 @@ connections:
     rationale: the organizational context for authority boundary decisions; boundary design is a form of operational risk management.
   - id: 142
     rationale: "structural analogy: DORA measures delivery system health; authority boundary registers measure governance system health."
+  - id: 268
+    rationale: the outward-facing counterpart — teardown asks whether a vendor's verification and control blocks deserve trust; authority boundaries is the register for building that trust when you own the system.
 references:
   - title: "Human Compatible: Artificial Intelligence and the Problem of Control"
     authorYear: Stuart Russell, 2019

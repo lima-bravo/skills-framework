@@ -23,6 +23,8 @@ connections:
     rationale: the case sponsor is the worst evaluator of their own case; independent review or red-team challenge before submission is the structural defence
   - id: 251
     rationale: "the discipline that completes the loop this card starts: a business case states what should happen if approved; value realization is how the organisation finds out, after the money is spent, whether it actually did"
+  - id: 268
+    rationale: for an AI build-vs-buy case, the teardown's five-function map and its list of silences are the stress test that should happen before the business case's numbers are trusted.
 references:
   - title: How Big Things Get Done
     authorYear: Bent Flyvbjerg & Dan Gardner (2023)

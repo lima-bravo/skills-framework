@@ -1320,6 +1320,13 @@
       "color": "#0369A1",
       "cardType": "extended"
     },
+    "Applied-AI/ai-tool-teardown.md": {
+      "id": 268,
+      "name": "AI Tool Teardown",
+      "category": "Applied AI",
+      "color": "#0369A1",
+      "cardType": "extended"
+    },
     "Pre-built-Chains/ai-agent-governance-design.md": {
       "id": 186,
       "name": "AI Agent Governance Design",
@@ -2944,6 +2951,17 @@
       ]
     },
     {
+      "title": "Designing Machine Learning Systems",
+      "authorYear": "Chip Huyen (2022)",
+      "skills": [
+        {
+          "id": 268,
+          "name": "AI Tool Teardown",
+          "color": "#0369A1"
+        }
+      ]
+    },
+    {
       "title": "Different: Escaping the Competitive Herd",
       "authorYear": "Youngme Moon (2010)",
       "skills": [
@@ -3598,6 +3616,11 @@
         {
           "id": 184,
           "name": "Minimal Capability Principle",
+          "color": "#0369A1"
+        },
+        {
+          "id": 268,
+          "name": "AI Tool Teardown",
           "color": "#0369A1"
         }
       ]
