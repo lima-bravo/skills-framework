@@ -308,6 +308,11 @@
           "id": 212,
           "name": "Observer Bias",
           "tag": "Evaluators who built the system are poorly placed to assess whether it works — structure in independence"
+        },
+        {
+          "id": 268,
+          "name": "AI Tool Teardown",
+          "tag": "Before signing with any AI vendor, decompose the pitch into five functions and find which one it's silent about"
         }
       ],
       "chain": {
@@ -319,7 +324,8 @@
       "questions": [
         "Where is AI currently making — or materially influencing — decisions that humans used to make?",
         "Which AI deployments have explicit reversal mechanisms if the system produces a bad outcome?",
-        "Where does the organisation have unmanaged AI exposure rather than governed AI capability?"
+        "Where does the organisation have unmanaged AI exposure rather than governed AI capability?",
+        "For every AI vendor under active consideration, can anyone name its verification and control blocks specifically — or only its assembly and effect capabilities?"
       ],
       "overlap": null
     },
