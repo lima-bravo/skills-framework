@@ -47,6 +47,8 @@ connections:
     rationale: contracts should include stopping conditions — pre-agreed kill criteria that trigger re-contracting or termination when stated conditions are not met, removing the decision from real-time political pressure.
   - id: 170
     rationale: Step 9 of the Work to Be Done chain uses Kill Criteria to explicitly mark initiatives that should not start — the "never" list is as important as the start list.
+  - id: 268
+    rationale: a pilot-only AI-tool verdict is only real if the stop conditions and review triggers are pre-committed at decision time — otherwise the pilot quietly becomes production under sunk-cost pressure.
 references:
   - title: "Quit: The Power of Knowing When to Walk Away"
     authorYear: Annie Duke (2022)

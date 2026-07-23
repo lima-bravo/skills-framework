@@ -312,7 +312,7 @@
         {
           "id": 268,
           "name": "AI Tool Teardown",
-          "tag": "Before signing with any AI vendor, decompose the pitch into five functions and find which one it's silent about"
+          "tag": "Before signing with any AI vendor, name the use case and end on a conditional decision — not a verdict on which function it's silent about"
         }
       ],
       "chain": {

@@ -1822,7 +1822,7 @@
             {
               "id": 268,
               "name": "AI Tool Teardown",
-              "tag": "Decompose the pitch into five functions, then find which one it's silent about",
+              "tag": "Decompose the pitch into five functions, label the evidence, and end on a decision — not a verdict on silence",
               "chain": false
             },
             {

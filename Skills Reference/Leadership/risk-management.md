@@ -19,6 +19,8 @@ connections:
     rationale: AI authority boundary design is a form of operational risk management — it defines the consequence class of autonomous actions and enforces gates proportional to their residual risk
   - id: 71
     rationale: the portfolio map is where correlated exposure becomes visible — bets that share a team, channel, or assumption are concentrated risk disguised as diversification; risk appetite should be applied to the set, not just each bet in isolation
+  - id: 268
+    rationale: hazards, controls, evidence, and residual risk owned by name are this card's vocabulary applied to a single AI-tool procurement decision — the teardown is risk management's assurance discipline run on one purchase.
 references:
   - title: Enterprise Risk Management — Integrating with Strategy and Performance
     authorYear: COSO, 2017
