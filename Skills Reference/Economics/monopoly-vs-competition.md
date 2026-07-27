@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Market structure determines strategy
 connections:
+  - id: 217
+    rationale: market position is the primary determinant of how much of created value a firm can capture — monopoly maximises capture, competition drives it toward zero.
   - id: 85
     rationale: monopoly position must be defended; defensibility describes the mechanisms.
   - id: 37

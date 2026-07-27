@@ -73,13 +73,10 @@ Think of it as the signal underneath the noise. Revenue is growing — but is ea
 
 ## Common Failure Modes
 
-**Confusing revenue growth with unit economic health.** Revenue can grow while unit economics deteriorate — if the business is acquiring more customers at worse economics. The classic symptom: growth accelerates while the business becomes harder to make profitable. The fix is to track unit economics by cohort, not in aggregate.
-
-**Using accounting gross margin instead of economic contribution margin.** Fully loaded CAC is consistently underestimated because teams exclude costs that are obviously variable (onboarding, account management time, fulfilment variation). When these are added back, payback periods often double.
-
-**Treating LTV as a fixed number rather than a model.** LTV is a projection, not a fact. It depends on assumptions about churn rate, expansion revenue, and discount rate, all of which are uncertain. A business that treats its LTV estimate as reliable is building strategy on a projection it hasn't stress-tested. The right approach: model LTV under optimistic, base, and pessimistic churn assumptions and evaluate the range.
-
-**Optimising unit economics at the expense of market position.** A business can improve its LTV:CAC ratio by serving fewer, better customers — but if those customers represent a small addressable market, the business has optimised itself into a corner. Unit economics must be evaluated alongside addressable market size.
+- **Confusing revenue growth with unit economic health.** Revenue can grow while unit economics deteriorate — if the business is acquiring more customers at worse economics. The classic symptom: growth accelerates while the business becomes harder to make profitable. The fix is to track unit economics by cohort, not in aggregate.
+- **Using accounting gross margin instead of economic contribution margin.** Fully loaded CAC is consistently underestimated because teams exclude costs that are obviously variable (onboarding, account management time, fulfilment variation). When these are added back, payback periods often double.
+- **Treating LTV as a fixed number rather than a model.** LTV is a projection, not a fact. It depends on assumptions about churn rate, expansion revenue, and discount rate, all of which are uncertain. A business that treats its LTV estimate as reliable is building strategy on a projection it hasn't stress-tested. The right approach: model LTV under optimistic, base, and pessimistic churn assumptions and evaluate the range.
+- **Optimising unit economics at the expense of market position.** A business can improve its LTV:CAC ratio by serving fewer, better customers — but if those customers represent a small addressable market, the business has optimised itself into a corner. Unit economics must be evaluated alongside addressable market size.
 
 ---
 

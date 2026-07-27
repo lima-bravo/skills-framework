@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Every choice forecloses others
 connections:
+  - id: 35
+    rationale: efficiency-vs-resilience is one of the most common trade-offs a practitioner faces; naming it explicitly rather than defaulting to "more efficient is better" is this card's discipline applied.
   - id: 31
     rationale: trade-offs exist because scarcity makes it impossible to have everything; remove scarcity and the trade-off dissolves.
   - id: 33

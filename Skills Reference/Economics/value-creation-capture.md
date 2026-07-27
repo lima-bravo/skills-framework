@@ -73,13 +73,10 @@ The most common strategic mistake is confusing value creation with value capture
 
 ## Common Failure Modes
 
-**Building great products in structurally uncapturable markets.** Many technology companies create tremendous user value while failing to build capture mechanisms. "We'll monetise later" assumes a capture mechanism will emerge; it often doesn't. The time to design the capture mechanism is during product design, not after scale.
-
-**Conflating market share with value capture.** A firm can win market share by passing value to customers (low prices, high features) while capturing little of the value created. Scale without capture is a path to a large, unprofitable business.
-
-**Ignoring the intermediary capture problem.** In multi-sided markets and supply chains, intermediaries — platforms, distributors, retailers — often capture the majority of value even when they create a minority of it. A firm that builds for a platform without understanding how the platform's capture dynamics work is building value for someone else.
-
-**Assuming current capture rates are permanent.** Competitive dynamics shift capture rates over time. A firm that captures 40% of the value it creates today may capture 10% in five years if the competitive structure changes. Wardley Mapping and scenario planning are the tools for assessing this trajectory.
+- **Building great products in structurally uncapturable markets.** Many technology companies create tremendous user value while failing to build capture mechanisms. "We'll monetise later" assumes a capture mechanism will emerge; it often doesn't. The time to design the capture mechanism is during product design, not after scale.
+- **Conflating market share with value capture.** A firm can win market share by passing value to customers (low prices, high features) while capturing little of the value created. Scale without capture is a path to a large, unprofitable business.
+- **Ignoring the intermediary capture problem.** In multi-sided markets and supply chains, intermediaries — platforms, distributors, retailers — often capture the majority of value even when they create a minority of it. A firm that builds for a platform without understanding how the platform's capture dynamics work is building value for someone else.
+- **Assuming current capture rates are permanent.** Competitive dynamics shift capture rates over time. A firm that captures 40% of the value it creates today may capture 10% in five years if the competitive structure changes. Wardley Mapping and scenario planning are the tools for assessing this trajectory.
 
 ---
 
