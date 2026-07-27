@@ -4,6 +4,9 @@ name: AI Use Case Autonomy Assessment
 category: Pre-built Chains
 cardType: chain
 tagline: Determining what level of AI autonomy is appropriate and what governance it requires
+connections:
+  - id: 186
+    rationale: once this assessment sets the appropriate autonomy level, AI Agent Governance Design is the chain that architects the authority boundaries and controls to implement it.
 ---
 
 # AI Use Case Autonomy Assessment

@@ -75,15 +75,11 @@ The key diagnostic question is: *how long is the feedback cycle?* A team that in
 
 ## Common Failure Modes
 
-**Empiricism as theatre.** Retrospectives held, nothing changes. Sprint reviews conducted, no real inspection of outcome against goal. The cadences are present; the pillars are absent. The form produces the appearance of agility without any of its adaptive benefit. Usually a symptom of leadership that wants the vocabulary of empirical work without relinquishing control of the plan.
-
-**Fixed-plan override.** Senior leadership approves the "agile transformation" but continues demanding 12-month roadmaps with feature-level commitments. The inspect-and-adapt loop is broken at the top. Teams run sprints inside a plan that cannot change, and the empirical cycle produces feedback that no one is authorised to act on.
-
-**Confusing complicated with complex.** Applying EPC where a defined process is actually appropriate wastes overhead on adaptation that isn't needed. More commonly, applying defined process to genuinely complex work (novel products, new markets, uncertain regulatory environments) produces false confidence and delayed learning.
-
-**Short cycles, long feedback.** Two-week sprints are empirically meaningless if the signal from users takes three months to arrive. The inspection cadence and the feedback latency must be matched. Teams that sprint without accessible outcome feedback are running the loop without connecting it to reality.
-
-**Mistaking the ceremonies for the principle.** Standups, retrospectives, and demos are implementations of EPC — one possible set of practices for achieving transparency, inspection, and adaptation. They are not EPC itself. Teams that ask "are we doing agile right?" when they should ask "are we learning fast enough?" have confused the map for the territory.
+- **Empiricism as theatre.** Retrospectives held, nothing changes. Sprint reviews conducted, no real inspection of outcome against goal. The cadences are present; the pillars are absent. The form produces the appearance of agility without any of its adaptive benefit. Usually a symptom of leadership that wants the vocabulary of empirical work without relinquishing control of the plan.
+- **Fixed-plan override.** Senior leadership approves the "agile transformation" but continues demanding 12-month roadmaps with feature-level commitments. The inspect-and-adapt loop is broken at the top. Teams run sprints inside a plan that cannot change, and the empirical cycle produces feedback that no one is authorised to act on.
+- **Confusing complicated with complex.** Applying EPC where a defined process is actually appropriate wastes overhead on adaptation that isn't needed. More commonly, applying defined process to genuinely complex work (novel products, new markets, uncertain regulatory environments) produces false confidence and delayed learning.
+- **Short cycles, long feedback.** Two-week sprints are empirically meaningless if the signal from users takes three months to arrive. The inspection cadence and the feedback latency must be matched. Teams that sprint without accessible outcome feedback are running the loop without connecting it to reality.
+- **Mistaking the ceremonies for the principle.** Standups, retrospectives, and demos are implementations of EPC — one possible set of practices for achieving transparency, inspection, and adaptation. They are not EPC itself. Teams that ask "are we doing agile right?" when they should ask "are we learning fast enough?" have confused the map for the territory.
 
 ---
 

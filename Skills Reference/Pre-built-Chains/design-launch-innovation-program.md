@@ -4,6 +4,9 @@ name: Design and Launch an Innovation Program
 category: Pre-built Chains
 cardType: chain
 tagline: From diagnostic output to operating reality
+connections:
+  - id: 177
+    rationale: run Innovation Capability Diagnostic first — this chain designs the program around the specific constraints that diagnostic surfaces, rather than a generic template.
 ---
 
 # Design and Launch an Innovation Program

@@ -7,6 +7,8 @@ tagline: Take an honest inventory before you prescribe
 connections:
   - id: 244
     rationale: Organisational Degradation Scan feeds into this chain when the Cobra Effect is operating primarily through innovation and change programmes
+  - id: 178
+    rationale: this chain's six-dimension diagnostic output is the required input to Design and Launch an Innovation Program — that chain assumes the constraints surfaced here are already known.
 ---
 
 # Innovation Capability Diagnostic

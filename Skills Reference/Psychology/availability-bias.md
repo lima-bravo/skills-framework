@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: What comes to mind easily seems more likely
 connections:
+  - id: 206
+    rationale: closely related but distinct mechanisms — availability distorts a frequency judgment through recall ease (how easily cases come to mind), while base rate neglect ignores a known reference-class statistic in favor of the vivid case in front of you (representativeness of the individual, not of memory).
   - id: 55
     rationale: both biases filter information through existing beliefs and experience; availability contributes to confirmation (the vivid examples that come to mind are usually consistent with existing beliefs).
   - id: 7

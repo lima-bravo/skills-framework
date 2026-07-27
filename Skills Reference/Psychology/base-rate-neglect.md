@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: The vivid case in front of you is not more informative than the thousand cases behind it.
 connections:
+  - id: 56
+    rationale: closely related but distinct mechanisms — base rate neglect ignores a known reference-class statistic in favor of the vivid case in front of you, while availability bias distorts the frequency judgment itself through recall ease rather than through ignoring a known statistic.
   - id: 7
     rationale: base rate neglect is a specific and common failure of probabilistic reasoning; this card operationalises the correction
   - id: 160

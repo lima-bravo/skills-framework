@@ -4,6 +4,9 @@ name: AI Agent Governance Design
 category: Pre-built Chains
 cardType: chain
 tagline: Designing the authority boundary architecture before an agentic system goes into production
+connections:
+  - id: 187
+    rationale: this chain assumes the use case and its autonomy level have already been selected via AI Use Case Autonomy Assessment; it designs the governance architecture for that decision, not the decision itself.
 ---
 
 # AI Agent Governance Design
