@@ -31,7 +31,7 @@ references:
 ---
 ## Definition
 
-Reciprocity is the social and psychological principle that people feel obligated to return favors, gifts, and concessions. Robert Cialdini identified it as one of the fundamental principles of influence. The mechanism is deep and automatic: receiving something creates a psychological debt that most people are motivated to repay. It operates across cultures, time horizons, and contexts — from gifts in personal relationships to concessions in negotiations to goodwill in business relationships.
+Reciprocity is the social and psychological principle that people feel obligated to return favors, gifts, and concessions. Robert Cialdini identified it as one of the fundamental principles of influence. The mechanism is deep and automatic: receiving something creates a psychological debt that most people are motivated to repay. It operates across cultures, time horizons, and contexts — from gifts in personal relationships to concessions in negotiations to goodwill in business relationships. It belongs alongside this category's other force-and-mechanism cards for the same reason Newton's third law belongs alongside them: every social action generates an equal, opposed pull toward a return action, and the size of the obligation scales with the size of the original act — an asymmetric force in a system that otherwise looks frictionless.
 
 ---
 

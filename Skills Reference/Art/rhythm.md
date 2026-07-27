@@ -49,7 +49,7 @@ Rhythm operates through expectation and its satisfaction or violation. A pattern
 
 ## Common Failure Modes
 
-- **Uniform cadence.** Every sentence the same length, every paragraph the same structure, every section the same information density. This produces a flat, toneless work that is hard to attend to and easy to put down.
+- **No energy curve across the arc.** The opening, middle, and closing all run at the same tempo — no build, no release, no return. Even a work with plenty of local contrast (varied sentence lengths, varied visual weight) can still fail here if the *pacing over time* never shifts: same speed of delivery from minute one to minute twenty, no pause before the turn, no acceleration into the close. This is a failure of sequencing, not of density — it's what happens when a work has good ingredients but no arc.
 - **Rhythm without variation.** A rhythm that never varies becomes as invisible as no rhythm. The pattern establishes the expectation; the variation creates the meaning.
 - **Rhythm that overwhelms content.** A highly stylized rhythm (in writing, prose with elaborate syntactic patterns; in design, complex visual rhythms) that draws attention to itself rather than serving the content.
 
