@@ -33,7 +33,7 @@ Sampling is the process of drawing conclusions about a population from a subset 
 
 ## Mental Model
 
-The sample is a window onto the population. The size of the window determines how much you can see; the position of the window determines whether what you see is representative. A large, unbiased sample produces high-confidence generalisations. A small or biased sample produces unreliable ones, regardless of how carefully it is analysed.
+The sample is a window onto the population. The size of the window determines how much you can see; the position of the window determines whether what you see is representative — and these two failures are not interchangeable. A bigger sample makes a noisy-but-representative window sharper; it does nothing for a window facing the wrong direction. No amount of analytical care or statistical sophistication corrects a sample drawn from a biased frame — you cannot out-analyze a bad frame, you can only redraw it.
 
 ---
 
