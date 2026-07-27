@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: What happens after what happens
 connections:
+  - id: 1
+    rationale: inversion surfaces the specific failure modes to guard against; second-order thinking traces how any action — including a failure — cascades forward through time.
   - id: 17
     rationale: second-order thinking identifies the chains; feedback loop analysis describes when those chains circle back.
   - id: 51
