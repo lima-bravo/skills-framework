@@ -45,11 +45,15 @@ After migration, **`## Connections` and `## References` do not appear in the bod
 ## standard / extended — body section order
 
 1. `## Definition`
-2. `## Mental Model`
-3. *(extended only: additional `##` sections here)*
-4. `## Practitioner Heuristics`
-5. `## Common Failure Modes`
-6. `## Worked Example`
+2. *(extended only: context/disambiguation extras may go here, e.g. "Why This Is Different from X")*
+3. `## Mental Model`
+4. *(extended only: conceptual deep-dive extras may go here)*
+5. `## Practitioner Heuristics`
+6. `## Common Failure Modes`
+7. `## Worked Example`
+8. *(extended only: a trailing closing aside, e.g. "Origin Note", may go here)*
+
+Both extra-section positions (after Definition, after Mental Model) are established practice — use whichever fits the section's content. Section titles must still come from `knownExtendedSections` in the schema.
 
 Header block after frontmatter:
 

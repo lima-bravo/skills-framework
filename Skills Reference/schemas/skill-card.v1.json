@@ -73,8 +73,8 @@
         "Common Failure Modes",
         "Worked Example"
       ],
-      "extraSectionsAllowedAfter": "Mental Model",
-      "extraSectionsAllowedBefore": "Practitioner Heuristics",
+      "extraSectionsAllowedAfter": "Definition (context/disambiguation extras, e.g. \"Why This Is Different from X\") or Mental Model (conceptual deep-dive extras) — both patterns are established practice across the deck",
+      "extraSectionsAllowedBefore": "Practitioner Heuristics; a trailing closing aside (e.g. \"Origin Note\") may instead follow Worked Example",
       "knownExtendedSections": [
         "Three Structural Models",
         "Inbound and Outbound Flows",
