@@ -1,6 +1,6 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-07-27 | 268 skills | 16 categories | 1150 graph connections -->
+<!-- Last updated: 2026-07-27 | 270 skills | 16 categories | 1164 graph connections -->
 
 ## What this framework is
 
@@ -59,8 +59,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Innovation & Entrepreneurship (23 skills) — #DC2626
 `62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder` `237·Cobra Effect`
 
-### Mathematics (11 skills) — #4F46E5
-`75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero` `227·Expected Value` `228·Bayesian Updating` `233·Fermi Estimation` `238·Power Law`
+### Mathematics (12 skills) — #4F46E5
+`75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero` `227·Expected Value` `228·Bayesian Updating` `233·Fermi Estimation` `238·Power Law` `270·Real Options Reasoning`
 
 ### Network Effects (4 skills) — #CA8A04
 `82·Network Effects` `83·Viral Growth` `84·Marketplace` `85·Defensibility`
@@ -80,8 +80,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Pre-built Chains (22 skills) — #B45309
 `94·Pricing Decision` `95·Market Entry` `96·Hiring Decision` `97·Product Launch` `98·Investment Decision` `99·Should I Quit` `100·Life Decision` `117·Capacity Planning` `130·Transformation Chain` `168·Improve Delivery Flow` `169·Org Design for Flow Diagnostic` `170·Work to Be Done` `177·Innovation Capability Diagnostic` `178·Design and Launch an Innovation Program` `186·AI Agent Governance Design` `187·AI Use Case Autonomy Assessment` `198·Mission Execution Protocol` `213·From Idea to Hypothesis` `214·Crawl / Walk / Run` `244·Organisational Degradation Scan` `245·Funnel Intake` `266·DRRT Systems Analysis`
 
-### Leadership (17 skills) — #1E40AF
-`118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building` `242·Peter Principle` `257·Span of Control`
+### Leadership (18 skills) — #1E40AF
+`118·Mission Command` `119·OODA Loop` `124·Organizational Culture` `125·Change Management` `126·Risk Management` `129·Board Governance` `190·Three-Question Ritual` `191·Async-First Default` `193·Purpose Clarity` `194·Leader's Intent` `195·Brief-Back Protocols` `196·After-Action Review` `197·Tactical Pause` `221·Influence Without Authority` `222·Coalition Building` `242·Peter Principle` `257·Span of Control` `269·Negotiation`
 
 ### Applied AI (4 skills) — #0369A1
 `183·AI Authority Boundaries` `184·Minimal Capability Principle` `185·Prompt Injection` `268·AI Tool Teardown`
@@ -134,4 +134,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 268 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 270 skills · 16 categories · `skills-manifest.json` is authoritative*

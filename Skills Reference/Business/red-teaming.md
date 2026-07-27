@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: Mandate a team to attack your plan before your adversary does
 connections:
+  - id: 269
+    rationale: stress-testing your own negotiating position before the table — where would the other side attack, where is the deal weakest — is the preparation discipline Negotiation assumes has already happened.
   - id: 223
     rationale: the red team's first obligation; attacking a weak version of the plan is as useless as not attacking at all.
   - id: 204

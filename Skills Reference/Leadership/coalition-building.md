@@ -5,6 +5,8 @@ category: Leadership
 cardType: standard
 tagline: An idea with one champion is fragile. An idea with a coalition is a movement.
 connections:
+  - id: 269
+    rationale: assembling collective support toward an alignment that already exists is a different problem than resolving a genuine conflict of interest with a defined counterpart over specific terms — adjacent skills, not the same one.
   - id: 220
     rationale: "the essential prerequisite: the power map identifies who needs to be in the coalition, who the opinion leaders are, and what relationships between potential members already exist. *Build the power map before building the coalition.*"
   - id: 221

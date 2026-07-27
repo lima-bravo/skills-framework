@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: The org chart shows who is accountable. The power map shows who decides.
 connections:
+  - id: 269
+    rationale: know who holds leverage and why before deciding how hard to push at the table — this card is the prerequisite diagnostic Negotiation assumes has already been done.
   - id: 74
     rationale: "the complementary tool: stakeholder mapping analyses interests and salience (power, legitimacy, urgency); power mapping analyses influence *structure*. Use both: stakeholder mapping to prioritise who matters and why, power mapping to understand how they relate to each other. *These cards address adjacent but distinct questions — read both.*"
   - id: 221

@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Coordination happens around salient focal points, even without communication
 connections:
+  - id: 269
+    rationale: a Schelling point is a focal number both sides in a negotiation can converge on without explicit coordination, sometimes substituting for costly, adversarial back-and-forth.
   - id: 229
     rationale: when multiple Nash Equilibria exist, Schelling Points explain which equilibrium players coordinate on; salience selects among equivalent stable states.
   - id: 54

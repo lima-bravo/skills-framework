@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: Reversible decisions deserve speed; irreversible ones deserve deliberation
 connections:
+  - id: 270
+    rationale: a real option is what you deliberately build when a decision can't be made a two-way door naturally — paying a premium to manufacture reversibility the decision wouldn't otherwise have.
   - id: 24
     rationale: irreversible decisions require more margin of safety than reversible ones; the two frameworks work together.
   - id: 12

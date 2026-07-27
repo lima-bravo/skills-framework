@@ -5,6 +5,8 @@ category: Mathematics
 cardType: standard
 tagline: Revise beliefs in proportion to the strength of new evidence
 connections:
+  - id: 270
+    rationale: each stage-gate in a real option is a Bayesian update in disguise — new evidence arrives, the probability of success revises, and the continue/expand/abandon decision follows from that update rather than from momentum.
   - id: 7
     rationale: "Bayesian updating is the dynamic extension of probabilistic thinking: how beliefs evolve as evidence accumulates."
   - id: 206

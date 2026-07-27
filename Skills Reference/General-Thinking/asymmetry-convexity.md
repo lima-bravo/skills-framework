@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: Seek positions where upside exceeds downside
 connections:
+  - id: 270
+    rationale: real options are the staging mechanism that engineers the bounded-downside, unbounded-upside payoff shape this card describes — convexity names the shape, real options reasoning names how to build it.
   - id: 24
     rationale: "asymmetry thinking and margin of safety are complementary: both protect against the downside while keeping upside accessible."
   - id: 16

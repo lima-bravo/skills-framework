@@ -5,6 +5,8 @@ category: Leadership
 cardType: standard
 tagline: Positional power tells people what to do. Influence makes them want to.
 connections:
+  - id: 269
+    rationale: long-run credibility banked before any single ask is what this card builds; Negotiation is the discrete, bounded encounter where that credibility gets spent — or not — on a specific deal.
   - id: 220
     rationale: "the prerequisite diagnostic: understand who has influence and how influence flows before designing your influence approach. *Read Power Mapping first.*"
   - id: 222

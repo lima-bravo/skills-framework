@@ -5,6 +5,8 @@ category: Mathematics
 cardType: standard
 tagline: Decompose the unknowable into factors you can estimate
 connections:
+  - id: 270
+    rationale: Fermi estimation sizes the opportunity roughly enough to decide whether staging it is even worth a premium; Real Options Reasoning is what to do once that rough sizing says "maybe, but not yet."
   - id: 0
     rationale: "Fermi estimation is applied first-principles thinking: building up an answer from basic components rather than extrapolating from analogues."
   - id: 227

@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: Cost-plus pricing tells the customer what you paid. Value-based pricing asks what it's worth to them. They are not the same question.
 connections:
+  - id: 269
+    rationale: price is the most commonly negotiated variable; this card sets the value-based number worth defending, Negotiation is the discipline for defending it under pressure.
   - id: 217
     rationale: "the upstream model: value-based pricing is only possible if you understand what value is created and what determines how much of it can be captured; this card is the practical expression of that logic. *Note: these cards are closely related — read Value Creation and Capture first if pricing logic is new territory.*"
   - id: 216

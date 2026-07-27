@@ -5,6 +5,8 @@ category: Mathematics
 cardType: standard
 tagline: Multiply each outcome by its probability; sum the results
 connections:
+  - id: 270
+    rationale: EV prices a single-shot bet; Real Options Reasoning prices the additional value of deferring that bet until part of the uncertainty resolves — the option premium is what a plain EV calculation can't capture alone.
   - id: 7
     rationale: EV is the quantitative expression of probabilistic thinking; you need both the probability estimate and the magnitude to compute it.
   - id: 211

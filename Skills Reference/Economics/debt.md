@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Borrowing against future capacity
 connections:
+  - id: 270
+    rationale: structural opposites solving different problems — debt trades away future flexibility for present capacity, a real option pays a premium now specifically to preserve future flexibility.
   - id: 75
     rationale: debt compounds when not serviced; understanding compounding makes debt dynamics legible.
   - id: 24

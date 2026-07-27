@@ -1900,16 +1900,37 @@
       "file": "Skills Reference/Systems/requisite-variety.md",
       "color": "#0D9488",
       "cardType": "standard"
+    },
+    "Leadership/negotiation.md": {
+      "id": 269,
+      "name": "Negotiation",
+      "category": "Leadership",
+      "file": "Skills Reference/Leadership/negotiation.md",
+      "color": "#1E40AF",
+      "cardType": "standard"
+    },
+    "Mathematics/real-options-reasoning.md": {
+      "id": 270,
+      "name": "Real Options Reasoning",
+      "category": "Mathematics",
+      "file": "Skills Reference/Mathematics/real-options-reasoning.md",
+      "color": "#4F46E5",
+      "cardType": "standard"
     }
   },
   "refs": [
     {
-      "title": "3-D Negotiation",
-      "authorYear": "Lax, D.A. & Sebenius, J.K. (2006)",
+      "title": "3-D Negotiation: Powerful Tools to Change the Game in Your Most Important Deals",
+      "authorYear": "David A. Lax & James K. Sebenius (2006)",
       "skills": [
         {
           "id": 222,
           "name": "Coalition Building",
+          "color": "#1E40AF"
+        },
+        {
+          "id": 269,
+          "name": "Negotiation",
           "color": "#1E40AF"
         }
       ]
@@ -2416,6 +2437,17 @@
           "id": 92,
           "name": "Contrast",
           "color": "#DB2777"
+        }
+      ]
+    },
+    {
+      "title": "Bargaining for Advantage: Negotiation Strategies for Reasonable People",
+      "authorYear": "G. Richard Shell (1999)",
+      "skills": [
+        {
+          "id": 269,
+          "name": "Negotiation",
+          "color": "#1E40AF"
         }
       ]
     },
@@ -3353,12 +3385,17 @@
       ]
     },
     {
-      "title": "Getting to Yes",
-      "authorYear": "R. Fisher & W. Ury (1981)",
+      "title": "Getting to Yes: Negotiating Agreement Without Giving In",
+      "authorYear": "Roger Fisher, William Ury & Bruce Patton (1981)",
       "skills": [
         {
           "id": 221,
           "name": "Influence Without Authority",
+          "color": "#1E40AF"
+        },
+        {
+          "id": 269,
+          "name": "Negotiation",
           "color": "#1E40AF"
         }
       ]
@@ -3832,6 +3869,17 @@
           "id": 16,
           "name": "Two-Way Doors",
           "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Investment Under Uncertainty",
+      "authorYear": "Avinash K. Dixit & Robert S. Pindyck (1994)",
+      "skills": [
+        {
+          "id": 270,
+          "name": "Real Options Reasoning",
+          "color": "#4F46E5"
         }
       ]
     },
@@ -4842,6 +4890,17 @@
       ]
     },
     {
+      "title": "Real Options: Managing Strategic Investment in an Uncertain World",
+      "authorYear": "Martha Amram & Nalin Kulatilaka (1999)",
+      "skills": [
+        {
+          "id": 270,
+          "name": "Real Options Reasoning",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
       "title": "Realistic Evaluation",
       "authorYear": "Ray Pawson & Nick Tilley (1997)",
       "skills": [
@@ -5198,6 +5257,17 @@
           "id": 248,
           "name": "Profit Pool Analysis",
           "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Strategy as a Portfolio of Real Options",
+      "authorYear": "Timothy A. Luehrman, Harvard Business Review (1998)",
+      "skills": [
+        {
+          "id": 270,
+          "name": "Real Options Reasoning",
+          "color": "#4F46E5"
         }
       ]
     },

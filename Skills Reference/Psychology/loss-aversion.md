@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: Losses hurt more than equivalent gains feel good
 connections:
+  - id: 269
+    rationale: a concession framed as a loss lands harder than an equivalent gain, which is why the sequencing and framing of concessions matters as much as their size in a negotiation.
   - id: 53
     rationale: sunk cost fallacy is loss aversion applied to past investment.
   - id: 54

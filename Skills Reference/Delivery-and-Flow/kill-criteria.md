@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: The conditions under which you stop
 connections:
+  - id: 270
+    rationale: pre-committed stop conditions are what make a real option's abandon branch real rather than rhetorical, keeping a pilot from becoming a sunk-cost-funded commitment.
   - id: 65
     rationale: kill criteria are a third option (quit) often missing from the binary.
   - id: 53
