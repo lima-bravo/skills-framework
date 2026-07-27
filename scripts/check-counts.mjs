@@ -139,6 +139,9 @@ for (const [cat, n] of Object.entries(categoryCounts)) {
   A.push(['docs/quick-reference.html', new RegExp(`>${esc} &middot; (\\d+)<`, 'g'), n]);
 }
 
+// docs/quick-reference.html — page-footer total (manual file; drifted silently once already).
+A.push(['docs/quick-reference.html', /(\d+) skills across \d+ categories &middot; ©/g, totalSkills]);
+
 function pluginCount(id) {
   const dir = path.join(PLUGINS, id, 'skills');
   if (!fs.existsSync(dir)) return null;

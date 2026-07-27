@@ -61,6 +61,11 @@
           "id": 113,
           "name": "Three Horizons",
           "tag": "Is investment actively spread across core, emerging, and future — or all piled into Horizon 1?"
+        },
+        {
+          "id": 270,
+          "name": "Real Options Reasoning",
+          "tag": "Are large bets staged with named triggers and a real abandon branch, or committed in full on day one?"
         }
       ],
       "chain": {
