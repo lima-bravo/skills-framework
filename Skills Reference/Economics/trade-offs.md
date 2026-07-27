@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Every choice forecloses others
 connections:
+  - id: 271
+    rationale: opportunity cost is the specific quantity this card's trade-off reasoning is built on — every trade-off is, at bottom, a comparison against a named opportunity cost.
   - id: 35
     rationale: efficiency-vs-resilience is one of the most common trade-offs a practitioner faces; naming it explicitly rather than defaulting to "more efficient is better" is this card's discipline applied.
   - id: 31

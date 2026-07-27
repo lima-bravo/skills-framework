@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: A business case that can only survive friendly scrutiny is not a business case — it is a proposal dressed in numbers.
 connections:
+  - id: 271
+    rationale: a business case that doesn't name the opportunity cost of the capital and people it requires has only priced half the decision.
   - id: 73
     rationale: the technique for extracting and prioritising the belief stack that underlies the financial projections; the high-criticality, low-certainty assumptions are the ones to stress-test first
   - id: 160

@@ -4,6 +4,9 @@ name: Should I Quit
 category: Pre-built Chains
 cardType: chain
 tagline: "Strip the sunk cost, map the forward paths — past investment is not a reason to stay"
+connections:
+  - id: 271
+    rationale: Step 3 of this chain is opportunity cost reasoning applied to a specific career decision; this card is the underlying model the step operationalises.
 ---
 
 # Should I Quit

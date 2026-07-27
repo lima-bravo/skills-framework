@@ -1916,6 +1916,14 @@
       "file": "Skills Reference/Mathematics/real-options-reasoning.md",
       "color": "#4F46E5",
       "cardType": "standard"
+    },
+    "Economics/opportunity-cost.md": {
+      "id": 271,
+      "name": "Opportunity Cost",
+      "category": "Economics",
+      "file": "Skills Reference/Economics/opportunity-cost.md",
+      "color": "#16A34A",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -3086,13 +3094,18 @@
       ]
     },
     {
-      "title": "Economics",
+      "title": "Economics: An Introductory Analysis",
       "authorYear": "Paul A. Samuelson (1948)",
       "skills": [
         {
           "id": 23,
           "name": "Diminishing Returns",
           "color": "#0D9488"
+        },
+        {
+          "id": 271,
+          "name": "Opportunity Cost",
+          "color": "#16A34A"
         }
       ]
     },
@@ -3638,6 +3651,17 @@
           "id": 233,
           "name": "Fermi Estimation",
           "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "Human Action: A Treatise on Economics",
+      "authorYear": "Ludwig von Mises (1949)",
+      "skills": [
+        {
+          "id": 271,
+          "name": "Opportunity Cost",
+          "color": "#16A34A"
         }
       ]
     },

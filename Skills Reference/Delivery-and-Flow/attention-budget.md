@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: Personal WIP discipline — the individual analogue of flow
 connections:
+  - id: 271
+    rationale: attention and time are the scarcest resource in knowledge work; opportunity cost is the discipline for pricing what any use of that budget forecloses.
   - id: 132
     rationale: the team analogue of personal attention budgeting.
   - id: 149

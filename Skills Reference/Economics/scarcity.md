@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Resources are finite; wants are not
 connections:
+  - id: 271
+    rationale: opportunity cost only exists because resources are scarce; remove scarcity and there is no foregone alternative left to cost.
   - id: 30
     rationale: trade-offs only exist because of scarcity; unlimited resources eliminate most trade-offs.
   - id: 18

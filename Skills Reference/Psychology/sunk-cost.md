@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: Past investment should not drive future decisions
 connections:
+  - id: 271
+    rationale: opportunity cost looks forward to the best alternative; sunk cost is the backward-looking error of treating past spend as relevant to a forward decision — the two are easy to conflate and are analytically opposite.
   - id: 52
     rationale: 'sunk cost fallacy is driven by loss aversion: abandoning the project makes the prior loss "real."'
   - id: 1

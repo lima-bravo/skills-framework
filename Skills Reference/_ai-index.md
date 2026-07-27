@@ -1,6 +1,6 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-07-27 | 270 skills | 16 categories | 1164 graph connections -->
+<!-- Last updated: 2026-07-27 | 271 skills | 16 categories | 1170 graph connections -->
 
 ## What this framework is
 
@@ -44,8 +44,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Systems (24 skills) — #0D9488
 `17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure` `235·Path Dependence` `243·Dunbar's Number` `260·Fixes That Fail` `261·Systems Thinking` `264·System Archetypes` `265·CATWOE` `267·Requisite Variety`
 
-### Economics (22 skills) — #16A34A
-`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture` `229·Nash Equilibrium` `230·Prisoner's Dilemma` `231·Tragedy of the Commons` `232·Free Rider Problem` `236·Schelling Points` `239·Long Tail` `262·Incentive Design`
+### Economics (23 skills) — #16A34A
+`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture` `229·Nash Equilibrium` `230·Prisoner's Dilemma` `231·Tragedy of the Commons` `232·Free Rider Problem` `236·Schelling Points` `239·Long Tail` `262·Incentive Design` `271·Opportunity Cost`
 
 ### Physics & Chemistry (10 skills) — #EA580C
 `41·Leverage` `42·Velocity` `43·Inertia` `44·Friction` `45·Activation Energy` `46·Thermodynamics` `47·Catalysts` `48·Alloying` `49·Reciprocity` `50·Relativity`
@@ -134,4 +134,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 270 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 271 skills · 16 categories · `skills-manifest.json` is authoritative*
