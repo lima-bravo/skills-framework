@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: '"Growth has stalled" is a symptom report. The diagnosis is one binding constraint, named precisely enough to act on.'
 connections:
+  - id: 250
+    rationale: once the binding constraint is diagnosed, KPI Architecture is how you instrument it going forward rather than re-diagnosing it from scratch each quarter.
   - id: 18
     rationale: "the systems-theory foundation of this entire card: in any flow system, only the constraint determines throughput, and effort spent elsewhere is an illusion of progress."
   - id: 246

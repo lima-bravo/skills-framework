@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: The question is never "what can we measure?" It's "what decision does this number need to change?"
 connections:
+  - id: 247
+    rationale: when an outcome metric breaks, Growth Barriers is the method for finding which driver-tree node actually broke, rather than instrumenting harder around the wrong node.
   - id: 120
     rationale: "the failure mode this entire architecture exists partly to defend against: a measure that becomes a target stops being a good measure."
   - id: 152
