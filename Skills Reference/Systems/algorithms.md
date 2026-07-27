@@ -5,6 +5,8 @@ category: Systems
 cardType: standard
 tagline: Systematic procedures for solving problems
 connections:
+  - id: 267
+    rationale: an algorithm or fixed rule has fixed variety; it fails precisely on inputs outside the state space it was designed for — the regulation problem Requisite Variety names.
   - id: 18
     rationale: algorithms are often deployed to relieve bottlenecks in high-frequency decision processes.
   - id: 33

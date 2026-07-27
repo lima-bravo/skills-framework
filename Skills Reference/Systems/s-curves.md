@@ -5,6 +5,8 @@ category: Systems
 cardType: standard
 tagline: Know where you are on the curve
 connections:
+  - id: 264
+    rationale: the Limits to Growth archetype in System Archetypes is the structural pattern underneath an S-curve's flattening top.
   - id: 37
     rationale: each creative destruction event is a moment where a new S-curve displaces the previous one; the two frameworks explain the same phenomenon at different levels of abstraction.
   - id: 22

@@ -5,6 +5,8 @@ category: Systems
 cardType: standard
 tagline: Where you can go depends on where you have been
 connections:
+  - id: 264
+    rationale: Success-to-the-Successful is the archetype form of path-dependent lock-in cataloged in System Archetypes.
   - id: 43
     rationale: inertia is resistance to change without structural basis; path dependence is structural lock-in. Both produce resistance but require different interventions.
   - id: 28

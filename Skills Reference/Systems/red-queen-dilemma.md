@@ -5,6 +5,8 @@ category: Systems
 cardType: standard
 tagline: You must keep running just to stay in the same place
 connections:
+  - id: 264
+    rationale: Red Queen dynamics are the competitive-equilibrium instance of the Escalation archetype cataloged in System Archetypes.
   - id: 20
     rationale: Red Queen dynamics maintain a competitive equilibrium; all parties move, none advance relative to each other.
   - id: 37

@@ -5,6 +5,8 @@ category: Systems
 cardType: standard
 tagline: Behavior that arises from interaction
 connections:
+  - id: 264
+    rationale: archetype behaviour is itself emergent — the pattern in System Archetypes only appears at the whole-system level, never at any single component.
   - id: 17
     rationale: emergence often arises from feedback dynamics that aren't visible at the component level.
   - id: 22
