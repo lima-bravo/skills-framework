@@ -1261,14 +1261,14 @@
       "id": 177,
       "name": "Innovation Capability Diagnostic",
       "category": "Pre-built Chains",
-      "color": "#8B5CF6",
+      "color": "#B45309",
       "cardType": "chain"
     },
     "Pre-built-Chains/design-launch-innovation-program.md": {
       "id": 178,
       "name": "Design and Launch an Innovation Program",
       "category": "Pre-built Chains",
-      "color": "#8B5CF6",
+      "color": "#B45309",
       "cardType": "chain"
     },
     "Business/innovation-health-indicators.md": {
@@ -1331,14 +1331,14 @@
       "id": 186,
       "name": "AI Agent Governance Design",
       "category": "Pre-built Chains",
-      "color": "#7C3AED",
+      "color": "#B45309",
       "cardType": "chain"
     },
     "Pre-built-Chains/ai-use-case-autonomy-assessment.md": {
       "id": 187,
       "name": "AI Use Case Autonomy Assessment",
       "category": "Pre-built Chains",
-      "color": "#7C3AED",
+      "color": "#B45309",
       "cardType": "chain"
     },
     "General-Thinking/paradigm-shift.md": {
