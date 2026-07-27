@@ -14,11 +14,11 @@ connections:
   - id: 20
     rationale: shifting between equilibria requires an energy input to cross the barrier between stable states; activation energy is that barrier's mechanism.
   - id: 116
-    rationale: every interruption resets the activation energy required to re-enter deep focus; protecting unbroken time eliminates the repeated re-entry cost.
+    rationale: the maker's schedule is a calendar structure designed specifically to prevent the interruptions that keep forcing the activation-energy cost of re-entering focused work to be paid over and over.
   - id: 103
     rationale: the JTBD struggling moment is the demand-side activation energy threshold — demand begins only when push crosses the barrier that makes switching worth the cost and effort.
   - id: 114
-    rationale: every interruption raises the activation energy required to re-enter deep focus — the cognitive cost of context-switching compounds with each distraction.
+    rationale: the cognitive cost actually paid each time activation energy resets — deep work names what re-entering a flow state requires and why it isn't instantaneous.
 references:
   - title: "Switch: How to Change Things When Change Is Hard"
     authorYear: Chip Heath & Dan Heath (2010)
@@ -50,7 +50,7 @@ Think of a ball sitting in a depression on one side of a hill, with a deeper val
 
 ## Practitioner Heuristics
 
-- **Reduce activation energy for behaviors you want to encourage.** If you want more written communication, make it easy to write (templates, dedicated time, no-meeting blocks). If you want faster code deployment, eliminate the friction at the start of the deployment process.
+- **Reduce activation energy for behaviors you want to encourage.** If you want more written communication, make it easy to write (templates, dedicated time, no-meeting blocks). If you want more customers to complete onboarding, remove every field and decision the first session doesn't strictly need.
 - **Increase activation energy for behaviors you want to prevent.** Requiring a written justification for adding a new software dependency raises the activation energy for dependency bloat. Requiring a calendar decline note increases the activation energy for no-shows.
 - **Design with activation energy as the key variable.** The most effective behavior change interventions work not by incentivizing or prohibiting, but by redesigning the activation energy required.
 - **Identify your own activation energy barriers.** What valuable things do you not do, not because they're undesirable but because starting them feels costly? What would lower the barrier?

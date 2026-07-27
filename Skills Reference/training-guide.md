@@ -47,7 +47,7 @@ The categories are not arbitrary. They reflect different levels of abstraction a
 | Network Effects | 4 | Platform and ecosystem strategy |
 | Learning | 6 | Building capability deliberately |
 | Art | 4 | Communication and creative expression |
-| Delivery & Flow | 33 | Throughput, WIP, metrics, org design for flow |
+| Delivery & Flow | 33 | Throughput, WIP, metrics, org design for flow — scoped to knowledge-work and software delivery, not general operations (no Six Sigma/DMAIC/JIT) |
 | Consulting Craft | 10 | Problem structuring, executive communication, engagement management |
 | Leadership | 18 | Change, culture, governance, trust, operational execution, meeting discipline |
 | Applied AI | 4 | AI governance, authority boundaries, agentic system design |

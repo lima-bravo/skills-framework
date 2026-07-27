@@ -47,7 +47,7 @@ If the product has viral potential, is the viral mechanism built into the launch
 
 ---
 
-## Step 7 — Framing and Audience: Is the launch communication designed for the right audience?
+## Step 7 — Audience and Framing: Is the launch communication designed for the right audience?
 
 Who is the specific person the launch communication is designed for? Is the framing of the value proposition in their language, addressing their specific jobs-to-be-done? Is the launch channel matched to where they are?
 

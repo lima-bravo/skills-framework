@@ -78,7 +78,7 @@ Decompose backward from the outcome into a **MECE** set of work types — not an
 
 ---
 
-## Step 6 — Hypothesis-Driven Refinement: What must be true, and how will we test it?
+## Step 6 — Hypothesis-Driven Consulting: What must be true, and how will we test it?
 
 Take the top 3–7 assumptions from Step 4. For each, state: the hypothesis, the evidence that would **confirm**, the evidence that would **falsify**, and the cheapest test before heavy work starts. Update the work tree when a sub-hypothesis fails — do not bury falsification. **Pre-mortem**: it is 12 months later and the outcome failed; which work items were waste, which were missing?
 
