@@ -5,6 +5,8 @@ category: Consulting Craft
 cardType: standard
 tagline: Answer first. Then support. Then evidence.
 connections:
+  - id: 272
+    rationale: the pyramid principle is composition applied to argument structure — the governing thought occupies the highest-hierarchy position for the same reason the most important visual element does.
   - id: 162
     rationale: the supporting layer of a pyramid must be MECE.
   - id: 161

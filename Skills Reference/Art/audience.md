@@ -5,6 +5,8 @@ category: Art
 cardType: standard
 tagline: Design for a specific person, not everyone
 connections:
+  - id: 272
+    rationale: what reads as a natural scan path depends on the audience's visual conventions and prior exposure — a composition designed for one audience's reading habits may fail entirely for another.
   - id: 66
     rationale: customer development generates the empirical data that makes audience models accurate.
   - id: 69

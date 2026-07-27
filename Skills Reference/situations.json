@@ -1384,6 +1384,12 @@
               "chain": false
             },
             {
+              "id": 273,
+              "name": "Constraint",
+              "tag": "When nothing converges, add a constraint rather than removing one — a narrower brief unlocks what an open one couldn't",
+              "chain": false
+            },
+            {
               "id": 213,
               "name": "From Idea to Hypothesis",
               "tag": "Before committing to the next experiment, convert each candidate into a testable hypothesis with explicit kill criteria",
@@ -1675,6 +1681,12 @@
               "name": "Audience",
               "tag": "Who is in the room? What do they need to decide? What do they already know?",
               "chain": false
+            },
+            {
+              "id": 272,
+              "name": "Composition / Visual Hierarchy",
+              "tag": "Where the eye goes first is a design decision, not an accident",
+              "chain": false
             }
           ]
         },
@@ -1848,6 +1860,12 @@
               "name": "Two-Way Doors",
               "tag": "Reversible decisions deserve speed; irreversible ones require human oversight",
               "chain": false
+            },
+            {
+              "id": 275,
+              "name": "Human-in-the-Loop Design",
+              "tag": "A human who reads every output is a real gate only until reviewing becomes a formality",
+              "chain": false
             }
           ]
         },
@@ -1871,6 +1889,12 @@
               "id": 183,
               "name": "AI Authority Boundaries",
               "tag": "If the pitch clears the teardown, this is the register for building trust into the system you deploy",
+              "chain": false
+            },
+            {
+              "id": 274,
+              "name": "AI Evaluation Discipline",
+              "tag": "A model you can't measure on your own data is a model you're trusting on faith — the standing practice after the pitch is accepted",
               "chain": false
             }
           ]

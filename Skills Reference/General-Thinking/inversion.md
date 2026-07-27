@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: Flip the question
 connections:
+  - id: 273
+    rationale: imposing a constraint and asking what becomes possible only within it is a form of inversion — flip from "what could we do" to "what must we do, given this limit."
   - id: 2
     rationale: inversion exposes first-order failure; second-order thinking asks what happens after the failure cascades.
   - id: 55

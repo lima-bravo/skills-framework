@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: Executive focus is choosing what NOT to do
 connections:
+  - id: 273
+    rationale: a hard constraint forces the same prioritization discipline this card names — when everything can't fit, the constraint decides what does.
   - id: 30
     rationale: strategic prioritization is the executive practice of trade-off reasoning.
   - id: 152

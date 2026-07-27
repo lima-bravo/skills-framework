@@ -5,6 +5,8 @@ category: Art
 cardType: standard
 tagline: Pattern and variation create flow
 connections:
+  - id: 272
+    rationale: composition is the spatial layout of a single moment; rhythm is the same discipline extended across time — the sequence of moments a reader or viewer moves through.
   - id: 92
     rationale: "rhythm works through contrast: the variation within the pattern is contrast; the pattern itself is rhythm."
   - id: 90

@@ -5,6 +5,8 @@ category: Innovation & Entrepreneurship
 cardType: standard
 tagline: The minimum viable product generates maximum learning
 connections:
+  - id: 273
+    rationale: "the MVP is constraint applied to product scope — the smallest version that tests the hypothesis, for the same reason a tight creative constraint forces invention: the easy, generic options are foreclosed."
   - id: 63
     rationale: the MVP is the "build" artefact in each BML cycle.
   - id: 73

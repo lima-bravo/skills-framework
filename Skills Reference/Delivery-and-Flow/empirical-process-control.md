@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: In complex work, the process that produces good outcomes is one that continuously corrects itself — not one that executes a fixed plan.
 connections:
+  - id: 275
+    rationale: the standing instrument Human-in-the-Loop Design needs — inspect the actual override rate on a real cadence, don't assume the gate works because it did at launch.
   - id: 122
     rationale: EPC is the correct governing mechanism for the Complex domain; defined processes suit Complicated. Cynefin provides the diagnostic for which approach applies.
   - id: 146

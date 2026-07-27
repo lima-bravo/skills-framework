@@ -5,6 +5,8 @@ category: Innovation & Entrepreneurship
 cardType: extended
 tagline: Make sure you're building the Right It before you build it right
 connections:
+  - id: 273
+    rationale: pretotyping is an even harder constraint than the MVP — testing demand before building anything at all; both cards apply the same generative-limitation logic at different stages.
   - id: 64
     rationale: pretotyping answers the demand question that precedes the MVP; an MVP is built after pretotyping confirms there is an audience worth building for.
   - id: 73

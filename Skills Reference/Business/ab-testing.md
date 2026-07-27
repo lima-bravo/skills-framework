@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: Let reality choose between two versions — before you commit to either
 connections:
+  - id: 274
+    rationale: A/B testing checks whether a change helps in a live production comparison; AI Evaluation Discipline's regression suite is the pre-production analogue, catching a regression before it ever reaches a live experiment.
   - id: 72
     rationale: A/B testing is the most common operationalisation of experiment design principles in product and marketing practice; the general principles of hypothesis formation, control conditions, and pre-specified criteria apply directly.
   - id: 204

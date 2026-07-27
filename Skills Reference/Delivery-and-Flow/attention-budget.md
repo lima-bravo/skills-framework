@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: Personal WIP discipline — the individual analogue of flow
 connections:
+  - id: 275
+    rationale: the reviewer's attention is a finite budget like any other; volume creep spends it faster than anyone decided to, without redesigning the task to fit what remains.
   - id: 271
     rationale: attention and time are the scarcest resource in knowledge work; opportunity cost is the discipline for pricing what any use of that budget forecloses.
   - id: 132

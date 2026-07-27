@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: Being right on any single call is luck. Being right at the rate you predicted is skill.
 connections:
+  - id: 274
+    rationale: calibration is exactly what AI Evaluation Discipline's practice measures for an AI system — whether stated or implied confidence tracks actual correctness, not just raw accuracy.
   - id: 7
     rationale: calibration is the goal that probabilistic thinking pursues; thinking in distributions is the method, being calibrated is the standard of success
   - id: 5

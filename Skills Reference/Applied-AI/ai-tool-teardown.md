@@ -5,6 +5,10 @@ category: Applied AI
 cardType: extended
 tagline: Decompose the pitch into five functions, label the evidence, and end on a decision — not a verdict on silence
 connections:
+  - id: 274
+    rationale: the teardown is the one-time procurement decision; AI Evaluation Discipline is the standing practice you build once you already operate the system, to know whether the verdict the teardown reached still holds.
+  - id: 275
+    rationale: a pilot-only verdict that names "human review" as its control is only real if the reviewer-vigilance discipline in Human-in-the-Loop Design is applied to that review — otherwise the control named in the decision quietly stops existing.
   - id: 183
     rationale: the governance cousin — teardown decides whether a vendor's control/verification blocks deserve trust; authority boundaries is the register for building that trust when you own the system.
   - id: 184

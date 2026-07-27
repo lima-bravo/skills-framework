@@ -5,6 +5,8 @@ category: Applied AI
 cardType: extended
 tagline: Programmatically encoding where AI may not become a decision-maker
 connections:
+  - id: 275
+    rationale: Register 1 assumes a human reading every output is a reliable gate; Human-in-the-Loop Design is the human-factors question of when that assumption actually holds and when it silently stops.
   - id: 184
     rationale: the design discipline that implements Register 2; capability enforcement in practice.
   - id: 185

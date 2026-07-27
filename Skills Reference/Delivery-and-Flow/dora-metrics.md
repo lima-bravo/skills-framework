@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: Four numbers that distinguish high-performing software delivery
 connections:
+  - id: 274
+    rationale: structural analogy — DORA gives a delivery pipeline a standing measurement instrument instead of anecdote; AI Evaluation Discipline does the same for an AI system's output quality.
   - id: 134
     rationale: DORA's "lead time for changes" is a specific cycle-time variant.
   - id: 133

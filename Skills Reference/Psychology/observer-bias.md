@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: The evaluator who knows what they're looking for will find it.
 connections:
+  - id: 275
+    rationale: a different failure mode from the same family — observer bias distorts what a reviewer notices; automation complacency distorts whether they're really looking at all.
   - id: 72
     rationale: blinded evaluation is the structural application of observer bias control to formal experiments; the control group alone is not sufficient if assessors know which condition is which
   - id: 55

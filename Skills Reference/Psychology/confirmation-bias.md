@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: We seek evidence that confirms what we believe
 connections:
+  - id: 274
+    rationale: the informal-review failure mode AI Evaluation Discipline exists to counter — outputs that get scrutinized are a biased sample, disproportionately either already-correct or already-flagged.
   - id: 1
     rationale: inversion is the active practice of disconfirmation, which is the direct antidote to confirmation bias.
   - id: 6

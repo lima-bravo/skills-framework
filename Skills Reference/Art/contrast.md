@@ -5,6 +5,8 @@ category: Art
 cardType: standard
 tagline: Meaning emerges from difference
 connections:
+  - id: 272
+    rationale: contrast is the mechanism that makes one element read as different; composition is the spatial arrangement that decides where that difference is placed and what it's compared against.
   - id: 91
     rationale: contrast is often used to establish the frame (current state vs. desired state, problem vs. solution).
   - id: 90

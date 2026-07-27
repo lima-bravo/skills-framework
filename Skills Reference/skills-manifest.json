@@ -1924,6 +1924,38 @@
       "file": "Skills Reference/Economics/opportunity-cost.md",
       "color": "#16A34A",
       "cardType": "standard"
+    },
+    "Art/composition.md": {
+      "id": 272,
+      "name": "Composition / Visual Hierarchy",
+      "category": "Art",
+      "file": "Skills Reference/Art/composition.md",
+      "color": "#DB2777",
+      "cardType": "standard"
+    },
+    "Art/constraint.md": {
+      "id": 273,
+      "name": "Constraint",
+      "category": "Art",
+      "file": "Skills Reference/Art/constraint.md",
+      "color": "#DB2777",
+      "cardType": "standard"
+    },
+    "Applied-AI/ai-evaluation-discipline.md": {
+      "id": 274,
+      "name": "AI Evaluation Discipline",
+      "category": "Applied AI",
+      "file": "Skills Reference/Applied-AI/ai-evaluation-discipline.md",
+      "color": "#0369A1",
+      "cardType": "standard"
+    },
+    "Applied-AI/human-in-the-loop-design.md": {
+      "id": 275,
+      "name": "Human-in-the-Loop Design",
+      "category": "Applied AI",
+      "file": "Skills Reference/Applied-AI/human-in-the-loop-design.md",
+      "color": "#0369A1",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -2242,6 +2274,17 @@
           "id": 228,
           "name": "Bayesian Updating",
           "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "AI Snake Oil: What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference",
+      "authorYear": "Arvind Narayanan & Sayash Kapoor (2024)",
+      "skills": [
+        {
+          "id": 274,
+          "name": "AI Evaluation Discipline",
+          "color": "#0369A1"
         }
       ]
     },
@@ -2741,6 +2784,17 @@
       ]
     },
     {
+      "title": "Complacency and Bias in Human Use of Automation: An Attentional Integration",
+      "authorYear": "Raja Parasuraman & Dietrich H. Manzey, Human Factors Vol. 52 No. 3 (2010)",
+      "skills": [
+        {
+          "id": 275,
+          "name": "Human-in-the-Loop Design",
+          "color": "#0369A1"
+        }
+      ]
+    },
+    {
       "title": "Complex Adaptive Systems: An Introduction to Computational Models of Social Life",
       "authorYear": "John H. Miller & Scott E. Page (2007)",
       "skills": [
@@ -3204,6 +3258,17 @@
           "id": 212,
           "name": "Observer Bias",
           "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "Exercises in Style",
+      "authorYear": "Raymond Queneau (1947)",
+      "skills": [
+        {
+          "id": 273,
+          "name": "Constraint",
+          "color": "#DB2777"
         }
       ]
     },
@@ -3758,6 +3823,17 @@
       ]
     },
     {
+      "title": "Impro: Improvisation and the Theatre",
+      "authorYear": "Keith Johnstone (1979)",
+      "skills": [
+        {
+          "id": 273,
+          "name": "Constraint",
+          "color": "#DB2777"
+        }
+      ]
+    },
+    {
       "title": "Increasing Returns and Path Dependence in the Economy",
       "authorYear": "W. Brian Arthur (1994)",
       "skills": [
@@ -3904,6 +3980,17 @@
           "id": 270,
           "name": "Real Options Reasoning",
           "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "Ironies of Automation",
+      "authorYear": "Lisanne Bainbridge, Automatica Vol. 19 No. 6 (1983)",
+      "skills": [
+        {
+          "id": 275,
+          "name": "Human-in-the-Loop Design",
+          "color": "#0369A1"
         }
       ]
     },
@@ -4115,6 +4202,17 @@
           "id": 226,
           "name": "Grice's Maxims",
           "color": "#3B82F6"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Yearning",
+      "authorYear": "Andrew Ng (2018)",
+      "skills": [
+        {
+          "id": 274,
+          "name": "AI Evaluation Discipline",
+          "color": "#0369A1"
         }
       ]
     },
@@ -6520,6 +6618,17 @@
       ]
     },
     {
+      "title": "The Non-Designer's Design Book",
+      "authorYear": "Robin Williams (1994)",
+      "skills": [
+        {
+          "id": 272,
+          "name": "Composition / Visual Hierarchy",
+          "color": "#DB2777"
+        }
+      ]
+    },
+    {
       "title": "The One Thing",
       "authorYear": "Gary Keller & Jay Papasan (2013)",
       "skills": [
@@ -7041,6 +7150,17 @@
           "id": 201,
           "name": "Hindsight Bias",
           "color": "#9333EA"
+        }
+      ]
+    },
+    {
+      "title": "The Visual Display of Quantitative Information",
+      "authorYear": "Edward R. Tufte (1983)",
+      "skills": [
+        {
+          "id": 272,
+          "name": "Composition / Visual Hierarchy",
+          "color": "#DB2777"
         }
       ]
     },
