@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: Experts don't think harder — they think less. Until the situation demands otherwise.
 connections:
+  - id: 276
+    rationale: "skill-based behaviour is Polanyi's tacit knowledge in this card's cognitive-control vocabulary: fluent, largely inarticulate execution. The paradox explains why that specific mode resists codification into AI systems, not just how it fails."
   - id: 196
     rationale: "SRK classification is a useful structuring lens for AARs: separate the slip/lapse findings from the rule mistake findings from the knowledge mistake findings; each stream requires a different remediation discussion"
   - id: 200

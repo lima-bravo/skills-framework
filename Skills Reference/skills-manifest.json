@@ -1956,6 +1956,14 @@
       "file": "Skills Reference/Applied-AI/human-in-the-loop-design.md",
       "color": "#0369A1",
       "cardType": "standard"
+    },
+    "Applied-AI/polanyis-paradox.md": {
+      "id": 276,
+      "name": "Polanyi's Paradox",
+      "category": "Applied AI",
+      "file": "Skills Reference/Applied-AI/polanyis-paradox.md",
+      "color": "#0369A1",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -7048,6 +7056,17 @@
       ]
     },
     {
+      "title": "The Tacit Dimension",
+      "authorYear": "Michael Polanyi (1966)",
+      "skills": [
+        {
+          "id": 276,
+          "name": "Polanyi's Paradox",
+          "color": "#0369A1"
+        }
+      ]
+    },
+    {
       "title": "The Tipping Point: How Little Things Can Make a Big Difference",
       "authorYear": "Malcolm Gladwell (2000)",
       "skills": [
@@ -7692,6 +7711,17 @@
           "id": 109,
           "name": "Adjacent Possible",
           "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "Why Are There Still So Many Jobs? The History and Future of Workplace Automation",
+      "authorYear": "David H. Autor, Journal of Economic Perspectives Vol. 29 No. 3 (2015)",
+      "skills": [
+        {
+          "id": 276,
+          "name": "Polanyi's Paradox",
+          "color": "#0369A1"
         }
       ]
     },

@@ -1,6 +1,6 @@
 # Skills Framework — AI Instructions
 
-This project is a library of 275 mental model cards for disciplined critical thinking. Your role here is to act as a **natural language interface** to the framework: surface the right models for a situation, apply their heuristics, and flag their failure modes.
+This project is a library of 276 mental model cards for disciplined critical thinking. Your role here is to act as a **natural language interface** to the framework: surface the right models for a situation, apply their heuristics, and flag their failure modes.
 
 ---
 

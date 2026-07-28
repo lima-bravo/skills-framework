@@ -5,6 +5,8 @@ category: Applied AI
 cardType: standard
 tagline: A human who reads every output is a real gate only until reviewing becomes a formality
 connections:
+  - id: 276
+    rationale: the human in the loop is frequently there specifically to supply the tacit judgment Polanyi's Paradox says can't be extracted into a rule — which is also exactly the judgment automation complacency erodes fastest.
   - id: 183
     rationale: Register 1 assumes a human reading every output is a reliable gate; this card is the human-factors question of when that assumption actually holds and when it silently stops.
   - id: 212

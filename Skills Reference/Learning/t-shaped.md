@@ -5,6 +5,8 @@ category: Learning
 cardType: standard
 tagline: Deep expertise in one area; useful breadth in many
 connections:
+  - id: 276
+    rationale: the vertical bar's depth is disproportionately tacit — this is why deep expertise transfers through apprenticeship and repeated exposure rather than documentation, and why a T-shaped hire can't simply write down what they know for someone else to codify.
   - id: 86
     rationale: T-shaped breadth is the raw material for model chaining.
   - id: 32

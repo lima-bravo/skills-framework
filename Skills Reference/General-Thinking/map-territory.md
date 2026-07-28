@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: The model is not the reality
 connections:
+  - id: 276
+    rationale: an expert's self-report of their own reasoning is itself a map — already a lossy compression of the tacit territory of their actual judgment, not a transcript of it.
   - id: 0
     rationale: a method for building better maps from scratch.
   - id: 7

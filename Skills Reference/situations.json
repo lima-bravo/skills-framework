@@ -1886,6 +1886,12 @@
               "chain": false
             },
             {
+              "id": 276,
+              "name": "Polanyi's Paradox",
+              "tag": "A pitch that claims to replace expert judgment: was that judgment ever codified, or is it tacit skill no interview extracted?",
+              "chain": false
+            },
+            {
               "id": 183,
               "name": "AI Authority Boundaries",
               "tag": "If the pitch clears the teardown, this is the register for building trust into the system you deploy",

@@ -5,6 +5,8 @@ category: Applied AI
 cardType: extended
 tagline: Grant only what the task requires, at the stage it requires it
 connections:
+  - id: 276
+    rationale: what to keep as a human-only step in a multi-agent workflow is often decided by this paradox — the tacit-judgment step is the one that can't safely be handed to a model trained on codified patterns.
   - id: 183
     rationale: the master framework; minimal capability implements Register 2 (capability enforcement) within the six-register architecture.
   - id: 185

@@ -5,6 +5,8 @@ category: Applied AI
 cardType: extended
 tagline: Decompose the pitch into five functions, label the evidence, and end on a decision — not a verdict on silence
 connections:
+  - id: 276
+    rationale: "a vendor pitch that claims to replace expert judgment should be checked against this paradox first: was the task's competence ever codified in the first place, or does it only exist as tacit skill no interview extracted?"
   - id: 274
     rationale: the teardown is the one-time procurement decision; AI Evaluation Discipline is the standing practice you build once you already operate the system, to know whether the verdict the teardown reached still holds.
   - id: 275
