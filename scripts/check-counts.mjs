@@ -83,7 +83,7 @@ console.log('Canonical (from manifest/build):', JSON.stringify(C));
 // every match is checked, so repeated phrasings are all covered.
 const A = [
   // CLAUDE.md
-  ['CLAUDE.md', /library of (\d+) mental model cards/g, totalSkills],
+  ['CLAUDE.md', /library of (\d+) cards for disciplined/g, totalSkills],
 
   // README.md
   ['README.md', /\*\*(\d+) skills\*\* across \*\*\d+ categories\*\*/g, totalSkills],

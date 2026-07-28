@@ -5,6 +5,21 @@ Canonical registry: `skills-manifest.json` (`id`, `name`, `category`, `color`, `
 
 Every card **must** start with YAML frontmatter. Narrative prose lives in the markdown body.
 
+## Scope: what belongs in this collection
+
+The collection is **mental models plus practitioner methods and reusable protocols** — not a strict mental-model library. Most cards are transferable thinking patterns; a substantial minority (RACI, DORA Metrics, Kanban Method, OKRs, PDCA, and similar) are named methods or protocols. Both are welcome. What isn't welcome is a one-off domain fact or a process step with no transferability beyond its origin context.
+
+## Admission criteria for a new card
+
+Before drafting a new card — model or method — it should pass four tests:
+
+1. **It is a transferable thinking pattern or reusable practice, not a domain fact.** It should apply across multiple industries or situation types, not describe one specific fact about one specific domain.
+2. **It has genuine predictive or diagnostic power.** Applying it should change what you'd expect to see or what you'd do next — not just relabel something already obvious.
+3. **It has a realistic, specific failure mode.** Not a generic caveat that could be pasted onto any card, but the way this specific model actually gets misapplied in practice.
+4. **It is distinct from every existing card.** Write the distinction from the closest existing card(s) in two or three sentences before authoring the full card. If the distinction can't be stated that concisely, the candidate should be merged into an existing card or dropped, not added as a new one.
+
+Card count is not itself a gap signal — a category being smaller than others (Network Effects, Art) does not mean it needs padding. Only add where these four tests are clearly met.
+
 ## cardType
 
 | Type | When to use | Body section model |
