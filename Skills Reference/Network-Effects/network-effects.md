@@ -5,6 +5,8 @@ category: Network Effects
 cardType: standard
 tagline: Value increases with every additional participant
 connections:
+  - id: 286
+    rationale: network effects and switching costs are both defensibility mechanisms but work through different logic — network effects make a product more valuable as more people use it; switching costs make leaving a specific product costly regardless of how many other people use it.
   - id: 22
     rationale: network effects only activate above the critical mass threshold.
   - id: 83

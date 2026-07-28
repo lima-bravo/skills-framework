@@ -1,6 +1,6 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-07-28 | 285 skills | 16 categories | 1236 graph connections -->
+<!-- Last updated: 2026-07-28 | 286 skills | 16 categories | 1241 graph connections -->
 
 ## What this framework is
 
@@ -62,8 +62,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Mathematics (13 skills) — #4F46E5
 `75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero` `227·Expected Value` `228·Bayesian Updating` `233·Fermi Estimation` `238·Power Law` `270·Real Options Reasoning` `277·Value of Information`
 
-### Network Effects (4 skills) — #CA8A04
-`82·Network Effects` `83·Viral Growth` `84·Marketplace` `85·Defensibility`
+### Network Effects (5 skills) — #CA8A04
+`82·Network Effects` `83·Viral Growth` `84·Marketplace` `85·Defensibility` `286·Switching Costs`
 
 ### Learning (8 skills) — #059669
 `86·Model Chaining` `87·T-Shaped` `88·Five-Hour Rule` `89·Learning Transfer` `105·Pre-built Chains` `114·Deep Work / Cognitive Capacity` `281·Desirable Difficulties` `282·Double-Loop Learning`
@@ -134,4 +134,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 285 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 286 skills · 16 categories · `skills-manifest.json` is authoritative*

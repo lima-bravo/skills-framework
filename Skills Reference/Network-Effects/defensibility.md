@@ -5,6 +5,8 @@ category: Network Effects
 cardType: standard
 tagline: The ability to maintain competitive advantage
 connections:
+  - id: 286
+    rationale: Defensibility is the general category of moats — network effects, economies of scale, switching costs, brand, intellectual property; Switching Costs is the specific mechanism among those that this framework's other cards most frequently invoke without defining.
   - id: 82
     rationale: the strongest defensibility moat in digital markets.
   - id: 34

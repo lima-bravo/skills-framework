@@ -5,6 +5,8 @@ category: Network Effects
 cardType: standard
 tagline: Platforms that match supply and demand
 connections:
+  - id: 286
+    rationale: a marketplace's two-sided switching costs are asymmetric and worth analysing separately — the cost for a buyer to leave is rarely the same as the cost for a seller to leave, and a platform's true lock-in is the lower of the two, not the higher.
   - id: 82
     rationale: marketplace value grows through cross-side network effects.
   - id: 22

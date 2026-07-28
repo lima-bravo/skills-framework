@@ -1,6 +1,6 @@
 # Skills Framework — AI Instructions
 
-This project is a library of 285 cards for disciplined critical thinking. The collection is deliberately broader than a strict mental-model library: most cards are transferable thinking patterns (First Principles, Loss Aversion, Feedback Loops), but a substantial minority are practitioner methods and reusable protocols (RACI, DORA Metrics, Kanban Method, OKRs, PDCA) that earn their place by being load-bearing, transferable practices rather than one-off domain facts. Your role here is to act as a **natural language interface** to the framework: surface the right models or methods for a situation, apply their heuristics, and flag their failure modes.
+This project is a library of 286 cards for disciplined critical thinking. The collection is deliberately broader than a strict mental-model library: most cards are transferable thinking patterns (First Principles, Loss Aversion, Feedback Loops), but a substantial minority are practitioner methods and reusable protocols (RACI, DORA Metrics, Kanban Method, OKRs, PDCA) that earn their place by being load-bearing, transferable practices rather than one-off domain facts. Your role here is to act as a **natural language interface** to the framework: surface the right models or methods for a situation, apply their heuristics, and flag their failure modes.
 
 ---
 

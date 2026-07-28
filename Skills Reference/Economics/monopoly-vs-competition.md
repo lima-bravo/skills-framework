@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Market structure determines strategy
 connections:
+  - id: 286
+    rationale: switching costs are one of the most common structural mechanisms by which a competitive market position converts into something closer to a durable, monopoly-like retention advantage, independent of ongoing product superiority.
   - id: 217
     rationale: market position is the primary determinant of how much of created value a firm can capture — monopoly maximises capture, competition drives it toward zero.
   - id: 85

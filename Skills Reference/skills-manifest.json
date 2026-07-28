@@ -2036,6 +2036,14 @@
       "file": "Skills Reference/Psychology/judgment-noise.md",
       "color": "#9333EA",
       "cardType": "standard"
+    },
+    "Network-Effects/switching-costs.md": {
+      "id": 286,
+      "name": "Switching Costs",
+      "category": "Network Effects",
+      "file": "Skills Reference/Network-Effects/switching-costs.md",
+      "color": "#CA8A04",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -2909,6 +2917,11 @@
           "id": 34,
           "name": "Monopoly vs. Competition",
           "color": "#16A34A"
+        },
+        {
+          "id": 286,
+          "name": "Switching Costs",
+          "color": "#CA8A04"
         }
       ]
     },
@@ -4044,6 +4057,17 @@
           "id": 220,
           "name": "Power Mapping",
           "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Information Rules: A Strategic Guide to the Network Economy",
+      "authorYear": "Carl Shapiro & Hal R. Varian (1998)",
+      "skills": [
+        {
+          "id": 286,
+          "name": "Switching Costs",
+          "color": "#CA8A04"
         }
       ]
     },

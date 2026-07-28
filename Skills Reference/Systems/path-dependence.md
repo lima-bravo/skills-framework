@@ -5,6 +5,8 @@ category: Systems
 cardType: standard
 tagline: Where you can go depends on where you have been
 connections:
+  - id: 286
+    rationale: switching costs are the specific, most common economic mechanism that produces path-dependent lock-in in a customer relationship; path dependence is the general phenomenon of prior choices constraining future ones.
   - id: 284
     rationale: path dependence explains why old structures persist even once their original rationale is gone; Chesterton's Fence is the discipline for telling apart a structure that persists because it's still needed from one that persists only because path dependence hasn't yet been overcome.
   - id: 264
