@@ -5,6 +5,8 @@ category: Learning
 cardType: standard
 tagline: Apply insights from one domain to another
 connections:
+  - id: 281
+    rationale: interleaving is the specific practice-design mechanism that produces the discrimination skill Learning Transfer depends on — knowing which technique or model applies to a novel situation requires having practiced telling situations apart, not just executing each one in isolation.
   - id: 86
     rationale: learning transfer is how models from different domains become available for chaining.
   - id: 87

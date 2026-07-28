@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: Plan, Do, Check, Act — the smallest unit of disciplined learning
 connections:
+  - id: 282
+    rationale: PDCA is single-loop learning as a repeatable discipline — it improves execution within an existing plan. Double-Loop Learning is the deliberate escalation when repeated PDCA cycles fail to close the gap, because the plan's governing assumption, not the execution, is the actual defect.
   - id: 145
     rationale: A3 is the structured artifact of a PDCA cycle.
   - id: 63

@@ -5,6 +5,8 @@ category: Leadership
 cardType: extended
 tagline: Four questions, asked immediately after, by the people who did the work — the operational learning drill that compounds with every project
 connections:
+  - id: 282
+    rationale: an AAR that only ever asks "what should we do differently next time" inside the existing plan is single-loop; a mature AAR practice periodically asks whether the plan itself, not just the execution of it, is the recurring source of the gap.
   - id: 278
     rationale: "an AAR that doesn't construct an explicit counterfactual for what would have happened without the decision under review is comparing the outcome to nothing, not to a genuine alternative."
   - id: 11

@@ -5,6 +5,8 @@ category: Learning
 cardType: standard
 tagline: Dedicate five hours per week to deliberate learning
 connections:
+  - id: 281
+    rationale: the Five-Hour Rule prescribes dedicated time for deliberate learning; Desirable Difficulties governs how that time should actually be structured — spaced and retrieval-based, not massed and passive — for the hours to produce durable retention.
   - id: 75
     rationale: five-hour rule learning is compounding applied to human capital.
   - id: 87

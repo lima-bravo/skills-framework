@@ -5,6 +5,8 @@ category: Physics & Chemistry
 cardType: standard
 tagline: Resistance that slows progress
 connections:
+  - id: 280
+    rationale: Friction is used here as a general metaphor for organisational resistance; Transaction Costs is the specific economic theory of the frictions — search, negotiation, contracting, monitoring, enforcement — that determine whether an activity sits inside a firm or in the market.
   - id: 45
     rationale: activation energy is the specific friction at the start of a process; reducing it is often the highest-leverage friction intervention.
   - id: 41

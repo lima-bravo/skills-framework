@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: In complex work, the process that produces good outcomes is one that continuously corrects itself — not one that executes a fixed plan.
 connections:
+  - id: 282
+    rationale: EPC's inspect-and-adapt cycle is usually single-loop, adapting the plan within a stable goal; double-loop learning is the rarer, harder move of adapting the goal itself when inspection reveals the goal was the problem.
   - id: 275
     rationale: the standing instrument Human-in-the-Loop Design needs — inspect the actual override rate on a real cadence, don't assume the gate works because it did at launch.
   - id: 122

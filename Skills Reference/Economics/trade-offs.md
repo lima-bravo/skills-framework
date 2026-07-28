@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Every choice forecloses others
 connections:
+  - id: 280
+    rationale: the make-vs-buy decision is a specific, high-stakes application of trade-off reasoning; Transaction Costs supplies the actual variable — asset specificity — that determines which side of the trade-off wins.
   - id: 271
     rationale: opportunity cost is the specific quantity this card's trade-off reasoning is built on — every trade-off is, at bottom, a comparison against a named opportunity cost.
   - id: 35

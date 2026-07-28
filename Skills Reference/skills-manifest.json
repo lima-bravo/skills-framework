@@ -1988,6 +1988,30 @@
       "file": "Skills Reference/Economics/externalities.md",
       "color": "#16A34A",
       "cardType": "standard"
+    },
+    "Economics/transaction-costs.md": {
+      "id": 280,
+      "name": "Transaction Costs",
+      "category": "Economics",
+      "file": "Skills Reference/Economics/transaction-costs.md",
+      "color": "#16A34A",
+      "cardType": "standard"
+    },
+    "Learning/desirable-difficulties.md": {
+      "id": 281,
+      "name": "Desirable Difficulties",
+      "category": "Learning",
+      "file": "Skills Reference/Learning/desirable-difficulties.md",
+      "color": "#059669",
+      "cardType": "standard"
+    },
+    "Learning/double-loop-learning.md": {
+      "id": 282,
+      "name": "Double-Loop Learning",
+      "category": "Learning",
+      "file": "Skills Reference/Learning/double-loop-learning.md",
+      "color": "#059669",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -2085,6 +2109,17 @@
           "id": 27,
           "name": "Irreducibility",
           "color": "#0D9488"
+        }
+      ]
+    },
+    {
+      "title": "A New Theory of Disuse and an Old Theory of Stimulus Fluctuation",
+      "authorYear": "Robert A. Bjork & Elizabeth L. Bjork, in From Learning Processes to Cognitive Processes (1992)",
+      "skills": [
+        {
+          "id": 281,
+          "name": "Desirable Difficulties",
+          "color": "#059669"
         }
       ]
     },
@@ -4299,11 +4334,16 @@
     },
     {
       "title": "Make It Stick: The Science of Successful Learning",
-      "authorYear": "P.C. Brown, H.L. Roediger III & M.A. McDaniel (2014)",
+      "authorYear": "Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel (2014)",
       "skills": [
         {
           "id": 89,
           "name": "Learning Transfer",
+          "color": "#059669"
+        },
+        {
+          "id": 281,
+          "name": "Desirable Difficulties",
           "color": "#059669"
         }
       ]
@@ -4659,6 +4699,17 @@
           "id": 124,
           "name": "Organizational Culture",
           "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "Organizational Learning II: Theory, Method, and Practice",
+      "authorYear": "Chris Argyris & Donald A. Schön (1996)",
+      "skills": [
+        {
+          "id": 282,
+          "name": "Double-Loop Learning",
+          "color": "#059669"
         }
       ]
     },
@@ -5576,6 +5627,17 @@
       ]
     },
     {
+      "title": "Teaching Smart People How to Learn",
+      "authorYear": "Chris Argyris, Harvard Business Review (1991)",
+      "skills": [
+        {
+          "id": 282,
+          "name": "Double-Loop Learning",
+          "color": "#059669"
+        }
+      ]
+    },
+    {
       "title": "Team of Teams",
       "authorYear": "General Stanley McChrystal (2015)",
       "skills": [
@@ -6084,6 +6146,17 @@
           "id": 78,
           "name": "Randomness",
           "color": "#4F46E5"
+        }
+      ]
+    },
+    {
+      "title": "The Economic Institutions of Capitalism: Firms, Markets, Relational Contracting",
+      "authorYear": "Oliver E. Williamson (1985)",
+      "skills": [
+        {
+          "id": 280,
+          "name": "Transaction Costs",
+          "color": "#16A34A"
         }
       ]
     },
@@ -6690,6 +6763,17 @@
           "id": 257,
           "name": "Span of Control",
           "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "The Nature of the Firm",
+      "authorYear": "Ronald H. Coase, Economica Vol. 4 No. 16 (1937)",
+      "skills": [
+        {
+          "id": 280,
+          "name": "Transaction Costs",
+          "color": "#16A34A"
         }
       ]
     },

@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Do what you do best; trade for the rest
 connections:
+  - id: 280
+    rationale: Specialization explains why dividing labour creates value; Transaction Costs explains where the resulting boundary between firms actually gets drawn, and why not everything gets outsourced to the most specialised provider.
   - id: 30
     rationale: specialization requires trading away activities you could do yourself; this is the fundamental trade-off.
   - id: 87

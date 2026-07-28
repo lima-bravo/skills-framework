@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: When you delegate, the person acting on your behalf has different information and different incentives
 connections:
+  - id: 280
+    rationale: once an activity is contracted out rather than brought inside the firm, the principal-agent problem is the residual risk that remains even after the transaction-cost calculation favours the market.
   - id: 120
     rationale: "the operational mechanism: the metrics principals use to monitor agents become gameable targets"
   - id: 220

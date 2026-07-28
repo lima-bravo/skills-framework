@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: Low competence produces high confidence; high competence produces appropriate humility
 connections:
+  - id: 281
+    rationale: the fluency illusion desirable difficulties exploit is a close cousin of Dunning-Kruger's overconfidence — feeling like you've learned something and having actually learned it durably are systematically different signals.
   - id: 5
     rationale: Dunning-Kruger is the psychological mechanism that makes circle self-assessment hard; they are deeply related.
   - id: 55

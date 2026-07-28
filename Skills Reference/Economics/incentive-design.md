@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: The behavior you get is the behavior you designed for — whether you meant to or not
 connections:
+  - id: 280
+    rationale: a long-term contract governing a high-specificity relationship is, in practice, an exercise in incentive design — anticipating and pricing the disputes that arise once neither party can walk away cheaply.
   - id: 279
     rationale: Incentive Design is the practical discipline for closing the exact gap Externalities describes — realigning what a decision-maker pays or captures with what they actually cause.
   - id: 121

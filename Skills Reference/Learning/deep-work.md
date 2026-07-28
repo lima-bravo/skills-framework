@@ -5,6 +5,8 @@ category: Learning
 cardType: standard
 tagline: Each person has roughly 3–4 hours of genuine deep work per day — plan around that ceiling, not an 8-hour assumption
 connections:
+  - id: 281
+    rationale: desirable difficulties require real cognitive effort during retrieval, which draws on the same finite attention budget Deep Work protects — scheduling spaced, effortful practice needs the same protected-time discipline as any other cognitively demanding work.
   - id: 18
     rationale: human cognitive capacity is the binding constraint
   - id: 23

@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: Why rational plans fail in irrational systems
 connections:
+  - id: 282
+    rationale: the psychological mechanism that keeps governing variables protected from double-loop scrutiny — a hidden competing commitment to the existing goal or assumption is exactly what makes questioning it feel unsafe.
   - id: 125
     rationale: immunity to change is the missing chapter in most change-management playbooks.
   - id: 104

@@ -5,6 +5,8 @@ category: Systems
 cardType: standard
 tagline: The symptomatic fix works. That's the problem.
 connections:
+  - id: 282
+    rationale: Double-Loop Learning is the deliberate escalation this archetype's symptomatic fix keeps avoiding — a symptomatic fix relieves the immediate pressure while leaving, or even eroding, the fundamental capacity that double-loop learning would actually address.
   - id: 208
     rationale: Fixes That Fail is the mechanism by which systems drift; Drift to Failure is the trajectory the mechanism produces. The two archetypes are often present simultaneously.
   - id: 120
