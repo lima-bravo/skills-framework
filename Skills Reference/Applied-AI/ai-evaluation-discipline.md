@@ -5,6 +5,8 @@ category: Applied AI
 cardType: standard
 tagline: A model you can't measure on your own data is a model you're trusting on faith
 connections:
+  - id: 283
+    rationale: Epistemic Grounding is the discipline for any single claim encountered in the moment; this card measures a deployed system's aggregate accuracy rate over time against a standing eval set, once enough claims have accumulated to characterise the system statistically.
   - id: 268
     rationale: the teardown is the one-time procurement decision; this card is the standing practice you build once you already operate the system, to know whether the verdict the teardown reached still holds.
   - id: 211

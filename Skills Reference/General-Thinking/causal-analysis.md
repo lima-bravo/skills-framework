@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: Choose the right mode of why
 connections:
+  - id: 284
+    rationale: tracing a rule back to the problem it was built to solve is a specific application of causal analysis — understanding the mechanism before intervening in a system you didn't design.
   - id: 278
     rationale: Causal Analysis traces the mechanism connecting cause to effect; Counterfactual Reasoning is the logical test that confirms the causal claim actually holds — did the outcome depend on the cause, or would it have happened anyway?
   - id: 2

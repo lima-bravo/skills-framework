@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: Never optimise what shouldn't exist
 connections:
+  - id: 284
+    rationale: the necessary counterweight — this card's aggressive default toward removal needs Chesterton's Fence as a companion, so that "no one uses this" or "no one knows why we do this" gets investigated before deletion rather than treated as sufficient grounds on its own.
   - id: 0
     rationale: first principles identifies what must be true at bedrock; Delete Before You Optimise asks which requirements need to exist at all before any rebuilding begins.
   - id: 1

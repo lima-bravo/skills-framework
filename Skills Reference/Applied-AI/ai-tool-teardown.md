@@ -5,6 +5,8 @@ category: Applied AI
 cardType: extended
 tagline: Decompose the pitch into five functions, label the evidence, and end on a decision — not a verdict on silence
 connections:
+  - id: 283
+    rationale: this card's Assurance Spine applies AI Epistemic Grounding's principle to one specific decision — evaluating a vendor's system before procurement — splitting verification into provenance, validation, evaluation, approval, and monitoring. Epistemic Grounding is the general principle this method operationalises for that one context.
   - id: 276
     rationale: "a vendor pitch that claims to replace expert judgment should be checked against this paradox first: was the task's competence ever codified in the first place, or does it only exist as tacit skill no interview extracted?"
   - id: 274

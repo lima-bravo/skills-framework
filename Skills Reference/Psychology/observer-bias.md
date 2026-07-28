@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: The evaluator who knows what they're looking for will find it.
 connections:
+  - id: 285
+    rationale: Observer Bias is a systematic, expectation-driven distortion at the point of measurement — a directional error. Judgment Noise is the different, often larger problem of unwanted variability with no consistent direction at all.
   - id: 275
     rationale: a different failure mode from the same family — observer bias distorts what a reviewer notices; automation complacency distorts whether they're really looking at all.
   - id: 72

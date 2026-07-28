@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: Their failure is character; yours is circumstance.
 connections:
+  - id: 285
+    rationale: a distinct distortion in judging other people specifically — attributing behaviour to character rather than circumstance — that can compound with judgment noise in evaluative contexts like performance reviews, but operates through a different mechanism.
   - id: 196
     rationale: AARs done well explicitly surface situational factors; FAE is a common contaminator of poorly-run retrospectives
   - id: 199

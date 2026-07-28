@@ -2012,6 +2012,30 @@
       "file": "Skills Reference/Learning/double-loop-learning.md",
       "color": "#059669",
       "cardType": "standard"
+    },
+    "Applied-AI/ai-epistemic-grounding.md": {
+      "id": 283,
+      "name": "AI Epistemic Grounding",
+      "category": "Applied AI",
+      "file": "Skills Reference/Applied-AI/ai-epistemic-grounding.md",
+      "color": "#0369A1",
+      "cardType": "standard"
+    },
+    "General-Thinking/chestertons-fence.md": {
+      "id": 284,
+      "name": "Chesterton's Fence",
+      "category": "General Thinking",
+      "file": "Skills Reference/General-Thinking/chestertons-fence.md",
+      "color": "#3B82F6",
+      "cardType": "standard"
+    },
+    "Psychology/judgment-noise.md": {
+      "id": 285,
+      "name": "Judgment Noise / Decision Hygiene",
+      "category": "Psychology",
+      "file": "Skills Reference/Psychology/judgment-noise.md",
+      "color": "#9333EA",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -2490,6 +2514,11 @@
           "id": 80,
           "name": "Surface Area",
           "color": "#4F46E5"
+        },
+        {
+          "id": 284,
+          "name": "Chesterton's Fence",
+          "color": "#3B82F6"
         }
       ]
     },
@@ -2733,6 +2762,17 @@
       ]
     },
     {
+      "title": "ChatGPT is Bullshit",
+      "authorYear": "Michael Townsen Hicks, James Humphries & Joe Slater, Ethics and Information Technology (2024)",
+      "skills": [
+        {
+          "id": 283,
+          "name": "AI Epistemic Grounding",
+          "color": "#0369A1"
+        }
+      ]
+    },
+    {
       "title": "Choosing Strategies for Change",
       "authorYear": "John P. Kotter & Leonard A. Schlesinger (HBR, 1979; rev. 2008)",
       "skills": [
@@ -2751,6 +2791,17 @@
           "id": 93,
           "name": "Rhythm",
           "color": "#DB2777"
+        }
+      ]
+    },
+    {
+      "title": "Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence",
+      "authorYear": "Paul E. Meehl (1954)",
+      "skills": [
+        {
+          "id": 285,
+          "name": "Judgment Noise / Decision Hygiene",
+          "color": "#9333EA"
         }
       ]
     },
@@ -4596,6 +4647,11 @@
           "id": 212,
           "name": "Observer Bias",
           "color": "#9333EA"
+        },
+        {
+          "id": 285,
+          "name": "Judgment Noise / Decision Hygiene",
+          "color": "#9333EA"
         }
       ]
     },
@@ -4628,6 +4684,17 @@
           "id": 129,
           "name": "Board Governance",
           "color": "#1E40AF"
+        }
+      ]
+    },
+    {
+      "title": "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?",
+      "authorYear": "Emily M. Bender, Timnit Gebru, Angelina McMillan-Major & Shmargaret Shmitchell, FAccT (2021)",
+      "skills": [
+        {
+          "id": 283,
+          "name": "AI Epistemic Grounding",
+          "color": "#0369A1"
         }
       ]
     },
@@ -7237,6 +7304,17 @@
           "id": 276,
           "name": "Polanyi's Paradox",
           "color": "#0369A1"
+        }
+      ]
+    },
+    {
+      "title": "The Thing",
+      "authorYear": "G.K. Chesterton (1929)",
+      "skills": [
+        {
+          "id": 284,
+          "name": "Chesterton's Fence",
+          "color": "#3B82F6"
         }
       ]
     },

@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: One Accountable per activity — makes transformation accountability visible before it becomes conflict
 connections:
+  - id: 285
+    rationale: a structured, decomposed decision process — the decision-hygiene fix for judgment noise — depends on clear decision rights being assigned in the first place; RACI is the organisational scaffolding that makes independent, structured judgment possible before informal discussion collapses it.
   - id: 74
     rationale: RACI operationalises power and interest into specific accountability; stakeholder salience tells you who matters most, RACI tells you who owns each outcome.
   - id: 121

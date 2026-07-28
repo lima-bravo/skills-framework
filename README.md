@@ -2,7 +2,7 @@
 
 **🌐 Live site: [lima-bravo.github.io/skills-framework](https://lima-bravo.github.io/skills-framework)**
 
-A mental-models framework with a publishable **reference website** (`docs/`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **282 skills** across **16 categories** (source of truth: `skills-manifest.json`).
+A mental-models framework with a publishable **reference website** (`docs/`), per-skill markdown deep-dives, a connection graph, and a [training guide](Skills%20Reference/training-guide.md). **285 skills** across **16 categories** (source of truth: `skills-manifest.json`).
 
 **Systems-thinking coverage** spans the three traditions a practitioner actually draws on: system **dynamics** — feedback loops, emergence, equilibrium, and the recurring [System Archetypes](Skills%20Reference/Systems/system-archetypes.md) (Meadows/Senge); **soft systems** — Checkland's [CATWOE](Skills%20Reference/Systems/catwoe.md) for agreeing what a contested system is *for* before redesigning it; and **regulation** — Ashby & Beer's [Requisite Variety](Skills%20Reference/Systems/requisite-variety.md), the cybernetic law as a thinking mode. The [DRRT chain](Skills%20Reference/Pre-built-Chains/drrt-systems-analysis.md) composes them into one analysis loop — Deconstruct → Relationships → Recognise → Test.
 
@@ -52,9 +52,9 @@ Open [`docs/deck.html`](docs/deck.html) in any browser.
 
 The deck includes:
 
-- Search and category filters across **282 skills**
+- Search and category filters across **285 skills**
 - Expandable skill modals with cross-links
-- **Sources & References** panel (**414** sources)
+- **Sources & References** panel (**418** sources)
 
 Related: [`docs/graph.html`](docs/graph.html) for the D3 connection graph.
 
@@ -114,7 +114,7 @@ Requires Node.js 18+.
 
 ### Claude Cowork / Code skills
 
-The deck's **282 reference cards** are not exported 1:1. `npm run build:cowork` generates **59 procedural skills** in seven plugins under `plugins/`:
+The deck's **285 reference cards** are not exported 1:1. `npm run build:cowork` generates **59 procedural skills** in seven plugins under `plugins/`:
 
 | Plugin | Skills | Purpose |
 |--------|--------|---------|
@@ -182,7 +182,7 @@ The full list of slash commands per plugin is in each plugin's `README.md` under
 Skills Framework.md          # Master compendium (pre-card-deck era; partial)
 Skills Reference/
   _ai-index.md               # AI-readable framework index (keep in sync)
-  skills-manifest.json       # Canonical registry: ids, categories, refs (282 skills)
+  skills-manifest.json       # Canonical registry: ids, categories, refs (285 skills)
   training-guide.md          # How to learn and apply the framework (source)
   skill-primer.md            # Guide for first-time card readers (source)
   deck.template.html         # Deck shell (edit layout/CSS here)

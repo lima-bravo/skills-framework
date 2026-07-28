@@ -5,6 +5,10 @@ category: General Thinking
 cardType: standard
 tagline: Being right on any single call is luck. Being right at the rate you predicted is skill.
 connections:
+  - id: 283
+    rationale: a well-calibrated person's confidence tracks their actual hit rate; an AI system's fluency has no such guarantee built in — Epistemic Grounding is the reminder that a model's tone is not a calibrated signal the way a well-calibrated person's stated confidence is.
+  - id: 285
+    rationale: calibration is a property of one judge tracked over time; noise is what happens when two equally calibrated people reach different verdicts on the identical case — a distinct failure mode a single person's calibration score can't reveal.
   - id: 274
     rationale: calibration is exactly what AI Evaluation Discipline's practice measures for an AI system — whether stated or implied confidence tracks actual correctness, not just raw accuracy.
   - id: 7

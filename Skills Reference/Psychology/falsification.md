@@ -5,6 +5,8 @@ category: Psychology
 cardType: standard
 tagline: A belief you can't break isn't knowledge — it's faith.
 connections:
+  - id: 283
+    rationale: Epistemic Grounding is falsification applied specifically to AI-generated claims, where the fluency of the generation process actively disguises how untested the claim actually is.
   - id: 55
     rationale: falsification is the corrective practice; confirmation bias is what happens in its absence
   - id: 72

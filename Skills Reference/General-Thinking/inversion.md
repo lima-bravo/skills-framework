@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: Flip the question
 connections:
+  - id: 284
+    rationale: asking "what would have to be true for removing this to go badly" before deleting it is inversion applied specifically to the deletion decision Chesterton's Fence governs.
   - id: 273
     rationale: imposing a constraint and asking what becomes possible only within it is a form of inversion — flip from "what could we do" to "what must we do, given this limit."
   - id: 2

@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: Know the edge of what you know
 connections:
+  - id: 283
+    rationale: knowing the boundary of what you genuinely know is the human analogue of what AI systems structurally cannot do for themselves — a model has no reliable internal signal for when it has left its actual knowledge and started generating plausible-sounding synthesis.
   - id: 0
     rationale: first principles reasoning requires you to know which of your foundations are actually solid. Outside your circle, you cannot reliably identify first principles.
   - id: 57

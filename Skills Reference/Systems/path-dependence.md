@@ -5,6 +5,8 @@ category: Systems
 cardType: standard
 tagline: Where you can go depends on where you have been
 connections:
+  - id: 284
+    rationale: path dependence explains why old structures persist even once their original rationale is gone; Chesterton's Fence is the discipline for telling apart a structure that persists because it's still needed from one that persists only because path dependence hasn't yet been overcome.
   - id: 264
     rationale: Success-to-the-Successful is the archetype form of path-dependent lock-in cataloged in System Archetypes.
   - id: 43
