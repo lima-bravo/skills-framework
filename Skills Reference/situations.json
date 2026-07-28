@@ -200,13 +200,13 @@
               "chain": false
             },
             {
-              "id": 67,
+              "id": 160,
               "name": "Reference Class Forecasting",
               "tag": "What did similar initiatives actually take? Start there, then adjust",
               "chain": false
             },
             {
-              "id": 143,
+              "id": 115,
               "name": "Planning Fallacy",
               "tag": "We systematically underestimate time, cost, and complexity",
               "chain": false
@@ -451,7 +451,7 @@
               "chain": false
             },
             {
-              "id": 174,
+              "id": 120,
               "name": "Goodhart's Law",
               "tag": "When a measure becomes a target, it ceases to be a good measure",
               "chain": false
@@ -481,7 +481,7 @@
           "keywords": "organisation underperforming something wrong can't name slow bureaucracy degrading leadership",
           "skills": [
             {
-              "id": null,
+              "id": 244,
               "name": "Organisational Degradation Scan",
               "tag": "7-step diagnostic: drift → scale → bureaucracy → management → metrics → structure → incentives",
               "chain": true
@@ -978,7 +978,7 @@
           "keywords": "launching project brief team kickoff shared understanding",
           "skills": [
             {
-              "id": null,
+              "id": 198,
               "name": "Mission Execution Protocol",
               "tag": "6-step protocol: intent → brief-back → execute → pause → learn",
               "chain": true
@@ -1031,7 +1031,7 @@
           "keywords": "new market enter expand geography segment",
           "skills": [
             {
-              "id": null,
+              "id": 95,
               "name": "Market Entry",
               "tag": "Structured assessment across attractiveness, fit, and path to scale",
               "chain": true
@@ -1061,7 +1061,7 @@
               "chain": false
             },
             {
-              "id": null,
+              "id": 94,
               "name": "Pricing Decision",
               "tag": "Full chain: value, cost floor, competitive ceiling, and customer psychology",
               "chain": true
@@ -1402,7 +1402,7 @@
           "keywords": "raw idea enrich first principles jobs to be done strategic fit horizon intake funnel gate unclear mechanism analogy",
           "skills": [
             {
-              "id": null,
+              "id": 245,
               "name": "Funnel Intake",
               "tag": "Strip the idea to its mechanism, anchor it to a real job, run the strategic fit gate — before committing funnel capacity",
               "chain": true
@@ -1498,7 +1498,7 @@
           "keywords": "innovation capability can organization actually innovate",
           "skills": [
             {
-              "id": null,
+              "id": 177,
               "name": "Innovation Capability Diagnostic",
               "tag": "Structured assessment of innovation readiness across five dimensions",
               "chain": true
@@ -1510,7 +1510,7 @@
           "keywords": "innovation program lab venture studio set up",
           "skills": [
             {
-              "id": null,
+              "id": 178,
               "name": "Design and Launch an Innovation Program",
               "tag": "End-to-end chain: from diagnosis to operating model",
               "chain": true
@@ -1617,7 +1617,7 @@
               "chain": false
             },
             {
-              "id": 21,
+              "id": 45,
               "name": "Activation Energy",
               "tag": "Lower the energy required to take the first step",
               "chain": false
@@ -1725,7 +1725,7 @@
           "keywords": "hiring hire recruit significant role team promote promotion",
           "skills": [
             {
-              "id": null,
+              "id": 96,
               "name": "Hiring Decision",
               "tag": "Structured chain: role design, evaluation, and decision criteria",
               "chain": true
@@ -1761,7 +1761,7 @@
               "chain": false
             },
             {
-              "id": 165,
+              "id": 164,
               "name": "Engagement Lifecycle",
               "tag": "The \"detach\" phase of the engagement should leave a capability, not a vacuum — design it from the contracting conversation, not the exit review",
               "chain": false
@@ -1826,7 +1826,7 @@
           "keywords": "deploy AI system autonomy assessment evaluate",
           "skills": [
             {
-              "id": null,
+              "id": 187,
               "name": "AI Use Case Autonomy Assessment",
               "tag": "Pre-deployment chain: authority, reversibility, and oversight design",
               "chain": true
@@ -1838,7 +1838,7 @@
           "keywords": "AI governance design agentic architecture oversight",
           "skills": [
             {
-              "id": null,
+              "id": 186,
               "name": "AI Agent Governance Design",
               "tag": "Full governance architecture for autonomous AI systems",
               "chain": true
