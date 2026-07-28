@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: Let reality choose between two versions — before you commit to either
 connections:
+  - id: 278
+    rationale: A/B testing is the operationalised, gold-standard version of counterfactual reasoning — the control arm is the counterfactual, built into the experiment rather than reasoned about after the fact.
   - id: 274
     rationale: A/B testing checks whether a change helps in a live production comparison; AI Evaluation Discipline's regression suite is the pre-production analogue, catching a regression before it ever reaches a live experiment.
   - id: 72

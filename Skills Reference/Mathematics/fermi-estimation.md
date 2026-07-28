@@ -5,6 +5,8 @@ category: Mathematics
 cardType: standard
 tagline: Decompose the unknowable into factors you can estimate
 connections:
+  - id: 277
+    rationale: Fermi estimation sizes an answer without hard data because the data isn't worth obtaining, or isn't available; Value of Information is the explicit test for when that trade-off holds.
   - id: 270
     rationale: Fermi estimation sizes the opportunity roughly enough to decide whether staging it is even worth a premium; Real Options Reasoning is what to do once that rough sizing says "maybe, but not yet."
   - id: 0

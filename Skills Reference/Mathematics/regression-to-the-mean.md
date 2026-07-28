@@ -5,6 +5,8 @@ category: Mathematics
 cardType: standard
 tagline: Extreme outcomes tend to moderate over time
 connections:
+  - id: 278
+    rationale: the single most common disguise for a false counterfactual — an extreme result reverting toward average gets credited to whatever intervention happened to coincide with it.
   - id: 7
     rationale: regression to the mean is a statistical property that should inform probability estimates about future performance.
   - id: 54

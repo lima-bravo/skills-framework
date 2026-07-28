@@ -5,6 +5,8 @@ category: Business
 cardType: standard
 tagline: Approval is a forecast. Realization is the discipline of finding out whether the forecast was true — and acting on the answer.
 connections:
+  - id: 278
+    rationale: crediting an investment for the value it produced requires the same counterfactual discipline — what would the metric have done without the investment, not just what it did after.
   - id: 218
     rationale: the upstream discipline this card completes the loop on; a business case that defines a kill condition and a reference class but has no realization plan has built half a system.
   - id: 153

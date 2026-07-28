@@ -1,6 +1,6 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-07-28 | 276 skills | 16 categories | 1194 graph connections -->
+<!-- Last updated: 2026-07-28 | 279 skills | 16 categories | 1209 graph connections -->
 
 ## What this framework is
 
@@ -38,14 +38,14 @@ A library of mental model cards, each as a standalone markdown file. Cards follo
 
 Format: `id·Name` — file at `Category/filename.md`
 
-### General Thinking (29 skills) — #3B82F6
-`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry / Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning` `226·Grice's Maxims` `234·Overton Window` `240·Black Swan` `263·Delete Before You Optimise`
+### General Thinking (30 skills) — #3B82F6
+`0·First Principles` `1·Inversion` `2·Second-Order Effects` `3·Occam's Razor` `4·Hanlon's Razor` `5·Circle of Competence` `6·Map-Territory` `7·Probabilistic Thinking` `8·Thought Experiment` `9·Socratic Thinking` `10·Pre-mortem` `11·Post-mortem` `12·Asymmetry / Convexity` `13·De Bono's Six Thinking Hats` `14·Ladder of Inference` `15·Regret Minimization Framework` `16·Two-Way Doors` `106·Analogical Reasoning` `107·Divergent and Convergent Thinking` `122·Cynefin Framework` `128·Theory of Change` `171·Causal Analysis` `188·Paradigm Shift` `211·Calibration` `223·Steelmanning` `226·Grice's Maxims` `234·Overton Window` `240·Black Swan` `263·Delete Before You Optimise` `278·Counterfactual Reasoning`
 
 ### Systems (24 skills) — #0D9488
 `17·Feedback Loops` `18·Bottlenecks` `19·Emergence` `20·Equilibrium` `21·Scale` `22·Critical Mass` `23·Diminishing Returns` `24·Margin of Safety` `25·Churn` `26·Algorithms` `27·Irreducibility` `28·Conway's Law` `29·Red Queen Dilemma` `102·S-Curves` `108·Exploration vs. Exploitation` `109·Adjacent Possible` `208·Drift to Failure` `235·Path Dependence` `243·Dunbar's Number` `260·Fixes That Fail` `261·Systems Thinking` `264·System Archetypes` `265·CATWOE` `267·Requisite Variety`
 
-### Economics (23 skills) — #16A34A
-`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture` `229·Nash Equilibrium` `230·Prisoner's Dilemma` `231·Tragedy of the Commons` `232·Free Rider Problem` `236·Schelling Points` `239·Long Tail` `262·Incentive Design` `271·Opportunity Cost`
+### Economics (24 skills) — #16A34A
+`30·Trade-offs` `31·Scarcity` `32·Specialization` `33·Optimization` `34·Monopoly vs. Competition` `35·Efficiency` `36·Debt` `37·Creative Destruction` `38·Bubbles` `39·Interdependence` `40·Gresham's Law` `120·Goodhart's Law` `121·Principal–Agent Problem` `216·Unit Economics` `217·Value Creation and Capture` `229·Nash Equilibrium` `230·Prisoner's Dilemma` `231·Tragedy of the Commons` `232·Free Rider Problem` `236·Schelling Points` `239·Long Tail` `262·Incentive Design` `271·Opportunity Cost` `279·Externalities`
 
 ### Physics & Chemistry (10 skills) — #EA580C
 `41·Leverage` `42·Velocity` `43·Inertia` `44·Friction` `45·Activation Energy` `46·Thermodynamics` `47·Catalysts` `48·Alloying` `49·Reciprocity` `50·Relativity`
@@ -59,8 +59,8 @@ Format: `id·Name` — file at `Category/filename.md`
 ### Innovation & Entrepreneurship (23 skills) — #DC2626
 `62·Product-Market Fit` `63·Build-Measure-Learn` `64·MVP` `65·Pivot or Persevere` `66·Customer Development` `67·Innovation Accounting` `70·Innovation Funnel` `103·Jobs to Be Done` `110·Design Thinking` `111·Crossing the Chasm` `112·Disruptive Innovation` `113·Three Horizons` `172·Ambidextrous Organization` `173·Dominant Logic` `174·Open Innovation` `175·Effectuation` `176·Organizational Slack` `179·Innovation Health Indicators` `180·Opportunity Solution Trees` `181·Pretotyping` `182·Continuous Discovery` `189·Experiment Ladder` `237·Cobra Effect`
 
-### Mathematics (12 skills) — #4F46E5
-`75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero` `227·Expected Value` `228·Bayesian Updating` `233·Fermi Estimation` `238·Power Law` `270·Real Options Reasoning`
+### Mathematics (13 skills) — #4F46E5
+`75·Compounding` `76·Local Maxima` `77·Regression to the Mean` `78·Randomness` `79·Sampling` `80·Surface Area` `81·Multiply by Zero` `227·Expected Value` `228·Bayesian Updating` `233·Fermi Estimation` `238·Power Law` `270·Real Options Reasoning` `277·Value of Information`
 
 ### Network Effects (4 skills) — #CA8A04
 `82·Network Effects` `83·Viral Growth` `84·Marketplace` `85·Defensibility`
@@ -134,4 +134,4 @@ Format: `id·Name` — file at `Category/filename.md`
 
 ---
 
-*Skills Framework · 276 skills · 16 categories · `skills-manifest.json` is authoritative*
+*Skills Framework · 279 skills · 16 categories · `skills-manifest.json` is authoritative*

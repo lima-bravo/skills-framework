@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: Every shortcut you take today is a tax on every delivery tomorrow.
 connections:
+  - id: 279
+    rationale: technical debt taken on by one team but serviced by another is an internal-organisational externality — the same cost-shifting pattern, inside a single company rather than between a firm and society.
   - id: 133
     rationale: technical debt is one of the primary causes of low flow efficiency; it converts active work time into rework and incident response.
   - id: 142

@@ -5,6 +5,8 @@ category: Mathematics
 cardType: standard
 tagline: Pay a small price now for the right, not the obligation, to commit fully later
 connections:
+  - id: 277
+    rationale: a real option is a structural way of buying the right to decide later; Value of Information is the direct calculation of what a specific piece of evidence is worth before you stage that option.
   - id: 227
     rationale: Expected Value prices a single-shot bet; Real Options prices the additional value of deferring that bet until part of the uncertainty resolves — the option premium is what a plain EV calculation can't capture on its own.
   - id: 228

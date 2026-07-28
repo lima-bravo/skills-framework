@@ -5,6 +5,8 @@ category: General Thinking
 cardType: standard
 tagline: Choose the right mode of why
 connections:
+  - id: 278
+    rationale: Causal Analysis traces the mechanism connecting cause to effect; Counterfactual Reasoning is the logical test that confirms the causal claim actually holds — did the outcome depend on the cause, or would it have happened anyway?
   - id: 2
     rationale: causal analysis traces backward from outcomes; second-order thinking traces forward from actions. Together they close the loop.
   - id: 17

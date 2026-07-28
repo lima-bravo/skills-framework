@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: When benefits are shared, individuals undercontribute
 connections:
+  - id: 279
+    rationale: the Free Rider Problem is the special case of a positive externality on a public good — the general pattern of under-provision when the provider can't capture the full benefit, applied to non-excludable goods specifically.
   - id: 231
     rationale: "the complementary failure mode: free riding is underinvestment in shared goods; the commons tragedy is overuse. Both stem from non-excludability."
   - id: 51

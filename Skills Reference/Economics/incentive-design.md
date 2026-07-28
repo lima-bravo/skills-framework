@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: The behavior you get is the behavior you designed for — whether you meant to or not
 connections:
+  - id: 279
+    rationale: Incentive Design is the practical discipline for closing the exact gap Externalities describes — realigning what a decision-maker pays or captures with what they actually cause.
   - id: 121
     rationale: "incentive design is the constructive discipline for the misalignment this model describes: the agent's interests diverge from the principal's wherever the incentive structure allows it"
   - id: 120

@@ -5,6 +5,8 @@ category: Delivery & Flow
 cardType: standard
 tagline: The economic value of completing something one period sooner
 connections:
+  - id: 277
+    rationale: the direct cost-of-waiting half of the Value of Information calculation — an information source that's perfectly accurate but arrives too late has a lower real value than its accuracy alone suggests.
   - id: 159
     rationale: Weighted Shortest Job First operationalizes CoD into a prioritization rule.
   - id: 30

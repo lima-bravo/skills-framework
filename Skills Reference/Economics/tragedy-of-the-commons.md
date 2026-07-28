@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Shared resources are destroyed by individually rational behaviour
 connections:
+  - id: 279
+    rationale: Tragedy of the Commons is the special case of a negative externality on a shared, depletable resource; the general remedy — internalise the cost — is the same logic applied more narrowly.
   - id: 230
     rationale: "the Tragedy of the Commons is the multi-player version of the Prisoner's Dilemma: individually rational behaviour produces collectively catastrophic outcomes."
   - id: 51

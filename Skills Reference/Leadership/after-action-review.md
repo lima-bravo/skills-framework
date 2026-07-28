@@ -5,6 +5,8 @@ category: Leadership
 cardType: extended
 tagline: Four questions, asked immediately after, by the people who did the work — the operational learning drill that compounds with every project
 connections:
+  - id: 278
+    rationale: "an AAR that doesn't construct an explicit counterfactual for what would have happened without the decision under review is comparing the outcome to nothing, not to a genuine alternative."
   - id: 11
     rationale: "complementary disciplines at different scales: AAR is the operational habit after every project; Post-mortem is the deep investigation triggered by a significant failure or a repeated pattern surfaced by AARs"
   - id: 194

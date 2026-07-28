@@ -1964,6 +1964,30 @@
       "file": "Skills Reference/Applied-AI/polanyis-paradox.md",
       "color": "#0369A1",
       "cardType": "standard"
+    },
+    "Mathematics/value-of-information.md": {
+      "id": 277,
+      "name": "Value of Information",
+      "category": "Mathematics",
+      "file": "Skills Reference/Mathematics/value-of-information.md",
+      "color": "#4F46E5",
+      "cardType": "standard"
+    },
+    "General-Thinking/counterfactual-reasoning.md": {
+      "id": 278,
+      "name": "Counterfactual Reasoning",
+      "category": "General Thinking",
+      "file": "Skills Reference/General-Thinking/counterfactual-reasoning.md",
+      "color": "#3B82F6",
+      "cardType": "standard"
+    },
+    "Economics/externalities.md": {
+      "id": 279,
+      "name": "Externalities",
+      "category": "Economics",
+      "file": "Skills Reference/Economics/externalities.md",
+      "color": "#16A34A",
+      "cardType": "standard"
     }
   },
   "refs": [
@@ -2637,6 +2661,17 @@
           "id": 37,
           "name": "Creative Destruction",
           "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Causality: Models, Reasoning, and Inference",
+      "authorYear": "Judea Pearl (2000)",
+      "skills": [
+        {
+          "id": 278,
+          "name": "Counterfactual Reasoning",
+          "color": "#3B82F6"
         }
       ]
     },
@@ -3697,6 +3732,17 @@
       ]
     },
     {
+      "title": "How to Measure Anything: Finding the Value of Intangibles in Business",
+      "authorYear": "Douglas W. Hubbard (2007)",
+      "skills": [
+        {
+          "id": 277,
+          "name": "Value of Information",
+          "color": "#4F46E5"
+        }
+      ]
+    },
+    {
       "title": "How to Solve It: A New Aspect of Mathematical Method",
       "authorYear": "George Pólya (1945)",
       "skills": [
@@ -3912,6 +3958,17 @@
           "id": 220,
           "name": "Power Mapping",
           "color": "#475569"
+        }
+      ]
+    },
+    {
+      "title": "Information Value Theory",
+      "authorYear": "Ronald A. Howard, IEEE Transactions on Systems Science and Cybernetics Vol. 2 No. 1 (1966)",
+      "skills": [
+        {
+          "id": 277,
+          "name": "Value of Information",
+          "color": "#4F46E5"
         }
       ]
     },
@@ -4455,6 +4512,17 @@
           "id": 40,
           "name": "Gresham's Law",
           "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "Mostly Harmless Econometrics: An Empiricist's Companion",
+      "authorYear": "Joshua D. Angrist & Jörn-Steffen Pischke (2009)",
+      "skills": [
+        {
+          "id": 278,
+          "name": "Counterfactual Reasoning",
+          "color": "#3B82F6"
         }
       ]
     },
@@ -6020,6 +6088,17 @@
       ]
     },
     {
+      "title": "The Economics of Welfare",
+      "authorYear": "Arthur C. Pigou (1920)",
+      "skills": [
+        {
+          "id": 279,
+          "name": "Externalities",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
       "title": "The Effective Executive",
       "authorYear": "Peter F. Drucker, 1967",
       "skills": [
@@ -6769,6 +6848,17 @@
         {
           "id": 35,
           "name": "Efficiency",
+          "color": "#16A34A"
+        }
+      ]
+    },
+    {
+      "title": "The Problem of Social Cost",
+      "authorYear": "Ronald H. Coase, Journal of Law and Economics Vol. 3 (1960)",
+      "skills": [
+        {
+          "id": 279,
+          "name": "Externalities",
           "color": "#16A34A"
         }
       ]

@@ -5,6 +5,8 @@ category: Mathematics
 cardType: standard
 tagline: Multiply each outcome by its probability; sum the results
 connections:
+  - id: 277
+    rationale: Expected Value prices a known option; Value of Information prices whether it's worth learning more before choosing between options at all — a distinct, prior calculation.
   - id: 270
     rationale: EV prices a single-shot bet; Real Options Reasoning prices the additional value of deferring that bet until part of the uncertainty resolves — the option premium is what a plain EV calculation can't capture alone.
   - id: 7

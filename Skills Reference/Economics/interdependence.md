@@ -5,6 +5,8 @@ category: Economics
 cardType: standard
 tagline: Systems are more connected than they appear
 connections:
+  - id: 279
+    rationale: Externalities names the specific pattern where a cost or benefit of one party's decision falls on another who has no say in it — a cost-shifting relationship, not just a connection.
   - id: 2
     rationale: interdependence is the mechanism by which second-order effects propagate through systems.
   - id: 17
