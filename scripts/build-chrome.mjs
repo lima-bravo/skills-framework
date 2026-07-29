@@ -16,7 +16,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { navHtml, FOOTER_TEXT } from './site-chrome.mjs';
+import { navHtml, FOOTER_TEXT, FAVICON_LINK } from './site-chrome.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DOCS = path.resolve(__dirname, '..', 'docs');
@@ -34,6 +34,7 @@ const PAGES = {
 
 const NAV_RE = /<!--NAV-->[\s\S]*?<!--\/NAV-->/;
 const FOOTER_RE = /(<footer\b[^>]*>)[\s\S]*?(<\/footer>)/;
+const FAVICON_RE = /<link rel="icon"[^>]*>/;
 
 let stamped = 0;
 for (const [file, { active, cls }] of Object.entries(PAGES)) {
@@ -55,6 +56,16 @@ for (const [file, { active, cls }] of Object.entries(PAGES)) {
   // Footer is optional (graph has none); standardize it where present.
   if (FOOTER_RE.test(html)) {
     html = html.replace(FOOTER_RE, `$1${FOOTER_TEXT}$2`);
+  }
+
+  // Favicon: replace an existing tag in place, or insert one before </head>.
+  if (FAVICON_RE.test(html)) {
+    html = html.replace(FAVICON_RE, FAVICON_LINK);
+  } else if (html.includes('</head>')) {
+    html = html.replace('</head>', `  ${FAVICON_LINK}\n</head>`);
+  } else {
+    console.error(`build-chrome: ✗ no </head> to stamp favicon into ${file}`);
+    process.exitCode = 1;
   }
 
   fs.writeFileSync(p, html, 'utf8');

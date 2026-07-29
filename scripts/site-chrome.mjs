@@ -24,3 +24,7 @@ export function navHtml(activeId = null, cls = 'nav-btn') {
 }
 
 export const FOOTER_TEXT = '© 2026 J.L. Bonebakker · Focus2Flow B.V.';
+
+// Single source of truth for the site favicon, stamped into every page's
+// <head> by build-chrome.mjs. SVG-only by design — see docs/favicon.svg.
+export const FAVICON_LINK = '<link rel="icon" type="image/svg+xml" href="favicon.svg">';
