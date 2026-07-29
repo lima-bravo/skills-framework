@@ -1,6 +1,6 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-07-28 | 286 skills | 16 categories | 1241 graph connections -->
+<!-- Last updated: 2026-07-29 | 286 skills | 16 categories | 1241 graph connections -->
 
 ## What this framework is
 

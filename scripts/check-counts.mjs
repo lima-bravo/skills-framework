@@ -124,6 +124,12 @@ const A = [
   ['docs/index.html', /stat-n">(\d+)<\/span><div class="stat-l">Graph Connections/g, connections],
   ['docs/index.html', /stat-n">(\d+)<\/span><div class="stat-l">Sources &amp; References/g, refs],
 
+  // docs/index.html — prose mentions outside the stat tiles (drifted silently once already: stayed
+  // at 245/267 through several stat-tile-only updates because nothing checked these three spots).
+  ['docs/index.html', /content="(\d+) mental model cards for structured executive thinking/g, nonChainCards],
+  ['docs/index.html', /<p>(\d+) mental model cards for structured executive thinking/g, nonChainCards],
+  ['docs/index.html', /Browse or search all (\d+) cards \((\d+) mental models \+ (\d+) chains\)/g, [totalSkills, nonChainCards, chains]],
+
 ];
 
 // Skills Reference/training-guide.md — category table: one row per manifest category.
