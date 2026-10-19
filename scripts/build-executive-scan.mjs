@@ -6,6 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { loadManifest, buildLookups } from './lib/manifest.mjs';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
@@ -58,7 +59,7 @@ function hydrateDimensions(data, lookups) {
 }
 
 function main() {
-  const template = fs.readFileSync(TEMPLATE, 'utf8');
+  const template = readText(TEMPLATE);
   if (!template.includes('__DIMENSIONS_JSON__')) {
     throw new Error('template missing __DIMENSIONS_JSON__');
   }

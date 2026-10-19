@@ -6,6 +6,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -46,8 +47,8 @@ function deckMetrics(skills) {
 
 function main() {
   const write = process.argv.includes('--write');
-  const deckHtml = fs.readFileSync(DECK, 'utf8');
-  const graphHtml = fs.readFileSync(GRAPH, 'utf8');
+  const deckHtml = readText(DECK);
+  const graphHtml = readText(GRAPH);
   const skills = extractDeckSkills(deckHtml);
   const graph = extractGraph(graphHtml);
   const skillLinks = graph.links.filter(

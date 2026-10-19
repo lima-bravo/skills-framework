@@ -6,6 +6,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -103,7 +104,7 @@ function copyReference(sourceFile, skillDir) {
   }
   const slug = slugFromFile(sourceFile);
   const dest = path.join(skillDir, 'references', `${slug}.md`);
-  const md = stripDeckFooter(fs.readFileSync(src, 'utf8'));
+  const md = stripDeckFooter(readText(src));
   writeFile(dest, md);
   return `references/${slug}.md`;
 }
@@ -136,7 +137,7 @@ function buildToolkitBody(toolkit, manifest) {
     if (!fs.existsSync(srcPath)) {
       throw new Error(`Toolkit ${toolkit.slug}: missing source ${source}`);
     }
-    const md = fs.readFileSync(srcPath, 'utf8');
+    const md = readText(srcPath);
     const sections = parseSections(md);
     const meta = Object.entries(manifest.skills).find(([f]) => f === source)?.[1];
     const label = meta?.name ?? slugFromFile(source);
@@ -213,7 +214,7 @@ function buildChainBody(chainFile, displayName, steps) {
     lines.push('');
   }
 
-  const failureSection = parseSections(fs.readFileSync(path.join(REF_DIR, chainFile), 'utf8')).find(
+  const failureSection = parseSections(readText(path.join(REF_DIR, chainFile))).find(
     (s) => /failure modes/i.test(s.title) || /key failure/i.test(s.body.slice(0, 80)),
   );
   if (failureSection && /failure modes/i.test(failureSection.body)) {
@@ -339,7 +340,7 @@ function writeSkill(pluginId, slug, fm, body, referenceFiles = []) {
 
 function writeChainSourceRef(chainFile, skillDir) {
   const src = path.join(REF_DIR, chainFile);
-  const md = stripDeckFooter(fs.readFileSync(src, 'utf8'));
+  const md = stripDeckFooter(readText(src));
   writeFile(path.join(skillDir, 'references', 'source.md'), md);
 }
 
@@ -370,7 +371,7 @@ function main() {
       continue;
     }
 
-    const md = fs.readFileSync(path.join(REF_DIR, file), 'utf8');
+    const md = readText(path.join(REF_DIR, file));
     const steps = parseChainSteps(md);
     const description =
       config.chainDescriptionOverrides?.[slug] ??

@@ -5,6 +5,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { REF_DIR } from './manifest.mjs';
 import { parseSkillMarkdown } from './parse-skill.mjs';
+import { readText } from './read-text.mjs';
 
 export function deriveRefs(manifest) {
   const raw = [];
@@ -12,7 +13,7 @@ export function deriveRefs(manifest) {
   for (const [file, meta] of Object.entries(manifest.skills)) {
     const full = path.join(REF_DIR, file);
     if (!fs.existsSync(full)) continue;
-    const md = fs.readFileSync(full, 'utf8');
+    const md = readText(full);
     const { references } = parseSkillMarkdown(md, { includeReferences: true });
 
     for (const ref of references) {

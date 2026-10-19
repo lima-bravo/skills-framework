@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { execSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
@@ -29,7 +30,7 @@ function checkDuplicateHeadings(dirs) {
   for (const d of dirs) {
     const file = path.join(d, 'SKILL.md');
     if (!fs.existsSync(file)) continue;
-    const headings = (fs.readFileSync(file, 'utf8').match(/^## .+$/gm) || []).map((h) =>
+    const headings = (readText(file).match(/^## .+$/gm) || []).map((h) =>
       h.trim(),
     );
     const seen = new Set();

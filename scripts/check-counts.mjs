@@ -16,6 +16,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -47,7 +48,7 @@ for (const v of Object.values(manifest.skills)) {
 let connections = null;
 const graphPath = path.join(ROOT, 'docs', 'graph.html');
 if (fs.existsSync(graphPath)) {
-  const m = fs.readFileSync(graphPath, 'utf8').match(/(\d+)\s+connections/i);
+  const m = readText(graphPath).match(/(\d+)\s+connections/i);
   if (m) connections = Number(m[1]);
 }
 
@@ -168,7 +169,7 @@ for (const [rel, re, expectRaw] of A) {
     continue;
   }
   const expect = Array.isArray(expectRaw) ? expectRaw : [expectRaw];
-  const text = fs.readFileSync(file, 'utf8');
+  const text = readText(file);
   let m;
   let matched = 0;
   re.lastIndex = 0;

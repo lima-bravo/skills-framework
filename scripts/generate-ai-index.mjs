@@ -6,6 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { loadManifest } from './lib/manifest.mjs';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REF = path.join(__dirname, '..', 'Skills Reference');
@@ -16,7 +17,7 @@ const OUT = path.join(REF, '_ai-index.md');
 function readConnectionsFromGraph() {
   const graphPath = path.join(__dirname, '..', 'docs', 'graph.html');
   if (!fs.existsSync(graphPath)) return null;
-  const html = fs.readFileSync(graphPath, 'utf8');
+  const html = readText(graphPath);
   const m = html.match(/(\d+)\s+connections/i);
   return m ? Number(m[1]) : null;
 }
@@ -60,7 +61,7 @@ function main() {
   ).length;
   const connections = readConnectionsFromGraph();
 
-  let preamble = fs.readFileSync(PREAMBLE, 'utf8');
+  let preamble = readText(PREAMBLE);
   const header = `<!-- Last updated: ${new Date().toISOString().slice(0, 10)} | ${totalSkills} skills | ${categories} categories | ${connections ?? '?'} graph connections -->`;
   preamble = preamble.replace('<!-- GENERATED_HEADER -->', header);
   preamble = preamble.replace(
@@ -69,7 +70,7 @@ function main() {
   );
 
   const inventory = generateInventory(manifest);
-  const clusters = fs.readFileSync(CLUSTERS, 'utf8');
+  const clusters = readText(CLUSTERS);
   const footer = `*Skills Framework · ${totalSkills} skills · ${categories} categories · \`skills-manifest.json\` is authoritative*`;
   const clustersOut = clusters.replace('<!-- GENERATED_FOOTER -->', footer);
 

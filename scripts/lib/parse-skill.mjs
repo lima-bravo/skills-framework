@@ -7,6 +7,7 @@ import remarkParse from 'remark-parse';
 import { toString } from 'mdast-util-to-string';
 import { parseConnectionLines } from './connections.mjs';
 import { parseFrontmatter, splitFrontmatter } from './frontmatter.mjs';
+import { readText } from './read-text.mjs';
 
 function stripFooter(md) {
   return md.replace(/\n\*Part of[\s\S]*$/i, '').trim();
@@ -206,6 +207,6 @@ function parseReferenceLines(body) {
 }
 
 export function readAndParseSkill(filePath, opts) {
-  const md = fs.readFileSync(filePath, 'utf8');
+  const md = readText(filePath);
   return parseSkillMarkdown(md, opts);
 }

@@ -9,6 +9,7 @@ import { fileURLToPath } from 'node:url';
 import { parseSkillMarkdown, extractSectionRaw } from './lib/parse-skill.mjs';
 import { loadManifest } from './lib/manifest.mjs';
 import { applyBibliography } from './lib/build-bibliography.mjs';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -190,7 +191,7 @@ function previewFromMd(md) {
 
 function main() {
   const manifest = applyBibliography(loadManifest());
-  const template = fs.readFileSync(TEMPLATE, 'utf8');
+  const template = readText(TEMPLATE);
 
   const byPath = new Map();
   const byName = new Map();
@@ -203,7 +204,7 @@ function main() {
 
   const skills = [];
   for (const [file, meta] of Object.entries(manifest.skills)) {
-    const md = fs.readFileSync(path.join(REF_DIR, file), 'utf8');
+    const md = readText(path.join(REF_DIR, file));
     const tagline = parseTagline(md) || '';
     const preview = previewFromMd(md);
     const modal = buildModal(md, file, byPath, byName, byId);

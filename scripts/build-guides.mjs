@@ -6,6 +6,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -218,7 +219,7 @@ function extractTitleAndSubtitle(md) {
 // ── Build one guide page ──────────────────────────────────────────────────────
 
 function buildGuide(mdFile, outFile) {
-  const md = fs.readFileSync(path.join(REF_DIR, mdFile), 'utf8');
+  const md = readText(path.join(REF_DIR, mdFile));
   const { title, subtitle } = extractTitleAndSubtitle(md);
   const bodyHtml = mdToHtml(md);
 

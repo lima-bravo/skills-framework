@@ -9,10 +9,11 @@ import { REF_DIR, loadManifest, buildLookups } from './lib/manifest.mjs';
 import { resolveConnectionTarget } from './lib/connections.mjs';
 import { parseSkillMarkdown } from './lib/parse-skill.mjs';
 import { validateFrontmatterSync } from './lib/frontmatter.mjs';
+import { readText } from './lib/read-text.mjs';
 
 const STRICT = process.argv.includes('--strict');
 const SCHEMA = JSON.parse(
-  fs.readFileSync(path.join(REF_DIR, 'schemas/skill-card.v1.json'), 'utf8'),
+  readText(path.join(REF_DIR, 'schemas/skill-card.v1.json')),
 );
 
 const STANDARD_SECTIONS = SCHEMA.cardTypes.standard.requiredSections;
@@ -149,7 +150,7 @@ function main() {
       continue;
     }
 
-    const md = fs.readFileSync(full, 'utf8');
+    const md = readText(full);
     if (!md.startsWith('---\n')) {
       fail(file, 'missing YAML frontmatter (Phase 7 required)');
       continue;

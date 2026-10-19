@@ -17,6 +17,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { navHtml, FOOTER_TEXT, FAVICON_LINK } from './site-chrome.mjs';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DOCS = path.resolve(__dirname, '..', 'docs');
@@ -44,7 +45,7 @@ for (const [file, { active, cls }] of Object.entries(PAGES)) {
     process.exitCode = 1;
     continue;
   }
-  let html = fs.readFileSync(p, 'utf8');
+  let html = readText(p);
 
   if (!NAV_RE.test(html)) {
     console.error(`build-chrome: ✗ no <!--NAV-->…<!--/NAV--> markers in ${file}`);

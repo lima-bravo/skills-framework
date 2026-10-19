@@ -10,6 +10,7 @@ import {
   validateFrontmatterSync,
 } from './frontmatter.mjs';
 import { parseSkillMarkdown } from './parse-skill.mjs';
+import { readText } from './read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REF = path.resolve(__dirname, '../../Skills Reference');
@@ -19,7 +20,7 @@ const manifest = loadManifest();
 const meta = manifest.skills[PILOT];
 assert(meta, 'pilot card in manifest');
 
-const md = fs.readFileSync(path.join(REF, PILOT), 'utf8');
+const md = readText(path.join(REF, PILOT));
 const parsed = parseSkillMarkdown(md, { includeReferences: true });
 
 assert(parsed.connections.length >= 1, 'pilot has connections');

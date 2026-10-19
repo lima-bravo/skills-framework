@@ -11,6 +11,7 @@ import { buildLookups, loadManifest } from './lib/manifest.mjs';
 import { applyBibliography } from './lib/build-bibliography.mjs';
 import { resolveConnectionTarget } from './lib/connections.mjs';
 import { parseSkillMarkdown } from './lib/parse-skill.mjs';
+import { readText } from './lib/read-text.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -33,7 +34,7 @@ function truncate(s, len = 60) {
 
 function main() {
   const manifest = applyBibliography(loadManifest());
-  const template = fs.readFileSync(TEMPLATE, 'utf8');
+  const template = readText(TEMPLATE);
 
   if (!template.includes('__GRAPH_JSON__')) {
     throw new Error('graph.template.html missing __GRAPH_JSON__ placeholder');
@@ -60,7 +61,7 @@ function main() {
       console.warn(`  WARN: missing file ${file}, skipping`);
       continue;
     }
-    const md = fs.readFileSync(mdPath, 'utf8');
+    const md = readText(mdPath);
     const parsed = parseSkillMarkdown(md);
     const tagline = parsed.tagline || '';
 
