@@ -15,6 +15,14 @@ connections:
     rationale: the Six Hats enforces cognitive mode separation in a group setting, preventing convergent judgment from contaminating divergent exploration.
   - id: 223
     rationale: the Black Hat role benefits from steelmanning discipline; without it, the Black Hat produces weak objections rather than genuine challenges to the dominant view.
+  - id: 259
+    rationale: the Blue Hat is a facilitation role; Six Hats is one structured protocol in the facilitator's toolkit, alongside Liberating Structures, for controlling who thinks what and when.
+  - id: 224
+    rationale: the Black Hat is a lightweight, in-room red team; when the stakes justify it, escalate from a Black Hat round to an independent red team with no stake in the plan.
+  - id: 104
+    rationale: the Red Hat only surfaces honest gut reactions where it is safe to voice them; in low-safety rooms, Red Hat contributions need anonymity or silent write-down to be real.
+  - id: 285
+    rationale: Six Hats has the group think in the same mode out loud, which can still herd judgments toward the first or loudest speaker within a hat; decision hygiene's fix — independent judgment before discussion — applies inside each hat.
 references:
   - title: Six Thinking Hats
     authorYear: Edward de Bono (1985)
@@ -56,6 +64,7 @@ In conventional debate, different people are metaphorically wearing different ha
 - **Treating it as a checklist.** Running through all six hats because it's the process, rather than selecting the hats most relevant to the decision. Not every decision needs all six.
 - **Black Hat dominance in conservative cultures.** In organizations that reward caution, the Black Hat discussion absorbs most of the meeting time, and Yellow, Red, and Green are rushed. The facilitator must actively protect the other hats.
 - **Conflating hats.** Slipping from Yellow (benefits) into advocacy (argue for the option) or from Black (caution) into the Red (emotional opposition). Remind participants of each hat's specific mode.
+- **Herding within a hat.** Everyone wearing the same hat at once removes adversarial debate, but not anchoring: within each hat, the first or most senior voice sets the direction and the rest elaborate on it. Parallel thinking can produce the appearance of breadth while the actual range of judgments collapses. Have each person write their contribution silently for a minute before anyone speaks, then share round-robin.
 
 ---
 

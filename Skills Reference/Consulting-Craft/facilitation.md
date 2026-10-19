@@ -17,6 +17,8 @@ connections:
     rationale: MECE issue-tree construction can be done as a facilitated group activity; this distributes the framing work and increases the likelihood that important branches are not missed by a single analyst.
   - id: 164
     rationale: workshop and discovery phases of the engagement lifecycle require facilitation design; the structure of the session determines whose intelligence the work draws on.
+  - id: 13
+    rationale: Six Thinking Hats is a facilitation protocol for polarised discussions — the Blue Hat is the facilitator's role, and sequencing the other hats separates fact, feeling, risk, benefit, and alternatives so the room stops arguing past itself.
 references:
   - title: "The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation"
     authorYear: Henri Lipmanowicz & Keith McCandless (2014)

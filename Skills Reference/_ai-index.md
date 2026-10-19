@@ -1,6 +1,6 @@
 # Skills Framework — AI Index
 <!-- Machine-readable orientation file. Designed for minimal token cost. -->
-<!-- Last updated: 2026-07-29 | 286 skills | 16 categories | 1241 graph connections -->
+<!-- Last updated: 2026-10-19 | 286 skills | 16 categories | 1245 graph connections -->
 
 ## What this framework is
 
@@ -99,6 +99,7 @@ Format: `id·Name` — file at `Category/filename.md`
 | Rule/process keeps failing on exceptions | 267·Requisite Variety → 118·Mission Command → 122·Cynefin Framework |
 | Forecast feels optimistic | 206·Base Rate Neglect → 160·Reference Class Forecasting → 115·Planning Fallacy |
 | Belief needs stress-testing | 223·Steelmanning → 204·Falsification → 224·Red Teaming |
+| Group stuck in adversarial debate | 13·Six Thinking Hats → 259·Facilitation → 223·Steelmanning |
 | Plan needs adversarial challenge | 10·Pre-mortem → 224·Red Teaming → 204·Falsification |
 | Hypothesis needs live evidence | 225·A/B Testing → 72·Experiment Design → 63·Build-Measure-Learn |
 | Confidence levels need auditing | 211·Calibration → 7·Probabilistic Thinking → 5·Circle of Competence |

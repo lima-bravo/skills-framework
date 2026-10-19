@@ -13,6 +13,8 @@ connections:
     rationale: a structured, decomposed decision process — the decision-hygiene fix for noise — depends on clear decision rights being assigned in the first place; RACI is the organisational scaffolding that makes independent, structured judgment possible before informal discussion collapses it.
   - id: 200
     rationale: a distinct distortion in judging other people specifically — attributing behaviour to character rather than circumstance — that can compound with judgment noise in evaluative contexts like performance reviews, but operates through a different mechanism.
+  - id: 13
+    rationale: Six Hats structures group thinking by mode but keeps it conversational, so within each hat the group can still converge on the first or loudest voice; a silent, independent write-down before sharing in each hat applies decision hygiene to the protocol.
 references:
   - title: "Noise: A Flaw in Human Judgment"
     authorYear: Daniel Kahneman, Olivier Sibony & Cass R. Sunstein (2021)

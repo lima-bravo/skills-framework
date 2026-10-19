@@ -27,6 +27,8 @@ connections:
     rationale: "once a profit pool map identifies an attractive position, red-team it: if the pool is this profitable, why hasn't it already been contested away?"
   - id: 268
     rationale: find the silence is red teaming pointed at a vendor's pitch instead of your own plan — the teardown supplies the specific questions ("show me the verification block") a red team would otherwise have to invent from scratch.
+  - id: 13
+    rationale: the Black Hat is a lightweight, in-room version of red teaming — useful when an independent red team is not justified, but limited because the people challenging the plan are the people who own it.
 references:
   - title: "Red Team: How to Succeed by Thinking Like the Enemy"
     authorYear: Micah Zenko (2015)
